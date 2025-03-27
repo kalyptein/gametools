@@ -1,10 +1,5 @@
-$name: Nomicon: Hellenica City Names
-
-$name_set_1
-Name 1: [name_set_1_first][name_set_1_second]
-
-$name_set_2
-Name 2: [name_set_2_first][name_set_2_second]
+$name : Nomicon: Hellenica City Names
+$description : https://orteil.dashnet.org/randomgen/?gen=raw.githubusercontent.com/kalyptein/gametools/refs/heads/main/tables/nomicon/hellenica/hellenica-cities.txt
 
 $name_set_1_first
 A
@@ -414,3 +409,9 @@ threpolis
 thris
 thros
 thros
+
+$>name_set_1
+Name 1: [name_set_1_first][name_set_1_second]
+
+$>name_set_2
+Name 2: [name_set_2_first][name_set_2_second]
