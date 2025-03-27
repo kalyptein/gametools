@@ -1,7 +1,7 @@
 $name : Nomicon: Hellenica City Names
 $description : https://orteil.dashnet.org/randomgen/?gen=raw.githubusercontent.com/kalyptein/gametools/refs/heads/main/tables/nomicon/hellenica/hellenica-cities.txt
 
-$name_set_1_first
+$nameset_a_first
 A
 Ai
 Aia
@@ -103,7 +103,7 @@ Zia
 Zy
 Zya
 
-$name_set_1_second
+$nameset_a_second
 bais
 baros
 bion
@@ -206,7 +206,7 @@ stros
 stralo
 
 
-$name_set_2_first
+$nameset_b_first
 A
 Ai
 Aia
@@ -308,7 +308,7 @@ Zia
 Zy
 Zya
 
-$name_set_2_second
+$nameset_b_second
 bais
 baros
 bion
@@ -410,8 +410,8 @@ thris
 thros
 thros
 
-$>name_set_1
-Name 1: [name_set_1_first][name_set_1_second]
+$>city_name_a
+Name 1: [nameset_a_first][nameset_a_second]
 
-$>name_set_2
-Name 2: [name_set_2_first][name_set_2_second]
+$>city_name_b
+Name 2: [nameset_b_first][nameset_b_second]
