@@ -410,8 +410,12 @@ thris
 thros
 thros
 
+$>city_name_both
+Name A: [nameset_a_first][nameset_a_second]
+Name B: [nameset_b_first][nameset_b_second]
+
 $>city_name_a
-Name 1: [nameset_a_first][nameset_a_second]
+Name A: [nameset_a_first][nameset_a_second]
 
 $>city_name_b
-Name 2: [nameset_b_first][nameset_b_second]
+Name B: [nameset_b_first][nameset_b_second]
