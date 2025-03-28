@@ -1,5 +1,6 @@
 $name: Nomicon: Hellenica City Names
 $description: https://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/kalyptein/gametools/refs/heads/main/tables/nomicon/hellenica/hellenica-cities.txt
+$amount: 1
 
 $nameset_a_first
 A
@@ -411,8 +412,7 @@ thros
 thros
 
 $>city_name_both
-Name A: [nameset_a_first][nameset_a_second]
-Name B: [nameset_b_first][nameset_b_second]
+<ul><li>Name A: [nameset_a_first][nameset_a_second]</li><li>Name B: [nameset_b_first][nameset_b_second]</li></ul>
 
 $>city_name_a
 Name A: [nameset_a_first][nameset_a_second]
