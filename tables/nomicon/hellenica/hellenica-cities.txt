@@ -411,11 +411,11 @@ thris
 thros
 thros
 
-$>city_name_both
-<ul><li>Name A: [nameset_a_first][nameset_a_second]</li><li>Name B: [nameset_b_first][nameset_b_second]</li></ul>
-
 $>city_name_a
 Name A: [nameset_a_first][nameset_a_second]
 
 $>city_name_b
 Name B: [nameset_b_first][nameset_b_second]
+
+$>city_name_both
+Name A: [nameset_a_first][nameset_a_second]<br>Name B: [nameset_b_first][nameset_b_second]
