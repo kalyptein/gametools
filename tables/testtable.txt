@@ -1,4 +1,5 @@
-$name : randomgen test table
+$name: randomgen test table
+$description: https://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/kalyptein/gametools/refs/heads/main/tables/testtable.txt
 
 $testset
 alpha

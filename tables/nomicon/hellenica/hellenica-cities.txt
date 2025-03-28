@@ -1,5 +1,5 @@
-$name : Nomicon: Hellenica City Names
-$description : https://orteil.dashnet.org/randomgen/?gen=raw.githubusercontent.com/kalyptein/gametools/refs/heads/main/tables/nomicon/hellenica/hellenica-cities.txt
+$name: Nomicon: Hellenica City Names
+$description: https://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/kalyptein/gametools/refs/heads/main/tables/nomicon/hellenica/hellenica-cities.txt
 
 $nameset_a_first
 A
