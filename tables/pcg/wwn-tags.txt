@@ -1,0 +1,223 @@
+$name: WWN: Court, Community, Ruin, and Wilderness Tags
+$description: https://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/kalyptein/gametools/refs/heads/main/tables/pcg/wwn-tags.txt
+$amount: 1
+
+$community_tag
+Ancient Infrastructure
+Bad Neighbors
+Blood Feud
+Brilliant Innovation
+Broken Spirits
+Corrupt Laws
+Criminal Bosses
+Cultural Center
+Cursed Circumstances
+Decadent Locals
+Decaying Working
+Abhuman Populace
+Dueling Lords
+Enemy Within
+Faded Remnant
+Fallen Prosperity
+Foreign Enclave
+Guild Oligarchy
+Heavy Fortification
+Hidden Ruler
+Hostile Terrain
+Incompetent Leaders
+Inherited Architecture
+Inhuman Cooperation
+Lawless Class
+Magical Academy
+Martial Tradition
+Miserable Penury
+Mistreated Blighted
+Monstrous Tribute
+Neglectful Ruler
+New Industry
+Pilgrimage Site
+Plagued City
+Population Boom
+Raider Scourge
+Rebel Stronghold
+Rigid Castes
+Scars of War
+Seat of Rule
+Secret Treachery
+Sinking City
+Theocratic Authorities
+Toxic Economy
+Trade Hub
+Unique Product
+Upstart Faith
+Warring Council
+Widespread Prosperity
+Xenophobic Locals
+ 
+$wilderness_tag
+Abandoned Village
+Ancient Guardians
+Ancient Monument
+Arratu Land
+Bandit Lair
+Beast Swarm
+Blighted Tribe
+Broken Infrastructure
+Chokepoint
+Collapsed Deep
+Criminal Meet
+Cryptic Art
+Cursed Land
+Decayed Working
+Abhuman Community
+Devil Grove
+Disused Mine
+Healing Terrain
+Hermitage
+Historical Survival
+Isolated Academy
+Labyrinthine Tangle
+Lost Battlefield
+Lost City
+Magical Springs
+Migration Path
+Military Outpost
+Monstrous Beast
+Motherlode
+Nomad Camp
+Eldritch / Outsider Enclave
+Overgrown Tomb
+Perilous Path
+Pilgrimage Site
+Precious Game
+Rampant Experiment
+Refugee Camp
+Remnant Road / Port
+Remote Monastery
+Ruined Fortification
+Savage Hamlet
+Sculpted Terrain
+Seductive Peril
+Taboo Territory
+Toxic Ruins
+Treacherous Terrain
+Twisted Fauna
+Uncanny Weather
+Working Wreckage
+Zealot Colony
+ 
+$ruin_tag
+Ancient Archives
+Aspiring Conqueror
+Automaton Servants
+Birthing Cyst
+Bitter Remnants
+Civil War
+Cyclical Doom
+Decrepit Structure
+Desperate Hunger
+Dire Tombs
+Distant Gate
+Dungeon Heart
+Experimental Lab
+Failed Intrusion
+Fallen Sanctuary
+False Front
+Feral Magic
+Flooded Halls
+Freshly Looted
+Friendly Foes
+Hidden Within
+Hiveminded Natives
+Hospitable Natives
+Hostile Environment
+Infectious Miasma
+Invincible Delusion
+Lethal Treasure
+Limited Access
+Lingering Curse
+Living Dungeon
+Lost Colony
+Magical Wonder
+Monster Forge
+Outsider Domain
+Precious Resource
+Raider Lair
+Recruiting Drive
+Religious Zealots
+Rigid Hierarchy
+Royal Refuge
+Sacrificial Bargain
+Sealed Evil
+Secret Alliance
+Shifting Interior
+Spatial Flux
+Surfacer Hideout
+Taboo Place
+Things Below
+Useless Treasure
+Wizard's Lair
+ 
+$court_tag
+Affliction's Mark
+Ancestral Obligation
+Awesome Legitimacy
+Awkward Birth
+Blandished Leadership
+Cadet Branches
+Capricious Orders
+Cultural Insignia
+Daring Ambition
+Dark Secret
+Decadent Court
+Devil's Bargain
+Diplomatic Demands
+Disputed Inheritance
+Excess Heirs
+False Prize
+Fatal Extravagance
+Forbidden Romance
+Foreign Ties
+Gate Keeper
+Hidden Blight
+Hopeless Rival
+Impure Blood
+Inadequate Tools
+Inept Ruler
+Iron Law
+Lost Purpose
+Magical Subversion
+Ministerial Capture
+New Generation
+New Opportunity
+Outside Debts
+Overextended Grasp
+Poisonous Cliques
+Priestly Influence
+Proxy Speaker
+Rampant Corruption
+Recent Brutality
+Regency Council
+Restive Lessers
+Rival Dreams
+Rival Power
+Ruling Regalia
+Runaway Rule
+Shining Successor
+Splendid Seat
+Sublime Skill
+Sudden Strength
+Threatened Violence
+Waning Wealth
+
+$>wilderness
+[wilderness_tag]
+
+$>community
+[community_tag]
+
+$>ruin
+[ruin_tag]
+
+$>court
+[court_tag]
