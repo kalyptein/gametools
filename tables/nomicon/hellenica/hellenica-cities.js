@@ -3,14 +3,15 @@
 const utils = require("../../../site/scripts/utils.js");
 
 exports.cityNameA = () => {
-    return utils.pick(this.nameset_a_first) + utils.pick(this.nameset_a_second)
+    return utils.pick(this.nameset_a_first).description + utils.pick(this.nameset_a_second).description
 }
 
 exports.cityNameB = () => {
-    return utils.pick(this.nameset_b_first) + utils.pick(this.nameset_b_second)
+    return utils.pick(this.nameset_b_first).description + utils.pick(this.nameset_b_second).description
 }
 
 exports.nameset_a_first = utils.makeTable({
+    name: "nameset_a_first",
     content: `
 A
 Ai
@@ -116,6 +117,7 @@ Zya
 })
 
 exports.nameset_a_second = utils.makeTable({
+    name: "nameset_a_second",
     content: `
 bais
 baros
@@ -221,6 +223,7 @@ stralo
 })
 
 exports.nameset_b_first  = utils.makeTable({
+    name: "nameset_b_first",
     content: `
 A
 Ai
@@ -326,6 +329,7 @@ Zya
 })
 
 exports.nameset_b_second = utils.makeTable({
+    name: "nameset_b_second",
     content: `
 bais
 baros
