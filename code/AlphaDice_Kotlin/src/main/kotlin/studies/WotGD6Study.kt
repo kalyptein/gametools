@@ -83,7 +83,7 @@ class WotGD6Study(var size: Int, var mod: Int = 0) : DeterministicStudy() {
             pool.dice.add(Die("die",6))
         }
 
-        difs.forEach { dif -> result.outcomes[dif.toString()] = Outcome(dif.toString()) }
+        difs.forEach { dif -> results["result"]!!.outcomes[dif.toString()] = Outcome(dif.toString()) }
     }
 
     override fun loopInit() {

@@ -13,7 +13,7 @@ abstract class Study {
 
     val pool = DicePool()
 //    val result: Result = Result()
-    val results = ArrayList<Result>()
+    val results = LinkedHashMap<String,Result>()
     var end = false
 
     /** Sorts outcome names for report, defaults to string natural order of outcome name */
@@ -42,7 +42,7 @@ abstract class Study {
 
         println("\n$name\n")
 
-        results.forEach { result ->
+        results.values.forEach { result ->
             var list = result.outcomes.values.toList()
             if (outcomeComparator != null) { list = list.sortedWith(outcomeComparator!!) }
 

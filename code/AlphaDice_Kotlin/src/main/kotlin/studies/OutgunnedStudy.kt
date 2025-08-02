@@ -64,7 +64,7 @@ class OutgunnedStudy(_dice: Int) : DeterministicStudy() {
                 oc.tag("gamble", 0)
                 oc.tag("successes", s)
                 oc.tag("phase", p)
-                result.outcomes[oc.name] = oc
+                results["result"]!!.outcomes[oc.name] = oc
             }
         }
     }
@@ -84,7 +84,7 @@ class OutgunnedStudy(_dice: Int) : DeterministicStudy() {
             // initial roll
             phase = 0
             gatherSets()
-            result.addOutcome(tally())
+            results["result"]!!.addOutcome(tally())
             var priorSuccesses = successes
 
             // reroll
@@ -93,7 +93,7 @@ class OutgunnedStudy(_dice: Int) : DeterministicStudy() {
 
             // free reroll
             phase = 1
-            result.addOutcome(tally())
+            results["result"]!!.addOutcome(tally())
 
             // risky reroll
             phase = 2
@@ -107,7 +107,7 @@ class OutgunnedStudy(_dice: Int) : DeterministicStudy() {
                     }
                 }
             }
-            result.addOutcome(tally())
+            results["result"]!!.addOutcome(tally())
             priorSuccesses = successes
 
             // all-in (allowed if successes not already zeroed out)
@@ -124,13 +124,13 @@ class OutgunnedStudy(_dice: Int) : DeterministicStudy() {
             else {
                 successes = 0
             }
-            result.addOutcome(tally())
+            results["result"]!!.addOutcome(tally())
 
             next()
         }
 
         // calc gamble hit average
-        result.outcomes.values.forEach {
+        results["result"]!!.outcomes.values.forEach {
             val g = it.tags["gamble"] as Int
             it.tag("gamble", g.toDouble() / it.count.toDouble())
         }
@@ -149,7 +149,7 @@ class OutgunnedStudy(_dice: Int) : DeterministicStudy() {
         }
 
         val name = "$successLevel ${phases[phase]}"
-        val oc = result.outcomes[name]!!
+        val oc = results["result"]!!.outcomes[name]!!
         val oneTotal = oc.tags["gamble"] as Int
         oc.tag("gamble", oneTotal + ones)
         return oc

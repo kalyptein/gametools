@@ -58,7 +58,7 @@ class OutgunnedMonteCarloStudy(_iter: Int, _dice: Int) : MonteCarloStudy(_iter) 
                 oc.tag("gamble", 0)
                 oc.tag("successes", s)
                 oc.tag("phase", p)
-                result.outcomes[oc.name] = oc
+                results["result"]!!.outcomes[oc.name] = oc
             }
         }
     }
@@ -75,7 +75,7 @@ class OutgunnedMonteCarloStudy(_iter: Int, _dice: Int) : MonteCarloStudy(_iter) 
 
         for (i: Int in 1..iterations) {
             loopInit()
-            result.totalCount++
+            results["result"]!!.totalCount++
 
             // initial roll
             phase = 0
@@ -126,7 +126,7 @@ class OutgunnedMonteCarloStudy(_iter: Int, _dice: Int) : MonteCarloStudy(_iter) 
         }
 
         // calc gamble hit average
-        result.outcomes.values.forEach {
+        results["result"]!!.outcomes.values.forEach {
             val g = it.tags["gamble"] as Int
             if (it.count > 0) {
                 it.tag("gamble", g.toDouble() / it.count.toDouble())
@@ -147,7 +147,7 @@ class OutgunnedMonteCarloStudy(_iter: Int, _dice: Int) : MonteCarloStudy(_iter) 
         }
 
         val name = "$successLevel ${phases[phase]}"
-        val oc = result.outcomes[name]!!
+        val oc = results["result"]!!.outcomes[name]!!
         val oneTotal = oc.tags["gamble"] as Int
         oc.tag("gamble", oneTotal + ones)
         return oc
