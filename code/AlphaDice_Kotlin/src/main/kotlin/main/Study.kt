@@ -42,15 +42,17 @@ abstract class Study {
 
         println("\n$name\n")
 
-        var list = result.outcomes.values.toList()
-        if (outcomeComparator != null) { list = list.sortedWith(outcomeComparator!!) }
+        results.forEach { result ->
+            var list = result.outcomes.values.toList()
+            if (outcomeComparator != null) { list = list.sortedWith(outcomeComparator!!) }
 
-        println("iterations: ${result.totalCount}\n")
+            println("iterations: ${result.totalCount}\n")
 
-        list.forEach {
-            it.calcPercentage(result.totalCount)
-            val out = reportOutcome(it)
-            println(out)
+            list.forEach { outcome ->
+                outcome.calcPercentage(result.totalCount)
+                val out = reportOutcome(outcome)
+                println(out)
+            }
         }
     }
 }
