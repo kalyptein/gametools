@@ -1,0 +1,56 @@
+package main
+
+import kotlin.random.Random
+
+abstract class Study {
+
+    companion object {
+        val seed = System.currentTimeMillis()
+        val random = Random(seed)
+    }
+
+    abstract var name: String
+
+    val pool = DicePool()
+//    val result: Result = Result()
+    val results = ArrayList<Result>()
+    var end = false
+
+    /** Sorts outcome names for report, defaults to string natural order of outcome name */
+    open var outcomeComparator: Comparator<Outcome>? = Comparator { o1, o2 -> o1.name.compareTo(o2.name) }
+
+    /** Run study */
+    abstract fun run()
+
+    /** Set up initial conditions */
+    abstract fun init()
+
+    /** Initialize conditions at start of loop iteration */
+    abstract fun loopInit()
+
+    /** Advance to next dice pool state */
+    abstract fun next()
+
+    /** Calculate outcome value from current dice pool state */
+    abstract fun tally(): Outcome
+
+    /** Format outcome data for reporting */
+    abstract fun reportOutcome(oc: Outcome): String
+
+    /** Display study results */
+    open fun report() {
+
+        println("\n$name\n")
+
+        var list = result.outcomes.values.toList()
+        if (outcomeComparator != null) { list = list.sortedWith(outcomeComparator!!) }
+
+        println("iterations: ${result.totalCount}\n")
+
+        list.forEach {
+            it.calcPercentage(result.totalCount)
+            val out = reportOutcome(it)
+            println(out)
+        }
+    }
+}
