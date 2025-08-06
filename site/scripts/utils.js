@@ -6,74 +6,59 @@ var m = new rand.MersenneTwister();
 console.log("seed = " + m.seed)
 
 
+
+// This is external JavaScript code
+// document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
+
+
+
 exports.tables = {};
 
 const WEIGHT = 'weight'
 const RANGE = 'range'
 
-// split big string literal into a list
-// declare if this will be indexed by 
+// TODO
+// tables should be able to roll on subtables; replace [[table_name]] within the text of a description with a roll on the subtable
+//      recursive, until all [[entries]] are gone or failed to find the named table
+//
+// allow for multi-line descriptions on tables?  end line with some kind of indicator (\\ or whatever)
 
-// table = makeList(key=false, index='weight | range | undefined', key=false, content: string)
-    // index determines if the table includes weight (x-in-sum(x's)), range (x or x-y on the roll) and/or a string key
-    // [weight / range] [key (one word)] description
-        // include error checking for overlaps in the ranges
-    // if no range or weight is included, assume each line has a weight of 1
-
-
-// This is external JavaScript code
-// document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
 
 // regex pieces
 const gap = `\\s*`
 const key = `(\\S+)`
-const wt = `([0-9]+)`
+const weight = `([0-9]+)`
 const range = '(-?[0-9]+)' + gap + ':' + gap + '(-?[0-9]+)'
 
 const regex = {
-    key:    new RegExp(`^${key+gap}(.+)$`),
-    weight: new RegExp(`^${wt+gap}(.+)$`),
-    range:  new RegExp(`^${range+gap}(.+)$`),
-    weightAndKey: new RegExp(`^${wt+gap+key+gap}(.+)$`),
-    rangeAndKey:  new RegExp(`^${range+gap+key+gap}(.+)$`),
+    key:    new RegExp(`^${key+gap}(.+)$`),                         // textKey rest of line is description                   key the rest is description
+    weight: new RegExp(`^${weight+gap}(.+)$`),                      // weightNumber rest of line is description              3 the rest is description
+    range:  new RegExp(`^${range+gap}(.+)$`),                       // x:y rest of line is description                       2:7 the rest is description
+    weightAndKey: new RegExp(`^${weight+gap+key+gap}(.+)$`),        // weightNumber textKey rest of line is description      3 key the rest is description
+    rangeAndKey:  new RegExp(`^${range+gap+key+gap}(.+)$`),         // x-y textKey rest of line is description               2:7 key the rest is description
 }
 
-// const keyRegex =              new RegExp(`^([A-Za-z0-9_\\-]+)\\s+(.+)$`)                                    // textKey rest of line is description                   key the rest is description
-// const weightRegex =           new RegExp(`^([0-9]+)\\s+(.+)$`)                                              // weightNumber rest of line is description              3 the rest is description
-// const weightAndKeyRegex =     new RegExp(`^([0-9]+)\\s+([A-Za-z0-9_\\-]+)\\s+(.+)$`)                        // weightNumber textKey rest of line is description      3 key the rest is description
-// const rangeRegex =            new RegExp(`^(-?[0-9]+)\\s*:\\s*(-?[0-9]+)\\s+(.+)$`)                         // x:y rest of line is description                       2:7 the rest is description
-// const rangeAndKeyRangeRegex = new RegExp(`^(-?[0-9]+)\\s*:\\s*(-?[0-9]+)\\s+([A-Za-z0-9_\\-]+)\\s+(.+)$`)   // x-y textKey rest of line is description               2:7 key the rest is description
+class Table {
+    
+    constructor(content, name="new-table", index=undefined, keyed=false, defaultRoll=undefined) {
 
-/** Parse content to create a table (index = 'weight' | 'range' | undefined) */
-exports.makeTable = (content, name="new-table", index=undefined, keyed=false) => {
+        this.name = name
+        this.keys = {}
+        this.content = undefined
+        this.defaultRoll = defaultRoll
+        this.indexRange = [0, 0]
 
-    let table = {
-        name: name,
-        content: undefined,
-        index: undefined,
-        keys: {}
-    }
+        // choose regex
+        let re = undefined
+        switch (index) {
+            case WEIGHT: re = (keyed) ? regex.weightAndKey : regex.weight; break;
+            case RANGE: re = (keyed) ? regex.rangeAndKey : regex.range; break;
+            default: re = (keyed) ? regex.key : undefined; break;
+        }
 
-    let re = undefined
-    switch (index) {
-        case WEIGHT:
-            table.index = WEIGHT;
-            re = (keyed) ? regex.weightAndKey : regex.weight
-            break;
-        case RANGE: 
-            table.index = RANGE;
-            re = (keyed) ? regex.rangeAndKey : regex.range
-            break;
-        default:
-            table.index = WEIGHT;
-            re = (keyed) ? regex.key : undefined
-            break;
-    }
-
-    // split lines, trim whitespace, remove empty lines, parse w/ regex
-    let totalWeight = 0;
-    table.content = content.split('\n')
-        .map(line => {
+        // split lines, trim whitespace, remove empty lines, parse w/ regex
+        let currentIndex = 1
+        this.content = content.split('\n').map(line => {
             line = line.trim()
             if (!line) { return undefined }
 
@@ -85,54 +70,84 @@ exports.makeTable = (content, name="new-table", index=undefined, keyed=false) =>
             } else {
                 entry.description = parsed[parsed.length-1]
                 switch (index) {
-                    case WEIGHT: 
-                        entry.index = number(parsed[1])
-                        totalWeight += entry.index
-                        entry.key = (keyed) ? parsed[2] : ''
-                        break
                     case RANGE: 
                         entry.index = [ number(parsed[1]), number(parsed[2]) ]
+                        if (entry.index[0] > entry.index[1]) entry.index = [ entry.index[1], entry.index[0] ]       // given x:y, make sure x <= y
                         entry.key = (keyed) ? parsed[3] : ''
                         break
-                    default: 
-                        entry.index = 1
-                        totalWeight += entry.index
+                    case WEIGHT: 
+                        entry.index = [ currentIndex, currentIndex + number(parsed[1]) - 1 ]
+                        currentIndex = entry.index[1] + 1
+                        entry.key = (keyed) ? parsed[2] : ''
+                        break
+                    default:
+                        entry.index = [ currentIndex, currentIndex ]
+                        currentIndex = entry.index[1] + 1
                         entry.key = (keyed) ? parsed[1] : ''
                         break
                 }
+
+                if (isNaN(entry.index[0]) || isNaN(entry.index[1])) {
+                    if (this.keys[entry.key]) { console.warn(`NaN index in ${name}: ${line}`) }
+                    return undefined
+                }
+
+                this.indexRange[0] = Math.min(this.indexRange[0], entry.index[0])
+                this.indexRange[1] = Math.min(this.indexRange[1], entry.index[1])
+
                 if (entry.key) {
-                    if (table.keys[entry.key]) { console.warn(`Duplicate key ${entry.key} in ${table.name}`) }
-                    table.keys[entry.key] = entry
+                    if (this.keys[entry.key]) { console.warn(`Duplicate key ${entry.key} in ${name}: ${line}`) }
+                    this.keys[entry.key] = entry
                 }
             }
             return entry
         })
         .filter(line => line)
 
-    switch (table.index) {
-        case WEIGHT: 
-            table.totalWeight = totalWeight
-            // TODO turn weights into ranges?
-            break
-        case RANGE:
-            // TODO check for overlapping ranges
-            break
+        this.maxIndex = currentIndex
+
+        if (!this.defaultRoll) {
+            this.defaultRoll = () => Math.floor(m.random() * (this.indexRange[1] - this.indexRange[0])) + this.indexRange[0]
+        }
+
+        // TODO check for overlapping ranges?
+
+        // add to map of tables
+        if (exports.tables[name]) {
+            console.warn(`Duplicate table '${name}', overwriting...`)
+        }
+        exports.tables[name] = this
     }
 
-    if (exports.tables[name]) {
-        console.warn(`Duplicate table '${name}', overwriting...`)
+    /** Random choice from table; optionally using supplied roll */
+    pick(roll=undefined) {
+
+        switch (typeof roll) {
+            case "undefined":
+                roll = this.defaultRoll()
+                break
+            case "function":
+                roll = roll()
+                break
+        }
+
+        // TODO recursive rolls on subtables
+
+        let entry = this.content.find(entry => entry.index[0] >= roll && entry.index[1] <= roll)
+        return (entry) ? entry : { key: 'nullEntry', index: NaN, description: `index ${roll} not found on table ${this.name}` }
+        
     }
-    exports.tables[name] = table
 
-    return table
+    draw() {
+        // TODO pick w/o replacement, like a card draw
+    }
+
+    shuffle(cards=[]) {
+        // TODO put drawn "cards" back in table; if specific cards supplied, only shuffle those in
+    }
 }
 
-/** Random choice from table; optionally using supplied roll */
-exports.pick = (table, roll=undefined) => {
-    const randomIndex = Math.floor(m.random() * table.content.length)
-
-    return table.content[randomIndex]
-}
+exports.Table = Table
 
 exports.alphabetizeKeys = (obj) => {
     var sortedObject = {};
