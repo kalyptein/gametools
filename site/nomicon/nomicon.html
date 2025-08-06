@@ -1,0 +1,71 @@
+<html>
+  <head>
+    <title>Nomicon</title>
+  </head>
+  <body>
+    <h1>Nomicon</h1>
+
+    <form>
+      <label>Culture</label>
+      <select name="culture" id="culture">
+        <option value="hellenica">Hellenica</option>
+      </select>
+      <label>Type</label>
+      <select name="nametype" id="nametype">
+        <option value="person">Person (random)</option>
+        <option value="male">   Person (male)</option>
+        <option value="female">   Person (female)</option>
+        <option value="city">City</option>
+        <option value="terrain">Country / Terrain</option>
+      </select>
+      <button onclick="generateName()">Generate</button>
+    </form>
+
+    <p id="resultDisplay">Default result display text</p>
+
+    <script defer>
+      const utils = require("../scripts/utils")
+
+      // TODO auto-gen culture dropdown when loading files
+
+      const culture = {}
+      culture['hellenica'] = {
+        city: require("./hellenica-cities.js"),
+        terrain: require("./hellenica-countries-and-terrain.js"),
+        people: require("./hellenica-people.js")
+      }
+
+      // get elements
+      var result = document.getElementById("resultDisplay")
+      var cultureSelect = document.getElementById("culture")
+      var typeSelect = document.getElementById("nametype")
+
+      function generateName() {
+        document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
+
+        switch (cultureSelect.value) {
+          case "hellenica":
+            switch (typeSelect.value) {
+              case "person":
+                result.textContent += '<br>' + culture['hellenica'].people.personName()
+                break
+              case "male":
+                result.textContent += '<br>' + culture['hellenica'].people.personName('male')
+                break
+              case "female":
+                result.textContent += '<br>' + culture['hellenica'].people.personName('female')
+                break
+              case "city":
+                result.textContent += '<br>' + culture['hellenica'].city.cityName('mixed')
+                break
+              case "terrain":
+                result.textContent += '<br>' + culture['hellenica'].terrain.terrainName()
+                break
+            }
+            break
+        }
+      }
+    </script>
+
+  </body>
+</html>

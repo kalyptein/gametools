@@ -2,7 +2,7 @@
 
 const utils = require("../../site/scripts/utils.js");
 
-exports.cityName = (gender=undefined) => {
+exports.personName = (gender=undefined) => {
     if (!gender || (gender != 'male' && gender != 'female'))
         gender = (Math.floor(utils.m.random() * 2) == 0) ? 'male' : 'female'
 
