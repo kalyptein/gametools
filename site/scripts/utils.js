@@ -1,9 +1,7 @@
-
-const rand = require("./seedableRandom")
+import { MersenneTwister } from "./seedableRandom.js"
 
 // start RNG
-var m = new rand.MersenneTwister()
-exports.m = m
+export var m = new MersenneTwister()
 console.log("seed = " + m.seed)
 
 
@@ -11,9 +9,7 @@ console.log("seed = " + m.seed)
 // This is external JavaScript code
 // document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
 
-
-
-exports.tables = {};
+export const tables = {};
 
 const WEIGHT = 'weight'
 const RANGE = 'range'
@@ -39,7 +35,7 @@ const regex = {
     rangeAndKey:  new RegExp(`^${range+gap+key+gap}(.+)$`),         // x-y textKey rest of line is description               2:7 key the rest is description
 }
 
-class Table {
+export class Table {
     
     constructor({ content, name="new-table", index=undefined, keyed=false, defaultRoll=undefined }) {
 
@@ -113,10 +109,10 @@ class Table {
         // TODO check for overlapping ranges?
 
         // add to map of tables
-        if (exports.tables[name]) {
+        if (tables[name]) {
             console.warn(`Duplicate table '${name}', overwriting...`)
         }
-        exports.tables[name] = this
+        tables[name] = this
     }
 
     /** Random choice from table; optionally using supplied roll */
@@ -147,9 +143,7 @@ class Table {
     }
 }
 
-exports.Table = Table
-
-exports.alphabetizeKeys = (obj) => {
+export function alphabetizeKeys(obj) {
     var sortedObject = {};
     const sortedKeys = Object.keys(obj).sort();
     sortedKeys.forEach(key => {
@@ -157,4 +151,12 @@ exports.alphabetizeKeys = (obj) => {
     });
 
     return sortedObject;
+}
+
+export default {
+    tables: tables,
+    Table: Table,
+    alphabetizeKeys: alphabetizeKeys,
+    WEIGHT: WEIGHT,
+    RANGE: RANGE
 }

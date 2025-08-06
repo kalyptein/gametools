@@ -13,53 +13,54 @@
       <label>Type</label>
       <select name="nametype" id="nametype">
         <option value="person">Person (random)</option>
-        <option value="male">   Person (male)</option>
-        <option value="female">   Person (female)</option>
+        <option value="male">Person (male)</option>
+        <option value="female">Person (female)</option>
         <option value="city">City</option>
         <option value="terrain">Country / Terrain</option>
       </select>
-      <button onclick="generateName()">Generate</button>
+      <button onclick="generateName(event)">Generate</button>
     </form>
 
     <p id="resultDisplay">Default result display text</p>
 
-    <script defer>
-      const utils = require("../scripts/utils")
+    <script type="module" src="../scripts/seedableRandom.js" defer> </script>
+    <script type="module" src="../scripts/utils.js" defer> </script>
+    <script type="module" src="./hellenica.js" defer> </script>
+    <script type="module" defer>
 
-      // TODO auto-gen culture dropdown when loading files
-
+      import utils from "../scripts/utils.js"
+      import { hellenica } from "./hellenica.js"        // TODO auto-gen culture dropdown when loading files
+      
       const culture = {}
-      culture['hellenica'] = {
-        city: require("./hellenica-cities.js"),
-        terrain: require("./hellenica-countries-and-terrain.js"),
-        people: require("./hellenica-people.js")
-      }
+      culture['hellenica'] = hellenica
 
       // get elements
       var result = document.getElementById("resultDisplay")
       var cultureSelect = document.getElementById("culture")
       var typeSelect = document.getElementById("nametype")
 
-      function generateName() {
+      function generateName(event) {
+        event.preventDefault()
+        console.log('thing')
         document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
 
         switch (cultureSelect.value) {
           case "hellenica":
             switch (typeSelect.value) {
               case "person":
-                result.textContent += '<br>' + culture['hellenica'].people.personName()
+                result.textContent += '<br>' + culture['hellenica'].person()
                 break
               case "male":
-                result.textContent += '<br>' + culture['hellenica'].people.personName('male')
+                result.textContent += '<br>' + culture['hellenica'].person('male')
                 break
               case "female":
-                result.textContent += '<br>' + culture['hellenica'].people.personName('female')
+                result.textContent += '<br>' + culture['hellenica'].person('female')
                 break
               case "city":
-                result.textContent += '<br>' + culture['hellenica'].city.cityName('mixed')
+                result.textContent += '<br>' + culture['hellenica'].city('mixed')
                 break
               case "terrain":
-                result.textContent += '<br>' + culture['hellenica'].terrain.terrainName()
+                result.textContent += '<br>' + culture['hellenica'].terrain()
                 break
             }
             break

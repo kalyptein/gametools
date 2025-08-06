@@ -1,10 +1,465 @@
 // Nomicon: Hellenica City Names
 
-const utils = require("../../site/scripts/utils.js");
+import { m, Table } from "../scripts/utils.js"
 
-exports.personName = (gender=undefined) => {
+export const hellenica = { }
+export default hellenica
+
+hellenica.city = function cityName(table='mixed') {
+    var first = ''
+    var second = ''
+    switch (table.toLowerCase()) {
+        case 'a': 
+            first = nameset_a_first.pick()
+            second = nameset_a_second.pick()
+            break
+        case 'b': 
+            first = nameset_b_first.pick()
+            second = nameset_b_second.pick()
+            break
+        case 'either': 
+            let roll = Math.floor(m.random() * 2)
+            first = (roll == 0) ? nameset_a_first.pick() : nameset_b_first.pick()
+            second = (roll == 0) ? nameset_a_second.pick() : nameset_b_second.pick()
+            break
+        default: 
+            first = (Math.floor(m.random() * 2) == 0) ? nameset_a_first.pick() : nameset_b_first.pick()
+            second = (Math.floor(m.random() * 2) == 0) ? nameset_a_second.pick() : nameset_b_second.pick()
+            break
+    }
+    return first.description + second.description
+}
+
+let nameset_a_first = new Table({
+    name: "hellenica-cities-nameset-a-first",
+    content: `
+A
+Ai
+Aia
+Apra
+Are
+Ata
+Atha
+Atra
+Ba
+Be
+Bu
+By
+Cha
+Che
+Cho
+Chu
+De
+E
+Eio
+Eo
+Ere
+Ete
+I
+Ie
+Io
+Ioro
+Iu
+Ka
+Kai
+Kara
+Kata
+Kepy
+Khiro
+Kita
+Kora
+Ky
+La
+Le
+Ly
+Ma
+Me
+Mna
+Mne
+My
+Myo
+Na
+Nau
+Ne
+Ny
+Nyo
+O
+Oio
+Ore
+Oro
+Ou
+Oura
+Ouro
+Pa
+Para
+Pi
+Psa
+Pse
+Psi
+Psu
+Psy
+Py
+Rebo
+Rha
+Rhe
+Rho
+Sa
+Sau
+Se
+Sia
+Sy
+Syo
+Ta
+Te
+Tha
+The
+Tra
+Tri
+Try
+Tse
+Tsu
+Ty
+U
+Ultra
+Xa
+Xe
+Xo
+Xu
+Xy
+Zara
+Ze
+Zeni
+Zi
+Zia
+Zy
+Zya
+`
+})
+
+let nameset_a_second = new Table({
+    name: "hellenica-cities-nameset-a-second",
+    content: `
+bais
+baros
+bion
+boron
+boros
+bos
+dai
+daros
+daroth
+dian
+dias
+dikon
+dikos
+dion
+diphai
+diphon
+diphos
+dopolis
+doros
+dron
+dros
+khon
+khoon
+khoos
+khor
+khos
+kon
+lais
+lamis
+laphon
+lbion
+lbos
+ldais
+ldos
+ldos
+lemis
+lephon
+letos
+lides
+lidia
+linth
+lion
+lios
+liphon
+liphor
+lis
+lkor
+lkor
+lkous
+lmis
+lmor
+lmos
+loos
+loros
+los
+lphai
+lphis
+lphon
+lphon
+lopolis
+lpos
+ltos
+lys
+mnais
+mnis
+mnon
+mnor
+mnoros
+mnos
+nikai
+nikon
+nikos
+ntais
+ntos
+paron
+paros
+phai
+pharon
+phis
+phnai
+phnos
+phnous
+phon
+phonai
+phonis
+phoon
+phos
+phous
+phra
+phris
+polis
+polis
+ptis
+siros
+sthiros
+stos
+strea
+stris
+stros
+stralo
+`
+})
+
+let nameset_b_first  = new Table({
+    name: "hellenica-cities-nameset-b-first",
+    content: `
+A
+Ai
+Aia
+Are
+Ata
+Atha
+Ba
+Be
+Bu
+By
+Cha
+Che
+Cho
+Chu
+De
+E
+Eio
+Ele
+Eo
+Ete
+I
+Ie
+Io
+Iolo
+Iu
+Ka
+Kai
+Kala
+Kata
+Kepy
+Ki
+Kita
+Ky
+La
+Laby
+Le
+Ly
+Ma
+Maty
+Me
+Mi
+Mna
+Mne
+My
+Myo
+Na
+Nau
+Ne
+Ni
+Ny
+Nyo
+O
+Oio
+Ou
+Oula
+Oulo
+Pa
+Pala
+Pe
+Pha
+Pho
+Psa
+Pse
+Psi
+Psu
+Psy
+Py
+Sa
+Saby
+Sala
+Sau
+Se
+Si
+Sio
+Spa
+Sy
+Syo
+Ta
+Te
+Tebi
+Tha
+The
+Tsa
+Tse
+Ty
+Tyla
+U
+Ulta
+Xa
+Xe
+Xo
+Xu
+Xy
+Zala
+Ze
+Zeni
+Zi
+Zia
+Zy
+Zya
+`
+})
+
+let nameset_b_second = new Table({
+    name: "hellenica-cities-nameset-b-second",
+    content: `
+bais
+baros
+bion
+boron
+boros
+bos
+daia
+daros
+daroth
+dian
+dias
+dikon
+dikos
+dion
+dopolis
+doros
+dron
+dros
+khon
+khoon
+khoos
+khor
+khos
+krion
+kros
+lais
+lamis
+laris
+lbion
+lbos
+ldais
+ldos
+ldos
+lemis
+letos
+lides
+lidia
+linth
+lion
+lios
+lis
+lkor
+lkor
+lkous
+lmis
+lmor
+lmos
+loos
+loros
+los
+lopolis
+lpos
+ltos
+lys
+maros
+mnais
+mnis
+mnon
+mnor
+mnoros
+mnos
+nikai
+nikon
+nikos
+ntais
+ntos
+paron
+paros
+ptis
+rabos
+ramis
+raptis
+rbion
+rdais
+ribos
+rinth
+rith
+rkon
+rlion
+rlos
+ros
+rthos
+sandria
+sapris
+saptra
+sepolis
+siros
+sthiros
+stos
+stralos
+strea
+strepolis
+stris
+stros
+tha
+thrapolis
+threpolis
+thris
+thros
+thros
+`
+})
+
+var x = hellenica.city('mixed')
+console.log(x)
+
+hellenica.person = function personName(gender=undefined) {
     if (!gender || (gender != 'male' && gender != 'female'))
-        gender = (Math.floor(utils.m.random() * 2) == 0) ? 'male' : 'female'
+        gender = (Math.floor(m.random() * 2) == 0) ? 'male' : 'female'
 
     switch (gender.toLowerCase()) {
         case 'male': 
@@ -15,7 +470,7 @@ exports.personName = (gender=undefined) => {
     }
 }
 
-nameset_male_first = new utils.Table({
+let nameset_male_first = new Table({
     name: "hellenica-people-nameset-male-first",
     content: `
 Abro
@@ -321,7 +776,7 @@ Thalu
 `
 })
 
-nameset_male_second = new utils.Table({
+let nameset_male_second = new Table({
     name: "hellenica-people-nameset-male-second",
     content: `
 as
@@ -627,7 +1082,7 @@ magoras
 `
 })
 
-nameset_female  = new utils.Table({
+let nameset_female  = new Table({
     name: "hellenica-people-nameset-female",
     content: `
 Adastrea
@@ -1033,5 +1488,226 @@ Zosime
 `
 })
 
-var x = exports.cityName()
+var x = hellenica.person()
+console.log(x)
+
+hellenica.terrain = function terrainName() {
+    var first = nameset_first.pick()
+    var second = nameset_second.pick()
+    return first.description + second.description
+}
+
+let nameset_first = new Table({
+    name: "hellenica-terrain-nameset-first",
+    content: `
+A
+Ai
+Aia
+Are
+Ata
+Atha
+Ba
+Be
+Bi
+By
+Cha
+Che
+Cho
+Chu
+De
+E
+Eio
+Ele
+Eo
+Ete
+I
+Ie
+Io
+Iolo
+Iu
+Ka
+Kai
+Kala
+Kata
+Kepy
+Ki
+Kita
+Ky
+La
+Laby
+Le
+Ly
+Ma
+Maty
+Me
+Mi
+Mna
+Mne
+My
+Myo
+Na
+Nau
+Ne
+Ni
+Ny
+Nyo
+O
+Oio
+Ou
+Oula
+Oulo
+Pa
+Pala
+Pe
+Pha
+Pho
+Psa
+Pse
+Psi
+Psu
+Psy
+Py
+Sa
+Saby
+Sala
+Sau
+Se
+Si
+Sio
+Spa
+Sy
+Syo
+Ta
+Te
+Tebi
+Tha
+The
+Tsa
+Tse
+Ty
+Tyla
+U
+Ulta
+Xa
+Xe
+Xo
+Xu
+Xy
+Zala
+Ze
+Zeni
+Zi
+Zia
+Zy
+Zya
+`
+})
+
+let nameset_second = new Table({
+    name: "hellenica-terrain-nameset-second",
+    content: `
+baroon
+bo
+bor
+boro
+boron
+bos
+bror
+bros
+byx
+caean
+charos
+chnae
+clasm
+clast
+ctys
+droa
+dron
+gno
+gnos
+gor
+goron
+gos
+gothon
+gothor
+gothos
+kharon
+kharos
+khna
+khnai
+khni
+khon
+khor
+khoron
+koa
+koan
+koon
+lion
+lios
+lith
+litor
+loos
+lopt
+ltor
+lyth
+menos
+mnai
+mnor
+mpos
+nemos
+nos
+pnor
+ppor
+psai
+psos
+rapt
+rapton
+rasthis
+rgon
+rgos
+rgos
+rhon
+rhos
+rkon
+rlon
+rlos
+rmos
+rnos
+roas
+ropol
+ropos
+rrys
+rthos
+ryc
+ryx
+sbian
+sbior
+stralos
+streon
+stros
+syx
+tani
+thani
+thnai
+thoun
+thous
+thys
+tlas
+toron
+ttican
+tys
+tyx
+xander
+xis
+xys
+yon
+zaltic
+zander
+zolthai
+zoros
+zoun
+`
+})
+
+var x = hellenica.terrain()
 console.log(x)
