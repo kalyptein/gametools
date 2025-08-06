@@ -1,34 +1,34 @@
 // Nomicon: Hellenica City Names
 
-const utils = require("../../../site/scripts/utils.js");
+const utils = require("../../site/scripts/utils.js");
 
 exports.cityName = (table='mixed') => {
     var first = ''
     var second = ''
     switch (table.toLowerCase()) {
         case 'a': 
-            first = exports.nameset_a_first.pick()
-            second = exports.nameset_a_second.pick()
+            first = nameset_a_first.pick()
+            second = nameset_a_second.pick()
             break
         case 'b': 
-            first = exports.nameset_b_first.pick()
-            second = exports.nameset_b_second.pick()
+            first = nameset_b_first.pick()
+            second = nameset_b_second.pick()
             break
         case 'either': 
             let roll = Math.floor(utils.m.random() * 2)
-            first = (roll == 0) ? exports.nameset_a_first.pick() : exports.nameset_b_first.pick()
-            second = (roll == 0) ? exports.nameset_a_second.pick() : exports.nameset_b_second.pick()
+            first = (roll == 0) ? nameset_a_first.pick() : nameset_b_first.pick()
+            second = (roll == 0) ? nameset_a_second.pick() : nameset_b_second.pick()
             break
         default: 
-            first = (Math.floor(utils.m.random() * 2) == 0) ? exports.nameset_a_first.pick() : exports.nameset_b_first.pick()
-            second = (Math.floor(utils.m.random() * 2) == 0) ? exports.nameset_a_second.pick() : exports.nameset_b_second.pick()
+            first = (Math.floor(utils.m.random() * 2) == 0) ? nameset_a_first.pick() : nameset_b_first.pick()
+            second = (Math.floor(utils.m.random() * 2) == 0) ? nameset_a_second.pick() : nameset_b_second.pick()
             break
     }
     return first.description + second.description
 }
 
-exports.nameset_a_first = new utils.Table({
-    name: "nameset_a_first",
+nameset_a_first = new utils.Table({
+    name: "hellenica-cities-nameset-a-first",
     content: `
 A
 Ai
@@ -133,8 +133,8 @@ Zya
 `
 })
 
-exports.nameset_a_second = new utils.Table({
-    name: "nameset_a_second",
+nameset_a_second = new utils.Table({
+    name: "hellenica-cities-nameset-a-second",
     content: `
 bais
 baros
@@ -239,8 +239,8 @@ stralo
 `
 })
 
-exports.nameset_b_first  = new utils.Table({
-    name: "nameset_b_first",
+nameset_b_first  = new utils.Table({
+    name: "hellenica-cities-nameset-b-first",
     content: `
 A
 Ai
@@ -345,8 +345,8 @@ Zya
 `
 })
 
-exports.nameset_b_second = new utils.Table({
-    name: "nameset_b_second",
+nameset_b_second = new utils.Table({
+    name: "hellenica-cities-nameset-b-second",
     content: `
 bais
 baros
