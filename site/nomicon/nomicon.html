@@ -1,16 +1,16 @@
-<html>
+<!DOCTYPE html>
   <head>
     <title>Nomicon</title>
   </head>
   <body>
     <h1>Nomicon</h1>
 
-    <form>
-      <label>Culture</label>
+    <form onsubmit="return generateName(event)">
+      <label for="culture">Culture</label>
       <select name="culture" id="culture">
         <option value="hellenica">Hellenica</option>
       </select>
-      <label>Type</label>
+      <label for="nametype">Type</label>
       <select name="nametype" id="nametype">
         <option value="person">Person (random)</option>
         <option value="male">Person (male)</option>
@@ -18,7 +18,7 @@
         <option value="city">City</option>
         <option value="terrain">Country / Terrain</option>
       </select>
-      <button onclick="generateName(event)">Generate</button>
+      <input type="submit" value="Generate">
     </form>
 
     <p id="resultDisplay">Default result display text</p>
@@ -30,7 +30,7 @@
 
       import utils from "../scripts/utils.js"
       import { hellenica } from "./hellenica.js"        // TODO auto-gen culture dropdown when loading files
-      
+
       const culture = {}
       culture['hellenica'] = hellenica
 
@@ -42,7 +42,6 @@
       function generateName(event) {
         event.preventDefault()
         console.log('thing')
-        document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
 
         switch (cultureSelect.value) {
           case "hellenica":
@@ -65,6 +64,7 @@
             }
             break
         }
+        return false
       }
     </script>
 
