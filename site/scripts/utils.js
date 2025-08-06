@@ -2,7 +2,8 @@
 const rand = require("./seedableRandom")
 
 // start RNG
-var m = new rand.MersenneTwister();
+var m = new rand.MersenneTwister()
+exports.m = m
 console.log("seed = " + m.seed)
 
 
@@ -40,13 +41,13 @@ const regex = {
 
 class Table {
     
-    constructor(content, name="new-table", index=undefined, keyed=false, defaultRoll=undefined) {
+    constructor({ content, name="new-table", index=undefined, keyed=false, defaultRoll=undefined }) {
 
         this.name = name
         this.keys = {}
         this.content = undefined
         this.defaultRoll = defaultRoll
-        this.indexRange = [0, 0]
+        this.indexRange = undefined
 
         // choose regex
         let re = undefined
@@ -92,8 +93,9 @@ class Table {
                     return undefined
                 }
 
+                if (!this.indexRange) this.indexRange = [ entry.index[0], entry.index[1] ]
                 this.indexRange[0] = Math.min(this.indexRange[0], entry.index[0])
-                this.indexRange[1] = Math.min(this.indexRange[1], entry.index[1])
+                this.indexRange[1] = Math.max(this.indexRange[1], entry.index[1])
 
                 if (entry.key) {
                     if (this.keys[entry.key]) { console.warn(`Duplicate key ${entry.key} in ${name}: ${line}`) }
@@ -103,8 +105,6 @@ class Table {
             return entry
         })
         .filter(line => line)
-
-        this.maxIndex = currentIndex
 
         if (!this.defaultRoll) {
             this.defaultRoll = () => Math.floor(m.random() * (this.indexRange[1] - this.indexRange[0])) + this.indexRange[0]

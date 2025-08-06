@@ -2,15 +2,32 @@
 
 const utils = require("../../../site/scripts/utils.js");
 
-exports.cityNameA = () => {
-    return utils.pick(this.nameset_a_first).description + utils.pick(this.nameset_a_second).description
+exports.cityName = (table='mixed') => {
+    var first = ''
+    var second = ''
+    switch (table.toLowerCase()) {
+        case 'a': 
+            first = exports.nameset_a_first.pick()
+            second = exports.nameset_a_second.pick()
+            break
+        case 'b': 
+            first = exports.nameset_b_first.pick()
+            second = exports.nameset_b_second.pick()
+            break
+        case 'either': 
+            let roll = Math.floor(utils.m.random() * 2)
+            first = (roll == 0) ? exports.nameset_a_first.pick() : exports.nameset_b_first.pick()
+            second = (roll == 0) ? exports.nameset_a_second.pick() : exports.nameset_b_second.pick()
+            break
+        default: 
+            first = (Math.floor(utils.m.random() * 2) == 0) ? exports.nameset_a_first.pick() : exports.nameset_b_first.pick()
+            second = (Math.floor(utils.m.random() * 2) == 0) ? exports.nameset_a_second.pick() : exports.nameset_b_second.pick()
+            break
+    }
+    return first.description + second.description
 }
 
-exports.cityNameB = () => {
-    return utils.pick(this.nameset_b_first).description + utils.pick(this.nameset_b_second).description
-}
-
-exports.nameset_a_first = utils.makeTable({
+exports.nameset_a_first = new utils.Table({
     name: "nameset_a_first",
     content: `
 A
@@ -116,7 +133,7 @@ Zya
 `
 })
 
-exports.nameset_a_second = utils.makeTable({
+exports.nameset_a_second = new utils.Table({
     name: "nameset_a_second",
     content: `
 bais
@@ -222,7 +239,7 @@ stralo
 `
 })
 
-exports.nameset_b_first  = utils.makeTable({
+exports.nameset_b_first  = new utils.Table({
     name: "nameset_b_first",
     content: `
 A
@@ -328,7 +345,7 @@ Zya
 `
 })
 
-exports.nameset_b_second = utils.makeTable({
+exports.nameset_b_second = new utils.Table({
     name: "nameset_b_second",
     content: `
 bais
@@ -433,3 +450,6 @@ thros
 thros
 `
 })
+
+var x = exports.cityName('mixed')
+console.log(x)
