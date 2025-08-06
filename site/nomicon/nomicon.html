@@ -1,29 +1,26 @@
-<!DOCTYPE html>
+<html>
   <head>
     <title>Nomicon</title>
   </head>
   <body>
     <h1>Nomicon</h1>
 
-    <form onsubmit="return generateName(event)">
-      <label for="culture">Culture</label>
-      <select name="culture" id="culture">
-        <option value="hellenica">Hellenica</option>
-      </select>
-      <label for="nametype">Type</label>
-      <select name="nametype" id="nametype">
-        <option value="person">Person (random)</option>
-        <option value="male">Person (male)</option>
-        <option value="female">Person (female)</option>
-        <option value="city">City</option>
-        <option value="terrain">Country / Terrain</option>
-      </select>
-      <input type="submit" value="Generate">
-    </form>
+    <label for="culture">Culture</label>
+    <select name="culture" id="culture">
+      <option value="hellenica">Hellenica</option>
+    </select>
+    <label for="nametype">Type</label>
+    <select name="nametype" id="nametype">
+      <option value="person">Person (random)</option>
+      <option value="male">Person (male)</option>
+      <option value="female">Person (female)</option>
+      <option value="city">City</option>
+      <option value="terrain">Country / Terrain</option>
+    </select>
+    <button id="genButton">Generate</button>
 
-    <p id="resultDisplay">Default result display text</p>
+    <p id="resultdisplay"></p>
 
-    <script type="module" src="../scripts/seedableRandom.js" defer> </script>
     <script type="module" src="../scripts/utils.js" defer> </script>
     <script type="module" src="./hellenica.js" defer> </script>
     <script type="module" defer>
@@ -35,37 +32,18 @@
       culture['hellenica'] = hellenica
 
       // get elements
-      var result = document.getElementById("resultDisplay")
-      var cultureSelect = document.getElementById("culture")
-      var typeSelect = document.getElementById("nametype")
+      const result = document.getElementById("resultdisplay")
+      const cultureSelect = document.getElementById("culture")
+      const typeSelect = document.getElementById("nametype")
+      const genButton = document.getElementById("genButton")
 
-      function generateName(event) {
-        event.preventDefault()
-        console.log('thing')
-
+      genButton.addEventListener('click', event => {
         switch (cultureSelect.value) {
           case "hellenica":
-            switch (typeSelect.value) {
-              case "person":
-                result.textContent += '<br>' + culture['hellenica'].person()
-                break
-              case "male":
-                result.textContent += '<br>' + culture['hellenica'].person('male')
-                break
-              case "female":
-                result.textContent += '<br>' + culture['hellenica'].person('female')
-                break
-              case "city":
-                result.textContent += '<br>' + culture['hellenica'].city('mixed')
-                break
-              case "terrain":
-                result.textContent += '<br>' + culture['hellenica'].terrain()
-                break
-            }
+            result.textContent += culture['hellenica'].name(typeSelect.value)
             break
         }
-        return false
-      }
+      })
     </script>
 
   </body>

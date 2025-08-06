@@ -5,6 +5,17 @@ import { m, Table } from "../scripts/utils.js"
 export const hellenica = { }
 export default hellenica
 
+hellenica.name = (type) => {
+    switch (type) {
+        case "person": return hellenica.person()
+        case "male": return hellenica.person('male')
+        case "female": return hellenica.person('female')
+        case "city": return hellenica.city('mixed')
+        case "terrain": return hellenica.terrain()
+    }
+    return 'invalid type'
+}
+
 hellenica.city = function cityName(table='mixed') {
     var first = ''
     var second = ''
