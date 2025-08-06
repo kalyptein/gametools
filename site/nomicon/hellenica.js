@@ -5,6 +5,8 @@ import { m, Table } from "../scripts/utils.js"
 export const hellenica = { }
 export default hellenica
 
+const debug = false
+
 hellenica.name = (type) => {
     switch (type) {
         case "person": return hellenica.person()
@@ -38,7 +40,7 @@ hellenica.city = function cityName(table='mixed') {
             second = (Math.floor(m.random() * 2) == 0) ? nameset_a_second.pick() : nameset_b_second.pick()
             break
     }
-    return first.description + second.description
+    return first.description + second.description + ' (city)'
 }
 
 let nameset_a_first = new Table({
@@ -465,8 +467,7 @@ thros
 `
 })
 
-var x = hellenica.city('mixed')
-console.log(x)
+if (debug) { console.log(hellenica.city('mixed')) }
 
 hellenica.person = function personName(gender=undefined) {
     if (!gender || (gender != 'male' && gender != 'female'))
@@ -1499,13 +1500,13 @@ Zosime
 `
 })
 
-var x = hellenica.person()
-console.log(x)
+if (debug) { console.log(hellenica.person()) }
+
 
 hellenica.terrain = function terrainName() {
     var first = nameset_first.pick()
     var second = nameset_second.pick()
-    return first.description + second.description
+    return first.description + second.description + ' (terrain)'
 }
 
 let nameset_first = new Table({
@@ -1720,5 +1721,4 @@ zoun
 `
 })
 
-var x = hellenica.terrain()
-console.log(x)
+if (debug) { console.log(hellenica.terrain()) }

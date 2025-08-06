@@ -22,14 +22,14 @@
     <p id="resultdisplay"></p>
 
     <script type="module" src="../scripts/utils.js" defer> </script>
-    <script type="module" src="./hellenica.js" defer> </script>
     <script type="module" defer>
 
       import utils from "../scripts/utils.js"
-      import { hellenica } from "./hellenica.js"        // TODO auto-gen culture dropdown when loading files
+      import { hellenica } from "./hellenica.js"        
 
       const culture = {}
       culture['hellenica'] = hellenica
+      // TODO auto-gen culture dropdown when loading files
 
       // get elements
       const result = document.getElementById("resultdisplay")
@@ -38,11 +38,16 @@
       const genButton = document.getElementById("genButton")
 
       genButton.addEventListener('click', event => {
+        let name = 'none'
         switch (cultureSelect.value) {
           case "hellenica":
-            result.textContent += culture['hellenica'].name(typeSelect.value)
+            name = culture['hellenica'].name(typeSelect.value)
             break
         }
+
+        let newEntry = document.createElement('p')
+        newEntry.textContent = name
+        result.appendChild(newEntry)
       })
     </script>
 
