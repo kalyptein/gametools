@@ -78,34 +78,34 @@ exports.makeTable = (content, name="new-table", index=undefined, keyed=false) =>
             if (!line) { return undefined }
 
             let parsed = (re) ? line.match(re) : [ '', line ]
-            if (parsed.length < 2) {
+            let entry = { key: '', index: 1, description: '' }
+            if (!parsed) {
                 console.warn(`Line didn't parse w/ regex: ${line}`)
                 return undefined;
             } else {
-                parsed = { key: '', index: 1, description: '' }
-                parsed.description = parsed[parsed.length-1]
+                entry.description = parsed[parsed.length-1]
                 switch (index) {
                     case WEIGHT: 
-                        parsed.index = number(parsed[1])
-                        totalWeight += parsed.index
-                        parsed.key = (keyed) ? parsed[2] : ''
+                        entry.index = number(parsed[1])
+                        totalWeight += entry.index
+                        entry.key = (keyed) ? parsed[2] : ''
                         break
                     case RANGE: 
-                        parsed.index = [ number(parsed[1]), number(parsed[2]) ]
-                        parsed.key = (keyed) ? parsed[3] : ''
+                        entry.index = [ number(parsed[1]), number(parsed[2]) ]
+                        entry.key = (keyed) ? parsed[3] : ''
                         break
                     default: 
-                        parsed.index = 1
-                        totalWeight += parsed.index
-                        parsed.key = (keyed) ? parsed[1] : ''
+                        entry.index = 1
+                        totalWeight += entry.index
+                        entry.key = (keyed) ? parsed[1] : ''
                         break
                 }
-                if (parsed.key) {
-                    if (table.keys[parsed.key]) { console.warn(`Duplicate key ${parsed.key} in ${table.name}`) }
-                    table.keys[parsed.key] = parsed
+                if (entry.key) {
+                    if (table.keys[entry.key]) { console.warn(`Duplicate key ${entry.key} in ${table.name}`) }
+                    table.keys[entry.key] = entry
                 }
             }
-            return parsed
+            return entry
         })
         .filter(line => line)
 
