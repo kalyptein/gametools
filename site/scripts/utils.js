@@ -164,7 +164,7 @@ export class Table {
                     try {
                         let subtableName = matches[2]
                         let subtableValue = tables[subtableName]?.pick().description
-                        if (subtableValue) {  entry.description = entry.description.replace(regex.subtable, (subtableValue) ? subtableValue : 'UNKNOWN_SUBTABLE') }
+                        entry.description = entry.description.replace(regex.subtable, (subtableValue) ? subtableValue : 'UNKNOWN_SUB-TABLE')
                     } catch (e) { break }
                 }
             } while (matches)
@@ -177,7 +177,10 @@ export class Table {
                         let inline = String(eval(matches[2]))
                         // let inline = simplify(matches[2])
                         entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
-                    } catch (e) { break }
+                    } catch (e) { 
+                        entry.description = entry.description.replace(regex.math, 'FAILED_EVAL')
+                        break
+                    }
                 }
             } while (matches)
         }
