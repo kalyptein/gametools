@@ -14,8 +14,8 @@ export function d(size) {
 
 export const tables = {};
 
-const WEIGHT = 'weight'
-const RANGE = 'range'
+export const WEIGHT = 'weight'
+export const RANGE = 'range'
 
 // TODO
 // tables should be able to roll on subtables; replace [[table_name]] within the text of a description with a roll on the subtable

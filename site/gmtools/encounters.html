@@ -5,48 +5,35 @@
   <body>
     <h1>Encounters</h1>
 
-    <!-- <label for="culture">Culture</label>
-    <select name="culture" id="culture">
-      <option value="hellenica">Hellenica</option>
-    </select>
-    <label for="nametype">Type</label>
-    <select name="nametype" id="nametype">
-      <option value="person">Person (random)</option>
-      <option value="male">Person (male)</option>
-      <option value="female">Person (female)</option>
-      <option value="city">City</option>
-      <option value="terrain">Country / Terrain</option>
-    </select> -->
     <button id="genButton">Generate</button>
+
+    <ul>
+      <li id="liActivity">Activity (?): ???</li>
+      <ul>
+        <li id="liActivityDetails">Details?</li>
+      </ul>
+    </ul>
 
     <p id="resultdisplay"></p>
 
-    <script type="module" src="../scripts/utils.js" defer> </script>
     <script type="module" defer>
 
-      import utils from "../scripts/utils.js"
-      import { hellenica } from "./hellenica.js"        
-
-      const culture = {}
-      culture['hellenica'] = hellenica
+      import { d } from "../scripts/utils.js"
+      import { encounters } from "./encounters.js"
 
       // get elements
       const result = document.getElementById("resultdisplay")
-      const cultureSelect = document.getElementById("culture")
-      const typeSelect = document.getElementById("nametype")
+      const liActivity = document.getElementById("liActivity")
+      const liActivityDetails = document.getElementById("liActivityDetails")
+      // const typeSelect = document.getElementById("nametype")
       const genButton = document.getElementById("genButton")
 
       genButton.addEventListener('click', event => {
-        let name = 'none'
-        switch (cultureSelect.value) {
-          case "hellenica":
-            name = culture['hellenica'].name(typeSelect.value)
-            break
-        }
+        let roll = d(6) + d(6)
+        let activity = encounters.activity(roll)
 
-        let newEntry = document.createElement('p')
-        newEntry.textContent = name
-        result.appendChild(newEntry)
+        liActivity.textContent = `Activity (${roll}): ${activity.key}`
+        liActivityDetails.textContent = `${activity.description}`
       })
     </script>
 
