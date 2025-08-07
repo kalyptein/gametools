@@ -17,8 +17,6 @@ const RANGE = 'range'
 // TODO
 // tables should be able to roll on subtables; replace [[table_name]] within the text of a description with a roll on the subtable
 //      recursive, until all [[entries]] are gone or failed to find the named table
-//
-// allow for multi-line descriptions on tables?  end line with some kind of indicator (\\ or whatever)
 
 
 // regex pieces
