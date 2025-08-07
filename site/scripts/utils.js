@@ -53,10 +53,28 @@ export class Table {
             default: re = (keyed) ? regex.key : undefined; break;
         }
 
-        // split lines, trim whitespace, remove empty lines, parse w/ regex
+        // split lines, trim whitespace, remove empty lines, combine multiline entries
+        content = content.split('\n').map(line => line.trim())
+        let mergeMultilines = []
+        let merge = ''
+        for (var i=0; i < content.length; i++) {
+            if (content[i].endsWith('&&')) {
+                merge += content[i].slice(0, -2).trim()
+            } else {
+                if (merge) {
+                    mergeMultilines.push(merge + content[i])
+                    merge = ''
+                } else {
+                    mergeMultilines.push(content[i])
+                }
+            }
+        }
+        if (merge) { mergeMultilines.push(merge) }  // apply last lines, in case it ends w/ &&
+        content = (mergeMultilines.length > 0) ? mergeMultilines : content
+
+        // parse lines w/ regex
         let currentIndex = 1
-        this.content = content.split('\n').map(line => {
-            line = line.trim()
+        this.content = content.map(line => {
             if (!line) { return undefined }
 
             let parsed = (re) ? line.match(re) : [ '', line ]
@@ -147,7 +165,7 @@ export function alphabetizeKeys(obj) {
     var sortedObject = {};
     const sortedKeys = Object.keys(obj).sort();
     sortedKeys.forEach(key => {
-        sortedObject[key] = ((typeof obj[key]) == 'object') ? alphabetizeKeys(obj[key]) : obj[key];
+        sortedObject[key] = ((typeof obj[key]) == 'object') ? alphabetizeKeys(obj[key]) : obj[key]
     });
 
     return sortedObject;
