@@ -1,4 +1,4 @@
-// Nomicon: Hellenica City Names
+// Nomicon: Hellenica Names
 
 import { m, Table } from "../scripts/utils.js"
 

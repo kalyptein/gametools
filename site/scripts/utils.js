@@ -5,6 +5,9 @@ export var m = new MersenneTwister()
 console.log("seed = " + m.seed)
 
 
+export function d(size) {
+    return Math.floor(m.random() * size) + 1
+}
 
 // This is external JavaScript code
 // document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
@@ -23,7 +26,7 @@ const RANGE = 'range'
 const gap = `\\s*`
 const key = `(\\S+)`
 const weight = `([0-9]+)`
-const range = '(-?[0-9]+)' + gap + ':' + gap + '(-?[0-9]+)'
+const range = '(-?[0-9]+)' + gap + ':?' + gap + '(-?[0-9]*)'
 
 const regex = {
     key:    new RegExp(`^${key+gap}(.+)$`),                         // textKey rest of line is description                   key the rest is description
@@ -84,12 +87,13 @@ export class Table {
                 entry.description = parsed[parsed.length-1]
                 switch (index) {
                     case RANGE: 
-                        entry.index = [ number(parsed[1]), number(parsed[2]) ]
+                        if (!parsed[2]) { parsed[2] = parsed[1] }
+                        entry.index = [ Number(parsed[1]), Number(parsed[2]) ]
                         if (entry.index[0] > entry.index[1]) entry.index = [ entry.index[1], entry.index[0] ]       // given x:y, make sure x <= y
                         entry.key = (keyed) ? parsed[3] : ''
                         break
                     case WEIGHT: 
-                        entry.index = [ currentIndex, currentIndex + number(parsed[1]) - 1 ]
+                        entry.index = [ currentIndex, currentIndex + Number(parsed[1]) - 1 ]
                         currentIndex = entry.index[1] + 1
                         entry.key = (keyed) ? parsed[2] : ''
                         break
@@ -119,10 +123,10 @@ export class Table {
         .filter(line => line)
 
         if (!this.defaultRoll) {
-            this.defaultRoll = () => Math.floor(m.random() * (this.indexRange[1] - this.indexRange[0])) + this.indexRange[0]
+            this.defaultRoll = () => Math.floor(m.random() * (this.indexRange[1] - this.indexRange[0] + 1)) + this.indexRange[0]
         }
 
-        // TODO check for overlapping ranges?
+        // TODO check for overlapping ranges? range gaps?
 
         // add to map of tables
         if (tables[name]) {
@@ -134,18 +138,20 @@ export class Table {
     /** Random choice from table; optionally using supplied roll */
     pick(roll=undefined) {
 
+        // process roll w/ default or supplied function
         switch (typeof roll) {
-            case "undefined":
-                roll = this.defaultRoll()
-                break
-            case "function":
-                roll = roll()
-                break
+            case "undefined": roll = this.defaultRoll(); break
+            case "function": roll = roll(); break
         }
 
-        // TODO recursive rolls on subtables
+        let entry = undefined
+        switch (typeof roll) {
+            // supplied or function-generated key string
+            case "string":  entry = this.keys[roll]; break
+            // supplied or rolled number
+            case "number": entry = this.content.find(entry => entry.index[0] <= roll && entry.index[1] >= roll); break
+        }
 
-        let entry = this.content.find(entry => entry.index[0] >= roll && entry.index[1] <= roll)
         return (entry) ? entry : { key: 'nullEntry', index: NaN, description: `index ${roll} not found on table ${this.name}` }
         
     }
@@ -155,7 +161,7 @@ export class Table {
     }
 
     shuffle(cards=[]) {
-        // TODO put drawn "cards" back in table; if specific cards supplied, only shuffle those in
+        // TODO put drawn "cards" back in table; if specific cards supplied as param, only shuffle those in
     }
 }
 
