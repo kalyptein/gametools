@@ -34,6 +34,8 @@ const regex = {
     range:  new RegExp(`^${range+gap}(.+)$`),                       // x:y rest of line is description                       2:7 the rest is description
     weightAndKey: new RegExp(`^${weight+gap+key+gap}(.+)$`),        // weightNumber textKey rest of line is description      3 key the rest is description
     rangeAndKey:  new RegExp(`^${range+gap+key+gap}(.+)$`),         // x-y textKey rest of line is description               2:7 key the rest is description
+    subtable: new RegExp(`(\\[\\[([^\\[\\]]+?)\\]\\])`),            // do a roll on a [[subtable-name]] here
+    math:     new RegExp(`({{([^{}]+?)}})`),                        // resolve some inline math {{d(10)+4}} here
 }
 
 export class Table {
@@ -152,8 +154,35 @@ export class Table {
             case "number": entry = this.content.find(entry => entry.index[0] <= roll && entry.index[1] >= roll); break
         }
 
+        if (entry) {
+            let matches = ''
+
+            // recursive rolls on subtables
+            do {
+                matches = entry.description.match(regex.subtable)
+                if (matches) {
+                    try {
+                        let subtableName = matches[2]
+                        let subtableValue = tables[subtableName]?.pick().description
+                        if (subtableValue) {  entry.description = entry.description.replace(regex.subtable, (subtableValue) ? subtableValue : 'UNKNOWN_SUBTABLE') }
+                    } catch (e) { break }
+                }
+            } while (matches)
+            
+            // resolve inline math / commands (dice rolls, etc)
+            do {
+                matches = entry.description.match(regex.math)
+                if (matches) {
+                    try {
+                        let inline = String(eval(matches[2]))
+                        // let inline = simplify(matches[2])
+                        entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
+                    } catch (e) { break }
+                }
+            } while (matches)
+        }
+
         return (entry) ? entry : { key: 'nullEntry', index: NaN, description: `index ${roll} not found on table ${this.name}` }
-        
     }
 
     draw() {
