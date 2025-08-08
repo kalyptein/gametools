@@ -9,6 +9,16 @@ export function d(size) {
     return Math.floor(m.random() * size) + 1
 }
 
+export function XdY(number, size) {
+    let sum = 0;
+    for (var i=0; i < number; i++) { sum += d(size) }
+    return sum
+}
+
+export function pick(...list) {
+    return list[Math.floor(m.random() * list.length)]
+}
+
 // This is external JavaScript code
 // document.getElementById("resultDisplay").textContent = "Content added by external JavaScript!"
 
@@ -18,9 +28,8 @@ export const WEIGHT = 'weight'
 export const RANGE = 'range'
 
 // TODO
-// tables should be able to roll on subtables; replace [[table_name]] within the text of a description with a roll on the subtable
-//      recursive, until all [[entries]] are gone or failed to find the named table
-
+//
+// find something better/safer than eval() for inline math
 
 // regex pieces
 const gap = `\\s*`
@@ -174,7 +183,7 @@ export class Table {
                 matches = entry.description.match(regex.math)
                 if (matches) {
                     try {
-                        let inline = String(eval(matches[2]))
+                        let inline = eval(matches[2])
                         // let inline = simplify(matches[2])
                         entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
                     } catch (e) { 
