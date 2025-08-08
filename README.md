@@ -41,7 +41,7 @@ let table3 = new Table({
 
 let table4 = new Table({
     name: "table-with-ranges",
-    defaultRoll: () => d(6) + d(6),                 // optional; can be supplied to any kind of table; if omitted, a roll between [minRange, maxRange] will be supplied
+    defaultRoll: () => d(6) + d(6),                 // optional
     index: RANGE,
     content: `
 2:5   this is the first entry, happens on a roll of 2-5
@@ -72,13 +72,13 @@ let result = table2.pick('KeyTwo')              // get result with key 'KeyTwo'
 ```
 
 `Notes`
-- Tables can be retrieved by name from the tables object.
-- If a defaultRoll function isn't supplied a roll between [minRange, maxRange] will be supplied.  Weights are used to construct ranges.
+- Tables can be retrieved by name from the `tables` object.
+- If a `defaultRoll` function isn't supplied, a roll between [minRange, maxRange] will be created.  Weights are used to construct ranges.
     - There are currently no checks to prevent range gaps or overlaps.
-- The 'keyed' parameter can be added to any kind of index and parses as '[weight|range] [key] [description]'
-    - Keys can be used as 1 word summaries / names for the entry and can be used to retrieve the entry.  Keys can include any non-whitespace characters.
-    - A console message will log duplicate keys.
+- The `keyed` parameter can be added to any kind of index and parses as `[weight|range] [key] [description]`
+    - Keys can be used as one word summaries / names for the entry and can be used to retrieve the entry.  Keys can include any non-whitespace characters.
+    - A console message will log duplicate keys, which will overwrite the prior entry.
 - Whitespace between the index and/or key and/or description is ignored.  Whitespace at the beginning and ends of lines are trimmed.
     - Blank lines can be inserted between entries and will be ignored.
-- Returned entries are objects of the form { key: 'keytext or empty', index: [min,max], description: 'description text' }
+- Returned entries are objects of the form `{ key: 'keytext or empty', index: [min,max], description: 'description text' }`
 
