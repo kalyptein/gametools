@@ -8,6 +8,7 @@ https://kalyptein.github.io/gametools/
 
 `Constructing tables`
 
+```javascript
 let table1 = new Table({
     name: "a-super-simple-table",
     content: `
@@ -57,15 +58,18 @@ this is the {{1+1}}nd entry and rolls a d6+2 and gets a {{d(6)+2}}
 this is the third entry and rolls on a subtable and gets [[table-with-weights-name]]
 `
 })
+```
 
 `Using a table`
 
+```javascript
 let table = tables['table-with-ranges']        // retreive a table
 let result = table.pick()                      // roll w/ default function
 let result = table.pick(() => d(2)+1)          // roll w/ supplied function
 let result = table.pick(7)                     // get result of a roll of 7
 
 let result = table2.pick('KeyTwo')              // get result with key 'KeyTwo'
+```
 
 `Notes`
 - Tables can be retrieved by name from the tables object.
