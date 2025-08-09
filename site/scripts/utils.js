@@ -155,15 +155,17 @@ export class Table {
             case "function": roll = roll(); break
         }
 
-        let entry = undefined
+        let originalEntry = undefined
         switch (typeof roll) {
             // supplied or function-generated key string
-            case "string":  entry = this.keys[roll]; break
+            case "string":  originalEntry = this.keys[roll]; break
             // supplied or rolled number
-            case "number": entry = this.content.find(entry => entry.index[0] <= roll && entry.index[1] >= roll); break
+            case "number": originalEntry = this.content.find(e => e.index[0] <= roll && e.index[1] >= roll); break
         }
 
-        if (entry) {
+        let entry = undefined
+        if (originalEntry) {
+            entry = Object.assign({}, originalEntry)
             let matches = ''
 
             // recursive rolls on subtables
@@ -183,7 +185,7 @@ export class Table {
                 matches = entry.description.match(regex.math)
                 if (matches) {
                     try {
-                        let inline = eval(matches[2])
+                        let inline = eval(matches[2].trim())
                         // let inline = simplify(matches[2])
                         entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
                     } catch (e) { 
