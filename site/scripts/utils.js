@@ -65,7 +65,7 @@ export class Table {
             default: re = (keyed) ? regex.key : undefined; break;
         }
 
-        // split lines, trim whitespace, remove empty lines, combine multiline entries
+        // split lines, trim whitespace, combine multiline entries
         content = content.split('\n').map(line => line.trim())
         let mergeMultilines = []
         let merge = ''
@@ -87,7 +87,7 @@ export class Table {
         // parse lines w/ regex
         let currentIndex = 1
         this.content = content.map(line => {
-            if (!line) { return undefined }
+            if (!line || line.startsWith('#')) { return undefined }     // skip blank lines and comments (starting w/ #)
 
             let parsed = (re) ? line.match(re) : [ '', line ]
             let entry = { key: '', index: 1, description: '' }

@@ -1,4 +1,4 @@
-// Nomicon: Hellenica Names
+// Encounters
 
 import { m, Table, d, RANGE } from "../scripts/utils.js"
 
