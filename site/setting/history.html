@@ -5,7 +5,10 @@
   <body>
     <h1>History</h1>
 
-    <button id="genButton">Generate</button>
+    <button id="genButton" style="width:80px">Generate</button>
+    <button id="rmButton" style="width:80px">Remove</button>
+    <button id="nextButton" style="width:80px">Next</button>
+    <button id="prevButton" style="width:80px">Previous</button>
 
     <p id="resultdisplay"></p>
 
@@ -19,7 +22,7 @@
 
     <script type="module" defer>
 
-      import { m, d, pick, Table, tables, addElement } from "../scripts/utils.js"
+      import { m, d, pick, Table, tables, addElement, getRadioSelected } from "../scripts/utils.js"
       import { history } from "./history.js"
 
       // get elements
@@ -28,20 +31,27 @@
       // const cultureSelect = document.getElementById("culture")
       // const typeSelect = document.getElementById("nametype")
       const genButton = document.getElementById("genButton")
+      const rmButton = document.getElementById("rmButton")
+      const nextButton = document.getElementById("nextButton")
+      const prevButton = document.getElementById("prevButton")
+      var idCount = 0
 
+      // generate random age
       genButton.addEventListener('click', event => {
         let age = history.ages()
         let tr = addElement(agesTable, 'tr')
+        tr.setAttribute('id', `tr-age-${idCount}`)
 
+        let td = addElement(tr, 'td')
         let el = document.createElement('input')
         el.setAttribute('type', 'radio')
-        el.setAttribute('id', '')
+        el.setAttribute('id', `td-age-${idCount}`)
+        el.setAttribute('parentId', `tr-age-${idCount}`)
         el.setAttribute('name', 'ages')
         el.setAttribute('value', '')
-        tr.appendChild(el)
+        td.appendChild(el)
 
         // TODO
-        // buttons to delete ages
         // button to generate leadsTo age and append, move radio select to the new one
         // button to generate arisesFrom age and prepend, move radio select to the new one
         //
@@ -49,13 +59,29 @@
         //
         // save state w/ cookie (json list?)
 
-        let td = addElement(tr, 'td', age.key)
+        td = addElement(tr, 'td', age.key)
         // td.setAttibute("style", "border: 1px solid")
         td = addElement(tr, 'td', age.description)
         // td.setAttibute("style", "border: 1px solid")
+
+        idCount += 1
       })
 
+      // remove selected age
+      rmButton.addEventListener('click', event => {
+        let radio = getRadioSelected('ages')
+        if (radio) { agesTable.removeChild(radio.parentElement.parentElement) }
+      })
 
+      // generate leads-to age from selected age, append to selected age
+      nextButton.addEventListener('click', event => {
+        let radio = getRadioSelected('ages')
+      })
+
+      // generate arises-from age from selected age, prepend to selected age
+      prevButton.addEventListener('click', event => {
+        let radio = getRadioSelected('ages')
+      })
     </script>
 
   </body>

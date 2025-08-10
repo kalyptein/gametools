@@ -242,12 +242,20 @@ export function addElement(parent, type, text=undefined, ...attributes) {
     return el
 }
 
+export function getRadioSelected(group) {
+    let els = document.getElementsByName(group);
+    for (let i = 0; i < els.length; i++) {
+        if (els[i].checked) { return els[i] }
+    }
+    return undefined
+}
 
 export default {
     tables: tables,
     Table: Table,
     alphabetizeKeys: alphabetizeKeys,
     addElement: addElement,
+    getRadioSelected: getRadioSelected,
     WEIGHT: WEIGHT,
     RANGE: RANGE
 }
