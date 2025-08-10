@@ -182,8 +182,10 @@ export class Table {
                             let stRoll = (matches[4]) ? matches[4] : undefined
                             if (stRoll && !isNaN(Number(stRoll))) { stRoll = Number(stRoll) }       // convert number string to number
                             let subtableValue = tables[subtableName]?.pick(stRoll)
-                            subtableValue = (matches[5] == ".key") ? subtableValue.key : subtableValue.description
-                            entry.description = entry.description.replace(regex.subtable, (subtableValue) ? subtableValue : 'UNKNOWN_SUB-TABLE')
+                            subtableValue = (subtableValue) ?
+                                (matches[5] == ".key") ? subtableValue.key : subtableValue.description :
+                                `UNKNOWN ${subtableName}`
+                            entry.description = entry.description.replace(regex.subtable, subtableValue)
                         } catch (e) { break }
                     }
                 } while (matches)
