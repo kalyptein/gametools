@@ -38,13 +38,13 @@ const weight = `([0-9]+)`
 const range = '(-?[0-9]+)' + gap + ':?' + gap + '(-?[0-9]*)'
 
 const regex = {
-    key:    new RegExp(`^${key+gap}(.+)$`),                         // textKey rest of line is description                   key the rest is description
-    weight: new RegExp(`^${weight+gap}(.+)$`),                      // weightNumber rest of line is description              3 the rest is description
-    range:  new RegExp(`^${range+gap}(.+)$`),                       // x:y rest of line is description                       2:7 the rest is description
-    weightAndKey: new RegExp(`^${weight+gap+key+gap}(.+)$`),        // weightNumber textKey rest of line is description      3 key the rest is description
-    rangeAndKey:  new RegExp(`^${range+gap+key+gap}(.+)$`),         // x-y textKey rest of line is description               2:7 key the rest is description
-    subtable: new RegExp(`(\\[\\[([^\\[\\]]+?)\\]\\])`),            // do a roll on a [[subtable-name]] here
-    math:     new RegExp(`({{([^{}]+?)}})`),                        // resolve some inline math {{d(10)+4}} here
+    key:    new RegExp(`^${key+gap}(.+)$`),                                          // textKey rest of line is description                   key the rest is description
+    weight: new RegExp(`^${weight+gap}(.+)$`),                                       // weightNumber rest of line is description              3 the rest is description
+    range:  new RegExp(`^${range+gap}(.+)$`),                                        // x:y rest of line is description                       2:7 the rest is description
+    weightAndKey: new RegExp(`^${weight+gap+key+gap}(.+)$`),                         // weightNumber textKey rest of line is description      3 key the rest is description
+    rangeAndKey:  new RegExp(`^${range+gap+key+gap}(.+)$`),                          // x-y textKey rest of line is description               2:7 key the rest is description
+    subtable: new RegExp(`(\\[\\[([^\\[\\]{}]+?)(#([^\\[\\]{}]*?))?\\]\\](.key)?)`), // do #roll on [[subtable-name]] here                    #roll is optional
+    math:     new RegExp(`({{([^{}\\[\\]]+?)}})`),                                   // resolve some inline math {{d(10)+4}} here
 }
 
 export class Table {
@@ -167,33 +167,43 @@ export class Table {
         if (originalEntry) {
             entry = Object.assign({}, originalEntry)
             let matches = ''
+            let end = false
 
-            // recursive rolls on subtables
-            do {
-                matches = entry.description.match(regex.subtable)
-                if (matches) {
-                    try {
-                        let subtableName = matches[2]
-                        let subtableValue = tables[subtableName]?.pick().description
-                        entry.description = entry.description.replace(regex.subtable, (subtableValue) ? subtableValue : 'UNKNOWN_SUB-TABLE')
-                    } catch (e) { break }
-                }
-            } while (matches)
-            
-            // resolve inline math / commands (dice rolls, etc)
-            do {
-                matches = entry.description.match(regex.math)
-                if (matches) {
-                    try {
-                        let inline = eval(matches[2].trim())
-                        // let inline = simplify(matches[2])
-                        entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
-                    } catch (e) { 
-                        entry.description = entry.description.replace(regex.math, 'FAILED_EVAL')
-                        break
+            while (!end) {
+                end = true
+
+                // recursive rolls on subtables
+                do {
+                    matches = entry.description.match(regex.subtable)
+                    if (matches) {
+                        end = false
+                        try {
+                            let subtableName = matches[2]
+                            let stRoll = (matches[4]) ? matches[4] : undefined
+                            if (stRoll && !isNaN(Number(stRoll))) { stRoll = Number(stRoll) }       // convert number string to number
+                            let subtableValue = tables[subtableName]?.pick(stRoll)
+                            subtableValue = (matches[5] == ".key") ? subtableValue.key : subtableValue.description
+                            entry.description = entry.description.replace(regex.subtable, (subtableValue) ? subtableValue : 'UNKNOWN_SUB-TABLE')
+                        } catch (e) { break }
                     }
-                }
-            } while (matches)
+                } while (matches)
+                
+                // resolve inline math / commands (dice rolls, etc)
+                do {
+                    matches = entry.description.match(regex.math)
+                    if (matches) {
+                        end = false
+                        try {
+                            let inline = eval(matches[2].trim())
+                            // let inline = simplify(matches[2])
+                            entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
+                        } catch (e) { 
+                            entry.description = entry.description.replace(regex.math, 'FAILED_EVAL')
+                            break
+                        }
+                    }
+                } while (matches)
+            }
         }
 
         return (entry) ? entry : { key: 'nullEntry', index: NaN, description: `index ${roll} not found on table ${this.name}` }

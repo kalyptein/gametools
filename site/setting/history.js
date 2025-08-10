@@ -44,11 +44,11 @@ let historicalAgeStrange = new Table({
     index: RANGE,
     keyed: true,
     content: `
-1:2     Combo           (Combo) => {{ tables['historical-ages'].pick(d(18)).key }} / {{ tables['historical-ages'].pick(d(18)).key }}
+1:2     Combo           (Combo) => [[historical-ages#{{d(18)}}]].key / [[historical-ages#{{d(18)}}]].key
 # TODO Both Combo ages could be from the prior age's Leads-to list, or one could be and the other is completely random. Interpret freely.
-3:4     Wonders         (Age of Wonders) => {{ tables['historical-ages'].pick(d(18)).key }}
-5:6     Lost            (Lost Age) => {{ tables['historical-ages'].pick(d(18)).key }}
-7:8     Discontinuity   (Discontinuity) {{ tables['historical-ages'].pick(d(18)).key }}
+3:4     Wonders         (Age of Wonders) => [[historical-ages#{{d(18)}}]].key
+5:6     Lost            (Lost Age) => [[historical-ages#{{d(18)}}]].key
+7:8     Discontinuity   (Discontinuity) [[historical-ages#{{d(18)}}]].key
 `
 })
 
