@@ -55,7 +55,8 @@ let table5 = new Table({
     content: `
 this is the {{pick('first','best','worst')}} entry
 this is the {{1+1}}nd entry and rolls a d6+2 and gets a {{d(6)+2}}
-this is the third entry and rolls on a subtable and gets [[table-with-weights-name]]
+this is the third entry and rolls on a subtable and gets [[table-with-weights]]
+this is the 4th entry, rolls subtable with argument [[table-with-weights#5]] or roll [[table-with-weights#d(5)]]
 `
 })
 ```

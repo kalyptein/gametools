@@ -173,38 +173,35 @@ export class Table {
                 end = true
 
                 // recursive rolls on subtables
-                do {
-                    matches = entry.description.match(regex.subtable)
-                    if (matches) {
-                        end = false
-                        try {
-                            let subtableName = matches[2]
-                            let stRoll = (matches[4]) ? matches[4] : undefined
-                            if (stRoll && !isNaN(Number(stRoll))) { stRoll = Number(stRoll) }       // convert number string to number
-                            let subtableValue = tables[subtableName]?.pick(stRoll)
-                            subtableValue = (subtableValue) ?
-                                (matches[5] == ".key") ? subtableValue.key : subtableValue.description :
-                                `UNKNOWN ${subtableName}`
-                            entry.description = entry.description.replace(regex.subtable, subtableValue)
-                        } catch (e) { break }
-                    }
-                } while (matches)
+                matches = entry.description.match(regex.subtable)
+                if (matches) {
+                    end = false
+                    try {
+                        let subtableName = matches[2]
+                        let stRoll = (matches[4]) ? matches[4] : undefined
+                        if (stRoll && !isNaN(Number(stRoll))) { stRoll = Number(stRoll) }       // convert number string to number
+                        stRoll = eval(stRoll)
+                        let subtableValue = tables[subtableName]?.pick(stRoll)
+                        subtableValue = (subtableValue) ?
+                            (matches[5] == ".key") ? subtableValue.key : subtableValue.description :
+                            `UNKNOWN ${subtableName}`
+                        entry.description = entry.description.replace(regex.subtable, subtableValue)
+                    } catch (e) { break }
+                }
                 
                 // resolve inline math / commands (dice rolls, etc)
-                do {
-                    matches = entry.description.match(regex.math)
-                    if (matches) {
-                        end = false
-                        try {
-                            let inline = eval(matches[2].trim())
-                            // let inline = simplify(matches[2])
-                            entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
-                        } catch (e) { 
-                            entry.description = entry.description.replace(regex.math, 'FAILED_EVAL')
-                            break
-                        }
+                matches = entry.description.match(regex.math)
+                if (matches) {
+                    end = false
+                    try {
+                        let inline = eval(matches[2].trim())
+                        // let inline = simplify(matches[2])
+                        entry.description = entry.description.replace(regex.math, (inline) ? inline : 'FAILED_EVAL')
+                    } catch (e) { 
+                        entry.description = entry.description.replace(regex.math, 'FAILED_EVAL')
+                        break
                     }
-                } while (matches)
+                }
             }
         }
 
