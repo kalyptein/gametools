@@ -227,10 +227,27 @@ export function alphabetizeKeys(obj) {
     return sortedObject;
 }
 
+export function addElement(parent, type, text=undefined, ...attributes) {
+    if (!parent) {
+        console.error("No parent element given.")
+        return undefined
+    }
+
+    let el = document.createElement(type)
+    if (text) { el.textContent = text }
+    // if (attributes.length > 0) {
+    //     el.setAttribute()
+    // }
+    parent.appendChild(el)
+    return el
+}
+
+
 export default {
     tables: tables,
     Table: Table,
     alphabetizeKeys: alphabetizeKeys,
+    addElement: addElement,
     WEIGHT: WEIGHT,
     RANGE: RANGE
 }

@@ -19,7 +19,7 @@
     </select>
     <button id="genButton">Generate</button>
 
-    <p id="resultdisplay"></p>
+    <ul id="resultdisplay"></ul>
 
     <script type="module" defer>
 
@@ -44,9 +44,7 @@
             break
         }
 
-        let newEntry = document.createElement('p')
-        newEntry.textContent = name
-        result.appendChild(newEntry)
+        utils.addElement(result, 'li', name)
       })
     </script>
 
