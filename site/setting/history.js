@@ -7,6 +7,9 @@ export default history
 
 const debug = false
 
+export const ageList = ['Wild', 'Falling', 'Rising', 'Tyranny', 'Strife', 'Discovery', 'Dark', 'Decay', 'Placid', 'Golden', 'Strange']
+export const strangeList = ['Combo', 'Wonders', 'Lost', 'Discontinuity']
+
 history.ages = (roll=undefined) => {
     return historicalAges.pick(roll)
 }
@@ -36,11 +39,10 @@ let historicalAgeStrange = new Table({
     index: RANGE,
     keyed: true,
     content: `
-1:2     Combo           (Combo) => [[historical-ages#d(18)]].key / [[historical-ages#d(18)]].key
-# TODO Both Combo ages could be from the prior age's Leads-to list, or one could be and the other is completely random. Interpret freely.
-3:4     Wonders         (Age of Wonders) => [[historical-ages#d(18)]].key
-5:6     Lost            (Lost Age) => [[historical-ages#d(18)]].key
-7:8     Discontinuity   (Discontinuity) => [[historical-ages#d(18)]].key
+1:2     Combo           Combo
+3:4     Wonders         Age of Wonders
+5:6     Lost            Lost Age
+7:8     Discontinuity   Discontinuity
 `
 })
 

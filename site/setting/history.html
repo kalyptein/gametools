@@ -10,8 +10,6 @@
     <button id="nextButton" style="width:80px">Next</button>
     <button id="prevButton" style="width:80px">Previous</button>
 
-    <p id="resultdisplay"></p>
-
     <table id="agesTable" style="border: 1px solid">
       <tr>
         <th style="width:30px"></th>
@@ -22,53 +20,42 @@
 
     <script type="module" defer>
 
-      import { m, d, pick, Table, tables, addElement, insertElement, getRadioSelected } from "../scripts/utils.js"
-      import { history } from "./history.js"
+      import { m, d, pick, Table, tables, addElement, insertElement, getRadioSelected, createDropdown, createRadio } from "../scripts/utils.js"
+      import { history, ageList, strangeList } from "./history.js"
 
       // get elements
-      const result = document.getElementById("resultdisplay")
       const agesTable = document.getElementById("agesTable")
-      // const cultureSelect = document.getElementById("culture")
-      // const typeSelect = document.getElementById("nametype")
       const genButton = document.getElementById("genButton")
       const rmButton = document.getElementById("rmButton")
       const nextButton = document.getElementById("nextButton")
       const prevButton = document.getElementById("prevButton")
-      var idCount = 0
 
       function addAge(age, refNode=undefined, before=false) {
+        if (!age) { console.error("Invalid table result, can't add age"); return }
         let tr = insertElement(agesTable, refNode, 'tr', before)
-        tr.setAttribute('id', `tr-age-${idCount}`)
 
         let td = addElement(tr, 'td')
-        let el = document.createElement('input')
-        el.setAttribute('type', 'radio')
-        el.setAttribute('id', `td-age-${idCount}`)
-        el.setAttribute('parentId', `tr-age-${idCount}`)
+        let el = createRadio('ages', '', true)
         el.setAttribute('ageType', age.key)
-        el.setAttribute('name', 'ages')
-        el.setAttribute('value', '')
-        el.checked = true
         td.appendChild(el)
 
         td = addElement(tr, 'td')
-        td.appendChild(ageDropdown(age.key))
+        td.appendChild(createDropdown(ageList, age.key, setDescription))
 
         // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
         td = addElement(tr, 'td', age.description)
-        idCount += 1
       }
+
+      // TODO
+      //
+      // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
+      //
+      // save state w/ cookie (json list?)
 
       // generate random age
       genButton.addEventListener('click', event => {
         let age = history.ages()
         addAge(age)
-
-        // TODO
-        //
-        // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
-        //
-        // save state w/ cookie (json list?)
       })
 
       // remove selected age
@@ -97,30 +84,9 @@
         }
       })
 
-      const ageList = ['Wild', 'Falling', 'Rising', 'Tyranny', 'Strife', 'Discovery', 'Dark', 'Decay', 'Placid', 'Golden', 'Strange']
-
       function setDescription(event) {
-        const selectedValue = event.target.value;   // Get the new selected value
-        let a = history.ages(selectedValue)
         let tr = event.target.parentElement.parentElement
-        let desc = tr.children[tr.childElementCount-1]
-        desc.textContent = a.description
-      }
-
-      function ageDropdown(val, changeListener=true) {
-        let dropdown = document.createElement('select')
-
-        ageList.forEach(a => {
-          let option = document.createElement('option')
-          option.setAttribute('value', a)
-          option.textContent = a
-          dropdown.appendChild(option)
-        })
-        dropdown.value = val
-
-        if (changeListener) { dropdown.addEventListener('change', setDescription); }
-
-        return dropdown
+        tr.children[tr.childElementCount-1].textContent = history.ages(event.target.value).description
       }
     </script>
 

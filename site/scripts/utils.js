@@ -228,17 +228,17 @@ export function alphabetizeKeys(obj) {
     return sortedObject;
 }
 
-export function addElement(parent, type, text=undefined, ...attributes) {
-    return insertElement(parent, undefined, type, false, text, ...attributes)
+export function addElement(parent, el, text=undefined, ...attributes) {
+    return insertElement(parent, undefined, el, false, text, ...attributes)
 }
 
-export function insertElement(parent, refNode, type, before=false, text=undefined, ...attributes) {
+export function insertElement(parent, refNode, el, before=false, text=undefined, ...attributes) {
     if (!parent) {
         console.error("No parent element given.")
         return undefined
     }
 
-    let el = document.createElement(type)
+    el = (typeof el == 'string') ? document.createElement(el): el
     if (text) { el.textContent = text }
 
     // TODO apply attributes
@@ -267,13 +267,40 @@ export function getRadioSelected(group) {
     return undefined
 }
 
+export function createDropdown(options, selected, changeHandler) {
+        let dropdown = document.createElement('select')
+
+        options.forEach(o => {
+          let option = document.createElement('option')
+          option.setAttribute('value', o)
+          option.textContent = o
+          dropdown.appendChild(option)
+        })
+        dropdown.value = selected
+
+        if (changeHandler) { dropdown.addEventListener('change', changeHandler); }
+
+        return dropdown
+}
+
+export function createRadio(name, value='', selected=false) {
+    let radio = document.createElement('input')
+    radio.setAttribute('type', 'radio')
+    radio.setAttribute('name', name)
+    radio.setAttribute('value', value)
+    radio.checked = selected
+    return radio
+}
+
 export default {
     tables: tables,
     Table: Table,
     alphabetizeKeys: alphabetizeKeys,
     addElement: addElement,
-    insertElement: insertElement, 
+    insertElement: insertElement,     
     getRadioSelected: getRadioSelected,
+    createDropdown: createDropdown,
+    createRadio: createRadio,
     WEIGHT: WEIGHT,
     RANGE: RANGE
 }
