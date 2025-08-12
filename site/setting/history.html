@@ -44,11 +44,16 @@
 
         // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
         td = addElement(tr, 'td', age.description)
+
+        if (age.key == "Strange") {
+          let sub_tr = addAge(history.ages(d(18)), tr)
+          if (age.description == "Combo") { addAge(history.ages(d(18)), sub_tr) }
+        }
+
+        return tr
       }
 
       // TODO
-      //
-      // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
       //
       // save state w/ cookie (json list?)
 
