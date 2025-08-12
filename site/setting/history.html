@@ -51,11 +51,11 @@
         el.checked = true
         td.appendChild(el)
 
-        td = addElement(tr, 'td', age.key)
-        // td.setAttibute("style", "border: 1px solid")
-        td = addElement(tr, 'td', age.description)
-        // td.setAttibute("style", "border: 1px solid")
+        td = addElement(tr, 'td')
+        td.appendChild(ageDropdown(age.key))
 
+        // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
+        td = addElement(tr, 'td', age.description)
         idCount += 1
       }
 
@@ -66,7 +66,7 @@
 
         // TODO
         //
-        // make the age name a dropdown so you can change what it is (update description)
+        // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
         //
         // save state w/ cookie (json list?)
       })
@@ -96,6 +96,32 @@
           addAge(age, radio.parentElement.parentElement, true)
         }
       })
+
+      const ageList = ['Wild', 'Falling', 'Rising', 'Tyranny', 'Strife', 'Discovery', 'Dark', 'Decay', 'Placid', 'Golden', 'Strange']
+
+      function setDescription(event) {
+        const selectedValue = event.target.value;   // Get the new selected value
+        let a = history.ages(selectedValue)
+        let tr = event.target.parentElement.parentElement
+        let desc = tr.children[tr.childElementCount-1]
+        desc.textContent = a.description
+      }
+
+      function ageDropdown(val, changeListener=true) {
+        let dropdown = document.createElement('select')
+
+        ageList.forEach(a => {
+          let option = document.createElement('option')
+          option.setAttribute('value', a)
+          option.textContent = a
+          dropdown.appendChild(option)
+        })
+        dropdown.value = val
+
+        if (changeListener) { dropdown.addEventListener('change', setDescription); }
+
+        return dropdown
+      }
     </script>
 
   </body>
