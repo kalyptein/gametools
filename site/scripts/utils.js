@@ -229,6 +229,10 @@ export function alphabetizeKeys(obj) {
 }
 
 export function addElement(parent, type, text=undefined, ...attributes) {
+    return insertElement(parent, undefined, type, text, ...attributes)
+}
+
+export function insertElement(parent, refNode, type, text=undefined, ...attributes) {
     if (!parent) {
         console.error("No parent element given.")
         return undefined
@@ -236,10 +240,14 @@ export function addElement(parent, type, text=undefined, ...attributes) {
 
     let el = document.createElement(type)
     if (text) { el.textContent = text }
+
+    // TODO apply attributes
     // if (attributes.length > 0) {
     //     el.setAttribute()
     // }
-    parent.appendChild(el)
+
+    if (!refNode) { parent.appendChild(el) }
+    else { parent.insertBefore(el, refNode) }
     return el
 }
 
@@ -256,6 +264,7 @@ export default {
     Table: Table,
     alphabetizeKeys: alphabetizeKeys,
     addElement: addElement,
+    insertElement: insertElement, 
     getRadioSelected: getRadioSelected,
     WEIGHT: WEIGHT,
     RANGE: RANGE

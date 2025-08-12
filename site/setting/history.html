@@ -22,7 +22,7 @@
 
     <script type="module" defer>
 
-      import { m, d, pick, Table, tables, addElement, getRadioSelected } from "../scripts/utils.js"
+      import { m, d, pick, Table, tables, addElement, insertElement, getRadioSelected } from "../scripts/utils.js"
       import { history } from "./history.js"
 
       // get elements
@@ -36,8 +36,8 @@
       const prevButton = document.getElementById("prevButton")
       var idCount = 0
 
-      function addAge(age) {
-        let tr = addElement(agesTable, 'tr')
+      function addAge(age, refNode=undefined) {
+        let tr = insertElement(agesTable, refNode, 'tr')
         tr.setAttribute('id', `tr-age-${idCount}`)
 
         let td = addElement(tr, 'td')
@@ -56,7 +56,6 @@
         // td.setAttibute("style", "border: 1px solid")
 
         idCount += 1
-
       }
 
       // generate random age
@@ -84,9 +83,8 @@
         let radio = getRadioSelected('ages')
         if (radio) { 
           let type = radio.getAttribute('ageType')
-          let age = history.leadsTo(type)
-          console.log(age)
-          addAge(age)
+          let age = history.leadsTo[type]()
+          addAge(age, radio.parentElement.parentElement)
           // TODO insert into table, not append at end
         }
       })
@@ -96,9 +94,8 @@
         let radio = getRadioSelected('ages')
         if (radio) { 
           let type = radio.getAttribute('ageType')
-          console.log(type)
-          let age = history.arisesFrom(type)
-          addAge(age)
+          let age = history.arisesFrom[type]()
+          addAge(age, radio.parentElement.parentElement)
           // TODO insert into table, not append at end
         }
       })
