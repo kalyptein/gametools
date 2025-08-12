@@ -229,10 +229,10 @@ export function alphabetizeKeys(obj) {
 }
 
 export function addElement(parent, type, text=undefined, ...attributes) {
-    return insertElement(parent, undefined, type, text, ...attributes)
+    return insertElement(parent, undefined, type, false, text, ...attributes)
 }
 
-export function insertElement(parent, refNode, type, text=undefined, ...attributes) {
+export function insertElement(parent, refNode, type, before=false, text=undefined, ...attributes) {
     if (!parent) {
         console.error("No parent element given.")
         return undefined
@@ -245,9 +245,17 @@ export function insertElement(parent, refNode, type, text=undefined, ...attribut
     // if (attributes.length > 0) {
     //     el.setAttribute()
     // }
-
-    if (!refNode) { parent.appendChild(el) }
-    else { parent.insertBefore(el, refNode) }
+    
+    const childrenArray = Array.from(parent.children); // Convert HTMLCollection to Array
+    const index = childrenArray.indexOf(refNode);
+    if (before && refNode) {
+        parent.insertBefore(el, refNode)
+    } else if (!refNode || (parent.childElementCount-1 == index && !before)) {
+        parent.appendChild(el)
+    } else {
+        refNode = childrenArray[index+1]
+        parent.insertBefore(el, refNode)
+    }
     return el
 }
 

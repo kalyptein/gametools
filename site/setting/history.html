@@ -36,8 +36,8 @@
       const prevButton = document.getElementById("prevButton")
       var idCount = 0
 
-      function addAge(age, refNode=undefined) {
-        let tr = insertElement(agesTable, refNode, 'tr')
+      function addAge(age, refNode=undefined, before=false) {
+        let tr = insertElement(agesTable, refNode, 'tr', before)
         tr.setAttribute('id', `tr-age-${idCount}`)
 
         let td = addElement(tr, 'td')
@@ -48,6 +48,7 @@
         el.setAttribute('ageType', age.key)
         el.setAttribute('name', 'ages')
         el.setAttribute('value', '')
+        el.checked = true
         td.appendChild(el)
 
         td = addElement(tr, 'td', age.key)
@@ -64,8 +65,6 @@
         addAge(age)
 
         // TODO
-        // button to generate leadsTo age and append, move radio select to the new one
-        // button to generate arisesFrom age and prepend, move radio select to the new one
         //
         // make the age name a dropdown so you can change what it is (update description)
         //
@@ -85,7 +84,6 @@
           let type = radio.getAttribute('ageType')
           let age = history.leadsTo[type]()
           addAge(age, radio.parentElement.parentElement)
-          // TODO insert into table, not append at end
         }
       })
 
@@ -95,8 +93,7 @@
         if (radio) { 
           let type = radio.getAttribute('ageType')
           let age = history.arisesFrom[type]()
-          addAge(age, radio.parentElement.parentElement)
-          // TODO insert into table, not append at end
+          addAge(age, radio.parentElement.parentElement, true)
         }
       })
     </script>
