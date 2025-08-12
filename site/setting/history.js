@@ -11,14 +11,6 @@ history.ages = (roll=undefined) => {
     return historicalAges.pick(roll)
 }
 
-history.leadsTo = (roll=undefined) => {
-    return historicalAgeLeadsTo.pick(roll)
-}
-
-history.arisesFrom = (roll=undefined) => {
-    return historicalAgeArisesFrom.pick(roll)
-}
-
 let historicalAges = new Table({
     name: "historical-ages",
     // defaultRoll: () => d(20),
@@ -52,38 +44,33 @@ let historicalAgeStrange = new Table({
 `
 })
 
-let historicalAgeLeadsTo = new Table({
-    name: "historical-age-leads-to",
-    keyed: true,
-    content: `
-Wild            {{ history.ages.pick( pick('Rising',  'Strife',  'Discovery', 'Dark',      'Placid') ) }}
-Falling         {{ history.ages.pick( pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Dark',      'Placid') ) }}
-Rising          {{ history.ages.pick( pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Golden',    'Decay') ) }}
-Tyranny         {{ history.ages.pick( pick('Falling', 'Rising',  'Strife',    'Discovery', 'Dark',      'Golden',    'Decay') ) }}
-Strife          {{ history.ages.pick( pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Dark',      'Placid',    'Golden', 'Decay') ) }}
-Discovery       {{ history.ages.pick( pick('Falling', 'Rising',  'Tyranny',   'Strife',    'Golden',    'Decay') ) }}
-Dark            {{ history.ages.pick( pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Placid') ) }}
-Decay           {{ history.ages.pick( pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Strife',    'Discovery', 'Dark',   'Placid') ) }}
-Placid          {{ history.ages.pick( pick('Wild',    'Rising',  'Strife',    'Discovery') ) }}
-Golden          {{ history.ages.pick( pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Decay') ) }}
-Strange         [[historical-ages]]
-`
-})
+history.leadsTo = {
+    name:       "historical-age-leads-to", 
+    Wild:       () => historicalAges.pick(pick('Rising',  'Strife',  'Discovery', 'Dark',      'Placid')),
+    Falling:    () => historicalAges.pick(pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Dark',      'Placid')),
+    Rising:     () => historicalAges.pick(pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Golden',    'Decay')),
+    Tyranny:    () => historicalAges.pick(pick('Falling', 'Rising',  'Strife',    'Discovery', 'Dark',      'Golden',    'Decay')),
+    Strife:     () => historicalAges.pick(pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Dark',      'Placid',    'Golden', 'Decay')),
+    Discovery:  () => historicalAges.pick(pick('Falling', 'Rising',  'Tyranny',   'Strife',    'Golden',    'Decay')),
+    Dark:       () => historicalAges.pick(pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Placid')),
+    Decay:      () => historicalAges.pick(pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Strife',    'Discovery', 'Dark',   'Placid')),
+    Placid:     () => historicalAges.pick(pick('Wild',    'Rising',  'Strife',    'Discovery')),
+    Golden:     () => historicalAges.pick(pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Decay')),
+    Strange:    () => historicalAges.pick()
+}
 
-let historicalAgeArisesFrom = new Table({
-    name: "historical-age-arises-from",
-    keyed: true,
-    content: `
-Wild            {{ history.ages.pick( pick('Falling', 'Strife',  'Dark',    'Placid') ) }}
-Falling         {{ history.ages.pick( pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden') ) }}
-Rising          {{ history.ages.pick( pick('Wild',    'Falling', 'Tyranny', 'Strife',    'Discovery', 'Dark',   'Placid') ) }}
-Tyranny         {{ history.ages.pick( pick('Rising',  'Falling', 'Strife',  'Discovery', 'Dark',      'Golden') ) }}
-Strife          {{ history.ages.pick( pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Discovery', 'Dark',   'Placid', 'Golden') ) }}
-Discovery       {{ history.ages.pick( pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Dark',      'Placid', 'Golden') ) }}
-Dark            {{ history.ages.pick( pick('Wild',    'Falling', 'Tyranny', 'Strife') ) }}
-Decay           {{ history.ages.pick( pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden') ) }}
-Placid          {{ history.ages.pick( pick('Wild',    'Falling', 'Strife',  'Dark') ) }}
-Golden          {{ history.ages.pick( pick('Rising',  'Tyranny', 'Strife',  'Discovery') ) }}
-Strange         [[historical-ages]]
-`
-})
+
+history.arisesFrom = {
+    name:       "historical-age-arises-from",
+    Wild:       () => historicalAges.pick(pick('Falling', 'Strife',  'Dark',    'Placid')),
+    Falling:    () => historicalAges.pick(pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
+    Rising:     () => historicalAges.pick(pick('Wild',    'Falling', 'Tyranny', 'Strife',    'Discovery', 'Dark',   'Placid')),
+    Tyranny:    () => historicalAges.pick(pick('Rising',  'Falling', 'Strife',  'Discovery', 'Dark',      'Golden')),
+    Strife:     () => historicalAges.pick(pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Discovery', 'Dark',   'Placid', 'Golden')),
+    Discovery:  () => historicalAges.pick(pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Dark',      'Placid', 'Golden')),
+    Dark:       () => historicalAges.pick(pick('Wild',    'Falling', 'Tyranny', 'Strife')),
+    Decay:      () => historicalAges.pick(pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
+    Placid:     () => historicalAges.pick(pick('Wild',    'Falling', 'Strife',  'Dark')),
+    Golden:     () => historicalAges.pick(pick('Rising',  'Tyranny', 'Strife',  'Discovery')),
+    Strange:    () => historicalAges.pick()
+}

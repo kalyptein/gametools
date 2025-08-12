@@ -36,9 +36,7 @@
       const prevButton = document.getElementById("prevButton")
       var idCount = 0
 
-      // generate random age
-      genButton.addEventListener('click', event => {
-        let age = history.ages()
+      function addAge(age) {
         let tr = addElement(agesTable, 'tr')
         tr.setAttribute('id', `tr-age-${idCount}`)
 
@@ -47,9 +45,24 @@
         el.setAttribute('type', 'radio')
         el.setAttribute('id', `td-age-${idCount}`)
         el.setAttribute('parentId', `tr-age-${idCount}`)
+        el.setAttribute('ageType', age.key)
         el.setAttribute('name', 'ages')
         el.setAttribute('value', '')
         td.appendChild(el)
+
+        td = addElement(tr, 'td', age.key)
+        // td.setAttibute("style", "border: 1px solid")
+        td = addElement(tr, 'td', age.description)
+        // td.setAttibute("style", "border: 1px solid")
+
+        idCount += 1
+
+      }
+
+      // generate random age
+      genButton.addEventListener('click', event => {
+        let age = history.ages()
+        addAge(age)
 
         // TODO
         // button to generate leadsTo age and append, move radio select to the new one
@@ -58,13 +71,6 @@
         // make the age name a dropdown so you can change what it is (update description)
         //
         // save state w/ cookie (json list?)
-
-        td = addElement(tr, 'td', age.key)
-        // td.setAttibute("style", "border: 1px solid")
-        td = addElement(tr, 'td', age.description)
-        // td.setAttibute("style", "border: 1px solid")
-
-        idCount += 1
       })
 
       // remove selected age
@@ -76,11 +82,25 @@
       // generate leads-to age from selected age, append to selected age
       nextButton.addEventListener('click', event => {
         let radio = getRadioSelected('ages')
+        if (radio) { 
+          let type = radio.getAttribute('ageType')
+          let age = history.leadsTo(type)
+          console.log(age)
+          addAge(age)
+          // TODO insert into table, not append at end
+        }
       })
 
       // generate arises-from age from selected age, prepend to selected age
       prevButton.addEventListener('click', event => {
         let radio = getRadioSelected('ages')
+        if (radio) { 
+          let type = radio.getAttribute('ageType')
+          console.log(type)
+          let age = history.arisesFrom(type)
+          addAge(age)
+          // TODO insert into table, not append at end
+        }
       })
     </script>
 

@@ -166,6 +166,7 @@ export class Table {
         let entry = undefined
         if (originalEntry) {
             entry = Object.assign({}, originalEntry)
+            entry.roll = roll
             let matches = ''
             let end = false
 
