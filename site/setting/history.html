@@ -5,10 +5,15 @@
   <body>
     <h1>History</h1>
 
-    <button id="genButton" style="width:80px">Generate</button>
-    <button id="rmButton" style="width:80px">Remove</button>
-    <button id="nextButton" style="width:80px">Next</button>
-    <button id="prevButton" style="width:80px">Previous</button>
+    <p>
+      <button id="genButton" style="width:80px">Generate</button>
+      <button id="upButton" style="width:30px">▲</button>
+      <button id="downButton" style="width:30px">▼</button>
+      <button id="nextButton" style="width:80px">Next</button>
+      <button id="prevButton" style="width:80px">Previous</button>
+      <button id="rmButton" style="width:80px">Remove</button>
+      <button id="clrButton" style="width:80px">Clear</button>
+    </p>
 
     <table id="agesTable" style="border: 1px solid">
       <tr>
@@ -26,6 +31,8 @@
       // get elements
       const agesTable = document.getElementById("agesTable")
       const genButton = document.getElementById("genButton")
+      const upButton = document.getElementById("upButton")
+      const downButton = document.getElementById("downButton")
       const rmButton = document.getElementById("rmButton")
       const nextButton = document.getElementById("nextButton")
       const prevButton = document.getElementById("prevButton")
@@ -42,8 +49,8 @@
         td = addElement(tr, 'td')
         td.appendChild(createDropdown(ageList, age.key, setDescription))
 
-        // TODO strange ages should have dropdowns for the types in the description (no effect of changing)
-        td = addElement(tr, 'td', age.description)
+        let desc = (age.key == "Strange") ? `*** ${age.description} ***` : age.description
+        td = addElement(tr, 'td', desc)
 
         if (age.key == "Strange") {
           let sub_tr = addAge(history.ages(d(18)), tr)
@@ -56,6 +63,11 @@
       // TODO
       //
       // save state w/ cookie (json list?)
+      //
+      // button bar at the top doesn't scroll with rest of window
+      //
+      // "no strange" checkbox
+
 
       // generate random age
       genButton.addEventListener('click', event => {
@@ -89,9 +101,27 @@
         }
       })
 
+      function shiftEntry(move, before) {
+        let radio = getRadioSelected('ages')
+        if (radio) { 
+          let tr = radio.parentElement.parentElement
+          const childrenArray = Array.from(agesTable.children);
+          let index = childrenArray.indexOf(tr) + move;
+          if (index >= 1 && index <= childrenArray.length-1) {
+            agesTable.removeChild(tr)
+            insertElement(agesTable, childrenArray[index], tr, before)
+          }
+        }
+      }
+
+      upButton.addEventListener('click', event => shiftEntry(-1, true))
+      downButton.addEventListener('click', event => shiftEntry(1, false))
+
       function setDescription(event) {
         let tr = event.target.parentElement.parentElement
-        tr.children[tr.childElementCount-1].textContent = history.ages(event.target.value).description
+        let age = history.ages(event.target.value)
+        let desc = (age.key == "Strange") ? `*** ${age.description} ***` : age.description
+        tr.children[tr.childElementCount-1].textContent = desc
       }
     </script>
 
