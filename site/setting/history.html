@@ -13,6 +13,7 @@
       <button id="prevButton" style="width:80px">Previous</button>
       <button id="rmButton" style="width:80px">Remove</button>
       <button id="clrButton" style="width:80px">Clear</button>
+      <input type="checkbox" id="noStrangeCheck" value="false" />No Strange
     </p>
 
     <table id="agesTable" style="border: 1px solid">
@@ -36,6 +37,7 @@
       const rmButton = document.getElementById("rmButton")
       const nextButton = document.getElementById("nextButton")
       const prevButton = document.getElementById("prevButton")
+      const noStrangeCheck = document.getElementById("noStrangeCheck")
 
       function addAge(age, refNode=undefined, before=false) {
         if (!age) { console.error("Invalid table result, can't add age"); return }
@@ -65,15 +67,12 @@
       // save state w/ cookie (json list?)
       //
       // button bar at the top doesn't scroll with rest of window
-      //
-      // "no strange" checkbox
 
+      // don't roll strange ages
+      noStrangeCheck.addEventListener('click', event => { history.noStrange = event.target.checked })
 
       // generate random age
-      genButton.addEventListener('click', event => {
-        let age = history.ages()
-        addAge(age)
-      })
+      genButton.addEventListener('click', event => { addAge(history.ages()) })
 
       // remove selected age
       rmButton.addEventListener('click', event => {

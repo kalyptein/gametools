@@ -11,8 +11,11 @@ export const ageList = ['Wild', 'Falling', 'Rising', 'Tyranny', 'Strife', 'Disco
 export const strangeList = ['Combo', 'Wonders', 'Lost', 'Discontinuity']
 
 history.ages = (roll=undefined) => {
+    if (!roll && history.noStrange) { roll = d(18) }
     return historicalAges.pick(roll)
 }
+
+history.noStrange = false
 
 let historicalAges = new Table({
     name: "historical-ages",
@@ -48,31 +51,31 @@ let historicalAgeStrange = new Table({
 
 history.leadsTo = {
     name:       "historical-age-leads-to", 
-    Wild:       () => historicalAges.pick(pick('Rising',  'Strife',  'Discovery', 'Dark',      'Placid')),
-    Falling:    () => historicalAges.pick(pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Dark',      'Placid')),
-    Rising:     () => historicalAges.pick(pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Golden',    'Decay')),
-    Tyranny:    () => historicalAges.pick(pick('Falling', 'Rising',  'Strife',    'Discovery', 'Dark',      'Golden',    'Decay')),
-    Strife:     () => historicalAges.pick(pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Dark',      'Placid',    'Golden', 'Decay')),
-    Discovery:  () => historicalAges.pick(pick('Falling', 'Rising',  'Tyranny',   'Strife',    'Golden',    'Decay')),
-    Dark:       () => historicalAges.pick(pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Placid')),
-    Decay:      () => historicalAges.pick(pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Strife',    'Discovery', 'Dark',   'Placid')),
-    Placid:     () => historicalAges.pick(pick('Wild',    'Rising',  'Strife',    'Discovery')),
-    Golden:     () => historicalAges.pick(pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Decay')),
+    Wild:       () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Rising',  'Strife',  'Discovery', 'Dark',      'Placid')),
+    Falling:    () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Dark',      'Placid')),
+    Rising:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Golden',    'Decay')),
+    Tyranny:    () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Falling', 'Rising',  'Strife',    'Discovery', 'Dark',      'Golden',    'Decay')),
+    Strife:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Dark',      'Placid',    'Golden', 'Decay')),
+    Discovery:  () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Falling', 'Rising',  'Tyranny',   'Strife',    'Golden',    'Decay')),
+    Dark:       () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Placid')),
+    Decay:      () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Strife',    'Discovery', 'Dark',   'Placid')),
+    Placid:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Rising',  'Strife',    'Discovery')),
+    Golden:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Decay')),
     Strange:    () => historicalAges.pick()
 }
 
 
 history.arisesFrom = {
     name:       "historical-age-arises-from",
-    Wild:       () => historicalAges.pick(pick('Falling', 'Strife',  'Dark',    'Placid')),
-    Falling:    () => historicalAges.pick(pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
-    Rising:     () => historicalAges.pick(pick('Wild',    'Falling', 'Tyranny', 'Strife',    'Discovery', 'Dark',   'Placid')),
-    Tyranny:    () => historicalAges.pick(pick('Rising',  'Falling', 'Strife',  'Discovery', 'Dark',      'Golden')),
-    Strife:     () => historicalAges.pick(pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Discovery', 'Dark',   'Placid', 'Golden')),
-    Discovery:  () => historicalAges.pick(pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Dark',      'Placid', 'Golden')),
-    Dark:       () => historicalAges.pick(pick('Wild',    'Falling', 'Tyranny', 'Strife')),
-    Decay:      () => historicalAges.pick(pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
-    Placid:     () => historicalAges.pick(pick('Wild',    'Falling', 'Strife',  'Dark')),
-    Golden:     () => historicalAges.pick(pick('Rising',  'Tyranny', 'Strife',  'Discovery')),
+    Wild:       () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Falling', 'Strife',  'Dark',    'Placid')),
+    Falling:    () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
+    Rising:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Falling', 'Tyranny', 'Strife',    'Discovery', 'Dark',   'Placid')),
+    Tyranny:    () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Rising',  'Falling', 'Strife',  'Discovery', 'Dark',      'Golden')),
+    Strife:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Discovery', 'Dark',   'Placid', 'Golden')),
+    Discovery:  () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Dark',      'Placid', 'Golden')),
+    Dark:       () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Falling', 'Tyranny', 'Strife')),
+    Decay:      () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
+    Placid:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Wild',    'Falling', 'Strife',  'Dark')),
+    Golden:     () => historicalAges.pick((d(10)==10 && !history.noStrange) ? 'Strange' : pick('Rising',  'Tyranny', 'Strife',  'Discovery')),
     Strange:    () => historicalAges.pick()
 }
