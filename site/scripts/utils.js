@@ -238,7 +238,7 @@ export function insertElement(parent, refNode, el, before=false, text=undefined,
         return undefined
     }
 
-    el = (typeof el == 'string') ? document.createElement(el): el
+    el = (typeof el == 'string') ? document.createElement(el) : el
     if (text) { el.textContent = text }
 
     // TODO apply attributes

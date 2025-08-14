@@ -1,28 +1,81 @@
 <html>
   <head>
     <title>Ages of History</title>
+    <style>
+      tr:nth-child(odd) {
+        background-color: lightgrey; /* Light grey for odd rows */
+      }
+
+      /* tr:nth-child(even) {
+        background-color: white; /* White for even rows
+      } */
+
+      th {
+        text-align: start;
+        padding: 5px
+      }
+
+      .container {
+        display: flex
+      }
+
+      /* .column {
+        flex: 1
+      } */
+    </style>
   </head>
   <body>
-    <h1>Ages of History</h1>
+    <h1>History</h1>
 
-    <p style="background: lightgrey; position: fixed; width: 100%; top: 50px; padding: 5px">
-      <button id="genButton" style="width:80px">Append</button>
-      <button id="upButton" style="width:30px">▲</button>
-      <button id="downButton" style="width:30px">▼</button>
-      <button id="nextButton" style="width:80px">Next</button>
-      <button id="prevButton" style="width:80px">Previous</button>
-      <button id="rmButton" style="width:80px">Remove</button>
-      <button id="clrButton" style="width:80px">Clear</button>
-      <input type="checkbox" id="noStrangeCheck" value="false" />No Strange
-    </p>
+    <div class="container">
 
-    <table id="agesTable" style="border: 1px solid; margin-top: 70px; border-spacing: 2px 4px">
-      <tr style="background: black; color: white">
-        <th style="width:30px; padding: 5px"></th>
-        <th style="width:100px; text-align: start; padding: 5px">Age</th>
-        <th style="width:500px; text-align: start; padding: 5px">Description</th>
-      </tr>
-    </table>
+      <div class="column" style="width: 55%">
+        <h2>Ages of History</h2>
+        
+        <p style="background: lightgrey; padding: 5px;">
+          <button id="genButton" style="width:80px">Append</button>
+          <button id="upButton" style="width:30px" onclick="shiftEntry(-1, true)">▲</button>
+          <button id="downButton" style="width:30px" onclick="shiftEntry(1, false)">▼</button>
+          <button id="nextButton" style="width:80px">Next</button>
+          <button id="prevButton" style="width:80px">Previous</button>
+          <button id="rmButton" style="width:80px">Remove</button>
+          <button id="clrButton" style="width:80px" onclick="if (confirm('Clear List?')) { clearAges() }">Clear</button>
+          <input type="checkbox" id="noStrangeCheck" value="false" onclick="noStrangeToggle(event)"/>No Strange
+          <!-- TODO button export to json and/or text for each copying -->
+        </p>
+
+        <table id="agesTable" style="border: 1px solid; border-spacing: 2px 4px">
+          <tr style="background: black; color: white">
+            <th style="width:30px;"></th>
+            <th style="width:100px;">Age</th>
+            <th style="width:500px;">Description</th>
+            <th style="width:500px;">Notes</th>
+          </tr>
+        </table>
+      </div>
+
+      <div class="column" style="width: 40%; margin-left: 50px">
+        <h2>Historical Events</h2>
+
+        <p style="background: lightgrey; padding: 5px;">
+          <button id="eventButton" style="width:80px" onclick="rollEvent();">Event</button>
+          <button id="crisisButton" style="width:80px" onclick="rollCrisis();">Crisis</button>
+        </p>
+
+        <ul>
+          <li>Event: <span id="eventSpan"></span></li>
+          <ul hidden>
+            <li id="eventDescLi"></li>
+          </ul>
+          <li>Crisis: <span id="crisisLi"></span></li>
+          <ul>
+            <li>Overcome: <span id="overcomeLi"></span></li>
+            <li>Failed: <span id="failLi"></span></li>
+          </ul>
+        </ul>
+      </div>
+
+    </div>
 
     <script type="module" defer>
 
@@ -32,13 +85,15 @@
       // get elements
       const agesTable = document.getElementById("agesTable")
       const genButton = document.getElementById("genButton")
-      const upButton = document.getElementById("upButton")
-      const downButton = document.getElementById("downButton")
       const rmButton = document.getElementById("rmButton")
-      const clrButton = document.getElementById("clrButton")
       const nextButton = document.getElementById("nextButton")
       const prevButton = document.getElementById("prevButton")
-      const noStrangeCheck = document.getElementById("noStrangeCheck")
+
+      // TODO
+      //
+      // put table / odds in tooltip(s)
+      //
+      // notes for ages, button to copy events/crises to notes
 
       function saveState() {
         const ages = Array.from(agesTable.children).slice(1).map(a => a.getAttribute('entry'))
@@ -58,26 +113,23 @@
         if (ages) {
           let index = localStorage.getItem('historySelected')
           clearAges(false)
-          JSON.parse(ages).map(a => JSON.parse(a)).forEach(a => addAge(a))
+          JSON.parse(ages).map(a => JSON.parse(a)).forEach(a => addAge(a, undefined, false, true))
           if (index != null) { selectRadio(index) }
-
         }
       }
 
-      function clearAges(clrState=true) {
-        while (agesTable.lastChild && agesTable.childElementCount > 1) {
-          agesTable.removeChild(agesTable.lastChild)
-        }
+      window.clearAges = (clrState=true) => {
+        while (agesTable.lastChild && agesTable.childElementCount > 1) { agesTable.removeChild(agesTable.lastChild) }
         if (clrState) { localStorage.removeItem('historyState') }
       }
 
-      function addAge(age, refNode=undefined, before=false) {
+      function addAge(age, refNode=undefined, before=false, reload=false) {
         if (!age) { console.error("Invalid table result, can't add age"); return }
         let tr = insertElement(agesTable, refNode, 'tr', before)
         tr.setAttribute('entry', JSON.stringify(age))
 
         let td = addElement(tr, 'td')
-        let el = createRadio('ages', '', true)
+        let el = createRadio('ages', '', !reload)
         el.setAttribute('ageType', age.key)
         td.appendChild(el)
         el.addEventListener('change', saveSelectedRadio);
@@ -85,10 +137,20 @@
         td = addElement(tr, 'td')
         td.appendChild(createDropdown(ageList, age.key, setDescription))
 
-        let desc = (age.key == "Strange") ? `*** ${age.description} ***` : age.description
-        td = addElement(tr, 'td', desc)
+        if (age.key != "Strange") {
+          td = addElement(tr, 'td', age.description)
 
-        if (age.key == "Strange") {
+          td = addElement(tr, 'td')
+          el = document.createElement('input')
+          el.setAttribute('type', 'text')
+          el.setAttribute('style', 'width: 100%')
+          td.appendChild(el)
+        } else {
+          td = addElement(tr, 'td')
+          addElement(td, createDropdown(strangeList, age.description))
+        }
+
+        if (age.key == "Strange" && !reload) {
           let sub_tr = addAge(history.ages(d(18)), tr)
           if (age.description == "Combo") { addAge(history.ages(d(18)), sub_tr) }
         }
@@ -98,7 +160,7 @@
       }
 
       // don't roll strange ages
-      noStrangeCheck.addEventListener('click', event => { history.noStrange = event.target.checked })
+      window.noStrangeToggle = (event) => { history.noStrange = event.target.checked }
 
       // generate random age
       genButton.addEventListener('click', event => { addAge(history.ages()) })
@@ -110,11 +172,6 @@
           agesTable.removeChild(radio.parentElement.parentElement)
           saveState()
         }
-      })
-
-      // clear age list
-      clrButton.addEventListener('click', event => {
-        if (window.confirm("Clear List?")) { clearAges() }
       })
 
       // generate leads-to age from selected age, append to selected age
@@ -137,7 +194,7 @@
         }
       })
 
-      function shiftEntry(move, before) {
+      window.shiftEntry = (move, before) => {
         let radio = getRadioSelected('ages')
         if (radio) { 
           let tr = radio.parentElement.parentElement
@@ -151,28 +208,41 @@
         }
       }
 
-      upButton.addEventListener('click', event => shiftEntry(-1, true))
-      downButton.addEventListener('click', event => shiftEntry(1, false))
-
       function setDescription(event) {
         let tr = event.target.parentElement.parentElement
         let age = history.ages(event.target.value)
         tr.setAttribute('entry', JSON.stringify(age))
-        let desc = (age.key == "Strange") ? `*** ${age.description} ***` : age.description
-        tr.children[tr.childElementCount-1].textContent = desc
+        tr.children[tr.childElementCount-2].textContent = age.description
         saveState()
       }
 
       function saveSelectedRadio() {
         const childrenArray = Array.from(agesTable.children);
         let index = childrenArray.indexOf(getRadioSelected('ages').parentElement.parentElement);
-        localStorage.setItem('historySelected', index)
+        if (index) {
+          localStorage.setItem('historySelected', index)
+        } else {
+          localStorage.removeItem('historySelected')
+        }
       }
 
       function selectRadio(index) {
         const childrenArray = Array.from(agesTable.children);
-        childrenArray[index].firstChild.firstChild.checked = true;
+        if (index < childrenArray.length) { childrenArray[index].firstChild.firstChild.checked = true; }
         saveSelectedRadio()
+      }
+
+      window.rollEvent = () => {
+        let e = history.events.pick()
+        document.getElementById('eventSpan').textContent = e.key.replace('_', ' ')
+        document.getElementById('eventDescLi').textContent = e.description
+        document.getElementById('eventDescLi').parentElement.hidden = false
+      }
+
+      window.rollCrisis = () => {
+        document.getElementById('crisisLi').textContent = history.crises.pick().description
+        document.getElementById('overcomeLi').textContent = history.crisisOvercome.pick().description
+        document.getElementById('failLi').textContent = history.crisisFailed.pick().description
       }
 
       // load state on page load
