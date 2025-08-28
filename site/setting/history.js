@@ -54,33 +54,33 @@ let historicalAgeStrange = new Table({
 
 history.leadsTo = {
     name:       "historical-age-leads-to", 
-    Wild:          () => history.ages(pick('Rising',  'Strife',  'Discovery', 'Dark',      'Placid')),
-    Falling:       () => history.ages(pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Dark',      'Placid')),
-    Rising:        () => history.ages(pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Golden',    'Decay')),
-    Tyranny:       () => history.ages(pick('Falling', 'Rising',  'Strife',    'Discovery', 'Dark',      'Golden',    'Decay')),
-    Strife:        () => history.ages(pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Dark',      'Placid',    'Golden', 'Decay')),
-    Discovery:     () => history.ages(pick('Falling', 'Rising',  'Tyranny',   'Strife',    'Golden',    'Decay')),
-    Dark:          () => history.ages(pick('Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Placid')),
-    Decay:         () => history.ages(pick('Wild',    'Falling', 'Rising',    'Tyranny',   'Strife',    'Discovery', 'Dark',   'Placid')),
-    Placid:        () => history.ages(pick('Wild',    'Rising',  'Strife',    'Discovery')),
-    Golden:        () => history.ages(pick('Falling', 'Tyranny', 'Strife',    'Discovery', 'Decay')),
-    Discontinuity: () => historicalAges.pick(),
+    Wild:          ['Rising',  'Strife',  'Discovery', 'Dark',      'Placid'],
+    Falling:       ['Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Dark',      'Placid'],
+    Rising:        ['Falling', 'Tyranny', 'Strife',    'Discovery', 'Golden',    'Decay'],
+    Tyranny:       ['Falling', 'Rising',  'Strife',    'Discovery', 'Dark',      'Golden',    'Decay'],
+    Strife:        ['Wild',    'Falling', 'Rising',    'Tyranny',   'Dark',      'Placid',    'Golden', 'Decay'],
+    Discovery:     ['Falling', 'Rising',  'Tyranny',   'Strife',    'Golden',    'Decay'],
+    Dark:          ['Wild',    'Rising',  'Tyranny',   'Strife',    'Discovery', 'Placid'],
+    Decay:         ['Wild',    'Falling', 'Rising',    'Tyranny',   'Strife',    'Discovery', 'Dark',   'Placid'],
+    Placid:        ['Wild',    'Rising',  'Strife',    'Discovery'],
+    Golden:        ['Falling', 'Tyranny', 'Strife',    'Discovery', 'Decay'],
+    Discontinuity: [],
 }
 tables["historical-age-leads-to"] = history.leadsTo
 
 
 history.arisesFrom = {
     name:       "historical-age-arises-from",
-    Wild:       () => history.ages(pick('Falling', 'Strife',  'Dark',    'Placid')),
-    Falling:    () => history.ages(pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
-    Rising:     () => history.ages(pick('Wild',    'Falling', 'Tyranny', 'Strife',    'Discovery', 'Dark',   'Placid')),
-    Tyranny:    () => history.ages(pick('Rising',  'Falling', 'Strife',  'Discovery', 'Dark',      'Golden')),
-    Strife:     () => history.ages(pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Discovery', 'Dark',   'Placid', 'Golden')),
-    Discovery:  () => history.ages(pick('Wild',    'Rising',  'Falling', 'Tyranny',   'Dark',      'Placid', 'Golden')),
-    Dark:       () => history.ages(pick('Wild',    'Falling', 'Tyranny', 'Strife')),
-    Decay:      () => history.ages(pick('Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden')),
-    Placid:     () => history.ages(pick('Wild',    'Falling', 'Strife',  'Dark')),
-    Golden:     () => history.ages(pick('Rising',  'Tyranny', 'Strife',  'Discovery')),
+    Wild:       ['Falling', 'Strife',  'Dark',    'Placid'],
+    Falling:    ['Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden'],
+    Rising:     ['Wild',    'Falling', 'Tyranny', 'Strife',    'Discovery', 'Dark',   'Placid'],
+    Tyranny:    ['Rising',  'Falling', 'Strife',  'Discovery', 'Dark',      'Golden'],
+    Strife:     ['Wild',    'Rising',  'Falling', 'Tyranny',   'Discovery', 'Dark',   'Placid', 'Golden'],
+    Discovery:  ['Wild',    'Rising',  'Falling', 'Tyranny',   'Dark',      'Placid', 'Golden'],
+    Dark:       ['Wild',    'Falling', 'Tyranny', 'Strife'],
+    Decay:      ['Rising',  'Tyranny', 'Strife',  'Discovery', 'Golden'],
+    Placid:     ['Wild',    'Falling', 'Strife',  'Dark'],
+    Golden:     ['Rising',  'Tyranny', 'Strife',  'Discovery'],
 }
 tables["historical-age-arises-from"] = history.arisesFrom
 
@@ -210,18 +210,21 @@ Some leaders were allied with the crisis
 history.ageDescriptions = {}
 
 history.ageDescriptions.Wild = `
+Wild
 - Nature is powerful and civilization is scattered or sparse, focused on acquiring basic resources and security. Populations are small, and institutions are few and simple.
 - Primeval, prehistoric times, a newly opened frontier, a tribal equilibrium with its environment, the aftermath of a fall or disaster, or the rise of the Powers of nature overcoming civilization.
 - Touchstones: an apex predator or kaiju, a nature spirit, the cause of civilization's collapse, a lone hermit, a tribe, the one bordertown / holdout / intrusion of civilization.
 `
 
 history.ageDescriptions.Falling = `
+Falling
 - Division, sundering, decentralization, factionalization, simplification, fragmentation, scattering, collapse, devolution
 - Civilization is more spread out and decentralized in smaller groups, either because it hasn't risen that high to begin with, or because some larger structures break down or disperse. Knowledge or capabilities may be lost or dormant (unable to be used), but not to the extent of a Dark age.
 - Factionalization, balkanization of society and politics. Could lead to or be caused by a breakdown in communication or transport systems, or loss of faith in a centralizing institution or unifying figure.
 `
 
 history.ageDescriptions.Rising = `
+Rising
 - The age is marked by the building up of complexity and unification.
 - Cities combine (or are combined) into nations, smaller guilds and businesses are bought up by bigger ones. Settlements connect and trade flows. Factions ally and unite. Laws, institutions, standards and bureaucracy are codified and multiplied. Learning is systematized; peoples may be brought beneath dominant religions or philosophies.
 - Some groups may prosper in a time of hope and progress, others might crushed in the process of unification, or see their local power lost to some distant imperial center. People scramble to rise to the new heights of wealth, power, and influence the age creates.
@@ -229,6 +232,7 @@ history.ageDescriptions.Rising = `
 `
 
 history.ageDescriptions.Tyranny = `
+Tyranny
 - Civilization is marked by iron-fisted rule. It could be a "at least the trains run on time" fascism, a universally miserable "ground beneath the boot-heel" brutality, a rigid ideological/religious orthodoxy that brooks no heretics, or a genteel veneer ruthlessly maintained by hidden enforcers.
 - The age may be marked by rebellions, secret police, internal intrigue, brutal spectacle, jingoistic expansionism, and perhaps some manner of bread-and-circuses.
 - Tyranny may be imposed from within, or by an outside conqueror. It may justify itself as the only bulwark against some dire internal or external threat.
@@ -238,6 +242,7 @@ history.ageDescriptions.Tyranny = `
 `
 
 history.ageDescriptions.Strife = `
+Strife
 - Includes hardship in general: war, disaster, famine, plague, unrest, shadow conflicts, shortages, monsters, etc
 - War, revolution/rebellion, riots, warlordism, banditry, civil war/schism, factionalization, in-fighting, mistrust, pogroms, ideological/ethnic extremism, authoritarianism & pushback, inter-civilizational clash, external wars, invasion, destruction of infrastructure, opportunism & profiteering, locust-like consumption of resources.
 - Social/military conflict may be accompanied/triggered/worsened by natural disasters, climate shifts, etc.
@@ -245,6 +250,7 @@ history.ageDescriptions.Strife = `
 `
 
 history.ageDescriptions.Discovery = `
+Discovery
 - Exploration, intellectual ferment, new forms of art & culture, discovery, invention, neophilia, social/political liberalization & paradigm shift, social fluidity, civilizational decalcification, new loci of wealth and power, connection to new regions, reactionary backlash.
 - The powers of the region may reach out to explore and contact other regions. This may bring in a boom off trade and learning, intermix populations, spread philosophies and ideas, seed colonies, or spur inter-region invasion/conquest.
 - Not the pinnacle of a Golden Age, but it might be leading there. Usually a time of hope and progress.
@@ -253,6 +259,7 @@ history.ageDescriptions.Discovery = `
 `
 
 history.ageDescriptions.Dark = `
+Dark
 - A time of ignorance, poverty, and strife. Sparks of a better past might be treasured, hoarded, or feared. People turn to xenophobia, robbery, and cults in search of power or security. Authority is fragmented, sparse, and illegitimate.
 - Keepers of past knowledge or possessions guard them jealously and hide them from thieves, ignorant mobs, or dogmatic zealots.
 - Life is nasty, brutish, and short. Circumstances can range from the merely fallen to the fully post-apocalyptic. The population could be large but locked in ignorance and a crude mockery of civilization, or scattered and fragmented, with little communication between pockets of habitation.
@@ -260,6 +267,7 @@ history.ageDescriptions.Dark = `
 `
 
 history.ageDescriptions.Decay = `
+Decay
 - Civilization gradually weakens. Decadence, ossification, and stagnation slowly strangle initiative, but inertia preserves the shell of a more vital civilization.
 - Things are lost and forgotten; people rest on past glories, rather than matching or surpassing them. Institutions, infrastructure, and culture slowly crumbles, unmaintained or renewed. What new is built is overshadowed by what came before. Ennui, intrigue, and jaded tastes bring out the worst in people. Grotesqueries and perversions can become celebrated, novel enough to penetrate the numbing haze.
 - Things are falling apart, social structures ossify, but society persists as it was, for now. There may be unrest, but it's not acute yet. There is intrigue as people wrestle over a static or shrinking pie. Corruption grows, and law breaks down as you move away from centers of power.
@@ -268,6 +276,7 @@ history.ageDescriptions.Decay = `
 `
 
 history.ageDescriptions.Placid = `
+Placid
 - A time of calm, peace, and relative contentment.
 - Institutions work and remain fairly constant. No upheavals or privations batter civilization, but there are no great opportunities or intellectual ferment.
 - Conformity and tradition are likely to be prized over achievement. Petty politics and status games may dominate the attention of the people or leaders, or there may be true harmony.
@@ -276,6 +285,7 @@ history.ageDescriptions.Placid = `
 `
 
 history.ageDescriptions.Golden = `
+Golden
 - A glorious pinnacle of art, culture, learning, power, wealth, prosperity, security, peace, dominance, and/or military power.
 - It will likely by mythologized by later ages, and things connected to it may be seen as sources of authority, legitimacy, virtue, and sophistication.
 - It may or may not have been equally great for everyone (and might have sucked for some underclass or external colonized people).
@@ -284,6 +294,7 @@ history.ageDescriptions.Golden = `
 `
 
 history.ageDescriptions.Wonders = `
+Wonders
 - Like one of the other types of ages, but characterized or initiated by a really dramatic expression of power. God descend to earth, archmages wield high magic, magi/tech is commonplace, supernatural disasters or curses devastate the land, monsters or titans emerge, etc.
 - If the setting is already high powered, this may not be particularly relevant; don't skimp on amazing stuff in the "normal" ages, just because this is a possibility. And skip this age if it conflicts with the tone of a low powered setting.
 - Consider why the age comes to an end. Do the unleashed powers leave? Become dormant or sealed away? Mutually destroy or nullify each other? Become normalized and democratized?
@@ -301,7 +312,19 @@ Examples
 `
 
 history.ageDescriptions.Lost = `
+Lost
 - The details of this age are lost or obscured, either immediately or by the passage of time. They might be lost due to destruction in this or a subsequent age, intentionally obscured by historians, a victorious ruler, or a secret society. The people of the age itself (or some portion of them) may have sought to limit knowledge.
 - The nature of the age might be misrepresented or inverted, or the existence of the age itself might be lost. Its study might be a field of scholarship, or it might remain only in scraps of legend told around campfires.
 - You can roll up a normal age type (or a series of several) to see what was actually going on, or just leave this age as a mysterious lacuna or discontinuity.
+`
+
+history.ageDescriptions.Discontinuity = `
+Discontinuity
+- The age that follows this one can be of any type, not just the usual results of the Leads-To table.
+`
+
+history.ageDescriptions.Combo = `
+Combo
+- This age combines features from who separate types.  The second type is generated from the list of all possibilities (but will never be strange).
+- The Leads-To and Arises-From tables refer to the first of the two listed types.
 `

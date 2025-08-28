@@ -83,7 +83,7 @@
     <script type="module" defer>
 
       import * as util from "../scripts/utils.js"
-      import { tables } from "../scripts/utils.js"
+      import { tables, pick } from "../scripts/utils.js"
       import { history, ageList, strangeList } from "./history.js"
 
       const seedText = document.getElementById("seedText")
@@ -107,10 +107,6 @@
       // put table odds in tooltip(s) for leads-to and arises-from
       //
       // notes for ages (save state), button to copy events/crises to notes
-      //
-      // for strange ages, make the type use the leads-to/arises-from list, except for discontinuity and the second half of combo
-      //
-      // Tooltip of age details on mouseover of age type
 
       function saveState() {
         const ages = Array.from(agesTable.children).slice(1).map(a => a.getAttribute('entry'))
@@ -159,11 +155,16 @@
 
         td = util.addElement(tr, 'td')
         td.appendChild(util.createDropdown(strangeList, age.strange.key, updateAge))
+        if (age.strange.key) {
+          td.setAttribute('title', history.ageDescriptions[age.strange.key])
+        }
 
         td = util.addElement(tr, 'td', age.description)
+        td.setAttribute('title', history.ageDescriptions[age.key])
         if (age.combo) {
           util.addElement(td, 'br')
-          util.addElement(td, 'td', age.combo.description)
+          let tdc = util.addElement(td, 'td', age.combo.description)
+          tdc.setAttribute('title', history.ageDescriptions[age.combo.key])
         }
 
         td = util.addElement(tr, 'td')
@@ -196,8 +197,12 @@
         let radio = util.getRadioSelected('ages')
         if (radio) { 
           let entry = JSON.parse(radio.parentElement.parentElement.getAttribute('entry'))
-          if (direction == 'to') { addAge(history.leadsTo[entry.key](), radio.parentElement.parentElement) }
-          else if (direction == 'from') { addAge(history.arisesFrom[entry.key](), radio.parentElement.parentElement, true) }
+          if (direction == 'to') { 
+            addAge(history.ages(pick(...history.leadsTo[entry.key])), radio.parentElement.parentElement)
+          }
+          else if (direction == 'from') {
+            addAge(history.ages(pick(...history.arisesFrom[entry.key])), radio.parentElement.parentElement, true)
+          }
         }
       }
 
