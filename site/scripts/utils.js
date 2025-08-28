@@ -4,6 +4,9 @@ import { MersenneTwister } from "./seedableRandom.js"
 export var m = new MersenneTwister()
 console.log("seed = " + m.seed)
 
+export function seed(seedval=undefined) {
+    m = new MersenneTwister(seedval)
+}
 
 export function d(size) {
     return Math.floor(m.random() * size) + 1
@@ -264,7 +267,7 @@ export function getRadioSelected(group) {
     for (let i = 0; i < els.length; i++) {
         if (els[i].checked) { return els[i] }
     }
-    return undefined
+    return null
 }
 
 export function createDropdown(options, selected, changeHandler) {
@@ -283,16 +286,21 @@ export function createDropdown(options, selected, changeHandler) {
         return dropdown
 }
 
-export function createRadio(name, value='', selected=false) {
+export function createRadio(name, value='', selected=false, changeHandler=undefined) {
     let radio = document.createElement('input')
     radio.setAttribute('type', 'radio')
     radio.setAttribute('name', name)
     radio.setAttribute('value', value)
     radio.checked = selected
+    if (changeHandler) {
+        radio.addEventListener('change', changeHandler);
+    }
     return radio
 }
 
 export default {
+    m: m,
+    seed, seed,
     tables: tables,
     Table: Table,
     alphabetizeKeys: alphabetizeKeys,

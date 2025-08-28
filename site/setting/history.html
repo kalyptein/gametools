@@ -27,6 +27,8 @@
   <body>
     <h1>History</h1>
 
+    Seed: <input type="text" id="seedText"></input>
+
     <div class="container">
 
       <div class="column" style="width: 55%">
@@ -36,8 +38,8 @@
           <button id="genButton" style="width:80px">Append</button>
           <button id="upButton" style="width:30px" onclick="shiftEntry(-1, true)">▲</button>
           <button id="downButton" style="width:30px" onclick="shiftEntry(1, false)">▼</button>
-          <button id="nextButton" style="width:80px">Next</button>
-          <button id="prevButton" style="width:80px">Previous</button>
+          <button id="nextButton" style="width:80px" onclick="relatedAge(event, 'to')">Next</button>
+          <button id="prevButton" style="width:80px" onclick="relatedAge(event, 'from')">Previous</button>
           <button id="rmButton" style="width:80px">Remove</button>
           <button id="clrButton" style="width:80px" onclick="if (confirm('Clear List?')) { clearAges() }">Clear</button>
           <input type="checkbox" id="noStrangeCheck" value="false" onclick="noStrangeToggle(event)"/>No Strange
@@ -48,6 +50,7 @@
           <tr style="background: black; color: white">
             <th style="width:30px;"></th>
             <th style="width:100px;">Age</th>
+            <th style="width:100px;"></th>
             <th style="width:500px;">Description</th>
             <th style="width:500px;">Notes</th>
           </tr>
@@ -79,8 +82,13 @@
 
     <script type="module" defer>
 
-      import { m, d, pick, Table, tables, addElement, insertElement, getRadioSelected, createDropdown, createRadio } from "../scripts/utils.js"
+      import * as util from "../scripts/utils.js"
+      import { tables } from "../scripts/utils.js"
       import { history, ageList, strangeList } from "./history.js"
+
+      const seedText = document.getElementById("seedText")
+      seedText.value = util.m.seed
+      seedText.addEventListener('change', event => { util.seed(Number(seedText.value)) })
 
       // get elements
       const agesTable = document.getElementById("agesTable")
@@ -89,32 +97,43 @@
       const nextButton = document.getElementById("nextButton")
       const prevButton = document.getElementById("prevButton")
 
+      let ha = tables['historical-ages']
+      let genTooltip = `range: ${ha.indexRange}\n`
+      ha.content.forEach(a => genTooltip += `${String(a.index).padEnd(10)}\t${a.key.padEnd(20)}${a.description}\n`)
+      genButton.setAttribute('title', genTooltip)
+
       // TODO
       //
-      // put table / odds in tooltip(s)
+      // put table odds in tooltip(s) for leads-to and arises-from
       //
-      // notes for ages, button to copy events/crises to notes
+      // notes for ages (save state), button to copy events/crises to notes
+      //
+      // for strange ages, make the type use the leads-to/arises-from list, except for discontinuity and the second half of combo
+      //
+      // Tooltip of age details on mouseover of age type
 
       function saveState() {
         const ages = Array.from(agesTable.children).slice(1).map(a => a.getAttribute('entry'))
         localStorage.setItem('historyState', JSON.stringify(ages))
 
-        let radio = getRadioSelected('ages')
-        if (radio) { 
-          let tr = radio.parentElement.parentElement
+        let tr = util.getRadioSelected('ages')?.parentElement.parentElement
+        if (tr) { 
           const childrenArray = Array.from(agesTable.children);
           let index = childrenArray.indexOf(tr);
-          localStorage.setItem('historySelected', index)
+          if (index) {
+            localStorage.setItem('historySelected', index)
+          } else {
+            localStorage.removeItem('historySelected')
+          }
         }
       }
 
       function loadState() {
         let ages = localStorage.getItem('historyState')
         if (ages) {
-          let index = localStorage.getItem('historySelected')
           clearAges(false)
           JSON.parse(ages).map(a => JSON.parse(a)).forEach(a => addAge(a, undefined, false, true))
-          if (index != null) { selectRadio(index) }
+          selectRadio(localStorage.getItem('historySelected'))
         }
       }
 
@@ -125,35 +144,33 @@
 
       function addAge(age, refNode=undefined, before=false, reload=false) {
         if (!age) { console.error("Invalid table result, can't add age"); return }
-        let tr = insertElement(agesTable, refNode, 'tr', before)
+        let tr = util.insertElement(agesTable, refNode, 'tr', before)
         tr.setAttribute('entry', JSON.stringify(age))
 
-        let td = addElement(tr, 'td')
-        let el = createRadio('ages', '', !reload)
-        el.setAttribute('ageType', age.key)
+        let td = util.addElement(tr, 'td')
+        util.addElement(td, util.createRadio('ages', '', !reload, saveState))
+
+        td = util.addElement(tr, 'td')
+        td.appendChild(util.createDropdown(ageList, age.key, updateAge))
+        if (age.combo) {
+          util.addElement(td, 'br')
+          td.appendChild(util.createDropdown(ageList, age.combo.key, updateAge))
+        }
+
+        td = util.addElement(tr, 'td')
+        td.appendChild(util.createDropdown(strangeList, age.strange.key, updateAge))
+
+        td = util.addElement(tr, 'td', age.description)
+        if (age.combo) {
+          util.addElement(td, 'br')
+          util.addElement(td, 'td', age.combo.description)
+        }
+
+        td = util.addElement(tr, 'td')
+        let el = document.createElement('input')
+        el.setAttribute('type', 'text')
+        el.setAttribute('style', 'width: 100%')
         td.appendChild(el)
-        el.addEventListener('change', saveSelectedRadio);
-
-        td = addElement(tr, 'td')
-        td.appendChild(createDropdown(ageList, age.key, setDescription))
-
-        if (age.key != "Strange") {
-          td = addElement(tr, 'td', age.description)
-
-          td = addElement(tr, 'td')
-          el = document.createElement('input')
-          el.setAttribute('type', 'text')
-          el.setAttribute('style', 'width: 100%')
-          td.appendChild(el)
-        } else {
-          td = addElement(tr, 'td')
-          addElement(td, createDropdown(strangeList, age.description))
-        }
-
-        if (age.key == "Strange" && !reload) {
-          let sub_tr = addAge(history.ages(d(18)), tr)
-          if (age.description == "Combo") { addAge(history.ages(d(18)), sub_tr) }
-        }
 
         saveState()
         return tr
@@ -167,69 +184,60 @@
 
       // remove selected age
       rmButton.addEventListener('click', event => {
-        let radio = getRadioSelected('ages')
+        let radio = util.getRadioSelected('ages')
         if (radio) { 
           agesTable.removeChild(radio.parentElement.parentElement)
           saveState()
         }
       })
 
-      // generate leads-to age from selected age, append to selected age
-      nextButton.addEventListener('click', event => {
-        let radio = getRadioSelected('ages')
+      // generate leads-to / arises-from age from selected age, append / prepend to selected age
+      window.relatedAge = (event, direction) => {
+        let radio = util.getRadioSelected('ages')
         if (radio) { 
-          let type = radio.getAttribute('ageType')
-          let age = history.leadsTo[type]()
-          addAge(age, radio.parentElement.parentElement)
+          let entry = JSON.parse(radio.parentElement.parentElement.getAttribute('entry'))
+          if (direction == 'to') { addAge(history.leadsTo[entry.key](), radio.parentElement.parentElement) }
+          else if (direction == 'from') { addAge(history.arisesFrom[entry.key](), radio.parentElement.parentElement, true) }
         }
-      })
+      }
 
-      // generate arises-from age from selected age, prepend to selected age
-      prevButton.addEventListener('click', event => {
-        let radio = getRadioSelected('ages')
-        if (radio) { 
-          let type = radio.getAttribute('ageType')
-          let age = history.arisesFrom[type]()
-          addAge(age, radio.parentElement.parentElement, true)
-        }
-      })
-
+      // moves the age up or down the list
       window.shiftEntry = (move, before) => {
-        let radio = getRadioSelected('ages')
-        if (radio) { 
-          let tr = radio.parentElement.parentElement
+        let tr = util.getRadioSelected('ages')?.parentElement.parentElement
+        if (tr) { 
           const childrenArray = Array.from(agesTable.children);
           let index = childrenArray.indexOf(tr) + move;
           if (index >= 1 && index <= childrenArray.length-1) {
             agesTable.removeChild(tr)
-            insertElement(agesTable, childrenArray[index], tr, before)
+            util.insertElement(agesTable, childrenArray[index], tr, before)
           }
           saveState()
         }
       }
 
-      function setDescription(event) {
+      function updateAge(event) {
         let tr = event.target.parentElement.parentElement
-        let age = history.ages(event.target.value)
-        tr.setAttribute('entry', JSON.stringify(age))
-        tr.children[tr.childElementCount-2].textContent = age.description
-        saveState()
-      }
+        let index = localStorage.getItem('historySelected')
 
-      function saveSelectedRadio() {
-        const childrenArray = Array.from(agesTable.children);
-        let index = childrenArray.indexOf(getRadioSelected('ages').parentElement.parentElement);
-        if (index) {
-          localStorage.setItem('historySelected', index)
-        } else {
-          localStorage.removeItem('historySelected')
-        }
+        let age = tr.children[1].firstChild.value
+        let strange = tr.children[2].firstChild.value || "Normal"
+        let combo = tr.children[1].lastChild.value
+        age = history.ages(age, strange, combo)
+
+        // create updated age entry, remove original age entry, reset selected radio
+        addAge(age, tr)
+        agesTable.removeChild(tr)
+        selectRadio(index)
+
+        saveState()
       }
 
       function selectRadio(index) {
         const childrenArray = Array.from(agesTable.children);
-        if (index < childrenArray.length) { childrenArray[index].firstChild.firstChild.checked = true; }
-        saveSelectedRadio()
+        if (index && index < childrenArray.length) {
+          childrenArray[index].firstChild.firstChild.checked = true
+        }
+        saveState()
       }
 
       window.rollEvent = () => {

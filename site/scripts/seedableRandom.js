@@ -68,7 +68,7 @@
 */
 
 export var MersenneTwister = function(seed) {
-    if (seed == undefined) {
+    if (!seed) {
       seed = new Date().getTime();
     } 
     this.seed = seed;
