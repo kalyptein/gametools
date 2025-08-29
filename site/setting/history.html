@@ -118,9 +118,20 @@
           let index = childrenArray.indexOf(tr);
           if (index) {
             localStorage.setItem('historySelected', index)
+
+            // update next & previous tooltips
+            let age = JSON.parse(tr.getAttribute('entry'))
+            nextButton.setAttribute('title', `${age.key} -> ${history.leadsTo[age.key].join(' | ')}`)
+            prevButton.setAttribute('title', `${history.arisesFrom[age.key].join(' | ')} -> ${age.key}`)
           } else {
             localStorage.removeItem('historySelected')
+            nextButton.removeAttribute('title')
+            prevButton.removeAttribute('title')
           }
+        } else {
+          localStorage.removeItem('historySelected')
+          nextButton.removeAttribute('title')
+          prevButton.removeAttribute('title')
         }
       }
 
