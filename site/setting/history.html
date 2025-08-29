@@ -104,12 +104,16 @@
 
       // TODO
       //
-      // put table odds in tooltip(s) for leads-to and arises-from
+      // notes for ages, button to copy events/crises to notes
       //
-      // notes for ages (save state), button to copy events/crises to notes
+      // strange dropdown greys out when its value is blank
 
       function saveState() {
-        const ages = Array.from(agesTable.children).slice(1).map(a => a.getAttribute('entry'))
+        const ages = Array.from(agesTable.children).slice(1).map(a => {
+          let entry = JSON.parse(a.getAttribute('entry'))
+          entry.notes = a.lastChild.firstChild.value
+          return entry
+        })
         localStorage.setItem('historyState', JSON.stringify(ages))
 
         let tr = util.getRadioSelected('ages')?.parentElement.parentElement
@@ -139,7 +143,9 @@
         let ages = localStorage.getItem('historyState')
         if (ages) {
           clearAges(false)
-          JSON.parse(ages).map(a => JSON.parse(a)).forEach(a => addAge(a, undefined, false, true))
+          JSON.parse(ages).forEach(a => {
+          let tr = addAge(a, undefined, false, true, a.notes || '')
+        })
           selectRadio(localStorage.getItem('historySelected'))
         }
       }
@@ -149,8 +155,10 @@
         if (clrState) { localStorage.removeItem('historyState') }
       }
 
-      function addAge(age, refNode=undefined, before=false, reload=false) {
+      function addAge(age, refNode=undefined, before=false, reload=false, notes='') {
         if (!age) { console.error("Invalid table result, can't add age"); return }
+
+        age.notes = notes
         let tr = util.insertElement(agesTable, refNode, 'tr', before)
         tr.setAttribute('entry', JSON.stringify(age))
 
@@ -182,6 +190,8 @@
         let el = document.createElement('input')
         el.setAttribute('type', 'text')
         el.setAttribute('style', 'width: 100%')
+        el.value = notes
+        el.addEventListener('change', saveState)
         td.appendChild(el)
 
         saveState()
@@ -239,9 +249,10 @@
         let strange = tr.children[2].firstChild.value || "Normal"
         let combo = tr.children[1].lastChild.value
         age = history.ages(age, strange, combo)
+        let notes = tr.lastChild.firstChild.value || ''
 
         // create updated age entry, remove original age entry, reset selected radio
-        addAge(age, tr)
+        addAge({age: age, refNode: tr, notes: notes})
         agesTable.removeChild(tr)
         selectRadio(index)
 
