@@ -173,10 +173,13 @@
         }
 
         td = util.addElement(tr, 'td')
-        td.appendChild(util.createDropdown(strangeList, age.strange.key, updateAge))
+        let el = util.createDropdown(strangeList, age.strange.key, updateAge)
+        td.appendChild(el)
         if (age.strange.key) {
           td.setAttribute('title', history.ageDescriptions[age.strange.key])
         }
+        if (age.strange.key == "Normal") { el.style.opacity = '0.35' }
+
 
         td = util.addElement(tr, 'td', age.description)
         td.setAttribute('title', history.ageDescriptions[age.key])
@@ -187,7 +190,7 @@
         }
 
         td = util.addElement(tr, 'td')
-        let el = document.createElement('input')
+        el = document.createElement('input')
         el.setAttribute('type', 'text')
         el.setAttribute('style', 'width: 100%')
         el.value = notes
@@ -252,7 +255,8 @@
         let notes = tr.lastChild.firstChild.value || ''
 
         // create updated age entry, remove original age entry, reset selected radio
-        addAge({age: age, refNode: tr, notes: notes})
+        addAge(age, tr, false, false, notes)
+
         agesTable.removeChild(tr)
         selectRadio(index)
 
