@@ -66,14 +66,14 @@
         </p>
 
         <ul>
-          <li>Event: <span id="eventSpan"></span></li>
+          <li><button disabled onclick="copyTag(getTag('eventSpan'))">&lt;</button> Event: <span id="eventSpan"></span></li>
           <ul hidden>
             <li id="eventDescLi"></li>
           </ul>
-          <li>Crisis: <span id="crisisLi"></span></li>
+          <li><button disabled class="crisisButtons" onclick="copyTag(getTag('crisisSpan'))">&lt;</button> Crisis: <span id="crisisSpan"></span></li>
           <ul>
-            <li>Overcome: <span id="overcomeLi"></span></li>
-            <li>Failed: <span id="failLi"></span></li>
+            <li><button disabled class="crisisButtons" onclick="copyTag(`${getTag('crisisSpan')} (overcome: ${getTag('overcomeSpan')})`)">&lt;</button> Overcome: <span id="overcomeSpan"></span></li>
+            <li><button disabled class="crisisButtons" onclick="copyTag(`${getTag('crisisSpan')} (failed: ${getTag('failSpan')})`)">&lt;</button> Failed: <span id="failSpan"></span></li>
           </ul>
         </ul>
       </div>
@@ -101,12 +101,6 @@
       let genTooltip = `range: ${ha.indexRange}\n`
       ha.content.forEach(a => genTooltip += `${String(a.index).padEnd(10)}\t${a.key.padEnd(20)}${a.description}\n`)
       genButton.setAttribute('title', genTooltip)
-
-      // TODO
-      //
-      // notes for ages, button to copy events/crises to notes
-      //
-      // strange dropdown greys out when its value is blank
 
       function saveState() {
         const ages = Array.from(agesTable.children).slice(1).map(a => {
@@ -141,18 +135,20 @@
 
       function loadState() {
         let ages = localStorage.getItem('historyState')
+        let index = localStorage.getItem('historySelected')
         if (ages) {
           clearAges(false)
-          JSON.parse(ages).forEach(a => {
-          let tr = addAge(a, undefined, false, true, a.notes || '')
-        })
-          selectRadio(localStorage.getItem('historySelected'))
+          JSON.parse(ages).forEach(a => { addAge(a, undefined, false, true, a.notes || '') })
+          selectRadio(index)
         }
       }
 
       window.clearAges = (clrState=true) => {
         while (agesTable.lastChild && agesTable.childElementCount > 1) { agesTable.removeChild(agesTable.lastChild) }
-        if (clrState) { localStorage.removeItem('historyState') }
+        if (clrState) { 
+          localStorage.removeItem('historyState')
+          localStorage.removeItem('historySelected')
+        }
       }
 
       function addAge(age, refNode=undefined, before=false, reload=false, notes='') {
@@ -194,6 +190,7 @@
         el.setAttribute('type', 'text')
         el.setAttribute('style', 'width: 100%')
         el.value = notes
+        el.addEventListener('focus', (event) => { event.target.parentElement.parentElement.firstChild.firstChild.checked = true; saveState() })
         el.addEventListener('change', saveState)
         td.appendChild(el)
 
@@ -271,17 +268,32 @@
         saveState()
       }
 
-      window.rollEvent = () => {
+      window.rollEvent = (event) => {
         let e = history.events.pick()
         document.getElementById('eventSpan').textContent = e.key.replace('_', ' ')
         document.getElementById('eventDescLi').textContent = e.description
         document.getElementById('eventDescLi').parentElement.hidden = false
+        document.getElementById('eventSpan').parentElement.children[0].disabled = false
       }
 
-      window.rollCrisis = () => {
-        document.getElementById('crisisLi').textContent = history.crises.pick().description
-        document.getElementById('overcomeLi').textContent = history.crisisOvercome.pick().description
-        document.getElementById('failLi').textContent = history.crisisFailed.pick().description
+      window.rollCrisis = (event) => {
+        Array.from(document.getElementsByClassName('crisisButtons')).forEach(b => b.disabled = false);
+        document.getElementById('crisisSpan').textContent = history.crises.pick().description
+        document.getElementById('overcomeSpan').textContent = history.crisisOvercome.pick().description
+        document.getElementById('failSpan').textContent = history.crisisFailed.pick().description
+      }
+
+      window.getTag = (source) => {
+        return document.getElementById(source).textContent
+      }
+
+      window.copyTag = (text) => {
+        let tr = util.getRadioSelected('ages')?.parentElement.parentElement
+        if (tr && text) {
+          if (tr.lastChild.firstChild.value) { tr.lastChild.firstChild.value += ', ' }
+          tr.lastChild.firstChild.value += text
+          saveState()
+        }
       }
 
       // load state on page load

@@ -179,7 +179,7 @@ history.crisisOvercome = new Table({
 A brilliant and inspirational leader arose
 Organization and unity overcame the trouble 
 Grim determination and enduring the evil
-Faith strengthened them against the woe
+Faith strengthened against the woe
 Skillful use of magic resolved the problem
 Martial prowess and military cunning
 Diplomatic ties and outside help
@@ -192,13 +192,13 @@ Ruthless but effective sacrifices were made
 history.crisisFailed = new Table({
     name: "historical-crisis-failed",
     content: `
-Its people were too deeply divided
-Its leadership was hopelessly inept
+The people were too deeply divided
+Leadership was hopelessly inept
 The gods cursed it to ruin
 Decadence and self-absorption doomed it
 It was vastly overconfident in its plans
 Its neighbors conspired to help ruin it
-It was actually two crises, and it was too much 
+Was actually two crises; too much to handle
 It was culturally exhausted and apathetic
 Some tried to take advantage of the crisis
 Its strengths were useless against the problem 
