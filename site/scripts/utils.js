@@ -262,7 +262,7 @@ export function insertElement(parent, refNode, el, before=false, text=undefined,
     return el
 }
 
-export function getRadioSelected(group) {
+export function getRadio(group) {
     let els = document.getElementsByName(group);
     for (let i = 0; i < els.length; i++) {
         if (els[i].checked) { return els[i] }
@@ -309,7 +309,7 @@ export default {
     alphabetizeKeys: alphabetizeKeys,
     addElement: addElement,
     insertElement: insertElement,     
-    getRadioSelected: getRadioSelected,
+    getRadio: getRadio,
     createDropdown: createDropdown,
     createRadio: createRadio,
     WEIGHT: WEIGHT,

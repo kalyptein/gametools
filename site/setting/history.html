@@ -85,16 +85,20 @@
         <input type="radio" name="porttype" value="csv" checked onclick="document.getElementById('ioTextArea').value = portState('csv')" />CSV
         <input type="radio" name="porttype" value="json" onclick="document.getElementById('ioTextArea').value = portState('json')" />JSON
       </p>
-      <div>
-        <textarea id="ioTextArea" rows="10"></textarea> 
-        <button id="clipboardButton" style="width:40px" onclick="clipboardState()" style="vertical-align: top;">📋</button>
-      </div>
       <p>
-        <button id="importButton" style="width:60px" onclick="document.getElementById('portDialog').close()">Close</button>
+        <textarea id="ioTextArea" rows="15" cols="50"></textarea>        
       </p>
+      <button id="clipboardButton" style="width:40px" onclick="clipboardState()" style="vertical-align: top;">📋</button>
+      <button id="importButton" style="width:60px" onclick="document.getElementById('portDialog').close()">Close</button>
     </dialog>
 
     <script type="module" defer>
+
+      // TODO
+      //
+      // import state?
+      //
+      // clear notes X button for each notes field
 
       import * as util from "../scripts/utils.js"
       import { tables, pick } from "../scripts/utils.js"
@@ -116,7 +120,7 @@
       genButton.setAttribute('title', genTooltip)
 
       window.showIO = () => {
-        document.getElementById('ioTextArea').value = portState(util.getRadioSelected('porttype').value)
+        document.getElementById('ioTextArea').value = portState(util.getRadio('porttype').value)
         document.getElementById('portDialog').showModal()
       }
 
@@ -146,9 +150,20 @@
         }
       }
 
+      function saveState(ages=undefined) {
+        try {
+          if (!ages) {
+            ages = Array.from(agesTable.children).slice(1).map(a => {
+              let entry = JSON.parse(a.getAttribute('entry'))
+              entry.notes = a.lastChild.firstChild.value
+              return entry
+            })
+          }
+        } catch (err) { console.log(err); return; }
+
         localStorage.setItem('historyState', JSON.stringify(ages))
 
-        let tr = util.getRadioSelected('ages')?.parentElement.parentElement
+        let tr = util.getRadio('ages')?.parentElement.parentElement
         if (tr) { 
           const childrenArray = Array.from(agesTable.children);
           let index = childrenArray.indexOf(tr);
@@ -244,7 +259,7 @@
 
       // remove selected age
       window.removeAge = () => {
-        let radio = util.getRadioSelected('ages')
+        let radio = util.getRadio('ages')
         if (radio) { 
           agesTable.removeChild(radio.parentElement.parentElement)
           saveState()
@@ -253,7 +268,7 @@
 
       // generate leads-to / arises-from age from selected age, append / prepend to selected age
       window.relatedAge = (event, direction) => {
-        let radio = util.getRadioSelected('ages')
+        let radio = util.getRadio('ages')
         if (radio) { 
           let entry = JSON.parse(radio.parentElement.parentElement.getAttribute('entry'))
           if (direction == 'to') { 
@@ -267,7 +282,7 @@
 
       // moves the age up or down the list
       window.shiftEntry = (move, before) => {
-        let tr = util.getRadioSelected('ages')?.parentElement.parentElement
+        let tr = util.getRadio('ages')?.parentElement.parentElement
         if (tr) { 
           const childrenArray = Array.from(agesTable.children);
           let index = childrenArray.indexOf(tr) + move;
@@ -326,7 +341,7 @@
       }
 
       window.copyTag = (text) => {
-        let tr = util.getRadioSelected('ages')?.parentElement.parentElement
+        let tr = util.getRadio('ages')?.parentElement.parentElement
         if (tr && text) {
           if (tr.lastChild.firstChild.value) { tr.lastChild.firstChild.value += ', ' }
           tr.lastChild.firstChild.value += text
