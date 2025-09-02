@@ -35,17 +35,16 @@
         <h2>Ages of History</h2>
         
         <p style="background: lightgrey; padding: 5px;">
-          <button id="genButton" style="width:80px">Append</button>
+          <button id="genButton" style="width:90px">Append Age</button>
           <button id="upButton" style="width:30px" onclick="shiftEntry(-1, true)">▲</button>
           <button id="downButton" style="width:30px" onclick="shiftEntry(1, false)">▼</button>
-          <button id="nextButton" style="width:80px" onclick="relatedAge(event, 'to')">Next</button>
-          <button id="prevButton" style="width:80px" onclick="relatedAge(event, 'from')">Previous</button>
-          <button id="rmButton" style="width:80px">Remove</button>
-          <button id="clrButton" style="width:80px" onclick="if (confirm('Clear List?')) { clearAges() }">Clear</button>
-          <input type="checkbox" id="noStrangeCheck" value="false" onclick="noStrangeToggle(event)"/>No Strange
-          <!-- TODO button export to json and/or text for each copying -->
+          <button id="nextButton" style="width:90px" onclick="relatedAge(event, 'to')">Next Age</button>
+          <button id="prevButton" style="width:90px" onclick="relatedAge(event, 'from')">Prior Age</button>
+          <button id="rmButton" style="width:90px" onclick="removeAge(event)">Remove</button> 
+          <button id="clrButton" style="width:90px" onclick="if (confirm('Clear List?')) { clearAges() }">Clear</button>
+          <input type="checkbox" id="noStrangeCheck" value="false" onclick="noStrangeToggle(event)" />No Strange
+          <button id="exportButton" style="width:60px; margin-left: 30px;" onclick="showIO()">I / O</button>
         </p>
-
         <table id="agesTable" style="border: 1px solid; border-spacing: 2px 4px">
           <tr style="background: black; color: white">
             <th style="width:30px;"></th>
@@ -80,6 +79,21 @@
 
     </div>
 
+    <dialog id="portDialog">
+      Import / Export
+      <p>
+        <input type="radio" name="porttype" value="csv" checked onclick="document.getElementById('ioTextArea').value = portState('csv')" />CSV
+        <input type="radio" name="porttype" value="json" onclick="document.getElementById('ioTextArea').value = portState('json')" />JSON
+      </p>
+      <div>
+        <textarea id="ioTextArea" rows="10"></textarea> 
+        <button id="clipboardButton" style="width:40px" onclick="clipboardState()" style="vertical-align: top;">📋</button>
+      </div>
+      <p>
+        <button id="importButton" style="width:60px" onclick="document.getElementById('portDialog').close()">Close</button>
+      </p>
+    </dialog>
+
     <script type="module" defer>
 
       import * as util from "../scripts/utils.js"
@@ -93,7 +107,6 @@
       // get elements
       const agesTable = document.getElementById("agesTable")
       const genButton = document.getElementById("genButton")
-      const rmButton = document.getElementById("rmButton")
       const nextButton = document.getElementById("nextButton")
       const prevButton = document.getElementById("prevButton")
 
@@ -102,12 +115,37 @@
       ha.content.forEach(a => genTooltip += `${String(a.index).padEnd(10)}\t${a.key.padEnd(20)}${a.description}\n`)
       genButton.setAttribute('title', genTooltip)
 
-      function saveState() {
-        const ages = Array.from(agesTable.children).slice(1).map(a => {
-          let entry = JSON.parse(a.getAttribute('entry'))
-          entry.notes = a.lastChild.firstChild.value
+      window.showIO = () => {
+        document.getElementById('ioTextArea').value = portState(util.getRadioSelected('porttype').value)
+        document.getElementById('portDialog').showModal()
+      }
+
+      window.portState = (type) => {
+        console.log(type)
+
+        let ages = Array.from(agesTable.children).slice(1).map(tr => {
+          let entry = JSON.parse(tr.getAttribute('entry'))
+          if (type == 'csv') {
+            let ageKey = entry.key + ((entry.combo) ? ` / ${entry.combo.key}` : '')
+            let ageDesc = entry.description + ((entry.combo) ? ` / ${entry.combo.description}` : '')
+            let strangeKey = (entry.strange.key == "Normal") ? '' : entry.strange.key
+            entry = `${ageKey}\t${strangeKey}\t${ageDesc}\t${entry.notes}`
+          }
           return entry
         })
+
+        return (type == 'csv') ? ages.join('\n') : JSON.stringify(ages)        
+      }
+
+      window.clipboardState = () => {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(document.getElementById('ioTextArea').value).catch(err => {
+                console.error('Failed to copy text: ', err)
+                alert('Failed to copy text.')
+            });
+        }
+      }
+
         localStorage.setItem('historyState', JSON.stringify(ages))
 
         let tr = util.getRadioSelected('ages')?.parentElement.parentElement
@@ -205,13 +243,13 @@
       genButton.addEventListener('click', event => { addAge(history.ages()) })
 
       // remove selected age
-      rmButton.addEventListener('click', event => {
+      window.removeAge = () => {
         let radio = util.getRadioSelected('ages')
         if (radio) { 
           agesTable.removeChild(radio.parentElement.parentElement)
           saveState()
         }
-      })
+      }
 
       // generate leads-to / arises-from age from selected age, append / prepend to selected age
       window.relatedAge = (event, direction) => {
