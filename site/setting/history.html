@@ -134,7 +134,7 @@
           return entry
         })
 
-        return (type == 'csv') ? ages.join('\n') : JSON.stringify(ages)        
+        return (type == 'csv') ? ages.join('\n') : JSON.stringify(ages, null, 2)
       }
 
       window.clipboardState = () => {
