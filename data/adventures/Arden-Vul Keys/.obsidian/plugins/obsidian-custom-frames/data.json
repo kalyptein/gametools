@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1BFUgRYAiHMtusfHugYxDb1SRaS-EDMn6B6hE8RNPVJk/edit?usp=sharing",
+      "displayName": "Google Sheets",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
