@@ -1,0 +1,16 @@
+
+{
+    "url": "modronhub.mechanus.great-wheel.plane",
+	"repo": "universal-architecture-db",
+	"worldRef": 85baf80b-d63e-449f-9cc9-4073da73f4c3,
+	"siteName": "City and Caverns of Arden-Vul",
+	"defaultUnit": "10-ft square"
+	"edit": {
+		"branch": "main",
+		"lastUpdated": "2993 AEP, 7th Ligarios, 09:00",
+		"commit": b33f19e5d3e30c,
+		"comment": "Merge pull request #9872348709175401 from bugfix/erosion-in-room-3-123", 
+		"author": "duodrone-deployer-nonprod@magae-592709.iam.serviceaccount.plane"
+	},
+	"system": "osric-2.2.0"
+}
