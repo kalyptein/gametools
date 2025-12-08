@@ -1440,89 +1440,106 @@ Inscription
 
 ### SL6-66: Corridor Entrance (Submerged)
 
-An 8’-tall square corridor leads southwest from this point; the corridor is 30’ below the water line. A trapped iron grillwork blocks the corridor 10’ from the entrance. The grillwork can be 
-opened with a successfully lift gates roll. The skeletal corpse of an ancient tomb robber lies on the floor before the grillwork. 
+* An 8’-tall square corridor, 30' below water, leads southwest.
+	* An iron grillwork blocks the corridor 10’ from the entrance (can be lifted with bend bar/lift gates).
+	* The skeleton of an ancient tomb robber lies before the grillwork. 
+		* Dagger, a rotted staff, pouch (45 ancient sp, 8 ancient gp), and small silver statuette (2” tall) of an archon with the name “Vafer the Telator, archon” on the base (145 gp). 
+	* A warding chain of glyphs (electricity) is upon the grillwork (new), activated by touch.
+		* Originally there were 7, 3 remain (5d6, 6d6, and 7d6).  Being underwater, the electricity strikes all within 50'.
 
-Trap (electricity): The grillwork has a warding chain of glyphs (electricity) spell cast upon it (see new spells). Originally there were seven glyphs inscribed on the grillwork, but over the centuries the first four have been activated, leaving only the last three (per the spell description these inflict 5d6, 6d6 and 7d6 damage respectively). Since the glyph is the one for electricity, and since the grillwork is submerged, it will affect all those in a 50’ radius from the grillwork and not just the one who touches the glyph.
-
-Treasure:
-The tomb robber’s tattered clothing is archaic. It bears a dagger, a sodden and rotted staff, and a pouch in which are 45 gp, 8 pp, and small silver statuette (2” tall) of an archon with the name “Vafer the Telator, archon” inscribed on the base (145 gp). 
-
-GM Note: Players may inquire about the meaning of ‘telator’. The word in Mithric was unusual, an archaic, obscure term even when Mithric was the common language; it meant ‘web-spinner’, with the connotation of ‘plotter’. Certain PCs might have a chance of knowing this obscure meaning. Those PCs familiar with Mithric must roll 6d4 under INT to recognize this ancient term. 
+GM Note
+* ‘telator’: an archaic, obscure term even when Mithric was common, meanting ‘web-spinner’, with the connotation of ‘plotter’ (6d4 under INT for a Mithric-speaker to recognize).
 
 ### SL6-67: Antechamber with Tombs (Submerged)
 
-This undecorated antechamber to the complex built by Vafer Telator is filled with murky water. Three carved stone sarcaphagi (8’x4’x4’) occupy its center. The sarcophagi can be opened regularly, but also constitute a puzzle. The south wall carries an inscription in Mithric: “Search not for Lord Vafer. The spinner-of-webs has departed towards the spillway.” GM Note: this inscription is designed to throw off tomb-robbers searching for Lord Vafer’s 
-tomb (SL6-69).
-
-Sarcophagi
-The three are identically sized (8’x4’x4’), with lids containing gisants on them. The lids may be removed with an open doors check, revealing some mediocre contents. Clever PCs may recognize that the gisants and inscriptions are part of a puzzle. All three sarcophagi detect as magic.
+* This undecorated antechamber to the complex built by Vafer Telator is filled with murky water.
+	* The south wall is inscribed (Mithric): “Search not for Lord Vafer. The spinner-of-webs has departed towards the spillway.” 
+		* Designed to throw off tomb-robbers searching for Lord Vafer’s tomb (SL6-69).
+	* 3 identical (save markings) carved stone sarcaphagi (8’x4’x4’) occupy its center.
+		* They can be opened regularly (open doors), but constitute a puzzle.
+		* Each has a gisant, Mithric inscription above the head, and detects as magic.
+	* Secret Door (northeast): only the key in the hidden compartment of the sarcophagus at SL6-68 can open it. Attempts to pick have a flat 5% chance to succeed.
+	* Secret Door (Southwest): easy to locate (1 in 4) due to water stains.  Opens when the puzzle is solved.
 
 Sarcophagus 1
-Gisant: A middle-aged man, dressed in the robes of a bureaucrat and holding a stylus and writing tablet. 
-Initial Orientation: The head of the man is towards the southwest.
-Inscription (in Mithric) above Head: “logoTHete and chartouLArios of diSTInction”.
-Contents: A bundle of bones inside badly-decomposed linen wraps, a platinum stylus (75 gp), numerous ruined sheets of parchment, and one soggy but still usable scroll of protection from elementals.
+* Gisant: A middle-aged man in the robes of a bureaucrat, holding a stylus and writing tablet. 
+* Initial Orientation: The head of the man is towards the southwest.
+* Inscription: “logoTHete and chartouLArios of diSTInction”.
+* Contents: a bundle of bones inside badly-decomposed linen wraps, a platinum stylus (75 gp), numerous ruined sheets of parchment, and one soggy but still usable scroll of protection from elementals.
 
 Sarcophagus 2
-Gisant: An aged man, dressed in a toga and cradling both the fasces of authority and the archon’s baculus.
-Initial Orientation: The head of the man is towards the southwest.Inscription (in Mithric) above Head: “archON and friENd of the imperaTOR”.
-Contents: A complete skeleton, with a violet garnet (500 gp) inside the skull; a set of silver fasces wrapped in gold thread (100 gp, but up to 2,500 gp to an imperial collector).
+* Gisant: An aged man in a toga and cradling the fasces of authority and the archon’s baculus.
+* Initial Orientation: The head of the man is towards the southwest.
+* Inscription: “archON and friENd of the imperaTOR”.
+* Contents: a complete skeleton w/ a violet garnet (500 gp) inside the skull; a set of silver fasces wrapped in gold thread (100 gp, 2,500 gp to an imperial collector).
 
 Sarcophagus 3 
-Gisant: A young boy, dressed in a tunic and holding a toy sword.
-Initial Orientation: The head of the boy is towards the northeast.
-Inscription (in Mithric) above Head: “suiTEd for DOMination at an eARly age”.
-Contents: the skeleton of a 10-year old boy, plus a worm-ridden wooden sword.
+* Gisant: A young boy, dressed in a tunic and holding a toy sword.
+* Initial Orientation: The head of the boy is towards the northeast.
+* Inscription: “suiTEd for DOMination at an eARly age”.
+* Contents: the skeleton of a 10-year old boy, a worm-ridden wooden sword.
 
-Puzzle: The puzzle involves arranging the lids in the correct order and then touching the letters that spell TELATOR (Vafer’s nickname). Once this is accomplished, the secret door to SL6-68 pops open. Solving the puzzle depends on several factors. First, PCs must first realize that the lids are interchangeable, and can be shifted from sarcophagus to sarcophagus. Second, they must also realize that orientation matters, that is, that the heads of the gisants must be placed towards the northeast (and not towards the southwest). A clue to this fact is found on the inscription on the south wall (the spillway lies towards the northeast). Third, 
-they must realize that the correct order of lids is boy-man-old man. Finally, they must recognize that the strange capitalization scheme found in the inscriptions is significant. Each inscription has three sets of capitalized letters. Once the lids are arranged in proper chronological order, it is possible to spell out TELATOR by looking at the first, second, and third set of capitalized letters on each gisant (respectively). That is, the first set of capitalized letters on the ‘boy’ gisant is TE; the second set of capitalized letters on the gisant with the middle-aged man is LA; and the third set of capitalized letters on the gisant with the old man is TOR. A clue to the significance of ‘telator’ is found on the corpse in SL6-66.
-
-Secret Door (northeast): The door is normal to locate. Only the key found in the hidden compartment of the sarcophagus at SL6-68 can open it. Attempts to pick the lock have only a flat 5% chance to succeed.
-
-Secret Door (Southwest): This door is easy to locate (1 in 4), as the water from the canyon has revealed its outline. Only by solving the puzzle of the three sarcophagi can it be opened. 
+Puzzle
+* The puzzle solution requires arranging the lids in the correct order, then touching the letters that spell TELATOR (Vafer’s nickname), which opens the secret door to SL6-68.
+	* Place lids so gisants' heads are toward the northeast (not southwest, as they are initially)
+		* The inscription on the south wall (the spillway lies towards the northeast) is a clue.
+		* The correct order of lids is boy-man-old man.
+		* Each inscription has three sets of capitalized letters. Once the lids are arranged in proper order, one can spell out 'TELATOR' by touching the first, second, and third set of capitalized letters on each gisant (respectively).
+			* The first set of capitalized letters on the ‘boy’ gisant is TE; the second set of capitalized letters on the gisant with the middle-aged man is LA; and the third set of capitalized letters on the gisant with the old man is TOR.
+		* A clue to the significance of ‘telator’ is found on the corpse in SL6-66.
 
 ### SL6-68: False Tomb of Vafer Telator (Submerged)
 
-This chamber is home to the false tomb of the Archon Vafer Telator, and includes a nasty trap/curse. The walls were originally cerulean blue, with large gold-colored hoplite helmets scattered across the blue field. The blue paint has faded and dissolved over time, leaving a few patches of blue and the approximately 20 burnished gold-gilt images of helmets (15 gp each if scraped off). A faded inscription in Mithric can barely be made out on the south wall; it reads, “Lord Vafer was most unwise. All he touched turned to gold, and he found he could not eat gold. Ponder this and take heed lest you suffer his fate! Only a kind patriarch can reverse his fate.”
-
-A pair of stone statues of kneeling, loincloth-clad bearers crouches on both the east and the west wall; these statues face the sarcophagus and are shaped such that the hands of each of the four seem to be holding a stick, or the pole of a sedan chair. While no poles are present, a standard 1”- or 2”-diameter pole could fit easily into their hands. Close examination of the debris in the chamber might reveal some splintered and rotted fragments of wooden poles. As described below, the statues are enchanted and can be used to help raise the lid of the sarcophagus. 
-
-Sarcophagus: The marble sarcophagus is massive, some 20’ long, 6’ wide, and 5’ tall. An image of a recumbent Vafer Telator is carved out of the lid; the archon is dressed in his toga and sandals, and grips his fasces and baculus of authority. He appears as a thin, elderly man with a pinched face, narrowed eyes, and clenched teeth. Inspection of the sides of the sarcophagus reveal carved imperial symbols, including hoplite helmets, large elaborate keys, and dragons. Closer inspection reveals two round holes, 2” in diameter, on each side. These holes line up exactly with the (missing) poles held by the bearer statues along the walls. Should four 5’-long, 1-” or 2”-diameter poles be inserted into the bearers’ hands, they could 
-be slotted easily into the holes on the sarcophagus sides. Once four poles have been fitted in this way, the stone statues stand up via magic and lift the lid of the sarcophagus with them. This is the only way to access the interior of the sarcophagus.
-
-Within is a smaller space, about 8’x4’x4’ in size. The (false) corpse of Vafer Telator lies within, wrapped in linen bandages with a single boney finger protruding from midway down the corpse. What is disconcerting, however, is that the corpse – body, linen wraps, finger – is solid gold and cursed (see below). Only by extreme care – gloves, or careful use of ropes – can Vafer’s body be removed without incurring the curse. 
-
-Curse: The false Vafer’s body is afflicted with the Midas Curse. Should any living flesh touch the (false) corpse, that flesh and all objects touching it are instantly turned into gold. Touching a non-living object to the body has no effect; only living flesh triggers transforming effect. Those turned to gold by Vafer remain true gold for only 1-8 days; after the 1-8 days have passed, the ‘gold’ reverts to a gold-colored stone. During the period in which Vafer’s 
-victims are made of true gold, the curse is also ‘contagious,’ such that victims can also transform other living flesh into gold (again, for 1-8 days). The curse can only be removed by a 12th-level (or better), good-aligned cleric who casts remove curse on the original corpse (Vafer’s false corpse). If this is done, Vafer’s body remains solid gold but loses the curse (and can thus be used as wealth), and all victims still within the 1-8-day window revert to normal flesh. If the remove curse is cast after the expiration of the 1-8-day window, victims remain stone (but can be restored via a stone to flesh spell).
-
-Hidden Compartment (sarcophagus): Beneath the cursed golden corpse of Vafer Telator is a secret compartment, 2” square. It is difficult to detect passively (1 in 8), but normal to detect if the interior of the sarcophagus is searched carefully (once the golden corpse has been removed). Within the compartment is a golden skeleton-type key whose tooth is shaped like a tiny ankh. This key operates the secret door (northeast) in SL6-67 that leads to Vafer’s true tomb (SL6-69).
-
-Treasure:
-Should remove curse be cast at a high enough level on the solid gold corpse, the gold loses its curse and can be chopped up, or sold as is. It is extremely heavy. The golden body weighs 400 lb and is worth 25,000 gp intact; the broken into pieces it is worth 20,000 gp.
+* This chamber is the false tomb of the Archon Vafer Telator, and holds a nasty curse.
+* The walls were painted cerulean blue, now faded and run, with large gold-colored hoplite helmets scattered across the blue field (20 helmets, 15 gp can be scraped from each).
+	* A barely visible inscription (Mithric) on the south wall: “Lord Vafer was most unwise. All he touched turned to gold, and he found he could not eat gold. Ponder this and take heed lest you suffer his fate! Only a kind patriarch can reverse his fate.”
+* On east and west walls, a pair of (magic) stone statues of loincloth-clad bearers kneel.
+	* They face the sarcophagus and are shaped such that the hands of each seem to be holding a stick, or the pole of a sedan chair.
+	* No poles are present, but a 1”- or 2”-diameter pole could fit easily into their hands.
+		* Close examination of the chamber debris reveal some splintered and rotted fragments of wooden poles.
+* A massive, marble sarcophagus (20’ long, 6’ wide, 5’ tall) lies between the statues.
+	* An image of a recumbent Vafer Telator is carved on the lid; the archon in his toga and sandals, gripping fasces and baculus of authority, a thin, elderly man with a pinched face, narrowed eyes, and clenched teeth.
+	* Hoplite helmets, large elaborate keys, and dragons are inscribed on the sides. 
+	* Two round holes (2” in diameter) are on each side, lined up with the (missing) poles held by the bearer statues. 
+	* If four 5’-long, 1-” or 2”-diameter poles are inserted into the bearers’ hands and holes on the sarcophagus sides, the statues stand, lifting the lid of the sarcophagus with them.
+	* In a smaller space (8’x4’x4’) within is the (false) corpse of Vafer Telator, wrapped in linen bandages with a single boney finger protruding from midway down the corpse.
+		* Body, linen wraps, and finger are solid gold and cursed with the Midas Curse.
+			* Any living flesh that touches it, along with all objects worn, are instantly turned into gold. Touching a non-living object to the body has no effect.
+			* These things remain true gold for only d8 days; then reverting to golden stone.
+			* While they are true gold, the curse is contagious.
+			* The curse can be broken (restoring all victims still in their d8 day window) only by a 12th-level good-aligned cleric casting Remove Curse on Vafer’s false corpse (which remains solid gold, sans curse, 400 lbs, 25,000 gp intact or 20,000 broke up).
+		* Beneath the cursed golden corpse is a secret compartment, 2” square.
+			* Difficult to detect (1 in 8) with corpse in place, normal otherwise.
+			* Within is a golden skeleton-type key with a tiny ankh-shaped tooth, which opens the secret door (northeast) in SL6-67 to Vafer’s true tomb (SL6-69).
 
 ### SL6-69: True Tomb of Vafer Telator (Submerged)
 
-The true tomb of the archon, Vafer Telator, lies hidden in this chamber. The entire chamber - walls, floor, and ceiling - is covered in tarnished gold leaf, (total of 435 gp). Two stone chests stand against the north wall, while Vafer Telator –now a fearsome (if soggy) mummy- himself stands upright in the center of the chamber amid the murky water. 
+* The true tomb of the archon, Vafer Telator, lies hidden in this chamber.
+	* Walls, floor, and ceiling are covered in gold leaf (435 gp).
+	* Vafer Telator, a fearsome (if soggy) mummy, stands upright in the center of the chamber amid the murky water.
+		* It wears a lesser necklace of prayer beads and a gold pin shaped like a hoplite helmet.
+	* Two stone chests stand against the north wall.
+		* Chest #1: 10,000 ancient silver pennies, a solid gold archon’s baculus (250 gp, 2,500 gp to an imperial collector)
+		* Chest #2: a shield +2, a hammer +2, gauntlets of ogre power, a rust-colored bag of tricks
+	* Secret Door (southwest): easy to detect from SL6-69.
+		* Locked and almost impossible pick (flat 5%).  Opens to the key in SL6-68.
+	* Secret Door (east, into SL6-70): easy (1 in 4) to detect from SL6-69.
+		* It can be pulled open from that side with an open doors check.
 
-Secret Door (southwest): This door is easy to detect if approaching from SL6-69. It is locked and almost impossible to open (5% flat chance to pick the lock) without the key, which is found in SL6-68.
-
-Secret Door (east, into SL6-70): This door is easy (1 in 4) to detect if approaching it from SL6-69. It can be pulled open from that side with an open doors check.
-
-Vafer Telator, a mummy: SZ M; AL LE; AC 3; MV 60’; HD 6+3; HP 48; #AT 1; Dmg 1-12. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, and paralysis; turned as a vampire due to the special pin he wears. Since Vafer is submerged, he risks no danger from fire.
-
-Treasure:
-Chest #1: 10,000 ancient silver pennies (see Arden Vul items), plus a solid gold archon’s baculus (250 gp, but 2,500 gp to an imperial collector)
-
-Chest #2: a shield +2, a hammer +2, guantlets of ogre power, and a rust-colored bag of tricks
-Corpse of Vafer Telator: the mummy wears a lesser necklace of prayer beads (same as the usual, except that special beads can only be used once) and a gold pin shaped like a hoplite 
-helmet. The pin – a symbol of imperial authority – causes Vafer to be turned as a vampire. Destroying the pin grants 1,000 experience points to a good character.
+Vafer Telator, a mummy: SZ M; AL LE; AC 3; MV 60’; HD 6+3; HP 48; #AT 1; Dmg 1-12. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, and paralysis; turned as a vampire due to the special pin he wears.
+* Lesser Necklace of Prayer Beads: as normal, but the special beads can be used only once.
+* Imperial pin (hoplite helm): turned as a vampire; destroying it grants 1,000 xp points to a good character.
+* Since Vafer is submerged, he risks no danger from fire.
 
 ### SL6-70: Burial Niches (Submerged)
 
-This 10’-tall corridor is lined with niches in which the lesser officials of the Archontean civil administration were buried during the period when the Canyon was used as a burial site. Most of these officials were scribes, chartoularii, lesser logothetes, protonotarii, and so forth. Because the entrance to this area was open to direct access for a long time, almost all of these niches were broken open and plundered in antiquity. As a result, the corridor currently is littered with piles of broken stone burial plugs, minor bits of iron and steel, and masses of bones. Long strips of linen shrouds hang lazily in the murky water. 
-
-Careful and time-consuming searching through the rubble and the numerous empty niches reveals a few valuables left behind by the plunderers. One item may be found per turn of searching (up to 8 items). Determine items using this table:
+* This 10’-tall corridor is lined with niches in which the lesser officials of the Archontean civil administration were buried during the period when the Canyon was used as a burial site.
+	* Most were scribes, chartoularii, lesser logothetes, protonotarii, and so forth.
+	* As the entrance to this area was open to direct access for a long time, almost all niches were broken open and plundered in antiquity.
+		* Careful searching can find 1 item / Turn (max 8), roll below.
+* The corridor is littered with piles of broken stone burial plugs, minor bits of iron and steel, and masses of bones. Long strips of linen shrouds hang lazily in the murky water. 
+* Secret Door (north): 4’ square), with a keyhole (key lost).  Can be broken open (bend bars).
+* 2 giant pikes (see SL6-71 for stats) lurk here.
 
 D30 Item(s) Notes
 * 1 9 ancient silver pennies(see Arden Vul items) tied into a roll with linen
@@ -1569,10 +1586,6 @@ D30 Item(s) Notes
 * 30 A single arrow upon which is carved a man fighting a bear
 	* It is an arrow of mammal slayingThe giant pikes that lair to the east attack hungrily as soon as intruders are half-way down the hallway. See SL6-71 for statistics.
 
-Secret Door (north): The door is small (4’ square) and normal to locate. A keyhole exists, but the key is lost. The door must be battered open or wrested open with a bend bars check.
-
-2 giant pikes (see SL6-71 for stats)
-
 ### SL6-71: Shattered Tomb with Fish (Submerged)
 
 * A broken sarcophagus lies in this chamber.
@@ -1603,35 +1616,34 @@ Note: The air supply in this chamber is fixed; see general sub-level conditions 
 
 Note: The air supply in this chamber is fixed; see general sub-level conditions above.
 
-An ominous sight greets visitors to this 30’x30’x10’ chamber. A bullet-shaped basalt monument stands in the exact center of the room; scattered around it are eight moldering corpses. The corpses appear to have been flung backward, although each has an outstretched hand that seems to be reaching towards the monument. All surfaces – walls, ceiling, and even the floor - are plastered and painted lemon yellow; while mold and damp has damaged the plaster in some spots, it is remarkably well-preserved. An inscription in Mithric has been carved into the south wall and filled with silver (50 gp); it reads “Heroes of the Empire look down on you from above. Duty, Loyalty, and Respect are your obligations.” [GM Note: this inscription is a clue to the operation of the mechanism for opening the way to SL6-77; see SL6-76 for more details]
+* This 30’x30’x10’ chamber holds a bullet-shaped basalt monument at the exact center.
+	* The ==monument== is of sickly grey granite, 3’ in diameter and 6’ tall.
+	* Scattered around it are eight moldering corpses which appear to have been flung backward, though each has an outstretched hand reaching towards the monument.
+		* They come from various periods (4 ancient, 2 lizardmen, 2 fishmen). None appear to bear any injury. They have been stripped of all valuables.
+	* Walls, ceiling, and even floor are plastered and painted lemon yellow, damaged by damp and mold in spots, but remarkably well-preserved. 
+	* An inscription (Mithric) on the south wall and filled with silver (50 gp) “Heroes of the Empire look down on you from above. Duty, Loyalty, and Respect are your obligations.”
+		* GM Note: a clue to opening the way to SL6-77 (see SL6-76 for more details).
 
-Skeletons: The eight come from various periods. Four appear ancient, two are lizardmen, and two are fishmen. None of the remains appear to bear any injury, nor do any of them animate. The skeletons have been stripped of all valuables.
-
-Deadly Monument: The bullet-shaped monument is formed of sickly grey granite and is 3’ in diameter and 6’ tall. It detects as magic and as evil. A stream of arcane glyphs has been painted across the monument in a bone-white paint; the glyphs swirl across the monument’s surface in three large whorls. Those with the ability to view the glyphs from a distance (i.e., magically) will notice that there are fifty-eight distinct glyphs. Such viewers might also notice 
-eight blank spots in the stream (where glyphs previously existed).
-
-It takes advanced knowledge of magical theory to recognize that each of the glyph represents the concept of death from a different linguistic, planar, or cultural perspective. Practically speaking, magic users of 7th-level and above have a chance to recognize the nature of the glyphs: the chance is 30% plus 5% per additional experience level.
-
-Each glyph carries a deadly enchantment: if any living creature approaches within 10’ of the monument, the next glyph in the stream discharges in a burst of magical power while a deep 
-voice intones the word ‘death’ in Mithric. All those within 15’ of the monument who possess 60 HP or less are instantly slain (those with more than 60 HP take 60 HP damage). Victims are permitted a save versus death magic (with a -2 penalty); if the save is made, the victim merely takes 30 HP damage.
-
-Each time a glyph activates, it is erased from the monument; as a result, the monument only has fifty-eight more uses. It is possible to mask the power of the monument, at least temporarily: casting dispel magic on the monument (by a caster of at least 7th-level dampens the power of the monument for 1-3 turns. Such should be sufficient to allow a swift party to climb through the concealed hole in the ceiling.
-
-Concealed Hole: The plastered ceiling conceals a 10’x10’ hole that leads up a 5’-long tunnel to SL6-75. PCs have normal chances to detect this concealed ‘door’. Once detected, it is easy to break through the plaster to reveal the hole.
+Deadly Monument
+* Detects as magic and as evil.
+* Arcane glyphs have been painted across the monument in a bone-white paint.
+* Three large whorls of glyphs flow across the monument's surface.
+	* Hard to view from a safe distance, but there are 58 distinct glyphs, and 8 blank spots where glyphs previously existed.
+	* Advanced arcane theory may recognize that each glyph represents the concept of death from a different linguistic, planar, or cultural perspective (mages of 7th-level or higher: 30% + 5% per level). 
+	* Each glyph carries a deadly enchantment.
+		* If any living creature approaches within 10’, the next glyph in the stream discharges (and is erased) in a burst of magical power while a deep voice intones (Mithric) ‘death’.  All within 15' of the monument take 60 damage (save at -2 for half). 
+	* Dispelling the monument (7th or higher) disables it for 1d3 Turns.
+* The ceiling conceals a 10’x10’ plastered-over hole leading up a 5’-long tunnel to SL6-75.
 
 ### SL6-75: Upper Chamber (Dry)
 
-Notes: The air supply in this chamber is fixed; see general sub-level conditions above. It also lies beyond the walls of the main cavern of the Drowned Canyon, a fact which means that the floor level relative to the cavern floor is no longer relevant.
+* Notes: The air supply in this chamber is fixed.  The chamber lies beyond the walls of the main cavern of the Drowned Canyon, so the floor level relative to the cavern floor is no longer relevant.
 
-This enormous chamber has 20’-tall walls and a pyramidal ceiling that rises another 10’. Four colossal statues stand in the corners of the room facing its center. Stirring inscriptions in 
-Mithric appear on three of the four walls. A 10’x10’ hole in floor leads down 5’ to the plaster ceiling of SL6-74. A 3’ parapet surrounds the hole.
-
-Statues: All four of the 12’ statues are of legionaries at parade rest. They detect of magic, but do not animate until/unless the relics from SL6-77 are brought into this chamber. At that point they lumber to life and prepare to destroy the desecrators.
-
-Inscriptions: Three of the walls feature a word incised into the stone in 2’-tall capital letters. They read as follows:
- North: Respect
- East: Duty
- West: Loyalty
+* This enormous chamber has 20’-tall walls and a pyramidal ceiling that rises another 10’.
+	* Four colossal (12') statues of legionaries at parade rest (imperial stone guardians) stand in the corners, facing the center.
+		* They lumber to destroy the desecrators if the relics from SL6-77 are brought here.
+	* Words (Mithric) are incised, 2'-tall on three of the four walls: Respect (north), Duty (east), Loyalty (west).
+	* A 10’x10’ hole in floor, surrounded by a 3' parapet, leads down 5’ to the plaster ceiling of SL6-74.
 
 4 imperial stone guardians (see new monsters): SZ L; AL N; AC -2; MV 90’; HD 8+3; HP 60, 60, 60, 57; #AT 2; Dmg 3-18/3-18; MR 50%. Special defenses: +2 or better weapons to hit; immune to missiles (including magic missile), fire, cold, mind-affecting spells (e.g. charm), and most immobilizing spells (immune to entangle, hold monster, web).
 
@@ -1644,6 +1656,7 @@ Note: The air supply in this chamber is fixed; see general sub-level conditions 
 This 30’-tall, barrel-vaulted hall offers an impressive tribute to some long-forgotten military heroes of antiquity. A 10’-wide strip of red onyx has been inset into the granite; it leads from the entrance to the main statue at the south end of the hall. Flanking the red stone walkway are eight 15’-tall statues. An inscription (actually a song) runs along the wall at a point 20’ above the floor; it starts in the northwest corner and ends in the northeast corner. The words of the Mithric inscription are 2’ tall, inset into the stone, and inlaid with more red onyx. At the south end of the hall stands a 20’-tall statue of the great Archontean hero, Spiculus Carbo.
 
 Statues of Lesser Heroes: The eight statues depict men and women in military garb, albeit in clothing and equipment unique to each individual. Each stands on a low plinth on which the name of the hero is inscribed. The statues are enchanted (and detect as magic). Should any one of the three code words embedded in the song inscription (duty, loyalty, respect) be touched (see below), all eight break out into a rough version of the song, chanted in loud bass tones. Should the physical remains of Spiculus Carbo be looted from SL6-77, the eight offer boos, hisses, and raspberries in equally loud tones. From southwest to southeast, the statues depict:
+
 28. Hertulion, in legionary gear, in a defensive posture with shield and spear
 29. Janata (F), in scout garb, wielding a sling
 30. Hjaltion, a dekarch, gesturing with baculus
@@ -1670,15 +1683,15 @@ Secret passage (to SL6-77): It is almost impossible (1 in 12) to detect that the
 
 ### SL6-77: Secret Tomb of Spiculus Carbo (Dry)
 
-Note: The air supply in this chamber is fixed; see general sub-level conditions above.
+Note: The air supply in this chamber is fixed.
 
-This hidden chamber houses the remains of Spiculus Carbo, as well as some relics associated with him. A stone table stands in the center of the 8’-tall, rough-carved chamber. An armor rack stands behind it. 
-
-Table: The physical remains of Spiculus Carbo sit on the table. 
-
-These include the skull, femurs, and one skeletal hand, as well as an alabaster jar filled with ashes (the rest of his remains). The bones have been coated with molten gold and gleam dully; they are worth 125 gp but if associated with any of Carbo’s gear might bring 875 gp. Alas, if any of the remains (bones or ashes) are brought into SL6-75, the four imperial stone guardians there immediately attack.  Next to the remains are Spiculus’s hoplite helmet, to which is attached a pair of fox pelts, his gladius, a silver cloak pin, and a pair of worn sandals. The helmet is normal, but the fox pelts are enchanted (fox crests – see new magic items), as are the sandals (sandals of agility – see new magic items).
-
-Armor Rack: The rack holds Spiculus Carbo’s extremely battered suit of imperial field plate (see Arden Vul items), as well as his spear +3. Due to its age and condition, the armor requires 450 gp worth of repair work for peak functionality; until such work is completed, it provides AC 4 (instead of the normal AC 2).
+* This hidden, 8’-tall, rough-carved chamber houses the remains of Spiculus Carbo, and his relics.
+	* A stone table stands in the center, the remains of Spiculus Carbo atop it.
+		* Skull, femurs, and one skeletal hand, all coated with molten gold (125 gp), and an alabaster jar filled with his ashes.  Beside Carbo’s gear, the remains are worth 875 gp.
+			* If the bones or ashes are brought into SL6-75, the four imperial stone guardians there immediately attack.
+		* Beside the remains are Spiculus’s hoplite helmet (attached a pair of fox pelts; fox crests (new)), his gladius, a silver cloak pin, and a pair of worn sandals of agility (new).
+	* An armor rack stands behind the table. 
+		* Spiculus Carbo’s extremely battered suit of imperial field plate (av items, AC 4, 450 gp to repair to AC 2) and his spear +3. 
 
 ### SL6-78: Tomb of Licata the Archer (Dry)
 

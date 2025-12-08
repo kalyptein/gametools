@@ -116,14 +116,12 @@ fire, silence 15’ radius; animate dead, blindness; sticks to snakes. Spell boo
 
 ### 10-4: More Heqeti Watchers
 
-This chamber is decorated identically to area 10-3, and contains an equivalent force of guardians. This team has no rotting corpses, however; instead, it possesses a primitive statue of Kauket, to which it has attached numerous bits of flesh taken from its foes.
+* This chamber is decorated identically to 10-3, and contains an equivalent force of guardians.
+	* They have no rotting corpses, but do possesses a primitive soapstone statue of Kauket, to which they  has attached numerous bits of flesh taken from foes (450 gp).
 
 6 heqeti chosen (see new monsters): see stats at area 10-3.
 
 1 heqeti weaver (see new monsters): see stats at area 10-3.
-
-Treasure:
-The statue of Kauket is soapstone and 4’ tall; despite its blasphemous visage, it might fetch 450 gp.
 
 ### 10-5: Ancient Hole
 
@@ -149,7 +147,10 @@ sledges, shovels). The baskets hold dried fish, dried mushrooms, and dried sausa
 
 ### 10-7: Broken Lesser Obsidian Gates
 
-A pair of large, obsidian valves lie shattered on the floor here. It is clear that they bear a resemblance to the more iconic ones found on level 5 (area 5-6), even if they are much smaller. Beyond the doors is a completely collapsed corridor that once led to a major shrine to Rimmaq-Isfet. The shrine was cleansed by the Archonteans in antiquity, and the access route to it collapsed. The heqeti are beginning the slow process digging their way back to the shrine.GM Note: The lost shrine provides a possibility for GM expansion.
+* A pair of large, obsidian valves (similar to the iconic ones of 5-6, though much smaller) lie shattered on the floor here.
+	* Beyond is a completely collapsed corridor that once led to a major shrine to Rimmaq-Isfet. It was cleansed by the Archonteans in antiquity, and the access route to it collapsed.
+		* The heqeti have begun the slow process digging back to the shrine.
+		* GM Note: The lost shrine provides a possibility for GM expansion.
 
 ### 10-8: Heqeti Shrine 
 
@@ -193,9 +194,8 @@ Bedara, a true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; H
 
 ### 10-9: Broken Corridor Fragment
 
-This section of corridor is badly damaged; it is completely blocked by the destruction wrought in antiquity. 
-
-Secret Door (east): The door is normal to locate. It is magically held, and can only be opened by force or by a knock spell. 
+* This section of corridor is badly damaged; fully blocked by the destruction wrought in antiquity.
+* Secret Door (east): magically held. 
 
 ### 10-10: Heqeti Eft Ponds
 
@@ -288,7 +288,9 @@ The chest contains 9,513 gp in assorted types of coins, plus three pure white an
 
 ### 10-14: Broken Obsidian Gates 
 
-Smaller cousins of the famous Obsidian Gates (see area 5-6) once stood here, blocking the main route to the Mephitic Marsh (10-15) from the west. The valves were blasted apart by the rudishva in antiquity, however, and all that is left are 2’-wide stumps that still swing easily on their hinges. Hanging from each fragment are roughly a dozen heads of sentient creatures, in varying states of decay. Most are skeletal, but there are a few heads with flesh still attached; these come from an aroksachaul (see new monsters), a goblin, and a human.
+* Smaller cousins of the famous Obsidian Gates (see area 5-6) once stood here, blocking the main route to the Mephitic Marsh (10-15) from the west.
+	* The valves were blasted apart by the rudishva in antiquity, leaving 2’-wide stumps that still swing easily on their hinges.
+		* Hanging from each fragment are roughly a dozen heads of sentient creatures, in varying states of decay.  Most are skeletal, but there are a few still with flesh: an aroksachaul (new), a goblin, and a human.
 
 ### 10-15: The Mephitic Marsh
 
@@ -333,17 +335,21 @@ Prisoner from 10-43, to be determined randomly.
 
 ### 10-18: Upper Summoning Platform 
 
-Rising 55’ from the marsh, this flattened stone pillar is identical in every other way to the one at 10-17. Again, should the complex be warned of the approach of the PCs, the heqeti weaver, Neepariq, will be present here, sacrificing a victim from 10-43 in order to summon a worm of Qok. If the PCs approach undetected, then the platform is empty. It should be noted that a long, slender, and steep staircase descends from this platform to the marsh.
+* Rising 55’ from the marsh, this flattened stone pillar is identical to the one at 10-17.
+	* Alarm Raised: the heqeti weaver, Neepariq, will be present here, sacrificing a random victim from 10-43 in order to summon a worm of Qok.
+	* No Alarm: the platform is empty.
+* A long, slender, and steep staircase descends from this platform to the marsh.
 
 1 worm of Qok (see new monsters): SZ L; AL CE; AC 3; MV 60’; HD 12; HP 86; #AT 1; Dmg 2-24; MR 50%. Special attacks: swallow.
 
-Neepariq, heqeti weaver, as 12th-level cleric of Kauket: see stats at area 10-40
+Neepariq, heqeti weaver, as 12th-level cleric of Kauket (see 10-40)
 
 Prisoner from 10-43, to be determined randomly.
 
 ### 10-19: High Bridge
 
-Soaring 55’ above the marsh, this 10’-wide, 3’-thick, damaged stone bridge connects area 10-18 with the top level of the Ziggurat (area 10-35). One section of the span was broken in antiquity; it is spanned by a rickety set of wooden planks.
+* Soaring 55’ above the marsh, this 10’-wide, 3’-thick, damaged stone bridge connects 10-18 with the top level of the Ziggurat (10-35).
+	* One section of the span was broken in antiquity; now spanned by rickety wooden planks.
 
 ### 10-20: Pilgrim’s Rest
 
@@ -376,19 +382,27 @@ The copper statues are worth 300 gp each. They contain a total of 37 gems worth 
 
 ### 10-21: Low Bridge
 
-This 20’-wide, 5’-thick bridge is in relatively good shape and connects the second level of the ziggurat (10-33) with the nearby pilgrims’ rest area (10-20). The bridge is 25’ above the floor of the Mephitic marsh.
+* This 20’-wide, 5’-thick bridge rises 25' above the Mephitic marsh, in relatively good shape.
+	* It connects the 2nd level of the ziggurat (10-33) with the nearby pilgrims’ rest area (10-20).
 
 ### 10-22: Stair Fragment 
 
-A fragment of staircase that once connected to 10-20 rises from the marsh in this location. It is solid stone and 10’ tall, and liberally covered with acid drops and the glowing friend (see new flora). It would be a good location from which observe the ziggurat.
+* A fragment of staircase that once connected to 10-20 rises from the marsh.
+	* Solid stone and 10’ tall, liberally covered with acid drops and the glowing friend (flora).
+	* It is a good location from which observe the ziggurat.
 
 ### 10-23: Pillar with Ledges 
 
-A pillar of stone rises to the ceiling here. Two ledges are inset into it at a point 15’ above the marsh. The flora has been carefully pruned back here, as the heqeti use this as a place of ‘natural beauty’ from which to admire the ziggurat. Numerous heqeti sigils have been carved into the side of the pillar. The northern ledge provides good sight lines overlooking the first step of the east face of the ziggurat.
-
+* A pillar of stone rises to the ceiling here.
+	* Two ledges are inset at a point 15’ above the marsh.
+	* The flora has been carefully pruned back here to allow the heqeti to admire the ziggurat.
+		* The northern ledge provides good sight lines overlooking the first step of the east face of the ziggurat.
+	* Numerous heqeti sigils are carved into the side of the pillar. 
 ### 10-24: Platform of the Pukel
 
-A broad, low stone platform rises 5’ above the level of the marsh in this location. The pavement is cracked, pitted, and holed. It abuts the great salamander head to the south (10-25), and is also the destination for all the heqeti teleport wells throughout Arden Vul, whether they are currently active or inoperative (i.e., those found at areas 4-74, 6-106, 7-83, 8-25, 8-162, and SL5-32).
+* A broad, low stone platform rises 5’ above the level of the marsh.
+	* The pavement is cracked, pitted, and holed, abutting the great salamander head to the south (10-25).
+	* This is the destination for all the heqeti teleport wells throughout Arden Vul, currently active or inoperative (i.e., 4-74, 6-106, 7-83, 8-25, 8-162, and SL5-32).
 
 ### 10-25: Giant Salamander Head
 
@@ -403,42 +417,59 @@ Nine tears of Kauket (see new magic items).
 
 ### 10-26: Pillar with Ledge 
 
-Another natural pillar rises from floor to ceiling in this location. A small ledge is set into the pillar about 10’ above the level of the marsh. The pillar and ledge are heavily swathed in both the glowing friend and acid drops (see new flora). The ledge contains a battered memorial to the legionaries of the Archontean 10th Legion (“the Glorious Tenth”). It takes the form of a copper casket within a stone cairn. The casket, although corroded by humidity, still bears the distinctive numeral X (10) of the legion; within the casket is a gladius +2, a cestus, a copper plaque, a spell scroll containing Kentillian’s useful sphere (see new spells), and an amulet of courage (see new magic items). The plaque reads, in Mithric, “In memory of our brothers and sisters in the Glorious Tenth, who died to cleanse this foul site.” The plaque would bring 2,500 gp to the modern polemarch of the legion.
+* Another natural pillar rises from floor to ceiling in here.
+	* A small ledge is set into the pillar 10’ above the level of the marsh.
+		* The ledge contains a battered memorial to the legionaries of the Archontean 10th Legion (“the Glorious Tenth”), a copper casket within a stone cairn.
+			* Though corroded, the casket still bears the legion's distinctive numeral X (10).
+				* Within: a gladius +2, a cestus, a copper plaque, a scroll (Kentillian’s useful sphere, new), and an amulet of courage (see new magic items).
+					* The plaque reads (Mithric) “In memory of our brothers and sisters in the Glorious Tenth, who died to cleanse this foul site.” (2,500 gp to the modern polemarch of the legion).
+	* Pillar and ledge are heavily swathed in both the glowing friend and acid drops (flora).
 
 ### 10-27: Vantage Point 
 
-This broad platform set into the south wall of the cavern is about 35’ above the level of the marsh. It provides a fine view of the ziggurat, which looms to the north. A narrow set of stairs provides access to the marsh. Once used as a gathering place for pilgrims in antiquity, the damage to the western precincts of the heqeti complex has ensured that this area remains relatively unvisited.Secret Door (south): This door is normal to find. It opens simply by pushing it inward.
+* This broad platform set into the south wall of the cavern is 35’ above the level of the marsh.
+	* It provides a fine view of the ziggurat, looming to the north.
+	* A narrow set of stairs provides access to the marsh.
+	* Once a gathering place for pilgrims in antiquity, the damage to the western precincts of the heqeti complex has left this area relatively unvisited.
+	* Secret Door (south): opens simply by pushing inward.
 
 ### 10-28: Cistern
 
-The heqeti have walled off this portion of the great cavern with mortared round stones. Here the run-off of the Rimpled Run (see 10-30 and 10-31) collects into a large cistern. The heqeti use the cistern to modulate the amount of water in the Mephitic Marsh.
-
-The retaining wall of the cistern is 10’ thick and 30’ tall; its top is flattened, allowing persons to walk along the top. The water level is 15’ from the floor of the cavern. 
-
-A sluice gate set into the retaining wall allows the heqeti to add water to the marsh. The controls for the sluice are located atop the retaining wall; a simple wheel lever attached to a rope completes the mechanism. Crafty PCs may decide to empty the cistern. Given the size of the marsh, however, this act does not seriously affect movement or the structures in the marsh.
+* The heqeti have walled off this portion of the great cavern with mortared round stones.
+	* The run-off of the Rimpled Run (10-30 and 10-31) collects into this large cistern, which The heqeti use the cistern to modulate the amount of water in the Mephitic Marsh.
+		* The retaining wall of the cistern is 10’ thick and 30’ tall; its top is flattened, allowing persons to walk along the top.
+		* The water level is 15’ from the floor of the cavern. 
+	* A sluice gate set into the retaining wall allows addition of water to the marsh.
+		* The controls are atop the retaining wall; a simple wheel lever attached to a rope.
+		* Given the size of the marsh, emptying the cistern does not seriously affect movement or the structures in the marsh.
 
 ### 10-29: Cistern Keepers’ Post
 
-A pair of heqeti hoppers are stationed in this hidden perch overlooking the mephitic marsh (10-15). They are tasked with maintaining the cistern (10-28) and watching the river and spillway (10-30). They have a rope ladder that they attach to eyebolts set in the floor whenever they wish to descend to the cistern. They also possess a spiral ibex horn which they attempt to sound in case of attack or if they spot intruders in the cistern. The west wall is painted black, with a sinuous white tongue superimposed over it (a symbol of Rimmaq-Isfet). The watchers have no treasure.
-
-GM Note: The post offers a fine vantage point from which to observe the ziggurat. PCs who spent 1-4 hours watching from here might learn quite a bit about the heqeti population and activities.
+* 2 heqeti hoppers are stationed in this hidden perch overlooking the mephitic marsh (10-15).
+	* They maintain the cistern (10-28) and watching the river and spillway (10-30).
+	* They have a rope ladder attached to eyebolts set in the floor to descend to the cistern.
+	* They sound the alarm with a spiral ibex horn in case of attack or if they spot intruders in the cistern.
+	* The west wall is painted black, with a sinuous white tongue superimposed over it (a symbol of Rimmaq-Isfet).
+* The post offers a fine vantage point from which to observe the ziggurat.
+	* 1-4 hours spying can learn quite a bit about the heqeti population and activities.
 
 2 heqeti hoppers (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 24, 22; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to 
 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
 ### 10-30: Beach and Spillway
 
-A broad cave spans the Rimpled Run in this location. It slopes down gently from south to north, a fact that means that the northern bank serves as a spillway for excess water from the Run. Ordinarily the overflow is minimal, amounting only to a small trickle that drips down the cliff into area 10-28. Significant changes to the water flow (see, for example, area 9-65) will cause the trickle to grow to a flood, affecting the water level at 10-28.
-
-Secret Door (west): The secret door is normal to find, and opens by pushing it open (open doors check).
-
-Treasure:
-A limed over ring of swimming is encrusted into the stone along the south bank of the Rimpled Run. Detecting it requires a successful secret door check.
+* A broad cave spans the Rimpled Run here.
+	* The cave slopes down gently from south to north, making the northern bank a spillway for excess water from the Run.
+		* Ordinarily the overflow is only to a small trickle that drips down the cliff into 10-28. Significant changes to the water flow (see 9-65) cause the trickle to grow to a flood, affecting the water level at 10-28.
+	* A limed over ring of swimming is encrusted into the stone along the south bank of the Rimpled Run (detect as secret door).
+* Secret Door (west): opens by pushing it open (open doors).
 
 ### 10-31: Rimpled Run, from 9-141
 
-The Rimpled Run emerges from level 9 (area 9-141) here. That section of the underground river is vigorous and dangerous, as the water entirely fills the passageway (see 9-141 for risks of traveling from that location). Those who successfully navigate the Run find that it slows considerably in this section, allowing swimmers a chance to exit the river at area 10-30 (roll 3d6 under DEX to reach the beach). The Rimpled Run continues for several miles before 
-debouching into the Silent Sea, a vast underground lake forming a key portion of the Underearth.
+* The Rimpled Run emerges from level 9 (9-141) here.
+	* That section of the underground river is vigorous and dangerous, entirely water-filled (see 9-141 for risks of traveling from that location).
+	* Those who navigate the Run find that it slows considerably in this section, allowing swimmers a chance to exit the river at 10-30 (3d6 under DEX to reach the beach).
+	* The Rimpled Run continues for several miles before debouching into the Silent Sea, a vast underground lake forming a key portion of the Underearth.
 
 ## Level 10: 10-32 - 10-37 (The Ziggurat of Kauket)
 
@@ -826,7 +857,10 @@ Pikaressa’s Spell Book: Charm person, detect magic, enlarge, light, magic miss
 
 ### 10-50: East Causeway and Corridor
 
-This imposing causeway connects the pilgrims’ rest (10-21) with the eastern areas of the heqeti shrine. Where it extends into the great cavern, it rises 25’ above the level of the marsh. In the corridor segment that leads to 10-51 a pair of niches hold statues. The statues are 8’ tall and depict Reepsiq, the Great Tongue, and Qassapik, the Chief Weaver (see 10-47 and 10-48). Each is festooned with small bits of leather, feathers, and small trinkets; with the clutter stripped away, each could be sold for 475 gp.
+* This imposing causeway connects the pilgrims’ rest (10-21) with the eastern areas of the shrine. 
+	* Where it extends into the great cavern, it rises 25’ above the level of the marsh.
+	* In the corridor segment leading to 10-51, a pair of niches hold 8' tall statues.
+		* They depict Reepsiq, the Great Tongue, and Qassapik, the Chief Weaver (see 10-47 and 10-48; 475 gp each). Each is festooned with small bits of leather, feathers, and small trinkets.
 
 ### 10-51: Hall of the Heqeti
 
@@ -867,7 +901,7 @@ Twenty of the bunks contain small bits of silver, copper, and shell jewelry wort
 
 ##### 10-52b: Barracks
 
-This chamber is identical to area 10-52A, including inhabitants and treasure.
+* This chamber is identical to area 10-52a, including inhabitants and treasure.
 
 ### 10-53: Treasury
 
@@ -944,38 +978,34 @@ STR 11, INT 14, WIS 9, DEX 17, CON 12, CHA 15. Thief skills: PP 75%, OL 72%, F/R
 
 ### 10-55: Relaxation Pools
 
-This low-ceilinged hall (8’) is dimly lit by the green phosphorescence of the glowing friend (see new flora). The sound of dripping water is audible from the entrance.
-
-Four pools, each about 5’ deep, line the floor. From each pool rise several specimens of the glowing friend, from which moisture drips back into the pools. Surrounding the pools are a total of nineteen relaxation beds designed for heqeti: these are made of stone and are pea-pod shaped, allowing a heqeti to curl up while still dipping his/her toes into the pool.
-
-At the west end of the chamber is a statue of two crouching heqeti facing each other while touching tongues (a mating ritual). The statues are stone, 5’ tall, and remarkably detailed; the ensemble could be sold as a terrifying curiosity for 6.000 gp.
-
-At any given moment, ten heqeti pilgrims are present here, relaxing in the quiet and near-darkness.
+* The sound of dripping water is audible from the entrance.
+* This low-ceilinged hall (8’) is dimly lit by the green phosphorescence of the glowing friend (flora).
+	* Four 5'-deep pools line the floor, with several specimens of the glowing friend rising from each, from which moisture drips back into the pools.
+	* Surrounding the pools are 19 relaxation beds for heqeti (stone, pea-pod shaped, allowing a heqeti to curl up while still dipping their toes into the pool).
+* At the west end of the chamber is a 5'-tall,  remarkably detailed statue of two crouching heqeti facing each other with  touching tongues (a mating ritual) (the ensemble could be sold as a terrifying curiosity for 6.000 gp).
+* At any given moment, 10 heqeti pilgrims are here, relaxing in the quiet and near-darkness.
 
 10 heqeti hopper pilgrims (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 30, 29, 28, 26, 24, 23, 22, 21, 20, 19; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
 ### 10-56: Pilgrims’ Cells
 
-Ten small and five larger cells are placed here for the comfort of pilgrims to the ziggurat of Kauket. All cells are spartan, with bead-curtains made of shells instead of doors. The smaller cells contain six stone sleeping niches set into the walls, while the larger contain six sleeping niches plus two chairs and a low table. 
-
-At any given moment there are 40-60 pilgrims visiting the entire area, but they are typically spread out among the various sites: ziggurat (10-32 to 10-37), pilgrims’ rest (10-20), and other common areas (10-51, 10-54, and 10-55). Only ten pilgrims are thus likely to be resting in the cells. These resting heqeti are randomly distributed throughout the cells. For each cell entered, the GM should assign a 1 in 4 chance that 1-3 pilgrims are present until, of course, the limit of ten pilgrims has been reached. If a cell is searched, the following table determines what is present:
+* Ten small and five larger cells are placed here for pilgrims to the ziggurat of Kauket.
+	* All cells are spartan, with bead-curtains of shells instead of doors.
+	* The smaller cells contain six stone sleeping niches set in the walls
+	* The larger contain six sleeping niches plus two chairs and a low table. 
+	* If a cell is searched, roll d20 to see what it contains.
+* At any given moment there are 40-60 pilgrims visiting the entire area, typically spread out among the various sites: ziggurat (10-32 to 10-37), pilgrims’ rest (10-20), and common areas (10-51, 10-54, and 10-55).
+	* Only 10 pilgrims are likely to be resting in random cells (1-in-4 chance of 1d3 pilgrims per cell entered).
 
 D20 Item(s)
 
-1-5
-
-Nothing
-
-6-8
-
-A purse made of two shells sewn together, containing 100 sp worth of powdered silver 
-and a 25% chance for a gem worth 10-50 gp9-10 A stone statuette of a gravid heqeti with open, toothed maw (25 gp)
-
-11-12 A silver brooch in the shape of a teardrop (50 sp)
-13-14 A ring made of jade, coral and shark’s teeth (65 gp)
-15-16 Three vials of Kauket’s vision (see Arden Vul items)
-17-19 A leather purse containing 1-10 gems worth 10-100 gp each
-20 A potion, to be determined randomly
+* 1-5 Nothing
+* 6-8 A purse made of two shells sewn together, containing 100 sp worth of powdered silver and a 25% chance for a gem worth 10-50 gp9-10 A stone statuette of a gravid heqeti with open, toothed maw (25 gp)
+* 11-12 A silver brooch in the shape of a teardrop (50 sp)
+* 13-14 A ring made of jade, coral and shark’s teeth (65 gp)
+* 15-16 Three vials of Kauket’s vision (see Arden Vul items)
+* 17-19 A leather purse containing 1-10 gems worth 10-100 gp each
+* 20 A potion, to be determined randomly
 
 10 heqeti hopper pilgrims (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 30, 29, 28, 26, 24, 23, 22, 21, 20, 19; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
@@ -999,13 +1029,15 @@ The copper salamander statue (250 gp), containing small valuables worth 3,790 gp
 
 ### 10-58: Heqeti Guardroom
 
-A squad of eight heqeti hoppers waits here, ready to defend the ziggurat area from intruders. The pebbled walls, ceiling and floor are painted an unsettling mauve, with yellow images of wriggling tadpoles painted randomly throughout. The hoppers possess a rack of spears, an upturned mushroom cap filled with water, and a basket with three heqeti spore bombs (see Arden Vul items). 
+* The pebbled walls, ceiling and floor are painted an unsettling mauve, with yellow images of wriggling tadpoles painted randomly throughout.
+* A squad of eight heqeti hoppers waits here, ready to defend the ziggurat area from intruders.
+	* They have a rack of spears, an upturned mushroom cap filled with water, and a basket with three heqeti spore bombs (av items). 
 
 8 heqeti hoppers (see new monsters), as 5th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 36, 34, 33, 32, 31, 30, 28, 28; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
 ### 10-59: Second Heqeti Guardroom
 
-Aside from the paint scheme, this chamber is identical (including inhabitants) to area 10-58. Here the walls are painted midnight black, punctuated with white teardrops.
+* Aside from the paint (midnight black, punctuated with white teardrops), this chamber is identical (including inhabitants) to 10-58.
 
 ### 10-60: Entry Cave
 
@@ -1020,10 +1052,15 @@ hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis 
 
 ### 10-61: Salamander Pens
 
-Facilities for penning Underearth pack animals are located here. A dozen iron chains and collars are attached to the wall, and a stone drinking trough runs down the middle of the cave. Currently, seven riding salamanders (see new monsters) are chained to the wall. Nearby are some tack and saddle-bags. Two stone bins at the far northeastern corner of the cave hold food for the beasts: one has rotting meat filled with maggots and worms, while the other holds dried insects. The saddle-bags are empty, as the traders have taken their goods to area 10-54.
+* Facilities for penning Underearth pack animals are located here. 
+	* Stone drinking trough runs down the middle of the cave. 
+	* A dozen iron chains and collars are attached to the wall, with 7 riding salamanders (new) chained up.
+		* Nearby are tack and saddle-bags (empty, their trade goods taken to 10-54).
+	* Two stone bins at the far northeastern corner of the cave hold food for the beasts (one has rotting meat filled with maggots and worms, the other holds dried insects). 
 
 7 riding salamanders (see new monsters): SZ L; AL N; AC 6; MV 60’, 90’ swimming; HD 6; HP 43, 41, 41, 39, 37, 36, 35; #AT 1; Dmg 2-12.
 
 ### 10-62: Tunnel to the Underearth
 
-This tunnel leads into the Underearth (unmapped). As a secondary tunnel, it extends about 3 miles until it joins a major passage. From there one can journey in multiple directions to various areas of the Underearth, including a heqeti residential colony; the infamous Silent Sea; a shrine devoted to Rimmaq-Isfet; the mysterious city of Lissak-Tol, home to the eleven consortia of the kaliyani (see SL9-79); and the dwellings of the other Underearth denizens.
+* This tunnel leads into the Underearth (unmapped), a secondary tunnel extending 3 miles to joins a major passage.
+	* From there one can journey in multiple directions to various areas of the Underearth, including a heqeti residential colony; the infamous Silent Sea; a shrine devoted to Rimmaq-Isfet; the mysterious city of Lissak-Tol, home to the eleven consortia of the kaliyani (see SL9-79); and the dwellings of the other Underearth denizens.
