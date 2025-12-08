@@ -502,6 +502,7 @@ Setite Party (9th - 11th level-ish) - The Darkened Sun
 Notes
 * Servant devils/demons/set animals
 * The Darkened Sun are present in town as a new adventurer group "Fool's Luck"; apparently led by Dioscorus and Trygil.  first "arrived" a few weeks ago
+	* They are living under Undetectable Alignment (24 hours, 2nd wiz, rev of Know Alignment) and Nondetection (3rd, 1 hr/level, wizard saves to block scrying)
 * iron crown is currently in Setite hands (Stephania's vault), held for Iskander's good behavior, to be granted when he's proven sufficiently loyal
 * 
 * next goal is to go after the Savage Heart core members; Astrid and Aelia are first in line, being the most well known
