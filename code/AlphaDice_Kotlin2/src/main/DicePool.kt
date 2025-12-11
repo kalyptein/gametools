@@ -69,14 +69,14 @@ class DicePool(val name: String = "pool") {
      */
     fun count(predicate: (Int) -> Boolean): Int {
         val y = dice.sumOf {
-            val x = if (it.test(predicate)) 1 else 0
+            val x = if (predicate(it.get())) 1 else 0
             x
         }
         return y
     }
 
     fun filter(predicate: (Int) -> Boolean, isDeep: Boolean = true): DicePool {
-        return DicePool(name, dice.filter { it.test(predicate) }, isDeep)
+        return DicePool(name, dice.filter { predicate(it.get()) }, isDeep)
     }
 
     /**

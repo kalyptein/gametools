@@ -35,13 +35,6 @@ class Die(name: String, vararg face: Int) {
         index = Study.random.nextInt(0, faces.size)
     }
 
-    /**
-     *  Apply an arbitrary test to the die and return if it matches or not.
-     */
-    fun test(predicate: (Int) -> Boolean): Boolean {
-        return predicate(get())
-    }
-
     override fun toString(): String {
         return "$name: ${get()} (i=$index)"
     }
