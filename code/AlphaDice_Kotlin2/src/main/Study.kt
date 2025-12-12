@@ -52,14 +52,18 @@ abstract class Study(var name: String = "Study", vararg resultGroups: String) {
         }
     }
 
+    open fun sortOutcomes(list: List<Outcome>): List<Outcome> { return list }
+
     /** Display study results */
     open fun report() {
 
         println("\n$name\n")
 
         result.entries.forEach { result ->
-            val list = result.value.outcomes.values.toList()
+            val list = sortOutcomes(result.value.outcomes.values.toList())
             val totalCount = result.value.totalCount()
+            
+//            val avg = list.sumOf { it.count.toDouble() / totalCount.toDouble() } / list.size
 
             println("result: ${result.key}")
             println("iterations: ${totalCount}\n")

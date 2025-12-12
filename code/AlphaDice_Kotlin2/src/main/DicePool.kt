@@ -1,5 +1,7 @@
 package main
 
+import java.util.SortedMap
+
 class DicePool(val name: String = "pool") {
     val dice = ArrayList<Die>()
 
@@ -51,10 +53,13 @@ class DicePool(val name: String = "pool") {
     /**
      * Returns a map of DicePools of Dice with matching values (key = pool's value, value = pool).
      */
-    fun getSets(sizeFirst: Boolean = true): MutableMap<Int,DicePool> {
+    fun getSets(sizeFirst: Boolean = true): SortedMap<Int, DicePool> {
 
         val sets = mutableMapOf<Int,DicePool>().withDefault { _ -> DicePool() }
-        dice.forEach { sets[it.get()]?.dice?.add(it) }
+        dice.forEach {
+            sets[it.get()] = DicePool("pool: ${it.get()}")
+            sets[it.get()]?.dice?.add(it)
+        }
 
         return if (sizeFirst) {
             sets.toSortedMap(compareByDescending<Int?> { sets[it]!!.size() }.thenByDescending { it })       // sort by set size, then number
@@ -86,6 +91,10 @@ class DicePool(val name: String = "pool") {
         val newpool = DicePool(name, dice, isDeep)
         newpool.dice.sortWith(comparator)
         return newpool
+    }
+
+    fun subpool(from: Int, to: Int = dice.size, isDeep: Boolean = true): DicePool {
+        return DicePool("${name}[${from},${to})", dice.subList(from, to), isDeep)
     }
 
     override fun toString(): String {

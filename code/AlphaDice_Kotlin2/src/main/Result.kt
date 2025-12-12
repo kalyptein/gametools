@@ -20,6 +20,10 @@ class Result() {
         outcomes[oc.name]?.increment(1)
     }
 
+    fun calcPercentage(outcome: Outcome, totalCount: Int = totalCount()): Double {
+        return outcome.count.toDouble() / totalCount.toDouble()
+    }
+
     fun calcPercentage(predicate: (Outcome) -> Boolean, totalCount: Int = totalCount()): Double {
         return count(predicate).toDouble() / totalCount.toDouble()
     }
@@ -32,8 +36,8 @@ class Result() {
         return outcomes.values.sumOf { it.count }
     }
 
-    fun sort(comparator: Comparator<String>) {
-        this.outcomes.toSortedMap(comparator)
+    fun sort(comparator: Comparator<String>): SortedMap<String, Outcome> {
+        return this.outcomes.toSortedMap(comparator)
     }
 
     fun filter(predicate: (Outcome) -> Boolean): Result {
