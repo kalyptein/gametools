@@ -35,9 +35,7 @@ know exactly what the missing horn looks like.
 
 The best information on the nature and location of the pale green horn is actually held by the two rudishva AIs, RAJ-750 (6-27) and AKL-600 (SL14-13); only the AIs can provide the proper command code to access the teleporter that leads to the secret vault. Should the PCs locate the horn and learn of its proper use, they will be able to insert it in the proper place in 10-37. Doing so instantly summons Kauket, however!
 
-GMs must carefully consider whether combat with such a powerful foe is desirable and/or necessary for their campaigns. For certain campaigns, a battle with a demon prince might be an appropriate conclusion. For others, however, such a foolish and almost certainly lethal confrontation might not be appropriate. If such a confrontation is desired, the GM should seed information about the existence of the pale green horn so as to allow the PCs to bring Kauket to this plane. For such foolhardy PCs, Kauket is fully statted in the new monsters appendix. Of course, the demon prince will bring appropriate servitors with him to the Prime 
-
-Material Plane, including multiple keqemandri and other lesser demons. Forewarned is forearmed! If a GM deems combat with a demon prince to be inappropriate for his/her campaign, however, it is easy enough to occlude the existence of the horn; in such cases, 
+GMs must carefully consider whether combat with such a powerful foe is desirable and/or necessary for their campaigns. For certain campaigns, a battle with a demon prince might be an appropriate conclusion. For others, however, such a foolish and almost certainly lethal confrontation might not be appropriate. If such a confrontation is desired, the GM should seed information about the existence of the pale green horn so as to allow the PCs to bring Kauket to this plane. For such foolhardy PCs, Kauket is fully statted in the new monsters appendix. Of course, the demon prince will bring appropriate servitors with him to the Prime Material Plane, including multiple keqemandri and other lesser demons. Forewarned is forearmed! If a GM deems combat with a demon prince to be inappropriate for his/her campaign, however, it is easy enough to occlude the existence of the horn; in such cases, 
 combat with the Great Tongue and the cleansing of the ziggurat will easily serve as a satisfying culmination to the campaign.
 
 Weakening the Heqeti
@@ -73,46 +71,58 @@ Access and Egress
 
 ### 10-1: Heqeti Road Up to 9-82
 
-Serving as the primary connection between the ziggurat of Kauket (10-32 to 10-37) and the rest of Arden Vul, this broad corridor is eerily lit by fungal pods that hang every 20’ or so. The pods emit a green luminescence that reflects gently off the oiled, pebbled stonework of the road. The corridor is 20’ tall and very long, extending about 300’ between 9-82 and 10-2. Every 60’ or so, it ascends up a flight of steps with a rise-to-tread ratio too large for human feet.
-
-About every 40’ the road is flanked by a pair of alcoves. The majority of the alcoves contain shapeless, damaged lumps of stone that once might have been statues. The last four niches before the road reaches area 10-1, however, have new, recognizable statues formed of granite brought from the Underearth. They depict four contemporary leaders who are leading the heqeti resurgence in Arden Vul: Caudatssa the Tongue (7-79), Reepsiq the Great Tongue (10-47), Pikaressa the Second Tongue (10-49), and Qassapik the Weaver (10-48). All four appear in classically aggressive heqeti poses, in slight crouches and wielding a staff or wand.
+* This broad corridor is eerily lit by fungal pods that hang every 20’.  It serves as the primary connection between the ziggurat of Kauket (10-32 to 10-37) and the rest of Arden Vul.
+	* The pods emit a green luminescence that reflects gently off the oiled, pebbled stonework of the road.
+	* The corridor is 20’ tall and very long, extending 300’ between 9-82 and 10-2, ascending a flight of steps every 60' (the risers too large for human comfort).
+	* Every 40’ the road is flanked by a pair of alcoves.
+		* Most alcoves contain shapeless, damaged lumps of stone, once statues. 
+		* The last four before 10-1 have new, recognizable granite statues of the contemporary leaders of the heqeti resurgence in Arden Vul, each in classically aggressive heqeti pose: slight crouches, wielding a staff or wand.
+			* Caudatssa the Tongue (7-79), Reepsiq the Great Tongue (10-47), Pikaressa the Second Tongue (10-49), and Qassapik the Weaver (10-48).
 
 ### 10-2: Hall of Mouths
 
-When approached from the west, an eerie green glow can be seen emerging from this 25’-tall chamber. The glow comes from the green luminescence emitted by scores of fungal pods that hang from pegs on the walls and from the ceiling (the pods are harvested from the swamp in 10-15). The walls are also covered with purple lichen and yellow shelf fungus. The hall is dominated by a large abstract sculpture rising from the center of a murky pool of greenish water. The sculpture (once a statue of Kauket, but damaged in antiquity and now unrecognizable) is festooned with dripping algae. Numerous warning salamanders (see new 
-monsters) writhe in the pool and among the algae. The presence of non-heqeti causes them to strobe and to dart in all directions, both into the pool but also towards 10-5, 10-10, and 10-14. 
+* Approaching from the west, an eerie green glow can be seen.
+* This 25’-tall chamber is filled with scores of luminous green fungal pods hanging from pegs on the walls and ceiling (harvested from the swamp in 10-15).
+	* The walls are also covered with purple lichen and yellow shelf fungus.
+	* A large abstract sculpture rises from the center of a murky pool of greenish water, festooned with dripping algae, dominating the chamber.
+		* Once a statue of Kauket, but damaged in antiquity and now unrecognizable).
+		* Numerous warning salamanders (new) writhe in the pool and among the algae.
+			* The presence of non-heqeti causes them to strobe and to dart in all directions, both into the pool and towards 10-5, 10-10, and 10-14. 
+	* All but one exit is are carved to into enormous, toothed salamander mouths.
+		* The carvings are incredibly ancient and badly damaged; the lower teeth were smashed in antiquity.
+		* Rippling, green-and-black shell strings block sight into each mouth (rare shells, 900 gp total).
+		* A patch of heqeti sign mold (flora) occupies the wall to the right side of each of mouth (inobvious, as concealed door).
+			* When approached within 5’ the mold adjusts to reveal an image and a phrase (Heqeti Runic).
 
-All but one of the exits from the hall are carved to resemble enormous, toothed salamander mouths. The carvings are incredibly ancient, and badly damaged; indeed, the lower teeth in 
-all of the portals were smashed in antiquity. Still, they present a foreboding aspect, one that is compounded by the rippling, green-and-black shell strings that block sight into each mouth.
-
-A patch of heqeti sign mold (see new flora) is found on the wall to the right side of each of mouth. When approached within 5’ the mold adjusts itself to reveal an image and a phrase in Heqeti Runic. Amid the other fungi and luminescent pods, it might be possible for hasty explorers to miss the sign mold: the mold should thus be treated as a concealed doors.
+On Alert
+* If the heqeti have been warned of approaching hostile forces (see 9-79), the forces from 10-3 and 10-4 have an ambush waiting here.
+	* They have summoned aid from 10-6 and released the neo-otyugh from 10-5.  These reinforcements wait just inside the tunnel to 10-5, ready to surprise intruders once they engage with the initial heqeti forces. 
 
 Destination Image Phrase
-To 10-4 Spear Faithful // Watchers
-To 10-10 Eft Water // Life
-To 10-14 Ziggurat Tongue// sacrifice // Kauket 
-To 10-5 Flask Weavers // Rimmaq-Isfet
-To 10-3 Spear Faithful // Watchers
+* To 10-4     Spear         Faithful // Watchers
+* To 10-10   Eft              Water // Life
+* To 10-14   Ziggurat    Tongue// sacrifice // Kauket 
+* To 10-5     Flask          Weavers // Rimmaq-Isfet
+* To 10-3     Spear         Faithful // Watchers
 
-If the heqeti have been warned of approaching hostile forces (see 9-79), then the forces from areas 10-3 and 10-4 will have an ambush waiting in this chamber. They will also have summoned aid from area 10-6 and will have released the neo-otyugh from 10-5. These reinforcements wait just inside the tunnel to 10-5 hoping to surprise intruders once they engage with the initial heqeti forces. 
-
-8 warning salamanders (see new monsters): SZ S; AC 8; MV 90’, 150’ swimming; HD 2; HP 14, 13, 12, 12, 11, 10, 9, 8; #AT 0; Dmg 0. Special attacks: strobe light. Special defenses: surprised only on 1.
-
-Treasure:
-The shells that form the curtains hanging in the mouths are rare, and could bring 900 gp total.
+8 warning salamanders (new): SZ S; AC 8; MV 90’, 150’ swimming; HD 2; HP 14, 13, 12, 12, 11, 10, 9, 8; #AT 0; Dmg 0. Special attacks: strobe light. Special defenses: surprised only on 1.
 
 ### 10-3: Heqeti Watchers
 
-One of two teams of heqeti guardians keeps watch on the approaches to the ziggurat from this chamber. The walls are painted a sickly mauve and are covered with more of the yellow 
-shelf fungus; the floor is painted black, although it is punctuated with a dozen, large, white teardrops. The team consists of six heqeti chosen led by a heqeti weaver (see new monsters). They possess the bloated, stinking corpses of a baindara and a varumani, which they use for target practice with their spears.
-
-The heqeti react immediately to the presence of intruders in area 10-2. Should they be forewarned of the arrival of hostile forces, one of the chosen will have been sent to 10-14 to warn the Great Tongue; the remainder will prepare an ambush (in conjunction with their fellows in 10-4).
+* One of two teams of heqeti guardians keeps watch on the approaches to the ziggurat from this chamber.
+	* The walls are painted a sickly mauve and covered with more of the yellow shelf fungus.  The floor is painted black, punctuated with a dozen, large, white teardrops.
+* The 6 heqeti chosen are led by a heqeti weaver (new).
+	* They possess the bloated, stinking corpses of a baindara and a varumani, which they use for target practice with their spears.
+	* The heqeti react immediately to intruders in 10-2. 
+	* If forewarned of hostile forces, one of the chosen has been sent to 10-14 to warn the Great Tongue; the rest prepare an ambush (along with their fellows in 10-4).
 
 6 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 44, 41, 40, 39, 37, 35; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice.
 
 1 heqeti weaver (see new monsters), as a 7th/7th-level magic user/cleric of Rimmaq-Isfet: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 7; HP 34; #AT 1; Dmg 5-10 (footman’s mace 
-+2). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); staff of healing (18 charges); copper-headed footman’s mace +2; two glass spheres of arcane assistance (one of arcane warding, one of protection) (see new magic items); potion of gaseous form. Magic user spells: enlarge, jump, magic missile, shield; continual light, levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other. Cleric spells: bless, command (x2), create water, cure light wounds; chant, hold person (x2), resist 
-fire, silence 15’ radius; animate dead, blindness; sticks to snakes. Spell book: dancing lights, detect magic, enlarge, jump, magic missile, protection from good, read magic, shield, sleep; darkness 15’ radius, invisibility, knock, mirror image, ray of enfeeblement, strength; blink, dispel magic, gust of wind, lightning bolt, slow.
++2). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
+* Possessions: amulet of natural armor +2 (see new magic items); staff of healing (18 charges); copper-headed footman’s mace +2; two glass spheres of arcane assistance (one of arcane warding, one of protection) (see new magic items); potion of gaseous form. 
+* Magic user spells: enlarge, jump, magic missile, shield; continual light, levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other. 
+* Cleric spells: bless, command (x2), create water, cure light wounds; chant, hold person (x2), resist fire, silence 15’ radius; animate dead, blindness; sticks to snakes. Spell book: dancing lights, detect magic, enlarge, jump, magic missile, protection from good, read magic, shield, sleep; darkness 15’ radius, invisibility, knock, mirror image, ray of enfeeblement, strength; blink, dispel magic, gust of wind, lightning bolt, slow.
 
 ### 10-4: More Heqeti Watchers
 
@@ -125,25 +135,32 @@ fire, silence 15’ radius; animate dead, blindness; sticks to snakes. Spell boo
 
 ### 10-5: Ancient Hole
 
-The corridor is badly damaged here, with a mini cave-in on the northeast side and numerous ancient blast marks along the walls. More significant is the crater that blocks access down the corridor; it is 25’ deep but only 20’ wide. A rickety bridge of reeds, vines, and fungal fibers spans the hole, anchored to the walls on either side of the hole. On either side of the bridge is an upturned giant mushroom cap containing a pile of rotting viscera from unknown creatures. On the south side of the hole is a pile of ropes woven from the same mix of vines and reeds; the heqeti use it to pull the neo-otyugh from the hole if necessary.
-
-The hole is inhabited by a large neo-otyugh. The heqeti feed it scraps from sacrifices and other victims. Given sufficient warning, the heqeti in 10-3 and 10-4 use the ropes to haul the neo-otyugh out of the hole to aid them in repelling intruders. The bottom of the hole is covered with several feet of biological rubbish, including skins, bones, bits of leather equipment, and so forth. Amid the debris are four heqeti stone spear-heads, three barbed 
-heqeti arrows coated in Kauket’s vision (see Arden Vul items), and a bardiche +1, +4 vs heqeti.
+* The corridor is badly damaged here, with a mini cave-in on the northeast side and numerous ancient blast marks along the walls.
+	* A crater blocks access down the corridor; 25’ deep but only 20’ wide, spanned by a rickety bridge of reeds, vines, and fungal fibers, anchored to the walls on either side. 
+		* The hole is inhabited by a large neo-otyugh.  The heqeti feed it scraps from sacrifices and other victims.
+		* The bottom is covered with several feet of biological rubbish (skins, bones, bits of leather, etc). Amid the debris are 4 heqeti stone spear-heads, 3 barbed heqeti arrows coated in Kauket’s vision (av items), and a bardiche +1, +4 vs heqeti.
+	* On either end of the bridge is an upturned giant mushroom cap containing a pile of rotting viscera from unknown creatures.
+	* On the south side of the hole is a pile of vine-ropes the heqeti use it to pull the neo-otyugh from the hole if necessary.
+* Given sufficient warning, the heqeti in 10-3 and 10-4 use the ropes to haul the neo-otyugh out of the hole to aid in repelling intruders. 
 
 1 neo-otyugh: SZ L; AL N; AC 0; MV 60’; HD 11; HP 71; #AT 3; Dmg 2-12/2-12/1-3. Special attacks: disease. Special defenses: never surprised.
 
 ### 10-6: Crossroads Encampment
 
-A contingent of heqeti hoppers under the command of a lesser builder are stationed in this badly damaged crossroads. The northern side of the intersection is badly damaged, with the 
-pebbled, oily stonework giving way to rough natural granite. The heqeti are working here to try to uncover some of the lost areas to the west and south, and have recently broken through to area 10-8. 
-
-The encampment includes three baskets woven of vines, a portable bathing pool composed of a 10’x4’ carapace of some underground creature, and numerous digging tools (mattocks, 
-sledges, shovels). The baskets hold dried fish, dried mushrooms, and dried sausage.
+* A contingent of heqeti hoppers under the command of a lesser builder are stationed in this badly damaged crossroads.
+	* The northern side of the intersection is badly damaged, with the pebbled, oily stonework giving way to rough natural granite.
+	* The heqeti are working here to try to uncover some lost areas to the west and south, and have recently broken through to 10-8. 
+* The encampment includes:
+	* 3 baskets woven of vines (holding dried fish, dried mushrooms, and dried sausage)
+	* A portable bathing pool composed of a 10’x4’ carapace of some underground creature
+	* Numerous digging tools (mattocks, sledges, shovels).
 
 10 heqeti hoppers (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 31, 30, 28, 26, 25, 24, 23, 22, 21, 20; #AT 2; Dmg 2-7 (spear), 1-6 
 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. 
 
-1 heqeti builder (see new monsters), 6th/6th-level fighter/cleric of Rimmaq-Isfet: SZ M; AL CE; AC 1; MV 90’, 120’ swimming; HD 6; HP 46; #AT 1; Dmg 4-9 (short sword +2 of wounding). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: heqeti mail armor (-2 to AC); short sword +2 of wounding, amulet of natural armor +2 (see new magic items). Spells: bless, command, cure light wounds, light, fear; chant, hold person (x2), silence 15’ radius, speak with animals; dispel magic, curse.
+1 heqeti builder (see new monsters), 6th/6th-level fighter/cleric of Rimmaq-Isfet: SZ M; AL CE; AC 1; MV 90’, 120’ swimming; HD 6; HP 46; #AT 1; Dmg 4-9 (short sword +2 of wounding). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
+* Possessions: heqeti mail armor (-2 to AC); short sword +2 of wounding, amulet of natural armor +2 (see new magic items).
+* Spells: bless, command, cure light wounds, light, fear; chant, hold person (x2), silence 15’ radius, speak with animals; dispel magic, curse.
 
 ### 10-7: Broken Lesser Obsidian Gates
 
@@ -154,43 +171,55 @@ sledges, shovels). The baskets hold dried fish, dried mushrooms, and dried sausa
 
 ### 10-8: Heqeti Shrine 
 
-This chamber superficially resembles area 9-121. The ceiling is 25’ tall and is supported by a row of 4’-diameter pillars that flank the north and south walls. Originally the pillars marched down the corridor towards 10-6, but only one of these remains. Notable features include three grotesque stone faces carved into three of the pillars, an enormous sculpture in the center, and an unsettling carved block of arcanum at the west end. 
+* This chamber superficially resembles area 9-121.
+* The ceiling is 25’ tall, supported by a row of 4’-thick pillars along north and south walls.
+	* Originally the pillars led down the corridor towards 10-6, but only one remains.
+	* Grotesque stone faces are carved into 3 of the pillars at the east edge of the room.
+		* The faces are like those at 6-92 and 9-121, each roughly humanoid, but with amphibian-oid features (bulbous eyes, slit noses and lolling tongues) and open mouth, revealing a 2’ oval compartment.
+			* If a flask of the sweat of Rimmaq-Isfet (new) is placed in any mouth, its tongue licks the nearest person (within 5’); they become immune to acid from any of the servitors of Kauket (keqemandri, etc) for 1d4+6 turns, and are afflicted with a random effect (roll below).
+	* An enormous, soapstone sculpture of Rimmaq-Isfet dominates the center.
+		* It is easily 40’ long, 10’ tall and 10’ wide, and depicts the dread lord as an enormous, slug-like amphibian, its thick body resting on eight salamander-like legs, while the open maw points towards the altar at the west.  The entire statue is painted black, with yellow spots.
+			* Originally, a forest of delicate feelers extended out of the toothed maw, and a ridge of 5’ tentacles extended in a circle around the mouth.  All were broken off in antiquity, and lie in pieces on the floor. 
+			* Sharp teeth still line the mouth, and 3 huge lidless eyes (once holding gems, long-since stolen) span its brow.
+		* It oozes an clear, oily liquid (sweat of Rimmaq-Isfet (new)) that drips to the floor and pools in a subtle depression (10’ in diameter) south of the sculpture.
+			* 7 flasks-full exist in the depression; the sculpture produces 1 flask / day. 
+	* The west wall features a low dais (3’ tall), supporting a squat, foreboding block of orange arcanum, roughly 8’ square, carved as an open, upturned mouth (meant to depict the open maw of Rimmaq-Isfet).
+		* The mouth is about 5’ in diameter, rising 3’ from the floor. The rest of the block is quite detailed, with feelers, teeth, and two pronounced, 6’-long orbital ridges along either side of the mouth.   It rests on four 3' granite cylinders carved like the head of an enemy in agony (human, varumani, rudishva, varuda).
+			* Each ridge used to have 3 empty eye-sockets, sized for tears of Kauket (new). One ridge was vandalized in antiquity, and its 3 sockets are ruined and misshapen.
+			* Slots carved into the east face can be used to climb to its top.
+		* Four 7’ iron rods are thrust into the top of the arcanum block, and a pitiful true varumani named Bedara is suspended between them. 
+			* Beaten, tortured, and gagged, she has 6 copper ritual daggers buried in her flesh; preventing full regeneration, and causing her blood to drip into the arcanum maw.  Badly injured, once regenerated, she will eagerly accompany and assist her saviors.
 
-Stone Pillar Faces: The three pillars at the east edge of the room are carved as grotesque stone faces (like those at areas 6-92 and 9-121). Each head is roughly humanoid, but contains some unusual amphibian-oid features, including bulbous eyes, slit noses and 
-lolling tongues. The mouth of each head/face is open, revealing a 2’ oval compartment. If a flask-full of the sweat of Rimmaq-Isfet (see new magic items) is placed in any of the mouths, the tongue of that head will lick the nearest person (within 5’). Two effects are imparted: 1) the subject will be immune to acid effects from any of the servitors of Kauket (such as keqemandri – see new monsters) for 5-10 turns, and 2) the subject will be afflicted with an effect from the following table:
+Teleportal
+* The mouth functioned as an outgoing teleportal to other heqeti sites within Arden Vul.
+	* Climbing the arcanum block, one places a tear of Kauket (new) into the appropriate eye socket (it is consumed), and then jumps into the open mouth, appeadring 10 seconds later at the destination. 
+	* Only 3 eye sockets are still operative.
+		* Right eye: 6-104
+		* Center eye: 7-84
+		* Left eye: destination destroyed in antiquity (formerly abutted SL5-32), using it causes instant death as the user is teleported into solid rock.
+			* The heqeti have filled the left eye socket with mud to prevent further ‘disappearances’.
 
 D10 Effect
-1 Sweat uncontrollably for 7 days, -3 CHA, -1 to hit rolls
-2 Temporary gills, allowing subject to breathe underwater, for 7 days
-3 Eyes grow disproportionately large, -1 CHA but true seeing, for 3 days
-4 Legs grow in power, arms atrophy: MV increased by 30’, STR -1, for 3 days
-5 Webbing between fingers and toes, better swimming but -1 CHA
-6 Comprehend amphibian tongues, for 7 days
-7 Cursed (if good), blessed for 3 days if CE, nothing for other alignments
-8 Sensitive to light for 7 days (-2 to all rolls), but gains infravision
-9 Locate body of fresh water; knows route to pool-sized bodies of water (or larger) within 200’
-10 Mark of Kauket: all 9 of the above, the effects of 1-3 of which are permanent
+* 1 Sweat uncontrollably for 7 days, -3 CHA, -1 to hit rolls
+* 2 Temporary gills, allowing subject to breathe underwater, for 7 days
+* 3 Eyes grow disproportionately large, -1 CHA but true seeing, for 3 days
+* 4 Legs grow in power, arms atrophy: MV increased by 30’, STR -1, for 3 days
+* 5 Webbing between fingers and toes, better swimming but -1 CHA
+* 6 Comprehend amphibian tongues, for 7 days
+* 7 Cursed (if good), blessed for 3 days if CE, nothing for other alignments
+* 8 Sensitive to light for 7 days (-2 to all rolls), but gains infravision
+* 9 Locate body of fresh water; knows path to at-least-pool-sized bodies of water w/in 200’
+* 10 Mark of Kauket: all 9 of the above, the effects of 1-3 of which are permanent
 
-Remove curse will remove any of the temporary effects, but the Mark of Kauket can only be removed through the special favor of a good-aligned deity (probably at the cost of a significant quest).
+Remove curse will remove any temporary effect, but the Mark of Kauket can only be removed through the special favor of a deity (probably at the cost of a significant quest).
 
-Sculpture of Rimmaq-Isfet: Dominating the center of the chamber is a giant soapstone representation of Rimmaq-Isfet. It is easily 40’ long, 10’ tall and 10’ wide, and depicts the dread lord as an enormous, slug-like amphibian. The thick body rests on eight salamander-like legs, while the open maw points towards the altar at the west. A forest of delicate feelers originally extended out of the toothed maw, and a ridge of 5’ tentacles extended in a circle 
-around the mouth; these were all broken off in antiquity, and lie in pieces on the floor. Sharp teeth still line the mouth, however, and three huge lidless eyes span its brow. The eyes once held gems, but they were stolen in antiquity. The entire statue is painted black, with yellow spots.
+GM Note
+* The heqeti only recently dug their way back to this shrine. Reepsiq (10-47) and the other heqeti leaders were delighted to find the chamber, hoping to use its teleportation to return to the upper levels.
+	* Only 2 of the original 6 teleportals still functioned (3 were destroyed in antiquity, 1 sends explorers to their doom).  Thus the minimal presence of heqeti outside levels 9 and 10.
+	* The heqeti may repair more, reactivating teleportals to 5-41, SL6-6, and 8-162, and swiftly move to establish fortified advance positions in each of those areas.
 
-The other feature of the sculpture is that it oozes an oily clear liquid that drips to the floor and pools in a subtle depression (10’ in diameter) to the south of the sculpture. This sweat is none other than the sweat of Rimmaq-Isfet (see new magic items). Currently seven flasks-full of the sweat exist in the depression; the sculpture oozes enough to produce one flask per day. 
-
-Arcanum Teleport Mouth: The west wall features a low dais (3’ tall), upon which is a squat, foreboding block of orange arcanum (see new magic items) roughly 8’ square. The arcanum is carved as an open, upturned mouth and is meant to depict the open maw of Rimmaq-Isfet. The opening of the mouth is about 5’ in diameter and extends 3’ down from the top of the mouth. The rest of the block is quite detailed, with feelers, teeth, and two pronounced, 6’-
-long orbital ridges along either side of the mouth. Each ridge used to have three empty sockets where eyes might have been; they are perfectly sized for tears of Kauket (see new magic items). One of the ridges was vandalized in antiquity, however, and its three eye sockets are ruined and misshapen. The entire mouth rests on four 3’-diameter cylinders of granite, each of which is carved to depict the head of an enemy of the heqeti in agony: these are a human, a varumani, a rudishva, and a varuda. Finally, a set of slots are carved into the east face of the block; these can be used to climb to its top.
-
-Four 7’ iron rods are thrust into the top of the arcanum block, and a pitiful true varumani named Bedara is suspended between the four rods. Beaten, tortured, and gagged, she has six copper ritual daggers buried in her flesh; these open wounds are preventing full regeneration, and cause her blood to drip into the arcanum maw. Although badly injured, she could be rescued and, after regenerating, will eagerly accompany and assist her saviors.
-
-The block of arcanum is, of course, highly magical, and detects easily as such. The mouth functioned as an outgoing teleportal to other heqeti sites within Arden Vul. It works by climbing the arcanum block, placing a tear of Kauket (see new magic items) into an appropriate eye socket, and then jumping into the open mouth. Ten seconds later the user appears in the desired location. 
-
-As one of the orbital ridges has been vandalized, only three of the eye sockets are still operative. Of these, the right eye sends the user to area 6-104 while the center eye sends the user to area 7-84. The destination for the left eye was destroyed in antiquity (it formerly abutted area SL5-32); attempting to use it causes instant death as the user is teleported into solid rock. The heqeti have filled the left eye socket with mud to prevent any further ‘disappearances’. The tears of Kauket (see new magic items) used to power the teleporter are consumed in the process.
-
-GM Note: The heqeti have only recently dug their way back to this shrine. Reepsiq (10-47) and the other heqeti leaders were delighted to find the chamber, as they hoped to use its teleport powers to return to the upper levels. Their plans were thwarted by the fact that only two of the original six teleportals still functioned (three were destroyed in antiquity and the fourth sends explorers to their doom). These limitations explain the minimal presence of heqeti outside levels 9 and 10. Should the GM wish it, he/she might decide that the heqeti will shortly repair more of the teleportals on the arcanum block; those other teleportals lead to areas 5-41, SL6-6, and 8-162. Once/if those other destinations are accessible, the heqeti will swiftly move to establish fortified advance positions in each of those areas.
-
-Bedara, a true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 11 (max 55); #AT 3 or 1; Dmg 3-6/3-6/4-10 or by weapon. Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Bedara is a senior and popular member of the varumani lodge of hunters 
-(see 7-14); she was ambushed and captured while scouting the aroksachaul (see new monsters) on Level 9. The other hunters (and especially Nolgi) will be eternally grateful to her rescuers.
+Bedara, a true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 11 (max 55); #AT 3 or 1; Dmg 3-6/3-6/4-10 or by weapon. Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
+* Bedara is a senior and popular member of the varumani lodge of hunters (see 7-14); she was ambushed and captured while scouting the aroksachaul (new monster) on Level 9. The other hunters (and especially Nolgi) will be eternally grateful to her rescuers.
 
 ### 10-9: Broken Corridor Fragment
 
@@ -199,22 +228,24 @@ Bedara, a true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; H
 
 ### 10-10: Heqeti Eft Ponds
 
-Despite the ruined nature of its western side, this 20’-tall hall is still in use by the heqeti. It is warmer and more humid than surrounding areas, and subtly lit by more of the green, luminescent pods that hang on the walls. Originally six oval ponds flanked a larger central pool, but the western three ponds were destroyed in antiquity. The three surviving ponds are shallow (3’ deep) and filled with murky, brownish, algae-clouded water taken from the mephitic marsh (area 10-15). The central pool, however, is deeper (7’) and filled with clear water that recirculates through six huge tusks that project from the pool’s rim. The heqeti use the area for mating (central pool) and the maturation of efts (side ponds). 
-
-Currently there are seventeen non-combatant efts in the side pods, while four heqeti chosen stand guard. The sound of combat here brings Feqarrip from area 10-11 to investigate.
+* Despite the ruined nature of its western side, this 20’-tall hall is still in use by the heqeti.
+	* It is warmer and more humid than surrounding areas, subtly lit by more green, luminescent pods on the walls. 
+	* Originally 6 oval ponds flanked a larger central pool, but the western 3 ponds were destroyed in antiquity.
+	* The 3 surviving ponds are 3’ deep and filled with murky, brownish, algae-clouded water taken from the mephitic marsh (10-15). 
+		* 17 heqeti efts swim in these maturation ponds.
+		* One pond contains a ring of acid resistance (new) hidden in the murk.
+	* The central pool is deeper (7’) and filled with clear water that recirculates through six huge tusks that project from the pool’s rim, used for heqeti mating.
+* 4 heqeti chosen stand guard.
+	* The sound of combat here brings Feqarrip from 10-11 to investigate.
 
 17 heqeti efts (non-combatants): SZ S; AC 8, HP 2.
 
 4 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 40, 37; #AT 2; Dmg 3-8 (spear +1), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Possessions: spear +1.
 
-Treasure:
-One of the eft ponds contains a ring of acid resistance (see new magic items) hidden in the murk.
-
 ### 10-11: Abattoir
 
 Although a dais and the stump of a statue are visible by the north wall, the heqeti have repurposed this area for food storage and preparation. A score of carcasses hang from hooks in the ceiling; they are in various state of draining and/or curing. Two are still 
 alive, moreover. A stone table rests against the southeastern wall; a half-dozen sharp copper blades rest on its blood-soaked surface.  Feqarrip, an heqeti weaver responsible for the care and feeding of the efts, lurks among the hanging corpses. She is quick to join combat in area 10-10.
-
 
 Feqarrip, a heqeti weaver (see new monsters), as a 7th/7th-level magic user/cleric of Kauket: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 7; HP 35; #AT 1; Dmg 5-9 (hammer +2). 
 Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); hammer +2; potion of gaseous form. Memorized spells: enlarge, jump, magic missile, shield; continual 
@@ -230,44 +261,40 @@ GM Note: Erenbald and two companions were exploring level 7 with Mox as a guide;
 
 ### 10-12: Magic Nexus
 
-A dangerous magical hot spot persists here, where the ancient corridors were destroyed in antiquity. Caused by the unwelcome confluence of Archontean destructive magic with the local heqeti demonic and divine magic, the hot spot inflicts a variety of unpleasant effects on those who come too close. The hot spot is difficult to note, appearing only as a shimmer in the (darkened) corridor. Magic users have a 1 in 6 chance to passively detect the danger, while thieves have a 1 in 8 chance. Searching carefully, of course, reveals the shimmer instantly. Those who blunder into the hot spot must roll on the following table to determine the effect:
+* A dangerous magical hot spot persists here, where the ancient corridors were destroyed in antiquity by a clash of Archontean and heqeti magics.
+	* Difficult to spot, appearing as a shimmer in the (darkened) corridor (mages passively spot it on a 1-in-6, thieves 1-in-8).  Active investigation spots it instantly.
+	* It inflicts a variety of unpleasant effects on those who pass through it.
+		* Dispel magic or remove curse by a 12th-level caster may remove them.
+	* GM Note: the heqeti are reticent to re-delve these collapsed areas due to these effects.
 
-D10 Effect
+D8 Effect
+
 1
-
 Electrostatic Charge: victim takes 2-16 HP electric damage, hair turns bone white and stands straight up. 
 
 2
-
 Magnetism: victim’s skin is magnetized, causing all iron-based objects within 2’ to adhere to his/her skin. It takes a successful open doors check to pull the item(s) free. Combat with iron/steel weapons is impossible
 
 3
-
 Narcolepsy: tension and conflict produce in the victim an impulse to sleep. At the start 
 of any stressful endeavor, the victim must save vs spells or fall asleep for 1-4 rounds. 
 
 4
-
 Magic Magnet: victim is attuned to magic, such that magic user spells cast at others are likely to target him/her instead. For every spell cast at a person or object within 30’ of the victim, the victim must save vs spells or take the effects on him/herself. Note: this might aid 
 a party, but might also hinder it.
 
 5
-
 Light Master: the victim possesses infravision and ultravision to 60’. Unfortunately, he/she also emits a bright purple glow, rendering him/her visible at 150’.
 
 6
-
 Phase Distortion: victim continuously comes in and out of phase. This acts as a blur spell on him/her in combat, but also causes permanent balance and dexterity issues; for non-combat purposes, the victim’s DEX is reduced by 3, as the victim has trouble knowing where to put his/her feet.
 
 7
-
 Echo Effect: victim’s hearing is badly damaged. Listen rolls are reduced by 3-12%. This may render some races effectively deaf.
 
 8
-
 Monster Magnet: victim doubles chances for wandering monsters.
 
-GM Note: the persistence of these weird effects explains the heqeti reticence to re-delve these collapsed areas. As these are not exactly curses, they cannot dispelled by remove curse. The GM might decree that dispel magic cast by a 12th- or higher-level caster might remove the effect.
 
 ### 10-13: Quarters of Cheksib the Weaver
 
@@ -406,21 +433,19 @@ The copper statues are worth 300 gp each. They contain a total of 37 gems worth 
 
 ### 10-25: Giant Salamander Head
 
-A giant, carved, stone salamander head rises ominously from the Mephitic Marsh at this point. It resembles both the Great Pukel (9-40) and the colossal buried head (9-12) in appearance: the head is rounded, with no ears, huge saucer-shaped eyes, a slit nose, and a gaping maw some 10’ in size. The lower lip juts forward from the mouth, allowing liquid to drip from the head and upper lip into the open maw. The maw is filled with clear water, amid which glisten numerous pure white tears of Kauket (see new magic items). The head rises 25’ above the marsh, and its mouth is level with the nearby platform (10-24). 
-
-The head is an extrusion of both Kauket and Rimmaq-Isfet on this plane; it continuously oozes a viscous white liquid that drips into the water of the head’s maw, where it turns into a tear of Kauket. 
-
-The head produces sufficient liquid for five tears of Kauket each day, up to a maximum of 15 tears. If collected and drunk before it can harden into a tear, the liquid causes permanent madness.
-
-Treasure:
-Nine tears of Kauket (see new magic items).
+* A giant, carved, stone salamander head rises ominously, 25' above the Mephitic Marsh.
+	* It resembles both the Great Pukel (9-40) and the colossal buried head (9-12): the head is rounded, with no ears, huge saucer-shaped eyes, a slit nose, and a gaping, 10' maw.  Its mouth is level with the nearby platform (10-24).
+		* The lower lip juts forward from the mouth, allowing liquid to drip from the head and upper lip into the open maw.
+		* The maw is filled with clear water, amid which glisten 9 pure white tears of Kauket (new).
+	* The head is an extrusion of both Kauket and Rimmaq-Isfet on this plane.
+		* It continuously oozes a viscous white liquid that drips into the water of the head’s maw, where it turns into tears of Kauket (5 / day, max 15 at a time).  If collected and drunk before it hardens into a tear, the liquid causes permanent madness.
 
 ### 10-26: Pillar with Ledge 
 
 * Another natural pillar rises from floor to ceiling in here.
 	* A small ledge is set into the pillar 10’ above the level of the marsh.
 		* The ledge contains a battered memorial to the legionaries of the Archontean 10th Legion (“the Glorious Tenth”), a copper casket within a stone cairn.
-			* Though corroded, the casket still bears the legion's distinctive numeral X (10).
+			* Though corroded, it still has the legion's distinctive numeral X (10).
 				* Within: a gladius +2, a cestus, a copper plaque, a scroll (Kentillian’s useful sphere, new), and an amulet of courage (see new magic items).
 					* The plaque reads (Mithric) “In memory of our brothers and sisters in the Glorious Tenth, who died to cleanse this foul site.” (2,500 gp to the modern polemarch of the legion).
 	* Pillar and ledge are heavily swathed in both the glowing friend and acid drops (flora).
@@ -889,15 +914,14 @@ Treasure:
 
 ##### 10-52a: Heqeti Barracks
 
-This chamber is a barracks for heqeti hoppers. It is dark and smells with a stale, fishy odor. Forty-five sleeping bunks are set into the walls (although Reepsiq does not have a full complement of hoppers). Two battered wood tables, a dozen stools, racks for spears, two large stone bins full of nasty fish paste (heqeti food), and a practice dummy made of straw (and shaped like a human) stand in the center of the chamber. Only eight of the hoppers are 
-actually present in the barracks at any given time.
-
-Secret Door (on north wall of hallway): This narrow door is difficult to locate (1 in 8) and only opens if the proper key is inserted into a cleverly hidden hole. Keys are held by Reepsiq, Qassapik and Pikaressa (see 10-47 to 10-49).
+* This barracks of the heqeti hoppers is dark and has a stale, fishy odor.
+	* 45 sleeping bunks are set into the walls.
+		* 20 contain small bits of silver, copper, and shell jewelry (11-20 gp per bunk).
+	* 2 battered wood tables, a dozen stools, racks for spears, 2 large stone bins full of nasty fish paste (heqeti food), and a practice dummy of straw (shaped like a human).
+* Only 8 hoppers are actually present in the barracks at any given time.
+* Secret Door (north wall of hallway): difficult to locate (1 in 8), opens by unlocking a cleverly hidden keyhole; keys held by Reepsiq, Qassapik and Pikaressa (10-47 to 10-49).
 
 8 heqeti hoppers (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 29, 28, 27, 26, 24, 23, 22, 20; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
-
-Treasure:
-Twenty of the bunks contain small bits of silver, copper, and shell jewelry worth 11-20 gp per bunk.
 
 ##### 10-52b: Barracks
 
@@ -955,7 +979,7 @@ cold, eggs of torment, and eggs of blinding; a bundle of 6 specimens each of 1-3
 Peelstiv, 7th-level kaliyani soldier (see new monsters): SZ M; AL LE; AC 4; MV 150’ on six legs, 60’ upright; HD 7; HP 49; #AT 2; Dmg 3-9/3-8 (bastard sword +1/scimitar). Special 
 defenses: immune to poison and mind-affecting spells. Special: infravision. Possessions: bastard sword +1 and a serrated scimitar; a ring of protection +2; a vial of kaliyani refreshening liquid (see Arden Vul items); small jewelry worth 179 gp; and potions of superheroism and fire giant strength.
 
-Margarita Blood-Eyes
+Marga Blood-Eyes
 
 Personality: Hostile and aggressive, but responds well to those who stand up to her. She has a distinctive look: she sports a stone-colored full length cloak with hood covering blood red leather armor and gear. In addition, her face and forehead are coated with ash-grey makeup punctuated only by blood red eyeliner and blood red ovals on her cheeks. She does not speak Archontean, but rather an archaic dialect of Thorcin. 
 
@@ -971,7 +995,7 @@ Goods for Sale: 150 lb of nutritious lichen (35 sp/lb); 37 riding salamander egg
 
 Companions: 4 2nd-level fighters as bodyguards. The guards’ faces are also coated with ash-grey pigment, but lack the red high-lights; all four are mute.
 
-Margarita Blood-Eyes, 9th-level female Archontean thief: SZ M; AL CE; AC 2; MV 120’; HD 9; HP 40; #AT 1; Dmg 4-10 (broad sword +2, nine lives stealer), 1-4 (dagger). Abilities: 
+Marga Blood-Eyes, 9th-level female Archontean thief: SZ M; AL CE; AC 2; MV 120’; HD 9; HP 40; #AT 1; Dmg 4-10 (broad sword +2, nine lives stealer), 1-4 (dagger). Abilities: 
 STR 11, INT 14, WIS 9, DEX 17, CON 12, CHA 15. Thief skills: PP 75%, OL 72%, F/RT 60%, MS 75%, HS 61%, HN 30%, CW 98%, RL 45%. Possessions: blood-red leather armor +3; broad sword +2, nine lives stealer (2 lives remaining); poisoned dagger; copper holy symbol of Mzingaloq in the shape of an opening door (20 gp); potions of invisibility and frost giant strength.
 
 4 cultist bodyguards, as 2nd-level male Archontean fighters: SZ M; AL CE; AC 4; MV 90’; HD 2; HP 17, 15, 14, 14; #AT 1; Dmg 2-7 (spear), 2-9 (battle axe). Special: +1 to damage from STR. Possessions: chain mail and shield; spear; battle axe.

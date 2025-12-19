@@ -1948,6 +1948,7 @@ Psalor-Ki (25% chance): for stats, see 5-74
 		* North: a 1,300-year old porcelain punchbowl (3,750 gp to an antiquarian) filled with a mixture of coins (450 sp, 326 gp, 157 cp) as well as copper, bronze, and platinum rudishva identity plaques, and a token of Arden (av items).
 		* South: a rosewood box inlaid with platinum and ivory (90 gp), containing 2 ioun stones (clear and dark blue) and 6 huge pearls (500 gp each).
 		* East: a mummified hand wearing (on thumb), the bone ring of Jagri-Naz.  Behind the hand lies a niravairi astral dripping sword (new).
+			* FFS - Psalor-Ki is wearing the ring, not putting it on display.
 		* West: a plastic cube showing a hologram of two adult and three young  rudishva, all dressed in unusual costumes (Psalor-Ki’s family; despite his madness, it remains his most prized possession).
 * A baroquely carved settee made of ebony serves as his resting couch.
 	* Behind it is a strange contraption of metal, wires and plasteel, a GnuCoder 5000 full-immersion sensory experience (tech).  It is broken and inoperable (see 6-117).
@@ -2001,6 +2002,7 @@ Psalor-Ki, insane rudishva (see new monsters) and techno-sorcerer with 7th-level
 baton); MR 20%.
 * Implants: optics (infravision; see invisibility), metabolism, shield (AC 2; hit only by magic), medical (regenerate 2 hp/round; 50% immune to poison and disease). Abilities: STR 12; INT 16; WIS 16; DEX 16; CON 10; CHA 17. Thief skills: PP 60%, OL 57%, F/RT 50%, MS 55%, HS 43%, HN 25%, CW 94%, RL 35%.
 * Possessions: wand of paralyzation; ring of spell-turning; ring of protection +2; ring of water breathing; ring of invisibility; rudishva laser pistol (tech, w/ full lesser power supply); rudishva ballistic baton (tech); sky blue and orange rudishva identity plaques
+	* the bone ring of Jagri-Naz
 * 3 silver rings with colored glass stones (45 gp each); and keys to the gate at 6-57.
 * Psalor-Ki dresses in a faded purple jumpsuit with a brightly colored scarf and a white turban.  He wears gaudy rings on every finger, a strange belt (a web-belt), and heavy varumani-hide boots.
 

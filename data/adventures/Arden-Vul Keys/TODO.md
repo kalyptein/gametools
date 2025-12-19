@@ -185,32 +185,39 @@ New Adventuring Companies
 
 intended path
 * 
-* !!! Setite assassins strike at Alexia and "strike" at Iskander
-* 
-* attack Temple of Set on Level 3
-* deal with Deino
-	* get the thothian circle address in the Beastman complex
-		* casting time for Identify on the circle?
-* arden and vul statue rituals
-* experiment w/ thoth teleporter addresses
-* attack Forum of Set on Level 4
-* forest caves, SL-15
-* SL1
-* SL12
-* SL4
-* 
-* SL 6
-* SL 5
-* SL 7
-* SL 9
-* Level 6
-* Level 7
-* SL 13
-* Level 8
-* SL 10
-* Level 9
-* Level 10
-* 
+* ready
+	* Deal with Deino
+	* Finish restoring Arden and Vul, do the rituals
+	* Experiment with level addresses
+	* SL 15
+	* SL 1
+	* SL 11 (wrap up)
+	* Level 3 (wrap up)
+	* Level 4 (wrap up)
+	* SL 12
+	* Level 5 (wrap up)
+* almost ready
+	* SL 4
+* bulletized
+	* SL 6
+* ready
+	* SL 5
+	* SL 7
+* bulletized
+	* SL 9
+* almost bulletized
+	* Level 6
+* TBD
+	* Level 7
+* ready
+	* SL 13
+* TBD
+	* Level 8
+* bulletized
+	* SL 10
+* TBD
+	* Level 9
+	* Level 10
 * 
 * 
 
@@ -287,12 +294,10 @@ intended path
 			* and onward
 	* SL-6a (upper)
 		* B: clear up overpasses, missing secret doors?
-		* bulletize
 		* entities
 		* dressing
 	* SL-6b (lower)
 		* B: clear up overpasses, missing secret doors?
-		* bulletize
 		* entities
 		* dressing
 	* SL-9

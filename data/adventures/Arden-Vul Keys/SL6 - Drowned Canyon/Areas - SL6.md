@@ -1651,35 +1651,44 @@ Deadly Monument
 
 ### SL6-76: Hall of Imperial Heroes (Dry)
 
-Note: The air supply in this chamber is fixed; see general sub-level conditions above.
+* Note: The air supply in this chamber is fixed; see general sub-level conditions above.
 
-This 30’-tall, barrel-vaulted hall offers an impressive tribute to some long-forgotten military heroes of antiquity. A 10’-wide strip of red onyx has been inset into the granite; it leads from the entrance to the main statue at the south end of the hall. Flanking the red stone walkway are eight 15’-tall statues. An inscription (actually a song) runs along the wall at a point 20’ above the floor; it starts in the northwest corner and ends in the northeast corner. The words of the Mithric inscription are 2’ tall, inset into the stone, and inlaid with more red onyx. At the south end of the hall stands a 20’-tall statue of the great Archontean hero, Spiculus Carbo.
+* This 30’-tall, barrel-vaulted hall is an impressive tribute to long-forgotten military heroes of antiquity.
+	* A 10’-wide strip of red onyx is inset into the granite floor leading from the entrance to the main statue at the south end of the hall.
+	* Flanking the walkway are eight 15’-tall statues of men and women in military garb, each unique, on low plinths inscribed with the name of the hero.
+	* At the south end of the hall stands a 20’-tall statue of the great Archontean hero, Spiculus Carbo, in field plate, leaning wearily on his spear.
+		* The heads of two heqeti hoppers lie at his feet. 
+		* The plinth is inscribed (Mithric): “Spiculus Carbo, scutarius, who embodied the three virtues of his calling, fell defending his comrades during the great war against the Hoppers.”
+		* He is a long-forgotten hero of the ancient empire.
+	* An inscription (Mithric; a song) runs along the wall 20’ up in 2'-tall letters of inlaid red onyx, starting in the northwest corner and ending in the northeast corner.
+* Secret passage (to SL6-77): almost impossible (1 in 12) to detect the hidden passageway under the statue of Spiculus Carbo.
+	* If the 3 code words (clues in the inscriptions in SL6-74 and SL6-75) are touched, in any order, within 5 minutes, the statue slides forward, revealing the stairs and hidden passage.
 
-Statues of Lesser Heroes: The eight statues depict men and women in military garb, albeit in clothing and equipment unique to each individual. Each stands on a low plinth on which the name of the hero is inscribed. The statues are enchanted (and detect as magic). Should any one of the three code words embedded in the song inscription (duty, loyalty, respect) be touched (see below), all eight break out into a rough version of the song, chanted in loud bass tones. Should the physical remains of Spiculus Carbo be looted from SL6-77, the eight offer boos, hisses, and raspberries in equally loud tones. From southwest to southeast, the statues depict:
+Statues of Lesser Heroes
+* The statues are enchanted (and detect as magic).
+* If any of the 3 code words embedded in the song inscription (duty, loyalty, respect) be touched, all 8 break out into a rough version of the song, chanted in loud bass tones.
+* If the remains of Spiculus Carbo be looted (SL6-77), the 8 offer boos, hisses, and raspberries in equally loud tones.
+* From southwest to southeast, the statues depict:
+	* Hertulion, in legionary gear, in a defensive posture with shield and spear
+	* Janata (F), in scout garb, wielding a sling
+	* Hjaltion, a dekarch, gesturing with baculus
+	* Terencius Borsa, as a legionary thrusting with short sword
+	* Eadgifia (F), polemarch with shield raised, thrusting with spear
+	* Lauret (F), archer nocking an arrow in her short bow
+	* Isketius the Black, as a legionary crouching behind his shield
+	* Marcus the Elephant, in a loincloth holding a club
 
-28. Hertulion, in legionary gear, in a defensive posture with shield and spear
-29. Janata (F), in scout garb, wielding a sling
-30. Hjaltion, a dekarch, gesturing with baculus
-31. Terencius Borsa, as a legionary thrusting with short sword
-32. Eadgifia (F), polemarch with shield raised, thrusting with spear
-33. Lauret (F), archer nocking an arrow in her short bow
-34. Isketius the Black, as a legionary crouching behind his shield
-35. Marcus the Elephant, in a loincloth holding a club
-
-Statue of Spiculus Carbo: This basalt statue is enormous, rising 20’ above the floor. Spiculus Carbo, a long-forgotten hero of the ancient Archontean empire, is dressed in battered field plate, and leans wearily on his spear. The heads of two heqeti hoppers lie at his feet. The plinth carries this inscription: “Spiculus Carbo, scutarius, who embodied the three virtues of his calling in falling for his comrades during the great war against the Hoppers.”
-
-Inscription/Song:  The words (in Mithric) of the song are as follows (N.B.: the three code words are underlined here for the GM’s purposes alone; nothing on the wall distinguishes these words from the others):
+Inscription/Song
+* The words (in Mithric) of the song are as follows:
+	* The 3 code words (duty, loyalty, respect) are highlighted for the GM; nothing on the wall distinguishes them.
+	* GM Note: this was a popular marching song of the legions during the period of Archon Marius Tricotor. A slim chance a PC with a military background may recognize some of the phrases from modern military practice.
 
 Hail to the heroes, whose deeds are clear to all
-None of them stepped back, when duty made its call
+None of them stepped back, when DUTY made its call
 Amid the press and without doubt they formed the sacred wall
 And there with blades a-flashing, they saw the enemy fall
-Through loyalty fierce and honor clear they forced the foe in thrall 
-Their deeds of noble service demand respect from all
-
-GM Note: This was a popular marching song of the legions during the period of Archon Marius Tricotor. There is a slim chance that a PC with a military background may recognize some of the phrases from modern military practice.
-
-Secret passage (to SL6-77): It is almost impossible (1 in 12) to detect that there is a hidden passageway under the statue of Spiculus Carbo. It is revealed when the three code words (clues to which may be found in the inscriptions in SL6-74 and SL6-75) are touched, in any order and within 5 minutes. At that point the statue slides forward, revealing the stairs and hidden passage.
+Through LOYALTY fierce and honor clear they forced the foe in thrall 
+Their deeds of noble service demand RESPECT from all
 
 ### SL6-77: Secret Tomb of Spiculus Carbo (Dry)
 
@@ -1695,33 +1704,37 @@ Note: The air supply in this chamber is fixed.
 
 ### SL6-78: Tomb of Licata the Archer (Dry)
 
-Note: the air supply in this chamber is fixed; see general sub-level conditions above.
+* Note: the air supply in this chamber is fixed; see general sub-level conditions above.
 
-The earthly remains of a second hero of the Archontean wars versus the heqeti may be found here. The chamber is 20’ tall, and the walls are painted a bright lemon-yellow color. Three 10’-tall statues of female archers with nocked arrows stand in the north, east, and south corners. Licata’s remains rest on a stone table in the center of the chamber. 
-
-Trap (pressure plate and magical arrows): A pressure plate occupies the 10’x10’ square just inside the entranceway. For each medium-sized creature that crosses the plate, there is a 75% chance that the trap triggers. Once triggered, each of the stone statues releases two magical arrows per round at randomly determined targets. For purposes of rolling to hit, the archers have 8 HD; each arrow inflicts 2-8 HP damage. The arrows strike any object existing within a plane defined as between 3’ and 10’ above the floor; those lying prone, and/or those who can levitate/fly to a point 10’ above the floor, are immune from the arrow fire. Dispel magic cast on one of the statues immediately stops arrow fire from that statue.
-
-Table: The stone table contains the remains of Licata the archer: a skull, with two huge red spinels (350 gp each) set into its eye sockets, a set of finger bones wired together, and a cedar box containing her ashes. The box is inlaid with silver, and carries the image of a coiled bowstring (the insignia of the I Velites legion) and the name ‘Licata the dekarch’. If the box is opened, it releases Licata’s spirit, now a terrible spectre.
-
-Also on the table are the following: a heavy gold signet ring that reads ‘Licata’ and ‘Loyalty’ (350 gp); her long bow +2; a quiver of 20 arrows +2; and a beautiful opal and jade necklace 
-(2,250 gp).
+* The earthly remains of a second hero of the wars versus the heqeti lie here.
+	* The chamber is 20’ tall; the walls painted a bright lemon-yellow.
+	* Three 10’-tall statues of female archers with nocked arrows stand in the north, east, and south corners.
+		* A pressure plate occupies the 10’x10’ square just inside the entranceway.
+		* A medium creature crossing has a 75% chance to trigger it, after which each statue fires 2 magic arrows per round at random targets (8 HD attack, 2d4).
+			* The arrows strike strike between 3’ and 10’ above the floor; lying prone or hovering above keeps you out of the line of fire.
+		* A dispelled statue ceases fire.
+	* Licata’s remains rest on a stone table in the center of the chamber. 
+		* A skull (2 huge red spinels (350 gp each) set into its eye sockets) a set of finger bones wired together, a cedar box containing her ashes, a heavy gold signet ring reading ‘Licata’ and ‘Loyalty’ (350 gp); her long bow +2; a quiver of 20 arrows +2; and a beautiful opal and jade necklace (2,250 gp).
+			* The box is inlaid with silver, and carries the image of a coiled bowstring (the insignia of the I Velites legion) and the name ‘Licata the dekarch’.
+			* If the box is opened, it releases Licata’s spirit, now a terrible spectre.
 
 Licata the spectre: SZ M; AL LE; AC 2; MV 150’, 300’ flying (Class B); HD 7+3; HP 52; #AT 1; Dmg 1-8. Special attacks: energy drain. Special defenses: +1 or better weapons to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
 
 ### SL6-79: Unfinished Tomb (Dry)
 
-Note: The air supply in this chamber is fixed; see general sub-level conditions above.
+* Note: The air supply in this chamber is fixed; see general sub-level conditions above.
 
-The door to this chamber is locked; Kel Bormol (SL3-2A) has the only remaining key. Inside is an unfinished tomb. A unique symbol, devised by Kel Bormol himself, has been cast seventeen times on the door: it is a symbol of forgetting, which causes those who fail to save versus spells (with a -2 penalty) to turn away from their present task and adopt some new course of action. The symbol is designed to prevent intruders from entering the chamber.
+* The door to this chamber is locked; Kel Bormol (SL3-2A) has the only remaining key.
+	* A unique symbol of forgetting (devised by Kel Bormol) was cast 17 times on the door (save versus spells at -2 or to turn away from their present task and adopt some new course of action (keeps intruders from the chamber).
+* Inside is an unfinished tomb.
+	* A block of stone (for a never-begun sarcophagus) stands in the middle of the room.
+	* A generic decoration plan was begun, but the only completed part is an image of a legionary (still faceless) with the word ‘Respect’ (in Mithric) in 3’ letters above him.
+	* An invisible stone chest is fastened to the ceiling with steel bars.
+		* 500 ancient silver pennies; potions (gaseous form, clarity, deafening light, dispelling, and truthfulness); and spare spell books.
 
-A block of stone (for the never-begun sarcophagus) stands in the middle of the room. A generic decoration plan was begun, but the only part completed is an image of a legionary (still faceless) with the word ‘Respect’ (in Mithric) in 3’ letters above him.
-
-As the war of Theosophs and Sortians raged (see World of Archontos appendix), the late Archontean-era archmage, Kel Bormol, took precautions for his own safety. He repurposed 
-several chambers throughout the Halls as bolt-holes to which he could teleport if conditions in the city grew desperate. This tomb was one of his third-tier refuges. Here he deposited some coin, a few potions, and copies of his spell-books. These items are all concealed in an invisible stone chest fastened to the ceiling with steel bars.
-
-Treasure:
-Invisible chest with: 500 ancient silver pennies (see Arden Vul items); potions of gaseous form, clarity, deafening light, dispelling, and truthfulness (see new magic items for the last 
-four); and his spell books.
+* GM Note: as the war of Theosophs and Sortians raged, the late Archontean-era archmage, Kel Bormol, took precautions for his own safety.
+	* He repurposed several chambers throughout the Halls as bolt-holes to which he could teleport if conditions in the city grew desperate.
+	* This tomb was one of his third-tier refuges, where he deposited some coin, a few potions, and copies of his spell-books.
 
 Kel Bormol’s Spell Books (in eleven large volumes): All 1st-level spells plus Basil’s torch treatment, Cleophalus’s look-away spell, and friend of the Hekate (see new spells for all three); all 2nd-level spells plus the Bracteros effect, locate place, Pol’s endless sneezes, pummeling fists of Arak-Zhorr, and wizard’s cache (see new spells for all five); all 3rd-level spells plus garrulous mouth (see new spells); all 4th-level spells plus Dameon’s shadow spell book (see new spells); all 5th-level spells plus harnessing the chaos, the hekate’s bonds, and 
 Pol’s improved eye (see new spells for all three); anti-magic shell, curse item (see new spells), death spell, disintegrate, enchant an item, extension III, forceful hand, geas, globe of invulnerability, invisible stalker, legend lore, monster summoning IV, project image, reincarnation, repulsion, stone to flesh, transformation; cacodemon, delayed blast fireball, duo-dimension, grasping hand, limited wish, mass invisibility, monster summoning V, Pol’s recall (see new spells), power word stun, vanish, warding chain of glyphs (see new spells); clenched fist, incendiary cloud, irresistible dance, mass charm, mind blank, mindshift (see new spells), monster summoning VI, permanency, polymorph object, power word blind, spell immunity, symbol; astral spell, crushing hand, gate, meteor swarm, power word kill, prismatic 
@@ -1740,13 +1753,25 @@ sphere, time stop.
 
 ### SL6-82: Plundered Tomb of Phocius Tricotor (Dry)
 
-This chamber is the most visited of the tombs in the Drowned Canyon, as it is the only one whose entrance is completely accessible from above the waterline. It is monumental in size, being some 20’ tall. Mosaics originally covered the walls and ceiling. The tomb was designed for Phocius Tricotor, the adopted son of the great Marius Tricotor (see 6-154), who was slain in operations against the heqeti. Aware of Marius’s grief, his courtiers arranged this elaborate tomb. Sadly, it was plundered in antiquity and little is left save some decorations. Graceful arches lead to subsidiary tombs on the east, west and south sides. 
+* This chamber is the most visited of the tombs in the Drowned Canyon, being the only one whose entrance is completely above the waterline.
+	* It is monumental in size, 20’ tall, with graceful arches leading to subsidiary tombs on the east, west and south sides.
+	* Mosaics originally covered the walls and ceiling.
+		* The mosaics on the walls have been badly damaged by time and looters.
+		* The largest intact piece occupies the southwest corner.
+			* A stern archon with cropped, grey hair riding a floating platform while pointing at misshapen amphibians. Next to the archon is a man who looks similar, albeit younger.
+				* Ancient graffiti names the two figures as “Marius the Great” and “Phocius, his dead son.”
+		* The other intact piece of mosaic is in the northeast corner
+			* A skinny man in a white scribe’s tunic holds a stylus and wax tablet; this man has the same hair style, and several prominent blemishes by his nose. 
+				* Graffiti scrawled beside it reads: “Lucius Cornelius the thief, who stole the divine Marius’s relics.”
+					* GM Note: this person is Lucius Cornelius Scriptor – see 6-135
+	* In the center of the chamber is a worn, veined-marble dais (10’x10’).
+		* In its center stands an unusual vertical sarcophagus, 5’ square and 8’ tall.
+			* The top 2’ of the sarcophagus are broken off, leaving a hollow shell.
+			* The sarcophagus is empty; its four sides bear images of a young Archontean male, with close-cropped hair, Roman nose, and piercing eyes, engaging in military actions. The north-facing side of the sarcophagus also reads “Phocius Tricotor.”
 
-The mosaics on the walls have been badly damaged by time and looters. The largest intact piece occupies the southwest corner, and shows a stern archon with cropped, grey hair riding a floating platform while pointing at misshapen amphibians. Next to the archon is a man who looks similar, albeit younger. Ancient graffiti names the two figures as “Marius the Great” and “Phocius, his dead son.” The other intact piece of mosaic is in the northeast 
-corner, and shows a skinny man in a white scribe’s tunic holding a stylus and a wax tablet; this man has the same hair style, and several prominent blemishes by his nose. More graffiti is scrawled by this image. It reads: “Lucius Cornelius the thief, who stole the divine Marius’s relics.” [GM Note: this person is Lucius Cornelius Scriptor – see 6-135]
-
-In the center of the chamber is a worn, veined-marble dais (10’x10’). In its center stands an unusual vertical sarcophagus that is 5’ square, but 8’ tall. The top 2’ of the sarcophagus have been broken off, leaving a hollow shell. The sarcophagus is empty, but its four sides bear incised images of a young Archontean male, with close-cropped hair, Roman nose, and piercing eyes, engaging in military actions. The north-facing side of the sarcophagus also 
-reads “Phocius Tricotor.”
+* GM Notes the tomb was designed for Phocius Tricotor, the adopted son of the great Marius Tricotor (see 6-154), who was slain in operations against the heqeti.
+	* Aware of Marius’s grief, his courtiers arranged this elaborate tomb.
+	* Sadly, it was plundered in antiquity and little is left save some decorations.
 
 ### SL6-83: Side Tomb (Dry)
 
@@ -1776,65 +1801,62 @@ reads “Phocius Tricotor.”
 
 ### SL6-86: False Tomb of Thekla (Partly-submerged)
 
-Five feet of murky water slosh around in this 10’-tall chamber, which is home to a giant anaconda. The wall frescoes have been ruined by moisture, a moldy mosaic occupies the west wall, and a granite sarcophagus sits in the center of the room on a 2’ dais. On the west wall a jumble of debris has accumulated around what once was a ceremonial rack (for a sword) built into the wall. It is in this debris that the anaconda lairs. Three water-slimed skeletons lie on the floor near the sarcophagus. GM Note: this area was intended as a red-herring for those seeking to loot the tombs of Taticus and Thekla, whose true tomb lies at SL6-88.
+* A giant anaconda lairs in the murky water of this half-flooded 10’-tall chamber.
+	* The wall frescoes are ruined by moisture.
+	* A moldy mosaic of a pair of warriors, male and female, fighting a huge, hairy troll occupies the west wall.
+		* Both share similar features: long, shoulder-length hair and pointed noses, with black leather armor, falchions, and silver lockets around their necks. 
+			* GM Note: the legendary Archontean hero-twins, Taticus and Thekla, (4d6 under INT to recognize).
+	* A granite sarcophagus sits in the center of the room on a 2’ dais.
+		* 3 water-slimed skeletons lie on the floor near the sarcophagus. 
+			* Black leather armor, scale mail, a mace, a long sword, a purse (53 ancient silver pennies, 39 ancient gold solidi); a silver statuette of a hooded cobra (135 gp); and an elixir of health.
+		* The lid bears an image of a female warrior in leather armor carrying a falchion, and is already cracked open.
+			* Within are moldy remains of a female human, wrapped in linen bandages.
+			* The original (meagre) treasure was looted in antiquity.  A pair of brass leg bracelets studded with jet gems (50 gp) hides inside the wrappings.
+	* On the west wall, a jumble of debris has accumulated around what once was a ceremonial sword rack built into the wall.
+		* It is in this debris that the anaconda lairs.
+	* Secret Door (east): pulling down on the left support of the sword rack releases a panel on the eastern wall to swing into the chamber.
 
-Mosaic: The mosaic shows a pair of warriors striking at a huge, hairy troll. One warrior is male and the other female, but both share similar features: they both have long, shoulder-length hair and pointed noses, and they both wear black leather armor, wield falchions, and wear silver lockets looped around their necks. GM Note: a bookish PC has a chance to recognize the pair of warriors in the mosaic as the legendary Archontean hero-twins, Taticus and Thekla, by rolling 4d6 under INT.
-
-Sarcophagus: The lid bears an incised image of a female warrior wearing leather armor and carrying a falchion. The lid of the sarcophagus is already cracked open, and can be fully removed easily, without any sort of check. Only the moldy remains of a female human, wrapped in linen bandages, remain. 
-
-Secret Door (east): The door is normal to locate, and opens by pulling down on the left support for the sword rack that is found on the east wall. Doing so releases a mechanism that causes a panel on the eastern wall to swing into the chamber.
+* GM Note: this area is a red-herring for would-be looters of the tombs of Taticus and Thekla, whose true tomb lies at SL6-88.
 
 1 giant constrictor snake: SZ L; AL N; AC 5; MV 90’; HD 6+1; HP 43; #AT 2; Dmg 1-4/2-8. Special attacks: constriction.
 
-Treasure: 
-Inside the sarcophagus: all the original (meagre) treasure was looted in antiquity, but a pair of brass leg bracelets studded with jet gems is still hidden inside the wrappings (50 gp each). 
-Skeletons: black leather armor, scale mail, a mace, a long sword, a purse with 53 ancient silver pennies and 39 ancient gold solidi (see Arden Vul items for both); a silver statuette of a hooded cobra (135 gp); and an elixir of health.
-
 ### SL6-87: False Tomb of Taticus (Partly-submerged)
 
-Five feet of water slosh about in this chamber. Although moisture has ruined most of the frescoes, a section of mosaic mounted on the south wall shows a pair of warriors striking simultaneously at a troll. A granite sarcophagus (10’x5’x5’) rests in the center of the chamber on a 2’ dais. Built into the west wall just above the water line is an empty rack, apparently intended for a sword.
-
-Mosaic: One warrior is male and the other female, but both share similar features: they both have long, shoulder-length hair and pointed noses, and they both wear black leather armor, wield falchions, and wear silver lockets looped around their necks. Note: A bookish PC has a chance to recognize the pair of warriors in the mosaic as the legendary Archontean hero-twins, Taticus and Thekla, by rolling 4d6 under INT.
-
-Sarcophagus: The lid bears a crude image scribed in the stone of a warrior wearing leather armor and holding a falchion. The legend reads “Taticus the Strong.” The lid of the sarcophagus can be budged with an open doors check, but it is also trapped (see below). Within is a male body wrapped in shrouds along with some treasure. 
-
-Trap (sarcophagus lid): The lid is trapped such that if the seam is broken between lid and sarcophagus, a powerful set of springs will project the now-broken lid upwards and outwards. Anyone within 10’ of the sarcophagus must roll 3d8 under DEX or take 3-12 HP 
-damage from the explosion and stone fragments.
-
-Secret Door (west): The door is normal to find, and opens if a hidden button inside the sarcophagus is located and pressed.
-
-Treasure:
-Inside the sarcophagus: 119 ancient silver pennies (see Arden Vul items); a pair of silver and turquoise bracelets (75 gp each); a scroll of magic missile and locate object; and a parchment scroll entitled Fraternal Triumph, or Taticus and Thekla against the Troll (see Arden Vul books).
+* Five feet of water slosh about in this chamber.
+	* Moisture has ruined most of the frescoes, but a section of mosaic on the south wall shows a pair of warriors, male and female, striking simultaneously at a troll.
+		* Both share similar features: long, shoulder-length hair and pointed noses, with black leather armor, falchions, and silver lockets around their necks. 
+			* GM Note: the legendary Archontean hero-twins, Taticus and Thekla, (4d6 under INT to recognize).
+	* A granite sarcophagus (10’x5’x5’) rests in the center of the chamber on a 2’ dais. 
+		* The lid bears a crude image of a warrior in leather armor and holding a falchion. The legend reads “Taticus the Strong.”
+			* The lid can be budged (open doors), but is trapped.  If the seam is broken, the lid's subtle cracks and charges blow, hurling stone fragments outward (10’ radius,  3d8 under DEX or take 3d4).
+			* Within is a shrouded male body, 119 ancient silver pennies; a pair of silver and turquoise bracelets (75 gp each); a scroll (magic missile, locate object); a parchment scroll "Fraternal Triumph, or Taticus and Thekla against the Troll" (books).
+			* Secret Door (west): pressing a hidden button inside the sarcophagus opens the door.
+	* Built into the west wall just above the water line is an empty sword rack.
 
 ### SL6-88: Hidden Tomb of the Twins (Dry)
 
-The true tomb of Taticus and Thekla, the legendary Archontean hero-twins, is located here. The 15’-tall chamber is sheathed in blue tiles (6” square), on each of which has been painted the tau (yin-yang) symbol (which symbolizes twins for Archonteans). Perhaps 30% of the tiles have fallen to the floor, leaving the floor littered with broken tiles and ceramic dust. Two sarcophagi dominate the center of the chamber, although an enormous black ‘troll’ stands 
-on a dais on the south wall. Between the two sarcophagi is a large patch of living mosaic (see new magic items). 
-
- The ‘troll’ is 10’ tall, thick and muscled, and covered with black bristly hair. The ‘troll’ is actually a Type IV demon that has used its polymorph self ability to appear as the legendary object of the Twins’ great victory. The demon has been bound to this chamber to fulfill this function – and to defend the gemini blades (see new magic items) – for close to 2,000 years, and is eager for combat and release. Once it has defeated 17 robbers, it will be freed from its task. As such, the first thing it does is Gate in another demon to ensure it defeats any tomb raiders.
-
-Sarcophagi: Both of the 10’x5’x5’ sarcophagi are formed of coal-black basalt. The tops of each sarcophagus bear a heavily incised and silver-filled image of their respective inhabitants, Taticus and Thekla. Taticus appears as a young man dressed in leather armor with a flowing cloak; Thekla is a young woman and dressed similarly. Both have shoulder-length hair and wear lockets. On each sarcophagus, however, the images of the twin’s locket is pierced vertically by one of the legendary gemini blades (see new magic items). The only way to release the lid of either lid is to pull forth the blade from the basalt; to do this, however, requires either a twin or a person of chaotic good or chaotic neutral alignment. 
-Within each sarcophagus is some additional treasure.
-
-Living Mosaic: A large, 10’x3’, patch of living mosaic (see new magic items) occupies the space between the two sarcophagi. It depicts area 6-157 and is 75% likely to show troll-like beings moving through the image.
-
-Secret Door (northeast, to SL6-87): This door is easy to locate (1 in 4), and opens by pulling a thin circle of wire nestled in the seam between wall and ceiling.
-
-Secret Door (northwest, to SL6-86): This door is easy to locate (1 in 4), and opens outward by finding and depressing a 3”-square on the south wall.
-
-Secret Door (east, towards SL6-85): This door is hard to find (1 in 8) and only opens by brute force (open doors check to push it towards the east).
-
-Secret Door (west, towards SL6-89): The door is hard to locate (1 in 8) and can only be opened by pulling it inward via a successful open doors check.
+* The true tomb of Taticus and Thekla, the legendary Archontean hero-twins, is 15’-tall, sheathed in blue tiles (6” square).
+	* Each tile bears the tau (yin-yang) symbol (symbolizes twins for Archonteans). 
+	* A third of them have fallen, leaving the floor littered with broken tiles and dust. 
+* Two sarcophagi of coal-black basalt (10’x5’x5’) dominate the center of the chamber.
+	* Each lid bears a heavily incised, silver-filled image of its inhabitant.  A sword sticks up from each.
+		* Taticus is a young man in leather armor with a flowing cloak; Thekla, a young woman in similar dress.  Both have shoulder-length hair and wear lockets.
+		* On each sarcophagus, the images of the twin’s locket is pierced vertically by one of the legendary gemini blades (new).
+			* The only way to release a lid is to pull forth the blade from the stone.  This requires either a twin or chaotic good or chaotic neutral person.
+		* Inside
+			* Taticus: a red, hooded, cloak of displacement; a pair of red boots (25 gp); Taticus’s seal matrix (could be used to make new seals or sold to an antiquarian for 3,000 gp); a silver, gold, and bejeweled belt (1,850gp); a fine platinum cloak pin worth 425 gp.
+			* Thekla: a set of red boots of striding and springing; a fine, silk, hooded cloak (50 gp); an amethyst and silver hair pin (450 gp); a gold signet ring (250 gp); a second gold ring set with a huge topaz (650 gp).
+* Between the two sarcophagi is a large (10’x3’) patch of living mosaic (new) depicting 6-157 (75% likely to show troll-like beings moving through the image).
+* An enormous 10'-tall ‘troll’, thick and muscled, covered with bristly black hair, stands on a dais on the south wall.
+	* Actually a Type IV demon shapechanged to fit legend of the Twins’ great victory.  It has been bound to this chamber as guardian of the tomb and gemini blades for 2,000 years.  It is eager for combat and release (once it has defeated 17 robbers).
+		* It gates in another demon first thing to ensure it defeats any tomb raiders.
+* Secret Door (northeast, to SL6-87): easy to locate (1 in 4), opens by pulling a wire nestled in the seam between wall and ceiling.
+* Secret Door (northwest, to SL6-86): easy to locate (1 in 4), opens outward by pressing a 3”-square on the south wall.
+* Secret Door (east, towards SL6-85): hard to find (1 in 8), pushes opens toward the east by brute force (open doors).
+* Secret Door (west, towards SL6-89): hard to find (1 in 8), opens by pulling it inward (open doors).
 
 1 type IV demon: SZ L; AL CE; AC -1; MV 90’, 120’ flying (Class E); HD 11; HP 78; #AT 3; Dmg 1-4/1-4/2-8; MR 65%. Constant abilities: infravision. Special attacks: +2 to hit; cause 
 fear; darkness 10’ radius; use symbol (fear or discord). Special defenses: half damage from cold, electricity, fire, gas; +1 or better weapons to hit. Special: teleport without error; detect magic; read languages; telekinesis (5,000 gp); project image; create illusion; levitate; polymorph self; dispel magic; gate in demon of type I to IV (60%).
-
-Treasure:
-The gemini blades (see new magic items), only removable by chaotic good PCs or by twins.
-
-Tomb of Taticus: a red, hooded, cloak of displacement; a pair of red boots (25 gp); Taticus’s seal matrix, which could be used to make new seals or could be sold to an antiquarian for 3,000 gp; a silver, gold, and bejeweled belt, worth 1,850gp; and a fine platinum cloak pin worth 425 gp.
-
-Tomb of Thekla: a set of red boots of striding and springing; a fine, silk, hooded cloak (50 gp); an amethyst and silver hair pin (450 gp); a gold signet ring (250 gp); a second gold ring set with a huge topaz (650 gp).
 
 ### SL6-89: Hidden Staircase up to SL6-31 (Dry)
 
@@ -1860,91 +1882,95 @@ Tomb of Thekla: a set of red boots of striding and springing; a fine, silk, hood
 
 ### SL6-93: First Tomb of Vipsania Pacifica (Submerged)
 
-Archon Vipsania Pacifica built this area as the antechamber to her true tomb (SL6-94). The chamber is 10’ tall and filled with murky water. Vipsania’s sarcophagus dominates the center of the chamber, while ruined wall frescoes provide hints of color amid the glom. Two giant crayfish lurk in the murky water on either side of the door, eager for a meal.
-
-Sarcophagus: This object is a rococo monstrosity! It is 5’ tall, 10’ long, and 4’ wide, and built of veined marble with 2’-tall porphyry columns set into the base of the sarcophagus on all sides. The lid is solid and massive, with a white effigy of Vipsania built into it. Vipsania appears as a whip-thin, tall woman with waist-length hair and narrowed eyes. She wears a long robe and carries an ankh and an unrolled scroll. Inscribed in tiny letters on the scroll 
-are the following words in Mithric: “Vipsania Pacifica, archon of Arden Vul. She brought and required peace.” Unless PCs specifically examine the scroll, they are likely to miss the inscription.
-
-The lid can only be budged with a successful open doors check. Although the contents were looted in antiquity, the tomb-robbers had a warped sense of humor, and left a goblin skull behind. They also left a sherd of pottery with the following mocking note scrawled on it in Mithric: “Vipsania wasn’t so peaceful when we made off with her belongings. Better luck next time!” What the robbers missed was a false bottom, which can be detected as a secret door. Inside the false bottom are a four solid gold rods tied up with gold thread and piece of solid marble carved like a 5”-diameter, rolled-up scroll. Each has a different word inscribed (in Mithric) on it: wrath, love, serenity, and sorrow. The rods can be used to manipulate objects in area SL6-94. The scroll is needed to open the secret door to Vipsania’s true tomb.
-
-Secret Door (west): The door is normal to find. The opening mechanism is a 5”-diameter slot in the wall. The marble scroll in the false-bottom of the sarcophagus fits the slot perfectly.
+* This 10’ tall chamber, filled with murky water, is the antechamber of Archon Vipsania Pacifica's true tomb (SL6-94).
+	* Ruined wall frescoes provide hints of color amid the glom.
+	* 2 giant crayfish lurk in the murky water on either side of the door, eager for a meal.
+	* Vipsania’s rococo monstrosity of a sarcophagus (5’ tall, 10’ long, 4’ wide) dominates the center of the chamber
+		* It is of veined marble, with 2’-tall porphyry columns set into the base of the sarcophagus on all sides.
+		* The lid is solid and massive (open doors), with a white effigy of Vipsania.
+			* A whip-thin, tall woman with waist-length hair and narrowed eyes. She wears a long robe and carries an ankh and an unrolled scroll.
+				* Inscribed in tiny (easy to overlook) letters (Mithric): “Vipsania Pacifica, archon of Arden Vul. She brought and required peace.”
+		* The contents were looted in antiquity.
+			* Tomb-robbers with a warped sense of humor left a goblin skull and a sherd of pottery scrawled (Mithric) with “Vipsania wasn’t so peaceful when we made off with her belongings. Better luck next time!”
+			* They missed a false bottom (as secret door) holding four 1"-thick, 6"-long solid gold rods (850 gp each) tied up with gold thread and piece of solid marble carved like a 5”-diameter, rolled-up scroll.
+				* Each has a different word inscribed on it (Mithric): wrath, love, serenity, and sorrow.  They can be used to manipulate objects in SL6-94. The scroll is opens the secret door to Vipsania’s true tomb.
+	* Secret Door (west): a 5”-diameter slot in the wall opens the door when the marble scroll in the false-bottom of the sarcophagus is inserted.
 
 2 giant crayfish: SZ L; AL N; AC 4; MV 60’, 120’ swimming; HD 4+4; HP 33, 28; #AT 2; Dmg 2-12/2-12. Special attacks: surprise on 3 in 6.
 
-Treasure: 
-Four solid gold rods, 1” in diameter and 6” long (850 gp each). The rods can be used to manipulate objects in area SL6-94.
-
 ### SL6-94: True Tomb of Vipsania Pacifica (Dry)
 
-Up a narrow staircase may be found the true tomb of Vipsania Pacifica, archon of Arden Vul. The chamber is 10’ tall. Instead of the usual frescoes, four 5’-tall, granite, high-relief images 
-of faces stand forth along the bare stone walls. Standing on the floor beneath each visage is a 3’-tall stone urn. Vipsania’s granite sarcophagus stands in the center of the chamber. 
+* Up a narrow staircase is the true tomb of Vipsania Pacifica, archon of Arden Vul.
+* The chamber is 10’ tall.
+	* Instead of frescoes, the bare stone walls are lined with four 5’-tall, granite, high-relief images of the same human woman's face, with long hair, open mouth, and an elaborate torc.
+		* Each face shows a different emotion.
+		* Standing on the floor beneath each visage is a 3’-tall stone urn. 
+	* Vipsania’s granite sarcophagus (10’ long, 3’ wide and 4’ high) stands in the center of the chamber. 
+		* The north side bears the words “Vipsania, archon.”
+		* The lid is solid with no seam visible.
+			* Four 2”-diameter holes are spaced evenly across the lid, each with a square of colored tile inset next to it (red, black, pink and pale blue).
+		* Inside: the bones of Vipsania Pacifica, 2 bolts of beautiful silk from the imperial workshops (250 gp each); an alabaster jar with 111 ancient octagonal platinum pieces; a vellum codex bound in red leather "the Secreta Secretorum" (books); a rod of rulership (16 charges); a tome of understanding; and a gold-and-ruby necklace in a sunburst pattern (5,800 gp).
 
-Sarcophagus: The sarcophagus is 10’ long, 3’ wide and 4’ high. The north side bears the words “Vipsania, archon.” The lid is solid and no seam is visible. Four 2”-diameter holes are spaced evenly across the lid, each with a square of colored tile inset next to it: the colors are red, black, pink and pale blue. 
-
-The holes are intended to be used (wisely!) in conjunction with the liquids obtained from the stone visages (see below). Pouring any of the liquids into the appropriately-colored hole causes a seam to appear around the top of the sarcophagus; the lid can then be removed with an open doors check. Yet some combinations have additional magical effects.
-
-The safest solution is to obtain the pale blue liquid (of serenity or peacefulness, that is, the quality associated with Vipsania’s nickname) and pour it into the pale blue hole. Pouring 
-the red liquid into the red hole, however, causes the liquid to spontaneously combust; all the contents of the sarcophagus are destroyed. Pouring the black liquid into the black hole generates an oily, thick poison gas; this gas emerges from all four holes in the sarcophagus and fills the chamber within 3 rounds. All present must save or die. The gas dissipates after an hour. Pouring the pink liquid into the pink hole, moreover, inflicts a powerful curse of 
-greed on all those within 15’; the curse acts such that each victim will intensely covet the next item of value that he/she glimpses. The greed and obsession for this item will be so great that the victim will not allow it to be possessed by another, nor will he/she allow it to be sold. If a liquid is poured into the inappropriate hole (black into blue, for instance), no effect is produced, but the seam for the lid also does not appear. For the contents of the sarcophagus, see treasure listing below.
+Opening the Sarcophagus
+* Pouring any liquid into the matching-colored hole causes a seam to appear around the top of the sarcophagus (open doors).
+	* Mismatching the liquid and hole color causes no effect.
+* Some combinations have additional magical effects.
+	* Red liquid / red hole: the liquid to spontaneously combusts, destroying the contents of the sarcophagus. 
+	* Black liquid / black hole: an oily, thick poison gas emerges from all four holes and fills the chamber in 3 rounds (save or die). It dissipates after an hour.
+	* Pink liquid/ pink hole: inflicts a powerful curse of greed on all within 15’.  Victims will intensely covet the next item of value that they glimpse so intensely they will not allow it to be possessed by another, nor sold.
 
 Stone Visages
-Each of the 5’-tall images shows the same human woman with long hair and an elaborate torc. The mouths of all four are open. The four faces differ, however, with regard to the emotion displayed upon them.
-
-East Face: Vipsania’s mouth is twisted open in a sneer, her eyes are narrowed, and her nostrils are flared. This face represents anger or wrath. If the golden rod from SL6-93 that is marked ‘wrath’ is placed in the angry mouth, a flask filled with red liquid will appear in the stone urn beneath it. If the wrong rod is inserted into the mouth, that rod will be utterly consumed.
-
-South Face: The eyes are open wide, and the mouth is formed in a perfect ‘o’. Here Vipsania depicts sorrow. Should the golden rod inscribed with ‘sorrow’ (from SL6-93) be placed in the mouth, a flask of black liquid appears in the urn beneath the face. If the wrong rod is inserted into the mouth, that rod will be utterly consumed.
-
-West Face: The face’s lips are puckered as if to give a kiss, and the eyes are creased welcomingly with laugh lines. The face depicts ‘love’. If the golden rod marked ‘love’ (from SL6-93) is placed in the mouth, a flask filled with pink liquid appears in the urn beneath 
-the head. If the wrong rod is inserted into the mouth, that rod will be utterly consumed.
-
-North Face: Vipsania’s lips are just barely open, and her mouth offers a hint of a smile. Her eyes are half-lidded. This face is meant to depict ‘peace’ or serenity. If the appropriate golden rod from SL6-93 is placed between the lips, a flask with pale blue liquid appears in the urn beneath the face. If the wrong rod is inserted into the mouth, that rod will be utterly consumed.
-
-Treasure: 
-Liquids: the red liquid can serve as a potion of fire breath; the black potion is a poison potion; the pink potion is a philter of love; and the blue liquid is a philter of persuasion.
-
-Sarcophagus: in addition to the bones of Vipsania Pacifica, the tomb contains two bolts of beautiful silk from the imperial workshops (250 gp each); an alabaster jar with 111 ancient 
-octagonal platinum pieces (see Arden Vul items); a vellum codex bound in red leather entitled the Secreta Secretorum (see Arden Vul books); a rod of rulership (16 charges); a 
-tome of understanding; and a gold-and-ruby necklace in a sunburst pattern (5,800 gp).
+* If the correctly labeled golden rod from SL6-93 is placed in a visage's mouth, a flask of liquid appears in the stone urn beneath it.  If the wrong rod is used, it is utterly consumed.
+* East Face (anger / wrath): twisted open in a sneer, eyes narrowed, and nostrils flared.
+	* Flask of red liquid (potion of fire breath).
+* South Face (sorrow)): eyes open wide, mouth forming a perfect ‘o’.
+	* Flask of black liquid (poison).
+* West Face (love): lips puckered as if to give a kiss, eyes creased welcomingly with laugh lines.
+	* Flask of pink liquid (philter of love).
+* North Face (peace / serenity): lips just barely open, mouth offering a hint of a smile, eyes half-lidded.
+	* Flask of pale blue liquid (philter of persuasion).
 
 ### SL6-95: Alleged Tomb of Jacinth the Rose (Dry)
 
-The stairs from SL6-91 ensure that this area is dry. Its air is also good, a fact which may cause the clever to realize there is another exit to the chamber. In fact this entire chamber was devised as a clever trick and trap, designed to deter those seeking the more profitable tombs hidden in SL6-96.
+* The stairs from SL6-91 ensure that this area is dry.
+	* The air is also good, indicating there is another exit to the chamber.
+* This entire chamber is a clever trap to deter seekers of the more profitable tombs hidden in SL6-96.
+* The chamber is 12’ tall, brightly lit by continual light.
+	* It is decorated with vibrant, colorful frescoes, badly damaged by moisture and mold, mostly of floral scenes with a maiden cavorting through them.
+		* She is is tall, with black hair, laughing eyes, and pretty teeth.
+	* In the center of the chamber is a sarcophagus of pink marble.
+		* "Jacinth the Rose" is carved on the east side, and all sides are carved elaborately with flowers (roses, daisies, marigolds, and hyacinths).
+		* On its lid is a marble effigy of a shapely woman in a tunic with an elaborate belt, a brooch, and a flower wreath in her hair.
+			* The lid is heavy (open doors). Opening it releases a puff of poisonous dust envelopes all within 10’. (save or die in 1d4 days, after much choking, coughing, and spitting of blood).
+		* Inside is a mummified body (not that of Jacinth the Rose).  357 ancient silver pennies are scattered within.
+			* The mummy wears a girdle of femininity/masculinity and an amulet of inescapable location.  Each is enchanted so if removed with Remove Curse, it instantly teleports back to this tomb, to be found again.
+	* Secret Door (south): pressing the largest carved rose on the sarcophagus opens it.
 
-The chamber is 12’ tall, brightly lit by a continual light spell, and decorated with vibrant, colorful frescoes. The frescoes are badly damaged by moisture and mold, but show mostly floral scenes with a maiden cavorting through them. The maiden is tall, with black hair, laughing eyes, and pretty teeth. In the center of the 
-
-chamber is a sarcophagus of pink marble. On its lid is a marble effigy of a shapely woman clad in a tunic with an elaborate belt, a brooch, and a flower wreath in her hair. A name is carved on the east side of the sarcophagus: Jacinth the Rose. Aside from her name, the sides of the sarcophagus are carved elaborately with high-relief flowers, including roses, daisies, marigolds, and hyacinths. 
-
-The lid (with effigy) is heavy, and can only be opened via a successful open doors check. If the lid is opened, a puff of poisonous dust envelopes all within 10’ (see below for effects). Inside is a mummified body (not that of Jacinth the Rose) that wears a belt of femininity/masculinity and an amulet of inescapable location. A curse has also been placed on these two items: if either is either successfully removed via remove curse, the cursed item instantly teleports back to this tomb, allowing it to be found by a subsequent tomb-robber.
-
-GM Note: Jacinth the Rose was once a well-known figure in Archontean folklore, although her stories are largely forgotten today. She was a notorious trickster, with a malicious bent (unlike that of Larel One-Eye – see World of Archontos appendix). It is unlikely that most PCs will have heard of Jacinth the Rose, although the GM might deem that a bard or other scholarly PC could succeed at a roll under INT (5d6 for bards, 6d6 for others) in order to have heard of her devious reputation for not being what she seemed. Of course, should PCs have located and read a copy of the Song of Jacinth the Rose (see Arden Vul books) they will have a much better chance of recognizing that this name spells trouble. Her corpse does not rest here at all. Indeed, according to the Song, it is to be found in the forests north of Archontos.
-
-Trap (poisonous dust): This poisonous dust is released in a 10’-diameter cloud when the lid of Jacinth the Rose’s sarcophagus is opened. It is slow-acting, and causes death in 1-4 days after much choking, coughing, and spitting of blood. Those making a save versus poison avoid breathing it in and are immune.
-
-Secret Door (south): This door is normal to locate. Only by locating the largest carved rose on the sarcophagus and pressing its center will the door open.
-
-Treasure:
-A belt of femininity/masculinity; a brooch of inescapable location; and 357 ancient silver pennies (see Arden Vul items) scattered inside the tomb.
+* GM Note: Jacinth the Rose was once a well-known figure in Archontean folklore, though her stories are largely forgotten today.
+	* She was a notorious trickster, with a malicious bent (unlike Larel One-Eye).
+	* 6d6 under INT to have heard of her (5d6 for bards), including her devious reputation.
+	* Her corpse does not rest here at all. According to the Song of Jacinth the Rose, it is to be found in the forests north of Archontos.
 
 ### SL6-96: Multiple Tomb Chamber (Dry)
 
-This large hall is the resting place of the famous alchemist (and infamous libertine), Plotina. The chamber is 15’ tall, with unpainted walls. Six simple stone sarcophagi hold the remains of Plotina’s favorite concubines. Her own resting place is a huge stone table at the south end of the room; there she lies as a mummy, surrounded by many potion bottles. A stone chest sits under the table.Sarcophagi: Each of these identical sarcophagi is 8’x3’x3’ in size, with the face of a young woman and a name inscribed on the lid. When Plotina arises from her table, the ghasts that occupy each tomb push off their sarcophagus lids and rush to defend their 
-mistress. The names of the concubines are: Levia, Domitilla, Helena, Reseda, Vincia, and Irene. Each sarcophagus contains a piece of jewelry.
-
-Table and Mummy: Plotina the mummy lies on the stone table, surrounded by samples of her alchemical genius. As soon as the chamber is entered, she rises from the table, whispers (in Mithric) ‘More lovers for me!’ and begins to hurl potions at the intruders; her former concubines – now ghasts – swiftly join the fray. The following potions and concoctions are available for Plotina to hurl or use; due to her instability, roll randomly to determine which potions she employs in a given round: greek fire x6 (see new magic items), molasses x3 (see new magic items), hostile levitation x2 (see new magic items), fire resistance x2 (see new 
-magic items), frost cage x3 (see new magic items), singing birds x3 (see new magic items). Also on the table are 4 potions of extra healing, a potion of invisibility, a potion of superheroism, and a potion of levitation.
-
-Secret Door (north): The door is easy to locate (1 in 4) and opens by pulling it inward by brute force (open doors check).Secret Door (east): This door is normal to locate, and rotates on a horizontal pin. It opens by pushing the lower part of the door, allowing one to crawl into the tunnel to SL6-89.
-
-Trapped Secret Door (west): This door is normal to locate. It appears to have a lock, but this is a red herring. The lock has a poison needle designed to stab any who try to pick it (save or die). The door actually opens by standing on a 6” square of pavement and then pushing inward.
+* This large, 15'-tall hall, the resting place of the famous alchemist (and infamous libertine), Plotina, has unpainted walls.
+	* 6 simple stone sarcophagi (8’x3’x3’) carved with the face of a young woman and a name inscribed on the lid, hold the remains of Plotina’s favorite concubines
+		* Names: Levia, Domitilla, Helena, Reseda, Vincia, and Irene.
+		* When Plotina arises from her table, the ghasts in each tomb push off their lids and rush to defend their mistress.
+		* Each ghast wears a piece of jewelry: a silver-and-amber choker (1,750 gp), a gold comb (600 gp), a silver-and-gold chalice (800 gp), a silver arm ring (400 gp), a silver-and-onyx pendant (750 gp), a gold-and-opal necklace (3,500 gp)
+	* On a huge stone table at the south end of the room Plotina lies as a mummy, surrounded by many potion bottles (samples of her alchemical genius).
+		* When the chamber is entered, she rises, whispers (Mithric) ‘More lovers for me!’ and begins to hurl potions at the intruders; her former concubines – now ghasts – swiftly join the fray.
+			* Throwing/using potions (random each turn): greek fire x6 (new), molasses x3 (new), hostile levitation x2 (new), fire resistance x2 (new), frost cage x3 (new), singing birds x3 (new).
+			* Also on the table are 4 potions of extra healing, a potion of invisibility, a potion of superheroism, and a potion of levitation.
+		* A stone chest sits under the table.
+			* Plotina’s recipe book (formulae for the six special potions listed above); two glass carboys filled with potions of healing (10 potions per carboy); 2 philters of persuasiveness; and 6 packets of incense of attraction (new).
+* Secret Door (north): easy to locate (1 in 4), pulls inward by brute force (open doors).
+* Secret Door (east): rotates on a horizontal pin, opens by pushing the lower part, allowing one to crawl into the tunnel to SL6-89.
+* Trapped Secret Door (west): appears to have a lock, but it's just a poison needle delivery system if picked(save or die). Actually opens by standing on a 6” square of pavement and pushing inward.
 
 Plotina the mummy: SZ M; AL LE; AC 3; MV 60’; HD 6+3; HP 48; #AT 1; Dmg 1-12. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, and paralysis. She is turned as a vampire so long as at least one of her ghasts are alive. She can hurl two potions per round.
 
 6 ghasts: SZ M; AL CE; AC 4; MV 150’; HD 4; HP 30, 28, 27, 26, 25, 22; #AT 3; Dmg 1-4/1-4/1-8. Special attacks: stench; paralysis. Special defenses: immune to sleep and charm.
-
-Treasure:
-Sarcophagi: one piece of jewelry per tomb: a silver-and-amber choker (1,750 gp), a gold comb (600 gp), a silver-and-gold chalice (800 gp), a silver arm ring (400 gp), a silver-and-onyx pendant (750 gp), and a gold-and-opal necklace (3,500 gp)
-
-Chest: Plotina’s recipe book, with formulae for the six special potions listed above; two glass carboys filled with potions of healing (10 potions per carboy); 2 philters of persuasiveness; and 6 packets of incense of attraction (see new magic items).
 
 ### SL6-97: Pair of Looted Tombs (Submerged)
 
@@ -1958,18 +1984,17 @@ Chest: Plotina’s recipe book, with formulae for the six special potions listed
 
 ### SL6-98: Tomb of Psallion the Logothete (Dry)
 
-The once-important logothete, Psallion the Red, built this tomb for himself during the waning days of the Archontean tomb-building period (during the archonate of Borsella Iron-Fist). Psallion had area SL6-97 constructed as a red-herring, and stocked it with the sarcophagi of two minor archons of the previous century. The narrow stairs and corridor from SL6-97 are 8’ tall and undecorated.
-
-Trap (falling block): The corridor leading to Psallion’s tomb (SL6-98) has a falling block trap. If tripped a 5’ cube of granite drops from the ceiling, inflicting 8-48 HP damage on the intruder; successfully rolling 3d6 under DEX indicates half damage. If triggered, the trap 
-completely blocks access to the tomb; those wishing to enter it will need picks, mauls, and other equipment.
-
-Psallion’s Tomb: Psallion’s tomb is compact, but richly decorated. The west wall includes a beautiful mosaic showing a detailed image of an old-style logothete’s office. The logothete (Psallion), dressed in cerulean tunic, sits on a dais to the right of the scene, while lesser officials (chartoularii) count coins using abacuses and petitioners gesture pitifully at the logothete. On the east wall is a standard depiction of a (female) archon; the archon wears her toga and cradles fasces and a baculus. The only nod to a specific archon is the fact that her face is grimly set and she’s shaking a fist over her shoulder (Borsella Iron-Fist).
-
-The sarcophagus is a beautiful marble affair carved elaborately with images of chartoularii and logothetes. The lid is sealed and requires an open doors check to remove. Inside is a second, wooden, sarcophagus with gilt and lapis decoration showing a pudgy man of late middle years, with shoulder-length hair and a pug nose. Inside is Psallion’s mummified body, along with much treasure.
-
-Secret Door (north): The door leading to SL6-97 is easy to find (1 in 4) and opens from this side by pressing an easily-discovered square panel on the riser of the first stair leading south.
-
-Secret Door (South): The door leading to SL6-96 is easy to locate from this side (1 in 4). It opens by locating and pulling a wire that is concealed in the seam between wall and ceiling.
-
-Treasure: 
-The mummy wears a brooch of shielding (with 45 points of damage reduction remaining), a circlet of persuasion, and a set of exquisite jade bracelets, arm bands, and torc (the set is worth 12,500 gp). Scattered around the mummy are 3,333 ancient silver pennies (see Arden Vul items), a scroll of protection from petrification and a scroll of stone to flesh.
+* The once-important logothete, Psallion the Red, built this tomb during the waning days of the Archontean tomb-building period (during the archonate of Borsella Iron-Fist).
+	* Psallion had SL6-97 constructed as a red-herring, and stocked it with the sarcophagi of two minor archons of the previous century.
+* The narrow stairs and corridor from SL6-97 are 8’ tall and undecorated.
+	* The corridor has a falling block trap (5' cube falls, 8d8, 3d6 under DEX for half; completely blocks access to the tomb).
+* Psallion’s tomb is compact, but richly decorated.
+	* West wall mosaic: a detailed image of an old-style logothete’s office.
+		* The logothete (Psallion), in a cerulean tunic, sits on a dais to the right of the scene. Lesser officials (chartoularii) count coins using abacuses, and petitioners gesture pitifully at the logothete.
+	* East wall mosaic: a standard depiction of a female archon.
+		* She sits with her toga, fasces and a baculus.  The only nod to a specific archon is that her face is grimly set and she’s shaking a fist over her shoulder (Borsella Iron-Fist).
+	* The sarcophagus (sealed, open doors) is a beautiful marble affair, carved elaborately with images of chartoularii and logothetes.
+		* Inside: a second, wooden, sarcophagus with gilt and lapis decoration showing a pudgy man of late middle years, with shoulder-length hair and a pug nose.
+			* Inside: Psallion’s mummified body.  It wears a brooch of shielding (45 points of damage reduction remaining), a circlet of persuasion, a set of exquisite jade bracelets, arm bands, and torc (12,500 gp).  Scattered around the mummy are 3,333 ancient silver pennies, a scroll of protection from petrification and a scroll of stone to flesh.
+	* Secret Door (north, to SL6-97): easy to find (1 in 4), pressing a square panel on the riser of the first stair leading south opens it.
+	* Secret Door (south, to SL6-96): easy to locate from this side (1 in 4), pulling a wire concealed in the seam between wall and ceiling opens it.

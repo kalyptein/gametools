@@ -419,39 +419,12 @@ Setite options
 * 
 * Next time the Sandstorm Gate opens (or the time after), the Setites will send in a party of skilled adventurers/assassins to try to reclaim the Forum and kill the PCs.  If they're defeated, that'll end their efforts
 
-
-## Future
-
-Priddy moves to the arcanum geode near the Thoth Temple on Level 3
-* How does this end up going for them?
-
-Astrid threw Khalid's body off the ledge into the chasm.
-* Where does he land?  Somewhere on level 9?
-
-Gog confides in Astrid about his exile from the court.
-
-Forum "refugees"
-* birgir and asbjorn do excellently (inn of the lost?  troll market?)
-* skellan skindros does excellently (inn of the lost?  troll market?)
-* Gislu will also relocate to the inn of the lost
-* 
-* the various vendors might seek to grow a new market between the inn and the arena, but they'll need a powerful patron.
-* the goblins want to make their halls the new upper market
-	* Weskenim might pitch the party on it, and/or it may exacerbate his need for the "sceptre of the goblin king".  the Sun-Scarred Knights might encourage the Savage Heart to help?
-
-Assassination attempt on Alexia by Setites and Lord Iskander
-
-The Falcon Five have asked Astrid to rescue their companion from the Setites
-
 Craastinorex has be slain!
 * It's the Inn of the Severed-Head now
 
 Uriel Basileon's body and archon's regalia was returned to Alexia
 * Iskander grows desperate as her star rises, and the Setite assassins will soon strike
 
-
-
-### ==--- PRESENT DAY ---==
 
 The Sandstorm Gate opens and the Setites send in a party of skilled adventurers/assassins to try to reclaim the Forum and kill the PCs.  If they're defeated, that'll end their efforts
 
@@ -509,19 +482,112 @@ Notes
 	* may come at Aelia when she's in public as a priest, in her cathedral?
 	* maybe arrange some discovery / informant for Astrid to question who then explodes or releases a demon or something?
 
+Astrid gifted Hama and Company with a complete set of thothian teleporter activation squares and a list of all their well-explored addresses.
+* H&C had very poor luck getting them previously, so this was a great boon to them.
+
+
+TBD
+* clear the level 3 Temple of Set
+	* The Falcon Five have asked Astrid to rescue their companion from the Setites
+	* What of the Anchoress, prisoner for many years?
+* interact with the kaliyani near the Setites on level 4
+
+
+With both Alexia and Iskander dead...
+* the knights are in charge...or are they? (see below)
+* the "folk of the wood" drift off, settites and bandits.  there is more peace on the roads without the slavers and saboteurs.
+* imperial drome, officials, and Basileon investigators will be arriving with questions
+	* eventually a new lord will be appointed by the Exarch.  Will it be another Basileon, someone of another house?
+	* who will step forward to pursue the Basileon high table?  will the want anything to do with Arden Vul?
+* savage heart money is needed to keep Gosterwick running as it is, or serious taxes must be raised
+
+Alexandros (Set library prisoner) knows and may offer historical info about Arden Vul for considerations:
+* Fragments of information suggesting the existence of a hidden Sortian (now, ‘Priscian’) complex under Arden Vul (i.e., 9-58 to 9-64).
+	* Some had visited the Forum in disguise.  The ophidian allies identified them, and mentioned their presence in the depths, in what Alexandros thinks he has identified as an ancient Sortian outpost, at or near the base of the Chasm.  Settite contacts back in Archontos were able to dig things up on the Priscians (name Nerub Null and explain their doctrine).
+* Settite alliance with "the ophidians", known only to Stephania, Belisarius, and himself.
+	* They tunneled into Stephania's quarters.  She saw their serpentine nature as a good omen from Set, and they struck a pact.  Belisarius didn't trust them.  Alexandros was read in to do research in the library for any details on them (apart from frescos and murals here and there in ancient times, and a brief mention by an Old One that they had been here in ages past, there's no sign of them in the history he could access).
+	* They made a secret chamber to serve as an embassy to the Forum.
+	* From what he understands, they mostly they traded information with Stephania, news from the upper levels for news from the lower levels.  Alexandros was not privy to their talks, but occasionally got questions from Stephania to research, presumably based on things they had said.
+* Setite search for the Archon's regalia to give to Iskander
+	* Divinations of Set led to the Bone Ring of Jagri-Naz, in the hands of one of the Old Ones, called Saloricus.  He was not interested in trading / selling, so they dispatched thieves sent to get it (who did not return).  He's on Level 5, directions to reach him can be had, north of the chasm, near the troll lift.  The know he's some kind of powerful sorcerer.
+	* Among the ancient records of Set, the priests describe trying to get their hands on the Tablet of the Beacon (Thoth and Horus priests too), but the archons held out, keeping it in "Marius Tricotor's old forward post in the depths".  When they tried to scry it out, the were blinded by a vision of Sekhmet in her glorious rage.
+	* They know nothing of the ebon spear's location.
+
+Alexia is back!
+* Astrid pays the 3 years of life to restore her with the rod of resurrection
+* she largely handles all the political repercussions and finances of Gosterwick
+* she is immensely grateful to Astrid and heeds her in all things
+
+
+### ==--- PRESENT DAY ---==
+
+The Kaliyani may move to make a forward post in the Forum of Set
+* Taking over the secret areas?  Sealing off more of the priestly quarter.
+* They try to keep their presence secret.
+
+
+* Deck of Many Things / Magi
+	* Astrid: gem (50 gems x 1000 gp)
+		* When she smashes the Set-Sobek croc idol, it shatters into a bunch of aquamarines.
+	* Aelia: skull (fight death)
+		* He's mad she tampered with death after saying she wouldn't.
+	* Delila: sun (50k xp + misc magic item)
+	* Tresti: shaman (permanently lose a 2nd level spell slot)
+		* It's now occupied by a spirit of Thievery that came back from the card-induced vision-quest; she can understand Thieves' Cant.
+
+
+* process the books from the Setite library
+
+* spymaster's letter and the invisible rudishva chest
+	* This is Constantius, who drank hemlock and died as the city fell into chaos. 
+	* His last testament lies before him.
+		* It is strangely personal and emotional, with numerous underlined words and strangely capitalized letters (as if it were a 19th-century romantic novel).
+		* The writing is breathless, a lament over the decline and fall of Arden Vul, the futility of his life, and his regrets at tasks left unaccomplished.
+		* It contains nothing useful because it is, in fact, a simple code: the underlining indicates a space in the message (i.e., it should not be read), while the capitalized letters, if removed and unscrambled, reveal a message.
+			* 4d8 under INT to detect the secret (secret tongue of the priests of Set): “To my successor: Seek the documents in the room opposite. They are revealed by invoking the Black Boar. Speak Thrice Five.“
+	* The grey plasteel chest, a rudishva relic, has a clear panel on its front.
+		* It opens by speaking the number 5 three times in a row (‘thrice five’) in Mithric or Rudishva.
+		* 12x 10-lb bars of pure platinum (2,500 gp each) and extremely sensitive documents involving the imperial family.
+			* Although over one thousand years old, they still possess volatile political value (at the GM’s wish: they might reveal that the imperial family is descended from bastards, or that they worship demons, or something like that).
+				* reveals the nature of the Pact of Ennius, the raising for shapeshifting dragon children and positioning them in the high noble households as spies / assassins / saboteurs.
+				* a pretty big betrayal of the imperial family to its vassals.  would be a big scandal even now.  lists a number of names, including Yasdoranicil / Isadora.
+
+
+Childmonger buys a girl from a single mother (hubby died), the gold will let her other children get apprenticeships.  She's a Savage Heart tenant.  When she tries to change some of the money, angry neighbors take her to court before Sir Ironblood (did she kill the child in some witches' rite to buy a demon's aid?  sell it into slavery?  where did this gold come from?)
+* Astrid's chamberlain comes to her with this unusual case bought to the court.
+* the child will be raised among the Sun-Scarred Knights
+* she was paid in ancient gold solidi
+* She remembers a tall man in black.  He said her child would be raised well, in service to a good cause, and that with this gold she could ensure her other children a prosperous future.
+
+
+
+
 
 
 Who heard Astrid's address from the bridge?
 
-
-
 The Broom is seeking the sceptre of the goblins so the heqeti can enslave the goblins, as well as looking for info about the Priscians and ways to weaken the Varumani and Sun-Scarred Knights
 
 
-Childmonger buys a girl from a single mother (hubby died), the gold will let her other children get apprenticeships, she's a Savage Heart tenant, angry relative takes mother to court before Sir Ulfsdottr
-* the child will be raised among the Sun-Scarred Knights
+## Future
 
-An evil party or two is looking for Archon's panoply for Iskander / Setites, has some clues
+
+Priddy moves to the arcanum geode near the Thoth Temple on Level 3
+* How does this end up going for them?
+
+Astrid threw Khalid's body off the ledge into the chasm.
+* Where does he land?  Somewhere on level 9?
+
+Gog confides in Astrid about his exile from the court.
+
+Forum "refugees"
+* birgir and asbjorn do excellently (inn of the lost?  troll market?)
+* skellan skindros does excellently (inn of the lost?  troll market?)
+* Gislu will also relocate to the inn of the lost
+* 
+* the various vendors might seek to grow a new market between the inn and the arena, but they'll need a powerful patron.
+* the goblins want to make their halls the new upper market
+	* Weskenim might pitch the party on it, and/or it may exacerbate his need for the "sceptre of the goblin king".  the Sun-Scarred Knights might encourage the Savage Heart to help?
 
 
 

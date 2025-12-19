@@ -1865,6 +1865,8 @@ Sergeant Heraclion, the Set sergeant (see new monsters), as a 5th-level Archonte
 
 Belisarius the Overseer, 7th-level male Archontean fighter: SZ M; AL LE; AC 2; MV 120’; HD 7; HP 70; #AT 3/2; Dmg 3-8 (javelin +2) or 4-11 (long sword +2). Abilities: STR 17, INT 13, WIS 16, DEX 11, CON 16, CHA 15. Possessions: chain mail +3; returning javelin +2 (see new magic items), long sword +2; potion of extra healing (x2); potion of fly; and a key-ring with keys to SL8-1 and 4-106. 
 
+X / 70
+
 2 aides-de-camp, 3rd-level female Archontean fighters: SZ M; AL NE; AC 5; MV 120’; HD 3; HP 25, 22; #AT 1; Dmg 1-8 (mace), 1-6 (spear) or 1-4 (light crossbow). Possessions: Set armor (see Arden Vul items); spear; mace, and light crossbow.
 
 ### 4-48: 2nd Mystery of Set: Sandstorms and Scorpions
@@ -1916,6 +1918,8 @@ Belisarius (25% chance, he loves this mystery); see 4-47.
 * Possessions: Set armor +1 (see Arden Vul items); deacon’s was stick (see new magic items); footman’s mace +1; an amulet of protection against normal missiles (see new magic items); a potion of extra healing; a potion of glibness; a scroll of holy name (see new spells); and a gold holy symbol of Set (150 gp).
 * Spells prayed for: command, cure light wounds (x2), cause fear, protection from good; chant, hold person, holy name (see new spells), know alignment, silence 15’ radius; animate dead, dispel magic, cause blindness; cause serious wounds.
 
+35 / 40
+0 / 40
 ### 4-50: Dormitory of the Acolytes
 
 * A chaotic room crammed with ten triple bunk beds for the acolytes of the cult.
@@ -1941,7 +1945,7 @@ Belisarius (25% chance, he loves this mystery); see 4-47.
 			* Note: Armor, mace, and rod of wind control present only if Stephania is here, else they are on her person.
 	* The southern third of the room is set off by a pair of painted wooden screens, behind which is her living area.
 		* A sumptuous feather bed, an armoire filled with robes, a set of sealed jars of water (she fears poison), a dressing table with makeup (15 gp), a stuffed leather chair, a beautiful red and gold carpet (100 gp), and a solid brass bust of a horned entity resting on a slender side table.
-			* Bbrass devil’s head: an infernal effigy (new), keyed to a styx devil named Trasbellix. It's name is on a slip of parchment pinned to the rug's bottom.
+			* Brass devil’s head: an infernal effigy (new), keyed to a styx devil named Trasbellix. It's name is on a slip of parchment pinned to the rug's bottom.
 			* Armoire (secret compartment): 10 perfect pearls (100 gp each), written testimony about Belisarius’s machinations, and substantial dirt on the Guild of Service.
 				* Testimony from Yellup (a now dead source) describing the hatred of Belisarius (4-47) towards Stephania and the overseer’s secret efforts to persuade Lacedaion (4-57) to undermine Stephania’s rule.
 				* A report (unnamed source) describing the daily activities of Gunnar, chief of the Guild of Service (4-10) over the past month.
@@ -1988,6 +1992,7 @@ Stephania (33%), Set pontifex (see new monsters), as a 10th-level female Archont
 	* commune, flame strike.
 		* In certain circumstances, she may have prayed for quest and raise dead in her 5th-level slots.
 
+X / 66
 ##### 4-51a: Shrine to the Snake
 
 * A long set of narrow stairs from the high priestess’s room leads to this unusual fane.
@@ -2034,6 +2039,8 @@ and 2-7/2-7 (javelins). Special defenses: immune to poison and mind-affecting sp
 	* A set of enchanted imperial field plate +1 (av items)
 	* An oathbow (new)
 	* A small locked and trapped (poison gas) iron box containing a complete deck of many things and a complete deck of the magi (new).
+	* 
+	* Iron Crown of Ghanor (in box)
 
 ### 4-53: Square of the High Priest
 
@@ -2134,6 +2141,7 @@ Marius Junienos (50%), Set pontifex (see new monsters), as a 9th-level male Arch
 * Memorized spells: comprehend languages, charm person, magic missile, shield; continual light, detect good, mirror image, ESP; dispel magic, fly, suggestion; fear, polymorph other; feeblemind. 
 
 Marius’s Spell Book: All 1st-level spells; audible glamer, continual light, detect good, darkness 15’ radius, detect invisibility, ESP, forget, Frigg’s elephant ears (see new spells), Frigg’s jelly legs (see new spells), invisibility, knock, levitate, locate object, magic mouth, mirror image, ray of enfeeblement, rope trick, stinking cloud, strength, web; blink, clairaudience, clairvoyance, dispel magic, fireball, fly, garrulous mouth (see new spells), gust of wind, haste, hold person, invisibility 10’ radius, lightning bolt, monster summoning I, Pelagion’s rock sympathy (see new spells), phantasmal force, slow, suggestion, water breathing; confusion, extension I, fear, ice storm, massmorph, minor globe of invulnerability, polymorph other, remove curse, wall of fire; conjure elemental, contact other plane, feeblemind, mage’s faithful hound, teleport.
+23 / 29
 
 ### 4-57: Third Priest’s Chamber
 

@@ -39,6 +39,7 @@ Archontean
 * Lyncion - secrets, magic, hidden knowledge
 * Niketoreon - judgement, afterlife, redemption
 * Heschius Ban - water, inevitability, triumph
+* Nitheral & Diktynna, the Twin Saints - forests, nature, hidden paths, the hunt, the chase
 
 Ramaali (recognized by both the Church and Caliphate)
 * Atashak - fire, battle, horses, archery
@@ -57,6 +58,7 @@ Thorcin
 * Ghureena - growth, productivity, order
 * Thefila - marriage, fidelity, family
 * Thrufor - travel, trade, the disabled (clubfooted)
+* Dapp - mountains, forests, growth, fertility, animals
 
 Goblin
 * Jeska - luck, escaping slaves, trickery, crafting
@@ -76,12 +78,12 @@ Trollkin?
 
 
 
-* Nitheral - forests, nature, hidden paths, the hunt
+
+
 
 * Heschius Ban - water, inevitability, triumph
 * Tychias - luck, fate, wealth
 * Arayania - woodlands, nature
-* Diktynna - hunting, the chase
 
 * Deballaton - death, might, sacrifice
 * Lucreon - wealth, trade
@@ -98,7 +100,6 @@ Trollkin?
 * Griffo - revelry, wealth
 * Hamson - fields, harvest, fertility
 * 
-* Dapp - mountains, forests, growth, fertility, animals
 
 
 Ancient Archontos, Egyptian gods, The Twelve

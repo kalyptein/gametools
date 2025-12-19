@@ -2451,7 +2451,7 @@ Inhabitants of the Cells
 	* Gagged and unable to pray for spells. She was taken by beastmen outside Arden Vul and sold to the Cult of Set. She has been tortured and is in bad physical shape, although her spirits are still strong. If released, she requests assistance in returning to Newmarket, where a reward of 5,000 gp is waiting.
 * B
 	* Gribble, a goblin captain (as gnoll): SZ S; AC 4; MV 60’; HD 2; HP; 12; #AT 1; Dmg 2-8, but weaponless at the moment.
-	* A brother of King Weskenim (SL4-22), Gribble was taken in ambush on Level 5. He has not been tortured much, as the Set cultists are hoping to trade him back to the goblins for territory and/or information. 
+	* A brother of King Weskenim (SL4-22), Gribble was taken in ambush on Level 5. He has not been tortured much, as the Set cultists are hoping to trade him back to the goblins for territory and/or information.
 * C
 	* Empty
 * D
