@@ -244,8 +244,17 @@ Bedara, a true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; H
 
 ### 10-11: Abattoir
 
-Although a dais and the stump of a statue are visible by the north wall, the heqeti have repurposed this area for food storage and preparation. A score of carcasses hang from hooks in the ceiling; they are in various state of draining and/or curing. Two are still 
-alive, moreover. A stone table rests against the southeastern wall; a half-dozen sharp copper blades rest on its blood-soaked surface.  Feqarrip, an heqeti weaver responsible for the care and feeding of the efts, lurks among the hanging corpses. She is quick to join combat in area 10-10.
+* A dais and the stump of a statue are visible by the north wall.
+	* The heqeti have repurposed this area for food storage and preparation.
+	* A score of carcasses hang from hooks in the ceiling, in various state of draining and/or curing.
+		* Two are still alive: Erenbald and Mox.
+	* A stone table rests against the southeastern wall; a half-dozen sharp copper blades rest on its blood-soaked surface.
+* Feqarrip, an heqeti weaver responsible for the care and feeding of the efts, lurks among the hanging corpses.
+	* She is quick to join combat in area 10-10.
+
+GM Note
+* Erenbald and two companions were exploring level 7 with Mox as a guide; they discovered 7-84 but were overwhelmed by the heqeti nearby.
+* Their companions were sacrificed in the temple at 7-79, but Erenbald and Mox were delivered to level 10 for interrogation and eventually designated as food for the efts. 
 
 Feqarrip, a heqeti weaver (see new monsters), as a 7th/7th-level magic user/cleric of Kauket: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 7; HP 35; #AT 1; Dmg 5-9 (hammer +2). 
 Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); hammer +2; potion of gaseous form. Memorized spells: enlarge, jump, magic missile, shield; continual 
@@ -256,8 +265,6 @@ Mox, a lesser varumani (see new monsters), gagged and hanging trussed from a hoo
 Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision.
 
 Erenbald, 6th-level male Thorcin ranger, hanging trussed from a hook (and missing three fingers and five toes): SZ M; AL CG; AC 10; MV 120’; HD 6; HP 4 (max 58); #AT 1; Dmg by weapon. Abilities: STR 16, INT 13, WIS 14, DEX 10, CON 17, CHA 11. Erenbald has no equipment. 
-
-GM Note: Erenbald and two companions were exploring level 7 with Mox as a guide; the group discovered area 7-84 but were overwhelmed by the heqeti nearby. Although his companions were sacrificed in the temple at 7-79, Erenbald and Mox were delivered to level 10 for interrogation and eventually were designated as food for the efts. 
 
 ### 10-12: Magic Nexus
 
@@ -298,20 +305,23 @@ Monster Magnet: victim doubles chances for wandering monsters.
 
 ### 10-13: Quarters of Cheksib the Weaver
 
-This spacious hall has been repurposed as the residence of Cheksib the weaver, one of the Great Tongue’s (10-47) chief lieutenants. The hall is 15’ tall, and and the walls are painted inky black, with yellow spots dotting the darkness.
-
-A low, stone-rimmed pool is attached to the north wall of the chamber; it is murky and contains small fish, amphibians, lichen, and water plants. To the south of the pool are two oval lounging devices; they appear as 5’-long, empty peapods sloped such that the head is about 3’ higher than the foot of the lounger. Cheksib and a guest can rest in the pods, while letting their feet dangle in the water of the pool. By the south wall are two stone sleeping 
-benches, a locked stone chest, and two woven baskets containing dried fish and eels (25 lb per basket).
-
-Cheksib is present in his quarters unless the complex has been alerted to the potential arrival of intruders (see Level 10 introduction). If an alert has been raised, Cheksib will be present at area 10-17, attempting to summon a worm of Qok (see new monsters).
-
-Trap (chest): A glyph of warding in the form of energy drain was cast on the chest by the Great Tongue. The glyph drains one level of experience from its victim. 
+* This spacious, 15'-tall hall has been repurposed as the residence of Cheksib the weaver, one of the Great Tongue’s (10-47) chief lieutenants.
+	* The walls are painted inky black, with yellow spots dotting the darkness.
+	* A low, stone pool is attached to the north wall; it is murky and contains small fish, amphibians, lichen, and water plants.
+		* South of the pool are two oval lounging devices (5’-long, empty peapods sloped so the head is 3’ higher than the foot).
+		* Cheksib and a guest can rest in the pods, with their feet dangling in the pool.
+	* By the south wall:
+		* 2 stone sleeping benches.
+		* 2 woven baskets containing dried fish and eels (25 lb per basket).
+		* A locked stone chest
+			* Trapped by the Great Tongue with an energy drain (1 level) glyph of warding.
+			* 9,513 gp (assorted coin types), 3 pure white and 3 particolored tears of Kauket (new), 2 vials of Kauket’s vision (av items), 2 heqeti spore bombs (av items), a pledge of Rimmaq-Isfet (new), and a set of 6 copper, sacrificial knives (1,500 gp; the handles are carved to resemble salamander-monsters with eyes filled with lapis lazuli).
+* Cheksib is here unless the complex is on alert (see Level 10 introduction), in which case Cheksib is in 10-17, attempting to summon a worm of Qok (new).
 
 Cheksib, a heqeti weaver (see new monsters), as a 12th-level cleric of Kauket: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 12; HP 83; #AT 1; Dmg 5-10 (footman’s mace +2). 
-Constant abilities: infravision; WIS 18 for bonus spells. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); copper-headed mace +2; a heqeti ring (see new magic items); and a rod of absorption (25 spell levels). Cleric spells: bless, cause fear, command (x2), create water, cure light wounds, light, resist cold; augury, chant, hold person (x2), resist fire, silence 15’ radius, speak with animals; animate dead, blindness, dispel magic (x2), prayer, speak with dead; cause serious wounds, divination, neutralize poison, protection from good 10’ radius; flame strike, true seeing; aerial servant, heal.
-
-Treasure:
-The chest contains 9,513 gp in assorted types of coins, plus three pure white and three particolored tears of Kauket (see new magic items), two vials of Kauket’s vision (see Arden Vul items), two heqeti spore bombs (see Arden Vul items), a pledge of Rimmaq-Isfet (see new magic items), and a set of six sacrificial knives made of copper (1,500 gp for the set). The handles of the knives are carved to resemble salamander-monsters whose eyes are filled with lapis lazuli.
+Constant abilities: infravision; WIS 18 for bonus spells. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
+* Possessions: amulet of natural armor +2 (see new magic items); copper-headed mace +2; a heqeti ring (see new magic items); and a rod of absorption (25 spell levels).
+* Cleric spells: bless, cause fear, command (x2), create water, cure light wounds, light, resist cold; augury, chant, hold person (x2), resist fire, silence 15’ radius, speak with animals; animate dead, blindness, dispel magic (x2), prayer, speak with dead; cause serious wounds, divination, neutralize poison, protection from good 10’ radius; flame strike, true seeing; aerial servant, heal.
 
 ### 10-14: Broken Obsidian Gates 
 
@@ -321,14 +331,21 @@ The chest contains 9,513 gp in assorted types of coins, plus three pure white an
 
 ### 10-15: The Mephitic Marsh
 
-This enormous cavern is home to the infamous ziggurat of Kauket (see 10-32 to 10-37). It is warm, humid, and dimly lit by green and yellow phosphorescent lichen and algae. The ziggurat and other worked structures rise from a deep, smelly marsh that roils and burps from geothermal forces. The cavern is about 90’ tall, but the bottom 20’ is a soggy mixture of wet humus, nitrogenated water in ponds and rivulets, and decaying biological matter. It smells powerfully of acid, decay, and sulphur.
+* This enormous cavern is home to the infamous ziggurat of Kauket (see 10-32 to 10-37).
+	* It and other structures rise from a deep, smelly marsh that roils and burps from geothermal forces; warm, humid, and dimly lit by green and yellow phosphorescent lichen and algae.
+		* The cavern is 90’ tall, with the bottom 20’ a soggy mixture of wet humus, nitrogenated water in ponds and rivulets, and decaying biological matter.
+			* It smells powerfully of acid, decay, and sulphur.
+		* A variety of plant life grows; dozens of species of mushrooms, lichens, and algae.  Two unusual types of flora dominate:
+			* A fruticose, aquatic version of wolf lichen known to the heqeti as acid drops (flora), slightly dangerous, containing an acid toxic to mammals.
+			* A variety of brown algae known as the glowing friend (flora) whose phosphorescent pneumocyst sacs allow it to float gently in the humid air, providing dim illumination through the marsh.
+		* Scores of species of insects inhabit the swamp:
+			* Finger-nail sized skimmers to fist-sized dragonflies and spiders.
+			* Blind cave fish inhabit the larger ponds.
+			* Acid salamanders (new) prey on the smaller creatures.
+	* The surface of the marsh is and wet and swampy, with multiple pools, rivulets of brown water, and little try land (+1x difficult terrain).
+		* May move at 3/4 speed, but save vs poison each round or take 1d4+1 damage from brushing against the toxic sap of the acid drops.
 
-Flora and Fauna of the Marsh: The marsh has a wide variety of plant life, including dozens of species of mushrooms, lichens, and algae. Two unusual types of flora dominate, however: a fruticose, aquatic version of wolf lichen known to the heqeti as acid drops (see new flora), and a variety of brown algae known as the glowing friend (see new flora). The former is slightly dangerous, for it contains an acid that is toxic to mammals. The pneumocysts of the 
-latter allow it to float gently in the humid air; those sacs are also phosphorescent, providing the dim light that marks the marsh.
-
-Scores of species of insects inhabit the swamp; these range in size from finger-nail sized skimmers to fist-sized dragonflies and spiders. Some blind cave fish inhabit the larger ponds. The largest, and most dangerous animals of the swamp, however, are the acid salamanders (see new monsters) that prey on the smaller creatures. For every turn spent in the marsh, there is a 1 in 6 chance of attracting 2-4 of these voracious creatures.
-
-Movement in the Marsh: The surface of the marsh is and wet and swampy, with multiple pools and rivulets of brown water. Since it is often hard to find drier ground amid the lichen, algae, and water, movement is effectively halved here. It is possible to move at 3/4 speed, but so doing requires a save versus poison each round; failure indicates that some of the toxic sap of the acid drops has affected the PC (take 2-5 HP damage).
+* 1-in-6 chance per turn of attracting 1d3+1 of these voracious creatures.
 
 16 acid salamanders (see new monsters): SZ L; AL N; AC 7; MV 60’, 90’ swimming; HD 7; HP 53, 52, 50, 49, 49, 48, 48, 47(x3), 46, 46, 45, 45, 44, 44; #AT 1; Dmg 3-12. Special attacks: acid spit. Special defenses: immune to acid.
 
@@ -336,9 +353,11 @@ Movement in the Marsh: The surface of the marsh is and wet and swampy, with mult
 
 ### 10-16: Least Causeway
 
-Rising only 5’ above the level of the marsh, this causeway is the lowest of the three connecting to the ziggurat of Kauket (see 10-32). Short staircases provide access into the marsh on either side; in addition, numerous small (2’-diameter) holes drilled through the causeway allow water and creatures to move back and forth from the north and south sides of the marsh. The portion of the causeway closest to the ziggurat was badly damaged in both the rudishva and Archontean wars. The more intact, western portion is lined with 4’-tall iron stakes upon which hang the decomposing corpses of various sacrificial victims – human, goblin, varumani, etc.
-
-If the heqeti are alerted to the arrival of the PCs, a welcoming party of builders, hoppers and chosen will be waiting on the causeway and in the nearby marsh, hoping to slow the intruders’ progress towards the ziggurat.
+* Rising only 5’ above the marsh, this causeway is the lowest of the three connecting to the ziggurat of Kauket (10-32).
+	* Short staircases provide access into the marsh on either side.  2'-wide channels through the causeway allow water and creatures to cross sides.
+	* The portion of the causeway closest to the ziggurat was badly damaged in both the rudishva and Archontean wars.
+	* The more intact, western portion is lined with 4’-tall iron stakes, on which hang decomposing corpses of various sacrificial victims – human, goblin, varumani, etc.
+* If the heqeti are on alert, a welcoming party of builders, hoppers and chosen will be waiting on the causeway and in the nearby marsh.
 
 4 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 44, 41, 40, 37; #AT 2; Dmg 3-8 (spear +1), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Possessions: spear +1.
 
@@ -350,9 +369,12 @@ fear; chant, hold person (x2), silence 15’ radius, speak with animals; dispel 
 
 ### 10-17: Lower Summoning Platform
 
-Rising 35’ above the surrounding marsh, this flattened stone pillar is home to an oval pool of murky, viscous brown sludge some 10’x3’ in size. Four slim columns of polished basalt stand around the pool, one on each side; these 4’-tall columns are set obliquely (not perpendicular to the floor). When a sacrificial victim has been tied to the four columns and the proper summoning rites performed, a worm of Qok (see new monsters) appears in the pool, eager to devour whatever sacrifices are forthcoming.
-
-If the heqeti are forewarned about intruders on level 10, then one of the prisoners from 10-43 (determined randomly) will be tied to the columns while Cheksib the weaver summons a worm of Qok. In a battle royale in 10-15 or upon the ziggurat, the worm of Qok will first attempt to attack PCs in the northern half of the marsh; if none are present there, it mounts the least causeway (10-16) and then moves to the ziggurat (10-32) to defend the fane of its lord. Cheksib, meanwhile, uses spells in support of the Great Tongue. If PCs are able to enter the great cavern without alerting the ziggurat or heqeti leaders, then of course the platform will be empty.
+* Rising 35’ above the surrounding marsh, this flattened stone pillar is home to an oval pool of murky, viscous brown sludge (10’ x 3’).
+	* 4 slim, slanted columns of polished basalt stand around the pool, one on each side.
+		* When a sacrificial victim is tied to the 4 columns and the proper summoning rites performed, a worm of Qok (new) appears in the pool, eager to devour.
+* If the heqeti are on alert, a random prisoner from 10-43 is tied to the columns while Cheksib the weaver summons a worm of Qok.
+	* In a battle royale in 10-15 or upon the ziggurat, the worm of Qok first attempts to attack those in the northern marsh.  If none are present there, it mounts the least causeway (10-16) and moves to the ziggurat (10-32) to defend the fane of its lord.
+	* Cheksib uses spells in support of the Great Tongue.
 
 1 worm of Qok (see new monsters): SZ L; AL CE; AC 3; MV 60’; HD 12; HP 86; #AT 1; Dmg 2-24; MR 50%. Special attacks: swallow.
 
@@ -380,13 +402,17 @@ Prisoner from 10-43, to be determined randomly.
 
 ### 10-20: Pilgrim’s Rest
 
-The largest structure in the great cavern outside of the ziggurat, this platform is the site at which many heqeti pilgrims stop to take in the sights and make a small offering to Kauket. The platform rises 25’ above the marsh, and was damaged in the wars of antiquity. It is connected to the ziggurat by a bridge (10-21) and to the eastern chambers by a solid causeway. The center of the platform has a low, raised pool about 18’ in diameter. To either side of the pool are two 
+* The largest structure in the great cavern outside of the ziggurat, heqeti pilgrims stop on this platform to take in the sights and make a small offering to Kauket.
+	* The platform rises 25’ above the marsh, and was damaged in the wars of antiquity.
+	* It is connected to the ziggurat by a bridge (10-21) and to the eastern chambers by a solid causeway.
+	* The center of the platform has a low, raised pool, 18’ in diameter with a pair of 4’-tall copper statues (300 gp each) of erect salamanders with upturned mouths on either side.
+		* Heqeti devotees approach the pool, perform ablutions, and deposit offerings of small gems into the mouths of the salamanders, after which they are free to enter the ziggurat.
+			* The offering statues are periodically emptied into the treasury (10-53).  Currently there are 37 moderate gems (50 gp each) and 319 small gems (10 gp each)
 
-4’-tall copper statues of erect salamanders with upturned mouths. Heqeti devotees of Kauket approach the pool, perform ablutions there, and deposit offerings of small gems into the mouths of the salamanders. Once this is accomplished, they are free to enter the ziggurat. The offering statues are periodically emptied into the treasury (10-53).
-
-Unalerted: The platform is watched by a quartet of heqeti chosen (see new monsters) with long halberds. At any given moment 5-8 heqeti pilgrims are present on the platform.
-
-Alerted: If alerted, 2 heqeti builders, 2 apprentices, and 10 hoppers guard the causeway.
+* Unalerted
+	* The platform is watched by a quartet of heqeti chosen (new) with long halberds. At any given moment 5-8 heqeti pilgrims are present on the platform.
+* Alerted
+	* 2 heqeti builders, 2 apprentices, and 10 hoppers guard the causeway.
 
 4 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 40, 37; #AT 2; Dmg 3-12 (halberd +1), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Possessions: halberd +1.
 
@@ -403,9 +429,6 @@ fear; chant, hold person (x2), silence 15’ radius, speak with animals; dispel 
 missile, spider climb; strength, web. Spell book: detect magic, enlarge, magic missile, protection from good, read magic, spider climb; darkness 15’ radius, invisibility, strength, web. 
 
 1 apprentice heqeti weaver (see new monsters), as a 4th-level cleric of Kauket: SZ M; AL CE; AC 5; MV 120, 90’ swimming’; HD 4; HP 25; #AT 1; Dmg 3-8 (club +1). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: club +1; heqeti spore bomb (see Arden Vul items). Spells prayed for: bless, command, cure light wounds, darkness, detect magic; chant, hold person, resist fire, silence 15’ radius.
-
-Treasure:
-The copper statues are worth 300 gp each. They contain a total of 37 gems worth 50 gp each and 319 gems worth 10gp each.
 
 ### 10-21: Low Bridge
 
@@ -498,27 +521,44 @@ damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psio
 
 ## Level 10: 10-32 - 10-37 (The Ziggurat of Kauket)
 
-The ziggurat of Kauket is the dominant feature of Level 10. The ziggurat is massive and ancient. First built out of huge blocks of granite some 3,400 years ago, it has always served as a site for heqeti worship of the demon prince, Kauket. The blocks are 10’x15’ in size, and are pitted, pebbled, and greasy from the blood of sacrifices and the passage of countless heqeti slimes. As the map makes clear, the ziggurat has been damaged over the millennia, 
-particularly on its lower steps, but is still basically intact. 
+* The massive and ancient ziggurat of Kauket is the dominant feature of Level 10.
+	* First built out of huge blocks of granite 3,400 years ago, it has always served as a site for heqeti worship of the demon prince, Kauket.
+	* The blocks are 10’x15’ in size, pitted, pebbled, and greasy from the blood of sacrifices and the passage of countless heqeti slimes.
+	* The ziggurat has been damaged over the millennia, particularly on its lower steps, but is still basically intact.
 
-The ziggurat has four steps, with the lowest step rising 10’ above the level of the swamp and each subsequent step climbing another 15’. The top step is thus 55’ above the marsh. The ziggurat is lit by the glow of fire emanating from its first and third steps (see text below). 
+* The ziggurat has four steps, the lowest rising 10’ above the swamp and each subsequent step climbing another 15’ (the top is thus 55' above the marsh).
+	* the glow of fire emanates from the first and third steps (see below). 
 
-Environmental Effects: As a site of great and ancient evil, the entire ziggurat lies under the effect of a hallow spell (see new spells). This means that creatures of chaotic evil alignment benefit from +2 to all rolls (saves, ‘to hit’ rolls, etc.), while those of all other alignments suffer a -2 penalty to all rolls. Should the PCs have cleansed the upper heqeti temple (area 7-78) of its evil (through the use of a hallow spell), then the hallow effect here on Level 10 will be removed. It is, of course, also possible to unhallow the ziggurat through the application of good-oriented divine rituals; doing so after a climactic battle here should be considered a good and heroic act. The rituals for hallowing the ziggurat are costly (20,000 gp) and time-consuming (three weeks). 
+Evil, Evil from the Dawn of Time!
+* As a site of great and ancient evil, the entire ziggurat lies under a hallow spell (new).
+	* Chaotic evil creatures gain +2 to all rolls (saves, ‘to hit’ rolls, etc.).  Those of all other suffer a -2 to all rolls.
+	* If the upper heqeti temple (7-78) is cleansed of its evil (through use of a hallow spell), the hallow effect here on Level 10 is removed.
+* It is possible to unhallow the ziggurat through the application of good-oriented divine rituals after the climactic battle.  Such rituals cost 20,000 gp and take 3 weeks.
 
 A Climactic Battle!
-For those adventuring parties wishing to cleanse Arden Vul of the heqeti presence, an epic combat on and around the ziggurat is likely. In preparing for such a combat, the GM must consider the state of heqeti awareness of the PCs’s progress (see 9-79 and Level 10 introduction). If the heqeti are expecting intruders, then the heqeti leaders will have assumed fixed positions in the vicinity of the ziggurat, and will be ready to repel the PCs with spells and summoned allies. The resulting combat may provide a suitably epic conclusion to many campaigns. If, however, the PCs have managed to approach Level 10 without alerting the heqeti to their presence, then the ziggurat will provide a substantially easier challenge, as some of the heqeti leaders will be found elsewhere in the complex. 
-
-Finally, GMs should also be aware that it is possible for the PCs to summon and fight Kauket himself! The procedures for such a foolish action are described in the Level 10 introduction and in the text for area 10-37.
+* For those adventurers wishing to cleanse Arden Vul of the heqeti presence, an epic combat on and around the ziggurat is likely.
+	* To prepare, the GM should consider the state of heqeti awareness of the PCs’s progress (see 9-79 and Level 10 introduction).
+		* If expecting intruders, the heqeti leaders will have assumed fixed positions in the vicinity of the ziggurat, and be ready to repel the PCs with spells and summoned allies. The resulting combat may provide a suitably epic conclusion to many campaigns.
+		* If the PCs have managed to approach Level 10 without alerting the heqeti to their presence, the ziggurat will provide a substantially easier challenge, as some of the heqeti leaders will be found elsewhere in the complex.
+* Finally, GMs should also be aware that it is possible for the PCs to summon and fight Kauket himself!
+	* The procedures for such a foolish action are described in the Level 10 introduction and in the text for 10-37.
 
 ### 10-32: Ziggurat of Kauket, First Step
 
-The first step of the great ziggurat is the most badly damaged from previous wars. It rises 10’ above the level of the surrounding marsh, and is accessed from area 10-16 via a short, 5’ staircase. Statues occupy three of its four corners; next to each statue is a brazier with glowing red coals. Two doors on the west side of the step lead inward to area 10-36; these are unlocked. The walls leading to the second step are densely carved with high-relief images of heqeti worshipping a strange salamander with elephant feet and human hands (Kauket).
+* The first step of the great ziggurat, rising 10’ above the marsh, is the most badly damaged from previous wars.
+	* It is accessed from 10-16 via a short, 5’ staircase.
+	* Two doors on the west side of the step lead inward to 10-36.
+	* The walls leading are densely carved with high-relief images of heqeti worshipping a strange salamander with elephant feet and human hands (Kauket).
+	* 13'-tall, granite statues of slug-like beings occupy three of its four corners, each with a brazier with glowing red coals beside it.
+		* The slug-like beings have two powerful hind legs and two arms that grip a spear, a mattock, or an axe.  The statues are finely carved, despite numerous lichen growths and pitting from age (900 gp each). 
+		* The statues moan constantly in a low-pitched, eerie tone, rising and falling in volume, occasionally punctuated with a load croaking.
+			* The heqeti assume this is Kauket speaking to them, but it is a simple, but very ancient, enchantment. 
+			* If a good-aligned being approaches within 10’, a 12th level dispel magic emanates 20' radius (this can be shut down with a dispel magic).
 
-Statues: The three remaining statues on this step (one was destroyed in antiquity) are 13’ tall. Each appears as a slug-like being with two powerful hind legs and two arms that grip a spear, a mattock, and an axe respectively. The statues are granite, and finely carved, despite numerous lichen growths and pitting from age; they could be sold for 900 gp each. In addition, the statues moan constantly in a low-pitched, eerie tone. The heqeti assume this is Kauket speaking to them, when in fact it is the effect of a simple, but very ancient, enchantment. The moaning rises and falls in volume, and is punctuated every couple of rounds with a loud croaking sound. If a good-aligned being approaches within 10’ of any of the statues, a powerful dispel magic effect emanates from the statue in question; this effect covers a sphere in a 20’ radius around the statue. This effect can be permanently defeated if a 12th-level caster casts dispel magic on each statue.
-
-Unalerted: If the complex is not alerted, then this step will have 9-16 heqeti pilgrims milling about, admiring the ziggurat. Four chosen will also be present, one posted by each of the doors to 10-36.
-
-Alerted: If the heqeti are expecting the PCs, then nobody will be present here, but a troop of eight chosen led by Pikaressa, the Second Tongue (see 10-49) will be hiding inside area 10-36, ready to burst from the doors as soon as the PCs approach.
+* Unalerted
+	* This step has 9-16 heqeti pilgrims milling about, admiring the ziggurat. 4 chosen will also be present, one posted by each of the doors to 10-36.
+* Alerted
+	* Nobody is present, but a troop of 8 chosen led by Pikaressa, the Second Tongue (10-49) will be hiding inside 10-36, bursting from the doors when intruders approach.
 
 9-16 heqeti hopper pilgrims (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 31, 30, 29, 28, 28, 27(x3), 26(x3), 24, 23, 22, 22, 21; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
@@ -527,11 +567,15 @@ attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (p
 
 ### 10-33: Ziggurat of Kauket, Second Step
 
-The second step suffered less damage in antiquity. It rises 15’ above the first step and 25’ above the level of the marsh. It is accessed either via stairs from 10-32 or via the bridge (10-21) leading from area 10-20. A single door on the south wall leads inward to area 10-37. The riser for the third step is once again carved with images of Kauket smiting all manner of foes, both demonic, mammalian, and unknown.
+* The second step rises 15’ above the first (25’ above the marsh) and suffered less damage in antiquity.
+	* It is accessed either via stairs from 10-32 or the bridge (10-21) from 10-20.
+	* A single door on the south wall leads inward to area 10-37. 
+	* The riser for the third step is carved with images of Kauket smiting all manner of foes, both demonic, mammalian, and unknown.
 
-Unalerted: If the complex is not expecting the PCs’ arrival, there will be 4-7 pilgrims waiting to visit area 10-37. Watching them are two heqeti builders.
-
-Alerted: iI the heqeti are prepared for intruders, then the step will be empty.
+* Unalerted
+	* 4-7 pilgrims wait to visit 10-37. Watching them are 2 heqeti builders.
+* Alerted
+	* The step is empty.
 
 4-7 heqeti hopper pilgrims (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 28, 27, 26, 25, 24, 22, 20; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
@@ -541,26 +585,42 @@ fear; chant, hold person (x2), silence 15’ radius, speak with animals; dispel 
 
 ### 10-34: Ziggurat of Kauket, Third Step
 
-The third step rises 15’ above the second and 40’ above the level of the marsh. It is accessed via a staircase from 10-33 (on the western side). Bronze statues stand proudly at each of its four corners. Next to each statue is a brazier that glows with red-hot coals. The walls leading to the fourth step are carved in a more restrained, but still impressive fashion: a 5’-tall band of carved images extends around the entirety of the top step, depicting a single, huge salamander surrounded by fawning heqeti.
+* The third step rises 15’ above the second and 40’ above the marsh.
+	* It is accessed via a staircase from 10-33 (on the western side). 
+	* 9'-tall bronze statues of heqeti with arms upraised, bowing towards the pinnacle of the ziggurat stand proudly at each corner, with a braziers glowing with red-hot coals.
+		* Their workmanship is fairly crude (300 gp).
+		* They are enchanted with a ‘delayed blast unholy word.’
+			* As an action while anywhere on the ziggurat, the Great Tongue (10-47) can croak out a command to one of the four statues (1/day/statue) and it emits a deafening unholy word (radius 30’).
+				* Weakening Rimmaq-Isfet by poison on Level 8 (see 8-76) causes these statues to lose their ability.
+	* The walls are carved in a more restrained, but still impressive fashion: a 5’-tall band of carved images extends around the entirety of the top step, depicting a single, huge salamander surrounded by fawning heqeti.
 
-Statues: The bronze statues are 9’ tall and depict anonymous heqeti with arms upraised and bowing towards the pinnacle of the ziggurat. The workmanship of the statues is fairly crude, and thus they will only bring 300 gp each. Like the statues on the first step, these are enchanted with a unique effect, a sort of ‘delayed blast unholy word.’ If the Great Tongue (10-47) is standing anywhere on the ziggurat, he is able to use his action on a given round to croak out a command directed at one of the four statues; immediately, the designated statue will emit a deafening unholy word (radius 30’). The Great Tongue can perform this feat once per statue per day.  Weakening Rimmaq-Isfet by poison on Level 8 (see area 8-76) causes the statues on the third step to lose their ability to utter unholy words.
-
-Unalerted: If the complex has not been warned of the PCs’ arrival, no heqeti are present here.
-
-Alerted: Six heqeti chosen are waiting here, armed with javelins and halberds. Their task is to prevent intruders from reaching the fourth step of the ziggurat.
+* Unalerted
+	* No heqeti are present here.
+* Alerted
+	* 6 heqeti chosen wait here, armed with javelins and halberds, to prevent intruders from reaching the fourth step of the ziggurat.
 
 6 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 44, 41, 40, 38, 35, 35; #AT 2; Dmg 3-12 (halberd +1), 1-6 (bite). Special 
 attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Possessions: halberd +1.
 
 ### 10-35: Ziggurat of Kauket, Fourth Step
 
-The pinnacle of the ziggurat lies 15’ above the third step and 55’ above the level of the marsh. It is accessed either via the bridge (10-19) from area 10-18 or via stairs from 10-34. A shallow copper depression about 8’ in diameter occupies the exact center of the step; in the center of the basin is a 6”-diameter hole leading inside the ziggurat (to 10-37). The basin is stained with blood. Four copper shepherd’s crooks rise 5’ above the basin, from each of which hang strong copper restraints. Sacrifices to Kauket are bound to the crooks and then exsanguinated into the basin.
+* The pinnacle of the ziggurat lies 15’ above the third step and 55’ above the marsh.
+	* It is accessed either via the bridge (10-19) from 10-18 or via stairs from 10-34.
+	* A shallow copper depression 8’ across and stained with blood, occupies the exact center of the step.
+		* In the center of the basin is a 6”-diameter hole leading inside the ziggurat (to 10-37).
+	* 4 copper shepherd’s crooks rise 5’ above the basin, strong copper restraints hang from each.
+		* Sacrifices to Kauket are bound to the crooks and exsanguinated into the basin.
 
-Unalerted: There is a 45% chance that Reepsiq, the Great Tongue (see 10-47), is present here, preparing a sacrifice to Kauket (select sacrifice from area 10-43). If Reepsiq is present, he is accompanied by three heqeti builders (see new monsters).
+* Unalerted
+	* 45% chance Reepsiq, the Great Tongue (see 10-47), is present here, preparing a sacrifice to Kauket (select sacrifice from 10-43). If present, he is accompanied by three heqeti builders (new).
+* Alerted
+	* Reepsiq, the Great Tongue (see 10-47), and Qassapik, the Chief Weaver (see 10-48), are present here, preparing spells to defend the ziggurat. With them are 3 heqeti builders.
+	* The two leaders will already have summoned demonic allies; 3 invisible keqemandri are levitating near the ziggurat, ready to swoop down upon intruders.
 
-Alerted: If the complex is awaiting the PCs, Reepsiq, the Great Tongue (see 10-47), and Qassapik, the Chief Weaver (see 10-48), will be present here, preparing spells in order to defend the ziggurat. With them will be three heqeti builders. The two leaders will already have summoned demonic allies; three invisible keqemandri will already be levitating near the ziggurat, ready to swoop down upon intruders.
-
-Kauket Arrives: It is possible for the PCs to summon Kauket himself, whether knowingly or inadvertently. See text at 10-37 for details. If Kauket is summoned, he appears atop the fourth step with three keqemandri servitors. Woe to the PCs! Note: it is possible to slightly weaken Kauket by destroying the great statue of the demon prince that is located on Level 9 (area 9-12); see text there.
+Kauket Arrives
+* It is possible for the PCs to summon Kauket himself, whether knowingly or inadvertently (see text at 10-37).
+* If Kauket is summoned, he appears atop the fourth step with 3 keqemandri servitors.
+* It is possible to slightly weaken Kauket by destroying the great statue of the demon prince located at 9-12 (see text there).
 
 Reepsiq, the Great Tongue, 17th-level heqeti cleric: for stats, see 10-47.
 
@@ -576,11 +636,20 @@ and 33% for a type V-VI demon). The spear of Kauket (see new magic items) has ma
 
 ### 10-36: Ziggurat of Kauket, Inner Fane
 
-Accessible only from the doors on the first step of the ziggurat, this 10’-tall chamber holds the sacred cult objects of Kauket. Light is provided by two braziers filled with burning coals. The interior walls are painted an unsettling shade of yellow-green, with large symbols of Kauket everywhere: white tear drops, black and barbed spears, white worms, gaping toothless maws, etc. The centerpiece of the chamber is a stone table about 5’ tall on which are laid the holy relics of Kauket. These include three 8” curved fangs purported to be Kauket’s, a copper bowl with seven pure white tears of Kauket (see new magic items), a six foot spear of ebony said to be the spear of Kauket (actually just a spear +2), a set of keys (one gold and one platinum) to the Obsidian Gates (5-6D), and a replica of Kauket’s palace (located on the 497th layer of the abyss), carved out of a 3’-diameter amethyst (10,000 gp).
+* Accessible from the doors on the first step of the ziggurat, this 10’-tall chamber holds the sacred cult objects of Kauket.
+	* 2 braziers filled with burning coals light the room.
+	* The walls are painted an unsettling shade of yellow-green, with large symbols of Kauket everywhere: white tear drops, black and barbed spears, white worms, gaping toothless maws, etc.
+	* The centerpiece is a 5’ tall stone table on which are laid the holy relics of Kauket.
+		* Three 8” curved fangs purported to be Kauket’s
+		* A copper bowl with seven pure white tears of Kauket (new)
+		* A 6' spear of ebony said to be the spear of Kauket (actually just a spear +2)
+		* A set of keys (one gold and one platinum) to the Obsidian Gates (5-6D)
+		* A replica of Kauket’s palace (on the 497th layer of the abyss), carved of a 3’-diameter amethyst (10,000 gp).
 
-Unalerted: A small but regular stream of heqeti pilgrims filters through this chamber, stopping briefly to admire the cult objects. See text and stats at 10-32.
-
-Alerted: If the complex is ready for intruders, a strike team of eight heqeti chosen led by the Second Tongue, Pikaressa, will be waiting here, ready to spring an ambush on any intruders who reach the first step (10-32).
+* Unalerted
+	* A small but regular stream of heqeti pilgrims filters through this chamber, stopping briefly to admire the cult objects (text and stats at 10-32).
+* Alerted
+	* A strike team of 8 heqeti chosen led by the Second Tongue, Pikaressa, wait here, ready to ambush intruders who reach the first step (10-32).
 
 8 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 45, 44, 42, 40, 39, 38, 35, 31; #AT 2; Dmg 3-12 (halberd +1), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Possessions: halberd +1.
 
@@ -588,30 +657,32 @@ Pikaressa, the Second Tongue (see stats at 10-49)
 
 ### 10-37: Ziggurat of Kauket, Sacrificial Chamber
 
-The second interior chamber of the heqeti ziggurat is accessible only from the door on the southern wall of the second step. It leads to the sacrificial chamber and the true holy of holies for the ziggurat. 
+* This second interior chamber of the heqeti ziggurat is accessible only from the door on the southern wall of the second step.
+	* It leads to the sacrificial chamber and the true holy of holies for the ziggurat. 
+* The octagonal chamber holds a 5’-tall stone pillar, atop which rests a copper bowl.
+	* Blood from sacrifices slain on the fourth step (10-35) drips through holes o land in the bowl here.
+	* Four of the eight walls are carved with half-relief sculptures.
+		* The sharp ends of horns taken from bizarre or magical creatures are thrust into three of the sculptures, and a double-sized, pearl-white tear of Kauket (new) is thrust into the wide, open, and blood-stained end of each horn.
 
-The octagonal chamber holds a 5’-tall stone pillar atop of which rests a copper bowl. Blood from sacrifices slain on the fourth step (10-35) drips through holes in that step to land in the 
-bowl here. 
+* Sculpture #1 (southwest)
+	* Image: Kauket, stirring in the mud with his spear; barely visible are small, tadpole-like creatures wriggling in the mud.
+	* Horn: A midnight black, straight demon’s horn (3’ long), with silver glyphs incised into it (475 gp). It is inserted into the mud at the feet of Kauket.
+* Sculpture #2 (northwest)
+	* Image: Kauket stands amid a crowd of heqeti hoppers; large tears fall from his eyes into the mouths of grateful followers.
+	* Horn: A purple, curved, ram-like demon’s horn, albeit with unsettling incrustations across its 4’ length. The horn is thrust into Kauket’s heart.
+* Sculpture #3 (northeast)
+	* Image: Kauket leaps into battle, wielding an enormous spear; hordes of keqemandri and other demons follow him.
+	* Horn: A 3’ segment of a unicorn horn. The tip is stuck into Kauket’s spear. 
+* Sculpture #4 (southeast)
+	* Image: Kauket stands atop a ziggurat, while heqeti throng the lower steps.
+	* Horn: The horn is missing; if present it would be inserted into Kauket’s mouth.
+		* The missing horn (in 5-95A) is pale green, with a broad spiral and with irregular tufts of black bristly hair growing from it.
 
-Four of the eight walls are carved with half-relief sculptures. The sharp ends of horns taken from bizarre or magical creatures are thrust into three of the sculptures. A double-sized, pearl-white tear of Kauket (see new magic items) is thrust into the open, wide end of each horn; the mouths of the horns are all stained with blood. 
-
-Sculpture #1 (southwest)
-Image: Kauket, stirring in the mud with his spear; barely visible are small, tadpole-like creatures wriggling in the mud.
-Horn: A midnight black, straight demon’s horn (3’ long), with silver glyphs incised into it (475 gp). It is inserted into the mud at the feet of Kauket.
-
-Sculpture #2 (northwest)
-Image: Kauket stands amid a crowd of heqeti hoppers; large tears fall from his eyes into the mouths of grateful followers.
-Horn: A purple, curved, ram-like demon’s horn, albeit with unsettling incrustations across its 4’ length. The horn is thrust into Kauket’s heart.
-
-Sculpture #3 (northeast)
-Image: Kauket leaps into battle, wielding an enormous spear; hordes of keqemandri and other demons follow him.
-Horn: A 3’ segment of a unicorn horn. The tip is stuck into Kauket’s spear. 
-
-Sculpture #4 (southeast)
-Image: Kauket stands atop a ziggurat, while heqeti throng the lower steps.
-Horn: The horn is missing; if present it would be inserted into Kauket’s mouth. The missing horn is pale green, with a broad spiral and with irregular tufts of black bristly hair growing from it. It may be found in area 5-95A.
-
-Summoning Kauket: Should the missing horn be inserted into the fourth sculpture, and blood poured into each of the horns, then Kauket will manifest atop the ziggurat within 2-6 turns. Reepsiq, the Great Tongue (10-47), is aware that the absence of the fourth horn prevents him from fully communing with, or summoning, Kauket. He would give almost anything for the return of the horn. The missing horn was, in fact, taken by the rudishva when they cleansed the ziggurat millennia ago. Recognizing its importance, they stored it in a hidden vault (area 5-95A). Information on the location of the vault and the horn is lost to all living beings; only the rudishva AIs can, if asked, confirm the horn’s existence and describe how to access it (see AIs at 6-27 and SL14-13). 
+Summoning Kauket
+* Should the missing horn be inserted into the fourth sculpture, and blood poured into each of the horns, Kauket will manifest atop the ziggurat within 2-6 turns.
+	* Reepsiq, the Great Tongue (10-47), is aware that the absence of the fourth horn prevents him from fully communing with, or summoning, Kauket, and he would give almost anything for its return.
+	* The missing horn was taken by the rudishva when they cleansed the ziggurat millennia ago. Recognizing its importance, they stored it in a hidden vault (5-95A).
+		* Information on the location of the vault and the horn is lost to all living beings; only the rudishva AIs can, if asked, confirm the horn’s existence and describe how to access it (see AIs at 6-27 and SL14-13). 
 
 ### 10-38: Hall of the Builders
 
@@ -889,13 +960,19 @@ Pikaressa’s Spell Book: Charm person, detect magic, enlarge, light, magic miss
 
 ### 10-51: Hall of the Heqeti
 
-This large hall provides a gathering and socializing space for heqeti pilgrims who have come to visit the ziggurat. The ceiling is 20’ tall and supported by eighteen thick columns. In the center is a large, shallow pool of murky dirty water (3’ deep) that surrounds a dais and a statue of Kauket. A dozen specimens of the glowing friend (see new flora) twine about iron rods placed along the edge of the pool. The plants provide a dim light to the area. Ordinarily the hall contains 21-40 heqeti pilgrims, who gather in the aisles formed by the columns and wade in the pool.
+* This 20'-high hall provides a gathering space for heqeti pilgrims visiting the ziggurat.
+	* The ceiling supported by 18 thick columns.
+	* In the center is a large, shallow pool of murky dirty water (3’ deep) that surrounds a dais and a 15'-tall statue of Kauket, made of red porphyry.
+		* A dozen specimens of the glowing friend (flora) twine around iron rods along the edge of the pool, providing dim light to the area.
+		* Kauket appears as a biped, with the trunk of a salamander, the feet of an elephant, human arms, and an oversized salamander-esque head. He carries his famous spear in an aggressive posture.
+			* His saucer-like eyes drip a liquid that hardens into tears of Kauket (new) when it hits the water of the pool (1 tear/hour).  9 are already present.
+	* Ordinarily the hall contains 21-40 heqeti pilgrims, gathered in the aisles formed by the columns and wading in the pool.
 
-Statue of Kauket: The statue is about 15’ tall and shaped of red porphyry. He appears as a biped, with the trunk of a salamander), the feet of an elephant, human arms, and an oversized salamander-esque head. He carries his famous spear in an aggressive posture. His saucer-like eyes drip a liquid that hardens into tears of Kauket (see new magic items) when it hits the water of the pool. Enough liquid to form a single tear drips every hour.
-
-Unalerted: Two apprentices are always present so as to offer advice to the pilgrims (see above). There is a 25% chance that Qassapik (see 10-48) is present here, intimidating the lesser heqeti.
-
-Alerted: If the complex is alerted, two apprentices are stationed here to watch over the public areas.
+* Unalerted
+	* 2 apprentices are always present to offer advice to the pilgrims.
+	* 25% chance that Qassapik (10-48) is present, intimidating the lesser heqeti.
+* Alerted
+	* 2 apprentices are stationed here to watch over the public areas.
 
 1 apprentice heqeti weaver (see new monsters), as a 4th-level magic user: SZ M; AL CE; AC 5; MV 120’, 90’ swimming; HD 4; HP 10; #AT 1; Dmg 2-5 (dagger). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: wand of frost (18 charges); curved dagger. Memorized spells: enlarge, magic 
 missile, spider climb; strength, web. Spell book: detect magic, enlarge, magic missile, protection from good, read magic, spider climb; darkness 15’ radius, invisibility, strength, web. 
@@ -906,9 +983,6 @@ infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for
 Qassapik, 25%: see stats at 10-48.
 
 21-40 heqeti hopper pilgrims (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 32, 31, 30, 29(x3), 28(x5), 27(x5), 26(x5), 25(x5), 24(x5), 23(x5), 21, 20, 19, 19; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
-
-Treasure:
-9 tears of Kauket (see new magic items) - see text.
 
 ### 10-52: Heqeti Barracks
 
@@ -929,30 +1003,46 @@ Treasure:
 
 ### 10-53: Treasury
 
-This secret chamber serves as the treasury for the ziggurat. Four large stone bins hold the bulk of the treasure collected from the pilgrims at areas 10-20 and 10-57. These bins contain 183 semi-precious stones (carnelian, citrine, onyx and sardonyx) worth 50 gp each, plus 3,971 ornamental gems (mostly azurites, malachites, moss agates, pieces of obsidian and tiger eyes) worth 10 gp each. Mixed in with this treasure are 17 pieces of amber (100 gp each), 11 pieces of coral (100 gp each), and 1 black opal (5,000 gp).
-
-A fifth stone bin holds more unusual goods, including the majority of Sir Mendacity’s equipment (for Sir Mendacity, see 7-81): her circlet of command and backpack of capacity (see new magic items); her key to SL10A-16, gothic armor, and sun lance (see new technological items); and her broadsword +2, +4 vs giants. The bin also holds a tome of clear thought, plus four scrolls: one with the spells enchant an item and guards and wards; a second with stone to flesh; a third scroll with power word, stun; and a fourth with mass charm. At the GM’s desire, the treasury may also contain any quest items appropriate to his/
-her setting.
-
-Secret Door (west): This door is easy to find (1 in 4) from this side. The key held by the heqeti leaders opens it (see 10-47 to 10-49).Secret Door (east): This door is easy to find (1 in 4) from this side. The key held by the heqeti leaders opens it (see 10-47 to 10-49).
+* This secret chamber serves as the treasury for the ziggurat.
+	* 4 large stone bins hold offerings collected from the pilgrims at 10-20 and 10-57.
+		* 183 semi-precious stones (carnelian, citrine, onyx and sardonyx; 50 gp each)
+		* 3,971 ornamental gems (azurites, malachites, moss agates, pieces of obsidian and tiger eyes; 10 gp each).
+		* 17 pieces of amber (100 gp each), 11 pieces of coral (100 gp each), and 1 black opal (5,000 gp).
+	* A fifth stone bin holds more unusual goods.
+		* The majority of Sir Mendacity’s equipment (see 7-81): her circlet of command and backpack of capacity (new); her key to SL10A-16, gothic armor, and sun lance (tech); and her broadsword +2, +4 vs giants.
+		* A tome of clear thought
+		* 4 scrolls (enchant an item, guards and wards), (stone to flesh); (power word, stun); (mass charm).
+		* The treasury may also contain any quest items appropriate to the GM's setting.
+	* Secret Door (west, locked): easy to find (1 in 4) from this side.
+		* The key held by the heqeti leaders opens it (see 10-47 to 10-49).
+	* Secret Door (east, locked): easy to find (1 in 4) from this side.
+		* The key held by the heqeti leaders opens it (see 10-47 to 10-49).
 
 ### 10-54: Underearth Traders
 
-This chamber is rather spartan, with roughly carved walls and no decoration. A half-dozen smoky torches light the area, and two tripods of heating (see new magic items) stand in its center. The handful of traders allowed by the heqeti to enter the ziggurat area and conduct business are assigned to this chamber. Each trader is responsible for his/her own possessions and security; most sell goods out of their saddlebags and sleep atop the same. Currently three traders are present.
+* This chamber is rather spartan, with roughly carved walls and no decoration.
+	* Light comes from a half-dozen smoky torches and 2 tripods of heating (new) standing in the center.
+	* The traders allowed by the heqeti to enter the ziggurat area and conduct business, are assigned to this chamber (3 currently).
+		* Each trader is responsible for his/her own possessions and security; most sell goods out of their saddlebags and sleep atop the same.
 
 Chert Tillis
-
-Personality: Unctuous and servile in public, vicious and vindictive privately. Chert wears flowing black and yellow silken robes over his armor. 
-
-Reputation and/or relations with Factions: He is well known and considered a reliable and relatively harmless occasional visitor. He has only visited the heqeti within Arden Vul, but is aware of the varumani and kaliyani.
-
-Secret? While naturally a spy, his demeanor renders him less suspicious in the eyes of the heqeti. He hopes to learn the location of the hidden derro city that is the home of Gest Felstapper (see SL9-79); he has encountered Gest in safe zones throughout the Underearth and would very much like to learn Gest’s routes. He has thoroughly scouted the great cavern (10-15) and knows most of the routines of the heqeti leaders. He considers it impossible and/or impractical for his people to attempt a raid on the heqeti. Available Liquid Wealth: Small lumps of gold worth a total of 2,300 gp; small silver cylinders worth a total of 3,500 sp; 319 ancient Archontean pennies (see Arden Vul items).
-
-Might Buy: Specific information (layouts, maps) about Levels 7 and 9; magic items; exotic (that is, fresh) surface-world fruits and vegetables.
-
-Goods for Sale: 100 lb of dried mushrooms (20 gp/lb), 10 steel picks, 20 daggers, 1 poisoned dagger, 5 2-lb lumps of arcanum, 3 potions of invisibility, a copy of Thorcin Poisons and their Cures (see Arden Vul books), maps to the Silent Sea, to Lissak-Tol, and to two other Underearth locations of the GM’s choosing.
-
-Companions: 2 duergar bodyguards, as 3rd-level fighters
+* Personality
+	* Unctuous and servile in public, vicious and vindictive privately. Chert wears flowing black and yellow silken robes over his armor. 
+* Reputation and/or relations with Factions
+	* He is well known and considered a reliable and relatively harmless occasional visitor. He has only visited the heqeti within Arden Vul, but is aware of the varumani and kaliyani.
+* Secret?
+	* While naturally a spy, his demeanor renders him less suspicious in the eyes of the heqeti.
+	* He hopes to learn the location of the hidden derro city that is the home of Gest Felstapper (see SL9-79); he has encountered Gest in safe zones throughout the Underearth and would very much like to learn Gest’s routes.
+	* He has thoroughly scouted the great cavern (10-15) and knows most of the routines of the heqeti leaders.
+	* He considers it impossible and/or impractical for his people to attempt a raid on the heqeti.
+* Available Liquid Wealth
+	* Small lumps of gold worth a total of 2,300 gp; small silver cylinders worth a total of 3,500 sp; 319 ancient Archontean pennies (see Arden Vul items).
+* Might Buy
+	* Specific information (layouts, maps) about Levels 7 and 9; magic items; exotic (that is, fresh) surface-world fruits and vegetables.
+* Goods for Sale
+	* 100 lb of dried mushrooms (20 gp/lb), 10 steel picks, 20 daggers, 1 poisoned dagger, 5 2-lb lumps of arcanum, 3 potions of invisibility, a copy of Thorcin Poisons and their Cures (see Arden Vul books), maps to the Silent Sea, to Lissak-Tol, and to two other Underearth locations of the GM’s choosing.
+* Companions
+	* 2 duergar bodyguards, as 3rd-level fighters
 
 Chert Tillis, 5th/6th level duergar cleric/assassin: SZ S; AL LE; AC 3; MV 60’; HD 6; HP 28; #AT 1; Dmg 5-8 (war hammer +2), 2-5 (daggers). Abilities: STR 16, INT 11, WIS 16, DEX 
 10, CON 10, CHA 13. Constant abilities: infravision. Special attacks: surprise on 3 in 6. Special defenses: surprised only 1 in 10; save versus magical attacks at +4; immune to paralysis and 
@@ -963,37 +1053,37 @@ silence 15’ radius, slow poison; dispel magic.
 infravision. Special attacks: surprise on 3 in 6. Special defenses: surprised only 1 in 10; save versus magical attacks at +4; immune to paralysis and poison; unaffected by illusion or phantasm. Psionic strength: 36. Psionic disciplines: expansion, invisibility, molecular attraction, reduction. Possessions: banded mail and shield; hammer, short sword; light crossbow and 20 bolts.
 
 Peelstiv
-
-Personality: Alien, mysterious, difficult to read; she doesn’t understand human/heqeti personal space, and is constantly coming too close to interlocutors’ faces. 
-
-Reputation and/or relations with Factions: She is an unknown quantity. Given their ancient alliance with the kaliyani, the heqeti are familiar with kaliyani practice and interests; still, they 
-do not know Peelstiv and thus mistrust her motives.
-
-Secret? She is one of the most trusted and experienced agents from Lissak-Tol, and has been tasked by the eleven consortia to locate Tsilliv and the renegade heqeti of the twelfth consortium (see SL9). She poses as a trader, but is interested in any hint of news about the kaliyani traitors.
-
-Available Liquid Wealth: 100 tiger eye gems (10 gp each), 16 pieces of coral (100 gp), and 20 lb of powdered silver (1,000 sp). Might Buy: Kaliyani artifacts, rudishva artifacts, magic items, information
-
-Goods for Sale: Kaliyani charms (10 gp each); 3 empty rudishva lesser power supplies, sold as curios (5 gp each); 8 kaliyani asp eggs (see new magic items), 2 each of eggs of fire, eggs of 
-cold, eggs of torment, and eggs of blinding; a bundle of 6 specimens each of 1-3 species of mushrooms from the new flora appendix (for prices see area 9-6). 
+* Personality
+	* Alien, mysterious, difficult to read; she doesn’t understand human/heqeti personal space, and is constantly coming too close to interlocutors’ faces. 
+* Reputation and/or relations with Factions
+	* She is an unknown quantity. Given their ancient alliance with the kaliyani, the heqeti are familiar with kaliyani practice and interests; still, they do not know Peelstiv and thus mistrust her motives.
+* Secret?
+	* She is one of the most trusted and experienced agents from Lissak-Tol, and has been tasked by the eleven consortia to locate Tsilliv and the renegade heqeti of the twelfth consortium (see SL9). She poses as a trader, but is interested in any hint of news about the kaliyani traitors.
+* Available Liquid Wealth
+	* 100 tiger eye gems (10 gp each), 16 pieces of coral (100 gp), and 20 lb of powdered silver (1,000 sp).
+* Might Buy
+	* Kaliyani artifacts, rudishva artifacts, magic items, information
+* Goods for Sale
+	* Kaliyani charms (10 gp each); 3 empty rudishva lesser power supplies, sold as curios (5 gp each); 8 kaliyani asp eggs (see new magic items), 2 each of eggs of fire, eggs of cold, eggs of torment, and eggs of blinding; a bundle of 6 specimens each of 1-3 species of mushrooms from the new flora appendix (for prices see area 9-6). 
 
 Peelstiv, 7th-level kaliyani soldier (see new monsters): SZ M; AL LE; AC 4; MV 150’ on six legs, 60’ upright; HD 7; HP 49; #AT 2; Dmg 3-9/3-8 (bastard sword +1/scimitar). Special 
 defenses: immune to poison and mind-affecting spells. Special: infravision. Possessions: bastard sword +1 and a serrated scimitar; a ring of protection +2; a vial of kaliyani refreshening liquid (see Arden Vul items); small jewelry worth 179 gp; and potions of superheroism and fire giant strength.
 
 Marga Blood-Eyes
-
-Personality: Hostile and aggressive, but responds well to those who stand up to her. She has a distinctive look: she sports a stone-colored full length cloak with hood covering blood red leather armor and gear. In addition, her face and forehead are coated with ash-grey makeup punctuated only by blood red eyeliner and blood red ovals on her cheeks. She does not speak Archontean, but rather an archaic dialect of Thorcin. 
-
-Reputation and/or relations with Factions: The heqeti consider her god-possessed, and thus treat her with caution. Some would like to slaughter her out of hand due to the long enmity between humans and heqeti, but the leaders have ruled that the cult she follows makes her acceptable as a trader.
-
-Secret? She is a representative of a reclusive cult of humans who fled the surface world 97 years ago so as to be free to worship the alien deity Mzingaloq (see Gods of Magae in the World of Archontos appendix). This cult slew a community of Svirfneblin and took the deep gnomes’s home for their own. They are xenophobic and highly paranoid, and only trade with other subterranean races out of necessity.
-
-Available Liquid Wealth: 25 solid gold plugs shaped like elongated incisors (25 gp each); 719 ancient silver pennies; 391 ancient gold solidi (see Arden Vul items).
-
-Might Buy: Foodstuffs of any sort, particularly in bulk; steel or iron ingots; high quality weapons; magic items
-
-Goods for Sale: 150 lb of nutritious lichen (35 sp/lb); 37 riding salamander eggs packed in a combination of water and mud (40 gp per egg); and a sapphire Sortian eye for which she wants 2,400 gp (see new magic items).
-
-Companions: 4 2nd-level fighters as bodyguards. The guards’ faces are also coated with ash-grey pigment, but lack the red high-lights; all four are mute.
+* Personality
+	* Hostile and aggressive, but responds well to those who stand up to her. She has a distinctive look: she sports a stone-colored full length cloak with hood covering blood red leather armor and gear. In addition, her face and forehead are coated with ash-grey makeup punctuated only by blood red eyeliner and blood red ovals on her cheeks. She does not speak Archontean, but rather an archaic dialect of Thorcin. 
+* Reputation and/or relations with Factions
+	* The heqeti consider her god-possessed, and thus treat her with caution. Some would like to slaughter her out of hand due to the long enmity between humans and heqeti, but the leaders have ruled that the cult she follows makes her acceptable as a trader.
+* Secret?
+	* She is a representative of a reclusive cult of humans who fled the surface world 97 years ago so as to be free to worship the alien deity Mzingaloq (see Gods of Magae in the World of Archontos appendix). This cult slew a community of Svirfneblin and took the deep gnomes’s home for their own. They are xenophobic and highly paranoid, and only trade with other subterranean races out of necessity.
+* Available Liquid Wealth
+	* 25 solid gold plugs shaped like elongated incisors (25 gp each); 719 ancient silver pennies; 391 ancient gold solidi (see Arden Vul items).
+* Might Buy
+	* Foodstuffs of any sort, particularly in bulk; steel or iron ingots; high quality weapons; magic items
+* Goods for Sale
+	* 150 lb of nutritious lichen (35 sp/lb); 37 riding salamander eggs packed in a combination of water and mud (40 gp per egg); and a sapphire Sortian eye for which she wants 2,400 gp (see new magic items).
+* Companions
+	* 4 2nd-level fighters as bodyguards. The guards’ faces are also coated with ash-grey pigment, but lack the red high-lights; all four are mute.
 
 Marga Blood-Eyes, 9th-level female Archontean thief: SZ M; AL CE; AC 2; MV 120’; HD 9; HP 40; #AT 1; Dmg 4-10 (broad sword +2, nine lives stealer), 1-4 (dagger). Abilities: 
 STR 11, INT 14, WIS 9, DEX 17, CON 12, CHA 15. Thief skills: PP 75%, OL 72%, F/RT 60%, MS 75%, HS 61%, HN 30%, CW 98%, RL 45%. Possessions: blood-red leather armor +3; broad sword +2, nine lives stealer (2 lives remaining); poisoned dagger; copper holy symbol of Mzingaloq in the shape of an opening door (20 gp); potions of invisibility and frost giant strength.
@@ -1035,21 +1125,24 @@ D20 Item(s)
 
 ### 10-57: Tolls and Bone Gate
 
-An imposing bone portcullis blocks access between the Underearth and the heqeti shrines on Level 10. The portcullis is made of thick, femur-sized bones lashed together with sinew. The lower portion of the portcullis slides into holes in the floor. A simple winch located on the north wall by the passage to 10-58 allows it to be raised and lowered.
-
-The heqeti keep the portcullis lowered nearly all the time. Entrance is granted to other heqeti and selected sympathetic residents of the Underearth, including a handful of traders (see 10-54). All those entering the through the portcullis must pay a toll of 10 gp or the equivalent. The heqeti chosen (see new monsters) who guard the portcullis deposit the offerings into a 4’-tall, copper statue of a salamander-monster with open mouth. Periodically the guards empty the tolls into the treasury at 10-53.
-
-A frontal assault that does not immediately silence or neutralize the gate-keepers is likely to alarm the whole complex, as one of the heqeti chosen will sound a spiral, demonic horn to 
-alert the neighboring guards (10-54 and 10-56) and eventually all the heqeti nearby. The horn’s blast is likely to lead to a battle royale with all the inhabitants of areas 10-32 to 10-56.
+* An imposing bone portcullis blocks access between the Underearth and the heqeti shrines on Level 10.
+	* It is made of thick, femur-sized bones lashed together with sinew.
+	* The lower portion of the portcullis slides into holes in the floor.
+	* A simple winch on the north wall by the passage to 10-58 raises and lowers it.
+	* The heqeti keep the portcullis lowered nearly all the time.
+		* Entrance is granted to other heqeti and selected sympathetic residents of the Underearth, including a handful of traders (see 10-54).
+		* All entering the through the portcullis must pay a toll of 10 gp or the equivalent 
+	* 4’-tall, copper statue of a salamander-monster stands, with open mouth (250 gp).
+		* The guard deposit offerings here (3790 gp), occasionally emptying it into the treasury at 10-53.
+* 3 heqeti chosen and 1 heqeti weaver (new) guard the gate.
+	* If alarmed, the gate-keepers warn the whole complex, a heqeti chosen sounding a spiral, demonic horn (50 gp) to alert the neighboring guards (10-54 and 10-56) and eventually all the heqeti nearby.
+	* The horn’s blast likely leads to a battle royale with the inhabitants of 10-32 to 10-56.
 
 3 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 40, 38, 37; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice.
 
 1 heqeti weaver (see new monsters), as a 7th-level magic user: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 7; HP 22; #AT 1; Dmg 1-4 (throwing daggers). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); wand of magic missiles (23 
 charges); six throwing daggers; two glass spheres of arcane assistance (one of arcane warding, one of protection) (see new magic items); potion of gaseous form. Spells: enlarge, 
 jump, magic missile, shield; continual light, levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other.
-
-Treasure:
-The copper salamander statue (250 gp), containing small valuables worth 3,790 gp. The sounding horn is worth 50 gp.
 
 ### 10-58: Heqeti Guardroom
 
@@ -1065,11 +1158,16 @@ The copper salamander statue (250 gp), containing small valuables worth 3,790 gp
 
 ### 10-60: Entry Cave
 
-A dimly-lit balcony overlooks this cave of gently sloping flowstone that leads downward into the Underearth. The balcony is 20’ above the floor of the cave; it is formed of worked granite, is pebbled and oily, and holds two braziers filled with glowing coals. A statue and two invisible heqeti chosen (see new monsters) stand atop the balcony. The ceiling of the cave soars another 20’ above the balcony.
-
-The heqeti chosen are tasked with watching the entry cave for dangerous monsters or intruders. They do not attack instantly, but rather wait to gather intelligence. In the case of formidable foes, one slips back to 10-58 to warn the gate guards, while the other hides in the entry cave. If foes look weak or confused, they may (50%) materialize and demand that the intruders retreat.
-
-Statue: The statue is 12’ tall and made of bronze. It depicts a great heqeti hero of antiquity, Qisstep, brandishing a spear fiercely in the direction of area 10-62. The statue is enchanted such that any of good alignment who approach within 10’ cause the statue to bark out threats in Heqeti: “Enemies! Alert! You shall feed the worms of the marsh!” The auditory effect easily alerts the toll-keepers at area 10-57.
+* A dimly-lit balcony overlooks this cave of gently sloping flowstone, leading downward into the Underearth.
+	* The balcony is 20’ above the floor, formed of worked granite, pebbled and oily.
+		* 2 braziers filled with glowing coals.
+		* A 12’ tall statue of bronze depicts the great heqeti hero of antiquity, Qisstep, brandishing a spear fiercely in the direction of 10-62.
+			* It is enchanted so that if good-aligned approach within 10’, it barks out (easily audible to the toll-keepers in 10-57) threats (heqeti): “Enemies! Alert! You shall feed the worms of the marsh!”
+	* The ceiling of the cave soars another 20’ above the balcony.
+* 2 invisible heqeti chosen (new) watch the entry cave from atop the balcony.
+	* They watch for dangerous monsters or intruders. They don't attack instantly, but gather intelligence.
+		* If formidable foes appear, one slips back to 10-58 to warn the gate guards, while the other hides in the entry cave.
+		* If foes look weak or confused, they may (50%) materialize and demand that the intruders retreat.
 
 2 invisible heqeti chosen, as 9th-level thieves: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 9; HP 59, 55: #AT 2; Dmg 1-6 (bite), or 3-8 (javelin +1) or 2-7 (short sword). Special attacks: 
 hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Thief skills: PP 70%, OL 62%, F/RT 60%, MS 70%, HS 56%, HN 30%, CW 98%, RL 45%. Possessions: 4 bone javelins +1 (3-8 dmg); short sword; potion of invisibility.
