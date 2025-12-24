@@ -686,35 +686,31 @@ Summoning Kauket
 
 ### 10-38: Hall of the Builders
 
-This large, 25’-tall chamber is dominated by an enormous carved heqeti head that rises out of a central pool. The head is carved out of a 20’-diameter half-column of stone that rises 15’ into the air before branching into two slender (5’-wide) bridges that connect to the walls of the chamber. The central column is carved to resemble the upturned maw of a heqeti hopper, with the bridges as tongues emerging from that maw. A narrow entrance in the central column allows one to climb a spiral staircase and thus access the tongues/bridges. The carved half-column is ancient, pitted and damaged in places, but still exudes the oily sheen of active heqeti habitations.
+* This 25’-tall chamber is dominated by an enormous carved heqeti head rising from a central pool.
+	* The head is carved from a 20’-thick half-column of stone rising 15’ before branching into two slender (5’-wide) bridges connecting to the walls of the chamber.
+	* It resembles the upturned maw of a heqeti hopper, with the bridges as tongues emerging from that maw.
+	* A narrow entrance in the central column allows one to climb a spiral staircase to access the tongues/bridges.
+	* The carved half-column is ancient, pitted and damaged in places, but still exudes the oily sheen of active heqeti habitations.
+* A 5’-wide walkway circles the chamber 15’ above the floor.
+	* It can be accessed by climbing, or via the tongues/bridges. 
+	* 5'-high bas-relief panels along the walkway show a pictorial history of the heqeti occupation of Arden Vul. 
 
-Circling the chamber at a level 15’ above the floor is a 5’-wide walkway. The walkway can be accessed by climbing, or by using the spiral stair and tongues/bridges. The walkway allows one to view a pictorial history of the heqeti occupation of Arden Vul, in the form of bas-relief panels some 5’ high. The bas-reliefs differ in age and artistic skill, as well as in content; they can be roughly divided into four programs, starting from the northeast and working clockwise.
+Bas-Relief Panels
+* They differ in age and artistic skill; they can be roughly divided into four programs (500 - 1000 gp per panel), starting from the northeast and working clockwise.
 
-Discovery of Arden Vul
-Age: 3,600 years
-Scenes: Primitive heqeti entering a cavern, constructing the ziggurat, genuflecting before Kauket, standing before twin waterfalls (i.e.. 9-66, 9-67)
-Carving Skill: Primitive
-Length: 10 panels, some 50’
+* Discovery of Arden Vul (3,600 years, primitive skill, 10 panels, 50' length)
+	* Primitive heqeti entering a cavern, constructing the ziggurat, genuflecting before Kauket, standing before twin waterfalls (i.e.. 9-66, 9-67)
+* Golden Age of Heqeti Habitation (2,900 years, good skill, 15 panels, 75')
+	* Fighting rudishva, varumani, and varuda; constructing the pukel-manders; re-building the ziggurat; heqeti dwellings along a canyon (9-109); heqeti before a geyser and pool (SL6-1)
+* Wars and Reverses (1,850-2,000 years, begins high skill, last panel is primitive, 5 panels, 25')
+	* A builder confronts a spear-maiden (i.e., Arden); hoppers assault humans; heqeti trying to summon Kauket; the final panels are blank
+* Return of the Heqeti (300 years, impressive skill, 3 panels, 15')
+	* Re-occupying the ziggurat; summoning worms of Qok (new)
 
-Golden Age of Heqeti Habitation
-Age: 2,900 years
-Scenes: Fighting rudishva, varumani, and varuda; constructing the pukel-manders; re-building the ziggurat; heqeti dwellings along a canyon (9-109); heqeti before a geyser and pool (SL6-1)
-Carving Skill: Good
-Length: 15 panels, some 75’
-
-Wars and Reverses
-Age: 1,850-2,000 years
-Scenes: A builder confronts a spear-maiden (i.e., Arden); hoppers assault humans; heqeti trying to summon Kauket; the final panels are blank
-Carving Skill: Begins with high quality, last panel is primitive
-Length: 5 panels, 25’
-
-Return of the Heqeti
-Age: 300 years
-Scenes: Re-occupying the ziggurat; summoning worms of Qok (see new monsters)
-Carving Skill: Impressive
-Length: 3 panels, 15’
-Unalerted: Two heqeti builders and two apprentice weavers are inspecting their racial histories. 
-Alerted: No inhabitants.
+* Unalerted
+	* Two heqeti builders and two apprentice weavers are inspecting their racial histories. 
+* Alerted
+	* No inhabitants.
 
 1 apprentice heqeti weaver (see new monsters), as a 4th-level magic user: SZ M; AL CE; AC 5; MV 120’, 90’ swimming; HD 4; HP 12; #AT 1; Dmg 2-5 (dagger). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: wand of frost (10 charges); curved dagger. Memorized spells: enlarge, magic 
 missile, spider climb; strength, web. Spell book: detect magic, enlarge, magic missile, protection from good, read magic, spider climb; darkness 15’ radius, invisibility, strength, web. 
@@ -725,16 +721,17 @@ infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for
 2 heqeti builders (see new monsters), 6th/6th-level fighter/clerics of Kauket: SZ M; AL CE; AC 1; MV 90’, 120’ swimming; HD 6; HP 46, 44; #AT 1; Dmg 4-9 (short sword +2 of wounding). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: heqeti mail armor (-2 to AC); short sword +2 of wounding, amulet of natural armor +2 (see new magic items). Spells: bless, command, cure light wounds, light, 
 fear; chant, hold person (x2), silence 15’ radius, speak with animals; dispel magic, curse.
 
-Treasure:
-The heqeti historical carvings, if removed from the wall, would bring 500-1,000 gp per panel, depending on the quality.
-
 ### 10-39: Practice Grounds
 
-This floor of this chamber is covered in a 1’ layer of dirt. Its walls are painted deep black, with huge white teardrops on each cardinal face. An 8’-tall, 4’-wide stone pillar rises from the center of the room. To it are shackled three bestial varumani (see new monsters); between the varumani are four practice dummies made of leather-stuffed clay. Eight torches are set into sconces along all four walls.
+* This floor of this chamber is covered in a 1’ layer of dirt and its walls are painted deep black, with huge white teardrops on each cardinal face.
+* An 8’-tall, 4’-wide stone pillar rises from the center of the room.
+	* To it are shackled three bestial varumani (new); between the varumani are four practice dummies made of leather-stuffed clay.
+* Eight torches are set into sconces along all four walls.
 
-Unalerted: If the complex is unalerted, one of the heqeti apprentices and several chosen are found here, practicing spells and weapons skills. The heqeti like to use varumani as sparring dummies due to their regenerative powers. 
-
-Alerted: No one is present.
+* Unalerted
+	* 1 heqeti apprentice and several chosen are practicing spells and weapons skills. The heqeti like to use varumani as sparring dummies due to their regenerative powers. 
+* Alerted
+	* No one is present.
 
 1 apprentice heqeti weaver (see new monsters), as a 4th-level magic user: SZ M; AL CE; AC 5; MV 120’, 90’ swimming; HD 4; HP 12; #AT 1; Dmg 2-5 (dagger). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: wand of magic missiles (54 charges); curved dagger. Memorized spells: enlarge, magic missile, spider climb; strength, web. Spell book: detect magic, enlarge, magic missile, protection from good, read magic, spider climb; darkness 15’ radius, invisibility,  strength, web. 
 
@@ -745,61 +742,74 @@ attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (p
 
 ### 10-40: Quarters of Neepariq the Weaver
 
-Neepariq’s quarters are spartan, especially compared with his rival Cheksib (10-13). The floor is covered with several inches of sand. A tall table (5’) runs across the entirety of the west wall; various objets d’art and curiosities line the table. Four 3’-diameter urns filled with marsh soil and water stand in the corners of the room: from these grow large specimens of the glowing friend (see new flora). Against the east wall is a trapped stone chest. 
-
-Neepariq enjoys the meditative pursuit of drawing elaborate geometric patterns (often a labyrinth) in the sand, sometimes using his stock of pieces of obsidian to accentuate the pattern. The current pattern shows an enormous eye surrounding a dozen teardrops, each picked out in obsidian. A set of heqeti footprints leads from the door to the sleeping niche, to the chest, and to the table. In the northwest corner of the room a concealed ivory coffer 
-is set into a hole in the stone floor under 2” of sand. The coffer is encircled by a thin steel chain attached to a pull ring. If one knows where to look for the ring, it is relatively easy to find; then one can pull the coffer out of the sand with the ring.
-
-Trap (chest): A glyph of warding in the form of energy drain was cast on the chest by the Great Tongue. The glyph drains one level of experience from its victim. 
+* Neepariq’s quarters are spartan, especially compared with his rival Cheksib (10-13).
+	* The floor is covered with several inches of sand.
+		* Heqeti footprints leads from the door to sleeping niche, chest, and table. 
+	* A tall table (5’) runs across the entirety of the west wall; various objets d’art and curiosities line the table.
+	* Large specimens of the glowing friend (flora) grow from four 3’-wide urns filled with marsh soil and water in the corners of the room.
+	* Against the east wall is a trapped stone chest.
+		* It is trapped with an energy drain glyph of warding cast by the Great Tongue.
+		* 1,853 pieces of obsidian, most finger-nail sized (10 gp each).
+	* Neepariq meditates by drawing elaborate geometric patterns (often labyrinths) in the sand, sometimes accentuated with pieces of obsidian.
+		* The current pattern shows an enormous eye surrounding a dozen teardrops, each picked out in obsidian.
+	* In the northwest corner of the room in a depression in the floor, an ivory coffer is concealed under 2” of sand. 
+		* A thin steel chain, shallowly buried, can be used to pull it out of the sand.
+		* Hidden ivory coffer (250 gp): 2 white tears of Kauket (new); 2 vials of Kauket’s vision (av items); 2 heqeti spore bombs (av items); a pledge of Rimmaq-Isfet (new); a bronze disc carved with an image of an Archontean official (75 gp). 
 
 Neepariq, a heqeti weaver (see new monsters), as a 12th-level cleric of Kauket: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 12; HP 81; #AT 1; Dmg 4-9 (staff +2). Constant abilities: 
 infravision; WIS 18 for bonus spells. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); staff +2; a heqeti ring (see new magic items); and a rod of beguiling (13 charges). Cleric spells: bless, cause fear, command (x2), create water, cure light wounds, light, resist cold; augury, chant, hold person (x2), resist fire, silence 15’ radius, speak with animals; animate dead, blindness, dispel magic (x2), prayer, speak with dead; cause serious wounds, divination, protection from 
 good 10’ radius, sticks to snakes; flame strike, true seeing; aerial servant, heal.
 
-Stone Chest: 1,853 pieces of obsidian, most only finger-nail sized (10 gp each). 
-
-Hidden ivory coffer (250 gp): two white tears of Kauket (see new magic items); two vials of Kauket’s vision (see Arden Vul items); two heqeti spore bombs (see Arden Vul items); a pledge of Rimmaq-Isfet (see new magic items); and a bronze disc carved with an image of an Archontean official (75 gp). 
-
 ### 10-41: Quarters of the Apprentices
 
-Seven junior heqeti weavers call this hall home. A low pool filled with murky water occupies the center of the chamber. Fourteen sleeping niches are built into the walls of the chamber. The apprentices rarely spend much time here, as they are tasked with duties throughout the ziggurat area.
+* Seven junior heqeti weavers call this hall home.
+	* A low pool filled with murky water occupies the center of the chamber.
+	* 14 sleeping niches are built into the walls of the chamber.
+		* The apprentices spend little time here, as they are tasked with duties throughout the ziggurat area.
+		* Scattered in the sleeping nooks are 7 pieces of carved coral strung on leather cords (100 gp each), plus 2-12 pieces of jewelry of bits of silver and semi-precious stones (35 gp each).
 
-Unalerted: If the heqeti are taken unawares, then two apprentices are sleeping here.
-
-Alerted: No one is present here. 
+* Unalerted
+	* 2 apprentices are sleeping here.
+* Alerted
+	* No one is present here. 
 
 1 apprentice heqeti weaver (see new monsters), as a 4th-level magic user: SZ M; AL CE; AC 5; MV 120’, 90’ swimming; HD 4; HP 12; #AT 1; Dmg 2-5 (dagger). Constant abilities: infravision.   Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: wand of magic missiles (43 charges); curved dagger. Memorized spells: enlarge, magic missile, spider climb; strength, web. Spell book: detect magic, enlarge, magic missile, protection from good, read magic, spider climb; darkness 15’ radius, invisibility, strength, web. This weaver has been afflicted by the light master effect from the magical nexus at 10-12. Although his infravision is strong, he emits a purple glow visible for 150’.
 
 1 apprentice heqeti weaver (see new monsters), as a 4th-level cleric of Kauket: SZ M; AL CE; AC 5; MV 120, 90’ swimming’; HD 4; HP 25; #AT 1; Dmg 3-8 (club +1). Constant abilities: 
 infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: club +1; heqeti spore bomb (see Arden Vul items). Spells prayed for: bless, command, cure light wounds, darkness, detect magic; chant, hold person, resist fire, silence 15’ radius.
 
-Treasure:
-Scattered in the sleeping nooks are seven pieces of carved coral strung on leather cords (100 gp each), plus 2-12 pieces of jewelry formed of bits of silver and semi-precious stones (35 gp each).
-
 ### 10-42: Barracks of the Ziggurat Guards
 
-This 15’-tall chamber serves as the barracks for the chosen and builders who help to guard the ziggurat and surrounding areas. Each 10’ section of wall has three sleeping niches cut into it; this makes a total of twenty-seven niches. The niches have some rushes from the marsh, plus 1-3 mesh sacks containing personal items. Running through the center of the chamber is a shallow pool (3’ deep, 5’ wide, 15’ long) filled with murky, silty water. At the north and south ends of the pool are peapod-shaped, stone reclining benches. Cleverly mounted to the walls between and beside the sleeping niches are weapons racks, which contain thirty-six spears, seventeen javelins, and six stone maces.
+* This 15’-tall chamber is the barracks of the chosen and builders who help to guard the ziggurat and surrounding areas.
+	* Each 10’ section of wall has three sleeping niches cut into it (total 27 niches).
+		* The niches are lined with rushes from the marsh, plus 1-3 mesh sacks containing personal items (43 small bits of hand-made jewelry (15 gp each); a jade figurine of a duergar (175 gp); sixteen silver plugs (35 sp each); and a sandstone figurine of a gravid heqeti female (55 gp).
+	* Running through the center of the chamber is a shallow pool (3’ deep, 5’ wide, 15’ long) filled with murky, silty water.
+		* At north and south ends are peapod-shaped, stone reclining benches. 
+	* Mounted between and beside the sleeping niches are weapons racks.
+		* 36 spears, 17 javelins, and 6 stone maces.
 
-Unalerted: Four heqeti chosen are resting here.
-
-Alerted: The chamber is empty.
+* Unalerted
+	* Four heqeti chosen are resting here.
+* Alerted
+	* The chamber is empty.
 
 4 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 41, 39, 38, 37; #AT 2; Dmg 3-12 (halberd +1), 1-6 (bite). Special 
 attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Possessions: halberd +1.
 
-Treasure:
-Scattered among the personal effects in the sleeping niches are forty-three small bits of hand-made jewelry (15 gp each); a jade figurine of a duergar (175 gp); sixteen silver plugs (35 sp each); and a sandstone figurine of a gravid heqeti female (55 gp).
-
 ### 10-43: Water Cells
 
-The heqeti keep prisoners in horrible water-filled pits prior to bringing them to the ziggurat (10-35) for sacrifice or consigning them to the efts for food (10-11). The pits are set in the rocky stone around a worked pathway. Each of the sixteen pits is 4’ in diameter and 10’ deep. Prisoners are secured in wooden collars that attach to bolts on the side of each pit; the collars keep each prisoner’s head at level just above the waterline. Eight of the pits currently 
-hold prisoners. None of the prisoners has equipment. Two heqeti hoppers wander among the prisoners, looking for opportunities to poke them with their spears.
+* The heqeti keep prisoners in horrible water-filled pits prior to bringing them to the ziggurat (10-35) for sacrifice or consigning them to the efts for food (10-11).
+	* In the rocky stone around a worked pathway are 16 pits, 4’ across and 10’ deep.
+		* Prisoners are secured in wooden collars, attached to bolts on the side of each pit, keeping each prisoner’s head at level just above the waterline.
+		* 8 of the pits currently hold prisoners, all stripped of gear.
+* Two heqeti hoppers wander among the prisoners, looking for opportunities to poke them with their spears.
 
 Lommt, a lesser varumani taken on Level 9 (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 19 (max 49); #AT 3 or 1; Dmg 3-6/3-6/4-10 or by weapon. Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. If rescued, Lommt takes the first opportunity to flee.
 
 Prika, a true varumani taken on Level 9 (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 25 (max 55); #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Prika gladly helps rescuers.
 
-Gneiss Lucitan, a 5th-level male duergar fighter and trader: SZ S; AL LE; AC 10; MV 60’; HD 5; HP 17 (max 41); #AT 1; Dmg by weapon. Abilities: STR 17, INT 13, WIS 9, DEX 10, CON 14, CHA 4. Constant abilities: infravision. Special attacks: surprise on 3 in 6. Special defenses: surprised only 1 in 10; save versus magical attacks at +4; immune to paralysis and poison; unaffected by illusion or phantasm. Psionic strength: 40. Psionic disciplines: expansion, invisibility, molecular attraction, reduction. Gneiss and Chert Tillis (10-54) are rival traders; the latter convinced the heqeti to imprison Gneiss and seize his wares. Gneiss would like revenge against Chert but will not betray the location of his people. Gneiss is waiting to make his escape using his invisibility and reduction. All he needs is a distraction that takes the guards out of the room.
+Gneiss Lucitan, a 5th-level male duergar fighter and trader: SZ S; AL LE; AC 10; MV 60’; HD 5; HP 17 (max 41); #AT 1; Dmg by weapon. Abilities: STR 17, INT 13, WIS 9, DEX 10, CON 14, CHA 4. Constant abilities: infravision. Special attacks: surprise on 3 in 6. Special defenses: surprised only 1 in 10; save versus magical attacks at +4; immune to paralysis and poison; unaffected by illusion or phantasm. Psionic strength: 40. Psionic disciplines: expansion, invisibility, molecular attraction, reduction. 
+* Gneiss and Chert Tillis (10-54) are rival traders; the latter convinced the heqeti to imprison Gneiss and seize his wares. Gneiss would like revenge against Chert but will not betray the location of his people. Gneiss is waiting to make his escape using his invisibility and reduction. All he needs is a distraction that takes the guards out of the room.
 
 Moder Maab, a male svirfneblin assistant burrow warden, as a 5th-level fighter: SZ S; AL NG; AC 8; HD 5+8; HP 19 (max 39); #AT 1; Dmg by weapon; MR 30%. Abilities: STR 15, INT 16, WIS 14, DEX 14, CON 13, CHA 10. Constant abilities: infravision; ultravision; non-detection. Special attacks: +2 to hit with darts; surprise foes 90% of the time. Special defenses: surprised on 1 in 12; 60% chance to be unseen; immune to illusion; all saves at +3 (except poison, at +2). Special: blindness (1/day), blur (1/day), change self (1/day). Moder was taken in the Underearth by the duergar and traded to the heqeti.
 
@@ -819,31 +829,32 @@ damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psio
 
 ### 10-44: Slime and Ooze Pits
 
-This chamber is the site at which the heqeti prepare their various slimes and work to create new ones. Smelling strongly of ammonia and other chemicals, and lit only dimly by phosphorescence floating in the central pool, the chamber and the experiments performed here are directed by Qassapik, the Chief Weaver (area 10-48). A long central pit runs down the center of the chamber; it is flanked by seven niches, each containing its own smaller pit. The flanking pits are labeled A through G.
+* Here the heqeti prepare their various slimes and experiment to create new ones, directed by Qassapik, the Chief Weaver (10-48)..
+	* Smells strongly of ammonia and other chemicals.
+	* A long central pit (40’ long, 8’ wide, and 8’ deep) runs down the center of the chamber, floating phosphorescence dimly lighting the room. 
+		* It is filled with roiling and burping slimes of different colors and consistencies.
+			* Originally filled with slime extruded by Rimmaq-Isfet and imported from the Abyss, they constantly mutate and are extruded and re-absorbed.
+			* 4-7 heqeti slimes (new) occupy the pool (75% per hoiur one is replaced by 1d2 new ones). Slimes are quiescent when in central or side pits.
+			* The heqeti hope to recreate their great victory against the rudishva by discovering a plague slime that will eliminate the varumani or humans. So far, they have been unsuccessful. 
+	* Seven niches flank the pit, each containing its own smaller pit (A to G).
+	* Stacked by the entrance are twelve 2’-long oval containers of a grey-brown chitinous substance with a porous membrane on one end. 
+		* These are transport and delivery systems for heqeti slimes.  A slime is scooped into the container, and it can be thrown or cast into the water (the porous membrane allows the slime to seep into the water).
 
-Unalerted: Two builders and a 50% chance of Qassapik (10-48).
+* Unalerted
+	* Two builders and a 50% chance of Qassapik (10-48).
+* Alerted
+	* Two builders guard the pits at all times.
 
-Alerted: Two builders guard the pits at all times.
-
-Central Slime Pit: The central pit is 40’ long, 8’ wide, and 8’ deep, and is filled with roiling and burping slimes of different colors and consistencies. Although the pit was originally filled with a fixed set of slimes extruded by Rimmaq-Isfet itself and imported from the Abyss, the noxious pit is constantly mutating, with existing slimes being re-absorbed into the base matter and new slimes being extruded. At any given moment 4-7 heqeti slimes (see new monsters) are visible on the surface of the pool. Each hour, however, there is a 75% that any one of the initial slimes will be replaced by 1-2 new ones. Slimes are quiescent until removed from the pool, at which point they will, if not contained or put into another slime pit, act according to their basic function (see below). The heqeti have been hoping to recreate their great victory against the rudishva by discovering and/or encouraging a plague slime that 
-will eliminate the varumani or humans. So far, however, they have been unsuccessful (or unlucky). 
-
-Pit A: This pit is filled with an oily, thick, greenish slime that is curative to heqeti and other amphibians (cures 2-8 HP once per hour through immersion, or 2-12 HP per full draught drunk), but poisonous to all other species (save at +2 if touched, save at -4 if drunk). It has no motility or combat abilities. There is enough of it to fill 6 delivery devices.
-
-Pit B: A thick, viscous, grayish-green slime is found here; although it stinks horribly, it is a powerful fertilizer, and can be used to enhance plant growth. If ingested it causes hair to grow uncon-trollably at ten times normal speed for 3 weeks. There is enough of it to fill 6 delivery devices. It has no motility or combat abilities.
-
-Pit C: The pit is filled with a thick, white slime the consistency of paint (there is enough of it to fill six delivery devices). The slime is highly corrosive to stone, earth and metal; it will eat away a 10’x10’x2” section in 1-4 hours. It could be used as a crude grenade-like projectile that will eat away metal armor and weapons in 1-3 rounds. To protect the slime pit, the pit is lined with mats made of tightly-woven reeds. Stats: 6 white, oily and thick heqeti slimes 
-(see new monsters, roll for type) slimes (see new monsters, roll for type): SZ S; AL N; AC 6; MV 20’ on liquids; HD 2; HP 14, 13, 11, 11, 10, 9; #AT 1; Dmg special; MR 15%. Special attacks: corrode stone, earth and metal. Special defenses: healed by electricity or lasers; slowed by cold.
-
-Pit D: A deadly type of heqeti slime (see new monsters) fills this pit; there is enough of it to fill six delivery devices. This slime has been harvested from the central pit and carefully encouraged by Qassapik. Stats: 6 burnt orange, softened-butter-like heqeti slimes (see new monsters): SZ S; AL N; AC 6; MV 20’ pseudopod; HD 2; HP 15, 13, 12, 10, 10, 9; #AT 1; Dmg 2-12; MR 15%. Special attacks: kills in 2 rounds if not scraped off. Special defenses: healed by electricity or lasers; slowed by cold.
-
-Pit E: A clear, viscous slime fills this pit. It is used to coat the stone walls in heqeti habitations, and is the source of the pebbled, oily surface of such stonework. If applied to stonework, it produces the ‘heqeti effect’ in 3-6 hours. The slime is otherwise harmless. It has no motility or combat abilities.
-
-Pit F: This pit contains one randomly-determined heqeti slime (see new monsters; use tables to determine type and effect). There is enough of it to fill three delivery devices.
-
-Pit G: This pit contains one randomly-determined heqeti slime (see new monsters; use tables to determine type and effect). There is enough of it to fill three delivery devices.
-
-Delivery Devices: Stacked by the entrance are twelve oval containers, each about 2’ long. The ovals are made of a strange grey-brown chitinous substance and feature a porous membrane on one end. These ovals are transport and delivery systems for heqeti slimes; once a slime is scooped into the container, it can be thrown as a projectile or cast into the water (the porous membrane then allowing the slime to seep into the water).
+Side Pits
+* Pit A: an oily, thick, greenish slime curative to heqeti and other amphibians (2d4 HP per hour of immersion, or 2d6 HP per draught), poisonous to all other species (save at +2 if touched, -4 if drunk). No motility or combat abilities. Enough to fill 6 delivery devices.
+* Pit B: a thick, viscous, grayish-green slime.  It stinks horribly and is a powerful fertilizer. Ingested, it causes uncontrollable hair growth (10x speed) for 3 weeks. Enough to fill 6 delivery devices. No motility or combat abilities.
+* Pit C: a thick, white slime the consistency of paint.  Enough to fill six delivery devices. Highly corrosive to stone, earth and metal (eats 10’ x 10’ x 2” in 1-4 hours). Splashed on metal, it eat aways armor and weapons in 1-3 rounds.  The pit is lined with tightly-woven reed mats to protect it.
+	* 6 white, oily and thick heqeti slimes (new): SZ S; AL N; AC 6; MV 20’ on liquids; HD 2; HP 14, 13, 11, 11, 10, 9; #AT 1; Dmg special; MR 15%. Special attacks: corrode stone, earth and metal. Special defenses: healed by electricity or lasers; slowed by cold.
+* Pit D: a deadly type of heqeti slime, harvested from the central pit and carefully encouraged by Qassapik.  Enough to fill six delivery devices. 
+	* Stats: 6 burnt orange, softened-butter-like heqeti slimes: SZ S; AL N; AC 6; MV 20’ pseudopod; HD 2; HP 15, 13, 12, 10, 10, 9; #AT 1; Dmg 2-12; MR 15%. Special attacks: kills in 2 rounds if not scraped off. Special defenses: healed by electricity or lasers; slowed by cold.
+* Pit E: a clear, viscous slime used to coat the stone walls in heqeti habitations (source of the pebbled, oily surface of such stonework). Applied to stonework, it produces the ‘heqeti effect’ in 3-6 hours. Otherwise harmless; no motility or combat abilities.
+* Pit F: 1 random heqeti slime, enough to fill three delivery devices.
+* Pit G: 1 random heqeti slime, enough to fill three delivery devices.
 
 Qassapik, the Chief Weaver (for stats see 10-48).
 
@@ -857,27 +868,30 @@ Other heqeti slimes (see new monsters) found in one of the specific pits are det
 
 ### 10-45: The Tongue’s Ear
 
-The chamber’s walls are painted white; in the center of each is painted a huge black, barbed spear. Rising 4.5’ from the center of the floor is a large, spiral, horn. The horn is a greenish-shade of yellow, with many ugly carbuncles. The heqeti refer to the horn as “the Tongue’s Ear”, as those seeking an audience with the Great Tongue (10-47) or another of the heqeti leaders must speak their petition into the open mouth of the horn. Such petitions are vocalized through a specialized, permanent magic mouth placed on the north wall of the corridor running between 10-47 and 10-49. To prevent frivolous petitions, four heqeti chosen (see new monsters) stand guard in the chamber. If intruders manage to get 
-to this point without alerting the Great Tongue or others, one of the chosen immediately rushes to the horn and croaks a warning; the heqeti leaders will then flee through the secret door to 10-53 to rally a response.
+* The chamber’s white walls have a huge black, barbed spear painted in the center of each. 
+	* Rising 4.5’ from the center of the floor is a large, spiral, horn; greenish-yellow, with many ugly carbuncles (from an abyssal creature, 1250 gp if carefully broken off from the floor). 
+	* The heqeti call it “the Tongue’s Ear”.  Those seeking an audience with the Great Tongue (10-47) or another of heqeti leader must speak their petition into the open mouth of the horn.  Such petitions are vocalized through a special magic mouth on the north wall of the corridor running between 10-47 and 10-49. 
+* To prevent frivolous petitions, four heqeti chosen (new) stand guard. 
+	* If intruders get to this point without alerting the Great Tongue or others, a chosen rushes to the horn and croaks a warning; the heqeti leaders will flee through the secret door to 10-53 to rally a response.
 
-Unalerted: Four heqeti chosen.
-
-Alerted: No one is present here.
+* Unalerted
+	* Four heqeti chosen.
+* Alerted
+	* No one is present here.
 
 4 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 46, 44, 42, 39; #AT 2; Dmg 3-8 (halberd +1), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. Possessions: halberd +1.
-
-Treasure:
-The horn, from a creature native to the abyss, could be broken off carefully from where it is inserted into the stone floor and sold for 1,250 gp. 
 
 ## Level 10: 46 - 62
 
 ### 10-46: Great Tongue’s Overlook
 
-This ledge provides a view of the marsh and ziggurat from a position 55’ above the floor of the marsh. The worked walls are pebbled and oily, and contain two 5’x5’ panels displaying half-relief sculptures. The sculptures are incredibly lifelike, are still partly painted in vibrant colors, and depict heqeti weavers summoning keqemandri. If hacked out of the walls, they might bring 10,000 gp to an Archontean collector of curiosities.
+* This ledge provides a view of the ziggurat from 55’ above the marsh. 
+	* The worked walls are pebbled and oily, with two 5’x5’ panels of half-relief sculptures of heqeti weavers summoning keqemandri; incredibly lifelike and still partly painted in vibrant colors (10,000 gp to an Archontean collector of curiosities).
 
-Unalerted: If the complex is taken by surprise, there are no inhabitants here.
-
-Alerted: Three heqeti apprentices, waiting to support the Great Tongue (see 10-35) with spells.
+* Unalerted
+	* If the complex is taken by surprise, there are no inhabitants here.
+* Alerted
+	* 3 heqeti apprentices, waiting to support the Great Tongue (10-35) with spells.
 
 2 apprentice heqeti weavers (see new monsters), as a 4th-level magic users: SZ M; AL CE; AC 5; MV 120’, 90’ swimming; HD 4; HP 12, 10; #AT 1; Dmg 2-5 (dagger). Constant abilities: 
 infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: each as a wand of magic missles (14, 17 charges) and a curved dagger. Memorized spells for each: enlarge, magic missile, spider climb; strength, web. Spell books: detect magic, enlarge, magic missile, protection from good, read magic, spider climb; darkness 15’ radius, invisibility,  strength, web. One of the two has been afflicted by the light master effect from the magical nexus at 10-12. Although his infravision is strong, he emits a purple glow visible for 150’.
@@ -887,67 +901,103 @@ infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for
 
 ### 10-47: The Great Tongue
 
-This opulent chamber is the residence of Reepsiq, the heqeti tasked with overseeing the ziggurat and other heqeti activities in Arden Vul. That heqeti is, of course, the Great Tongue.
+* This opulent chamber is the residence of Reepsiq, the Great Tongue, the heqeti tasked with overseeing the ziggurat and other heqeti activities in Arden Vul.
+	* A massive, 10'-wide image of the gaping mouth of Kauket is carved across almost all of the south wall.
+		* A sinuous stone tongue emerges from it, curving down to a shallow, semi-circular pool connected to the south wall.  Reepsiq sleep on one of the upper curves, and the lowest portion of the tongue serves as a throne for audiences.
+	* The pool into which the tongue descends hosts half-dozen glowing friend (flora) specimens, giving the chamber an eerie half-light. 
+	* The other walls are painted black, with numerous white teardrops. 
+	* A symbol of persuasion is on the wall above the inside of the door.
+		* Those entering are affected unless they take special precautions.  	
+	* Against the west wall are two stone chests (locked).
+		* The chests are trapped with energy drain glyphs of warding.
+		* #1) 247 pearls (100 gp each), 799 moss agate gems (10 gp each), and 33 polished rock crystals (50 gp each)
+		* #2) 17 pure white tears of Kauket (new), 3 cleric scrolls (each with dispel magic and symbol); a pledge of Rimmaq-Isfet (new); and 6 pieces of amber carved in the shape of a teardrop (150 gp each).
+	* A magic mouth is located on the wall across from the entrance.
+		* It activates when the horn in 10-45 is spoken into, and repeats those words in a loud, heqeti voice.
 
-A massive carved image of the mouth of Kauket occupies almost all of the south wall; it is easily 10’ in diameter. The mouth is gaping open, and a sinuous stone tongue emanates from it, curving down to join a shallow, semi-circular pool that is also connected to the south wall. The tongue’s curves are such that not only can Reepsiq sleep on one of the upper curves, the lowest portion of the tongue serves as a throne-like chair in which he sits for audiences. The pool into which the tongue descends is home to a half-dozen glowing friend (see new flora) specimens, which give the chamber an eerie half-light. The other walls are painted black, with numerous white teardrops. Against the west wall are two locked and trapped stone chests.
+* Unalerted
+	* Reepsiq is present here. 
+	* If the guards at 10-45 warn him of trouble through the horn/magic mouth, he flees through the secret door to 10-53 to avoid being trapped in his chamber.
+* Alerted
+	* Reepsiq is atop the ziggurat (10-35).
 
-The current Great Tongue is Reepsiq. Reepsiq is bowed with age, and walks with the aid of a walking stick; he is missing one eye, moreover, and bears many battle scars. Despite his kindly, slow-moving, avuncular appearance, Reepsiq is keenly intelligent and capable of moving with startling quickness and direction. He loathes humans, and has made it his goal to expel humans and their ‘allies’ (by which he includes humanoids and even the varumani) from Arden Vul. He reluctantly deals with the other evil Underearth races, and allows a modicum of trade to take place here (see 10-54), but he is at his core a xenophobe. His unshaking confidence and vision have made him trusted and respected, even despite his failure to summon Kauket in person (see 10-37). 
-
-Unalerted: Reepsiq is present here if the heqeti do not suspect trouble. Note that should the guards at 10-45 warn him of trouble through the horn/magic mouth, he will flee through the secret door to 10-53 so as to avoid being trapped in his chamber.
-
-Alerted: If the complex is on alert, Reepsiq is to be found atop the ziggurat (10-35).
-
-Trap (symbol of persuasion): A symbol of persuasion is cast on the wall above the inside of the door; those entering are affected unless they take special precautions.  
-
-Trapped Chests (glyphs of warding): The chests are trapped with glyphs of warding that, if not detected and disarmed, drain an energy level from the hapless visitor.
-
-GM Note: A permanent magic mouth of sorts is located on the wall across from the entrance to this room. It activates whenever someone speaks into the horn in area 10-45, and merely repeats (in a loud, heqeti voice) whatever was spoken there.
+Reepsiq, the Great Tongue
+* Reepsiq is bowed with age, and walks with the aid of a walking stick; he is missing one eye, moreover, and bears many battle scars. 
+* Despite his kindly, slow-moving, avuncular appearance, Reepsiq is keenly intelligent and capable of moving with startling quickness and direction. 
+* He loathes humans, and his goal is to expel humans and their ‘allies’ (by which he includes humanoids and even the varumani) from Arden Vul. 
+* He reluctantly deals with the other evil Underearth races, allowing a modicum of trade to take place here (see 10-54), but he is at his core a xenophobe. 
+* His unshaking confidence and vision have made him trusted and respected, despite his failure to summon Kauket in person (see 10-37). 
 
 Reepsiq, the Great Tongue, as a heqeti weaver (see new monsters) and a 17th-level cleric of Kauket: SZ M; AL CE; AC 1; MV 120’, 90’ swimming; HD 17; HP 79; #AT 1; Dmg 2-4 (staff of the serpent, adder). Constant abilities: infravision; WIS 18 for bonus spells. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: choker of the Great Tongue (see new magic items); a heqeti ring (see new magic items); staff of the serpent (adder); cleric scroll with dispel magic (x2); cleric scroll with gate spell; cleric scroll with symbol of pain; a key to the secret doors leading to 10-53; and six pieces of amber jewelry worth 1,675 gp total. Cleric spells: bless, cause fear, command (x2), cure light wounds (x2), darkness, detect magic, light, protection from good; augury, chant, find traps, hold person (x2), know alignment, resist fire, silence 15’ radius (x2), speak with animals; animate dead, cause blindness, continual darkness, curse, dispel magic, glyph of warding, locate object, prayer, speak with dead; cause serious wounds (x2), cure serious wounds, divination, neutralize poison, protection from good 10’ radius, tongues; commune, cure critical wounds, flame strike, raise dead, true seeing; blade barrier, conjure animals, heal; unholy word.
 
-Treasure:
-In the two locked and trapped stone chests: one contains 247 pearls (100 gp each), 799 moss agate gems (10 gp each), and 33 polished rock crystals (50 gp each); the other contains 17 pure white tears of Kauket (see new magic items), three cleric scrolls, each with 
-dispel magic and symbol upon it; a pledge of Rimmaq-Isfet (see new magic items); and six pieces of amber carved in the shape of a teardrop (150 gp each).
-
 ### 10-48: The Chief Weaver
 
-This chamber is the home of Qassapik, the heqeti Chief Weaver. Built into the west wall are small shrines to both Kauket and Rimmaq-Isfet. Against the east wall are a stone sleeping bench, a stone planter from which rises a specimen of glowing friend (see new flora), and two locked, trapped, stone chests. Against the south wall is a dais on top of which sits a strange ‘throne.’ The throne is in the shape of a teardrop 8’ tall and 5’ wide, with a 3’-wide seat cut into the front side. The teardrop is made of basalt, although it glistens with an oily sheen and smells slightly of burnt sugar. 
+* This chamber is the home of Qassapik, the heqeti Chief Weaver.
+	* Built into the west wall are small shrines to both Kauket and Rimmaq-Isfet.
+		* Kauket: 6 yellow demon’s tusks (~4’ long each) bound together with leather strips, with a human-hide stretched over to form a table top.  A simple copper bowl and a copper knife rest there.
+		* Rimmaq-Isfet: a 4’-tall block of red porphyry with a shallow depression carved in the top, filled with a disgusting stew of blood, guts, and other fluids, swarming with maggots.
+	* Against the east wall:
+		* A stone sleeping bench, a stone planter from which rises a specimen of glowing friend (flora)
+		* 2 stone chests (locked).
+			* Both have energy drain glyphs of warding.  Also have poison needles in the locks (save or die).  Both are empty red herrings.
+	* Against the south wall is a dais on top of which sits a strange basalt ‘throne’ in the shape of a teardrop 8’ tall and 5’ wide, with a 3’-wide seat cut into the front side. 
+		* It glistens with an oily sheen and smells slightly of burnt sugar. 
+		* Beneath the seat is a 3'-square hidden compartment (detect as a secret door), easily pried open. The inside of the lid has a symbol of pain inscribed on it.
+			* 16 teardrop-shaped plugs of silver (25 sp each); 160 pearls (100 gp each); a 5-lb lump of arcanum (new); 6 pure white tears of Kauket (new); a map on lizard hide showing the route through the Underearth to the main heqeti settlement as well as 3-6 other locations of the GM’s devising; an accurate map of all the heqeti areas of Level 9 (i.e., 9-31 to 9-48, 9-75 to 9-82, and 9-109 to 9-125); and Qassapik’s spell book.
 
-Like his contemporary, the Great Tongue, Qassapik is a scarred veteran of countless ambushes, deceits, and betrayals. While looking almost human, his heqeti nature is betrayed by a slit nose and the odor of burnt sugar that his sweat produces (the byproduct of a magical experiment). Qassapik is fanatical in his devotion to Kauket and Rimmaq-Isfet, and constantly spurs Reepsiq to take bolder moves into Arden Vul. His duties include training the weaver apprentices and advising the Great Tongue on all matters connected to arcane magic.
+* Unalerted
+	* 50% chance that Qassapik is inspecting the slime pits (10-44), 25% chance he is here, 25% chance he is in 10-51.
+	* If he is present here when the guards at 10-45 warn the leaders of trouble through the horn/magic mouth, he will flee through the secret door to 10-53.
+* Alerted
+	* No one present. Qassapik is located at 10-35, alongside the Great Tongue.
 
-Shrines: The shrines are simple affairs. The one to Kauket takes the form of six yellow demon’s tusks (about 4’ long each) bound together with leather strips; the ‘top’ of the shrine is a piece of dried human-hide. Atop it is a simple copper bowl and a copper knife. The shrine to Rimmaq-Isfet is a 4’-tall block of red porphyry; a shallow depression is carved into the top of the block. A disgusting stew of blood, guts, and other fluids fills the depression; it is filled with maggots.
+Qassapik
+* Like his contemporary, the Great Tongue, Qassapik is a scarred veteran of countless ambushes, deceits, and betrayals. 
+* While looking almost human, his heqeti nature is betrayed by a slit nose and the odor of burnt sugar that his sweat produces (the byproduct of a magical experiment). 
+* Qassapik is fanatical in his devotion to Kauket and Rimmaq-Isfet, and constantly spurs Reepsiq to take bolder moves into Arden Vul. 
+* His duties include training the weaver apprentices and advising the Great Tongue on all matters connected to arcane magic.
 
-Unalerted: If the complex has not been alerted, there is a 50% chance that Qassapik is found inspecting the slime pits (10-44), a 25% chance that he is here, and a 25% chance that he is in area 10-51. Note that if he is present in his chamber when the guards at 10-45 warn the leaders of trouble through the horn/magic mouth, he will flee through the secret door to 10-53.
-
-Alerted: No one is present. Qassapik is located at 10-35, alongside the Great Tongue.
-
-Trapped Hidden Compartment (symbol of pain): Beneath the seat in the teardrop is a hidden compartment, in which Qassapik stores some valuables. The compartment detects as a secret door, and is easy to pry open once detected. The inside of the lid has a symbol of pain inscribed on it. Within the 3’-square compartment are the following: 16 teardrop-shaped plugs of silver (25 sp each); 160 pearls (100 gp each); a 5-lb lump of arcanum (see new magic 
-items); 6 pure white tears of Kauket (see new magic items); a map made of lizard hide that shows the route through the Underearth to the main heqeti settlement as well as 3-6 other locations of the GM’s devising; an accurate map of all the heqeti areas of Level 9 (i.e., 9-31 to 9-48, 9-75 to 9-82, and 9-109 to 9-125); and Qassapik’s spell book.
-
-Locked and Trapped Chests (glyphs of warding, poisoned locks): Like similar chests, these are trapped with glyphs of warding (energy drain). Unlike others, they are also trapped with poison needles in the locks; the poison kills unless a saving throw is made. The chests are red herrings, however, as they are both empty.
-
-Qassapik, a heqeti weaver (see new monsters), as a 10th/9th-level magic user/cleric of Kauket: SZ M; AL CE; AC 0; MV 120’, 90’ swimming; HD 10; HP 48; #AT 1; Dmg 4-9 (staff of power). Constant abilities: infravision; WIS 18 for bonus spells. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +3 (see new magic items); pledge of Rimmaq-Isfet (see new magic items); staff of power (18 charges); ring of fire resistance; and a key to the secret doors leading to 10-53. Cleric spells: bless, command, create water, cure light wounds, detect magic, protection from good; chant, hold person 
-(x2), resist fire, silence 15’ radius, snake charm; animate dead, curse, dispel magic, feign death; cure serious wounds, protection from good 10’ radius, tongues; flame strike. Magic user spells: enlarge, magic missile (x2), shield; darkness 15’ radius, mirror image, ray of enfeeblement, web; dispel magic, fireball, haste; confusion, polymorph other; cloudkill, cone of cold.
+Qassapik, a heqeti weaver (see new monsters), as a 10th/9th-level magic user/cleric of Kauket: SZ M; AL CE; AC 0; MV 120’, 90’ swimming; HD 10; HP 48; #AT 1; Dmg 4-9 (staff of power). Constant abilities: infravision; WIS 18 for bonus spells. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. 
+* Possessions: amulet of natural armor +3 (see new magic items); pledge of Rimmaq-Isfet (see new magic items); staff of power (18 charges); ring of fire resistance; and a key to the secret doors leading to 10-53. 
+* Cleric spells: bless, command, create water, cure light wounds, detect magic, protection from good; chant, hold person (x2), resist fire, silence 15’ radius, snake charm; animate dead, curse, dispel magic, feign death; cure serious wounds, protection from good 10’ radius, tongues; flame strike. 
+* Magic user spells: enlarge, magic missile (x2), shield; darkness 15’ radius, mirror image, ray of enfeeblement, web; dispel magic, fireball, haste; confusion, polymorph other; cloudkill, cone of cold.
 
 Qassapik’s Spell Book: Burning hands, comprehend lang-uages, detect magic, enlarge, hold portal, identify, light, magic missile, read magic, shield, sleep, unseen servant; continual light, darkness 15’ radius, detect invisibility, knock, magic mouth, mirror image, ray of enfeeblement, scare, shatter, strength, web; blink, dispel magic, fireball, haste, hold person, invisibility 10’ radius, slow, tongues; confusion, fear, fumble, monster summoning II, polymorph other; cloudkill, telekinesis.
 
 ### 10-49: The Second Tongue
 
-These are the quarters of Pikaressa, the heqeti leader in charge of heqeti military matters. They are rather spartan. Along the east wall are stone sleeping bench, a locked stone chest, and a wall-mounted rack with a dozen spears (one is a spear +3). The preserved head of an owlbear is mounted on the south wall; below it are badly reeking, semi-preserved corpses of a human, a varumani, and a kaliyani that Pikaressa uses as practice dummies. By the west 
-wall are several racks holding human-sized armor, trophies of Pikaressa’s battles: they include a full set of archaic Archontean legionary armor from the era of Marius Tricotor (350 gp); a suit of imperial field plate +2 (see Arden Vul items); and a suit of cursed banded mail of vulnerability -2.
+* The spartan quarters of Pikaressa, the heqeti leader in charge of heqeti military matters.
+	* East wall:
+		* A stone sleeping bench
+		* A stone chest (locked).
+			* Pikaressa donates most of her wealth to the ziggurat treasury.
+			* 2,113 ancient silver pennies, a stone statuette of Kauket (100 gp), and a large lump of amber carved in the shape of a heqeti warrior (275 gp). 
+		* A wall-mounted rack with a dozen spears (one is a spear +3).
+	* South wall: 
+		* The preserved head of an owlbear.
+		* Badly reeking, semi-preserved corpses of a human, a varumani, and a kaliyani that Pikaressa uses as practice dummies.
+	* West wall:
+		* Several racks holding human-sized armor, trophies of Pikaressa’s battles:
+			* A full set of archaic Archontean legionary armor from the era of Marius Tricotor (350 gp); a suit of imperial field plate +2 (av items); and a suit of cursed banded mail of vulnerability -2.
+	* Secret Door (east, in hallway, to 10-53): difficult to locate (1 in 8 chance).
+		* Its keyhole appears when ‘open, now!’ is spoken (Heqeti) within 5’ of the wall; each leader holds a key.
+		* Can be beaten down (AC -2, HP 25, edged weapons deal 1 HP damage, non-magic weapons have a 5% cumulative chance per round of breaking, 2% cumulative for magic weapons).
 
-Pikaressa is a strong, vigorous warrior. Dressed in her specially-made mail and wielding her deadly spear, she strikes an imposing figure among the lesser heqeti. She has a curiosity 
-about human culture, which has led her to collect human rings and coins; still, she is as devoted to Kauket as the rest of the leadership. The hoppers and chosen are genuinely afraid of her. 
+* Unalerted
+	* Pikaressa is here.
+	* Note that should the guards at 10-45 warn the leaders through the horn/magic mouth, she flees through the secret door to 10-53 to avoid being trapped here.
+* Alerted
+	* Pikaressa is in 10-36, preparing to lead an ambush against intruders.
 
-Unalerted: Pikaressa is present here when the heqeti are not suspecting trouble. Note that should the guards at 10-45 warn the leaders of trouble through the horn/magic mouth, she will flee through the secret door to 10-53 so as to avoid being trapped in her chamber.
+Pikaressa
+* Pikaressa is a strong, vigorous warrior. Dressed in her specially-made mail and wielding her deadly spear, she strikes an imposing figure among the lesser heqeti. 
+* She has a curiosity about human culture, which has led her to collect human rings and coins; still, she is as devoted to Kauket as the rest of the leadership.
+* The hoppers and chosen are genuinely afraid of her. 
 
-Alerted: If the complex is on alert, Pikaressa is to be found in area 10-36, preparing to lead an ambush against intruders.
-
-Locked Chest: Pikaressa doesn’t keep much wealth, preferring to donate most of it to the ziggurat treasury. The chest holds 2,113 ancient silver pennies (see Arden Vul items), a stone statuette of Kauket (100 gp), and a large lump of amber carved in the shape of a heqeti warrior (275 gp). 
-
-Secret Door (east, in hallway): The secret door to area 10-53 is difficult to locate (1 in 8 chance). It reveals its keyhole to anyone speaking the heqeti words ‘open, now!’ within 5’ of the wall; each of the leaders holds a key. The door can also be beaten down (AC -2, HP 25), although edged weapons only do 1 HP damage and each non-magical weapon used to attack the door has a 5% cumulative chance per round of breaking during the process (magical weapons have a 2% cumulative chance).
-
-Pikaressa, a heqeti builder (see new monsters), as a 12th/5th-level fighter/magic user (see new monsters): SZ M; AL CE; AC -1; MV 90’, 120’ swimming; HD 12; HP 51; #AT 1; Dmg 5-10 (bone spear +3 of life stealing). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: finely-wrought heqeti mail (-4 to AC); ring of protection +2; a bone spear +3 of life stealing; a heqeti ring (see new magic items); a potion of extra healing; a potion of stone-giant strength; a key to the secret doors leading to 10-53, and six plundered gold signet rings, each worth 100-600 gp. Spells memorized: enlarge, magic missile, protection from good, shield; continual light, web; slow. Pikaressa was affected by the magnetism effect produced by the magic nexus at area 10-12. She is content that her mail and rings are effectively bonded to her. In combat, enemies wielding metal weapons have a -2 to hit her due to the magnetism; on a successful hit, moreover, the enemy must make an open doors check or else the enemy’s weapon is effectively stuck to Pikaressa.
+Pikaressa, a heqeti builder (see new monsters), as a 12th/5th-level fighter/magic user (see new monsters): SZ M; AL CE; AC -1; MV 90’, 120’ swimming; HD 12; HP 51; #AT 1; Dmg 5-10 (bone spear +3 of life stealing). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
+* Possessions: finely-wrought heqeti mail (-4 to AC); ring of protection +2; a bone spear +3 of life stealing; a heqeti ring (see new magic items); a potion of extra healing; a potion of stone-giant strength; a key to the secret doors leading to 10-53, and six plundered gold signet rings, each worth 100-600 gp. Spells memorized: enlarge, magic missile, protection from good, shield; continual light, web; slow. 
+* Pikaressa was affected by the magnetism effect produced by the magic nexus at area 10-12. She is content that her mail and rings are effectively bonded to her.
+	* In combat, enemies wielding metal weapons have a -2 to hit her due to the magnetism; on a successful hit, moreover, the enemy must make an open doors check or else the enemy’s weapon is effectively stuck to Pikaressa.
 
 Pikaressa’s Spell Book: Charm person, detect magic, enlarge, light, magic missile, protection from good, read magic, shield, spider climb; continual light, ESP, levitate, web; feign death, haste, slow.
 

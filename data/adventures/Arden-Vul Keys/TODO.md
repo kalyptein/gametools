@@ -217,6 +217,7 @@ intended path
 	* SL 10
 * TBD
 	* Level 9
+* bulletized
 	* Level 10
 * 
 * 
@@ -322,7 +323,6 @@ intended path
 		* dressing
 	* Level 10
 		* redo inside ziggurat inset to scale, walls
-		* bulletize
 		* entities
 		* dressing
 
