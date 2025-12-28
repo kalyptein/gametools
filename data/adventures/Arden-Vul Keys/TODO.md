@@ -205,10 +205,9 @@ intended path
 	* SL 7
 * bulletized
 	* SL 9
-* almost bulletized
-	* Level 6
 * TBD
-	* Level 7
+	* Level 6 (underway)
+	* Level 7 (underway)
 * ready
 	* SL 13
 * TBD
@@ -260,6 +259,7 @@ intended path
 
 * Below Lower
 	* Level 6
+		* bulletize
 		* entities
 		* dressing
 	* SL-4
@@ -322,7 +322,7 @@ intended path
 		* entities
 		* dressing
 	* Level 10
-		* redo inside ziggurat inset to scale, walls
+		* redo (to scale) inset of ziggurat interior, walls
 		* entities
 		* dressing
 

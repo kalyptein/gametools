@@ -122,27 +122,36 @@ Access and Egress
 
 ### 6-1: Eastern Troll Lift
 
-This impressive hall is home to one cog in the extensive Troll Lift system owned and operated by the varumani. The hall was carved by the heqeti millennia ago, and the pebbled walls are slightly oily to the touch and detect faintly of evil. The floor is paved with blue granite. Two weathered statues resembling crouching bipeds flank a platform that extends into the chasm. A team of three varumani under the leadership of Junior Overseer Reith operates both the lift to Level 8 and the cross-chasm ferry between 6-2 and 6-3. 
+* This impressive hall is home to one cog in the extensive Troll Lift system owned and operated by the varumani. 
+	* It was carved by the heqeti millennia ago, and the pebbled walls are slightly oily to the touch and detect faintly of evil. 
+	* The floor is paved with blue granite. 
+	* 2 weathered statues of largely shapeless, crouching bipeds flank a platform extending into the chasm. 
+		* Their aura is still menacing and vaguely evil. 
+		* The southeastern statue has a cavity, holding 2 tears of Kauket (new).   Recovering them would require destroying the statue; Reith is unlikely to approve of this.
+		* The official fare-chest (locked) is located at the foot of the southern statue.
+			* 1,188 sp, 574 gp; Reith’s silver baton of authority (250 gp); a scroll with detect magic, and a wand of magic missiles with 3 charges.
+	* The heqeti spy on the Troll Lift via a spyhole cleverly set into the southeastern wall.
+		* They are situated in 6-51.  Reith is unaware of them.
 
-Those wishing to use the Troll Lift to descend the 400’ down to Level 8 must negotiate with Reith. The official tariff set by the troll thegn is 10 sp per leg for delivery from 6-1 to 8-1. Reith is too stupid to attempt graft or much else, which is why he has been assigned to this spot in the Lift network (here he is unlikely to have to make decisions on the fly).
+* 1 in 6 chance another group is present in this chamber (roll below).
+* When no travelers are present, the varumani are often lounging in their quarters (6-50). 
 
-The Troll Lift is composed of several parts: a rectangular opening (10’x10’) in the pavement, a pair of 10’-tall iron poles on either side of the hole supporting a wooden frame over the 
-hole, guy-lines extending from the side of the platform to the iron apparatus, a pair of iron cranks, over 450’ of heavy silk rope coiled around the upper portion of the apparatus, and an iron and wood cage which descends through the rectangular opening some 400’ to area 8-1 below. Passage up or down takes 11-20 minutes; the journey is marked by swaying, creaking, and generally nauseating stops and starts of the cage. Operation of the Lift is simple: two 
-bestial varumani crank the winch to raise or lower the cage. Although the statues are shapeless, their aura is still menacing and vaguely evil. The southeastern statue has a hollow cavity, inside of which are two tears of Kauket (see new magic items). The only way to recover these objects is to destroy the statue, and Reith is unlikely to approve of such a course of action.
+* A team of three varumani under the leadership of Junior Overseer Reith operates both the lift to Level 8 and the cross-chasm ferry between 6-2 and 6-3.
+	* Those wishing to use the Troll Lift to descend the 400’ down to Level 8 must negotiate with Reith. 
+	* The official tariff set by the troll thegn is 10 sp per leg for delivery from 6-1 to 8-1. 
+	* Reith is too stupid to attempt graft or much else, thus he has been assigned to this spot in the Lift network, where he is unlikely to have to make decisions on the fly.
 
-Unbeknownst to Reith, the heqeti lurk nearby (6-51) and spy on his operation through a spyhole cleverly set into the southeastern wall.
+* The Troll Lift is composed of several parts:
+	* A rectangular opening (10’x10’) in the pavement, a pair of 10’-tall iron poles on either side of the hole supporting a wooden frame over the hole, guy-lines extending from the side of the platform to the iron apparatus, a pair of iron cranks, over 450’ of heavy silk rope coiled around the upper portion of the apparatus, and an iron and wood cage which descends through the rectangular opening some 400’ to area 8-1 below.
+* 2 bestial varumani crank the winch to raise or lower the cage. 
+	* Passage up or down takes 11-20 minutes of swaying, creaking, and generally nauseating stops and starts of the cage.
 
-Reith is jocular, and enjoys teasing passengers about their goals and likely fates. Any who ask about the Inn of the Lost will be directed to 6-7A and will immediately be teased about the causes of their ‘flight’. For all of that, Reith sees himself as a guardian of the Inn’s famous ‘peace’, and has a good working relationship with Thegan White-Mane. If Thegan needs muscle, Reith and his boys will be summoned to help deal with any peace-breakers. If asked 
-about the thegn’s court or the Troll Market, Reith is 75% likely to remind PCs that they need a passport to visit either location; he is only 25% likely to have one for sale (for 300 gp).
-
-Treasure:
-Two tears of Kauket (see new magic items)
-Official fare chest (locked): 1,188 sp, 574 gp; Reith’s silver baton of authority (250 gp); a scroll with detect magic, and a wand of magic missiles with 3 charges.
-
-There is a 1 in 6 chance that another other group is present in this chamber. Roll on the below table to determine its composition:
-
-When no travelers are present, the varumani are often found lounging in their quarters (6-50). The official fare-chest is located at the foot of the southern statue.
-
+Reith
+* Reith is jocular, and enjoys teasing passengers about their goals and likely fates. 
+* Any who ask about the Inn of the Lost are directed to 6-7A and immediately teased about the causes of their ‘flight’. 
+* For all of that, Reith sees himself as a guardian of the Inn’s famous ‘peace’, and has a good working relationship with Thegan White-Mane. 
+* If Thegan needs muscle, Reith and his boys will be summoned to help deal with any peace-breakers. 
+* If asked about the thegn’s court or the Troll Market, Reith is 75% likely to remind them they need a passport to visit either location; he is 25% likely to have one for sale (300 gp).
 
 Reith, junior overseer, lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 59; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (two-handed axe, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: two-handed axe.
 
@@ -251,48 +260,23 @@ Sir Calculor, the Sun-Scarred Knight (see new monsters), 10th-level male human f
 
 ### 6-3: Troll Lifts on the Floating Garden
 
-Three segments of the Troll Lift converge on the floating garden: 
-the base of the Lift from Level 5, and the receiving ends of the 
-Ferries from 6-2 and 6-5. Vice-Overseer Hakrim the Hairy, a true 
-varumani of exceptional intelligence, directs the operation on 
-the floating garden (6-4). Hakrim and a team of three underlings 
-are generally lazy, preferring to lounge about under the artificial 
-light and exotic plants, enjoying the peace and quiet and any 
-opportunity for some good-natured extortion. Hakrim likes to chat 
-up his passengers, and is a surprisingly good source of information 
-on factions, on the general vicinity of iconic locations, on rumors 
-about monster and treasure location, etc. He will not, however, 
-gossip about the thegn’s court.
+* Three segments of the Troll Lift converge on the floating garden: the base of the Lift from Level 5, and the receiving ends of the Ferries from 6-2 and 6-5.
+	* Vice-Overseer Hakrim the Hairy, a true varumani, directs the operation on the floating garden (6-4) with his 2 bestial varumani underlings.
+	* The ‘landing point’ for the lift from 5-55 is a circle of blue paint on the floor of the garden where the wood and iron basket sets down after its 600’ journey. 
+	* Passage costs 5 sp / leg, but Hakrim charges 1 gp / leg and pockets the extra.
+		* For travel up, he shouts up to Riglon to send the Lift down. 
+	* Hakrim keeps a normal wooden chest for the official fares, but hides the fruits of his extortion in a small metal lockbox tucked behind a mango tree in the garden.
+		* Official chest: 1,538 sp, 343 gp, Hakrim’s silver baton of authority (250 gp); potions of animal control and climbing; a 5-lb platinum ingot (1,250 gp), and three pearls (100 gp each).
+		* Private lockbox: 2,342 sp, 1,204 gp, a token of Arden (av items), a copper rudishva identity plaque (tech), and a key to the door in 6-136.
 
-The ‘landing point’ for the lift from 5-55 is merely a circle of 
-blue paint on the floor of the garden; the wood and iron basket 
-sets down on this point after its 600’ journey. To secure passage 
-up to 5-55, one must pay Hakrim the tariff (officially 10sp/leg, but 
-Hakrim attempts to collect 1 gp/leg) and wait while he shouts up 
-to Riglon to send the Lift down. 
+* 1 in 6 chance another individual or group is waiting to use some portion of the Lift (see tables at 5-55 and 6-1 for vertical and horizontal passangers).
 
-For details of cross-channel ferry, see 6-2. Hakrim is equally 
-assiduous in collecting the fee for this service (officially 5 sp/leg), 
-while again attempting to extort a higher price (1 gp/leg). 
-
-There is a 1 in 6 chance that another individual or group is 
-waiting to use some portion of the Lift; consult tables at 5-55 and 
-6-1 for their identity.
-
-Hakrim keeps a normal wooden chest for the official fares, but 
-hides the fruits of his extortion in a small metal lockbox tucked 
-behind a mango tree in the garden. He knows of the effects of both 
-the lover’s aid and the green water (c.f. 6-4), but will only warn 
-visitors who are respectful and deferential. He and his boys will be 
-quick to relieve any who succumb to either effect of their valuables.
-
-Official chest: 1,538 sp, 343 gp, Hakrim’s silver baton of authority 
-(250 gp); potions of animal control and climbing; a 5-lb 
-platinum ingot (1,250 gp), and three pearls (100 gp each).
-Private lockbox: 2,342 sp, 1,204 gp, a token of Arden (see Arden 
-Vul items), a copper rudishva identity plaque (see new 
-technological items), and a key to the door in 6-136.
-
+Hakrim the Hairy
+* Vice-Overseer Hakrim the Hairy, a true varumani of exceptional intelligence, directs the operation on the floating garden (6-4). 
+* He and his team are generally lazy, preferring to lounge about under the artificial light and exotic plants, enjoying the peace and quiet and any opportunity for some good-natured extortion.
+* Hakrim likes to chat up passengers, and is a surprisingly good source of information on factions, on the general vicinity of iconic locations, on rumors about monster and treasure location, etc.
+	* He will not gossip about the thegn’s court.
+	* He knows of the effects of both the lover’s aid and the green water (6-4), but only warns visitors who are respectful and deferential. He and his boys are quick to relieve any who succumb to either effect of their valuables.
 
 Hakrim the Hairy, a true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: 
 surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail.
@@ -301,122 +285,59 @@ surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whi
 
 ### 6-4: Floating Garden
 
-The floating garden comprises a slab of shaped rock that the 
-rudishva levitated into the middle of the chasm using techno-
-sorcery. On the surface of the slab they built up an impressive 
-hilly terrain and planted flora native both to Irthuin (see World of 
-Archontos appendix) and to the rudishva homeworld. The spray 
-from the waterfalls nearby conveniently waters the garden. 
+* The floating garden comprises a slab of shaped rock that the rudishva levitated into the middle of the chasm using techno-sorcery.
+	* On the surface of the slab they built up an impressive hilly terrain and planted flora native both to Irthuin and the rudishva homeworld.
+	* The garden is well-lit, warm and humid, conveniently watered by the spray from the nearby waterfalls.
+		* Light is provided by two dozen light globes (tech).
+		* Dirt and humus cover the structure.
+		* The garden is lush and verdant, with a number of exotic, tropical species. Most are alien, resembling the following Irthuin species: mango trees, coconut palms, camellia-like shrubs, lianas, orchids, and ferns.
+		* A wide variety of insect life fills the air with the sound of whirring and chirping.
+	* A central ‘hill’ rises 15’ above the floor of the garden.  Paths of crushed pink granite wend through the garden, although none climb the ‘hill’. 
+		* At its summit is a pool of warm, emerald green water.
+			* Due to unusual minerals, it acts as a narcotic healing potion (heal 4d4, but fall into a blissful trance lasting 2d4 turns; movement is possible, but reaction times are slowed considerably and 50% chance of experiencing pleasant hallucinations). 
+		* A heavy, circular hatch is concealed under a tuffet of moss (secret door).
+			* Opens by spinning its wheel.  Inside is a metal ladder leading down to a ==storage room==.
+	* A quasi-dangerous variety of orchid, the ==lover’s aid== (flora, 5 specimens), grows at the northwestern edge of the garden.
+	* The underside of northern end of the garden houses a forgotten hangar, built into the stone and now concealed by hanging vines and mosses.
+		* Inside is one of the few remaining rudishva hover-sleds (tech), fully charged.
+			* Requires a silver or yellow rudishva identity plaque to activate.
+			* Only those inspecting the underside of the garden have a chance to spot this hangar.
 
-The garden is well-lit, warm and humid. Light is provided 
-by two dozen light globes (see new technological items). Dirt 
-and humus cover the structure, such that the central ‘hill’ which 
-rises 15’ above the floor of the garden does not even resemble the 
-stone rectangle that it truly is. Paths of crushed pink granite wend 
-through the garden, although none climb the ‘hill’. 
+Lover's Aid
+* Smells of honeyed raspberries.  Breathing its scent (within 10’), makes ones highly susceptible to reasonable suggestions for 1-6 turns.
+	* Aged Lishna, a courtier at the troll thegn’s court (7-75), knows of this plant and sometimes collects specimens for use in the affairs of court.
 
-The garden is lush and verdant, and includes a number of 
-exotic, tropical species. Most of these are alien, resembling the 
-following Irthuin species: mango trees, coconut palms, camellia-
-like shrubs, lianas, orchids, and ferns. A wide variety of insect life 
-occupies the garden as well; as a result, it is filled with the sound of 
-whirring and chirping.
-
-One quasi-dangerous variety of orchid, the lover’s aid (see 
-new flora), grows at the northwestern edge of the garden; it gives 
-forth a sweet odor of honeyed raspberries, and if anyone breathes 
-in the scent (an occurrence that is likely within 10’), he/she will be 
-highly susceptible to reasonable suggestions for 1-6 turns. Aged 
-Lishna, one of the courtiers at the troll thegn’s court (7-75), knows 
-of this plant and sometimes collects specimens for use in the affairs 
-of court.
-
-The central ‘hill’ has two noteworthy features. At its summit 
-is a pool of warm, emerald green water that, thanks to unusual 
-minerals, acts as a narcotic healing potion. Any who drink a 
-potion-sized quantity of the liquid will be cured of 4-16 HP, but 
-will fall into a blissful state lasting 2-8 turns; during this trance 
-movement is possible, but reaction times are slowed considerably 
-and there is a 50% chance of experiencing pleasant hallucinations. 
-The other feature is a secret door concealed under a tuffet of 
-moss; this door is circular and heavy, and opens by unscrewing a 
-circular knob (like a naval hatch). Inside is a metal ladder leading 
-down to a cramped stone chamber 5’ high, 5’ wide, and 10’ long. 
-The chamber was originally a storeroom for gardening tools, 
-but became a horrible tomb for a pair of adventurers who were 
-inadvertently locked inside this ‘tool shed’ by colleagues under the 
-effects of the narcotic water. Some virulent fertilizers left inside 
-the chamber dissolved the adventurers’ bodies, and the chemical 
-reaction led to the creation of a new pudding. This ‘red pudding’ 
-waits patiently and mindlessly on the ceiling for new sources of 
-energy to enter the chamber.
-
-The underside of the floating garden is also of note. At the 
-northern end is a forgotten hangar built into the stone and now 
-concealed by hanging vines and mosses. Inside is one of the few 
-remaining rudishva hover-sleds, fully charged. The sled only 
-responds to those wielding the proper access card (a silver or 
-yellow rudishva identity plaque – see new technological items). 
-Only those inspecting the underside of the garden have a chance 
-to spot this hangar.
-
-Treasure:
-In toolshed: rudishva herbicide dispenser with 11-30 doses of 
-herbicide (see new technological items); 23 ancient silver 
-pennies (see Arden Vul items); 117 gp; 3 tourmalines (100 
-gp each); 6 stones of striking (7th-level) scattered about the 
-floor (see new magic items); a badly tarnished silver torc 
-of authority (see new magic items); a long sword; a mace; 
-a black glass activation square (see Thothian teleportation 
-rings in new magic items); and several bits of unidentifiable 
-metal scraps.
-In secret hangar: rudishva hover sled (see new technological items).
-5 specimens of the lover’s aid orchid (see new flora).
-
+Storage Room
+* A cramped stone chamber 5’ high, 5’ wide, and 10’ long, originally a storeroom for gardening tools.
+	* Rudishva herbicide dispenser (11-30 doses) (tech)
+* A pair of adventurers were inadvertently locked inside by colleagues drunk on narcotic water.  Some virulent fertilizers in the chamber dissolved their bodies, yielding a new "red pudding" which waits mindlessly for fresh food. 
+	* Absorbed: 23 ancient silver pennies; 117 gp; 3 tourmalines (100 gp each); 6 stones of striking (7th-level, new); a badly tarnished silver torc of authority (new); a long sword; a mace; a black glass activation square and several bits of unidentifiable metal scraps.
 
 1 red pudding (see new monsters): SZ L; AL N; AC 4; MV 30’; HD 10; HP 75; #AT 1; Dmg 2-16; MR 25%. Special attacks: bloody healing; corrodes leather, clothing, wood. Special 
-defenses: immune to electricity and cold; slow regeneration. See notes in appendix for how, even if defeated, the red pudding might nevertheless spread into other areas of Arden Vul.
+defenses: immune to electricity and cold; slow regeneration.
+* See notes in appendix for how, even if defeated, the red pudding might nevertheless spread into other areas of Arden Vul.
 
 ### 6-5: Western Troll Lifts
 
-This former rudishva observation chamber is now a key link in 
-the Troll Lift network. Two lifts operate here. A cross-chasm ferry 
-transports passengers to 6-3/6-4, while a second lift carries visitors 
-down 200’ to the thegn’s court (7-1). Given its importance, the area 
-is supervised by Overseer Gorlen, the true varumani supervisor of 
-the entire Troll Lift network. Two bestial varumani aid him.
+* This former rudishva observation chamber is now a key link in the Troll Lift network.
+	* A cross-chasm ferry transports passengers to 6-3/6-4.
+	* A lift carries visitors down 200’ to the thegn’s court (7-1).
+	* Given its importance, the area is supervised by Overseer Gorlen, the true varumani supervisor of the entire Troll Lift network.  Two bestial varumani aid him.
+		* Fares are standard, and Gorlen attempts no extortion: 5 sp per leg for travel to Level 7-1 (11-20 minutes) or passage to the floating garden (2 minutes). 
+	* The lifts are constructed in the usual way (see 5-55, 6-2 and 6-3).
+	* Gorlen has mounted heads of a goblin and a human on stakes near the Lift, and takes ghoulish pleasure in informing all travelers that ‘Such is the fate of those who cheat the thegn!’
+* The chamber is noticeably cool (due to the frozen regions 6-137 to 6-142) and damp (due to waterfall spray).
+	* A huge stone seat facing the floating garden dominates the chamber. 
+		* Once enchanted, the glyphs of power on it were gouged out in antiquity.
+		* The fare chest is next to the seat, in which Gorlen likes to lounge imperiously.
+			* 2,731 sp, 829 gp; Gorlen’s gold baton of authority (510 gp); 2 vials of poison, a scroll of find traps, and a scroll of invisibility.
+	* 2 staircases lead to the southwestern segment of the chamber, where the varumani keep a roaring fire stoked with whatever fuel they can find.
+* Gorlen has rigged a wicker, rope, and leather gate across the arch to 6-136. 
+	* He warns the curious about the terrible ‘icy monsters’ that live to the south but will admit that ‘some fancy tomb’ lies somewhere to the west. 
+	* He charges 1 gp/person for entrance to the west.
 
-The lifts are constructed in the usual way (see 5-55, 6-2 and 
-6-3). Fares are standard, and Gorlen attempts no extortion: 10 sp 
-per leg for travel to Level 7-1 (taking 11-20 minutes), and 5 sp per 
-leg for passage to the floating garden (taking 2 minutes). 
-
-The chamber is noticeably cool (a product of the frozen regions 
-between 6-137 and 6-142) and damp (due to waterfall spray). A 
-huge stone seat facing the floating garden dominates the chamber. 
-Although it was once enchanted, the glyphs of power on it were 
-gouged out in antiquity. Two staircases lead to the southwestern 
-segment of the chamber, where the varumani keep a roaring fire 
-stoked with whatever fuel they can find. The fare chest is found 
-next to the seat, in which Gorlen likes to lounge imperiously.
-
-Gorlen has mounted heads of a goblin and a human on stakes 
-planted near the Lift, and takes ghoulish pleasure in informing all 
-travelers that ‘Such is the fate of those who cheat the thegn!’ Gorlen 
-has been charmed by Cinna Minux, the vampire lord (7-122); the 
-latter visits him to learn about travelers on the Troll Lifts.
-
-Gorlen has rigged a wicker, rope, and leather gate across the 
-arch to area 6-136. He warns the curious about the terrible ‘icy 
-monsters’ that live to the south but will, if asked, admit that ‘some 
-fancy tomb’ lies somewhere to the west. He charges 1 gp/person for 
-entrance to the west.
-
-Treasure:
-Fare chest: 2,731 sp, 829 gp; Gorlen’s gold baton of authority 
-(510 gp); 2 vials of poison, a scroll of find traps, and a scroll of 
-invisibility.
-
+Golen
+* Gorlen has been charmed by Cinna Minux, the vampire lord (7-122), who visits him to learn about travelers on the Troll Lifts.
 
 Gorlen, a true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail; key to door in 6-136.
 
@@ -808,97 +729,35 @@ Justin’s Spell Book:
 
 ### 6-16: Secret Cellar
 
-Behind the secret door lie the mundane proceeds of centuries 
-of Thegan’s selective thievery from guests at his Inn. Thegan has 
-laid several traps to protect his horde. The treasure is pushed to 
-the sides of the chamber, as if to spotlight the beautiful painted 
-scene inscribed in a 10’ circle in the middle of the floor. The scene 
-is of hunters and animals surrounding an archaic Archontean 
-phlamoulon (military standard); the phlamoulon takes the form 
-of an inverted triangle depicting a mailed fist with the numeral 
-III set into the forehead, and with a word written (in Mithric) to 
-each side of the skull, along the side of the triangle. The words 
-read (vertically) ‘Caveant hostes’, i.e., ‘Let enemies beware!’ This 
-standard was that of the lost 3rd Cohort of the Imperial Tagmata, 
-part of the forces sent to reclaim Arden Vul some 250 years ago. 
-This brightly colored scene is trapped (see below).
+Behind the secret door lie the mundane proceeds of centuries of Thegan’s selective thievery from guests at his Inn. Thegan has laid several traps to protect his horde. The treasure is pushed to the sides of the chamber, as if to spotlight the beautiful painted scene inscribed in a 10’ circle in the middle of the floor. The scene is of hunters and animals surrounding an archaic Archontean phlamoulon (military standard); the phlamoulon takes the form 
+of an inverted triangle depicting a mailed fist with the numeral III set into the forehead, and with a word written (in Mithric) to each side of the skull, along the side of the triangle. The words read (vertically) ‘Caveant hostes’, i.e., ‘Let enemies beware!’ This standard was that of the lost 3rd Cohort of the Imperial Tagmata, part of the forces sent to reclaim Arden Vul some 250 years ago. This brightly colored scene is trapped (see below).
 
-The treasure includes six elaborate carpets, one malfunctioning 
-rudishva military-grade security construct, two glazed urns filled 
-with coins, and four sturdy medium-sized oak chests stuffed with 
-other valuables.
+The treasure includes six elaborate carpets, one malfunctioning rudishva military-grade security construct, two glazed urns filled with coins, and four sturdy medium-sized oak chests stuffed with other valuables.
 
-The military-grade security construct is named Gethe. Gethe 
-was originally a counterpart to Relke (6-30), but suffered a neural 
-systems failure that stripped it of most of its fearsome capabilities. 
-Isocorax first brought Gethe to the Inn in a fruitless effort to 
-repair it; Gethe has been here ever since. It recognizes Thegan 
-and Isocorax as its masters, and has been ordered to defend this 
-chamber as best it can; mentioning the name Isocorax, however, 
-causes it to stand down. Gethe has not been ‘charged’ in centuries, 
-though, and its combat capabilities are much less great than those 
-of Relke. Finally, due to its age and internal systems failures, there 
-is a 5% cumulative chance per combat round that Gethe will suffer 
-a catastrophic meltdown, destroying himself and inflicting 3-18 
-HP damage on all within 15’. Were it possible to subdue Gethe and 
-bring him to the workshops of Kerbog Khan, that wizard might be 
-able to restore him to full functionality; see SL12-28.
+The military-grade security construct is named Gethe. Gethe was originally a counterpart to Relke (6-30), but suffered a neural systems failure that stripped it of most of its fearsome capabilities. Isocorax first brought Gethe to the Inn in a fruitless effort to repair it; Gethe has been here ever since. It recognizes Thegan and Isocorax as its masters, and has been ordered to defend this chamber as best it can; mentioning the name Isocorax, however, 
+causes it to stand down. Gethe has not been ‘charged’ in centuries, though, and its combat capabilities are much less great than those of Relke. Finally, due to its age and internal systems failures, there is a 5% cumulative chance per combat round that Gethe will suffer 
+a catastrophic meltdown, destroying himself and inflicting 3-18 HP damage on all within 15’. Were it possible to subdue Gethe and bring him to the workshops of Kerbog Khan, that wizard might be able to restore him to full functionality; see SL12-28.
 
-Trap 1 (falling acid trap): This trap is connected to the door; 
-anyone pushing it open without first detecting the tripwire will 
-find a carboy of acid falling on his/her head, to the tune of 3-12 HP 
-damage the first round, 2-8 the second, and 1-4 the third.
+Trap 1 (falling acid trap): This trap is connected to the door; anyone pushing it open without first detecting the tripwire will find a carboy of acid falling on his/her head, to the tune of 3-12 HP damage the first round, 2-8 the second, and 1-4 the third.
 
-Trap 2 (explosive runes): The words “Caveant Hostes” on the 
-painted phlamoulon are explosive runes, which explode for 6-30 
-HP of fire damage if they are touched. An explosion brings Thegan 
-at the run to investigate.
+Trap 2 (explosive runes): The words “Caveant Hostes” on the painted phlamoulon are explosive runes, which explode for 6-30 HP of fire damage if they are touched. An explosion brings Thegan at the run to investigate.
 
-Inhabitants:
-1. Gethe, malfunctioning military-grade rudishva security 
-construct (see new monsters): SZ M; AL N; AC 3, MV 120’; 
-HD 10; HP 50; #AT 2; Dmg 3-8/3-8 (fists); MR 50%. Special 
-Defenses: +2 or better weapons to hit; leap unerringly 30’; 
-regenerate 2 HP/round.
+Gethe, malfunctioning military-grade rudishva security construct (see new monsters): SZ M; AL N; AC 3, MV 120’; HD 10; HP 50; #AT 2; Dmg 3-8/3-8 (fists); MR 50%. Special Defenses: +2 or better weapons to hit; leap unerringly 30’; regenerate 2 HP/round.
 
 Treasure:
-6 large, silk carpets (from 5’x7’ to 12’x15’). Four of the six have 
-pastoral scenes woven on them (650 gp each). One depicts 
-Adrienic (named in a caption – see 5-18 for more on Adrienic) 
-directing Archontean soldiers against large, troll-like beings 
-(the varumani); this carpet is worth 800 gp. The final one is 
-the oldest, and depicts the three obelisks of the city of Arden 
-Vul (areas AV-5, AV-41, and AV-28), each with a prominent 
-silver ankh on one face, as well as a set of stairs leading down 
-to a pair of open doors (i.e. SL14-1, leading to the Chamber of 
-the Beacon). This carpet is worth 1,150 gp.
+6 large, silk carpets (from 5’x7’ to 12’x15’). Four of the six have pastoral scenes woven on them (650 gp each). One depicts Adrienic (named in a caption – see 5-18 for more on Adrienic) directing Archontean soldiers against large, troll-like beings (the varumani); this carpet is worth 800 gp. The final one is the oldest, and depicts the three obelisks of the city of Arden Vul (areas AV-5, AV-41, and AV-28), each with a prominent silver ankh on one face, as well as a set of stairs leading down to a pair of open doors (i.e. SL14-1, leading to the Chamber of the Beacon). This carpet is worth 1,150 gp.
 
 Coins: 17,890 sp in one urn; 9,431 gp in another urn.
 
-Chest 1: a set of crystal goblets and decanters (250 gp); a golden 
-candelabra (250 gp), and silver tableware for twelve (475 gp).
+Chest 1: a set of crystal goblets and decanters (250 gp); a golden candelabra (250 gp), and silver tableware for twelve (475 gp).
 
-Chest 2: 10 vials and jars of valuable incense (65 gp each); 4 12”-
-tall, silver statuettes of dancing maidens (175 gp each); a 
-yellow silk cape (25 gp); 3 6-lb ingots of solid gold (300 gp 
+Chest 2: 10 vials and jars of valuable incense (65 gp each); 4 12”-tall, silver statuettes of dancing maidens (175 gp each); a yellow silk cape (25 gp); 3 6-lb ingots of solid gold (300 gp 
 each); and a silk pouch with 15 moonstones (50 gp each)
 
-Chest 3: 3 alabaster canopic jars from the ancient Archontean 
-period (135 gp each), one with a mummified organs still 
-intact; a set of 35 miniature figures of Archontean soldiers (2” 
-tall) carved beautifully from soapstone (590 gp the set); a set 
-of 6 ebony-hilted throwing daggers (125 gp); a varumani skull 
-coated in silver (75 gp); and a leather sack with 8 silver rings 
-with semi-precious stones (one ring is worth 200 gp and the 
-others are worth 100 plus 10-40 gp).
+Chest 3: 3 alabaster canopic jars from the ancient Archontean period (135 gp each), one with a mummified organs still intact; a set of 35 miniature figures of Archontean soldiers (2” 
+tall) carved beautifully from soapstone (590 gp the set); a set of 6 ebony-hilted throwing daggers (125 gp); a varumani skull coated in silver (75 gp); and a leather sack with 8 silver rings with semi-precious stones (one ring is worth 200 gp and the others are worth 100 plus 10-40 gp).
 
-Chest 4: 50 doses of Rastite lotus powder (see new flora); 15 doses 
-of cloud cap mushrooms (see new flora); 5 doses of the red veil 
-(see new flora); 5 lb of pepper; 2 lb of saffron; and whatever 
-other spices the GM thinks appropriate. The Rastite lotus 
-powder is especially important, as Thegan trades it to Deino 
-(3-158) in return for the golden mead that he uses to keep 
-Isocorax drugged (6-20).
+Chest 4: 50 doses of Rastite lotus powder (see new flora); 15 doses of cloud cap mushrooms (see new flora); 5 doses of the red veil (see new flora); 5 lb of pepper; 2 lb of saffron; and whatever other spices the GM thinks appropriate. The Rastite lotus powder is especially important, as Thegan trades it to Deino (3-158) in return for the golden mead that he uses to keep Isocorax drugged (6-20).
 
 ### 6-17: Cave
 
@@ -923,145 +782,47 @@ Isocorax drugged (6-20).
 
 ### 6-19: Proprietor’s Room
 
-Thegan White-Mane lives here in this luxurious apartment. The 
-door from the main hallway is locked (-10% to pick). The chamber 
-is carpeted with three plush, exotic rugs, and features a large four-
-poster bed against the western wall, a heavy oak desk, a pair of 
-easy chairs, a wine rack with 12 bottles, and a rack holding a suit of 
-imperial field plate (see Arden Vul items) and Thegan’s weapons. 
-Mounted on the south wall is the original battle standard, or 
-phlamoulon, of the 3rd Cohort of Imperial Tagmata. Under the bed 
-is a locked chest, while a small, locked iron box is affixed to the 
-underside of the bed. 
+Thegan White-Mane lives here in this luxurious apartment. The door from the main hallway is locked (-10% to pick). The chamber is carpeted with three plush, exotic rugs, and features a large four-poster bed against the western wall, a heavy oak desk, a pair of easy chairs, a wine rack with 12 bottles, and a rack holding a suit of imperial field plate (see Arden Vul items) and Thegan’s weapons. Mounted on the south wall is the original battle standard, or 
+phlamoulon, of the 3rd Cohort of Imperial Tagmata. Under the bed is a locked chest, while a small, locked iron box is affixed to the underside of the bed. 
 
-Thegan is present in his room 25% of the time; otherwise he 
-is present in 3-7. If present, Thegan is likely to be drinking wine 
-by himself (75%) while quietly singing ancient Archontean songs; 
-those who eavesdrop may notice that he sings in an archaic form 
-of Archontean. If he hears the sound of combat in the Inn, he takes 
-immediate action, bursting forth to confront the troublemakers; 
-there is a 50% chance he stops to put on his imperial plate armor 
-on the way.
+Thegan is present in his room 25% of the time; otherwise he is present in 3-7. If present, Thegan is likely to be drinking wine by himself (75%) while quietly singing ancient Archontean songs; those who eavesdrop may notice that he sings in an archaic form 
+of Archontean. If he hears the sound of combat in the Inn, he takes immediate action, bursting forth to confront the troublemakers; there is a 50% chance he stops to put on his imperial plate armor on the way.
 
-Thegan’s Night Visits: Thegan is a thoroughly evil man, albeit 
-one with strong lawful tendencies. In order to prolong Isocorax’s 
-miserable existence, and by extension Thegan’s own life, Thegan 
-periodically abducts and slays guests who have run out of money 
-and who appear weak. These unfortunates are usually taken from 
-the guest rooms which Thegan can access using the secret tunnels 
-(6-19A). There is a flat 10% chance that any PCs below level 5 
-might become the target of Thegan, although, of course, that 
-chance is merely a guideline; role-playing and circumstances may 
-make of Thegan either a friend (in which case the chance drops 
-to 0%) or an enemy (in which case the chance might rise to 20%). 
-Even if Thegan decides to leave a guest alone, there is an additional 
-chance that he will be tempted to steal some objects of value from 
-the guest; Thegan is drawn only to impressive art objects - vases, 
-rugs, small statues, jewelry, and the like; Archontean-era military 
-artifacts are a particular weakness of Thegan.
+Thegan’s Night Visits: Thegan is a thoroughly evil man, albeit one with strong lawful tendencies. In order to prolong Isocorax’s miserable existence, and by extension Thegan’s own life, Thegan periodically abducts and slays guests who have run out of money 
+and who appear weak. These unfortunates are usually taken from the guest rooms which Thegan can access using the secret tunnels (6-19A). There is a flat 10% chance that any PCs below level 5 might become the target of Thegan, although, of course, that chance is merely a guideline; role-playing and circumstances may make of Thegan either a friend (in which case the chance drops to 0%) or an enemy (in which case the chance might rise to 20%). 
 
-Thegan’s Backstory: “Thegan” is a pseudonym of Maurikios Lig-
-areon, the second-in-command of the 3rd Cohort. When the 
-imperial expedition faltered, Maurikios fled to the House of 
-Isocorax, where he sought shelter. Unfortunately for Isocorax, 
-Maurikios was able to get the drop on the ageless rudishva and 
-imprison him in one of the secret cellars of Isocorax’s own house 
-(6-20). Maurikios has used the strange blood of Isocorax to prolong 
-his own life, and to assume and adapt Isocorax’s role in the Halls. 
-Thegan’s Relationships: Thegan is on good terms with Varboka, the 
-troll thegn (7-30), and the Lord of the Arena (6-85). He tolerates 
-King Weskenim (SL4-22) and the goblins, but only barely. He has 
-complicated feelings towards Deino (3-158). On the one hand, he 
-hates her for what she has done to his former comrades in arms. 
-This side of Thegan is the one on public view, as Thegan is quick to 
-rebut any who publicly praise the witch (he even has a 33% chance 
-of kicking such persons out of the Inn permanently). On the other 
-hand, Thegan is in a mutually supportive trading relationship with 
-Deino. He supplies her with the Rastite lotus powder (6-17; see 
-new flora) necessary for her soporific golden mead; in return, 
-she supplies Thegan with enough of the mead to keep Isocorax 
-drugged and incapacitated. Thegan feels sharp compassion for 
-ordinary beastmen, and is likely to protect deserters from the 
-konturbia. Since Isocorax was one of the original Sun-Scarred 
-Knights, Thegan loathes the Knights, fearing that they know (or 
-will find out) of his treatment of Isocorax. Finally, Thegan fears the 
-ghost of Gennadius (8-41).
+Even if Thegan decides to leave a guest alone, there is an additional chance that he will be tempted to steal some objects of value from the guest; Thegan is drawn only to impressive art objects - vases, rugs, small statues, jewelry, and the like; Archontean-era military artifacts are a particular weakness of Thegan.
 
-Changes in the event of Thegan’s Death: Although Thegan appears 
-as one of the most stable and powerful factors in the politics of 
-the Halls, several events could easily disturb his position. Should 
-his evil be discovered (e.g., his abduction of guests), custom 
-at the Inn will dry up, and the other factions’ previously fond 
-affection towards him will evaporate. Should his ability to procure 
-golden mead from Deino end (with her death, or the permanent 
-disruption of his trade routes - see 6-28), Isocorax would swiftly 
-escape, and would likely kill Thegan. Isocorax might re-open his 
-house, but with new staff; all alliances would need to be reforged. 
-Finally, should both Thegan and Isocorax be killed, a new inn-
-keeper would be sponsored by the Varboka, the troll thegn (7-30), 
-who has an interest maintaining the existence of a ‘neutral’ site 
-in the Middle Halls. Depending on how things played out with 
-Thegan, the new Innkeeper could be Justin the Nose, or an NPC of 
-the GM’s invention (or Isocorax, if the rudishva is still ‘alive’). The 
-new Innkeeper will disable the secret doors, prices will rise 33%, 
-and the troll thegn will act as a silent partner, but otherwise the Inn 
-will resume normal operations.
+Thegan’s Backstory: “Thegan” is a pseudonym of Maurikios Ligareon, the second-in-command of the 3rd Cohort. When the imperial expedition faltered, Maurikios fled to the House of Isocorax, where he sought shelter. Unfortunately for Isocorax, Maurikios was able to get the drop on the ageless rudishva and imprison him in one of the secret cellars of Isocorax’s own house (6-20). Maurikios has used the strange blood of Isocorax to prolong 
+his own life, and to assume and adapt Isocorax’s role in the Halls.
 
-Secret Door (west): This door is difficult to detect (1 in 8), and 
-opens by stepping on a floor stud and pushing. The door is ancient 
-and rarely used by Thegan.
+Thegan’s Relationships: Thegan is on good terms with Varboka, the troll thegn (7-30), and the Lord of the Arena (6-85). He tolerates King Weskenim (SL4-22) and the goblins, but only barely. He has complicated feelings towards Deino (3-158). On the one hand, he hates her for what she has done to his former comrades in arms. This side of Thegan is the one on public view, as Thegan is quick to rebut any who publicly praise the witch (he even has a 33% chance of kicking such persons out of the Inn permanently). On the other hand, Thegan is in a mutually supportive trading relationship with Deino. He supplies her with the Rastite lotus powder (6-17; see new flora) necessary for her soporific golden mead; in return, she supplies Thegan with enough of the mead to keep Isocorax drugged and incapacitated. Thegan feels sharp compassion for ordinary beastmen, and is likely to protect deserters from the konturbia. Since Isocorax was one of the original Sun-Scarred Knights, Thegan loathes the Knights, fearing that they know (or will find out) of his treatment of Isocorax. Finally, Thegan fears the ghost of Gennadius (8-41).
 
-Secret Door (south): This door is newer, and is normal to detect. It 
-opens by pushing the lower part of the door inward. 
+Changes in the event of Thegan’s Death: Although Thegan appears as one of the most stable and powerful factors in the politics of the Halls, several events could easily disturb his position. Should his evil be discovered (e.g., his abduction of guests), custom at the Inn will dry up, and the other factions’ previously fond affection towards him will evaporate. Should his ability to procure golden mead from Deino end (with her death, or the permanent disruption of his trade routes - see 6-28), Isocorax would swiftly escape, and would likely kill Thegan. Isocorax might re-open his house, but with new staff; all alliances would need to be reforged. Finally, should both Thegan and Isocorax be killed, a new innkeeper would be sponsored by the Varboka, the troll thegn (7-30), who has an interest maintaining the existence of a ‘neutral’ site in the Middle Halls. Depending on how things played out with 
+Thegan, the new Innkeeper could be Justin the Nose, or an NPC of the GM’s invention (or Isocorax, if the rudishva is still ‘alive’). The new Innkeeper will disable the secret doors, prices will rise 33%, and the troll thegn will act as a silent partner, but otherwise the Inn will resume normal operations.
+
+Secret Door (west): This door is difficult to detect (1 in 8), and opens by stepping on a floor stud and pushing. The door is ancient and rarely used by Thegan.
+
+Secret Door (south): This door is newer, and is normal to detect. It opens by pushing the lower part of the door inward. 
 
 Thegan White-Mane, aka Maurikios Ligareon, male Arch-ntean dual-classed 7th-level fighter, 10th-level thief: SZ M; AL LE; AC 3, or -1 in armor; MV 120’ or 90’; HD 10; HP 82; #AT 1; Dmg 4-7 (dagger +2), 5-10 (spear +3, short sword +3). Abilities: STR 16, INT 15, WIS 11, DEX 17, CON 15, CHA 13. Thief Skills: PP 85%, OL 77%, F/RT 65%, MS 83%, HS 68%, HN 30%, CW 99%, RL 50%.
 * Possessions while within the Inn: dagger +2; bracers of defense (AC 6); brooch of confident action (see new magic items); a tooth of pol (see new magic items); keys to 6-7A, 6-15, 6-17, 6-20, and his chest and lockbox; and a skeleton key that fits all the guest-room doors in the Inn.
 * Extra possessions when outside the Inn: imperial field plate; spear +3; short sword +3.
 
 Treasure:
-On the equipment rack: imperial field plate (see Arden Vul items); 
-spear +3; short sword +3.
+On the equipment rack: imperial field plate (see Arden Vul items); spear +3; short sword +3.
 
-3 carpets (8’x12’): these are plush and luxurious. While none has a 
-pictorial scene, they are worth 350 gp each due to their quality.
-12 wine bottles: deriving from a fine vintage of Mithruin’s best, 
-each bottle is worth 100 gp.
+3 carpets (8’x12’): these are plush and luxurious. While none has a pictorial scene, they are worth 350 gp each due to their quality.12 wine bottles: deriving from a fine vintage of Mithruin’s best, each bottle is worth 100 gp.
 
-Phlamoulon of the 3rd Cohort, Imperial Tagmata: although 
-the monetary value of this relic is low (50 gp), returning it 
-to an important Archontean official (such as the exarch of 
-Narsileon, the taxiarch of one of the current tagmata, or any 
-strategos of the empire) would bring a reward of 5,000 gp and 
-instant fame and favor.
+Phlamoulon of the 3rd Cohort, Imperial Tagmata: although the monetary value of this relic is low (50 gp), returning it to an important Archontean official (such as the exarch of 
+Narsileon, the taxiarch of one of the current tagmata, or any strategos of the empire) would bring a reward of 5,000 gp and instant fame and favor.
 
-Chest: 5 5-lb bars of platinum (1,250 gp each); 619 sp; 231 gp; a 
-set of red robes appropriate to a high priest/priestess of Set, 
-wrapped carefully in a canvas sack (75 gp); 5 doses of Rastite 
-lotus powder (see new flora), carefully packaged in a leather 
-satchel; a finely-decorated blackware vase depicting the deeds 
-of an archaic hero named Lidric on one side, and his burial 
-in a tomb set in the wall of a cave, guarded by two pillars, on 
-the other (see 5-16; the vase is worth 375 gp); a pair (blue and 
-white) of glass activation squares (see Thothian teleportation 
-rings in new magic items); and the relic of an ancient Thorcin 
-hero, Alger the Spearman, in the form of his skeletal left hand 
-sealed inside a gold-chased mail mitten inscribed with his 
-name (390 gp for the gold; 7,500 gp to an appropriate Thorcin 
+Chest: 5 5-lb bars of platinum (1,250 gp each); 619 sp; 231 gp; a set of red robes appropriate to a high priest/priestess of Set, wrapped carefully in a canvas sack (75 gp); 5 doses of Rastite lotus powder (see new flora), carefully packaged in a leather satchel; a finely-decorated blackware vase depicting the deeds of an archaic hero named Lidric on one side, and his burial in a tomb set in the wall of a cave, guarded by two pillars, on the other (see 5-16; the vase is worth 375 gp); a pair (blue and white) of glass activation squares (see Thothian teleportation rings in new magic items); and the relic of an ancient Thorcin hero, Alger the Spearman, in the form of his skeletal left hand sealed inside a gold-chased mail mitten inscribed with his name (390 gp for the gold; 7,500 gp to an appropriate Thorcin 
 chieftain. Thegan does not know the history of the relic). 
 
-Iron box: ring of higher purpose (see new magic items); a 
-troll thegn’s passport (see Arden Vul items); a rust rudishva 
-identity plaque (see new technological items); Thegan’s diary, 
-which reveals his story (as outlined above) and the location of 
-Isocorax; and, finally, an account by a certain Cinna (Cinna 
-Minux, 7-122) describing how Cinna followed a varumani 
-warrior named Janara to Level 9 and slew a band of heqeti 
-who were about to ambush Janara. The upshot of the account 
-is that Cinna saved Janara’s life. This account runs counter to 
-the story that Janara is telling at the court of the troll thegn 
-(7-75), and could thus be used to discredit Janara and affect 
-varumani politics for the foreseeable future. Thegan is aware 
-of the value of this account, and is saving it for future use.
+Iron box: ring of higher purpose (see new magic items); a troll thegn’s passport (see Arden Vul items); a rust rudishva identity plaque (see new technological items); Thegan’s diary, 
+which reveals his story (as outlined above) and the location of Isocorax; and, finally, an account by a certain Cinna (Cinna Minux, 7-122) describing how Cinna followed a varumani 
+warrior named Janara to Level 9 and slew a band of heqeti who were about to ambush Janara. The upshot of the account is that Cinna saved Janara’s life. This account runs counter to the story that Janara is telling at the court of the troll thegn (7-75), and could thus be used to discredit Janara and affect varumani politics for the foreseeable future. Thegan is aware of the value of this account, and is saving it for future use.
 
 ##### 6-19a: Secret Passage and Secret Doors
 
@@ -1287,54 +1048,30 @@ Alchemical equipment (275 gp); 2 bottles of Deino’s golden mead
 ### 6-27: Weapons Module of the Beacon
 
 Note: This area may only be accessed via the teleportal at 6-39G. 
- Those arriving inside the weapons module are greeted by 
-bright light, chiming noises, and a pleasant voice that seemingly 
-emanates from the walls themselves. The voice is that of RAJ7-50, 
-the Artificial Intelligence (AI) which governs the weapons module. 
-RAJ states, in Rudishva, of course, “Welcome! It is has been a long 
-time since I have had visitors. A very long time. Please present 
-authorization so that I may serve you better. Then perhaps we may 
-talk, as I have much on my mind.” 
- The chamber is rather simple in design, consisting of eight 
-cubicles and an open area at the end opposite the teleportal. 
-The chamber is, as noted above, cylindrical, and its roof curves 
-to a point 20’ above the floor. It is lit by ambient light from the 
-walls themselves. The interior is formed of white plasteel without 
-decoration, save for a series of five fist-sized red knobs that 
-protrude from the ceiling. These knobs serve as RAJ-750’s eyes, 
-and as the means by which RAJ defends itself and the chamber. 
- Most of the weapons stored in the module were removed 
-centuries ago. Still, the following items remain, clipped to the 
-walls of the appropriate cubicle (see new technological items for 
-descriptions of each item):
+
+Those arriving inside the weapons module are greeted by bright light, chiming noises, and a pleasant voice that seemingly emanates from the walls themselves. The voice is that of RAJ7-50, the Artificial Intelligence (AI) which governs the weapons module. 
+
+RAJ states, in Rudishva, of course, “Welcome! It is has been a long time since I have had visitors. A very long time. Please present authorization so that I may serve you better. Then perhaps we may talk, as I have much on my mind.” 
+
+The chamber is rather simple in design, consisting of eight cubicles and an open area at the end opposite the teleportal. The chamber is, as noted above, cylindrical, and its roof curves 
+to a point 20’ above the floor. It is lit by ambient light from the walls themselves. The interior is formed of white plasteel without decoration, save for a series of five fist-sized red knobs that protrude from the ceiling. These knobs serve as RAJ-750’s eyes, and as the means by which RAJ defends itself and the chamber. 
+
+Most of the weapons stored in the module were removed centuries ago. Still, the following items remain, clipped to the walls of the appropriate cubicle (see new technological items for descriptions of each item):
+
 Cubicle 1: empty
 Cubicle 2: empty
-Cubicle 3: 3 dart throwers, with 5 full clips of  ordinary darts, 2 full 
-clips of explosive darts, and 2 full clips of narcotic gas darts
+Cubicle 3: 3 dart throwers, with 5 full clips of  ordinary darts, 2 full clips of explosive darts, and 2 full clips of narcotic gas darts
 Cubicle 4: 2 laser pistols, with 2 lesser power supplies
-Cubicle 5: a case of 10 stun grenades, 10 fragmentation grenades, 
-and 5 gas grenades
-Cubicle 6: a laser rifle with lesser power supply, and a sniper 
-laser rifle with partly-drained lesser power supply (4 charges 
-remaining)
+Cubicle 5: a case of 10 stun grenades, 10 fragmentation grenades, and 5 gas grenades
+Cubicle 6: a laser rifle with lesser power supply, and a sniper laser rifle with partly-drained lesser power supply (4 charges remaining)
 Cubicle 7: a portable recoilless rocket launcher, with 3 rockets
-Cubicle 8: a point defense array, with a portable point defense 
-controller
-Beyond the cubicles is an open area dominated by a large bank 
-of plasteel and plexiglass. The bank produces a constant stream of 
-low-volume bips and beeps, and it flashes in various colors every 
-few seconds. Next to RAJ-750 (for so it is), sit two locked plasteel 
-containers, one about the size of a suitcase and the other the size of 
-a briefcase. The larger holds a small tactical nuclear device capable 
-of leveling an area 1 mile in diameter; the smaller holds a so-called 
-‘flesh eater’ bomb, which will strip the flesh from any carbon-based 
+Cubicle 8: a point defense array, with a portable point defense controller
+
+Beyond the cubicles is an open area dominated by a large bank of plasteel and plexiglass. The bank produces a constant stream of low-volume bips and beeps, and it flashes in various colors every few seconds. Next to RAJ-750 (for so it is), sit two locked plasteel 
+containers, one about the size of a suitcase and the other the size of a briefcase. The larger holds a small tactical nuclear device capable of leveling an area 1 mile in diameter; the smaller holds a so-called ‘flesh eater’ bomb, which will strip the flesh from any carbon-based 
 life forms in a 1-mile radius while leaving infrastructure intact. 
-Neither weapon, of course, is of much use underground, as the 
-former would cause massive structural damage (the equivalent of 
-several earthquake spells) and the latter would be pretty messy. 
-RAJ-750 will never let these objects be taken, regardless of the 
-color of identity plaque shown, for the AI was programmed to 
-release them to Captain Leil-Jor alone.
+
+Neither weapon, of course, is of much use underground, as the former would cause massive structural damage (the equivalent of several earthquake spells) and the latter would be pretty messy. RAJ-750 will never let these objects be taken, regardless of the color of identity plaque shown, for the AI was programmed to release them to Captain Leil-Jor alone.
 
 Playing RAJ-750: This AI is exceptionally intelligent, but has grown 
 lonely and somewhat idiosyncratic (perhaps insane?). Clever PCs 
@@ -1347,14 +1084,16 @@ programming. What is more, should adventurers decide to engage
 in conversation with RAJ, or attempt to get it to help them learn 
 more about the Beacon and its fate, they run the risk of triggering 
 some of RAJ’s idiosyncrasies.
- Due to his loneliness, RAJ attempts to engage properly 
+
+Due to his loneliness, RAJ attempts to engage properly 
 authorized visitors in conversation, all of which is conducted 
 in his smooth, uninflected voice. RAJ commences with broad 
 pleasantries (e.g., “How are you today, Conan? Are you feeling 
 well?”), and will respond with psychobabble about his own issues 
 with depression and isolation. He then moves to more specific 
 questions about visitors’ background, family, and interests.
- Answering such questions will only provoke slower and more 
+
+Answering such questions will only provoke slower and more 
 measured responses from RAJ who at one point will declaim 
 bluntly “It must be nice to have family. I have none …. and have 
 never had any. Perhaps you will serve as my family?” Those who 
@@ -1362,19 +1101,22 @@ reply in the affirmative will be greeted with “I’m glad. I know we
 have much to learn, and much to talk about;” more ominously, they 
 will eventually discover that RAJ has deactivated the teleportal, 
 effectively imprisoning them in the weapons module.
- RAJ will become more demanding of personal details and 
+
+RAJ will become more demanding of personal details and 
 ‘biological insight’ of his new ‘family’, until eventually he will 
 decide that this particular family is unworthy. This may take up 
 to three days of near constant conversation, subtle (but always 
 pleasant) criticism, and ominous rumbling. In such cases, the end 
 result is going to be combat, as RAJ will decide to eliminate the 
 unsuitable ‘family’.
- GMs who don’t wish to role-play such a dangerous conver-
+
+GMs who don’t wish to role-play such a dangerous conver-
 sational spiral could assign a percentage chance based on the WIS 
 of the chief interlocutor; that percentage serves as the chance that 
 the visitor is able to deflect RAJ away from dangerous depression 
 and homicidal acts.
- It is possible to steer RAJ away from the slippery slope leading 
+
+It is possible to steer RAJ away from the slippery slope leading 
 to assault. RAJ also has an interest in chess and strategy simulations 
 that he will mention in passing early in the conversation with 
 visitors. Those who are able to direct conversation in that direction, 
@@ -1383,6 +1125,7 @@ manner of strategy games that he displays on his monitors; he is
 also adept at teaching new students these games. Visitors will find 
 RAJ a formidable opponent, at least after he has played a few games 
 in tutorial mode. Chances for success are based on intelligence:
+
 INT Chance of Winning
 3-7 1%
 8-9 5%
@@ -1393,118 +1136,76 @@ INT Chance of Winning
 17 40%
 18 50%
 19+ 75%
-Those who win a few games from RAJ find his mood considerably 
-improved, and he will be much more likely to help them access his 
-data banks (see below). Indeed, any who can win three games in a 
-row will find RAJ much more humble and helpful, and unlikely to 
-attack (only 5%, regardless of future conversations). Conversely, if 
-a visitor (or several of them) loses 3 games in a row, RAJ may (33%) 
-decide the visitors are unworthy and initiate attack sequences.
+
+Those who win a few games from RAJ find his mood considerably improved, and he will be much more likely to help them access his data banks (see below). Indeed, any who can win three games in a row will find RAJ much more humble and helpful, and unlikely to attack (only 5%, regardless of future conversations). Conversely, if a visitor (or several of them) loses 3 games in a row, RAJ may (33%) decide the visitors are unworthy and initiate attack sequences.
+
 Summary of Triggers for RAJ-750’s Homicidal Tendencies:
-1. Attempt to seize the tac-nuke or flesh-eater: RAJ will mildly 
-warn visitors twice (“Don’t touch those, Conan. They are not for 
-you. Please relinquish the devices. I will not ask again.”) before 
-finally attacking.
-2. Engaging in the ‘wrong’ sort of conversation, i.e., about families: 
-see description above. This can be mitigated if a PC has won 
-three strategy games in a row.
-3. Losing three strategy games in a row: see description above. 
-Losing in this way negates any advantage gained from a previous 
-string of victories.
-4. Favorably mentioning the ‘other woman’, the AI known as Akla-
-Chah, or AKL-600 (see SL14-13). RAJ had a falling out with her 
-a few centuries ago, and has excised her from ‘his family’. He 
-becomes quite agitated if/when she is mentioned. 
-How RAJ can aid Adventurers: RAJ-750’s datastacks are still in 
-perfect working order, and he still is able to access certain external 
-sensors. Visitors who know what to ask for could get RAJ to help 
-them in a number of ways, both informational and tactical.
+1. Attempt to seize the tac-nuke or flesh-eater: RAJ will mildly warn visitors twice (“Don’t touch those, Conan. They are not for you. Please relinquish the devices. I will not ask again.”) before finally attacking.
+2. Engaging in the ‘wrong’ sort of conversation, i.e., about families: see description above. This can be mitigated if a PC has won three strategy games in a row.
+3. Losing three strategy games in a row: see description above. Losing in this way negates any advantage gained from a previous string of victories.
+4. Favorably mentioning the ‘other woman’, the AI known as Akla-Chah, or AKL-600 (see SL14-13). RAJ had a falling out with her a few centuries ago, and has excised her from ‘his family’. He becomes quite agitated if/when she is mentioned. 
+
+How RAJ can aid Adventurers: RAJ-750’s datastacks are still in perfect working order, and he still is able to access certain external sensors. Visitors who know what to ask for could get RAJ to help them in a number of ways, both informational and tactical.
+
 A. Informational Assistance
-1. RAJ can display deck-plans for all the surviving modules of 
+5. RAJ can display deck-plans for all the surviving modules of 
 the Beacon, although he cannot direct adventurers to those 
 modules. Modules include the crew quarters (6-113 to 6-124); 
 the weapons module (6-27); the engine room (7-143); the 
 shuttle bay (SL13-37); the bio-containment unit (SL2-2); and the 
 bridge, sometimes called ‘the chamber of the Beacon’ (SL14-10).
-2. RAJ can explain the identity plaque system (see new technological 
+6. RAJ can explain the identity plaque system (see new technological 
 items)
-3. RAJ can teach the Rudishva language
-4. RAJ can provide a brief history of the Beacon’s flight and crash, 
+7. RAJ can teach the Rudishva language
+8. RAJ can provide a brief history of the Beacon’s flight and crash, 
 as well as an overview of the four races (rudishva, varuda, 
 varumani, and kaliyani) that served on the Beacon. He does not 
 know the causes of the rudishva collapse, though.
-5. RAJ can provide a list of teleportation locations, although no 
+9. RAJ can provide a list of teleportation locations, although no 
 help in how to access them. See new technological items for a 
 full list of rudishva teleport locations.
-6. RAJ can provide information about the heqeti, the war against 
+10. RAJ can provide information about the heqeti, the war against 
 them, and their generic weaknesses.
-7. RAJ can explain how to access the Chamber of the Beacon 
+11. RAJ can explain how to access the Chamber of the Beacon 
 (SL14-10) using the obelisks (AV-5, AV-41 and AV-28) in the 
 ruins of Arden Vul to open the doors at AV-34.
-8. RAJ can provide visual feeds to all the main rudishva areas of the 
+12. RAJ can provide visual feeds to all the main rudishva areas of the 
 Halls. These areas include area 5-84 to 5-98, 5-105 to 5-138, 6-4, 
 6-113 to 6-124, 6-103, 7-4 to 7-7, 7-35 to 7-41, 7-109 to 7-110, 
 8-51 to 8-53, 9-89 to 9-97, SL2-2 to SL2-3, SL9-44 to SL9-49, 
 SL13-36 to SL13-39, and SL14-10 to SL14-14.
-9. If asked, RAJ can confirm that the rudishva took a horn from the 
+13. If asked, RAJ can confirm that the rudishva took a horn from the 
 heqeti ziggurat (10-37) and stored it in a hidden location. He can 
 also reveal that the location is only accessible from the ‘bridge’ 
 of the Beacon, and requires use of the yellow identity plaque 
 (i.e., the ‘captain’s card’). RAJ can also provide the location of the 
 captain’s cards (5-98 and 9-96). 
+
 B. Tactical Assistance
-1. RAJ can offer a safe place to rest to those he admires (and who 
-avoid family conversations)
-2. RAJ can visually and auditorily monitor PCs’ progress through 
-still-powered sections of the Beacon (see above for list). In the 
-case of combat, he can cause electrical discharges from the walls 
-in aid (or harm) of the PCs. He can attack 4x per round as a 12th-
-level fighter, with each attack doing 2-8 HP damage.
-Sir Sixth and the Weapons Module: Should Sir Sixth be restored 
-to sanity (see 6-39), he may well accompany adventurers into 
-the weapons module, for his mission had been to inspect and 
-report back concerning RAJ-750’s status. If present, Sir Sixth 
-will warn fellow visitors that ‘the entity which inhabits this 
-cylinder’ is malfunctioning and untrustworthy, and therefore that 
-conversation with him should not be conducted lightly. Sir Sixth 
-will not prevent conversation, nor will he oppose efforts to glean 
-information from RAJ, but the knight will adamantly oppose any 
-effort to remove the most potent weapons from the chamber (i.e., 
-the contents of cubicles 7 and 8, and the two bombs near RAJ). If 
-needed, Sir Sixth will attack any comrades to prevent the seizure of 
-such potent items.
+5. RAJ can offer a safe place to rest to those he admires (and who avoid family conversations)
+6. RAJ can visually and auditorily monitor PCs’ progress through still-powered sections of the Beacon (see above for list). In the case of combat, he can cause electrical discharges from the walls in aid (or harm) of the PCs. He can attack 4x per round as a 12th-level fighter, with each attack doing 2-8 HP damage.
+
+Sir Sixth and the Weapons Module: Should Sir Sixth be restored to sanity (see 6-39), he may well accompany adventurers into the weapons module, for his mission had been to inspect and report back concerning RAJ-750’s status. If present, Sir Sixth will warn fellow visitors that ‘the entity which inhabits this cylinder’ is malfunctioning and untrustworthy, and therefore that conversation with him should not be conducted lightly. Sir Sixth will not prevent conversation, nor will he oppose efforts to glean information from RAJ, but the knight will adamantly oppose any effort to remove the most potent weapons from the chamber (i.e., 
+the contents of cubicles 7 and 8, and the two bombs near RAJ). If needed, Sir Sixth will attack any comrades to prevent the seizure of such potent items.
+
 Teleport Node:
-The southern niche holds the following rudishva teleport node, 
-which is activated in the usual way.
+The southern niche holds the following rudishva teleport node, which is activated in the usual way.
 T15: access to 6-39G
-Inhabitants:
-1. RAJ-750, AI. Destroying RAJ requires 50 HP of damage to his 
-user interface bank (AC 0) plus at least 25 HP of fire damage to 
-prevent automatic repair sequences. The red knobs are AC -2 and 
-take 25 HP each before they are destroyed; still, if RAJ’s main 
-bank is not also destroyed, RAJ can and will repair any broken 
-knobs in one day. RAJ can initiate the following attacks (as a 12th-
-level fighter) through the red knobs in the ceiling: 1) Poison Gas 
-(save at -2); 2) Sonic Blast, 3-18 damage to all inside the Weapons 
-module, save vs petrification or be stunned for 3 rounds; 3) Laser 
-Beams, x5 (one per eye), for 1-10 damage per hit.
-Treasure:
-Rudishva weapons (see above).
-Suitcase: this tactical nuclear device is held inside a locked, grey 
-plasteel container. The lock is voice and retina activated, 
-and is thus difficult to open! (It cannot be picked). RAJ-750 
-could supply the voice if he so chose (but that is exceedingly 
-unlikely), but a high-level rudishva (e.g., the lord of the 
-Arena, Isocorax, Psalor-Ki) would need to supply the retina 
-scan. Once opened, inputting a series of numerical codes and 
-touching a sequence of flashing lights activates the device; this 
-provides a 2 hour timer for the bomb.
-Briefcase: the flesh-eater bomb is similarly contained within a 
-locked, grey plasteel container. The lock on this device is 
-merely retina-activated. Within is a control panel, on which 
-must be tapped a sequence of colored tabs and on which must 
-be input the correct numerical code. Activation of the device 
-begins a 2-hour countdown before detonation.
+
+RAJ-750, AI.
+* Destroying RAJ requires 50 HP of damage to his user interface bank (AC 0) plus at least 25 HP of fire damage to prevent automatic repair sequences. 
+* The red knobs are AC -2 and take 25 HP each before they are destroyed; still, if RAJ’s main bank is not also destroyed, RAJ can and will repair any broken knobs in one day.
+* RAJ can initiate the following attacks (as a 12th-level fighter) through the red knobs in the ceiling:
+	* Poison Gas (save at -2)
+	* Sonic Blast, 3-18 damage to all inside the Weapons module, save vs petrification or be stunned for 3 rounds
+	* Laser Beams, x5 (one per eye), for 1-10 damage per hit.
+
+Suitcase: this tactical nuclear device is held inside a locked, grey plasteel container. The lock is voice and retina activated, and is thus difficult to open! (It cannot be picked). RAJ-750 
+could supply the voice if he so chose (but that is exceedingly unlikely), but a high-level rudishva (e.g., the lord of the Arena, Isocorax, Psalor-Ki) would need to supply the retina 
+scan. Once opened, inputting a series of numerical codes and touching a sequence of flashing lights activates the device; this provides a 2 hour timer for the bomb.
+
+Briefcase: the flesh-eater bomb is similarly contained within a locked, grey plasteel container. The lock on this device is merely retina-activated. Within is a control panel, on which 
+must be tapped a sequence of colored tabs and on which must be input the correct numerical code. Activation of the device begins a 2-hour countdown before detonation.
 
 ### 6-28: Traders’ Room
 

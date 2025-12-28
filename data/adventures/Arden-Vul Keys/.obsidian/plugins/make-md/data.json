@@ -52,9 +52,11 @@
     "//Level 4 - Forum of Set",
     "//World",
     "//World/World/Chronicle",
-    "//Level 6 - Troll Lifts & Arena",
+    "//Level 9 - Floor of the Great Chasm",
+    "//Level 8 - Nether Reaches",
+    "//Level 7 - Court of the Troll Thegn",
     "/",
-    "//Level 10 - Ziggurat of Kauket"
+    "//Level 6 - Troll Lifts & Arena"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
