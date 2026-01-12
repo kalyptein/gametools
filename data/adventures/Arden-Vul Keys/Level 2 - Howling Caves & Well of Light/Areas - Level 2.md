@@ -44,10 +44,10 @@ Important NPCs
 
 * The Well is a 200’-long shaft, 5’ in diameter, which descends from the surface (AV-14) to emerge in this chamber.
 	* The shaft is studded with convex mirrors and reflective stones in a carefully orchestrated manner.  When it is daylight (and clear) on the surface, bright sunlight will be reflected down the long well to this chamber.
-			* 110’ down the shaft is an extremely well hidden secret door (1-in-8 to spot) leading to the Tombs of Light (SL1-1 includes more info on the secret door).
-				* To open, twisting one of the dozens of convex mirrors near the door 90-degrees, causing a 5’-tall panel of the well shaft to spring inward, revealing a 5’-tall, hexagonally-shaped passage to the south.
-			* The well does not contain ladder rungs or any other device for negotiating it.
-				* Climbing down is optically challenging due to the brightness of the interior.
+		* 110’ down the shaft is an extremely well hidden secret door (1-in-8 to spot) leading to the Tombs of Light (SL1-1 includes more info on the secret door).
+			* To open, twisting one of the dozens of convex mirrors near the door 90-degrees, causing a 5’-tall panel of the well shaft to spring inward, revealing a 5’-tall, hexagonally-shaped passage to the south.
+		* The well does not contain ladder rungs or any other device for negotiating it.
+			* Climbing down is optically challenging due to the brightness of the interior.
 * The 25' high chamber at the bottom is tiled in pale yellow squares from floor to ceiling.
 	* A brilliant shaft of light descends from the ceiling to the floor on sunlit days;  illuminating a 5’-diameter circle in the center of the room. The rest of the room is dark.
 		* A 5' diameter depression lies in the ground at the foot of the shaft of the light.  It is fully 5' deep, but 3' of muck and wiry baboon hair fills it.

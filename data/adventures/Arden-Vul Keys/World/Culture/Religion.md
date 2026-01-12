@@ -1,7 +1,8 @@
 
 since we've got Thoth and Set, make all the gods real ones?
 
-The Church of the Immortal Flame
+## The Church of the Immortal Flame
+
 * The Immortal Flame is the collective spiritual light of humanity, not a personified being.
 	* The souls of the dead faithful dwell within the light, the wicked lose their way and stumble into Darkness.
 		* Darkness is home and source of demons, undead, and other wickedness.
@@ -21,7 +22,7 @@ The Church of the Immortal Flame
 * The Pharos, a stylized flame, is the central holy symbol of the Immortal Flame.
 	* In Ramaali, it is called a "Manaratan" (beacon / flame / torch) and was part of in their faith's iconography, but not as the central symbol.  Theirs is the "Muqadas" ("the sacred"), a kind of geometric sunburst.
 
-Saints of the Flame
+### Saints of the Flame
 
 Archontean
 * Midenia - wisdom, battle tactics, pursuit of wrong-doers
@@ -65,23 +66,17 @@ Goblin
 
 
 
+TBD
 
 * Laraveen - wisdom, war tactics
-
-
-
 
 Halfling
 
 Trollkin?
 
 
+???
 
-
-
-
-
-* Heschius Ban - water, inevitability, triumph
 * Tychias - luck, fate, wealth
 * Arayania - woodlands, nature
 
@@ -102,7 +97,8 @@ Trollkin?
 * 
 
 
-Ancient Archontos, Egyptian gods, The Twelve
+## Ancient Archontos, Egyptian gods, The Twelve
+
 * Anubis (Anput in their feminine form, Anubis in male) - psychopomp, burial, travelers
 * Hathor - sex, love, beauty, music, dance, pleasure (replaces Besa)
 * Horus - justice, sky
@@ -153,38 +149,43 @@ the ancient archonteans fought the ophidians at some point, called them the Chil
 
 
 
-Wiskin (rename Skandr?)
-* Norse gods
-* Bragi
-* ???Fenrir?
-* Freya
-* Frigg
-* ???Gna
-* ???Hafgufa
-* Heimdall
-* Jormungandr
-* Loki
+## Thorcin Gods
+
 * Odin
-* Snotra?
-* Surt?
 * Thor
-* Ymir??
-* 
-* Sif
+* Loki
+* Bragi
 * Baldur
-* Hel
+* Freya
+* Freyr
+* Frigga
+* Sif
+* Heimdal
+* Tyr
 * Idun
 * Hod
+* Mimir
+
+??? their villains
+* ???Fenrir?
+* Jormungandr
+* Snotra?
+* Surt?
+* Ymir??
+* Hel
 * 
 * Skandr vow magic?
+
+
 * mages (Mimir, Odin, Freya teaching, etc), no clerics
 
-Thorcin
+
 ??? merge the wiskin into Thorcinga?  why both viking and anglo-saxon
 or make the Thorcin the Celts?
 * Morrigan, Lugh, Arawn, etc
 
-Khumus
+## Khumusi Gods
+
 - Tengri (sky father)
 - Itugen Ekhe (earth mother)
 - Yerleg (ruler of death and the underworld fires)
@@ -193,25 +194,40 @@ Khumus
 central-asian, but also slavs to byzantium?  maybe also indian?
 
 
-Ramaali
+## Ramaali Religion
+
+Immortal Flame
 - as an arabian / middle-eastern vibe, persia to byzantium
 - the worship of the Immortal Flame came from here originally into Archontos.  They have their own traditions, organizations, and ties to their own political structures.  It's kind of a Catholic / Orthodox split, usually see themselves as the same "side", the "people of the flame" but variances in doctrine and ties to rival political groups, so sometimes its a bit more christian and muslim
-- they have their own pre-flame gods (marduk, ishtar, shamash, enki, anu, enlil, tammuz, erishkigal, nergal, etc)
+
+Pre-Flame Gods
+- marduk
+- ishtar
+- shamash
+- enki
+- anu
+- enlil
+- tammuz
+- erishkigal
+- nergal
 
 
 
-Outer Gods / Primordials
+## Outer Gods / Primordials
+
 - Dagon (fish)
 - Tiamat (dragon)
 - Tsathoggua (bat, toad/salamander) - god of primordial slime, teacher of sorcery, wicked, endless glutton
 	- replace Rimmaq-Isfet with him (he's got formless spawn!)
 - Atlach-Nacha (spider)
 	- worshipped by some spiders and corrupted grimalkin deep in Arden Vul
-- Apep / Yig (snake) - god of the ophidians
+- Apep / Yig (snake) - god of the ophidians / kaliyani
 	- The early conflict on Archontos between the rising sorcerer-kings and the declining ophidians cemented Yig / Apep as a big villain of their myths
 - Mordiggian (jackal, insects?) - death god, undead god, rot and disease and decay
 	- use where Thanatos would be referenced
 - Gorgo / Mormo (bat?) - vampirism, moon, darkness, night, fear
+
+
 
 - Rimmaq-Isfet (salamander / toad)
 

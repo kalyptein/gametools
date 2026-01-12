@@ -66,9 +66,7 @@ Pristen
 Red Keep
 * A border fortress operated by the Archonteans to the north of Narsileon. The current lord is Gedeon Ligareon.
 
-Gedeon Ligareon: A talented Archontean soldier and admin-
-istrator. Gedeon is the current leader of the Ligareon clan in the 
-exarchate of Narsileon, and the lord of the Red Keep.
+Gedeon Ligareon: A talented Archontean soldier and administrator. Gedeon is the current leader of the Ligareon clan in the exarchate of Narsileon, and the lord of the Red Keep.
 
 Upford
 * A town on Irthuin, in the exarchate of Narsileon. Also known as Altumvadum.

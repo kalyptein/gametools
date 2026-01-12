@@ -519,13 +519,6 @@ Alexia is back!
 * she is immensely grateful to Astrid and heeds her in all things
 
 
-### ==--- PRESENT DAY ---==
-
-The Kaliyani may move to make a forward post in the Forum of Set
-* Taking over the secret areas?  Sealing off more of the priestly quarter.
-* They try to keep their presence secret.
-
-
 * Deck of Many Things / Magi
 	* Astrid: gem (50 gems x 1000 gp)
 		* When she smashes the Set-Sobek croc idol, it shatters into a bunch of aquamarines.
@@ -553,27 +546,84 @@ The Kaliyani may move to make a forward post in the Forum of Set
 				* a pretty big betrayal of the imperial family to its vassals.  would be a big scandal even now.  lists a number of names, including Yasdoranicil / Isadora.
 
 
-Childmonger buys a girl from a single mother (hubby died), the gold will let her other children get apprenticeships.  She's a Savage Heart tenant.  When she tries to change some of the money, angry neighbors take her to court before Sir Ironblood (did she kill the child in some witches' rite to buy a demon's aid?  sell it into slavery?  where did this gold come from?)
+Childmonger buys a girl from a single mother (hubby died), the gold will let her other 3 children get apprenticeships.  She's a Savage Heart tenant.  When she tries to change some of the money, angry neighbors take her to court before Sir Ironblood (did she kill the child in some witches' rite to buy a demon's aid?  sell it into slavery?  where did this gold come from?)
 * Astrid's chamberlain comes to her with this unusual case bought to the court.
 * the child will be raised among the Sun-Scarred Knights
 * she was paid in ancient gold solidi
 * She remembers a tall man in black.  He said her child would be raised well, in service to a good cause, and that with this gold she could ensure her other children a prosperous future.
 
 
+The rituals of Arden and Vul have been conducted on their bridges of wisdom and doubt.
+* Astrid gained a glimpse of Arden, wearily leaning on her spear.
+* As the power of her blood increased, she "redded-out" and heard Psalor-Ki muse "fascinating, I didn't think I had succeeded" (in rudishvan).  He felt the surge in their shared blood and realized she existed.
+	* Astrid will recognize his voice when they meet.
+
+Deino has been subdued.
+* She has grudgingly agreed to stop charming and transforming / killing people, and been allowed to continue dwelling in the beastman complex.
+* She's curious if there's an angle for profit, allying with this rising new power in the halls.
+	* She'd be willing to answer questions of advice on magical matters.
+* She's looking for a way out of her "bonds", but is old and patient enough, and the conditions are gentle enough, that she wouldn't cause trouble without seeing major gain.
+* 
+* The varumani ambassadors beheld the whole affair and have informed the Thegn.
+* 
+* Deino's transformed animals and charmed victims can be freed with dispel magic.
 
 
 
+The Survivors of Stone sought a rumored Thothian shrine on the east side of Bald Hill, north of Newmarket.
+* It was said to have maps and models of parts of the Halls, and they hoped to learn more about the location of the Forge of Zhorak.
+* They found it occupied by false dwarves, doppelgangers, likely seeking similar information.  The doppelgangers are dead (and a few juniors of the Stone), but they damaged the lore before they could be dispatched.  Still, some insight was gained.
+	* The Forge seems to be situated in the depths, in some proximity to the Tomb of Phocion the Builder (not a priest of Ptah, but a blessed and inspired craftsman and devotee of the god) and the Temple of Bastet, the other god whose priests chose to build deep.
+
+Ask Alexandros
+* What happened to Visby and Callista in the Forum?
+	* Alexandros remembers their capture.  He was brought in when the Setites realized they were Drome, to try to decipher their notes and codes (no luck).
+	* Visby was traded to Skreel lizardmen, presumably to become a meal.
+		* He is currently languishing at SL5-34.
+	* Gunnar requested that he get to keep Callista for a time.
+		* He was a depraved sort, everyone made the obvious assumption.
+		* Gunnar had a special lockup somewhere for his private guests; presumably she went there.
+		* Alexandros doesn't know where this was, and Gunnar vanished during Astrid's assault on the Guild of Service.  His body wasn't found, but he and his personal staff never turned up again.
+			* Presumed to have taken their wealth and legged it; the cult was really pissed and put out word for him to be captured.
+			* Stephania had grown suspicious of him prior to that.
+		* Callista is in (4-64: Hidden Prison)
+			* The prisoners died of thirst when the doppelgangers left and the top Guild of Service leaders who might have known of the secret prison.
+
+How long ago was the raid on the forum?
+What exactly did the party see of the doppelgangers?
+
+
+Sigiric's party discovered in SL1
+
+
+### ==--- PRESENT DAY ---==
 
 Who heard Astrid's address from the bridge?
+* RAJ's feeds to all the main rudishva areas of the Halls as a good stand-in:
+	* 5-84 to 5-98, 5-105 to 5-138, 6-4, 6-113 to 6-124, 6-103, 7-4 to 7-7, 7-35 to 7-41, 7-109 to 7-110, 8-51 to 8-53, 9-89 to 9-97, SL2-2 to SL2-3, SL9-44 to SL9-49, SL13-36 to SL13-39, and SL14-10 to SL14-14.
 
-The Broom is seeking the sceptre of the goblins so the heqeti can enslave the goblins, as well as looking for info about the Priscians and ways to weaken the Varumani and Sun-Scarred Knights
+Did doppel-Gunnar take real-Gunnar, Callista, and/or the set deacon out of the prison for any purpose?  Maybe they aren't dead?
 
+
+
+Give J the creation mold recipes
 
 ## Future
 
+Deino might be eyeing ways to get her poison or transformation brews into the party's drinks in some deniable place (Inn of the Lost, although it's antimagic would probably block that) or the like.
+
+The Broom is seeking the sceptre of the goblins so the heqeti can enslave the goblins, as well as looking for info about the Priscians and ways to weaken the Varumani and Sun-Scarred Knights
+
+Is Alexia created Lady Burdock?  Did some other governor get appointed?
+* If appointed, how does she start off doing?
+
+The Kaliyani may move to make a forward post in the Forum of Set
+* Taking over the secret areas?  Sealing off more of the priestly quarter.
+* They try to keep their presence secret.
 
 Priddy moves to the arcanum geode near the Thoth Temple on Level 3
 * How does this end up going for them?
+	* It goes great!  He's eagerly studying, he survived exposure and its effects, he's mining and studying arcanum.
 
 Astrid threw Khalid's body off the ledge into the chasm.
 * Where does he land?  Somewhere on level 9?

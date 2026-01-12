@@ -6,32 +6,54 @@ archontean called the rudishva "eld", drifted to "elves"?
 
 ## Rudishva
 
-Rudishva survivors
-* Isoc-Crix (6-20) - survived the plague because vampire, still alive because vampire
-* Melok-Ri (SL10-32) - survived the plague because vampire, still alive because vampire
-* Psalor-Ki (5-74) - survived the plague because born on this world (proto-elvish?), still alive because blood sorcery and weird science
-	* half attuned to this world and sorcery
-	* loathed by the other survivors
-	* helped develop what was used to transform into elves, and other magitech used by the survivors who remained
-* Crelik-Var, the Arena Master (6-85) - survived the plague because genetic lottery (damaged by fever, already losing some sanity and personality), still alive because extensive over-use of hypersleep chambers and cybernetics, which have further eroded his personality
-	* political / morale officer
-	* he loved the contests in the arena during the Rudishva heyday, and so gravitated back there and drifted into his current role
-* Reiv-Tor (SL7-23) - survived the plague because emergency bio-engineering with aquatic DNA (heqeti, plus piscine), still alive because further (endless) genetic tinkering
-	* obsessed with creating new lifeforms, mad scientist
-* Naik-Lir (SL7-13) - survived the plague because ???, turned into a giant rudishva skeleton after being tortured to death by Reiv-Tor and/or archonteans?
-	* security officer
-* Artax-Ris (3-39) - survived the plague because ???, worked with Psalor-Ki, stole a hyperbaric chamber and turned himself into a giant rudishva skeleton (fear of death, thought he could do it better?)
-* 4 in deep storage (SL2-2): Triv-Lok, Plec-Gris, Kelo-Rep, Talg-Roe
+Isoc-Crix (6-20)
+- survived the plague because vampire, still alive because vampire
+
+Melok-Ri (SL10-32)
+- survived the plague because vampire, still alive because vampire
+
+Psalor-Ki (5-74)
+- survived the plague because born on this world (proto-elvish?), still alive because blood sorcery and weird science, a "blood lich"
+* half attuned to this world and sorcery
+* loathed by the other survivors
+* works
+	* developed the Hybridization used to transform into elves
+	* co-developed the treatment that creates nano-encrusted xeno-undead
+	* tried to create a superior varumani strain using his own blood
+
+Crelik-Var, the Arena Master (6-85)
+- survived the plague because genetic lottery (damaged by fever, already losing some sanity and personality), still alive because extensive over-use of auto-doc and cybernetics, which have further eroded his personality
+* political / morale officer
+* he loved the contests in the arena during the Rudishva heyday, and so gravitated back there and drifted into his current role
+
+The Arena
+* Arena is actually a 4000 year old Heqeti arena, passed through many hands.  Crelik-Var made it the modern arena post-archontean collapse, assuming his current persona.
+* Arena's symbol is a green field emblazoned with a black image of a six-sided die
+
+
+Reiv-Tor (SL7-23)
+- survived the plague because emergency bio-engineering with aquatic DNA (heqeti, plus piscine), still alive because further (endless) genetic tinkering
+* obsessed with creating new lifeforms, mad scientist
+
+Naik-Lir (SL7-13)
+- survived the plague along with early forms of Reiv-Tor's piscine treatments.  Served as Reiv-Tor's aide until used as a lab rat and then turned into a giant rudishva skeleton after being tortured to death by Reiv-Tor.
+* security officer
+
+Artax-Ris (3-39)
+- was infected with the plague, sought to slow it with medtech, working with Psalor-Ki, they developed the nano-undead treatment.  He thought he could use it "correctly" and Psalor-Ki didn't.  Artax-Ris stole a hyperbaric chamber they'd been working with and turned himself into a giant rudishva skeleton.
+* was a science officer, kind of arrogant (surgeon), clashed with Reiv-Tor
+
+Grev-Kilj
+* “Grev-Kilj the Far-Seer, Tamer of the Winged Ones, Lord of Air and Earth, Student of Subterranean Life Forms, Slayer of the Hopping-Ones.”
+* Willingly became undead to watch for the return of the Heqeti to wreak vengeance on them.
+
+4 in deep storage (SL2-2): Triv-Lok, Plec-Gris, Kelo-Rep, Talg-Roe
 
 Giant rudishva skeletons
 * A dangerous nano-conversion mixed with principles of necromancy to keep flesh from dying.  A desperate attempt to stop the heqeti plague.  It seemed to work at first, but gradually overran the body and turned you into a hulking nano-encrusted skeleton cyberundead.
 	* The encrustations can be broken off and thrown ("bones"), rapidly regrowing.
 	* Could be done to dead Rudishva, reviving bodies but not minds.
 	* Only works on beings with extensive Rudishva tech in them; Varumani, Varuda, and Rudishva.  Probably not elves, and not trollkin.
-
-The Arena Lord
-* Was the Arena under the Crelik-Var established pre-Archontean takeover, pre-AV collapse or post-collapse?  Arena is actually a 4000 year old Heqeti arena, passed through many hands.
-
 
 
 ## The Beastmen, Children of Deino
@@ -453,7 +475,29 @@ Abilities: STR 16, INT 10, WIS 10, DEX 15, CON 15, CHA 15. Possessions: chain ma
 Sycadora, varlet to Sir Ennius, 6th-level female half-elf fighter: SZ M; AL LN; AC 2; MV 120’; HD 6; HP 59; #AT 1; Dmg 6-13 (long sword +2) or 2-7 (short bow with arrows +1). Abilities: 
 STR 18/21, INT 10, WIS 15, DEX 11, CON 16, CHA 11. Possessions: chain mail +2 and medium shield; long sword +2; short bow and 20 arrows +1; 2 potions of heroism.
 
+
+## Priscians, the Eigth Collegium
+
+* Nerub Null
+	* A product of the Order of Thoth collegium.
+	* Seeks to claim the lore of Arden Vul for himself.
+		* He's dropped out of the public eye to dodge Drome and Collegia attention.
+		* He collected a lot of Sortian lore, learning of their boltholes in the depths.
+	* He's created a secret collegium, training illegal mages from students unable to get into collegia for various reasons but who have a spark fo magic.
+		* He is using the Sortian idea of democratizing magic, but combined with a cult-like indoctrination and "keeping magic for the worthy".  He uses them as his agents.
+		* He's crafted a hierarchical mystery cult, initiating his apprentices into new tiers when they prove loyal enough.  Subordinates are not to question the judgement of higher initiates.
+
+
+
 ## The Varumani
+
+
+* what are the varumami clans?  what political intrigue is going on?
+	* punch it up a bit.  don't just make the Rudigiya into house slytherin omni-baddies
+
+
+
+The Cult of Bast
 
 
 Fishmen
@@ -474,8 +518,6 @@ Tikun Thane
 * Kerbog is trying to emulate to himself, crudely, what the rudishva once were, becoming cybernetic.  It seems much more intriguing that lichedom.
 
 
-Priscians, the Eigth Collegium
-
 
 
 The Doppelgangers
@@ -484,7 +526,6 @@ The Dwarven Explorers
 
 Thegan Whitemane
 
-The Cult of Bast
 
 
 

@@ -529,7 +529,7 @@ Occupants
 	* If the elevator is not present, there is merely an empty granite shaft 1,050’ deep. 
 * There is a 1% per use (cumulative) that the elevator breaks, grinding to a halt in the middle of the transit.
 
-Elevator use: 2%
+Elevator use: 4%
 
 #### SL2-4: Crevasse
 

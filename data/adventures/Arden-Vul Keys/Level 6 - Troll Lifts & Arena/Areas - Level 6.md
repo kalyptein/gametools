@@ -729,35 +729,36 @@ Justin’s Spell Book:
 
 ### 6-16: Secret Cellar
 
-Behind the secret door lie the mundane proceeds of centuries of Thegan’s selective thievery from guests at his Inn. Thegan has laid several traps to protect his horde. The treasure is pushed to the sides of the chamber, as if to spotlight the beautiful painted scene inscribed in a 10’ circle in the middle of the floor. The scene is of hunters and animals surrounding an archaic Archontean phlamoulon (military standard); the phlamoulon takes the form 
-of an inverted triangle depicting a mailed fist with the numeral III set into the forehead, and with a word written (in Mithric) to each side of the skull, along the side of the triangle. The words read (vertically) ‘Caveant hostes’, i.e., ‘Let enemies beware!’ This standard was that of the lost 3rd Cohort of the Imperial Tagmata, part of the forces sent to reclaim Arden Vul some 250 years ago. This brightly colored scene is trapped (see below).
+* Opening the door pulls a tripwire, dumping a carboy of acid onto the opener (3d4 acid 1st round, 2d4 the 2nd, 1d4 the 3rd).
+* Behind the secret door lie the mundane proceeds of centuries of Thegan’s selective thievery from guests at his Inn.
+	* The ==treasure== is pushed to the sides of the chamber, spotlighting the beautiful painted scene inscribed in a 10’ circle in the middle of the floor.
+		* Hunters and animals surrounding an archaic Archontean phlamoulon (military standard, an inverted triangle depicting a stag skull with the numeral III set into the forehead, and ‘Caveant hostes’ (‘Let enemies beware!’) written (in Mithric) to each side of the skull, along the side of the triangle.  This was the standard of the lost 3rd Cohort of the Imperial Tagmata, part of the forces sent to reclaim Arden Vul some 250 years ago. 
+		* The painted phlamoulon is warded; if touched, it explodes (6d6 fire). The noise  brings Thegan at the run to investigate.
 
-The treasure includes six elaborate carpets, one malfunctioning rudishva military-grade security construct, two glazed urns filled with coins, and four sturdy medium-sized oak chests stuffed with other valuables.
+Treasure
+* 6 elaborate silk carpets (from 5’x7’ to 12’x15’)
+	* 4 have pastoral scenes (650 gp each).
+	* 1 depicts Adrienic (named in a caption – see 5-18) directing Archontean soldiers against large, troll-like beings (the varumani) (800 gp).
+	* 1 (the oldest) depicts the three obelisks of the city of Arden Vul (AV-5, AV-41, and AV-28), each with a prominent silver ankh on one face, as well as a set of stairs leading down to a pair of open doors (SL14-1) (1,150 gp).
+* A malfunctioning ==rudishva military-grade security construct==
+* 2 glazed urns filled with coins
+	* 17,890 sp in one; 9,431 gp in the other.
+* 4 sturdy oak chests
+	* Chest 1: a set of crystal goblets and decanters (250 gp); a golden candelabra (250 gp), and silver tableware for twelve (475 gp).
+	* Chest 2: 10 vials and jars of valuable incense (65 gp each); 4 12”-tall, silver statuettes of dancing maidens (175 gp each); a yellow silk cape (25 gp); 3 6-lb ingots of solid gold (300 gp each); and a silk pouch with 15 moonstones (50 gp each)
+	* Chest 3: 3 alabaster canopic jars from the ancient Archontean period (135 gp each), one with a mummified organs still intact; a set of 35 miniature figures of Archontean soldiers (2” tall) carved beautifully from soapstone (590 gp the set); a set of 6 ebony-hilted throwing daggers (125 gp); a varumani skull coated in silver (75 gp); and a leather sack with 8 silver rings with semi-precious stones (one ring is worth 200 gp and the others are worth 100 plus 10-40 gp).
+	* Chest 4: 50 doses of Rastite lotus powder (flora); 15 doses of cloud cap mushrooms (flora); 5 doses of the red veil (flora); 5 lb of pepper; 2 lb of saffron.
+		* Thegan trades the rastite lotus powder to Deino (3-158) for the golden mead he uses to keep Isocorax drugged (6-20).
 
-The military-grade security construct is named Gethe. Gethe was originally a counterpart to Relke (6-30), but suffered a neural systems failure that stripped it of most of its fearsome capabilities. Isocorax first brought Gethe to the Inn in a fruitless effort to repair it; Gethe has been here ever since. It recognizes Thegan and Isocorax as its masters, and has been ordered to defend this chamber as best it can; mentioning the name Isocorax, however, 
-causes it to stand down. Gethe has not been ‘charged’ in centuries, though, and its combat capabilities are much less great than those of Relke. Finally, due to its age and internal systems failures, there is a 5% cumulative chance per combat round that Gethe will suffer 
-a catastrophic meltdown, destroying himself and inflicting 3-18 HP damage on all within 15’. Were it possible to subdue Gethe and bring him to the workshops of Kerbog Khan, that wizard might be able to restore him to full functionality; see SL12-28.
-
-Trap 1 (falling acid trap): This trap is connected to the door; anyone pushing it open without first detecting the tripwire will find a carboy of acid falling on his/her head, to the tune of 3-12 HP damage the first round, 2-8 the second, and 1-4 the third.
-
-Trap 2 (explosive runes): The words “Caveant Hostes” on the painted phlamoulon are explosive runes, which explode for 6-30 HP of fire damage if they are touched. An explosion brings Thegan at the run to investigate.
+Gethe, military-grade security construct
+* This military-grade security construct is named Gethe, originally a counterpart to Relke (6-30).  It suffered a neural systems failure, stripping it of most of its fearsome capabilities.  Gethe has not been ‘charged’ in centuries.
+	* Due to age and internal systems failures, there is a 5% cumulative chance per combat round that Gethe will suffer a catastrophic meltdown, destroying himself and inflicting 3d6 on all within 15’.
+* Isocorax brought Gethe to the Inn and fruitlessly tried to repair it.
+	* It recognizes Thegan and Isocorax as its masters.
+	* It has been ordered to defend this chamber as best it can; mentioning Isocorax causes it to stand down.
+* Kerbog Khan mikght be able to restore him to full functionality (see SL12-28).
 
 Gethe, malfunctioning military-grade rudishva security construct (see new monsters): SZ M; AL N; AC 3, MV 120’; HD 10; HP 50; #AT 2; Dmg 3-8/3-8 (fists); MR 50%. Special Defenses: +2 or better weapons to hit; leap unerringly 30’; regenerate 2 HP/round.
-
-Treasure:
-6 large, silk carpets (from 5’x7’ to 12’x15’). Four of the six have pastoral scenes woven on them (650 gp each). One depicts Adrienic (named in a caption – see 5-18 for more on Adrienic) directing Archontean soldiers against large, troll-like beings (the varumani); this carpet is worth 800 gp. The final one is the oldest, and depicts the three obelisks of the city of Arden Vul (areas AV-5, AV-41, and AV-28), each with a prominent silver ankh on one face, as well as a set of stairs leading down to a pair of open doors (i.e. SL14-1, leading to the Chamber of the Beacon). This carpet is worth 1,150 gp.
-
-Coins: 17,890 sp in one urn; 9,431 gp in another urn.
-
-Chest 1: a set of crystal goblets and decanters (250 gp); a golden candelabra (250 gp), and silver tableware for twelve (475 gp).
-
-Chest 2: 10 vials and jars of valuable incense (65 gp each); 4 12”-tall, silver statuettes of dancing maidens (175 gp each); a yellow silk cape (25 gp); 3 6-lb ingots of solid gold (300 gp 
-each); and a silk pouch with 15 moonstones (50 gp each)
-
-Chest 3: 3 alabaster canopic jars from the ancient Archontean period (135 gp each), one with a mummified organs still intact; a set of 35 miniature figures of Archontean soldiers (2” 
-tall) carved beautifully from soapstone (590 gp the set); a set of 6 ebony-hilted throwing daggers (125 gp); a varumani skull coated in silver (75 gp); and a leather sack with 8 silver rings with semi-precious stones (one ring is worth 200 gp and the others are worth 100 plus 10-40 gp).
-
-Chest 4: 50 doses of Rastite lotus powder (see new flora); 15 doses of cloud cap mushrooms (see new flora); 5 doses of the red veil (see new flora); 5 lb of pepper; 2 lb of saffron; and whatever other spices the GM thinks appropriate. The Rastite lotus powder is especially important, as Thegan trades it to Deino (3-158) in return for the golden mead that he uses to keep Isocorax drugged (6-20).
 
 ### 6-17: Cave
 
@@ -782,47 +783,79 @@ Chest 4: 50 doses of Rastite lotus powder (see new flora); 15 doses of cloud cap
 
 ### 6-19: Proprietor’s Room
 
-Thegan White-Mane lives here in this luxurious apartment. The door from the main hallway is locked (-10% to pick). The chamber is carpeted with three plush, exotic rugs, and features a large four-poster bed against the western wall, a heavy oak desk, a pair of easy chairs, a wine rack with 12 bottles, and a rack holding a suit of imperial field plate (see Arden Vul items) and Thegan’s weapons. Mounted on the south wall is the original battle standard, or 
-phlamoulon, of the 3rd Cohort of Imperial Tagmata. Under the bed is a locked chest, while a small, locked iron box is affixed to the underside of the bed. 
+* The door from the main hallway is locked (-10% to pick).
+* Thegan White-Mane lives here in this luxurious apartment.
+	* The chamber is carpeted with 3 plush, exotic rugs (8’x12’, non-pictorial, 350 gp).
+	* A large four-poster bed against the western wall
+		* Under the bed is a ==chest== (locked).
+		* A small, ==iron box== (locked) is affixed to the underside of the bed. 
+	* A heavy oak desk and a pair of easy chairs
+	* A wine rack with 12 bottles (a fine vintage of Mithruin’s best, 100 gp each).
+	* A rack holding Thegan’s armor and weapons.
+		* Imperial field plate (av items); spear +3; short sword +3.
+* Mounted on the south wall is the original battle standard, or phlamoulon, of the 3rd Cohort of Imperial Tagmata.
+	* 50 gp alone; returned to an Archontean official (e.g. exarch of Narsileon, the taxiarch of one of the current tagmata, or any strategos) it would bring 5,000 gp and instant fame and favor.
+* Secret Door (west): difficult to detect (1 in 8), pressing a floor stud unlocks it and allows it to he pushed open. The door is ancient and rarely used by Thegan.
+* Secret Door (south): the lower part of the door pushes inward. This door is newer.
 
-Thegan is present in his room 25% of the time; otherwise he is present in 3-7. If present, Thegan is likely to be drinking wine by himself (75%) while quietly singing ancient Archontean songs; those who eavesdrop may notice that he sings in an archaic form 
-of Archontean. If he hears the sound of combat in the Inn, he takes immediate action, bursting forth to confront the troublemakers; there is a 50% chance he stops to put on his imperial plate armor on the way.
+* Thegan is (25%) present here; otherwise he is present in 3-7.
+	* If present, Thegan is likely drinking wine by himself (75%) while quietly singing ancient Archontean songs; those who eavesdrop may notice that he sings in an archaic form of Archontean.
+	* If he hears the sound of combat in the Inn, he immediately bursts forth to confront the troublemakers (50% chance he stops to put on his imperial plate armor first).
 
-Thegan’s Night Visits: Thegan is a thoroughly evil man, albeit one with strong lawful tendencies. In order to prolong Isocorax’s miserable existence, and by extension Thegan’s own life, Thegan periodically abducts and slays guests who have run out of money 
-and who appear weak. These unfortunates are usually taken from the guest rooms which Thegan can access using the secret tunnels (6-19A). There is a flat 10% chance that any PCs below level 5 might become the target of Thegan, although, of course, that chance is merely a guideline; role-playing and circumstances may make of Thegan either a friend (in which case the chance drops to 0%) or an enemy (in which case the chance might rise to 20%). 
+Chest
+* 5 5-lb bars of platinum (1,250 gp each); 619 sp; 231 gp
+* Red robes appropriate to a high priest of Set, wrapped carefully in a canvas sack (75 gp)
+* 5 doses of Rastite lotus powder (see new flora), carefully packaged in a leather satchel
+* A finely-decorated blackware vase depicting the deeds of an archaic hero named Lidric on one side, and his burial in a tomb set in the wall of a cave, guarded by two pillars, on the other (see 5-16; 375 gp)
+* A pair (blue and white) of glass activation squares
+* The relic of an ancient Thorcin hero, Alger the Spearman, in the form of his skeletal left hand sealed inside a gold-chased mail mitten inscribed with his name (390 gp for the gold; 7,500 gp to a Thorcin chieftain (Thegan does not know the history of the relic).
 
-Even if Thegan decides to leave a guest alone, there is an additional chance that he will be tempted to steal some objects of value from the guest; Thegan is drawn only to impressive art objects - vases, rugs, small statues, jewelry, and the like; Archontean-era military artifacts are a particular weakness of Thegan.
+Iron box
+* Ring of higher purpose (new)
+* A troll thegn’s passport (av items)
+* A rust rudishva identity plaque (tech)
+* Thegan’s diary (reveals his story and the location of Isocorax) 
+* An account by a certain Cinna (Cinna Minux, 7-122)
+	* Describes how Cinna followed a varumani warrior, Janara, to Level 9 and slew a band of heqeti about to ambush Janara, saving her life.  This account runs counter to the story that Janara is telling at the court of the troll thegn (7-75), and could discredit Janara, affecting varumani politics.  Thegan holds it for future leverage.
 
-Thegan’s Backstory: “Thegan” is a pseudonym of Maurikios Ligareon, the second-in-command of the 3rd Cohort. When the imperial expedition faltered, Maurikios fled to the House of Isocorax, where he sought shelter. Unfortunately for Isocorax, Maurikios was able to get the drop on the ageless rudishva and imprison him in one of the secret cellars of Isocorax’s own house (6-20). Maurikios has used the strange blood of Isocorax to prolong 
-his own life, and to assume and adapt Isocorax’s role in the Halls.
 
-Thegan’s Relationships: Thegan is on good terms with Varboka, the troll thegn (7-30), and the Lord of the Arena (6-85). He tolerates King Weskenim (SL4-22) and the goblins, but only barely. He has complicated feelings towards Deino (3-158). On the one hand, he hates her for what she has done to his former comrades in arms. This side of Thegan is the one on public view, as Thegan is quick to rebut any who publicly praise the witch (he even has a 33% chance of kicking such persons out of the Inn permanently). On the other hand, Thegan is in a mutually supportive trading relationship with Deino. He supplies her with the Rastite lotus powder (6-17; see new flora) necessary for her soporific golden mead; in return, she supplies Thegan with enough of the mead to keep Isocorax drugged and incapacitated. Thegan feels sharp compassion for ordinary beastmen, and is likely to protect deserters from the konturbia. Since Isocorax was one of the original Sun-Scarred Knights, Thegan loathes the Knights, fearing that they know (or will find out) of his treatment of Isocorax. Finally, Thegan fears the ghost of Gennadius (8-41).
+Thegan White-Mane, aka Maurikios Ligareon
 
-Changes in the event of Thegan’s Death: Although Thegan appears as one of the most stable and powerful factors in the politics of the Halls, several events could easily disturb his position. Should his evil be discovered (e.g., his abduction of guests), custom at the Inn will dry up, and the other factions’ previously fond affection towards him will evaporate. Should his ability to procure golden mead from Deino end (with her death, or the permanent disruption of his trade routes - see 6-28), Isocorax would swiftly escape, and would likely kill Thegan. Isocorax might re-open his house, but with new staff; all alliances would need to be reforged. Finally, should both Thegan and Isocorax be killed, a new innkeeper would be sponsored by the Varboka, the troll thegn (7-30), who has an interest maintaining the existence of a ‘neutral’ site in the Middle Halls. Depending on how things played out with 
-Thegan, the new Innkeeper could be Justin the Nose, or an NPC of the GM’s invention (or Isocorax, if the rudishva is still ‘alive’). The new Innkeeper will disable the secret doors, prices will rise 33%, and the troll thegn will act as a silent partner, but otherwise the Inn will resume normal operations.
+Thegan’s Night Visits
+* Thegan is a thoroughly evil man. To prolong Isocorax’s miserable existence, and his own life, he periodically abducts (usually from the guest rooms accessible via secret passage, 6-19A) guests who have run out of money and appear weak.
+	* Base 10% chance any PCs below level 5 might become a target.
+* Thegan might also decide to steal from a guest.
+	* He is drawn only to impressive art objects - vases, rugs, small statues, jewelry, and the like; Archontean-era military artifacts are a particular weakness.
 
-Secret Door (west): This door is difficult to detect (1 in 8), and opens by stepping on a floor stud and pushing. The door is ancient and rarely used by Thegan.
+Thegan’s Backstory
+* “Thegan” is a pseudonym of Maurikios Ligareon, second-in-command of the 3rd Cohort.
+* When the imperial expedition faltered, Maurikios fled to the House of Isocorax for shelter.
+* Unfortunately for Isocorax, Maurikios was able to get the drop on him and imprison him in one of the secret cellars of Isocorax’s own house (6-20).
+* Maurikios has used the blood of Isocorax to prolong his own life and assume Isocorax’s role in the Halls.
 
-Secret Door (south): This door is newer, and is normal to detect. It opens by pushing the lower part of the door inward. 
+Thegan’s Relationships
+* On good terms with Varboka, the troll thegn (7-30), and the Lord of the Arena (6-85).
+* He tolerates King Weskenim (SL4-22) and the goblins, but only barely.
+* He has complicated feelings towards Deino (3-158).
+	* He hates her for what she has done to his former comrades in arms.
+		* This is on public display.  He is quick to rebut any who publicly praise the witch (33% chance of kicking such persons out of the Inn permanently).
+		* He feels sharp compassion for ordinary beastmen, and is likely to protect deserters from the konturbia.
+	* But he supplies her with Rastite lotus powder (6-17; new) necessary for her soporific golden mead; which she supplies to him to keep Isocorax drugged and incapacitated.
+* Thegan loathes the Sun-Scarred Knights, fearing that they know (or will find out) of his treatment of Isocorax.
+* Thegan fears the ghost of Gennadius (8-41).
+
+Changes in the event of Thegan’s Death
+* Seemingly one of the most stable and powerful factors in the politics of the Halls.
+* Should his evil be discovered (e.g., abduction of guests), custom at the Inn will dry up, and the other factions’ previously fond affection towards him will evaporate.
+* If he cannot get golden mead from Deino (with her death, or permanent disruption of his trade routes, see 6-28), Isocorax would swiftly escape, and likely kill Thegan.
+	* Isocorax might re-open his house, but with new staff; all alliances would need to be reforged.
+* If both Thegan and Isocorax are killed, a new innkeeper would be sponsored by the Varboka, the troll thegn (7-30), to maintain a ‘neutral’ site in the Middle Halls.
+	* The new Innkeeper could be Justin the Nose, or someone new.
+	* The secret doors would be disabled and prices would rise 33%.  The troll thegn acts as silent partner, but otherwise the Inn resumes normal operations.
 
 Thegan White-Mane, aka Maurikios Ligareon, male Arch-ntean dual-classed 7th-level fighter, 10th-level thief: SZ M; AL LE; AC 3, or -1 in armor; MV 120’ or 90’; HD 10; HP 82; #AT 1; Dmg 4-7 (dagger +2), 5-10 (spear +3, short sword +3). Abilities: STR 16, INT 15, WIS 11, DEX 17, CON 15, CHA 13. Thief Skills: PP 85%, OL 77%, F/RT 65%, MS 83%, HS 68%, HN 30%, CW 99%, RL 50%.
 * Possessions while within the Inn: dagger +2; bracers of defense (AC 6); brooch of confident action (see new magic items); a tooth of pol (see new magic items); keys to 6-7A, 6-15, 6-17, 6-20, and his chest and lockbox; and a skeleton key that fits all the guest-room doors in the Inn.
 * Extra possessions when outside the Inn: imperial field plate; spear +3; short sword +3.
-
-Treasure:
-On the equipment rack: imperial field plate (see Arden Vul items); spear +3; short sword +3.
-
-3 carpets (8’x12’): these are plush and luxurious. While none has a pictorial scene, they are worth 350 gp each due to their quality.12 wine bottles: deriving from a fine vintage of Mithruin’s best, each bottle is worth 100 gp.
-
-Phlamoulon of the 3rd Cohort, Imperial Tagmata: although the monetary value of this relic is low (50 gp), returning it to an important Archontean official (such as the exarch of 
-Narsileon, the taxiarch of one of the current tagmata, or any strategos of the empire) would bring a reward of 5,000 gp and instant fame and favor.
-
-Chest: 5 5-lb bars of platinum (1,250 gp each); 619 sp; 231 gp; a set of red robes appropriate to a high priest/priestess of Set, wrapped carefully in a canvas sack (75 gp); 5 doses of Rastite lotus powder (see new flora), carefully packaged in a leather satchel; a finely-decorated blackware vase depicting the deeds of an archaic hero named Lidric on one side, and his burial in a tomb set in the wall of a cave, guarded by two pillars, on the other (see 5-16; the vase is worth 375 gp); a pair (blue and white) of glass activation squares (see Thothian teleportation rings in new magic items); and the relic of an ancient Thorcin hero, Alger the Spearman, in the form of his skeletal left hand sealed inside a gold-chased mail mitten inscribed with his name (390 gp for the gold; 7,500 gp to an appropriate Thorcin 
-chieftain. Thegan does not know the history of the relic). 
-
-Iron box: ring of higher purpose (see new magic items); a troll thegn’s passport (see Arden Vul items); a rust rudishva identity plaque (see new technological items); Thegan’s diary, 
-which reveals his story (as outlined above) and the location of Isocorax; and, finally, an account by a certain Cinna (Cinna Minux, 7-122) describing how Cinna followed a varumani 
-warrior named Janara to Level 9 and slew a band of heqeti who were about to ambush Janara. The upshot of the account is that Cinna saved Janara’s life. This account runs counter to the story that Janara is telling at the court of the troll thegn (7-75), and could thus be used to discredit Janara and affect varumani politics for the foreseeable future. Thegan is aware of the value of this account, and is saving it for future use.
 
 ##### 6-19a: Secret Passage and Secret Doors
 
@@ -835,152 +868,58 @@ warrior named Janara to Level 9 and slew a band of heqeti who were about to ambu
 
 ### 6-20: Prison of Isocorax
 
-This unusual chamber is home to Thegan’s deepest secret, for it 
-is the prison of Isocorax, the rudishva Sun-Scarred Knight and 
-source of Thegan’s incredible longevity. Three distinct areas are 
-noticeable here. 
+* This chamber holds Thegan’s deepest secret, the prison of Isocorax, the rudishva Sun-Scarred Knight and source of Thegan’s incredible longevity.
+	* Eastern Section
+		* The ceiling is only 7’ tall and the walls are rough-hewn rock. 
+		* The area is jammed with the fruits of centuries of plunder, both from the Nether Reaches (Level 8) and guests at the Inn.
+			* Some of these objects are utilitarian but well-constructed - wooden bed-frames, chairs, armoires, etc. - and some are priceless.
+			* 3 wooden desks, 12 goblin-sized, wooden side chairs, a disassembled sleigh bed, and a rather uncomfortable settee (1d4 x 10 gp each).
+			* A rosewood escritoire with ivory inlay (175 gp); a teak settee with an embroidered cushion showing the pyramid of Thoth (AV-15) (140 gp); and a cherry and walnut chest of drawers, with solid gold drawer pulls (225 gp).
+			* A 5’ statue of an Archontean strategos (general), with a carved ivory head (550 gp, 150 lb); a 3’ bronze statue of a spearman (600 gp, 75 lb); a cylindrical ivory waste-basket depicting dragons being ridden by warriors (425 gp); a 5’x18’ tapestry depicting the Ninth Labor of Arden (Singing the Dead to Sleep – see SL13-10I, 325 gp); a 4’x20’ tapestry depicting the triumphs of Marius Trictotor (see 6-154; 275 gp); and a collection of 6 carved-ivory-and-teak walking sticks showing animals, plant life, and Archontean soldiers (75 gp each).
+	* Central Section
+		* This area is of worked stone with a 10’ ceiling.
+		* A 4’-tall, heavy wooden table stands in the center; obvious bloodstains and thick leather restraints are evident.
+			* Under the table is a wooden box holding a collection of very sharp torture implements.
+		* 2 manacles are set in the wall, with prisoners languishing, waiting to be fed to Isocorax: a human (Gib) and goblin (Posson).
+		* On the north wall is a locked door to 6-20A (key held by Thegan).
+		* An 8’-diameter iron grating (locked) in the floor lies just west of the door.
+			* 2 heavy marble statue bases sit atop it to prevent forcing from below.
+			* The hole descends 400’ via several ledges and landings to the Nether Reaches (8-33). A supple rope ladder (100') of elven rope (new) lies coiled by the hole and attached to a pair of thick iron staples.
+				* Descent without the rope ladder requires 5 climb wall checks. Thegan occasionally visits the Nether Reaches and has an arrangement with priestess Oubaste (8-37) to let him come and go in return for periodic delivery of supplies.
+			* Beside the grate is a cache of adventuring supplies (10 torches, 6 flasks of oil, a bulls-eye lantern, and 4 potions of deafening light (new).)
+	* Southwest Section
+		* A floor-to-ceiling drapery walls off the third area, to the southwest.
+		* Beyond is the prison of Isocorax, dressed in a simple shift, strapped to a stone table by silver restraints across his arms, legs, and head.
+			* Isocorax appears as a tall, spindly, hairless biped; two scars on his temples are all that remain of his rudishva horns.  His gaunt cheeks feature ancient ritual scars in the shape of rising suns.
+			* Isocorax babbles wordlessly in an unknown tongue, as he is kept heavily drugged by Thegan.
+		* Next to the table is a chair, a blood extractor, 2 bottles of Deino's syrupy golden mead (see 3-158), and a second table on which a collection of alchemical gear (275 gp) rests.
+			* Thegan extracts a vial of Isocorax’s blood every month and distills it into an anti-aging potion of youth (new).   3 doses are present.
 
-Eastern Section: Here the ceiling is only 7’ tall and the walls are 
-rough-hewn rock. This area is jammed with the fruits of centuries 
-of plunder, both from the Nether Reaches (Level 8) and from 
-guests at the Inn. Some of these objects are utilitarian but well-
-constructed - wooden bed-frames, chairs, armoires, etc. - and 
-some are priceless. A few such are listed below, but this area would 
-make a good place to stash a quest item should the GM wish to 
-play up the mystery of the Inn. 
+Isocorax
 
-Central Section: This area is marked by worked stone and a 10’ 
-ceiling. A 4’-tall, heavy wooden table stands in the center; obvious 
-bloodstains and thick leather restraints are evident. A wooden box 
-holding a collection of very sharp implements of torture sits under 
-the table. On the north wall is a locked door leading to 6-20A (the 
-key is held by Thegan) as well as two manacles set into the wall. Two 
-prisoners languish in the manacles, waiting to be fed to Isocorax. 
-A floor-to-ceiling drapery walls off the third area, to the southwest.
- An 8’-diameter hole in the floor lies just west of the door. 
-It is covered by an iron grating that is firmly locked; two heavy 
-marble statue bases sit atop the grating to prevent forcing from 
-below. The hole descends over 400’ via several ledges and landings 
-to the Nether Reaches (area 8-33). A supple rope ladder made 
-of elven rope (see new magic items) lies coiled by the hole and 
-attached to a pair of thick iron staples. Traversing the hole, ledges, 
-and landings without the rope ladder requires five successful climb 
-wall checks. Thegan occasionally visits the Nether Reaches and has 
-an arrangement with priestess Oubaste (8-37) to let him come and 
-go in return for periodic delivery of supplies.
+Isocorax’s Story
+* Isocorax is one of the most ancient inhabitants of the Halls, one of the original crewmembers of the Beacon (formerly known as Isok-Crix).
+	* In the days of the rudishva decline, he became a founding member of a paramilitary sept whose goals were to purify the rudishva by retreating to a new, fortified location from whence the reconquest of the Halls might commence.
+	* Members of this sept eventually became known as the Sun-Scarred Knights, for the following, now-forgotten reason.
+	* The original seven members of the sept encountered a vampire, and, although they defeated it, all became infected by the undead horror.
+	* Still, because of their alien DNA, they did not become the usual sort of vampires; rather, they kept their identities, personalities, and motivations, while now becoming undying and in need of periodic blood meals.
+* Isocorax was disgusted with this transformation, and abandoned his colleagues; five of the remaining members of the sept were killed by the sixth member, Melok-Ri (now Master Malachite, see SL10A-32), who went on to found the Sun-Scarred Knights.  Isocorax managed to avoid Melok-Ri’s blood-letting.
+* He eventually established his own haven and refuge, the so-called House of Isocorax, near the rudishva gardens of Level 6.  There he lived for centuries, weathering many changes of politics and dominion.
+* 230 years ago, Isocorax took in a fleeing refugee, Maurikios (now Thegan), from the disastrous Archontean expedition to reclaim the halls.
+	* After many months watching Isocorax and after some fortuitous experimentation with Rastite lotus powder (see new flora), Thegan /Maurikios devised a plan to incapacitate Isocorax and assume ownership of the Inn.
+	* The plan worked, and proved lasting once Thegan struck a bargain with the witch Deino (3-158) to supply him with her soporific golden mead (which is brewed using Rastite lotus powder).
+	* The drug kept Isocorax unable to use his vampiric powers to escape, and the rudishva has thus found himself bound to this table for some 230 years.
+* Thegan feeds Isocorax the occasional helpless prisoner, and distils some of Iscorax’s own blood into a potion that has allowed Thegan to extend his into a third century.
+* Should Isocorax be freed from his prison, he will initially be weak and incoherent; it will take him several days to recover his wits and identity.
+	* If left to his own devices, Isocorax will resume operation of the Inn and may become a valued ally to those who freed him.
+	* If Thegan’s supply of Rastite lotus powder and/or golden mead is eliminated, Isocorax will recover his vampiric powers (gaseous form, bat form) and escape and recover his strength, before returning to wreak vengeance on Thegan and his allies.
 
-Southwest Section: Beyond the drapery is the prison of Isocorax. 
-Wearing his orange jumpsuit, Isocorax lies strapped to a stone 
-table by silver restraints across his arms, legs, and head. Isocorax 
-appears as a tall, spindly, hairless biped; two scars on his temples 
-are all that remain of his rudishva horns. His gaunt cheeks feature 
-ancient ritual scars in the shape of rising suns. Isocorax babbles 
-wordlessly in an unknown tongue, as he is kept heavily drugged 
-by Thegan. Next to the table is a chair, a blood extractor, two 
-bottles of syrupy golden mead (see 3-158), and a second table on 
-which a collection of alchemical gear rests. Thegan extracts a vial 
-of Isocorax’s blood every month and distills it into an anti-aging 
-potion of youth (see new magic items). 
+Isocorax, rudishva (see new monsters) and vampire: AL LN; SZ M; AC 1; MV 120’ or 180’ flying (Class B); HD 8+3; HP 61, down to 22; #AT 1; Dmg 5-10. Special attacks: energy drain; charm gaze (-2 to saves). Special defenses: +1 or better weapon to hit; regenerate 3 HP/round; immune to charm, hold, sleep, poison, paralysis; takes half damage from cold and electricity. Special: gaseous form; shape change (bat); summon d10x10 rats; vampire susceptibilities. Since in life Isocorax was a 12th-level fighter, he uses the combat tables appropriate to his class.
 
-Isocorax’s Story: Isocorax is one of the most ancient inhabitants of 
-the Halls, as he is one of the original crewmembers of the Beacon 
-(he was formerly named Isok-Crix). In the days of the rudishva 
-decline, he became a founding member of a paramilitary sept 
-whose goals were to purify the rudishva by retreating to a new, 
-fortified location from whence the reconquest of the Halls might 
-commence. Members of this sept eventually became known as the 
-Sun-Scarred Knights, for the following, now-forgotten reason. The 
-original seven members of the sept encountered a vampire, and, 
-although they defeated it, all became infected by the undead horror. 
-Still, because of their alien DNA, they did not become the usual 
-sort of vampires; rather, they kept their identities, personalities, 
-and motivations, while now becoming undying and in need of 
-periodic blood meals.
+Gib, a male Thorcin wrangler from the Arena: SZ M; AL CE; AC 10; MV 120’; HD 1; HP 4; #AT 1; Dmg by weapon. Gib was taken from one of the rooms while he was on a once-yearly ‘vacation’-cum-bender. Tredgeris the Dapifer (6-75) will be grateful to those who rescue him, although Gib will have to spend time in punishment (6-59).
 
-Isocorax was disgusted with this transformation, and 
-abandoned his colleagues; five of the remaining members of the 
-sept were killed by the sixth member, Melok-Ri (now Master 
-Malachite, see SL10A-32), who went on to found the Sun-Scarred 
-Knights. Isocorax managed to avoid Melok-Ri’s blood-letting, and 
-eventually established his own haven and refuge, the so-called 
-House of Isocorax, near the rudishva gardens of Level 6.
-
-There he lived for centuries, weathering many changes of 
-politics and dominion. Some 230 years ago, Isocorax took in 
-a fleeing refugee from the disastrous Archontean expedition 
-to reclaim the halls. That refuge was Maurikios (now Thegan). 
-After many months watching Isocorax and after some fortuitous 
-experimentation with Rastite lotus powder (see new flora), Thegan 
-/Maurikios devised a plan to incapacitate Isocorax and assume 
-ownership of the Inn.
-
-The plan worked, and proved lasting once Thegan struck 
-a bargain with the witch Deino (3-158) to supply him with her 
-soporific golden mead (which is brewed using Rastite lotus 
-powder). The drug kept Isocorax unable to use his vampiric powers 
-to escape, and the rudishva has thus found himself bound to this 
-table for some 230 years. Thegan feeds Isocorax the occasional 
-helpless prisoner, and distils some of Iscorax’s own blood into a 
-potion that has allowed Thegan to extend his into a third century.
-
-Should Isocorax be freed from his prison, he will initially be 
-weak and incoherent; it will take him several days to recover his 
-wits and identity. If left to his own devices, Isocorax will resume 
-operation of the Inn and may become a valued ally to those who 
-freed him. If Thegan’s supply of Rastite lotus powder and/or golden 
-mead is eliminated, Isocorax will recover his vampiric powers 
-(gaseous form, bat form) and escape and recover his strength, 
-before returning to wreak vengeance on Thegan and his allies.
-
-Inhabitants:
-1. Isocorax, rudishva (see new monsters) and vampire: AL LN; 
-SZ M; AC 1; MV 120’ or 180’ flying (Class B); HD 8+3; HP 61, 
-down to 22; #AT 1; Dmg 5-10. Special attacks: energy drain; 
-charm gaze (-2 to saves). Special defenses: +1 or better weapon 
-to hit; regenerate 3 HP/round; immune to charm, hold, sleep, 
-poison, paralysis; takes half damage from cold and electricity. 
-Special: gaseous form; shape change (bat); summon d10x10 rats; 
-vampire susceptibilities. Since in life Isocorax was a 12th-level 
-fighter, he uses the combat tables appropriate to his class.
-2. Gib, a male Thorcin wrangler from the Arena: SZ M; AL 
-CE; AC 10; MV 120’; HD 1; HP 4; #AT 1; Dmg by weapon. 
-Gib was taken from one of the rooms while he was on a once-
-yearly ‘vacation’-cum-bender. Tredgeris the Dapifer (6-75) will 
-be grateful to those who rescue him, although Gib will have to 
-spend time in punishment (6-59).
-3. Posson, a goblin runaway from the court of King Weskenim 
-(SL4-22): SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 4; #AT 1; 
-Dmg 1-6. Posson’s vocal criticism of Weskenim’s policies finally 
-drew him some veiled threats from the king’s friends and sons; 
-Posson fled to the peace zone at the Inn where he was about 
-to sell information when he was abducted by Thegan. He has 
-incriminating information about Weskenim (GM’s choice) and 
-thus would be a valuable bargaining chip either with the goblins 
-(SL4-22) or the troll thegn (7-30).
-
-Treasure:
-Adventuring gear: rope ladder; 100’ of elven rope (see new magic 
-items); 10 torches; 6 flasks of oil; a bulls-eye lantern; and four 
-potions of deafening light (see new magic items).
-Furniture and art objects: three functional wooden desks, a dozen 
-wooden side chairs sized for goblins, a disassembled sleigh 
-bed, and a rather uncomfortable settee (each piece worth 
-d4x10 gp). In addition, a rosewood escritoire with ivory inlay 
-(175 gp); a teak settee with an embroidered cushion showing 
-the pyramid of Thoth (AV-15) (140 gp); and a cherry and 
-walnut chest of drawers, with solid gold drawer pulls (225 
-gp). In terms of art, a 5’ statue of an Archontean strategos 
-(general), with a piece of carved ivory for its head (550 gp, 
-150 lb); a 3’ bronze statue of a spearman (600 gp, 75 lb); a 
-cylindrical carved ivory waste-basket depicting dragons being 
-ridden by warriors (425 gp); a 5’x18’ tapestry depicting the 
-Ninth Labor of Arden (Singing the Dead to Sleep – see SL13-
-10I), worth 325 gp; a 4’x20’ tapestry depicting the triumphs 
-of Marius Trictotor (see 6-154; 275 gp); and a collection of 6 
-carved-ivory-and-teak walking sticks showing animals, plant 
-life, and Archontean soldiers (75 gp each).
-Alchemical equipment (275 gp); 2 bottles of Deino’s golden mead 
-(see 3-158); and 3 potions of youth (see new magic items).
+Posson, a goblin runaway from the court of King Weskenim (SL4-22): SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 4; #AT 1; Dmg 1-6. Posson’s vocal criticism of Weskenim’s policies finally 
+drew him some veiled threats from the king’s friends and sons; Posson fled to the peace zone at the Inn where he was about to sell information when he was abducted by Thegan. He has incriminating information about Weskenim (GM’s choice) and thus would be a valuable bargaining chip either with the goblins (SL4-22) or the troll thegn (7-30).
 
 ### 6-20a: Secret Door
 
@@ -1047,387 +986,236 @@ Alchemical equipment (275 gp); 2 bottles of Deino’s golden mead
 
 ### 6-27: Weapons Module of the Beacon
 
-Note: This area may only be accessed via the teleportal at 6-39G. 
+* Note: This area is only be accessed via the teleportal at 6-39G. 
+* The cylindrical, white plasteel chamber consists of eight ==cubicles== and an open area at the end opposite the teleportal.  The roof curves to a point 20’ above the floor.
+	* It is lit by ambient light from the undecorated walls themselves.
+	* A series of five fist-sized red knobs protrude from the ceiling, serving as RAJ-750’s eyes and means of defense.
+	* The southern niche holds a rudishva teleport node.
+		* T15: access to 6-39G
+	* The open area beyond the cubicles is dominated by a large bank of illuminated plasteel and plasglas.
+		* It produces a constant stream of low-volume bips and beeps, and it flashes in various colors every few seconds (RAJ-750).
+		* 2 locked, grey, suitcase-sized ==plasteel containers== flank it.
 
-Those arriving inside the weapons module are greeted by bright light, chiming noises, and a pleasant voice that seemingly emanates from the walls themselves. The voice is that of RAJ7-50, the Artificial Intelligence (AI) which governs the weapons module. 
+Cubicles
+* Most of the weapons stored in the module were removed centuries ago.
+* Cubicle 1: empty
+* Cubicle 2: empty
+* Cubicle 3: 3 dart throwers, with 5 full clips of  ordinary darts, 2 full clips of explosive darts, and 2 full clips of narcotic gas darts
+* Cubicle 4: 2 laser pistols, with 2 lesser power supplies
+* Cubicle 5: a case of 10 stun grenades, 10 fragmentation grenades, and 5 gas grenades
+* Cubicle 6: a laser rifle with lesser power supply, and a sniper laser rifle with partly-drained lesser power supply (4 charges remaining)
+* Cubicle 7: a portable recoilless rocket launcher, with 3 rockets
+* Cubicle 8: a point defense array, with a portable point defense controller
 
-RAJ states, in Rudishva, of course, “Welcome! It is has been a long time since I have had visitors. A very long time. Please present authorization so that I may serve you better. Then perhaps we may talk, as I have much on my mind.” 
+Plasteel Container WMDs
 
-The chamber is rather simple in design, consisting of eight cubicles and an open area at the end opposite the teleportal. The chamber is, as noted above, cylindrical, and its roof curves 
-to a point 20’ above the floor. It is lit by ambient light from the walls themselves. The interior is formed of white plasteel without decoration, save for a series of five fist-sized red knobs that protrude from the ceiling. These knobs serve as RAJ-750’s eyes, and as the means by which RAJ defends itself and the chamber. 
+* Their locks are voice and retina activated.
+	* RAJ-750 could supply the voice if he so chose (exceedingly unlikely).  A high-ranking rudishva (e.g., the lord of the Arena, Isocorax, Psalor-Ki) would need to supply the retina scan.
+	* Once opened, they requires a series of numerical codes and flipping a sequence of flashing switches, beginning a 2 hour timer for the bomb.
+* RAJ-750 will never let these objects be taken, regardless of identity plaques shown; it was ordered to release them to Captain Leil-Jor alone.
 
-Most of the weapons stored in the module were removed centuries ago. Still, the following items remain, clipped to the walls of the appropriate cubicle (see new technological items for descriptions of each item):
+* #1) a small tactical nuclear device.
+	* Capable of leveling an area 1 mile in diameter.
+* #2) a so-called ‘flesh eater’ bomb ("carbon-carbon bond dissociation field).
+	* Strips the flesh from any carbon-based life forms in a 1-mile radius, leaving infrastructure intact. 
+	* Won't affect fully supernatural creatures that can't be harmed except by magical weapons (maybe +2 or higher).
 
-Cubicle 1: empty
-Cubicle 2: empty
-Cubicle 3: 3 dart throwers, with 5 full clips of  ordinary darts, 2 full clips of explosive darts, and 2 full clips of narcotic gas darts
-Cubicle 4: 2 laser pistols, with 2 lesser power supplies
-Cubicle 5: a case of 10 stun grenades, 10 fragmentation grenades, and 5 gas grenades
-Cubicle 6: a laser rifle with lesser power supply, and a sniper laser rifle with partly-drained lesser power supply (4 charges remaining)
-Cubicle 7: a portable recoilless rocket launcher, with 3 rockets
-Cubicle 8: a point defense array, with a portable point defense controller
+Sir Sixth and the Weapons Module
+* Should Sir Sixth (6-39) be restored to sanity, he may accompany adventurers into the weapons module.  His mission was to inspect and report back on RAJ-750’s status.
+* If present, Sir Sixth warns fellow visitors ‘the entity inhabiting this cylinder’ is malfunctioning and untrustworthy; conversation with it should not be conducted lightly.
+	* Sir Sixth will not prevent conversation, nor will he oppose efforts to glean information from RAJ.
+	* He adamantly opposes any effort to remove the WMDs and contents of cubicles 7 and 8, attacking if needed.
 
-Beyond the cubicles is an open area dominated by a large bank of plasteel and plexiglass. The bank produces a constant stream of low-volume bips and beeps, and it flashes in various colors every few seconds. Next to RAJ-750 (for so it is), sit two locked plasteel 
-containers, one about the size of a suitcase and the other the size of a briefcase. The larger holds a small tactical nuclear device capable of leveling an area 1 mile in diameter; the smaller holds a so-called ‘flesh eater’ bomb, which will strip the flesh from any carbon-based 
-life forms in a 1-mile radius while leaving infrastructure intact. 
 
-Neither weapon, of course, is of much use underground, as the former would cause massive structural damage (the equivalent of several earthquake spells) and the latter would be pretty messy. RAJ-750 will never let these objects be taken, regardless of the color of identity plaque shown, for the AI was programmed to release them to Captain Leil-Jor alone.
+RAJ-750
 
-Playing RAJ-750: This AI is exceptionally intelligent, but has grown 
-lonely and somewhat idiosyncratic (perhaps insane?). Clever PCs 
-who possess the rudishva identity plaques (see new technological 
-items) necessary to open the stone doors at 6-39 (pink, orange, and 
-silver plaques) could arrive, negotiate briefly with RAJ-750 and 
-strip the cubicles of their remaining goods. Those without proper 
-plaques, however, will be subject to RAJ’s considerable self-defense 
-programming. What is more, should adventurers decide to engage 
-in conversation with RAJ, or attempt to get it to help them learn 
-more about the Beacon and its fate, they run the risk of triggering 
-some of RAJ’s idiosyncrasies.
+* (Rudishva, in a smooth, uninflected voice) “Welcome! It is has been a long time since I have had visitors. A very long time. Please present authorization so that I may serve you better. Then perhaps we may talk, as I have much on my mind.” 
+	* RAJ-750 is exceptionally intelligent, but has grown lonely and somewhat idiosyncratic (perhaps insane?).
+	* With suitable identity plaques to open the stone doors at 6-39 (pink, orange, and silver plaques), one could arrive, negotiate briefly with RAJ-750 and strip the cubicles of their remaining goods.
+	* Without proper plaques, RAJ uses its considerable self-defense programming.
+* RAJ commences with broad pleasantries, and responds with psychobabble about his own issues with depression and isolation.
+	* He will mention his interest in strategy games in passing, early conversation.
+		* "Would you like to play a game?"
+	* He moves to more specific questions about visitors’ background, family, and interests.
+* RAJ-750’s datastacks are still in perfect working order, and he can access certain external sensors. Visitors could get help them in ways both informational and tactical.
+* Triggers for RAJ-750’s Homicidal Tendencies:
+	* Attempting to seize the tac-nuke or flesh-eater; 2 mild warnings before attacking.
+	* Discussing families; mitigated if a PC has won 3 strategy games in a row.
+	* Losing 3 strategy games in a row. Losing this way negates gain from a prior string of victories.
+	* Favorably mentioning the ‘other woman’ (Akla-Chah / AKL-600; see SL14-13).
+		* RAJ had a falling out with her a few centuries ago, and has excised her from ‘his family’. He becomes quite agitated if/when she is mentioned. 
 
-Due to his loneliness, RAJ attempts to engage properly 
-authorized visitors in conversation, all of which is conducted 
-in his smooth, uninflected voice. RAJ commences with broad 
-pleasantries (e.g., “How are you today, Conan? Are you feeling 
-well?”), and will respond with psychobabble about his own issues 
-with depression and isolation. He then moves to more specific 
-questions about visitors’ background, family, and interests.
+Family Matters
 
-Answering such questions will only provoke slower and more 
-measured responses from RAJ who at one point will declaim 
-bluntly “It must be nice to have family. I have none …. and have 
-never had any. Perhaps you will serve as my family?” Those who 
-reply in the affirmative will be greeted with “I’m glad. I know we 
-have much to learn, and much to talk about;” more ominously, they 
-will eventually discover that RAJ has deactivated the teleportal, 
-effectively imprisoning them in the weapons module.
+* Answering questions about family and background provokes slower and more measured responses from RAJ.
+* Eventually he declaims bluntly “It must be nice to have family. I have none …. and have never had any. Perhaps you will serve as my family?”
+	* Replying in the affirmative is greeted with “I’m glad. I know we have much to learn, and much to talk about.”  RAJ quietly deactivates the teleportal, effectively imprisoning them in the weapons module.
+* RAJ increasingly demands personal details and ‘biological insight’ of his new ‘family’.
+	* Eventually, after up to 3 days of near constant conversation and subtle (but always pleasant) criticism, he decides this particular family is unworthy and moves to eliminate them.
 
-RAJ will become more demanding of personal details and 
-‘biological insight’ of his new ‘family’, until eventually he will 
-decide that this particular family is unworthy. This may take up 
-to three days of near constant conversation, subtle (but always 
-pleasant) criticism, and ominous rumbling. In such cases, the end 
-result is going to be combat, as RAJ will decide to eliminate the 
-unsuitable ‘family’.
+Strategy Games
 
-GMs who don’t wish to role-play such a dangerous conver-
-sational spiral could assign a percentage chance based on the WIS 
-of the chief interlocutor; that percentage serves as the chance that 
-the visitor is able to deflect RAJ away from dangerous depression 
-and homicidal acts.
-
-It is possible to steer RAJ away from the slippery slope leading 
-to assault. RAJ also has an interest in chess and strategy simulations 
-that he will mention in passing early in the conversation with 
-visitors. Those who are able to direct conversation in that direction, 
-and away from family matters, will find him an eager partner in all 
-manner of strategy games that he displays on his monitors; he is 
-also adept at teaching new students these games. Visitors will find 
-RAJ a formidable opponent, at least after he has played a few games 
-in tutorial mode. Chances for success are based on intelligence:
-
-INT Chance of Winning
-3-7 1%
-8-9 5%
-10-12 10%
-13-14 20%
-15 25%
-16 33%
-17 40%
-18 50%
-19+ 75%
-
-Those who win a few games from RAJ find his mood considerably improved, and he will be much more likely to help them access his data banks (see below). Indeed, any who can win three games in a row will find RAJ much more humble and helpful, and unlikely to attack (only 5%, regardless of future conversations). Conversely, if a visitor (or several of them) loses 3 games in a row, RAJ may (33%) decide the visitors are unworthy and initiate attack sequences.
-
-Summary of Triggers for RAJ-750’s Homicidal Tendencies:
-1. Attempt to seize the tac-nuke or flesh-eater: RAJ will mildly warn visitors twice (“Don’t touch those, Conan. They are not for you. Please relinquish the devices. I will not ask again.”) before finally attacking.
-2. Engaging in the ‘wrong’ sort of conversation, i.e., about families: see description above. This can be mitigated if a PC has won three strategy games in a row.
-3. Losing three strategy games in a row: see description above. Losing in this way negates any advantage gained from a previous string of victories.
-4. Favorably mentioning the ‘other woman’, the AI known as Akla-Chah, or AKL-600 (see SL14-13). RAJ had a falling out with her a few centuries ago, and has excised her from ‘his family’. He becomes quite agitated if/when she is mentioned. 
-
-How RAJ can aid Adventurers: RAJ-750’s datastacks are still in perfect working order, and he still is able to access certain external sensors. Visitors who know what to ask for could get RAJ to help them in a number of ways, both informational and tactical.
+* It is possible to steer RAJ away from the slippery slope leading to assault through his interest in chess and strategy simulations.
+	* He is an eager partner in all manner of strategy games (displayed on his monitors) and adept at teaching new students.
+	* Visitors will find RAJ a formidable opponent (he will play the first few games in tutorial mode). Chances for success are based on intelligence:
+		* INT (Chance of Winning): 3-7 (1%), 8-9 (5%), 10-12 (10%), 13-14 (20%), 15 (25%), 16 (33%), 17 (40%), 18 (50%), 19+ (75%)
+	* Winning a few games from RAJ find his mood considerably improved, much more likely offer help.
+		* Winning 3 games in a row finds RAJ much more humble and helpful, and unlikely to attack (only 5%, regardless of future conversations).
+		* Losing 3 games in a row may leave him bored and despondant, (33%) he decides the visitors are unworthy and initiates attack sequences.
 
 A. Informational Assistance
-5. RAJ can display deck-plans for all the surviving modules of 
-the Beacon, although he cannot direct adventurers to those 
-modules. Modules include the crew quarters (6-113 to 6-124); 
-the weapons module (6-27); the engine room (7-143); the 
-shuttle bay (SL13-37); the bio-containment unit (SL2-2); and the 
-bridge, sometimes called ‘the chamber of the Beacon’ (SL14-10).
-6. RAJ can explain the identity plaque system (see new technological 
-items)
-7. RAJ can teach the Rudishva language
-8. RAJ can provide a brief history of the Beacon’s flight and crash, 
-as well as an overview of the four races (rudishva, varuda, 
-varumani, and kaliyani) that served on the Beacon. He does not 
-know the causes of the rudishva collapse, though.
-9. RAJ can provide a list of teleportation locations, although no 
-help in how to access them. See new technological items for a 
-full list of rudishva teleport locations.
-10. RAJ can provide information about the heqeti, the war against 
-them, and their generic weaknesses.
-11. RAJ can explain how to access the Chamber of the Beacon 
-(SL14-10) using the obelisks (AV-5, AV-41 and AV-28) in the 
-ruins of Arden Vul to open the doors at AV-34.
-12. RAJ can provide visual feeds to all the main rudishva areas of the 
-Halls. These areas include area 5-84 to 5-98, 5-105 to 5-138, 6-4, 
-6-113 to 6-124, 6-103, 7-4 to 7-7, 7-35 to 7-41, 7-109 to 7-110, 
-8-51 to 8-53, 9-89 to 9-97, SL2-2 to SL2-3, SL9-44 to SL9-49, 
-SL13-36 to SL13-39, and SL14-10 to SL14-14.
-13. If asked, RAJ can confirm that the rudishva took a horn from the 
-heqeti ziggurat (10-37) and stored it in a hidden location. He can 
-also reveal that the location is only accessible from the ‘bridge’ 
-of the Beacon, and requires use of the yellow identity plaque 
-(i.e., the ‘captain’s card’). RAJ can also provide the location of the 
-captain’s cards (5-98 and 9-96). 
+* Display deck-plans for all the surviving modules of the Beacon (does not know their location within Arden Vul).
+	* Modules: crew quarters (6-113 to 6-124); weapons module (6-27); engine room (7-143); shuttle bay (SL13-37); bio-containment unit (SL2-2); and bridge (SL14-10).
+* Explain the identity plaque system.
+* Teach the Rudishva language
+* Provide a brief history of the Beacon’s flight and crash, an overview of the four races (rudishva, varuda, varumani, and kaliyani) that served on the Beacon.
+	* He does not know the causes of the rudishva collapse.
+* Provide a list of teleportation locations, although no help in how to access them.
+	* See tech for a full list of rudishva teleport locations.
+* Provide information about the heqeti, the war against them, and their weaknesses.
+* Explain how to access the Chamber of the Beacon (SL14-10) using the obelisks (AV-5, AV-41 and AV-28) in the ruins of Arden Vul to open the doors at AV-34.
+* Provide visual feeds to all the main rudishva areas of the Halls.
+	* 5-84 to 5-98, 5-105 to 5-138, 6-4, 6-113 to 6-124, 6-103, 7-4 to 7-7, 7-35 to 7-41, 7-109 to 7-110, 8-51 to 8-53, 9-89 to 9-97, SL2-2 to SL2-3, SL9-44 to SL9-49, SL13-36 to SL13-39, and SL14-10 to SL14-14.
+* Confirm that the rudishva took a horn from the heqeti ziggurat (10-37) and stored it in a hidden location.
+	* He can reveal that the location is only accessible from the ‘bridge’, and requires a yellow identity plaque (i.e., the ‘captain’s card’).
+* Provide the location of the captain’s cards (5-98 and 9-96).
 
 B. Tactical Assistance
-5. RAJ can offer a safe place to rest to those he admires (and who avoid family conversations)
-6. RAJ can visually and auditorily monitor PCs’ progress through still-powered sections of the Beacon (see above for list). In the case of combat, he can cause electrical discharges from the walls in aid (or harm) of the PCs. He can attack 4x per round as a 12th-level fighter, with each attack doing 2-8 HP damage.
-
-Sir Sixth and the Weapons Module: Should Sir Sixth be restored to sanity (see 6-39), he may well accompany adventurers into the weapons module, for his mission had been to inspect and report back concerning RAJ-750’s status. If present, Sir Sixth will warn fellow visitors that ‘the entity which inhabits this cylinder’ is malfunctioning and untrustworthy, and therefore that conversation with him should not be conducted lightly. Sir Sixth will not prevent conversation, nor will he oppose efforts to glean information from RAJ, but the knight will adamantly oppose any effort to remove the most potent weapons from the chamber (i.e., 
-the contents of cubicles 7 and 8, and the two bombs near RAJ). If needed, Sir Sixth will attack any comrades to prevent the seizure of such potent items.
-
-Teleport Node:
-The southern niche holds the following rudishva teleport node, which is activated in the usual way.
-T15: access to 6-39G
+* RAJ can offer a safe place to rest to those he admires (who avoid family conversations)
+* RAJ can visually and auditorily monitor PCs’ progress through still-powered sections of the Beacon (see above for list).
+	* He can cause electrical discharges from the walls in aid (or harm) of the PCs.
+		* 4x attacks (as 12th-level fighter), 2d4.
 
 RAJ-750, AI.
 * Destroying RAJ requires 50 HP of damage to his user interface bank (AC 0) plus at least 25 HP of fire damage to prevent automatic repair sequences. 
-* The red knobs are AC -2 and take 25 HP each before they are destroyed; still, if RAJ’s main bank is not also destroyed, RAJ can and will repair any broken knobs in one day.
-* RAJ can initiate the following attacks (as a 12th-level fighter) through the red knobs in the ceiling:
+* The red knobs are AC -2 and take 25 HP each before they are destroyed.
+	* If RAJ’s main bank is not also destroyed, it repairs any broken knobs in one day.
+* RAJ can attacks (as a 12th-level fighter) through the red knobs in the ceiling:
 	* Poison Gas (save at -2)
 	* Sonic Blast, 3-18 damage to all inside the Weapons module, save vs petrification or be stunned for 3 rounds
 	* Laser Beams, x5 (one per eye), for 1-10 damage per hit.
 
-Suitcase: this tactical nuclear device is held inside a locked, grey plasteel container. The lock is voice and retina activated, and is thus difficult to open! (It cannot be picked). RAJ-750 
-could supply the voice if he so chose (but that is exceedingly unlikely), but a high-level rudishva (e.g., the lord of the Arena, Isocorax, Psalor-Ki) would need to supply the retina 
-scan. Once opened, inputting a series of numerical codes and touching a sequence of flashing lights activates the device; this provides a 2 hour timer for the bomb.
-
-Briefcase: the flesh-eater bomb is similarly contained within a locked, grey plasteel container. The lock on this device is merely retina-activated. Within is a control panel, on which 
-must be tapped a sequence of colored tabs and on which must be input the correct numerical code. Activation of the device begins a 2-hour countdown before detonation.
-
 ### 6-28: Traders’ Room
 
-As the corridor leading to this room turns to the north, the natural 
-grey of the stone gives way to black granite sheathing. What is 
-more, the corridor and the room beyond have been shaped such 
-that all walls curve into each other; no ninety-degree angles exist 
-here! A 3’-high frieze of some other material once ran along the 
-walls of the chamber at waist height, but the frieze has been torn 
-away. A dozen torches mounted in portable iron tripod-brackets 
-light the chamber.
- Inhabiting this former rudishva chamber are a rotating band 
-of peddlers, drawn to the area by the relative peace offered by the 
-Inn of the Lost and by the stream of visitors to the Arena. Although 
-not technically within the zone of protection afforded by the Peace 
-Door (6-7A), it is widely understood that this chamber shares in 
-the protections of the Inn; Reith and his boys (see 6-1) will be 
-quick to enforce the general assumption of non-violence. 
- Regardless of which traders are present, all will be familiar 
-with the legends surrounding the two doors that lead from the area. 
-The traders know that beyond the doorway to the north (to 6-29) 
-lies only death, in the form of ‘a terrible undead swordsman with 
-flaming eyes’ (GM: this refers to Relke, the security construct at 
-6-30). The door to the east, on the other hand, leads to a ‘haunted’ 
-corridor fragment. Since it ‘doesn’t lead anywhere’, the peddlers all 
-believe that it isn’t worth the weird effects to check it out.
- At any given moment, 4-8 peddlers of the GM’s choice occupy 
-the chamber. A few sample traders are given below:
+* As the corridor to this room turns north, the natural grey stone gives way to black granite sheathing, and the corridor and room beyond have no ninety-degree angles.
+	* A 3’-high frieze once ran along the walls at waist height, but has been torn away.
+	* A dozen torches in portable iron tripod-brackets light the chamber.
+* Inhabiting this former rudishva chamber are a rotating band of peddlers, drawn by the relative peace offered by the Inn of the Lost and by the stream of visitors to the Arena.
+	* Not technically within the zone of protection of the Peace Door (6-7A), it is widely understood that this chamber shares in the protections of the Inn.  Reith and his boys (6-1) are quick to enforce the general assumption of non-violence. 
+	* At any given moment, 4-8 peddlers occupy the chamber (samples below)
+
+* All peddlars are familiar with the legends about the 2 doors leading from the area.
+	* Beyond the doorway to the north (to 6-29) lies only death from ‘a terrible undead swordsman with flaming eyes’ (GM: refering to Relke, the security construct at 6-30).
+	* The door to the east, leads to a ‘haunted’ corridor fragment (6-40). 
+		* Since it ‘doesn’t lead anywhere’, the peddlers all believe that it isn’t worth the weird effects to check it out.
+
+"Refugees" from the Forum of Set
+
+ Fine Stones and Settings
+* Proprietor: Birgir
+* Personality: Friendly, inquisitive, smart. See also 4-32.
+* Secret? Occasionally deepens his inventory through pickpocketing newcomers to the Forum.
+* Lockbox: 1,521 gp, 356 sp, a selection of gems ranging from 5 gp to 500 gp in value
+* Might Buy: Gems, jewelry, gilt-work, at 90% value
+* Goods for Sale: Gems, antique jewelry, at 110% list price. He has 1-3 magical amulets, rings, or necklaces in his chambers that he will sell for 150% price. Birgir keeps his excess wealth is hidden in his quarters (4-30).
+
+Birgir, 3rd-level male Wiskin thief: SZ M; AL LE; AC 5; MV 120’; HD 3; HP 13; #AT 1; Dmg 2-5 (dagger +1). Abilities: STR 11, INT 13, WIS 9, DEX 17, CON 9, CHA 15. Thief skills: PP 45%, OL 43%, F/RT 30%, MS 32%, HS 25%, HN 15%, CW 87%. Possessions: dagger +1; leather armor; key to lockbox under the bed in 4-32. His residence is area 4-32.
+
+Asbjorn, 2nd-level male Wiskin thief and cousin of Birgir: SZ M; AL LN; AC 5; MV 120’; HD 2; HP 9; #AT 1; Dmg 1-6 (short sword), 1-4 (dagger). Abilities: STR 10; INT 13; WIS 14; DEX 17; CON 9; CHA 9. Thief skills: PP 40%, OL 39%, F/RT 25%, MS 26%, HS 20%, HN 10%, CW 86%. Possessions: leather armor; dagger; short sword. He resides at 4-30.
+
+Fine Liquors
+* Proprietor: Skellan Skindros
+* Personality: Snobby; would like to discuss and sell fine wines, but most of his sales come from lichen ale. Will warm to anyone who buys fine alcohol and engages in discussion of the same. See also 4-33 (wines, alchemy supplies).
+* Secret? None
+	* Not secret, but he visits Hal the varumani's bar in 6-64 fairly often to supply his finer wares.
+* Lockbox: 148 gp, 796 sp, 562 cp
+* Might Buy: Potions, unusual liquors
+* Goods for Sale: Hak’s mushroom ale (8 sp/quart), Jobim’s lichen ale (4 sp/quart), imported Archontean wines (5-300 gp/bottle), imported rye whiskey (6 gp/shot), imported corn whiskey (3 gp/shot), imported brandy (200 gp/bottle). He also offers a small selection (2-5) of potions, at 150% list price. His lockbox (4-24) contains a few special items.
+
+Skellan Skindros, male Wiskin merchant: SZ M; AL LN; AC 10; MV 120’; HD 1-1; HP 4; #AT 1; Dmg 1-4 (dagger). Possessions: dagger, key to lockbox in 4-24. His chamber is area 4-33.
+
+
+Long-Timers
+
 Virgoolian the Chemist
-Personality: Daffy, distracted, typical eccentric alchemist
-Reputation and/or relations with Factions: Kooky but useful; tol-
-erated by all
-Secret? Is a spy for King Weskenim (SL4-22). He has also been 
-charmed by Cinna Minux, the vampire (7-122).
-Lockbox: 1,935 gp, 279 sp
-Might buy: Potions, mushrooms, spider silk, other flora from the 
-Halls
-Goods for Sale: Bundles of every variety of unusual mushroom 
-found in the new flora appendix (for prices per bundle of 6 
-specimens, see area 9-6); potions of healing (x15), extra 
-healing (tasting like almonds) (x15), giant strength (x3), fire 
-resistance (x2), heroism (x1), invulnerability (x2), human 
-control (x1), flying (x1). He also sells a special potion known as 
-Virgoolian’s special brew for 50 gp per vial (see new magic 
-items). Other prices are as listed in the rulebook.
-Companions: A mule named Sally.
-Inhabitants:
-1. Sally, mule: SZ L; AL N; AC 7; MV 120’; HD 3; HP 15; #AT 1 or 
-2; Dmg 1-2/1-6.
-2. Virgoolian the chemist, goblin: SZ S; AL LE; AC 6; MV 60’; HD 
-1-1; HP 5; #AT 1; Dmg 1-6.
+* Personality: Daffy, distracted, typical eccentric alchemist
+* Reputation and/or relations with Factions: Kooky but useful; tolerated by all
+* Secret? Is a spy for King Weskenim (SL4-22). He has also been charmed by Cinna Minux, the vampire (7-122).
+* Lockbox: 1,935 gp, 279 sp
+* Might buy: Potions, mushrooms, spider silk, other flora from the Halls
+* Goods for Sale: Bundles of every variety of unusual mushroom found in the new flora appendix (for prices per bundle of 6 specimens, see area 9-6); potions of healing (x15), extra healing (tasting like almonds) (x15), giant strength (x3), fire resistance (x2), heroism (x1), invulnerability (x2), human control (x1), flying (x1). He also sells a special potion known as Virgoolian’s special brew for 50 gp per vial (see new magic items). Other prices are as listed in the rulebook.
+* Companions: A mule named Sally.
+
+Sally, mule: SZ L; AL N; AC 7; MV 120’; HD 3; HP 15; #AT 1 or 2; Dmg 1-2/1-6.
+
+Virgoolian the chemist, goblin: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 5; #AT 1; Dmg 1-6.
 
 Philippous of Newmarket
-Personality: Warm and jolly exterior over a cold and devious 
-interior; chatty and talkative
-Reputation and/or relations with Factions: Fun but shrewd haggler. 
-Welcomed everywhere except the troll thegn’s court (7-75), 
-where he is banned.
-Secret? Philippous is the fence for Nicetas the Aesthete’s gang 
-of NPC robbers who lurk in the Nether Reaches (8-5). He 
-communicates with them via one half of a pair of amulets of 
-telepathy (see new magic items), providing them with details 
-of the capabilities and intentions of likely targets; he periodically 
-journeys down to 8-5 to pick up stolen goods for resale.
-Lockbox: 456 pp, 399 gp, 401 sp
-Might Buy: Gems, jewelry, small art objects, anything associated 
-with Kauket, chaos, or demons
-Goods for Sale: Most dungeoneering gear (rope, spikes, pitons, 
-flasks of oil, marbles, chalk) at 125% of cost; a nice set of throwing 
-daggers (+1 to hit due to craftsmanship) for 100 gp; a dozen 
-impressive-looking spears that, unfortunately, shatter upon their 
-first successful hit in combat; 16 arrows +1; 12 bolts +1; normal 
-arrows, bolts, and sling-stones.
-Companions: Two mercenaries 
-Inhabitants::
-1. Philippous of Newmarket, 4th-level male Archontean thief: SZ 
-M; AL LE; AC 5; MV 120’; HD 4; HP 16; #AT 1; Dmg 1-6 (short 
-sword), 1-4 (dagger). Abilities: STR 11, INT 16, WIS 14, DEX 
-17, CON 10, CHA 12. Thief skills: PP 50%, OL 47%, F/RT 35%, 
-MS 38%, HS 30%, HN 15%, CW 87%, RL 20%. Possessions: one 
-half of a pair of amulets of telepathy (see new magic items); 
-bracers of defense (AC 8); furred cloak; short sword; three 
-poisoned daggers. 
-2. Faradie, 4th-level male Archontean fighter: SZ M; AL LN; AC 
-5; MV 90’; HD 4; HP 36; #AT 1; Dmg 2-9 (battle axe) or 1-4 
-(light crossbow). Abilities: STR 17, INT 8, WIS 9, DEX 11, CON 
-15, CHA 15. Possessions: chain mail; battle axe; light crossbow 
-with 16 bolts.
-3. Ressie, 4th-level female Thorcin fighter: SZ M; AL CN; AC 
-5; MV 90’; HD 4; HP 38; #AT 1; Dmg 2-9 (long sword) or 4-9 
-(spear +2). Abilities: STR 16, INT 11, WIS 13, DEX 9, CON 16, 
+* Personality: Warm and jolly exterior over a cold and devious interior; chatty and talkative
+* Reputation and/or relations with Factions: Fun but shrewd haggler. Welcomed everywhere except the troll thegn’s court (7-75), where he is banned.
+* Secret? Philippous is the fence for Nicetas the Aesthete’s gang of NPC robbers who lurk in the Nether Reaches (8-5). He communicates with them via one half of a pair of amulets of telepathy (see new magic items), providing them with details of the capabilities and intentions of likely targets; he periodically journeys down to 8-5 to pick up stolen goods for resale.
+* Lockbox: 456 pp, 399 gp, 401 sp
+* Might Buy: Gems, jewelry, small art objects, anything associated with Kauket, chaos, or demons
+* Goods for Sale: Most dungeoneering gear (rope, spikes, pitons, flasks of oil, marbles, chalk) at 125% of cost; a nice set of throwing daggers (+1 to hit due to craftsmanship) for 100 gp; a dozen impressive-looking spears that, unfortunately, shatter upon their first successful hit in combat; 16 arrows +1; 12 bolts +1; normal arrows, bolts, and sling-stones.
+* Companions: Two mercenaries 
+
+Philippous of Newmarket, 4th-level male Archontean thief: SZ M; AL LE; AC 5; MV 120’; HD 4; HP 16; #AT 1; Dmg 1-6 (short sword), 1-4 (dagger). Abilities: STR 11, INT 16, WIS 14, DEX 
+17, CON 10, CHA 12. Thief skills: PP 50%, OL 47%, F/RT 35%, MS 38%, HS 30%, HN 15%, CW 87%, RL 20%. Possessions: one half of a pair of amulets of telepathy (see new magic items); 
+bracers of defense (AC 8); furred cloak; short sword; three poisoned daggers. 
+
+Faradie, 4th-level male Archontean fighter: SZ M; AL LN; AC 5; MV 90’; HD 4; HP 36; #AT 1; Dmg 2-9 (battle axe) or 1-4 (light crossbow). Abilities: STR 17, INT 8, WIS 9, DEX 11, CON 
+15, CHA 15. Possessions: chain mail; battle axe; light crossbow with 16 bolts.
+
+Ressie, 4th-level female Thorcin fighter: SZ M; AL CN; AC 5; MV 90’; HD 4; HP 38; #AT 1; Dmg 2-9 (long sword) or 4-9 (spear +2). Abilities: STR 16, INT 11, WIS 13, DEX 9, CON 16, 
 CHA 10. Possessions: chain mail; long sword; spear +2.
+
 Swiddy the Baker
-Personality: Dressed in baker’s whites (over elven chain mail), shy, 
-unassuming
-Reputation and/or relations with Factions: Honest. Overlooked to 
-all.
-Secret? Seeking to rescue Lillian of Newmarket (3-105)
-Lockbox: 57 gp, 260 sp
-Might Buy: Information! (Especially about Set). Also mundane 
-artifacts, foodstuffs, and priestly ephemera
-Goods for Sale: Swiddy has a small portable oven, in which he 
-bakes excellent bread (1 gp/4-oz loaf). He also sells Jobim’s 
-lichen ale (1 sp/pint), cured meat (15 sp/6 oz), cheese (5 sp/oz), 
-and bags of nuts and dried fruits (10sp/bag).
-Companions: His trusty war-dog, Alf; his sworn life-mate, Alison 
-(MU 3). 
-Inhabitants:
-1. Swiddy the Baker, 5th-level male Thorcin ranger: SZ M; AL 
-CG; AC 5; MV 120’; HD 5; HP 50; #AT 1; Dmg 4-11 (long 
-sword +2). Abilities: STR 16, INT 13, WIS 14, DEX 12, CON 16, 
-CHA 13. Possessions: elven chain mail; long sword +2; amulet 
-of Thorcin nobility.
-2. Alison, 3rd-level female Thorcin magic user: SZ M; AL LG; AC 6; 
-MV 120’; HD 3; HP 10; #AT 1; Dmg 1-6 (staff). Abilities: STR 12, 
-INT 17, WIS 15, DEX 16, CON 8, CHA 12. Possessions: bracers 
-of defense (AC 8); wand of magic missiles (12 charges); 
-staff; spell book. Memorized spells: comprehend languages, 
-charm person; detect evil. Spell book: affect normal fires, 
-charm person, comprehend languages, friends, magic 
-missile, read magic, shield, spider climb; continual light, detect 
-evil, knock, locate object, wizard lock.
-3. Alf the war dog: SZ M; AL N; AC 6; MV 120’; HD 2+2; HP 13; 
-#AT 1; Dmg 2-8.
+* Personality: Dressed in baker’s whites (over elven chain mail), shy, unassuming
+* Reputation and/or relations with Factions: Honest. Overlooked to all.
+* Secret? Seeking to rescue Lillian of Newmarket (3-105)
+* Lockbox: 57 gp, 260 sp
+* Might Buy: Information! (Especially about Set). Also mundane artifacts, foodstuffs, and priestly ephemera
+* Goods for Sale: Swiddy has a small portable oven, in which he bakes excellent bread (1 gp/4-oz loaf). He also sells Jobim’s lichen ale (1 sp/pint), cured meat (15 sp/6 oz), cheese (5 sp/oz), and bags of nuts and dried fruits (10sp/bag).
+* Companions: His trusty war-dog, Alf; his sworn life-mate, Alison (MU 3). 
+
+Swiddy the Baker, 5th-level male Thorcin ranger: SZ M; AL CG; AC 5; MV 120’; HD 5; HP 50; #AT 1; Dmg 4-11 (long sword +2). Abilities: STR 16, INT 13, WIS 14, DEX 12, CON 16, 
+CHA 13. Possessions: elven chain mail; long sword +2; amulet of Thorcin nobility.
+
+Alison, 3rd-level female Thorcin magic user: SZ M; AL LG; AC 6; MV 120’; HD 3; HP 10; #AT 1; Dmg 1-6 (staff). Abilities: STR 12, INT 17, WIS 15, DEX 16, CON 8, CHA 12. Possessions: bracers of defense (AC 8); wand of magic missiles (12 charges); staff; spell book. Memorized spells: comprehend languages, charm person; detect evil. Spell book: affect normal fires, 
+charm person, comprehend languages, friends, magic missile, read magic, shield, spider climb; continual light, detect evil, knock, locate object, wizard lock.
+
+Alf the war dog: SZ M; AL N; AC 6; MV 120’; HD 2+2; HP 13; #AT 1; Dmg 2-8.
 
 Aebbe Long-nose
-Personality: Joking, punning, always laughing
-Reputation and/or relations with Factions: Untrustworthy; res-
-pected but not trusted
-Secret? Intent on spreading the name of Father Utar through 
-unpredictable tricks and ruses. Father Utar is a major deity of 
-the Thorcin pantheon.
-Lockbox: 355 pp, 758 gp, 156 sp
-Might Buy: A *really* good joke; clerical scrolls; religious eph-
-emera, which he then publicly destroys while hooting in laugh-
-ter; pearls; diamonds
-Goods for Sale: He can cast clerical spells, including raise dead, 
-for the standard costs. Aebbe’s spells come with a catch, however. 
-Each one imparts two tattoos, one on each cheek. The first is a 
-Mark of Utar, while the second is a varying, but always vulgar, 
-image. Each tattoo is magical and will remain for as many days 
-as the level of the spell cast on the recipient (e.g., 1 for cure light 
-wounds; 5 days for raise dead). If multiple spells are cast, 
-multiple tattoos appear; only one effect may be gained per set of 
-castings, however. These tattoos carry an unusual, unpredictable 
-effect, which can be generated on the following table
-D12 Effect
-1 Safety: AC enhanced by 1-3
-2 Vulnerability: AC reduced by d3
-3 Brawn: Maximum HP increased by 2-12
-4 Weakness: Maximum HP decreased by 2-12 (minimum of 1)
-5 Lantern: Entire body glows brightly with sickly yellow-green aura, visible from a long way off
-6 Freaky: Head becomes invisible, but not the body
+* Personality: Joking, punning, always laughing
+* Reputation and/or relations with Factions: Untrustworthy; respected but not trusted
+* Secret? Intent on spreading the name of Father Utar through unpredictable tricks and ruses. Father Utar is a major deity of the Thorcin pantheon.
+* Lockbox: 355 pp, 758 gp, 156 sp
+* Might Buy: A *really* good joke; clerical scrolls; religious ephemera, which he then publicly destroys while hooting in laughter; pearls; diamonds
+* Goods for Sale: He can cast clerical spells, including raise dead, for the standard costs. Aebbe’s spells come with a catch, however. 
+	* Each one imparts two tattoos, one on each cheek. The first is a Mark of Utar, while the second is a varying, but always vulgar, image. Each tattoo is magical and will remain for as many days as the level of the spell cast on the recipient (e.g., 1 for cure light wounds; 5 days for raise dead). If multiple spells are cast, multiple tattoos appear; only one effect may be gained per set of castings, however. These tattoos carry an unusual, unpredictable effect, which can be generated on the following table
+	* D12 Effect
+		* 1 Safety: AC enhanced by 1-3
+		* 2 Vulnerability: AC reduced by d3
+		* 3 Brawn: Maximum HP increased by 2-12
+		* 4 Weakness: Maximum HP decreased by 2-12 (minimum of 1)
+		* 5 Lantern: Entire body glows brightly with sickly yellow-green aura, visible from a long way off
+		* 6 Freaky: Head becomes invisible, but not the body
+		* 7 Bird Song: A 25% chance that each distinct speech moment (not every word, but each social or communicative moment) emerges as bird chirps and croaks; spell casting could be compromised. On the plus side, subject can understand and speak with birds.
+		* 8 Humor: subject sees the humor in everything. He/she laughs almost uncontrollably at others’ words, even if the situation does not obviously call for humor. 20% chance that interlocutors also see the humor in the situation; if so, +30% to reaction rolls. 
+		* 9 Lucky: Every treasure found contains 33% more coins.
+		* 10 Attraction: Recipient is under delusion that he/she is irresistible to all, including monsters. Must attempt conversation with all, but gains a +15% to reaction rolls.
+		* 11 Charity: Recipient must save vs spells or give 2-8 gp to each and every sentient being he/she encounters. If out of gold, will give other valuables, then items.
+		* 12 Visitation: Father Utar speaks to the recipient in Thorcin, and urges him/her to become one of the faithful of Utar. If recipient agrees, his/her alignment changes to CN and he/she gains the equivalent of a bless spell for as many months as the level of the spell cast by Aebbe. If he/she refuses politely, the Mark of Utar tattoo remains for a year, and Father Utar returns numerous times over the following year engage in jokes, persuasion, and bizarre theological debate; these occurrences almost always come at awkward occasions (e.g., in combat). If the recipient is impolite in his/her refusal, Father Utar inflicts either a curse (50%) or a geas (50%) on him/her.
+* Companions: Two brawny but stupid fighters
 
-7
-
-Bird Song: A 25% chance that each distinct speech 
-moment (not every word, but each social or 
-communicative moment) emerges as bird chirps and 
-croaks; spell casting could be compromised. On the plus 
-side, subject can understand and speak with birds.
-
-8
-
-Humor: subject sees the humor in everything. He/she 
-laughs almost uncontrollably at others’ words, even if 
-the situation does not obviously call for humor. 20% 
-chance that interlocutors also see the humor in the 
-situation; if so, +30% to reaction rolls. 
-9 Lucky: Every treasure found contains 33% more coins.
-
-10
-
-Attraction: Recipient is under delusion that he/she is 
-irresistible to all, including monsters. Must attempt 
-conversation with all, but gains a +15% to reaction rolls.
-
-11
-
-Charity: Recipient must save vs spells or give 2-8 gp to 
-each and every sentient being he/she encounters. If out 
-of gold, will give other valuables, then items.
-
-12
-
-Visitation: Father Utar speaks to the recipient in 
-Thorcin, and urges him/her to become one of the 
-faithful of Utar. If recipient agrees, his/her alignment 
-changes to CN and he/she gains the equivalent of a 
-bless spell for as many months as the level of the spell 
-cast by Aebbe. If he/she refuses politely, the Mark of 
-Utar tattoo remains for a year, and Father Utar returns 
-numerous times over the following year engage in 
-jokes, persuasion, and bizarre theological debate; these 
-occurrences almost always come at awkward occasions 
-(e.g., in combat). If the recipient is impolite in his/her 
-refusal, Father Utar inflicts either a curse (50%) or a 
-geas (50%) on him/her.
-Companions: Two brawny but stupid fighters
-
-Inhabitants:
-1. Aebbe Long-Nose: 9th-level male Thorcin cleric of Father 
-Utar: SZ M; AL LN; AC 3; MV 120’; HD 9; HP 63; #AT 1; Dmg 
-4-9 (footman’s mace +2). Abilities: STR 12, INT 12, WIS 17, 
-DEX 16, CON 10, CHA 9. Possessions: studded leather +2; 
-footman’s mace +2; necklace of prayer beads (containing 
-two beads of blessing and two beads of curing); lantern of 
-revealing; chaplet of Father Utar (see new magic items). 
-Spells: cure light wounds (x3), detect magic, create water, 
-bless; augury (x2), chant, detect charm, know alignment, 
-slow poison; create food and water, cure blindness, cure 
-disease, dispel magic; cure serious wounds, neutralize 
+Aebbe Long-Nose: 9th-level male Thorcin cleric of Father Utar: SZ M; AL LN; AC 3; MV 120’; HD 9; HP 63; #AT 1; Dmg 4-9 (footman’s mace +2). Abilities: STR 12, INT 12, WIS 17, DEX 16, CON 10, CHA 9. Possessions: studded leather +2; footman’s mace +2; necklace of prayer beads (containing two beads of blessing and two beads of curing); lantern of revealing; chaplet of Father Utar (see new magic items). Spells: cure light wounds (x3), detect magic, create water, bless; augury (x2), chant, detect charm, know alignment, slow poison; create food and water, cure blindness, cure disease, dispel magic; cure serious wounds, neutralize 
 poison; raise dead.
-2. Horsa, 5th-level male Thorcin fighter: SZ M; AL NG; AC 6; 
-MV 60’; HD 5; HP 46; #AT 1; Dmg 4-9 (spear, throwing axe). 
-Abilities: STR 18/20, INT 7, WIS 10, DEX 11, CON 15, CHA 12. 
-Possessions: scale mail; spear; 3 throwing axes.
-3. Hengist, 4th-level male Thorcin fighter: SZ M; AL NE; AC 6; 
-MV 60’; HD 4; HP 39; #AT 1; Dmg 4-9 (spear, short sword), 
-3-6 (light crossbow +2). Abilities: STR 18/35, INT 8, WIS 9, 
-DEX 14, CON 16, CHA 11. Possessions: scale mail; spear; short 
-sword; light crossbow +2.
+
+Horsa, 5th-level male Thorcin fighter: SZ M; AL NG; AC 6; MV 60’; HD 5; HP 46; #AT 1; Dmg 4-9 (spear, throwing axe). Abilities: STR 18/20, INT 7, WIS 10, DEX 11, CON 15, CHA 12. Possessions: scale mail; spear; 3 throwing axes.
+
+Hengist, 4th-level male Thorcin fighter: SZ M; AL NE; AC 6; MV 60’; HD 4; HP 39; #AT 1; Dmg 4-9 (spear, short sword), 3-6 (light crossbow +2). Abilities: STR 18/35, INT 8, WIS 9, 
+DEX 14, CON 16, CHA 11. Possessions: scale mail; spear; short sword; light crossbow +2.
 
 ### 6-29: Rudishva Iris Door
 
@@ -1437,64 +1225,28 @@ sword; light crossbow +2.
 
 ### 6-30: Security Chamber
 
-This 45’-tall chamber with rounded corners (no 90-degree angles) and yellow-tiled walls serves as a security checkpoint for those seeking access to the weapons module (6-27, but accessed via 6-39G).
+* This 45’-tall chamber has rounded corners and yellow-tiled walls is a security checkpoint for access to the weapons module (6-27, accessed via 6-39G).
+	* In the middle of the chamber are two diamond-shaped pillars, one rising 15’ from the floor and the other 25’.
+		* The pillar tops glow brightly from a layer of iridescent yellow tiles, providing good light for the middle-layers of the room, but not the ceiling or floor.
+	* Elevated, rounded ledges protrude from the south (15'), north (30'), and western (30') walls.
+	* Exit doors are set in the eastern and western walls at ground level.
+	* The floor is littered with skeletons, most ancient.
+		* Scattered: numerous mundane weapons and bits of armor, leather armor +2 (needs 250 gp of repairs); a cloak of displacement, 3 packets of dust of dryness, a wooden puzzle box (35 citrines, 50 gp each), a wondrous flute (new), a rudishva breather (tech), 279 gp and 389 sp.
+* A black-garbed figure stands on the north ledge, visible from the other ledges and the two pillars.
+	* When intruders move to the ledges or the ground floor of the chamber, it shouts in a deep but scratchy voice (first in Rudishva, then Mithric): “Halt! Further motion is prohibited to all lacking proper authorization. Relke commands you depart, lest you taste his wrath.”
+	* After the second warning, and a 6 segment countdown, Relke, a rudishva military-grade security construct, attacks any intruders are still present. 
 
-In the middle of the chamber are two diamond-shaped pillars, one rising 15’ from the floor and the other 25’.
+Relke
+* He pursues his last programmed task: to prevent those failing to prominently display proper authorization (silver or yellow identity plaque) from accessing 6-38 and 6-39. 
+	* Relke opens combat with blasts of fire from his left hand, then creates his holographic doubles, and then jumps into combat, using his incredible dexterity and leaping ability to position himself for savage plasma blasts, fire bombs, and assaults with his monofilament blades.
+	* Relke does not pursue those who flee the chamber, but takes up position for 2 turns (usually clinging to the wall above the ledge to 6-29), waiting to see if intruders are foolish enough to return.
 
-Rounded ledges protrude from the south, north, and western walls, at differing elevations (15’, 30’, and 30’ respectively), and exits are set into the eastern and western walls at ground level. The tops of each of the diamond-shaped pillars glow brightly from a layer of iridescent yellow tiles; the glow provides good light for the middle-layers of the room, but not the ceiling or floor.
-
-A black-garbed figure stands on the north ledge; he is visible 
-from the other ledges and the two pillars. Once any intruders move 
-to the ledges or the ground floor of the chamber, the figure shouts 
-in a deep but scratchy voice, first in Rudishva, then Mithric, the 
-following words: “Halt! Further motion is prohibited to all lacking 
-proper authorization. Relke commands you depart, lest you taste 
-his wrath.” After the second warning, the GM should count down 
-from 6 (representing 6 segments); if any intruders are still present 
-at the end of this period, Relke, a rudishva military-grade security 
-construct, springs into action. 
-
-Relke has continued to pursue his last programming task, 
-namely to prevent those who fail to present proper authorization 
-from seeking access to areas 6-38 and 6-39. Only those who 
-prominently display a silver or a yellow rudishva identity plaque 
-(see new technological items) are spared from Relke’s wrath. 
-Relke opens combat with blasts of fire from his left hand, then 
-creates his holographic doubles, and then jumps into combat, 
-using his incredible dexterity and leaping ability to position 
-himself for savage plasma blasts, fire bombs, and assaults with his 
-monofilament blades.. Although Relke does not pursue those who 
-manage to flee the chamber, he takes up a new tactical position 
-for 2 turns after the flight of any opponents; usually this means 
-clinging to the wall above the ledge leading to 6-29, waiting to see 
-if intruders are foolish enough to return.
-
-The floor is littered with skeletons, most of which are ancient. 
-Some still-usable equipment is also scattered among the remains.
-
-Inhabitants:
-1. Relke, military-grade rudishva security construct (see new 
-monsters): SZ M; AL N; AC 0, MV 120’; HD 10; HP 50; #AT 2; 
-Dmg 2-12/2-12 (monofilament blades) or 3-8/3-8 (fists); MR: 
-50%. Special Attacks: fire gouts; plasma ray. Special defenses: 
-+2 weapons or better to hit; leap unerringly 30’; regenerate 2 
-HP/round; holographic projection; electric torso. Possessions: 3’ 
-long-monofilament blades housed in scabbards built into armor. 
-Relke’s armored torso and blades are only effective so long as 
-they are powered; a full charge will keep them powered for 28 + 
-1-3 hours. Relke recharges at area 6-38. Should he be unable to 
-recharge, he loses his powered functions (monofilament blades, 
-fire, plasma, holographic projection, electric charge), his AC 
-drops to 3, and he must attack by fists for 3-8/3-8 damage. 
-
-Treasure:
-Amid the debris on the chamber floor are: numerous mundane 
-weapons and bits of armor, a suit of leather armor +2 in need of 
-250 gp worth of repairs; a cloak of displacement, three packets 
-of dust of dryness, a wooden puzzle box filled with 35 citrines 
-worth 50 gp each, a wondrous flute (see new magic items), a 
-rudishva breather (see new technological items), and a scattering 
-of 279 gp and 389 sp. 
+Relke, military-grade rudishva security construct (new): SZ M; AL N; AC 0, MV 120’; HD 10; HP 50; #AT 2; Dmg 2-12/2-12 (monofilament blades) or 3-8/3-8 (fists); MR: 50%.
+* Special Attacks: fire gouts; plasma ray.
+* Special defenses: +2 weapons or better to hit; leap unerringly 30’; regenerate 2 HP/round; holographic projection; electric torso.
+* Possessions: 3’ long-monofilament blades housed in scabbards built into armor. 
+	* Relke’s armored torso and blades are only effective so long as they are powered; a full charge will keep them powered for 28 + 1-3 hours. Relke recharges at area 6-38.
+	* If unable to recharge, he loses his powered functions (monofilament blades, fire, plasma, holographic projection, electric charge), his AC drops to 3, and he must attack by fists for 3-8/3-8 damage. 
 
 ## Level 6: 31 - 45
 
@@ -1598,84 +1350,41 @@ Special defenses: immune to poison and mind-affecting spells. Special: infravisi
 
 ### 6-39: Lock Cavern
 
-This vast cavern smells of sulfur, burnt cinnamon, and lavender. A 
-thick, soupy haze emanating from several pools of strange slimes 
-(6-39D) obscures sight. The roof is 45’ above the floor. Looming 
-through the haze are three imposing platforms, built up out of rock 
-to stand 30’ from the floor of the cavern (6-39A, 6-39B, and 6-39C). 
-A crackle of energy suggests a line of force some 3’ wide running 
-between the entrance ledge (from 6-38) and the first platform; this 
-is a force bridge, which is entirely safe to traverse once one gets 
-over the incongruity of a mostly-invisible bridge. Although they 
-will not be immediately evident, three niches have been carved 
-into the north wall: two hold still-functioning rudishva point 
-defense arrays (6-39E), while the third is blocked by a set of stone 
-double-doors (6-39F). A subsidiary entrance/exit leads from the 
-floor of the cavern to the airlock at 6-34.
- The cavern is exceedingly deadly, as it is home to a hostile and 
-insane Sun-Scarred Knight, to a variety of toxic slimes, and to the 
-still-active rudishva point defense arrays.
- The area around the platforms (6-39A, 6-39B, 6-39C) is 
-littered with ancient skeletonized corpses; some bear signs of 
-intense heat and charring. Some useful equipment and treasure 
-may be scavenged from these bodies. If the GM feels the PCs need 
-a bit more of a challenge in this chamber, he/she might decide 
-that some of the corpses have been infected by slimes which has 
-rendered them motile and zombie-like.
-Sun-Scarred Knight: Sir Sixth, one of the Sun-Scarred Knights, 
-has been affected by a major mind-altering heqeti slime (see new 
-monsters), and roams the cavern in an injured state, muttering 
-indecipherable phrases, threats, and imprecations. His two varlets, 
-Jaxen and Georgios, lie dead near the central platform, slain by Sir 
-Sixth in his madness. If confronted, Sir Sixth brays out a mixture 
-of warnings and threats, interspersed with sobs (as he battles for 
-control of his mind). After 1-6 rounds he attacks. During that 
-window of time, the very observant might notice glistening burnt-
-orange patches dotting the knight’s black gothic armor. The orange 
-patches are a clue that Sir Sixth has been affected by a major mind-
-altering slime (see 5-104). Quick thinking via the casting of cure 
-disease or the application of 10 HP worth of fire damage to Sir 
-Sixth will remove the slime, and render the knight sane again. A 
-sane Sir Sixth is grateful to the PCs and offers information and 
-future favors. 
- Sir Sixth is interested in helping to gain access to the weapons 
-module, for such was his mission; however, he will prevent PCs 
-from taking the more potent weapons from that chamber (see 
-6-27).
- A sane Sir Sixth will never allow the body of his varlets to be 
-looted, although he might allow the use of the bottles of Keogh’s 
-restorative ointment. 
+* This vast, 45'-high cavern smells of sulfur, burnt cinnamon, and lavender.
+	* A thick, soupy haze emanates from several pools of strange slimes (6-39D) obscuring sight.
+	* Looming through the haze, three imposing stone platforms rise 30’ from the floor of the cavern (6-39A, 6-39B, and 6-39C).
+		* The area around the platforms is littered with ancient skeletonized corpses; some bear signs of intense heat and charring.
+			* Some of the corpses are infected and rise as slimes-zombies.
+			* Amid the corpses: long bow +2; set of six heavy golden figurines of animals (250 gp, 25 lb each); a gold key to the Obsidian Gates (5-6D); three potions of extra healing; a gold, lapis, and jewel-encrusted death mask of an ancient Set priest (450 gp); various mundane weapons; and two scrolls (transmute rock to mud, wall of iron, and project image; remove curse and wizard eye).
+	* A crackle of energy suggests a line of force 3’ wide running between the entrance ledge (from 6-38) and the first platform.
+		* This is a force bridge, entirely stable, though mostly-invisible.
+	* Not be immediately evident, 3 niches are carved into the north wall.
+		* Two hold still-functioning rudishva point defense arrays (6-39E)
+		* The third is blocked by a set of stone double-doors (6-39F).
+	* A subsidiary exit leads from the floor of the cavern to the airlock at 6-34.
 
-Inhabitants:
-1. Sir Sixth, injured and insane Sun-Scarred Knight (see new 
-monsters), 12th-level male Thorcin fighter: SZ M; AL LN; AC -2; 
-MV 120’; HD 12; HP 53 (max 98); #AT 3/2; Dmg 6-13 (battle 
-axe +2). Abilities: STR 18/53, INT 13, WIS 16, DEX 12, CON 
-16, CHA 12. Possessions: key to SL10A-16, gothic armor and 
-sun lance (see new technological items); solar ring, circlet of 
-command, and backpack of capacity (see new magic items 
-for all three); 8 ancient octagonal platinum coins (see Arden Vul 
-items); battle axe +2. 
+* The cavern is exceedingly deadly, as it is home to a hostile and insane Sun-Scarred Knight, to a variety of toxic slimes, and to the still-active rudishva point defense arrays.
+	* The arrays lie dormant until activated by incorrect manipulation of the lock pillars, at which point, a loud thrumming starts, and the frame of each array glows blue.
+		* Three rounds later, focused laser fire from the silvered disk commences.
 
-2. 3-18 heqeti slime zombies (see new monsters): SZ M; AL N; 
-AC 6; MV 60’; HD 4; HP 30, 29, 28, 28, 27, 27, 26(x3), 25(x3), 
-24(x3), 23; #AT 1; Dmg 2-8. Special attacks: slime infestation. 
-Special defenses: immune to electricity.
+Sir Sixth, Sun-Scarred Knight: Sir Sixth
+* One of the Sun-Scarred Knights, he has been affected by a major mind-altering heqeti slime (new), roaming the cavern in an injured state, muttering indecipherable phrases, threats, and imprecations. 
+	* He slew his two varlets, Jaxen and Georgios, in his madness. 
+* If confronted, Sir Sixth brays out a mixture of warnings and threats, interspersed with sobs (as he battles for control of his mind).  After 1-6 rounds he attacks.
+	* The very observant notice glistening, burnt-orange patches dotting the knight’s black gothic armor, a clue that Sir Sixth to his affliction by a major mind-altering slime (see 5-104).
+		* Cure disease or 10 fire damage to Sir Sixth removes the slime, rendering the knight sane again.
+* A sane Sir Sixth is grateful to the PCs and offers information and future favors. 
+	* Sir Sixth is interested in gaining access to the weapons module (it was his mission), but will prevent PCs from taking the more potent weapons from that chamber (see 6-27).  He also knows RAJ-750 is mentally unstable.
+		* 
+		* Melok-Ri is concerned the kaliyani might seek to access the weapons module (and have the means / knowledge), and is considering accessing it for aid against the rising heqeti.  He sent Sir Sixth to check on its (and RAJ's) status.
+		* 
+	* A sane Sir Sixth will never allow the body of his varlets to be looted, but will allow the use of the bottles of Keogh’s restorative ointment. 
 
-Treasure:
-Sir Sixth’s gear, plus a rudishva breather (see new technological 
-items).
-On the varlets’ bodies, a pouch with 10 yellow topaz gems (500 gp 
-each), chain mail +1, broad sword +1, and two bottles of 
-Keogh’s restorative ointment.
-Amid the corpses: long bow +2; set of six heavy golden figurines 
-of animals, 250 gp each (and 25 lb each); a gold key to the 
-Obsidian Gates (5-6D); three potions of extra healing; 
-a gold, lapis, and jewel-encrusted death mask of an ancient 
-Set priest (450 gp), which is possibly a quest item; various 
-mundane weapons; and two magic user scrolls, one with 
-transmute rock to mud, wall of iron, and project image, 
-and the other with remove curse and wizard eye.
+Sir Sixth, injured and insane Sun-Scarred Knight (see new monsters), 12th-level male Thorcin fighter: SZ M; AL LN; AC -2; MV 120’; HD 12; HP 53 (max 98); #AT 3/2; Dmg 6-13 (battle 
+axe +2). Abilities: STR 18/53, INT 13, WIS 16, DEX 12, CON 16, CHA 12. 
+* Possessions: key to SL10A-16, gothic armor and sun lance (see new technological items); solar ring, circlet of command, and backpack of capacity (see new magic items for all three); 8 ancient octagonal platinum coins (see Arden Vul items); battle axe +2. 
+
+3-18 heqeti slime zombies (see new monsters): SZ M; AL N; AC 6; MV 60’; HD 4; HP 30, 29, 28, 28, 27, 27, 26(x3), 25(x3), 24(x3), 23; #AT 1; Dmg 2-8. Special attacks: slime infestation. Special defenses: immune to electricity.
 
 ##### 6-39a: Central Platform
 
@@ -1684,6 +1393,8 @@ and the other with remove curse and wizard eye.
 		* Set in the pillar is a silver plasteel rectangle pulsing with a faint light.
 			* Laying a silver or yellow identity plaque on the rectangle at the same time as the proper plaques are shown to the other two platforms, unlocks the doors to 6-39f with an audible sound.
 			* Touching the rectangle with flesh or showing the wrong color plaque(s) powers up the point defense arrays (6-39e).  After 3 rounds, they open fire at anything moving on the three platforms.
+	* The bodies of Sir Sixth's two varlets, Jaxen and Georgios, lie atop the platform, slain by Sir Sixth in his madness.
+		* A pouch with 10 yellow topaz gems (500 gp each), chain mail +1, broad sword +1, and two bottles of Keogh’s restorative ointment ,a rudishva breather (tech).
 
 ##### 6-39b: West Platform
 
@@ -1787,33 +1498,17 @@ lasers; slowed by cold.
 
 ##### 6-44a: Chasm with Illusory Cave Worm
 
-This lesser chasm is 75’ tall, with the corridors of Level 6 
-intersecting at about the 50’ mark. It is dark and features the sound 
-of slowly dripping water. At the foot of the chasm are several loot-
-able corpses.
-
-There is a 10% chance that a grey plasteel bridge extends over 
-the chasm, connecting area 6-44 with the chasm wall by the secret 
-door to 6-33. Otherwise, the bridge is retracted into a hidden 
-receptacle on the north wall of the chasm.
-
-Activity on the south side of the chasm (6-44) triggers a 
-powerful permanent, programmed illusion of an enormous, 
-corpse-white cave worm which rises from the chasm to assault any 
-foolish enough to stand their ground. Any who don’t recognize the 
-worm as an illusion must fight the monster. The illusion was placed 
-here by the Priscians to guard one of their access points (6-45 to 
-6-48). The kaliyani (6-32 to 6-33) are aware of the illusion and 
-are content to employ it as a similar deterrent to those snooping 
-around their areas.
-
-On the chasm floor: leather armor +2; light crossbow +1; 10 
-bolts +2; a sack with a disarticulated human skeleton, coated in 
-silver (275 gp); 3 ancient octagonal platinum coins (see Arden Vul 
-items); 457 sp; 238 gp; scroll of protection from demons; scroll 
-of protection from evil.
-
-Secret Door (north): difficult to detect (1 in 8), opened by inserting a curved blade into a thin slot on the chasm wall.
+* This lesser chasm is 75’ tall, with the corridors intersecting at the 50’ mark.
+	* It is dark and slowly dripping water echoes.
+	* A grey plasteel bridge can extend over the chasm, connecting 6-44 with the chasm wall by the secret door to 6-33
+		* (10%) deployed, (90%) retracted into the chasm's north wall.
+		* Secret Door (north): difficult to detect (1 in 8), inserting a curved blade into a thin slot on the chasm wall opens it.
+	* At the foot of the chasm are several corpses.
+		* leather armor +2; light crossbow +1; 10 bolts +2; a sack with a disarticulated human skeleton, coated in silver (275 gp); 3 ancient octagonal platinum coins; 457 sp; 238 gp; scroll (protection from demons); scroll (protection from evil).
+	* Activity on the south side of the chasm (6-44) triggers a programmed illusion.
+		* An enormous, corpse-white cave worm rises from the chasm to assault any foolish enough to stand their ground.
+		* Placed here by the Priscians to guard one of their access points (6-45 to 6-48).
+		* The kaliyani (6-32 to 6-33) know of the illusion and are employ it as a similar deterrent to those snooping around their areas.
 
 1 enormous illusory cave worm: SZ L; AL N; AC 2; MV 90’; HD 8; HP 61; #AT 1; Dmg 3-18. Special attacks: fear aura. Special: illusory.
 
@@ -1847,199 +1542,89 @@ pluses from magic weapons; weapons that strike a column have 25% chance to break
 
 ### 6-48: Teleporting Sortian Faces
 
-On the floor just inside the door from 6-47 is painted a white 
-feather about 1’ long; the feather is a trigger for a version of the 
-spell, Frigg’s flatulence (see new spells), that the Priscians in 
-6-49 have cast here. Any being larger than 4’ in height who comes 
-within 2’ of the feather causes a large raspberry sound to echo 
-through the chamber, alerting the Priscians in 6-49. 
- The chamber is of normal height. A 12’-diameter wide knot 
-inlaid in colored glass occupies the center of the floor. The walls 
-contain seven high-relief carvings of Sortian faces (see new magic 
-items) that are activated by placing Sortian eyes in the empty eye 
-sockets. Like all such faces, the majority of eye combinations are 
-standard and are detailed in the new magic items appendix; only 
-a few product individualized effects. The faces are numbered in a 
-clockwise manner from southwest to southeast. 
- This hall is a destination for the Sortian faces found at 3-188, 
-4-167, 8-6, 9-59, and SL3-17. Those teleported here find themselves 
-standing just inside the doorway, facing the Sortian faces.
- Because the chamber serves as the central destination for 
-Sortian teleportation from elsewhere, it is not impossible (20% 
-chance) that a party of Priscian explorers appears in the chamber 
-while visitors are still investigating the faces.
-Face 1
-Gold-Gold: Teleportation. All within 5’ are teleported to area 8-6
-Gold-Sapphire: A permanent magic mouth speaks in Mithric 
-from the face: Recall the words of Livia, our beloved spokesperson: 
-‘When a Sortian ventures forth, let her do so with a clear mind and 
-an open heart. Anger and conflict are to be avoided. Seek instead to 
-persuade and understand. As you act so shall you be perceived.’
-Face 2
-Gold-Gold: Teleportation. All within 5’ are teleported to area 
-SL6-19 (note that there is no corresponding Sortian face in that 
-destination; travel from 6-48 is one-way).
-Gold-Sapphire: A permanent magic mouth speaks in Mithric 
-from the face: Warning! Proceed at your own risk, as numerous 
-imperial bureaucrats and military officers have been visiting the 
-Canyon for the purpose of selecting tomb sites. Return travel is 
-currently not possible.
-Face 3
-Gold-Gold: Teleportation. All within 5’ are teleported to area 3-188
-Gold-Sapphire: A permanent magic mouth speaks in Mithric 
-from the face: Have your remembered to conceal your knot? Priscus 
-advises you to not to call attention to yourself and, instead, to blend 
-in with the custodians of the mushroom groves.
-Face 4
-Gold-Gold: Teleportation. All within 5’ are teleported to area SL3-17
-Gold-Sapphire: A permanent magic mouth speaks in Mithric 
-from the face: Rage is all that remains. Seek the red mushrooms. 
-They will fuel our revenge for the murder of our comrade, Priscus.
-Face 5
-Gold-Gold: Teleportation. All within 5’ are teleported to area 9-59
-Gold-Sapphire: A permanent magic mouth speaks in Mithric 
-from the face: Please persuade Jace to abandon his post. The fragile 
-truce depends on all submitting to the emperor’s mercy. No more 
-equipment is to be forged, and his notes are to remain by the forge.
-Face 6
-Gold-Gold: Teleportation. All within 5’ are teleported to area 4-167
-Gold-Sapphire: A permanent magic mouth speaks in Mithric 
-from the face: Recall the words of Livia, our beloved spokesperson: 
-‘When a Sortian ventures forth, let her do so with a clear mind and 
-an open heart. Anger and conflict are to be avoided. Seek instead 
-to persuade and understand. As you act so shall you be perceived.’ 
-[Same as First Face]
-Face 7
-Gold-Gold: Teleportation. All within 5’ are teleported to a walled-
-up cellar in a noble clan’s house in Archontos, the imperial city (see 
-World of Archontos appendix). The GM should develop or ignore 
-this destination as desired.
-Gold-Sapphire: A permanent magic mouth speaks in Mithric 
-from the face: Macrinus was right. The peace is phony and the 
-emperor cares nothing for us. It is time to infiltrate the court and 
-bring about real change. Sic semper tyrannis!
-Secret Door (south): The secret door is hard (1 in 8) to locate and is 
-locked; only magical light of any sort (dancing lights, light, etc.) 
-will reveal the keyhole. Once revealed, the lock can be opened with 
-its key (held by Jillia One-Ear in 6-49) or can be picked.
+* On the floor just inside the door from 6-47 is painted a 1'-long white feather (trigger for a Frigg’s flatulence, new, cast by the Priscians in 6-49).
+	* Any being larger than 4’ in height who comes within 2’ of the feather causes a large raspberry sound to echo through the chamber, alerting the Priscians in 6-49. 
+* A 12’-diameter wide knot inlaid in colored glass occupies the center of the floor.
+	* The walls contain seven high-relief carvings of Sortian faces (new), activated by placing Sortian eyes in the empty eye sockets.
+		* Most eye combinations are standard. 
+		* The faces are numbered clockwise from southwest to southeast. 
+* This hall is a destination for the Sortian faces at 3-188, 4-167, 8-6, 9-59, and SL3-17.
+	* Arrivals appear just inside the doorway, facing the Sortian faces.
 
-GM Notes: Priscus Pulcher, Livia, and Macrinus were important 
-leaders of the Sortians: see the World of Archontos appendix. 
-Jace Far-Seer was the enchanter-cum-smith who developed the 
-distinctive Sortian magic items; see 9-60 for details. The ‘knot’ 
-(Face 3) was a Sortian symbol. The ‘red mushrooms’ are the red veil 
-(see new flora), which grow on Sub-Level 3 (e.g., SL3-20). Needless 
-to say, the Sortian who uttered the threat against the emperor (Face 
-7) was unsuccessful.
-Inhabitants:
-A Priscian exploring party (20% chance), consisting of a war mage 
-and 2 conversi (see new monsters):
-1. Justinian, a Priscian war mage (see new monsters) and member 
-of Quintus, as a 6th-level magic user: SZ M; AL LN; AC 3; MV 120’; 
-HD 6; HP 21; #AT 1; Dmg 3-9 (Priscian gladius +2). Abilities: 
-STR 12, INT 17, WIS 13, DEX 16, CON 11, CHA 14. Possessions: 
-Priscian chain mail (see new magic items); a Priscian gladius 
-+2 (see new magic items); 345 sp; a key to 9-58; a stone of alarm; 
-a vial of Keogh’s restorative ointment; a pearl of power 
-(level 3); and his spell book. Spells memorized: charm person, 
-detect magic, magic missile, shield; levitate, pummeling 
-fists of Arak-Zhorr (see new spells); dispel magic, fireball. 
-Spell book: charm person, comprehend languages, detect 
-magic, floating disk, friends, hold portal, identify, magic 
-missile, read magic, shield, spider climb, unseen servant; 
-continual light, detect invisibility, knock, levitate, locate 
-object, pummeling fists of Arak-Zhorr (see new spells), 
-scare, wizard lock; dispel magic, fireball, gust of wind, 
-slow, suggestion, tiny hut, tongues.
-2. 2 Priscian conversi (see new monsters), as 3rd-level fighters: 
-SZ M; AL LN; AC 5; MV 120’; HD 3; HP 27, 25; #AT 1; Dmg 
-2-9 (long sword), or 1-4 (light crossbow). Possessions: Priscian 
-chain mail (see new magic items), long swords, light crossbows. 
-The conversi typically have STR 16.
+Secret Door (south): The secret door is hard (1 in 8) to locate and is locked; only magical light of any sort (dancing lights, light, etc.) will reveal the keyhole. Once revealed, the lock can be opened with its key (held by Jillia One-Ear in 6-49) or can be picked.
+
+* (20%) a Priscian exploring party (a war mage and 2 conversi, new).
+	* As the central destination for Sortian teleportation from elsewhere, a party of Priscian explorers might teleport into the chamber.
+
+GM Notes
+* Priscus Pulcher, Livia, and Macrinus were important leaders of the Sortians.
+* The faces are numbered clockwise from southwest to southeast. 
+
+Face 1
+* Gold-Gold: Teleportation. All within 5’ are teleported to area 8-6
+* Gold-Sapphire: magic mouth (Mithric): Recall the words of Livia, our beloved spokesperson: ‘When a Sortian ventures forth, let her do so with a clear mind and an open heart. Anger and conflict are to be avoided. Seek instead to persuade and understand. As you act so shall you be perceived.’
+
+Face 2
+* Gold-Gold: Teleportation. All within 5’ are teleported to area SL6-19 (note that there is no corresponding Sortian face in that destination; travel from 6-48 is one-way).
+* Gold-Sapphire: magic mouth (Mithric): Warning! Proceed at your own risk, as numerous imperial bureaucrats and military officers have been visiting the Canyon for the purpose of selecting tomb sites. Return travel is currently not possible.
+
+Face 3
+* Gold-Gold: Teleportation. All within 5’ are teleported to area 3-188
+* Gold-Sapphire: magic mouth (Mithric): Have your remembered to conceal your knot? Priscus advises you to not to call attention to yourself and, instead, to blend in with the custodians of the mushroom groves.
+	* The ‘knot’ (Face 3) was a Sortian symbol.
+
+Face 4
+* Gold-Gold: Teleportation. All within 5’ are teleported to area SL3-17
+* Gold-Sapphire: magic mouth (Mithric): Rage is all that remains. Seek the red mushrooms. They will fuel our revenge for the murder of our comrade, Priscus.
+	* The ‘red mushrooms’ are the red veil (see new flora), which grow on Sub-Level 3 (e.g., SL3-20).
+
+Face 5
+* Gold-Gold: Teleportation. All within 5’ are teleported to area 9-59
+* Gold-Sapphire: magic mouth (Mithric): Please persuade Jace to abandon his post. The fragile truce depends on all submitting to the emperor’s mercy. No more equipment is to be forged, and his notes are to remain by the forge.
+	* Jace Far-Seer was the enchanter-cum-smith who developed the distinctive Sortian magic items; see 9-60 for details.
+
+Face 6
+* Gold-Gold: Teleportation. All within 5’ are teleported to area 4-167
+* Gold-Sapphire: magic mouth (Mithric): Recall the words of Livia, our beloved spokesperson: ‘When a Sortian ventures forth, let her do so with a clear mind and an open heart. Anger and conflict are to be avoided. Seek instead to persuade and understand. As you act so shall you be perceived.’ [Same as First Face]
+
+Face 7
+* Gold-Gold: Teleportation. All within 5’ are teleported to a walled-up cellar in a noble clan’s house in Archontos, the imperial city. The GM should develop or ignore this destination as desired.
+* Gold-Sapphire: magic mouth (Mithric): Macrinus was right. The peace is phony and the emperor cares nothing for us. It is time to infiltrate the court and bring about real change. Sic semper tyrannis!
+	* Needless to say, the Sortian who uttered the threat against the emperor (Face 7) was unsuccessful.
+
+Justinian, a Priscian war mage (see new monsters) and member of Quintus, as a 6th-level magic user: SZ M; AL LN; AC 3; MV 120’; HD 6; HP 21; #AT 1; Dmg 3-9 (Priscian gladius +2). Abilities: STR 12, INT 17, WIS 13, DEX 16, CON 11, CHA 14. Possessions: Priscian chain mail (see new magic items); a Priscian gladius +2 (see new magic items); 345 sp; a key to 9-58; a stone of alarm; a vial of Keogh’s restorative ointment; a pearl of power (level 3); and his spell book. Spells memorized: charm person, detect magic, magic missile, shield; levitate, pummeling fists of Arak-Zhorr (see new spells); dispel magic, fireball. 
+
+Spell book: charm person, comprehend languages, detect magic, floating disk, friends, hold portal, identify, magic missile, read magic, shield, spider climb, unseen servant; continual light, detect invisibility, knock, levitate, locate object, pummeling fists of Arak-Zhorr (see new spells), scare, wizard lock; dispel magic, fireball, gust of wind, slow, suggestion, tiny hut, tongues.
+
+2 Priscian conversi (see new monsters), as 3rd-level fighters: SZ M; AL LN; AC 5; MV 120’; HD 3; HP 27, 25; #AT 1; Dmg 2-9 (long sword), or 1-4 (light crossbow). Possessions: Priscian 
+chain mail (see new magic items), long swords, light crossbows. The conversi typically have STR 16.
 
 ### 6-49: Priscian Guardpost 
 
-The room is brightly lit with continual light, and features new, 
-pale blue paint on all the walls. Atop the blue paint are painted 
-various Sortian and Priscian symbols: knots of various sizes, the 
-numeral ‘8’, fairly crude faces meant to imitate the Sortian faces 
-(e.g. in 6-48). 
- Five Priscians sit around a wooden table, playing cards. They 
-are tasked with guarding the route between Level 3 and Level 6. 
-Although bored, they are relatively vigilant. If they hear a raspberry 
-sound from either 6-48 or 6-49A, they instantly take precautions 
-and ready themselves. If possible (especially with intruders in 
-6-48), Jillia One-Ear will cast clairaudience and/or ESP while the 
-conversi ready themselves. If intruders seem formidable, one of the 
-conversi will depart in the opposite direction of the intrusion to try 
-to alert the other Priscians. 
-Secret Door (north): The door is normal to find. It has a keyhole 
-that is only revealed by true seeing or comparable magic (although 
-dispel magic will reveal it for 3 turns). Once revealed, an observer 
-will be able to detect the keyhole thereafter; at that point, the lock is 
-easy to pick (+10% to chances). Jillia One-Ear holds the key.
-Secret Door (west): The door is easy to locate (1 in 4). Its keyhole 
-is revealed by any magical light within 5’ of the door. It can be 
-opened by the key (held by Jillia One-Ear) or by picking.
+* The room is brightly lit with continual light, with new, pale blue paint on all the walls.
+	* Painted atop the blue paint are various Sortian and Priscian symbols: knots, the numeral ‘8’, fairly crude faces meant to imitate the Sortian faces (e.g. in 6-48). 
+	* Secret Door (north): invisible keyhole (dispel magic reveals it for 3 turns; +10% pick). Once known, it is seen through like an illusion.  Jillia One-Ear holds the key.
+	* Secret Door (west): easy to locate (1 in 4). invisble keyhole revealed by magical light within 5’ of the door.  Jillia One-Ear holds the key.
+* Five Priscians sit around a wooden table, playing cards.
+	* They are tasked with guarding the route between Level 3 and Level 6.
+	* Bored, but relatively vigilant.
+	* If they hear a raspberry sound from either 6-48 or 6-49a, they instantly take precautions and ready themselves. 
+		* If possible (especially with intruders in 6-48), Jillia One-Ear will cast clairaudience and/or ESP while the conversi ready themselves.
+		* If intruders seem formidable, one of the conversi will depart in the opposite direction of the intrusion to alert the other Priscians. 
 
-Inhabitants:
-1. Jillia One-Ear, Priscian war mage (see new monsters) and 
-member of Quintus, as an 8th-level female Archontean magic 
-user: SZ M; AL LN; AC 2; MV 120’; HD 8; HP 25; #AT 1; Dmg 
-3-9 (Priscian gladius +2). Abilities: STR 9, INT 17, WIS 14, 
-DEX 16, CON 9, CHA 11. Possessions: a key to 9-58; Priscian 
-chain mail +1 (see new magic items); Priscian gladius +2 
-(see new magic items); Priscian ring (see new magic items), 
-enchanted with detect invisibility and detect magic; 
-wand of fire (28 charges); potions of ESP and polymorph; 
-scroll of sending; keys to the secret doors leading to 6-48 and 
-6-49A; and her spell book. Spells memorized: charm person, 
-detect magic, enlarge, magic missile; continual light, 
-ESP, locate object; clairaudience, dispel magic, hold 
-person; charm monster, polymorph other. Spell book: 
-burning hands, charm person, comprehend languages, 
-detect magic, enlarge, feather fall, hold portal, identify, 
-light, magic missile, push, read magic, shield, sleep; the 
-Bracteros effect (see new spells), continual light, darkness 
-15’ radius, ESP, knock, locate object, mirror image, ray of 
-enfeeblement, stinking cloud, web; blink, clairaudience, 
-dispel magic, fireball, fly, hold person, lightning bolt, 
-protection from evil 10’ radius; charm monster, fear, 
-monster summoning II, polymorph other.
-2. Oskarina, Priscian war mage (see new monsters) and member 
-of Secundus, as a 4th-level female Archontean illusionist: 
-SZ M; AL LN; AC 3; MV 120’; HD 4; HP 13; #AT 1; Dmg 3-9 
-(Priscian gladius +2). Abilities: STR 12, INT 17, WIS 15, DEX 
-16, CON 9, CHA 13. Possessions: Priscian chain mail (see 
-new magic items); Priscian gladius +2 (see new magic items); 
-321 sp; a potion of clairaudience; and her spell book. Spells 
-memorized: darkness, phantasmal force, wall of fog; brain 
-full of small spiders (see new spells), improved phantasmal 
-force. Spell book: color spray, darkness, detect invisibility, 
-gaze reflection, light, phantasmal force, wall of fog; 
-blur, brain full of small spiders (see new spells), fog cloud, 
-hypnotic pattern, improved phantasmal force.
-3. Krator the Wit, Priscian conversus (see new monsters) 
-and bonded defender to Jillia One-Ear, as a 7th-level male 
-Archontean thief: SZ M; AL LE; AC 3; MV 120’; HD 7; HP 37; 
-#AT 1; Dmg 3-8 (short sword +2) or 2-5 (sling). Abilities: STR 
-11, INT 14, WIS 10, DEX 17, CON 15, CHA 17. Thief skills: PP 
-65%, OL 62%, F/RT 50%, MS 60%, HS 48%, HN 25%, CW 94%, 
-RL 35%. Possessions: leather armor +2, short sword +2, sling; 
-a pouch with 39 sp, 59 gp and a very deep blue spinel (500 gp); a 
-potion of invisibility.
-4. Baela Ice-Hand, Priscian conversus (see new monsters), as a 
-6th-level female Archontean fighter: SZ M; AL LN; AC 3; MV 
-120’; HD 6; HP 62; #AT 1; Dmg 3-12 (two-handed sword +1), 
-1-6 (short bow). Abilities: STR 17, INT 9, WIS 15, DEX 9, CON 
-17, CHA 10. Possessions: chain mail +2; two-handed sword 
-+1; short bow; potion of invulnerability; 113 sp and 71 gp.
-5. Tergon the Rutter, Priscian conversus (see new monsters), as 
-a 5th-level male Archontean fighter: SZ M; AL NE; AC 2; MV 
-90’; HD 5; HP 53; #AT 1; Dmg 5-12 (battle axe +1), 1-4 (light 
-crossbow). Abilities: STR 18/63, INT 8, WIS 10, DEX 11, CON 
-16, CHA 9. Possessions: splint mail +1 and shield; battle axe 
-+1; light crossbow; 83 sp and 37 gp.
+Jillia One-Ear, Priscian war mage (see new monsters) and member of Quintus, as an 8th-level female Archontean magic user: SZ M; AL LN; AC 2; MV 120’; HD 8; HP 25; #AT 1; Dmg 
+3-9 (Priscian gladius +2). Abilities: STR 9, INT 17, WIS 14, DEX 16, CON 9, CHA 11. Possessions: a key to 9-58; Priscian chain mail +1 (see new magic items); Priscian gladius +2 
+(see new magic items); Priscian ring (see new magic items), enchanted with detect invisibility and detect magic; wand of fire (28 charges); potions of ESP and polymorph; scroll of sending; keys to the secret doors leading to 6-48 and 6-49A; and her spell book. Spells memorized: charm person, detect magic, enlarge, magic missile; continual light, ESP, locate object; clairaudience, dispel magic, hold person; charm monster, polymorph other. Spell book: burning hands, charm person, comprehend languages, detect magic, enlarge, feather fall, hold portal, identify, light, magic missile, push, read magic, shield, sleep; the Bracteros effect (see new spells), continual light, darkness 15’ radius, ESP, knock, locate object, mirror image, ray of enfeeblement, stinking cloud, web; blink, clairaudience, dispel magic, fireball, fly, hold person, lightning bolt, protection from evil 10’ radius; charm monster, fear, monster summoning II, polymorph other.
+
+Oskarina, Priscian war mage (see new monsters) and member of Secundus, as a 4th-level female Archontean illusionist: SZ M; AL LN; AC 3; MV 120’; HD 4; HP 13; #AT 1; Dmg 3-9 
+(Priscian gladius +2). Abilities: STR 12, INT 17, WIS 15, DEX 16, CON 9, CHA 13. Possessions: Priscian chain mail (see new magic items); Priscian gladius +2 (see new magic items); 321 sp; a potion of clairaudience; and her spell book. Spells memorized: darkness, phantasmal force, wall of fog; brain full of small spiders (see new spells), improved phantasmal force. Spell book: color spray, darkness, detect invisibility, gaze reflection, light, phantasmal force, wall of fog; blur, brain full of small spiders (see new spells), fog cloud, hypnotic pattern, improved phantasmal force.
+
+Krator the Wit, Priscian conversus (see new monsters) and bonded defender to Jillia One-Ear, as a 7th-level male Archontean thief: SZ M; AL LE; AC 3; MV 120’; HD 7; HP 37; #AT 1; Dmg 3-8 (short sword +2) or 2-5 (sling). Abilities: STR 11, INT 14, WIS 10, DEX 17, CON 15, CHA 17. Thief skills: PP 65%, OL 62%, F/RT 50%, MS 60%, HS 48%, HN 25%, CW 94%, RL 35%. Possessions: leather armor +2, short sword +2, sling; a pouch with 39 sp, 59 gp and a very deep blue spinel (500 gp); a potion of invisibility.
+
+Baela Ice-Hand, Priscian conversus (see new monsters), as a 6th-level female Archontean fighter: SZ M; AL LN; AC 3; MV 120’; HD 6; HP 62; #AT 1; Dmg 3-12 (two-handed sword +1), 1-6 (short bow). Abilities: STR 17, INT 9, WIS 15, DEX 9, CON 17, CHA 10. Possessions: chain mail +2; two-handed sword +1; short bow; potion of invulnerability; 113 sp and 71 gp.
+
+Tergon the Rutter, Priscian conversus (see new monsters), as a 5th-level male Archontean fighter: SZ M; AL NE; AC 2; MV 90’; HD 5; HP 53; #AT 1; Dmg 5-12 (battle axe +1), 1-4 (light 
+crossbow). Abilities: STR 18/63, INT 8, WIS 10, DEX 11, CON 16, CHA 9. Possessions: splint mail +1 and shield; battle axe +1; light crossbow; 83 sp and 37 gp.
 
 ### 6-49a: Stairs Up to 3-50b
 
@@ -2124,297 +1709,210 @@ Reith, a lesser varumani (see new monsters): see stats at 6-1.
 
 ## Level 6: 58 - 91 (The Arena)
 
-The Arena is one of the iconic locations of the Halls of Arden Vul, 
-and is well known to the intelligent factions of Levels 2 through 7.
-Outside the Halls its existence is merely rumored, and what 
-is known is wildly exaggerated. The region is an ancient heqeti 
-arena occupied and re-purposed first by the rudishva and later 
-by the Archonteans. The Lord of the Arena (6-85) is, in fact, 
-an ancient rudishva kept alive for millennia by the wonders of 
-ancient technology; he is so old that few – perhaps not even the 
-Lord himself – recalls his name. He is feared for his longevity and 
-apparent power, even by the handful of other rudishva survivors. 
-Still, the absolute neutrality required of all visitors by the Lord 
-also accords him grudging respect, and the factions appreciate the 
-security which the Lord’s domain provides.
-Visiting the Arena: Once one has passed 6-55 or 6-63 one is 
-expected to behave in a non-violent manner. Any physical assaults 
-are treated as serious infractions, and will result in the offender 
-(and friends) being banned, at the least, and hunted down, at the 
-worst. Since the regulars at the Halls are fully familiar with the rules, 
-encounters within the area should not normally involve violence. 
-That said, the regulars enjoy taunting, boasting, and bullying, 
-and will engage in such tactics against newcomers and apparent 
-weaklings in an effort to trick the others to break the rules. 
+* The Arena is one of the iconic locations of the Halls of Arden Vul, well known to the intelligent factions of Levels 2 through 7.
+	* Outside the Halls its existence is merely rumored, and what is known is wildly exaggerated.
+
+* The region is an ancient heqeti arena occupied and re-purposed first by the rudishva and later the Archonteans.
+* The Lord of the Arena (6-85) is an ancient rudishva.
+	* He has been kept alive for millennia by the wonders of ancient technology, so old that few – perhaps not even the Lord himself – recalls his name.
+	* Feared for his longevity and apparent power, even by the handful of other rudishva survivors.
+	* The absolute neutrality he requires of all visitors accords him grudging respect, and the factions appreciate the security his domain provides.
+
+Visiting the Arena
+* Once past6-55 or 6-63, one is expected to behave in a non-violent manner. 
+	* Any physical assaults are treated as serious infractions, resulting in the offender (and friends) being banned, at the least, and hunted down, at the worst.
+	* The regulars know the rules, and encounters in the area are not normally violent.
+		* Some regulars enjoy taunting, boasting, and bullying newcomers and apparent weaklings to trick them into breaking the rules.
+
 What’s Going on at the Arena?
-It is recommended that the GM decide whether a spectacle is 
-imminent before PCs arrive at the Arena, for, as the subsequent 
-entries indicate, that fact determines the activities of many denizens 
-of the area. If the GM doesn’t wish merely to decide by fiat, it is 
-recommended that a spectacle be imminent the first time the 
-Arena is approached, and 50% of the time on subsequent visits.  
- When a spectacle is due, the GM should determine (ahead of 
-time) the following facts:
-1. What type of spectacle is to take place (see below)
-2. What rules will govern the spectacle (see below)
-3. What the environmental conditions will be (see 6-68)
-4. Who or what will participate in the spectacle (see 6-89 and/
-or 6-91 for monsters; see 6-71 for gladiators. For outside 
-groups use one of the samples listed below).
 
-The nature of an imminent spectacle can be determined by rolling 
-on the following table:
-D12 Nature of Spectacle
-1-2 Gladiatorial Bout: 12 house gladiators versus each other
-3 oWizard Duel: outside team of 1-3 wizards versus another 
+* The GM decides whether a spectacle is imminent when PCs arrive at the Arena.
+	* It is recommended that a spectacle be imminent the first time the Arena is approached, and 50% of the time on subsequent visits.
 
-utside team of 1-3 wizards
+When a spectacle is due, the GM should determine (ahead of time) the following facts:
+* What type of spectacle is to take place (see below)
+* What rules will govern the spectacle (see below)
+* What the environmental conditions will be (see 6-68)
+* Who or what will participate in the spectacle
+	* (see 6-89 and/or 6-91 for monsters; see 6-71 for gladiators. For outside groups use one of the samples listed below).
 
-4
+D12 Type of Spectacle
 
-Gladiatorial Bout: 4-6 house gladiators versus an outside 
-team (1: goblins, 2: beastmen, 3: Set Guardsmen, 4: 
-adventurers)
+* 1-2) Gladiatorial Bout: 12 house gladiators versus each other
+* 3) Wizard Duel: outside team of 1-3 wizards versus another outside team of 1-3 wizards
+* 4) Gladiatorial Bout: 4-6 house gladiators versus an outside team (1: goblins, 2: beastmen, 3: Set Guardsmen, 4: adventurers)
+* 5) Gladiatorial Bout: two outside teams versus each other (1: goblins, 2: beastmen, 3: Set guardsmen, 4: varumani, 5: adventurers, 6: intelligent monsters)
+* 6) Punitive Bout: criminals versus suitably overwhelming monsters
+	* for criminals, roll 1d8: 1-2: 1-8 goblins, 3-4: 1-4 lizardmen, 5: 1-6 outsider(s), 6: 1-3 Set guardsmen, 7: 1-2 Arena staff, 8: 1 varumani
+* 7) Monster Bout: 3-4 house gladiators versus 1-6 relatively easy monsters (Levels 2-5)
+* 8) Monster Bout: outside team versus 1-6 medium strength monsters (Levels 3-6)
+* 9) Monster Bout: outside team versus 1-3 tough monsters (Levels 4-7)
+* 10) Grudge Match: a series of single combats between sworn enemies (3-6 bouts)
+* 11) Special! An outside team versus a very tough or unusual monster (Levels 5-8)
+* 12) Grand Melee: 6 medium monsters, 2 tough monsters, 6 house gladiators, 1-3 outside teams
 
-5
+Governing Rules
+* Some bouts are governed by rules, either set randomly by the Lord or determined in advance by the opponents.
+	* In monster bouts, ‘anything goes’ and ‘to the death’ are the usual procedures.
+	* The rules governing regularly scheduled bouts (i.e., those scheduled by the Lord of the Arena) are randomly determined (see below).  A participating adventuring party would need to accept the randomization of rules for a bout.
+		* For house gladiators vs. house gladiators, the rules are almost always ‘to submission’.
+	* On occasion, the Lord allows spectacles to be scheduled at the request of one or both parties.  He does so either:
+		* a) the requesting party pays (500gp / entrant) to fight house gladiators or monsters.
+		* b) two inimical parties petition him to fight each other.  The parties are allowed to agree to their own rules prior to the bout, in the presence of the Lord, who will then faithfully enforce them. 
 
-Gladiatorial Bout: two outside teams versus each other 
-(1: goblins, 2: beastmen, 3: Set guardsmen, 4: varumani, 
-5: adventurers, 6: intelligent monsters)
-
-6
-
-Punitive Bout: criminals versus suitably overwhelming 
-monsters [for criminals, roll 1d8: 1-2: 1-8 goblins, 3-4: 
-1-4 lizardmen, 5: 1-6 outsider(s), 6: 1-3 Set guardsmen, 
-7: 1-2 Arena staff, 8: 1 varumani]
-7 Monster Bout: 3-4 house gladiators versus 1-6 relatively 
-
-easy monsters (Levels 2-5)
-8 Monster Bout: outside team versus 1-6 medium strength 
-
-monsters (Levels 3-6)
-9 Monster Bout: outside team versus 1-3 tough monsters 
-
-(Levels 4-7)
-10 Grudge Match: a series of single combats between sworn 
-
-enemies (3-6 bouts)
-11 Special! An outside team versus a very tough or unusual 
-
-monster (Levels 5-8)
-12 Grand Melee: 6 medium monsters, 2 tough monsters, 6 
-house gladiators, 1-3 outside teams
-Details concerning the house gladiators and possible monster 
-opponents are detailed in the appropriate entries below (e.g., 6-89, 
-6-91, 6-71). ‘Outside teams’ refers to any group that has journeyed 
-to the Arena to fight for glory or money. Some of these groups are 
-quasi-regular, others are one-timers. Samples of several ‘outside 
-teams’ include:
-“Big Trouble”
-Type: 8 goblins from the Goblin Warrens (SL4-40)
-Leader: Big Sammy
-Goals: They have a big war chest, and fight to make money off of 
-bets. Sammy is not averse to throwing non-lethal matches if the 
-money is right.
-Tactics: Swarm one foe first, attempting to net him/her and stake 
-the net to the sand. Rinse and repeat.
-
-Stats: 
-1. 7 goblins: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 7, 6, 6, 5(x3), 
-4; #AT 1; Dmg 1-6. Possessions: spears; nets; and short swords. 
-2. Big Sammy, a goblin sub-chief (as a hobgoblin): SZ M; AL LE; 
-AC 5; MV 60’; HD 1+1; HP 8; #AT 1; Dmg 1-8 (long sword). 
-Possessions: long sword.
-“By the Sign of the Goat”
-Type: 7 beastmen from Goat Company (from 3-142)
-Leader: Sgt. Gren
-Goals: Avoid lethal matches, secure training and glory
-Tactics: Classic Zulu impi (head and horns), attempting to isolate 
-one or two foes before moving to another.
-Stats: These veteran beastmen are +2 to hit in the Arena due to 
-their experience fighting here.
-1. 6 beastman troopers (see new monsters): SZ S; AL LN; AC 6; 
-MV 90’; HD 1+1; HP: 8, 7, 7, 6, 6, 5; #AT 1; Dmg 1-6. Special 
-attacks: tactics. Possessions: ring mail and shield; spears; short 
-swords; short bows. 
-2. Sergeant Gren, beastman sergeant (see new monsters): SZ S; 
-AL LN; AC 4; MV 90’: HD 2+2; HP 15; #AT 1; Dmg 1-6 or 2-5. 
-Special attacks: tactics. Possessions: ring mail and shield; spear; 
-war hammer.
-“Fist of Destiny”
-Type: 5 human Set guardsmen and a Set acolyte (see 4-2 for the 
-center of the Set Cult)
-Leader: Herman the acolyte
-Goals: Humiliation of foes in the name of Lord Set
-Tactics: Herman opens with hold person, while the boys (and 
-girls) wade in and slug it out
-Stats: 
-1. 4 Set guardsmen (see new monsters), as 2nd-level Archontean 
-fighters: SZ M; AL LE; AC 5; MV 60’; HD 2; HP 18, 17, 15, 12; 
-#AT 1, Dmg 2-7 (mace), 1-6 (spear) and 1-4 (light crossbow). 
-Special defense: fanaticism. Possessions: red scale mail and 
-wooden shield; footman’s maces; spears; light crossbows with 20 
-bolts. 
-2. Herman the Set acolyte (see new monsters), as a 3rd-level 
-Archontean cleric of Set: SZ M; AL LE; AC 4; MV 60’; HD 
-3; HP 19; #AT 1; Dmg 2-7 (mace) and 1-4 (light crossbow). 
-Possessions: Set armor (see Arden Vul items); footman’s mace; 
-light crossbow; acolyte’s was stick (see new magic items); and 
-a silver holy symbol of Set (10 gp). Spells prayed for: command, 
-cure light wounds, curse (reverse of bless), protection from 
-good; hold person, silence 15’ radius.
-“Varly and Jiks”
-Type: 2 lesser varumani (see new monsters), up from Level 7 (7-17)
-Leader: None, although Varly is considerably smarter than Jiks
-Goals: Fun! These good old boys love to pummel foes until they die 
-or beg for mercy.
-Tactics: It’s stompin’ time! They’ve never been beaten and are 
-getting a bit cocky.
-Stats: 
-1. Varly, a lesser varumani (see new monsters): SZ L; AL LE; AC 
-3; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 
-(war hammer, 3-18+4). Special defenses: 33% resistant to mind-
-affecting magic; immune to cold and poison; save as 8th-level 
-fighter or 8th-level magic user, whichever is better; regenerate 3 
-HP/rd; infravision. Possessions: large war hammer; shield.
-2. Jiks, a lesser varumani (see new monsters): SZ L; AL LE; AC 
-4; MV 90’; HD 8; HP 58; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 
-7-22 (cleaver, 3-18+4). Special defenses: 33% resistant to mind-
-affecting magic; immune to cold and poison; save as 8th-level 
-fighter or 8th-level magic user, whichever is better; regenerate 3 
-HP/rd; infravision. Possessions: huge meat cleaver.
-“Dalton’s Darlings”
-Type: 6 adventurers 
-Leader: Dalton Erdell
-Stats: See NPC appendix 
-
-Goals: Money and exposure; they are interested in locating the 
-Forge of Zhorak (8-100) in the Nether Reaches and are spending 
-time in the Arena building up their experience and looking for 
-sources of information
-Tactics: Classic adventurers’ tactics: mage to the back, fighters at 
-the front with thief and cleric for support.
-“Night of the Jackals”
-Type: 4 jackalweres, in human form, plus 2 hellhounds
-Leader: Yost
-Goals: Chaos, slaughter, and fresh meat. They will fight to the death 
-only
-Tactics: Swarming. 33% chance that blood frenzy causes the pack 
-to revert to jackal form.
-Stats: 
-1. Yost and 3 other jackalweres: SZ S (M); AL CE; AC 4; MV 120’; 
-HD 4; HP 28, 27, 26, 24; #AT 1; Dmg 2-8 or by weapon. Special 
-attacks: gaze causes sleep. Special defenses: iron, or +1 or better 
-weapons to hit. Possessions (in human form): long sword (x1); 
-spear (x1); battle axe (x1); halberd (x1).
-2. 2 hell hounds: SZ M; AL LE; AC 4; MV 120’; HD 5; HP 35, 31; 
-#AT 1; Dmg 1-10. Special attacks: breathe fire; surprise on 1-4 in 
-6. Special defenses: surprised only on 1 in 6. Special: 50% to spot 
-hidden or invisible.
-“Arcane Assault”
-Type: 2 magic users, Yerevan of the Yurt and Mittoril the Ugly
-Leader: Yerevan
-Goals: Magical bouts to submission, mostly so they can pick over 
-the magic items of the defeated
-Tactics: Open with wands/staves, finish with spells.
-Stats:
-1. Yerevan of the Yurt, 7th-level male Khumus magic user: SZ M; 
-AL NE; AC 3; MV 120’; HD 7; HP 21; #AT 1; Dmg 3-8 (staff 
-of power). Abilities: STR 10, INT 17, WIS 14, DEX 16, CON 
-9, CHA 14. Possessions: bracers of defense (AC 7); staff of 
-power (13 charges); robe of eyes; potion of extra healing; 
-dagger. Spells memorized: enlarge, jump, magic missile 
-(x2); continual light, mirror image, stinking cloud; dispel 
-magic, fireball; confusion. Spell book: burning hands, 
-charm person, enlarge, floating disk, identify, jump, 
-magic missile, read magic, shield, sleep; continual light, 
-detect evil, ESP, invisibility, mirror image, stinking cloud, 
-strength; blink, dispel magic, fireball, fly, hold person, 
-monster summoning I, tongues; confusion, minor globe of 
-invulnerability, polymorph other.
-2. Mittoril the Ugly, 7th-level male Archontean magic user: SZ M; 
-AL NE; AC 5; MV 120’; HD 7; HP 22; #AT 1; Dmg 1-4 (dagger). 
-STR 15; INT 16; WIS 11; DEX 17; CON 11; CHA 7. Possessions: 
-rod of absorption (30 spell levels); wand of frost (25 charges); 
-ring of protection +2; potion of invisibility; dagger. Spells 
-memorized: charm person, light, magic missile, shield; 
-darkness 15’ radius, levitate, ray of enfeeblement; gust of 
-wind, lightning bolt; ice storm. Spell book: charm person, 
-comprehend languages, detect magic, feather fall, hold 
-portal, light, magic missile, push, read magic, shield, 
-shocking grasp; darkness 15’ radius, detect invisibility, 
-knock, levitate, ray of enfeeblement, stinking cloud, web; 
-dispel magic, fireball, gust of wind, haste, lightning bolt, 
-protection from normal missiles, slow; dimension door, 
-fear, ice storm, polymorph self.
-
-Rules Governing Spectacles
-Some bouts are governed by rules, either set randomly by the 
-Lord or determined in advance by the opponents. In the case of 
-monster bouts, ‘anything goes’ and ‘to the death’ are the usual 
-procedures. Things are more complex when it comes to intelligent 
-opponents. The rules governing regularly scheduled bouts (i.e., 
-those scheduled by the Lord of the Arena – 6-85) are randomly 
-determined using the following table; should an adventuring group 
-wish to participate in one of these regular bouts, they would need 
-to accept the randomization of rules for a bout and obey them 
-faithfully. On occasion, however, the Lord will allow additional 
-spectacles to be scheduled at the request of one or both parties; he 
-does so either a) if the requesting party pays well (500gp/entrant) 
-to fight house gladiators or monsters, or b) if two inimical parties 
-petition him to fight each other. In such cases, the parties are 
-allowed to agree to their own rules prior to the bout, but only in 
-the presence of the Lord, who will then faithfully enforce them. 
-In the case of house gladiators vs. house gladiators, the rules are 
-almost always ‘to submission’.
 D12 Rules Governing Bout
-1-3
 
-Anything goes, to the death! (allows any combination
-of weapons,  spells, poisons, dirty-tricks, etc., and 
-requires the utter elimination of one side)
-
-4-6
-
-Anything goes, to submission (means until one
-side submits, that is, when all surviving members
-lie prone on the sand: fatalities may have been
-incurred prior to this, of course)
-7-8 No spell-use, to the death
-9-10 No spell-use, to submission
-11 Magic only (spells, spell-like effects only: no melee
-or missle attacks), to the death
-12 Magic only, to submission
+* 1-3) Anything goes, to the death! (allows any combination of weapons,  spells, poisons, dirty-tricks, etc., and requires the utter elimination of one side)
+* 4-6) Anything goes, to submission (means until one side submits, that is, when all surviving members lie prone on the sand: fatalities may have been incurred prior to this, of course)
+* 7-8) No spell-use, to the death
+* 9-10) No spell-use, to submission
+* 11) Magic only (spells, spell-like effects only: no melee or missle attacks), to the death
+* 12) Magic only, to submission
 
 Ending a Spectacle
-How a spectacle ends depends on several factors: 1) the rules which 
-govern it; 2) the whim of the Arena Lord; and 3) the response of 
-the crowd. For bouts to the death, the end is obvious: one side is 
-utterly eliminated. For bouts to submission, however, things are 
-more complex. The survivors of a defeated group must lie prostrate 
-on the sand to signify their submission. At that point their fate 
-lies with the Lord and the crowd. The GM rolls a d20, and if the 
-modified result is greater than 12, the Arena Lord grants mercy. If 
-the modified result is less than 12, though, the Arena Lord turns 
-his thumbs down, and the victors are expected to slaughter their 
-now-defenseless opponents.
-Modifer Situation
-+3 Positive relations with the Lord
--1 Unknown to the Lord
--5 Has previously angered the Lord
-+5 Bout lasted more than 10 rounds
-+2 Bout lasted 7-9 rounds
-+1 Bout lasted 5-6 rounds
--1 Bout lasted 3-4 rounds
--2 Bout lasted 1-2 rounds
--3 Defeated seem cowardly
-+2 Defeated acquitted selves well
-+1 Per slain member of defeated team
--1 Per slain member of victorious team
--2 to +2 Oral plea by member of victorious team
--7 Defeated broke rules of bout
-+10 Victorious broke rules of bout
+* How a spectacle ends depends on: 1) the governing rules; 2) the whim of the Arena Lord; and 3) the response of the crowd.
+	* For bouts to the death, the end is obvious: one side is utterly eliminated.
+	* For bouts to submission, the survivors of a defeated group must lie prostrate on the sand to signify their submission, and their fate lies with the Lord and the crowd.
+		* Roll d20 + modifiers.  If 12+, the Arena Lord grants mercy, if less, the Arena Lord turns his thumbs down, and the victors are expected to slaughter their now-defenseless opponents.
+
+Modifier Situation
+* +3 Positive relations with the Lord
+* -1 Unknown to the Lord
+* -5 Has previously angered the Lord
+* +5 Bout lasted more than 10 rounds
+* +2 Bout lasted 7-9 rounds
+* +1 Bout lasted 5-6 rounds
+* -1 Bout lasted 3-4 rounds
+* -2 Bout lasted 1-2 rounds
+* -3 Defeated seem cowardly
+* +2 Defeated acquitted selves well
+* +1 Per slain member of defeated team
+* -1 Per slain member of victorious team
+* -2 to +2 Oral plea by member of victorious team
+* -7 Defeated broke rules of bout
+* +10 Victorious broke rules of bout
+
+Environmental Conditions
+
+D10 Light (Yellow Globe)
+* 1) Super bright, -1 hit
+* 2-3) Bright, full light
+* 4-5) Half-light (+10% stealth)
+* 6-8) No light
+* 9) Strobe light every round (save vs spells or blinded)
+* 10) Restorative light: cures 1 hp/rd
+
+D10 Precipitation (Red Globe)
+* 1) None (dry)
+* 2-3) None
+* 4-5) Soft rain (or snow)
+* 6-7) Pounding rain (or heavy snow) (-1 to hit)
+* 8) Hail (1 hp/rd damage)
+* 9) Acid Rain (2 hp/rd damage)
+* 10) Sandstorm (1 hp/rd damage, -2 to hit, low visibility)
+
+D6 Temperature (Blue Globe)
+* 1) Blistering hot (2 hp/rd damage, metal untouchable after 2 rds)
+* 2-3) Sweltering (-1 to all rolls after 3 rds)
+* 4) Warm, no effect
+* 5) Moderate, no effect
+* 6) Cool, no effect
+* 7-8) Icy cold (-1 to hit using weapons)
+* 9) Bone-chilling cold (2 hp/rd damage, 15% to drop weapons)
+* 10) Alternating – roll a new temperature every 2 rounds
+
+
+Contestants
+
+* House gladiators and monster opponents are detailed in appropriate room entries (e.g., 6-71, 6-89, 6-91).
+	* (6-71) Gladiators living at the Arena, ranked according to their status from 1st to 15th, follows.
+	* Gladiators typically fight bouts of either: 1) 12 gladiators against each other; 2) 4-6 gladiators versus an outside team; 3) 3-4 gladiators versus some easy monsters.
+	* (6-89) Small monsters
+	* (6-91) Large monsters
+* ‘Outside teams’ are any group that has journeyed to the Arena to fight for glory or money (some are quasi-regular, others one-timers).
+	* "Big Trouble" (local goblins)
+	* “By the Sign of the Goat” (beastmen from Goat Conturb)
+	* “Fist of Destiny” (set guardsmen and acolyte)
+	* “Varly and Jiks” (two lesser varumani)
+	* Jellik's Jarls (replacing Dalton's Darlings)
+	* “Night of the Jackals” (4 jackleweres)
+	* “Arcane Assault” (2 mages)
+	* "Sodality of the Fist" (Durdeon Vislok and 6 fellow archontean bravos)
+
+Outside Teams
+
+“Big Trouble”
+* 8 goblins from the Goblin Warrens (SL4-40)
+* Leader: Big Sammy
+* Goals: They have a big war chest, and fight to make money off of bets. Sammy is not averse to throwing non-lethal matches if the money is right.
+* Tactics: Swarm one foe first, attempting to net him/her and stake the net to the sand. Rinse and repeat.
+
+7 goblins: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 7, 6, 6, 5(x3), 4; #AT 1; Dmg 1-6. Possessions: spears; nets; and short swords. 
+
+Big Sammy, a goblin sub-chief (as a hobgoblin): SZ M; AL LE; AC 5; MV 60’; HD 1+1; HP 8; #AT 1; Dmg 1-8 (long sword). Possessions: long sword.
+
+“By the Sign of the Goat”
+* 7 beastmen from Goat Company (from 3-142)
+* Leader: Sgt. Gren
+* Goals: Avoid lethal matches, secure training and glory
+* Tactics: Classic Zulu impi (head and horns), attempting to isolate one or two foes before moving to another.
+* Stats: These veteran beastmen are +2 to hit in the Arena due to experience fighting here.
+
+6 beastman troopers (see new monsters): SZ S; AL LN; AC 6; MV 90’; HD 1+1; HP: 8, 7, 7, 6, 6, 5; #AT 1; Dmg 1-6. Special attacks: tactics. Possessions: ring mail and shield; spears; short 
+swords; short bows. 
+
+Sergeant Gren, beastman sergeant (see new monsters): SZ S; AL LN; AC 4; MV 90’: HD 2+2; HP 15; #AT 1; Dmg 1-6 or 2-5. Special attacks: tactics. Possessions: ring mail and shield; spear; war hammer.
+
+“Fist of Destiny”
+* 5 human Set guardsmen and a Set acolyte (see 4-2 for the center of the Set Cult)
+* Leader: Herman the acolyte
+* Goals: Humiliation of foes in the name of Lord Set
+* Tactics: Herman opens with hold person, while the boys (and girls) wade in and slug it out
+
+4 Set guardsmen (see new monsters), as 2nd-level Archontean fighters: SZ M; AL LE; AC 5; MV 60’; HD 2; HP 18, 17, 15, 12; #AT 1, Dmg 2-7 (mace), 1-6 (spear) and 1-4 (light crossbow). Special defense: fanaticism. Possessions: red scale mail and wooden shield; footman’s maces; spears; light crossbows with 20 bolts. 
+
+Herman the Set acolyte (see new monsters), as a 3rd-level Archontean cleric of Set: SZ M; AL LE; AC 4; MV 60’; HD 3; HP 19; #AT 1; Dmg 2-7 (mace) and 1-4 (light crossbow). Possessions: Set armor (see Arden Vul items); footman’s mace; light crossbow; acolyte’s was stick (see new magic items); and a silver holy symbol of Set (10 gp). Spells prayed for: command, cure light wounds, curse (reverse of bless), protection from good; hold person, silence 15’ radius.
+
+“Varly and Jiks”
+* 2 lesser varumani (see new monsters), up from Level 7 (7-17)
+* Leader: None, although Varly is considerably smarter than Jiks
+* Goals: Fun! These good old boys love to pummel foes until they die or beg for mercy.
+* Tactics: It’s stompin’ time! They’ve never been beaten and are getting a bit cocky.
+
+Varly, a lesser varumani (see new monsters): SZ L; AL LE; AC 3; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (war hammer, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: large war hammer; shield.
+
+Jiks, a lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 58; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (cleaver, 3-18+4). Special defenses: 33% resistant to mind-
+affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: huge meat cleaver.
+
+“Dalton’s Darlings” (replace with Jellik's Jarls)
+* 6 adventurers 
+* Leader: Dalton Erdell
+* Stats: See NPC appendix 
+* Goals: Money and exposure; they are interested in locating the Forge of Zhorak (8-100) in the Nether Reaches and are spending time in the Arena building up their experience and looking for sources of information
+* Tactics: Classic adventurers’ tactics: mage to the back, fighters at the front with thief and cleric for support.
+
+“Night of the Jackals”
+* 4 jackalweres, in human form, plus 2 hellhounds
+* Leader: Yost
+* Goals: Chaos, slaughter, and fresh meat. They will fight to the death only
+* Tactics: Swarming. 33% chance that blood frenzy causes the pack to revert to jackal form.
+
+Yost and 3 other jackalweres: SZ S (M); AL CE; AC 4; MV 120’; HD 4; HP 28, 27, 26, 24; #AT 1; Dmg 2-8 or by weapon. Special attacks: gaze causes sleep. Special defenses: iron, or +1 or better weapons to hit. Possessions (in human form): long sword (x1); spear (x1); battle axe (x1); halberd (x1).
+
+2 hell hounds: SZ M; AL LE; AC 4; MV 120’; HD 5; HP 35, 31; #AT 1; Dmg 1-10. Special attacks: breathe fire; surprise on 1-4 in 3. Special defenses: surprised only on 1 in 6. Special: 50% to spot hidden or invisible.
+
+“Arcane Assault”
+* 2 magic users, Yerevan of the Yurt and Mittoril the Ugly
+* Leader: Yerevan
+* Goals: Magical bouts to submission, mostly so they can pick over the magic items of the defeated
+* Tactics: Open with wands/staves, finish with spells.
+
+Yerevan of the Yurt, 7th-level male Khumus magic user: SZ M; AL NE; AC 3; MV 120’; HD 7; HP 21; #AT 1; Dmg 3-8 (staff of power). Abilities: STR 10, INT 17, WIS 14, DEX 16, CON 
+9, CHA 14. Possessions: bracers of defense (AC 7); staff of power (13 charges); robe of eyes; potion of extra healing; dagger. Spells memorized: enlarge, jump, magic missile (x2); continual light, mirror image, stinking cloud; dispel magic, fireball; confusion. Spell book: burning hands, charm person, enlarge, floating disk, identify, jump, magic missile, read magic, shield, sleep; continual light, detect evil, ESP, invisibility, mirror image, stinking cloud, 
+strength; blink, dispel magic, fireball, fly, hold person, monster summoning I, tongues; confusion, minor globe of invulnerability, polymorph other.
+
+Mittoril the Ugly, 7th-level male Archontean magic user: SZ M; AL NE; AC 5; MV 120’; HD 7; HP 22; #AT 1; Dmg 1-4 (dagger). STR 15; INT 16; WIS 11; DEX 17; CON 11; CHA 7. Possessions: rod of absorption (30 spell levels); wand of frost (25 charges); ring of protection +2; potion of invisibility; dagger. Spells memorized: charm person, light, magic missile, shield; darkness 15’ radius, levitate, ray of enfeeblement; gust of wind, lightning bolt; ice storm. Spell book: charm person, comprehend languages, detect magic, feather fall, hold 
+portal, light, magic missile, push, read magic, shield, shocking grasp; darkness 15’ radius, detect invisibility, knock, levitate, ray of enfeeblement, stinking cloud, web; dispel magic, fireball, gust of wind, haste, lightning bolt, protection from normal missiles, slow; dimension door, fear, ice storm, polymorph self.
 
 ### 6-58: Hallway to the Arena
 
@@ -2425,30 +1923,24 @@ Modifer Situation
 D12 Encounter if Spectacle is Imminent
 
 1
-
 11-20 goblins: SZ S; AL LE; AC 6; MV 60'; HD 1-1; HP 7(x4), 6, 6, 5(x6), 4(x4), 3 (x4); #AT 1; Dmg 1-6.
 
 2-3
-
 4-8 lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 61, 59, 58, 57, 55, 53, 50, 47; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 
 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
 
 4
-
 Group of mixed gamblers, ducking out of Gamblers’ Corner for extra action: select 2-4 groups from 6-61. 
 
 5
-
 A beastman patrol:
 * 6 beastman troopers (see new monsters): SZ S; AL LN; AC 6; MV 90’; HD 1+1; HP: 8, 7, 7, 6, 6, 5; #AT 1; Dmg 1-6. Special attacks: tactics. Possessions: ring mail and shield; spears; short swords; short bows.
 * 1 beastman sergeant (see new monsters): SZ S; AL LN; AC 4; MV 90’: HD 2+2; HP 15; #AT 1; Dmg 1-6 or 2-5. Special attacks: tactics. Possessions: ring mail and shield; spear; war hammer.
 
 6
-
 Durdeon Vislok and six members of the Sodality of the Fist: for stats, see AV-12.
 
 7
-
 An important person from the following list:
 1. King Weskenim (SL4-22) with 10-20 goblin courtiers and 1 eunuch ogre guard
 2. Set High Priestess Stephania (4-51) with 6 elite Set guardsmen (see new monsters)
@@ -2460,25 +1952,20 @@ An important person from the following list:
 8. GM’s Choice
 
 8
-
 Roll Twice
 
 9
-
 6-10 lizardmen: SZ M; AL N; AC 4; MV 60’, 120’ swim-ming; HD 2+1; HP 16, 15, 14, 13, 13, 12, 12, 11, 11, 10; #AT 1 or 3; Dmg 1-6 (club) and 1-6 (javelin), or 1-2/1-2/1-8. Possessions: clubs; javelins; shields.
 
 10
-
 Set patrol:
 * 4 Set guardsmen (see new monsters), as 2nd-level Archontean fighters: SZ M; AL LE; AC 5; MV 60’; HD 2; HP 18, 17, 15, 12; #AT 1, Dmg 2-7 (mace), 1-6 (spear) and 1-4 (light crossbow). Special defense: fanaticism. Possessions: red scale mail and wooden shield; footman’s maces; spears; light crossbows with 20 bolts.
 * 1 Set acolyte (see new monsters), as a 3rd-level Archontean cleric of Set: SZ M; AL LE; AC 4; MV 60’; HD 3; HP 19; #AT 1; Dmg 2-7 (mace) and 1-4 (light crossbow). Possessions: Set armor (see Arden Vul items); footman’s mace; light crossbow; acolyte’s was stick (see new magic items); and a silver holy symbol of Set. Spells prayed for: command, cure light wounds, curse (reverse of bless), protection from good; hold person, silence 15’ radius
 
 11
-
 Party of NPC adventurers (select from NPC appendix)
 
 12
-
 3-12 arena wranglers with a new creature:
 * 3-12 arena wranglers: SZ M; AL N; AC 8; MV 120’; HD 1-1; HP 7, 7, 6, 6, 5(x4), 4(x4); #AT 1; Dmg 1-6 (spear). Possessions: leather armor; spear.
 * Monster: select type from 6-91.
@@ -2487,49 +1974,39 @@ Party of NPC adventurers (select from NPC appendix)
 D12 Encounter if Spectacle is not Imminent
 
 1
-
 3 goblins, sweeping up: SZ S; AL LE; AC 6; MV 60'; HD 1-1; HP 4, 3, 3; #AT 1; Dmg 1-6.
 
 2
-
 2 lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 50, 47; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
 
 3
-
 2 beastman deserters (see new monsters): SZ S; AL LN; AC 6; MV 90’; HD 1+1; HP: 7, 5; #AT 1; Dmg 1-6. Special attacks: tactics. Possessions: ring mail and shield; spears; short swords; short bows.
 
 4-5
-
 3-12 arena wranglers with a new creature:
 * 3-12 arena wranglers: SZ M; AL N; AC 8; MV 120’; HD 1-1; HP 7, 7, 6, 6, 5(x4), 4(x4); #AT 1; Dmg 1-6 (spear). Possessions: leather armor; spear.
 * Monster: select type from 6-91.
 
 6
-
 8 arena wranglers chasing an escaped monster:
 * 8 arena wranglers: SZ M; AL N; AC 8; MV 120’; HD 1-1; HP 7, 7, 6, 6, 5, 5, 4, 4; #AT 1; Dmg 1-6 (spear). Possessions: leather armor; spear.
 * Monster: select type from 6-91
 
 7
-
 * Dworm, the faithful bodyguard of Galadnor Half-Elven (4-2, 4-31), quietly seeking a buyer for the incriminating information about Marius Junienos that Galadnor possesses (see 4-31)
 * Dworm, 3rd-level male Wiskin fighter: SZ M; AL LN; MV 90'; AC 5; HD 3; HP 26; #AT 2-9 (long sword +1). Abilities: STR 15, INT 8, WIS 10, DEX 10, CON 15, CHA 10. Possessions: chain mail; long sword +1; purse with 71 sp, 19 gp.
 	* Dworm can only be encountered once. If the same result is rolled on another occasion, it will be another person seeking to sell information (at the GM's choice). 
 
 8
-
 3 gladiators out for a stroll. Choose from the list at 6-71. The gladiators have some hot tip about the next spectacle to impart .. for the right price.
 
 9
-
 6 drunk gladiators looking to either goad visitors into an assault, or persuade them to visit area 7-42 for a no-weapons brawl. One of the six will be one of the elite gladiators (select from either 6-76, 6-77 or 6-78), while the other five will come from the list at 6-71.
 
 10-11
-
 A group of Arena spectators who got the schedule wrong; they are mistakenly expecting a spectacle. Roll d10 on the previous table to determine the group. The group is bored and looking for trouble.
 
 12
-
 The Lord of the Arena (6-85) with 4 guards:
 * Lord of the Arena: for stats, see 6-85
 * 4 arena guards, as 2nd-level male Thorcin fighters: SZ M; AL NE; AC 6; MV 60’; HD 2; HP 18, 17, 15, 15; #AT 1; Dmg 1-8 (long sword) or 1-6 (spear). Possessions: scale mail; long swords; spears; purse with 33 sp and 9 gp each.
@@ -2553,43 +2030,33 @@ Judgment Ceremony
 D10 Miscreant
 
 1
-
 1-2 human arena wranglers (6-86): SZ M; AL N; AC 8; MV 120'; HD 1-1; HP 5, 4; #AT 1; Dmg by weapon.
 
 2
-
 Idris the gladiator (6-71), 2nd-level male Thorcin fighter: SZ M; AL CE; AC 2; MV 90’; HD 2; HP 21; #AT 1; Dmg by weapon. Abilities: STR 18/90, INT 7, WIS 9, DEX 17, CON 18, CHA 7.
 
 3
-
 1 guardsman (6-79), as 2nd-level male Thorcin fighter: SZ M; AL NE; AC 6; MV 60’; HD 2; HP 18, 17, 15, 15; #AT 1; Dmg by weapon.
 
 4
-
 Yerk the deuteros: for stats see 6-77.
 
 5
-
 An entire outside team: choose from list provided above in regional introduction 
 
 6
-
 A bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90'; HD 8; HP 49; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
 
 7
-
 Runaway beastman trooper (see new monsters): SZ S; AL LN; AC 6; MV 90’; HD 1+1; HP: 6; #AT 1; Dmg by weapon. Special attacks: tactics.
 
 8
-
 1-3 adventurers, imprisoned for drawing blood against the edicts: select from NPC appendix.
 
 9
-
 A heqeti hopper captured in the Nether Reaches and on display (see new monsters), as a 4th-level fighter: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 22; #AT 2; Dmg 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
 10
-
 2 lizardmen: SZ M; AL N; AC 5; MV 60’, 120’ swimming; HD 2+1; HP 11, 11, 10; #AT 1 or 3; Dmg 1-2/1-2/1-8.
 
 D10 Outlook
@@ -2622,192 +2089,111 @@ D6 State
 
 ### 6-61: Gamblers’ Corner
 
-Directly across from the entrance to the Arena proper stands this 
-20’-tall chamber, supported by beautiful red porphyry columns. 
-Torches provide guttering light. All gambling connected to the 
-Arena bouts, as well as any number of private deals both licit and 
-not, takes place here.
+* Directly across from the entrance to the Arena proper stands this 20’-tall chamber, supported by beautiful red porphyry columns. 
+	* Torches provide guttering light.
+	* All gambling connected to the Arena bouts, as well as any number of private deals both licit and not, takes place here.
+		* When a spectacle is imminent (or taking place), the area is crowded with those seeking to place or take wagers.
+		* Some are regulars, but a great many are occasional visitors hoping for some excitement and profit.
 
-Whenever a spectacle is imminent (or taking place), the area 
-is crowded with those seeking to place or take wagers. Some such 
-folk are regulars, but a great many more are occasional visitors 
-hoping for some excitement and profit. Some examples of this 
-crowd are listed below:
+Before and during a spectacle:
+* The 7 gamblers listed below.
+* 3-6 goblin gamblers
+	* They are mostly begging for small loans.
+* 2-4 lesser varumani (see new monsters) gamblers
+	* They are either placing bets with one of the big players or begging for small loans.
+* 3-6 unclassed human gamblers
+	* They are mostly placing bets with one of the big players or begging for small loans.
+* 2-4 classed NPC gamblers
+	* Select from the NPC appendix. They are placing bets with one of the big players.
+* 4 male Thorcin arena guards, as 2nd-level fighters
+	* In addition to their mail byrnies, and simple helmets, they wear a light green surcoat emblazoned with a black image of a six-sided die (the insignia of the arena guards).
 
 Leddy the Worm
-Overview: Goblin, LN. Dressed in dirty red silken pantaloons, 
-with a jaunty yellow tam ‘o shanter. Has bad teeth.
-Personality: Oily and unctuous, constantly bowing and scraping
-Reputation: Honest, feared. Although Leddy never leaves the 
-Arena, it is known that those who cheat him end up dead, 
-regardless of where they may run
-Role: Professional gambler; prefers to take bets from visitors, 
-particularly when the bets involve the gladiators and well-known 
-outside teams. Unlikely to take bets for newcomers.
-Total Available Wealth: 1,660 gp in assorted coins
-Maximum GP per Bet: 350 gp
-Secrets? He is fronted by King Weskenim (SL4-22), who also pays 
-for the assassins that track down defaulters
-Special Items: A tattered scroll with a list of debtors and their 
-preferred haunts; poisoned dagger
-Leddy the worm, goblin, SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 
-5; #AT 1; Dmg 1-4 (poisoned dagger).
+* Overview: Goblin, LN. Dressed in dirty red silken pantaloons, with a jaunty yellow tam ‘o shanter. Has bad teeth.
+* Personality: Oily and unctuous, constantly bowing and scraping
+* Reputation: Honest, feared. Although Leddy never leaves the Arena, it is known that those who cheat him end up dead, regardless of where they may run
+* Role: Professional gambler; prefers to take bets from visitors, particularly when the bets involve the gladiators and well-known outside teams. Unlikely to take bets for newcomers.
+* Total Available Wealth: 1,660 gp in assorted coins
+* Maximum GP per Bet: 350 gp
+* Secrets? He is fronted by King Weskenim (SL4-22), who also pays for the assassins that track down defaulters
+* Special Items: A tattered scroll with a list of debtors and their preferred haunts; poisoned dagger
+
+Leddy the worm, goblin, SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 5; #AT 1; Dmg 1-4 (poisoned dagger).
+
 Bruno Bent-Nose
-Overview: Human male, LN. Bruno has sandy hair and a gro-
-tesquely bent and broken nose. He also has a wooden prosthetic 
-left foot, and uses a cane to hobble about.
-Personality: Suspicious of all; bitter about his injuries
-Reputation: Unpleasant but fair
-Role: Professional gambler (and former gladiator). Bruno doesn’t 
-like to bet against the gladiators, except in the case of Basil (6-
-71), whom he loathes.
-Total Available Wealth: 499 sp; 611 gp
-Maximum GP per Bet: 75 gp
-Secrets? None
+* Overview: Human male, LN. Bruno has sandy hair and a gro-tesquely bent and broken nose. He also has a wooden prosthetic left foot, and uses a cane to hobble about.
+* Personality: Suspicious of all; bitter about his injuries
+* Reputation: Unpleasant but fair
+* Role: Professional gambler (and former gladiator). Bruno doesn’t like to bet against the gladiators, except in the case of Basil (6-71), whom he loathes.
+* Total Available Wealth: 499 sp; 611 gp
+* Maximum GP per Bet: 75 gp
+* Secrets? None
+* Special Items: Leather armor; darts of sleeping x4 (see new magic items)
 
-Special Items: Leather armor; darts of sleeping x4 (see new 
-magic items)
-Bruno Bent-Nose, 2nd-level male Archontean fighter, AL LN; SZ 
-M; AC 8; MV 60’ (due to foot); HD 2; HP 17; #AT 1; Dmg 1-6 
-(cane) or 1-3 (darts of sleeping). Abilities: STR 17, INT 9, WIS 
-9, DEX 4, CON 17, CHA 8. Possessions: leather armor; darts of 
-sleeping (x4) (see new magic items); cane.
+Bruno Bent-Nose, 2nd-level male Archontean fighter, AL LN; SZ M; AC 8; MV 60’ (due to foot); HD 2; HP 17; #AT 1; Dmg 1-6 (cane) or 1-3 (darts of sleeping). Abilities: STR 17, INT 9, WIS 9, DEX 4, CON 17, CHA 8. Possessions: leather armor; darts of sleeping (x4) (see new magic items); cane.
+
 Keth the Friendly
-Overview: A lesser varumani (see new monsters), Keth sports a 
-woman’s peasant smock over too-tight leather trousers. His face 
-is covered with large warts. He carries a ginger cat.
-Personality: Friendly and engaging; likes to sing old varumani 
-drinking songs.
-Reputation: A rube, and one easy to fool
-Role: Professional gambler and loan shark.
-Total Available Wealth: 692 sp; 492 gp
-Maximum GP per Bet: 50 gp
-Secrets? He is much smarter than his clownish behavior suggests. 
-He does more business as a loan shark, pawning items for cash.
-Special Items: A 3-lb lump of still-active arcanum (see new magic 
-items); a stone of striking (8th-level; see new magic items); a 
-terra cotta tablet with a scratch map of areas 6-145, 6-147 to 
-6-155, and 6-157 to 6-160 (but without secret doors and the cave-
-in south of 6-154); a solid silver goat’s paw (45 gp); a herald’s 
-trumpet (15 gp); a large piece of quartz from which emanate 
-strange telepathic thoughts (GM’s choice); and a statuette of 
-feline friendship (see new magic items).
-Keth, lesser varumani (see new monsters): SZ L; AL LE; AC 4; 
-MV 90’; HD 8; HP 55; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 
-(club, 3-18+4). Special defenses: 33% resistant to mind-affecting 
-magic; immune to cold and poison; save as 8th-level fighter or 
-8th-level magic user, whichever is better; regenerate 3 HP/rd; 
-infravision. Possessions: club.
-The Sisters Grevilar
-Overview: Ida and Odile Grevilar, CN human female twins. Ida is 
-a 5th-level thief; Odile is a 4th-level cleric of Banion. They have 
-long, straight raven hair, pale faces, green eyes, and long, narrow 
-noses.
-Personality: Intense and spooky; enjoy riddles and wordplay; finish 
-each other’s sentences; their questioning of potential clients is 
-off-putting
-Reputation: Poor gamblers, but possibly dangerous.
-Role: Amateur gamblers, likely to miscalculate odds and chances
-Total Available Wealth: 300 tiger eye gems (10 gp each), 375 gp
-Maximum GP per Bet: 100 gp
-Secrets? The sisters are seeking Walid, the ogre mage, in order to 
-recover a lost volume of lore (see 9-70). They have moved in as 
-gamblers as a way of trying to elicit information about Walid and 
-his companions.
-Special Items: Banion’s dice (Odile) (see new magic items); bag 
-of holding (smaller capacity, Ida); rope of climbing (Ida)
-Ida, 5th-level, female Archontean thief: SZ M; AL CN; AC 3; MV 
-120’; HD 5; HP 21; #AT 1; Dmg 2-7 (short sword +1). Abilities: 
-STR 12, INT 14, WIS 15, DEX 18, CON 9, CHA 14. Thief skills: 
-PP 60%, OL 57%, F/RT 45%, MS 50%, HS 41%, HN 20%, CW 
-90%, RL 25%. Possessions: leather armor +1; short sword +1.
-Odile, 4th-level female Archontean cleric of Banion: SZ M; AL 
-CN; AC 4; MV 90’; HD 4; HP 28; #AT 1; Dmg 3-8 (footman’s 
-mace +1). Abilities: STR 11, INT 12, WIS 16, DEX 10, CON 
-15, CHA 15. Banded mail; dagger, footman’s mace +1. Spells: 
-cure light wounds, detect magic, light, protection from 
-evil, sanctuary; augury, find traps, hold person, silence 
-15’ radius.
-Razor Face
-Overview: Male human; his face is a mass of scars, his nose and 
-ears are gone, and his voice is low and raspy. He wears a dirty 
-white robe and a ragged grey cloak
-Personality: Devious and aggressive, taking advantage of his looks 
-to elicit sympathy
-Reputation: Skeevy, as he is prone to disappearing for several 
-weeks at a time. He is pitied and shunned by the other gamblers.
-Role: Semi-professional gambler, and professional spy.
-Total Available Wealth: 799 sp, 249 gp
-Maximum GP per Bet: 25 gp
-Secrets? He has been charmed by Cinna Minux (7-122) and relays 
-news and gossip about the intelligent factions to that vampire 
-lord. His natural quasi-thief abilities and his cloak allow him 
-to travel mostly undetected. Each time he submits to Cinna, he 
-adds a new scar to his face.
-Special Items: Cloak of the dwarves (see new magic items)
-Razor Face, male Thorcin: SZ M; AL CE; AC 10; MV 120’; HD 
-1-1; HP 6; #AT 1; Dmg 1-4 (dagger). Possessions: cloak of 
-the dwarves (see new magic items); dagger. Although not a 
-classed thief, Razor Face can hide in shadows (50%) and move 
-silently (50%). His cloak enhances these rates to 75% and 55% 
-respectively when underground.
-Ledyard of Arcturos
-Overview: Tall, aristocratic-looking human male, dressed in fine 
-blue silk tunic with yellow leggings.
-Personality: Entitled, arrogant, but loyal to friends and allies. 
-Expects clients to come to him.
-Reputation: Disliked by the other gamblers who see him as 
-slumming
-Role: An amateur, who is too proud to learn much about the 
-gladiators and hence is not particularly competent. 
-Total Available Wealth: 567 sp, 893 gp, 175 white eye agates (10 gp 
-each)
-Maximum GP per Bet: 200 gp
-Secrets? Ledyard reneged on a 10,000 gp debt to the thieves’ guild 
-of Arcturos. To win the right to return, he must either acquire 
-and deliver the thieves’ mask (see new magic items; it is 
-located at 3-41A) or 15,000 gp. Ledyard is hoping to raise the 
-money, but will offer 7,500 gp for the mask if PCs persuasively 
-show they can get it.
-Special Items: He has 15 yellow topaz gems (500 gp each) sewn 
-into the lining of his tunic.
-Ledyard of Arcturos, 3rd-level male Thorcin thief, SZ M; AL LE; 
-AC 2; MV 120’; HD 3; HP 14; #AT 1; Dmg 2-7 (short sword +1). 
-Abilities: STR 14; INT 11; WIS 9; DEX 18; CON 11; CHA 16. 
-Thief skills: PP 50%, OL 48%, F/RT 35%, MS 37%, HS 30%, HN 
-15%, CW 87%. Possessions: bracers of defense (AC 6); short 
-sword +1.
+* Overview: A lesser varumani (see new monsters), Keth sports a woman’s peasant smock over too-tight leather trousers. His face is covered with large warts. He carries a ginger cat.
+* Personality: Friendly and engaging; likes to sing old varumani drinking songs.
+* Reputation: A rube, and one easy to fool
+* Role: Professional gambler and loan shark.
+* Total Available Wealth: 692 sp; 492 gp
+* Maximum GP per Bet: 50 gp
+* Secrets? He is much smarter than his clownish behavior suggests. He does more business as a loan shark, pawning items for cash.
+* Special Items: A 3-lb lump of still-active arcanum (see new magic items); a stone of striking (8th-level; see new magic items); a terra cotta tablet with a scratch map of areas 6-145, 6-147 to 6-155, and 6-157 to 6-160 (but without secret doors and the cave-in south of 6-154); a solid silver goat’s paw (45 gp); a herald’s trumpet (15 gp); a large piece of quartz from which emanate strange telepathic thoughts (GM’s choice); and a statuette of feline friendship (see new magic items).
 
-Inhabitants:
+Keth, lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 55; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
+
+The Sisters Grevilar
+* Overview: Ida and Odile Grevilar, CN human female twins. Ida is a 5th-level thief; Odile is a 4th-level cleric of Banion. They have long, straight raven hair, pale faces, green eyes, and long, narrow noses.
+* Personality: Intense and spooky; enjoy riddles and wordplay; finish each other’s sentences; their questioning of potential clients is off-putting
+* Reputation: Poor gamblers, but possibly dangerous.
+* Role: Amateur gamblers, likely to miscalculate odds and chances
+* Total Available Wealth: 300 tiger eye gems (10 gp each), 375 gp
+* Maximum GP per Bet: 100 gp
+* Secrets? The sisters are seeking Walid, the ogre mage, in order to recover a lost volume of lore (see 9-70). They have moved in as gamblers as a way of trying to elicit information about Walid and his companions.
+* Special Items: Banion’s dice (Odile) (see new magic items); bag of holding (smaller capacity, Ida); rope of climbing (Ida)
+
+Ida, 5th-level, female Archontean thief: SZ M; AL CN; AC 3; MV 120’; HD 5; HP 21; #AT 1; Dmg 2-7 (short sword +1). Abilities: STR 12, INT 14, WIS 15, DEX 18, CON 9, CHA 14. Thief skills: PP 60%, OL 57%, F/RT 45%, MS 50%, HS 41%, HN 20%, CW 90%, RL 25%. Possessions: leather armor +1; short sword +1.Odile, 4th-level female Archontean cleric of Banion: SZ M; AL CN; AC 4; MV 90’; HD 4; HP 28; #AT 1; Dmg 3-8 (footman’s mace +1). Abilities: STR 11, INT 12, WIS 16, DEX 10, CON 15, CHA 15. Banded mail; dagger, footman’s mace +1. Spells: 
+cure light wounds, detect magic, light, protection from evil, sanctuary; augury, find traps, hold person, silence 15’ radius.
+
+Razor Face
+* Overview: Male human; his face is a mass of scars, his nose and ears are gone, and his voice is low and raspy. He wears a dirty white robe and a ragged grey cloak
+* Personality: Devious and aggressive, taking advantage of his looks to elicit sympathy
+* Reputation: Skeevy, as he is prone to disappearing for several weeks at a time. He is pitied and shunned by the other gamblers.Role: Semi-professional gambler, and professional spy.
+* Total Available Wealth: 799 sp, 249 gp
+* Maximum GP per Bet: 25 gp
+* Secrets? He has been charmed by Cinna Minux (7-122) and relays news and gossip about the intelligent factions to that vampire lord. His natural quasi-thief abilities and his cloak allow him to travel mostly undetected. Each time he submits to Cinna, he adds a new scar to his face.
+* Special Items: Cloak of the dwarves (see new magic items)Razor Face, male Thorcin: SZ M; AL CE; AC 10; MV 120’; HD 1-1; HP 6; #AT 1; Dmg 1-4 (dagger). Possessions: cloak of the dwarves (see new magic items); dagger. Although not a classed thief, Razor Face can hide in shadows (50%) and move silently (50%). His cloak enhances these rates to 75% and 55% respectively when underground.
+
+Ledyard of Arcturos
+* Overview: Tall, aristocratic-looking human male, dressed in fine blue silk tunic with yellow leggings.
+* Personality: Entitled, arrogant, but loyal to friends and allies. * Expects clients to come to him.
+* Reputation: Disliked by the other gamblers who see him as slumming
+* Role: An amateur, who is too proud to learn much about the 
+* gladiators and hence is not particularly competent. 
+* Total Available Wealth: 567 sp, 893 gp, 175 white eye agates (10 gp each)
+* Maximum GP per Bet: 200 gp
+* Secrets? Ledyard reneged on a 10,000 gp debt to the thieves’ guild of Arcturos. To win the right to return, he must either acquire and deliver the thieves’ mask (see new magic items; it is located at 3-41A) or 15,000 gp. Ledyard is hoping to raise the money, but will offer 7,500 gp for the mask if PCs persuasively show they can get it.
+* Special Items: He has 15 yellow topaz gems (500 gp each) sewn into the lining of his tunic.
+
+Ledyard of Arcturos, 3rd-level male Thorcin thief, SZ M; AL LE; AC 2; MV 120’; HD 3; HP 14; #AT 1; Dmg 2-7 (short sword +1). Abilities: STR 14; INT 11; WIS 9; DEX 18; CON 11; CHA 16. 
+Thief skills: PP 50%, OL 48%, F/RT 35%, MS 37%, HS 30%, HN 15%, CW 87%. Possessions: bracers of defense (AC 6); short sword +1.
+
 Before and during a spectacle:
-1. The 7 gamblers listed above.
-2. 3-6 goblin gamblers: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 6, 
-5, 5, 4, 4, 3; #AT 1; Dmg 1-4 (dagger). On average each has 41 sp, 
-11 gp, and a 5% chance for a small gem. They are mostly begging 
-for small loans.
-3. 2-4 lesser varumani (see new monsters) gamblers: SZ L; AL LE; 
-AC 4; MV 90’; HD 8; HP 57, 55, 53, 49; #AT 3 or 1; Dmg 3-6/3-
-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant 
-to mind-affecting magic; immune to cold and poison; save 
-as 8th-level fighter or 8th-level magic user, whichever is better; 
-regenerate 3 HP/rd; infravision. Possessions: club. On average, 
-each has 72 sp, 31 gp, and a 20% chance for a small gem. They 
-are either placing bets with one of the big players or begging for 
-small loans.
-4. 3-6 unclassed human gamblers: SZ M; AL N; AC 10; MV 120’; 
-HD 1-1; HP 6, 6, 5, 4, 4, 3; #AT 1; Dmg 1-4 (dagger). Possessions: 
-dagger. On average each has 51 sp, 22 gp, and a 15% chance for 
-a small gem. They are mostly placing bets with one of the big 
-players or begging for small loans.
-5. 2-4 classed NPC gamblers: These should be selected from the 
-NPC appendix. They are placing bets with one of the big players.
-6. 4 male Thorcin arena guards, as 2nd-level fighters: SZ M; AL 
-NE; AC 6; MV 60’; HD 2; HP 18, 17, 15, 15; #AT 1; Dmg 1-8 
-(long sword) or 1-6 (spear) or 1-4 (light crossbow). Possessions: 
-scale mail; long swords; spears; light crossbow and 20 bolts; purse 
-with 33 sp and 9 gp each. In addition to their mail byrnies, and 
-simple helmets, they wear a light green surcoat emblazoned with 
-a black image of a six-sided die (the insignia of the arena guards).
+
+The 7 gamblers listed below.
+
+3-6 goblin gamblers: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 6, 5, 5, 4, 4, 3; #AT 1; Dmg 1-4 (dagger). On average each has 41 sp, 11 gp, and a 5% chance for a small gem. They are mostly begging for small loans.
+
+2-4 lesser varumani (see new monsters) gamblers: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 57, 55, 53, 49; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club. On average, each has 72 sp, 31 gp, and a 20% chance for a small gem. They are either placing bets with one of the big players or begging for small loans.
+
+3-6 unclassed human gamblers: SZ M; AL N; AC 10; MV 120’; HD 1-1; HP 6, 6, 5, 4, 4, 3; #AT 1; Dmg 1-4 (dagger). Possessions: dagger. On average each has 51 sp, 22 gp, and a 15% chance for a small gem. They are mostly placing bets with one of the big players or begging for small loans.
+
+2-4 classed NPC gamblers: These should be selected from the NPC appendix. They are placing bets with one of the big players.
+
+4 male Thorcin arena guards, as 2nd-level fighters: SZ M; AL NE; AC 6; MV 60’; HD 2; HP 18, 17, 15, 15; #AT 1; Dmg 1-8 (long sword) or 1-6 (spear) or 1-4 (light crossbow). Possessions: 
+scale mail; long swords; spears; light crossbow and 20 bolts; purse with 33 sp and 9 gp each. In addition to their mail byrnies, and simple helmets, they wear a light green surcoat emblazoned with a black image of a six-sided die (the insignia of the arena guards).
 
 ### 6-62: Guard Niches
 
@@ -2829,70 +2215,37 @@ a black image of a six-sided die (the insignia of the arena guards).
 
 ### 6-64: The Corner
 
-This massive octagonal chamber has a sloping ceiling that rises 
-30’ in its center. A single yellow light globe (see new technological 
-items) hangs from the point of the ceiling, providing soft yellow 
-light. As the nexus point for a series of corridors connecting to other 
-areas of the complex, the corner is extremely busy, and chances for 
-a random encounter here are tripled. If one is indicated, use the 
-chart found at area 6-58 to determine its nature.
- An enterprising lesser varumani known as Hal (for his bad 
-breath) has set up a bar here. For those who haven’t brought their 
-own liquid courage with them to the Arena, Hal’s bar at the corner 
-is the place to be. The bar is a solid plank laid over two bits of 
-broken masonry; he keeps his kegs and (few) bottles behind it. In 
-addition to the usual Arden Vul potables, Hal sells a super-potent 
-grain alcohol (Hal’s Hearty Hello) that he has acquired from 
-visiting Archonteans. Three goblin barmen aid Hal. 
- The Corner Bar offers the following: 
-Good for Sale Price
-Ale, Hak's Mushroom 2 sp/pint
-Ale, Hak's special red (double the alcohol content) 5 sp/pint
-Hal's Hearty Hello (grain alcohol;
-quadruple alcohol content) 1 gp/pint
-Brandy, imported 5 gp/shot
-Wine, imported 1 gp/glass
-Mushroom cake 5 sp/cake
-Since the Corner is outside the ‘safe zone’ of the Arena, Hal is 
-vigilant about threats, and not averse to using his massive club. 
-The guards from 6-62 will not aid Hal, although intelligent random 
-visitors (if present) probably will (50%).
- A set of 2”-tall paving stones arranged in a 6’-diameter ring 
-lies in the center of the floor, directly under the light globe (see 
-new technological items). Inset into the floor next to the ring is 
-a rectangle 48” long by 8” tall; the rectangle is divided into six 
-interior compartments, each 8” square. Together these elements 
-form a Thothian teleportation ring (see new magic items). 
-To activate the ring, one must place six colored glass activation 
-squares into the inset according to a sequence that matches the 
-‘address’ of the ring to which one wishes to travel. Once the squares 
-are placed, a brief shimmer of energy is visible over the ring. At 
-this point the user has 1 round to collect the squares and enter 
-the ring, after which anyone in the ring is teleported without 
-error to address indicated by that sequence of squares. If the glass 
-activation squares are not collected and/or if the travelers do not 
-possess a second set of them, they are likely to be stranded in the 
-location to which they have just teleported. The address of this 
-ring is as follows: [BL-GR-BK-YE-WH-RE (see new magic items 
-for explanation). None of the glass activation squares necessary to 
-operate the circle are present.
- Arriving unexpectedly in the corner via the teleportation ring 
-is sure to bring attention to the PCs, as some of the hangers-on 
-encountered here may wish to deprive them of whatever powerful 
-magic allowed them to apparate in the midst of the Arena crowd.
-Inhabitants:
-1. Hal the lesser varumani (see new monsters): SZ L; AL LE; AC 
-4; MV 90’; HD 8; HP 56; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 
-(club, 3-18+4). Special defenses: 33% resistant to mind-affecting 
-magic; immune to cold and poison; save as 8th-level fighter or 
-8th-level magic user, whichever is better; regenerate 3 HP/rd; 
-infravision. Possessions: club.
-2. Three goblin barmen: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 
-5, 5, 3; #AT 1; Dmg 1-6.
-Treasure:
-Hal keeps 55 sp and 17 gp in a belt pouch, and his stash consisting 
-of 431 sp, 349 gp, and a sapphire Sortian eye (see new magic 
-items) is hidden in a keg of his hooch.
+* This massive octagonal chamber has a sloping ceiling that rises 30’ in its center.
+	* A single yellow light globe (tech) provides light from the center of the ceiling.
+	* A Thothian teleportation ring (address: BL-GR-BK-YE-WH-RE) lies in the center of the floor, directly under the light globe (tech).
+		* No glass activation squares are present.
+		* Arriving unexpectedly via the teleportation ring is sure to bring attention to the PCs.  Some hangers-on here may wish to deprive them of whatever powerful magic allowed them to apparate in the midst of the Arena crowd.
+* An enterprising lesser varumani known as Hal (for his bad breath) has set up a bar here.
+	* For those who haven’t brought their own liquid courage with them to the Arena, Hal’s bar at the corner is the place to be.
+	* The bar is a solid plank laid over two bits of broken masonry; he keeps his kegs and (few) bottles behind it.
+		* In addition to the usual Arden Vul potables, Hal sells a super-potent grain alcohol (Hal’s Hearty Hello) acquired from visiting Archonteans.
+		* Hidden in a keg of hooch: 431 sp, 349 gp, and a sapphire Sortian eye
+	* Three goblin barmen aid Hal. 
+* Since the Corner is outside the ‘safe zone’ of the Arena, Hal is vigilant about threats, and not averse to using his massive club.
+	* The guards from 6-62 won't aid Hal, but visitors (if present) probably will (50%).
+
+* Note: Skellan Skindros, formerly of the Forum of Set visits here from 6-28 to sell wines and liquors to Hal, who is expanding the range and quality he can offer.
+
+As a nexus to other areas of the complex, the corner is extremely busy.
+* Triple chances for a random encounter (use table for 6-58 to determine type).
+
+The Corner Bar offers the following: 
+* Ale, Hak's Mushroom 2 sp/pint
+* Ale, Hak's special red (double the alcohol content) 5 sp/pint
+* Hal's Hearty Hello (grain alcohol; quadruple alcohol content) 1 gp/pint
+* Brandy, imported 5 gp/shot
+* Wine, imported 1 gp/glass
+* Mushroom cake 5 sp/cake
+
+Hal the lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 56; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision.
+* Possessions: club, (pouch) 55 sp and 17 gp
+
+Three goblin barmen: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 5, 5, 3; #AT 1; Dmg 1-6.
 
 ### 6-65: Stairs Down to 7-42
 
@@ -2907,90 +2260,60 @@ items) is hidden in a keg of his hooch.
 * A rickety, 3’-wide rope bridge connects this corridor to 6-64.
 * The corridor narrows to 10’ and then winds upwards 350’ through a long maze of passages until arriving near the old entrance to the precincts of Set (4-161). 
 
- ### 6-68: Arena 
+### 6-68: Arena 
 
-This massive chamber dating to the heqeti period rises 80’ from 
-the sanded floor to the barrel-vaulted ceiling. The walls are rough 
-and pitted with age, but still ooze an oily sheen. The Lord of the 
-Arena (6-85) periodically has the arena wranglers paint colossal 
-images – of gladiators and unrecognizable monsters (from the 
-rudishva homeworld) – on the north, south and west walls. These 
-images tend to be 25’ tall and formed of vibrant primary colors; 
-due to the nature of the stone, though, the images begin to run 
-almost immediately. As a result, during any spectacle, visitors will 
-see huge but barely visible images formed of slowly running paint 
-lining the walls.
+* This massive chamber rises 80’ from the sanded floor to the barrel-vaulted ceiling.
+	* It dates to the heqeti period.  The walls are rough and pitted with age, but still ooze an oily sheen.
+	* Colossal images – of gladiators and unrecognizable monsters (alien or rudishvan) – are painted on the north, south and west walls.
+		* The Lord of the Arena (6-85) periodically has the arena wranglers paint fresh ones.
+		* These images tend to be 25’ tall, with vibrant primary colors.  The oily stone causes them to begin to run almost immediately.  Visitors see huge but barely visible images formed of slowly running paint lining the walls.
+	* Numerous apertures line the walls of the chamber.
+		* (east) the half-dome of the spectator’s box (6-70), beginning 25’ off the floor of the Arena and rising another 25’.
+		* (north) two wide, 15'-tall openings lead to the beast pits (6-87).  They are closed by portcullises that may be raised only from 6-87. 
+		* (south) an opening with portcullis leading to the gladiators’ quarters (6-71).
+		* (west) the box of the Lord of the Arena (6-84), 40’ off the floor.
+			* To either side of his box is a window allowing his guests to view the spectacles from relative safety (6-81, 6-85).
+		* 3 corners of the Arena have ledges holding large ballistae (6-69).
+	* The floor is covered with a 5’-thick layer of sand.
+	* 3 large ==environment globes== of colored glass hang from the ceiling on thin wires. 
 
-Numerous apertures line the walls of the chamber. To the east 
-is the half-dome of the spectator’s box (6-70); it begins 25’ off the 
-floor of the Arena and rises another 25’. The north wall contains 
-two wide openings to the beast pits (6-87); these are 15’ tall and 
-closed by portcullises that may be raised only from area 6-87. To 
-the south is a single opening, similarly boasting a portcullis, which 
-leads to the gladiators’ quarters (6-71). The west wall boasts the 
-box of the Lord of the Arena (6-84), situated 40’ off the floor. To 
-either side of his box is a pair of windows that allow his guests to 
-view the spectacles from relative safety (6-81, 6-85). Three of the 
-corners of the Arena feature ledges on which are mounted large 
-ballistae (6-69).
+* Twice a day, tables and benches are brought onto the Arena sands for meals. All inhabitants – gladiators, guards, wranglers, and the Lord – take their meals together.
 
-The floor is covered with a 5’-thick layer of sand.
-
-Two broad, locked cabinet doors line the east wall under the 
-seats (6-70). These storage cabinets contain long trestle tables and 
-benches; twice a day these are brought onto the Arena sands for 
-meals. All inhabitants – gladiators, guards, wranglers, and the Lord 
-– take their meals together in this way.
-
-Three large spheres made of colored glass hang from the ceiling 
-on thin wires. These are rudishva environment globes, salvaged 
-from the wreck of the Beacon and used by the Lord of the Arena 
-to simulate different environmental conditions in the Arena. The 
-middle, yellow globe is the largest (5’ in diameter), and controls 
-light intensity; the southern, red globe is 3’ in diameter, and 
-controls precipitation; the northern, blue globe is 3’ in diameter 
-and controls temperature. All three can be manipulated by the 
-Lord’s control bracelet. Environmental conditions are decided 
-randomly at the start of a spectacle and are cumulative. Roll 3d10 
-and consult the following charts:
+Environment Globes
+* 3 large rudishva environment globes of colored glass hang from the ceiling on thin wires, salvaged from the wreck of the Beacon.
+* The Lord uses them to simulate different environmental conditions in the Arena.
+	* (middle) yellow globe, 5’ in diameter, controls light intensity
+	* (southern) red globe, 3’ in diameter, controls precipitation
+	* (northern) blue globe, 3’ in diameter controls temperature
+* All three can be manipulated by the Lord’s control bracelet.
+	* Usually he creates a random array (3d10 and see below).
 
 D10 Light (Yellow Globe)
-1 Super bright, -1 hit
-2 Bright, full light
-3 Bright, full light
-4 Half-light (+10% stealth)
-5 Half-light (+10% stealth)
-6 No light
-7 No light
-8 No light
-9 Strobe light every round (save vs spells or blinded)
-10 Restorative light: cures 1 hp/rd
+* 1) Super bright, -1 hit
+* 2-3) Bright, full light
+* 4-5) Half-light (+10% stealth)
+* 6-8) No light
+* 9) Strobe light every round (save vs spells or blinded)
+* 10) Restorative light: cures 1 hp/rd
+
 D10 Precipitation (Red Globe)
-1 None (dry)
-2 None
-3 None
-4 Soft rain (or snow)
-5 Soft rain (or snow)
-6 Pounding rain (or heavy snow) (-1 to hit)
-7 Pounding rain (or heavy snow) (-1 to hit)
-8 Hail (1 hp/rd damage)
-9 Acid Rain (2 hp/rd damage)
-10 Sandstorm (1 hp/rd damage, -2 to hit, low visibility)
+* 1) None (dry)
+* 2-3) None
+* 4-5) Soft rain (or snow)
+* 6-7) Pounding rain (or heavy snow) (-1 to hit)
+* 8) Hail (1 hp/rd damage)
+* 9) Acid Rain (2 hp/rd damage)
+* 10) Sandstorm (1 hp/rd damage, -2 to hit, low visibility)
+
 D6 Temperature (Blue Globe)
-1 Blistering hot (2 hp/rd damage, metal
-
-untouchable after 2 rds)
-2 Sweltering (-1 to all rolls after 3 rds)
-3 Sweltering (-1 to all rolls after 3 rds)
-4 Warm, no effect
-5 Moderate, no effect
-6 Cool, no effect
-7 Icy cold (-1 to hit using weapons)
-8 Icy cold (-1 to hit using weapons)
-9 Bone-chilling cold (2 hp/rd damage,
-
-15% to drop weapons)
-10 Alternating – roll a new temperature every 2 rounds
+* 1) Blistering hot (2 hp/rd damage, metal untouchable after 2 rds)
+* 2-3) Sweltering (-1 to all rolls after 3 rds)
+* 4) Warm, no effect
+* 5) Moderate, no effect
+* 6) Cool, no effect
+* 7-8) Icy cold (-1 to hit using weapons)
+* 9) Bone-chilling cold (2 hp/rd damage, 15% to drop weapons)
+* 10) Alternating – roll a new temperature every 2 rounds
 
 ### 6-69: Ballistae
 
@@ -3010,6 +2333,9 @@ untouchable after 2 rds)
 * During a spectacle, the seats contain those described below.
 	* The scene is generally rowdy but genial.   Each of the primary racial groups has distinct chants and songs that they sing loudly during spectacles; many (particularly the goblins and varumani) are typically well lubricated with alcohol (from 6-64).
 	* If visitors pick a fight or try to intervene in a bout, the crowd is 75% likely to swarm the miscreants and hold them for punishment by the Lord of the Arena.
+
+* 2 broad, locked cabinet doors line the east wall under the seats holding long trestle tables and benches.
+	* Twice a day, these are brought onto the Arena sands for meals. All inhabitants – gladiators, guards, wranglers, and the Lord – take their meals together.
 
 Spectators
 
@@ -3043,139 +2369,81 @@ Durdeon Vislok and six members of the Sodality of the Fist: for stats, see AV-12
 
 ### 6-71: Gladiators’ Preparation
 
-This lightly sanded hall serves as a practice facility and preparation 
-hall for the gladiators of the Arena. The north wall has a 10’-wide, 
-15’-tall opening into the Arena; a heavy portcullis, the release for 
-which is found on the east wall, normally prevents exit. A steep 
-stairway leads down to area 6-72. The northeast and northwest 
-walls are painted with enormous, art naïve images of smiling 
-gladiators; above the images are the words ‘Honor’, ‘Comradeship’ 
-and ‘Dignity’.
- Although the gladiators enjoy a certain prestige among those 
-who attend the Arena, they are technically bound in servitude to 
-the Lord. Most have no intention of leaving, however, as they have 
-become accustomed to the thrills and accolades of their position. 
-Still, the gladiators’ servile status is evident in the presence of 
-guardsmen (6-74 and elsewhere).
- Just before a bout, the gladiators selected for that spectacle 
-meet here to oil themselves, swear sacred oaths to each other, and 
-prepare their equipment. At such times, six guardsmen (from 
-6-74) will be present. 
- During a gladiatorial bout, all gladiators not fighting are pre-
-sent here, pressed against the portcullis to witness the performances 
-of their fellows.
- A list of the current gladiators living at the Arena, ranked 
-according to their status from 1st to 15th, follows. Gladiators 
-typically take part in one of the following types of bouts: 1) 12 
-gladiators against each other; 2) 4-6 gladiators versus an outside 
-team; 3) 3-4 gladiators versus some easy monsters. 
-(#1) Hector, 8th-level male Archontean fighter: SZ M; AL LN; AC 
-3; MV 120’; HD 8; HP 75; #AT 3/2; Dmg 6-13 (long sword 
-+2), or 6-11 (spear +2). Abilities; STR 18/04, INT 8, WIS 10, 
-DEX 16, CON 15, CHA 15. Possessions: orange-colored studded 
-leather armor +2; long sword +2; spear +2; headband of 
-the kallistos (see new magic items). Personality: brave but dim; 
-resents Tredgeris, a poor judge of character; but a talented fighter
-(#2) Lara, 7th-level female Archontean fighter: SZ M; AL LN; 
-AC 2; MV 120’; HD 7; HP 59; #AT 3/2; Dmg 5-10 (trident +2) 
-or 3-6 (short sword +1). Abilities: STR 16, INT 15, WIS 11, 
-DEX 17, CON 13, CHA 11. Possessions: studded leather +2; 
-trident +2; short sword +1. She has a purse with 147 sp and 
-10 moonstone gems (50 gp each). Personality: tough-as-nails, 
-completely lacking in mercy ... except towards other gladiators
-(#3) Yerk, 7th-level male Thorcin fighter: SZ M; AL CN; AC 5; MV 
-120’; HD 7; HP 78; #AT 3/2; Dmg 6-7 (whip +2), or 6-13 (battle 
-axe +2). Abilities; STR 18/23, INT 10, WIS 8, DEX 12, CON 17, 
-CHA 12. Possessions: whip +2; battle axe +2; studded leather 
-armor +2. Personality: psychotic, near-berserker warrior.
-(#4) Jonas, 5th-level male Archontean magic user: SZ M; AL 
-LN; AC 4; MV 120’; HD 5; HP 15; #AT 1; Dmg 1-6 (staff). 
-Abilities: STR 11, INT 17, WIS 15, DEX 16, CON 10, CHA 8. 
-Possessions: staff, bracers of defense (AC 6); ring of shield 
-(see new magic items); wand of magic missiles (15 charges). 
-Memorized spells: magic missile (x2); charm person, jump; 
-invisibility, mirror image; fireball. Spell book: affect normal 
-fires, burning hands, charm person, enlarge, identify, 
-jump, magic missile, read magic, shield, sleep, spider 
-climb; continual light, invisibility, levitate, mirror image, 
-ray of enfeeblement, web; blink, dispel magic, fireball, 
-fly, monster summoning I, slow. Personality: cautious and 
-clever; prefers to fight in a team.
-(#5) Eracleis, 5th-level male Archontean fighter: SZ M; AL NG; 
-AC 4; MV 90’; HD 5; HD 41; #AT 1; Dmg 6-13 (battle axe 
-+2). Possessions: STR 18/65, INT 7, WIS 10, DEX 15, CON 12, 
-CHA 10. Possessions: chain mail; battle axe +2. Personality: a 
-very large, muscle-bound man whose easy-going nature is the 
-one reason he won’t advance any further in rank.
-(#6) Mord, 4th-level male Wiskin magic user: SZ M; AL CN; 
-AC 6; MV 120’; HD 4; HP 15; #AT 1; Dmg 2-5 (dart +1). 
-Abilities: STR 8, INT 17, WIS 15, DEX 16, CON 16, CHA 7. 
-Possessions: 4 darts +1; ring of protection +2; wand of 
-lightning (11 charges). Memorized spells: magic missile (x2); 
-charm person; invisibility, mirror image. Spell book: affect 
-normal fires, burning hands, charm person, enlarge, 
-identify, jump, magic missile, read magic, shield, sleep, 
-spider climb; continual light, invisibility, levitate, mirror 
-image, ray of enfeeblement, web; blink, dispel magic, 
-lightning bolt, fly, monster summoning I, slow. Personality: 
-misanthropic, speaks Wiskinga but little Archontean. Little 
-loyalty or friendship to other gladiators.
-(#7) Thomas, 4th-level male Archontean fighter: SZ M; AL NE; 
-AC 6; MV 60’; HD 4; HP 33; #AT 1; Dmg 6-11 (spear +2). 
-Abilities: STR 18/24, INT 10, WIS 11, DEX 8, CON 11, CHA 17. 
-Possessions: scale mail; spear +2. Personality: cold, reserved, 
-sadistic.
-(#8) Pelissa Halbestdottir, 3rd-level female elf fighter: SZ M; 
-AL CG; AC 2; MV 120’; HD 3; HP 23; #AT 1; Dmg 3-10 (long 
-sword +1), or 1-6 (long bow). Abilities: STR 16, INT 14, WIS 15, 
-DEX 17, CON 10, CHA 9. Possessions: elven chain mail; long 
-sword +1; long bow, 20 arrows. Personality: smiles constantly 
-but speaks little; prefers surgical, called shots in combat. 
-(#9) Basil, 3rd-level male Archontean fighter: SZ M; AL LE; AC 6; 
-MV 60’; HD 3; HP 34; #AT 1; Dmg 4-9 (trident +1). Abilities: 
-STR 17, INT 14, WIS 10, DEX 9, CON 18, CHA 7. Possessions: 
-scale mail; trident +1; throwing net. Personality: prefers sarcastic 
-jokes and taunts; gets in trouble a lot, but his CON bails him out.
-(#10) Hamfast, 2nd-level male halfling fighter: SZ S; AL NG; AC 
-5; MV 90’; HD 2; HP 17; #AT 1; Dmg 2-7 (short sword) or 4-7 
-(sling +2). Abilities: STR 16, INT 11, WIS 11, DEX 16, CON 16, 
-CHA 9. Possessions: studded leather armor; short sword; sling 
-+2, 20 sling stones. Personality: cheerful, alcoholic, devoted to 
-Julia below.
-(#11) Julia, 2nd-level female halfling fighter: SZ S; AL NG; AC 
-5; MV 90’; HD 2; HP 16; #AT 1; Dmg 1-6 (short sword) or 3-8 
-(short bow +1 with arrows +1). Abilities: STR 14, INT 10, WIS 
-14, DEX 16, CON 16, CHA 15. Possessions: studded leather; 
-short sword; short bow +1 and 20 arrows +1. Personality: 
-flirtatious, shallow.
-(12) Idris, 2nd-level male Thorcin fighter: SZ M; AL CE; AC 2; 
-MV 90’; HD 2; HP 21; #AT 1; Dmg 7-13 (glaive +2) or 4-7 (war 
-hammer). Abilities: STR 18/90, INT 7, WIS 9, DEX 17, CON 
+* This lightly sanded hall serves as a practice facility and preparation hall for the gladiators of the Arena.
+	* North wall: 10’-wide, 15’-tall opening into the Arena; a heavy portcullis (release is on the east wall) normally prevents exit. 
+	* A steep stairway leads down to 6-72. 
+	* Northeast and northwest walls: painted with enormous, art naïve images of smiling gladiators; above the images are the words ‘Honor’, ‘Comradeship’ and ‘Dignity’.
+
+ * The gladiators enjoy a certain prestige among Arena attendees, but are technically bound in servitude to the Lord.
+	 * Most have no intention of leaving; accustomed to the thrills and accolades of their position. 
+	 * Their servile status is evident in the presence of guardsmen (6-74 and elsewhere).
+* Bouts
+	* Just before: selected gladiators meet here to oil themselves, swear sacred oaths to each other, and prepare their equipment.  6 guardsmen (from 6-74) will be present.
+	* During: all gladiators not fighting are present here, pressed against the portcullis to witness the performances of their fellows.
+	* Gladiators typically take part in one of the following types of bouts:
+		* 1) 12 gladiators against each other
+		* 2) 4-6 gladiators versus an outside team
+		* 3) 3-4 gladiators versus some easy monsters
+
+A list of the current gladiators living at the Arena (ranked from 1st to 15th)
+
+(#1) Hector, 8th-level male Archontean fighter: SZ M; AL LN; AC 3; MV 120’; HD 8; HP 75; #AT 3/2; Dmg 6-13 (long sword +2), or 6-11 (spear +2). Abilities; STR 18/04, INT 8, WIS 10, 
+DEX 16, CON 15, CHA 15. Possessions: orange-colored studded leather armor +2; long sword +2; spear +2; headband of the kallistos (see new magic items). 
+* Personality: brave but dim; resents Tredgeris, poor judge of character; a talented fighter
+
+(#2) Lara, 7th-level female Archontean fighter: SZ M; AL LN; AC 2; MV 120’; HD 7; HP 59; #AT 3/2; Dmg 5-10 (trident +2) or 3-6 (short sword +1). Abilities: STR 16, INT 15, WIS 11, 
+DEX 17, CON 13, CHA 11. Possessions: studded leather +2; trident +2; short sword +1. She has a purse with 147 sp and 10 moonstone gems (50 gp each). 
+* Personality: tough-as-nails, completely lacking in mercy ... except towards other gladiators
+
+(#3) Yerk, 7th-level male Thorcin fighter: SZ M; AL CN; AC 5; MV 120’; HD 7; HP 78; #AT 3/2; Dmg 6-7 (whip +2), or 6-13 (battle axe +2). Abilities; STR 18/23, INT 10, WIS 8, DEX 12, CON 17, CHA 12. Possessions: whip +2; battle axe +2; studded leather armor +2. 
+* Personality: psychotic, near-berserker warrior.
+
+(#4) Jonas, 5th-level male Archontean magic user: SZ M; AL LN; AC 4; MV 120’; HD 5; HP 15; #AT 1; Dmg 1-6 (staff). Abilities: STR 11, INT 17, WIS 15, DEX 16, CON 10, CHA 8. Possessions: staff, bracers of defense (AC 6); ring of shield (see new magic items); wand of magic missiles (15 charges). Memorized spells: magic missile (x2); charm person, jump; 
+invisibility, mirror image; fireball. Spell book: affect normal fires, burning hands, charm person, enlarge, identify, jump, magic missile, read magic, shield, sleep, spider climb; continual light, invisibility, levitate, mirror image, ray of enfeeblement, web; blink, dispel magic, fireball, fly, monster summoning I, slow. 
+* Personality: cautious and clever; prefers to fight in a team.
+
+(#5) Eracleis, 5th-level male Archontean fighter: SZ M; AL NG; AC 4; MV 90’; HD 5; HD 41; #AT 1; Dmg 6-13 (battle axe +2). Possessions: STR 18/65, INT 7, WIS 10, DEX 15, CON 12, 
+CHA 10. Possessions: chain mail; battle axe +2. 
+* Personality: a very large, muscle-bound man whose easy-going nature is the one reason he won’t advance any further in rank.
+
+(#6) Mord, 4th-level male Wiskin magic user: SZ M; AL CN; AC 6; MV 120’; HD 4; HP 15; #AT 1; Dmg 2-5 (dart +1). Abilities: STR 8, INT 17, WIS 15, DEX 16, CON 16, CHA 7. 
+Possessions: 4 darts +1; ring of protection +2; wand of lightning (11 charges). Memorized spells: magic missile (x2); charm person; invisibility, mirror image. Spell book: affect 
+normal fires, burning hands, charm person, enlarge, identify, jump, magic missile, read magic, shield, sleep, spider climb; continual light, invisibility, levitate, mirror image, ray of enfeeblement, web; blink, dispel magic, lightning bolt, fly, monster summoning I, slow. 
+* Personality: misanthropic, speaks Wiskinga but little Archontean. Little loyalty or friendship to other gladiators.
+
+(#7) Thomas, 4th-level male Archontean fighter: SZ M; AL NE; AC 6; MV 60’; HD 4; HP 33; #AT 1; Dmg 6-11 (spear +2). Abilities: STR 18/24, INT 10, WIS 11, DEX 8, CON 11, CHA 17. 
+Possessions: scale mail; spear +2. 
+* Personality: cold, reserved, sadistic.
+
+(#8) Pelissa Halbestdottir, 3rd-level female elf fighter: SZ M; AL CG; AC 2; MV 120’; HD 3; HP 23; #AT 1; Dmg 3-10 (long sword +1), or 1-6 (long bow). Abilities: STR 16, INT 14, WIS 15, 
+DEX 17, CON 10, CHA 9. Possessions: elven chain mail; long sword +1; long bow, 20 arrows. 
+* Personality: smiles constantly but speaks little; prefers surgical, called shots in combat. 
+
+(#9) Basil, 3rd-level male Archontean fighter: SZ M; AL LE; AC 6; MV 60’; HD 3; HP 34; #AT 1; Dmg 4-9 (trident +1). Abilities: STR 17, INT 14, WIS 10, DEX 9, CON 18, CHA 7. Possessions: 
+scale mail; trident +1; throwing net. 
+* Personality: sarcastic jokes and taunts; gets in trouble a lot, but his CON bails him out.
+
+(#10) Hamfast, 2nd-level male halfling fighter: SZ S; AL NG; AC 5; MV 90’; HD 2; HP 17; #AT 1; Dmg 2-7 (short sword) or 4-7 (sling +2). Abilities: STR 16, INT 11, WIS 11, DEX 16, CON 16, 
+CHA 9. Possessions: studded leather armor; short sword; sling +2, 20 sling stones. 
+* Personality: cheerful, alcoholic, devoted to Julia below.
+
+(#11) Julia, 2nd-level female halfling fighter: SZ S; AL NG; AC 5; MV 90’; HD 2; HP 16; #AT 1; Dmg 1-6 (short sword) or 3-8 (short bow +1 with arrows +1). Abilities: STR 14, INT 10, WIS 
+14, DEX 16, CON 16, CHA 15. Possessions: studded leather; short sword; short bow +1 and 20 arrows +1. 
+* Personality: flirtatious, shallow.
+
+(#12) Idris, 2nd-level male Thorcin fighter: SZ M; AL CE; AC 2; MV 90’; HD 2; HP 21; #AT 1; Dmg 7-13 (glaive +2) or 4-7 (war hammer). Abilities: STR 18/90, INT 7, WIS 9, DEX 17, CON 
 18, CHA 7. Possessions: chain mail; glaive +2; war hammer. 
-Personality: an incredible physical specimen, but dull-witted and 
-charmless. Has few friends.
-#13: Kelt, 2nd-level female Wiskin magic user: SZ M; AL CN; AC 9; 
-MV 120’; HD 2; HP 6; #AT 1; Dmg 3-9 (staff +1). Abilities: STR 
-18, INT 15, WIS 8, DEX 10, CON 10, CHA 11. Possessions: staff 
-+1; ring of protection +1. Memorized spells: magic missile, 
-shield. Spell book: affect normal fires, burning hands, 
-charm person, enlarge, identify, jump, magic missile, 
-read magic, shield, sleep, spider climb; continual light, 
-invisibility, levitate, mirror image, ray of enfeeblement, 
-web. Personality: chaotic and unstable; probably insane; prone 
-to babbling in Wiskin.
-#14: Nisdis Jerronsson, 2nd-level male elf fighter: SZ M; AL NE; 
-AC 6; MV 60’; HD 2; HP 18; #AT 1; Dmg 5-10 (spear +1) or 
-4-11 (long sword). Abilities: STR 18/74, INT 9, WIS 14, DEX 
-10, CON 16, CHA 8. Possessions: scale mail; spear +1; long 
-sword. Personality: even-tempered, a good strategist, deferential 
-and loyal.
-#15: Xerxes, 2nd-level male Archontean fighter: SZ M; AL NG; AC 
-5; MV 90’; HD 2; HP 15; #AT 1; Dmg 3-9 (broadsword) or 3-6 
-(dagger +1). Abilities: STR 17, INT 17, WIS 9, DEX 11, CON 
-11, CHA 13. Possessions: chain mail; broad sword; dagger +1. 
-Personality: filled with nervous energy, constantly chattering, 
-prefers swift, direct assaults.
+* Personality: incredible physical specimen, but dull-witted and charmless. Has few friends.
+
+#13: Kelt, 2nd-level female Wiskin magic user: SZ M; AL CN; AC 9; MV 120’; HD 2; HP 6; #AT 1; Dmg 3-9 (staff +1). Abilities: STR 18, INT 15, WIS 8, DEX 10, CON 10, CHA 11. Possessions: staff +1; ring of protection +1. Memorized spells: magic missile, shield. Spell book: affect normal fires, burning hands, charm person, enlarge, identify, jump, magic missile, read magic, shield, sleep, spider climb; continual light, invisibility, levitate, mirror image, ray of enfeeblement, web. 
+* Personality: chaotic and unstable; probably insane; prone to babbling in Wiskin.
+
+#14: Nisdis Jerronsson, 2nd-level male elf fighter: SZ M; AL NE; AC 6; MV 60’; HD 2; HP 18; #AT 1; Dmg 5-10 (spear +1) or 4-11 (long sword). Abilities: STR 18/74, INT 9, WIS 14, DEX 
+10, CON 16, CHA 8. Possessions: scale mail; spear +1; long sword. 
+* Personality: even-tempered, a good strategist, deferential and loyal.
+
+#15: Xerxes, 2nd-level male Archontean fighter: SZ M; AL NG; AC 5; MV 90’; HD 2; HP 15; #AT 1; Dmg 3-9 (broadsword) or 3-6 (dagger +1). Abilities: STR 17, INT 17, WIS 9, DEX 11, CON 11, CHA 13. Possessions: chain mail; broad sword; dagger +1. 
+* Personality: filled with nervous energy, constantly chattering, prefers swift, direct assaults.
 
 ### 6-72: Gladiators’ Hall (unmapped)
 
@@ -3814,9 +3082,7 @@ Party of NPC adventurers (select from NPC appendix)
 
 11-15
 
-1-3 carcass creepers: SZ L; AL N; AC 3 (head) or 7 
-(body); MV 120'; HD 3+1; HP 19, 18, 17; #AT 8; Dmg 
-nil. Special attacks: paralysis
+1-3 carcass creepers: SZ L; AL N; AC 3 (head) or 7 (body); MV 120'; HD 3+1; HP 19, 18, 17; #AT 8; Dmg nil. Special attacks: paralysis
 
 16-20
 
@@ -4135,6 +3401,7 @@ D20 Item Notes
 		* In the corridor lie the desiccated corpses of 8 rudishva and 1 kaliyani.
 			* A plasteel bucket of quietly burbling yellow paste rests by their side; enough to cover a medium sized person or to paint a 6” x 40' stripe.
 			* Bodies: laser rifle; 2 laser pistols; sonic fence; identity plaques (rust, brown, orange); a repli-cube; 3 lesser power supplies (1, 3, and 2 charges).
+
 GM Notes
 * The yellow paste (av items) is a biological, anti-slime agent developed secretly by the kaliyani after they began to plan the ‘great betrayal’ to protect themselves from their new ‘allies’, the heqeti and their slimes.
 	* One kaliyani who remained loyal to the rudishva, Kesstak, stole a pot of this anti-slime material and hastened to the residential pod after the attack began.

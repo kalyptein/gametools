@@ -104,7 +104,7 @@ Vaults
 * Vault 1 (-10% to pick)
 	* Poison needle (-5% to detect). Save or die.
 	* Three 10’x15’ carpets (300 gp each); a teak and ivory desk and chair (300 gp); two floor-length candlesticks made of enormous ivory tusks (300 gp each); a 15’-diameter pendant of a sunburst in bronze with gold accents (200 gp)
-	* Six rare tomes: . a deluxe, 2 volume, illustrated copy of the Tales of Larel One-Eye; the Properties of Blood; the Codex Legionariorum; the Book of Night Maneuvers; On Profit, by Fulvius the Factor, with coded blackmail in the margins; and On the Terrible Old Gods.
+	* Six rare tomes: a deluxe, 2 volume, illustrated copy of the Tales of Larel One-Eye; the Properties of Blood; the Codex Legionariorum; the Book of Night Maneuvers; On Profit, by Fulvius the Factor, with coded blackmail in the margins; and On the Terrible Old Gods.
 * Vault 2
 	* Poison needle (+5% to detect). Save or die.
 	* Ten marble statues of Archontean subjects, nine worth 100-1,000 gp each, and one worth 1,500 gp.
@@ -123,6 +123,8 @@ Vaults
 	* A collection of 50 mixed volumes of erotica and children’s tales (10-60 gp each).
 
 1 clay golem: SZ L; AL N; AC 7; MV 70’; HD 11; HP 50; #AT 1; Dmg 3-30. Special attacks: haste 1x/day; damage from clay golem only reparable by means of a heal spell by a 17th-level cleric. Special defenses: hit only by blunt magical weapons; immune to all spells except move earth, disintegrate, or earthquake.
+
+X / 70
 
 #### SL15-8: Minotaurs
 
@@ -316,9 +318,9 @@ scimitars; composite bows. Special defenses: invisibility 3/day. Special: growth
 * It is easy to miss the cave mouth, 8’ up the side of the tunnel wall and quite narrow.
 * It opens into a broader, low-ceilinged space (5’ tall).
 	* Ancient remains of three Archontean legionaries lie here.
-		* Periapt of discord (see new magic items); 128 ancient silver pennies, 87 ancient gold solidi; 2 short swords; and a short sword +1 (INT 13, empathy, NG, SA detect magic 10’ radius, strength 1/day wielder only, EGO 4).
+		* Periapt of discord (new); 128 ancient silver pennies, 87 ancient gold solidi; 2 short swords; and a short sword +1 (INT 13, empathy, NG, SA detect magic 10’ radius, strength 1/day wielder only, EGO 4).
 	* The spirits of the soldiers have risen as shadows.
-		* They were ringleaders of the smuggling ring pilfering valuables during the Archontean retreat (see SL15-4). They deserted their posts and headed here to wait until the coast was clear.  They had acquired a periapt of discord (see new magic items), which led them to quarrel with and kill each other.
+		* They were ringleaders of the smuggling ring pilfering valuables during the Archontean retreat (see SL15-4). They deserted their posts and headed here to wait until the coast was clear.  They had acquired a periapt of discord (new), which led them to quarrel with and kill each other.
 
 3 shadows: SZ M; AL CE; AC 7; MV 120; HD 3+3; HP 24, 20, 17; #AT 1; Dmg 2-5. Special attacks: STR drain. Special defenses: 90% undetectable; +1 or better weapons to hit; immune to sleep, charm, hold, and cold. 
 
@@ -337,6 +339,9 @@ scimitars; composite bows. Special defenses: invisibility 3/day. Special: growth
 
 3 giant boring beetles: SZ L; AL N; AC 3; MV 60’; HD 5; HP 36, 30, 25; #AT 1; Dmg 5-20.
 
+X / 36
+X / 30
+X / 25
 #### SL15-21: Cave Bear, and Exit to AV-46
 
 * Half mile northwest of the city walls, in a clearing within the old forest, is a dank cave set in a low hill.  Its opening is shrouded by vines during summer.

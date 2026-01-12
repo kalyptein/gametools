@@ -65,7 +65,7 @@ Access and Egress
 			* Green: toggles both yellow and blue beams from SL1-5 and SL1-6
 			* Purple: toggles both red and blue beams (from SL1-6 and SL1-7)
 			* Orange: toggles both red and yellow beams (from SL1-5 and SL1-7)
-	* The door at the south end is a circular disk of opaque, but clear, plasglass hinged to open into area SL1-4.
+	* The door at the south end is a circular disk of opaque plasglass hinged to open into area SL1-4.
 		* Note: keep careful note of which light beams are active.  If a group activated every color in the corridor in order, they would enter area SL1-4 with all three light beams activated.
 
 #### SL1-4: Upper Tomb of Light
@@ -85,6 +85,7 @@ Access and Egress
 	* On the same side of the room as the entrance tunnel is an archway to SL1-8, blocked by an impenetrable buzzing energy screen.  It can only be deactivated from SL1-8.
 	* Six corpses lie near the entrance, some scorched, others appear roasted, and one desiccated.
 		* Imperial field plate +1, leather armor +2; short sword +3; broadsword +1; mace of dispelling; a charred leather pouch with 20 pearls (100 gp each); a piece of white plasteel on which is etched (with a laser) a fairly accurate image of the door leading from 5-46 to 5-52, with a subsequent piece of graffiti in the form of an arrow pointing to the correct icon that allows safe entrance to 5-52 (see 5-46 for this door).
+			* "Declining sequence to open, avoid mis-entering at all costs."
 * Light Beams
 	* Depending on the actions of visitors in SL1-3, 5' wide beams of red, yellow and/or blue light may be shining into the chamber through the elevated tunnels
 		* Carbon-based life that touches a beam takes 4d6 damage per round.
@@ -105,8 +106,17 @@ Access and Egress
 	* Red: +1d4 fire damage to attacks and may ignite combustibles
 	* Orange: +1d12 explosive damage to attacks w/ 20' radius
 
-3 lumens: SZ M; AL N; AC 2; MV 180’ flying (Class A); HD 9; HP 43, 39, 37; #AT 1; Dmg 1-4, or 2-8, or 3-12, or 4-16; MR 25%. Special attacks: blindness (2/turn). Special defenses: +2 or better weapons to hit; immune to light and optical effects.
+3 lumens: SZ M; AL N; AC 2; MV 180’ flying (Class A); HD 9; HP 43, 39, 37; #AT 1; Dmg 1-4, or 2-8, or 3-12, or 4-16; MR 25%. 
+* Special attacks: blindness (2/turn, blind 3 rnds).
+	* shift between IR, visible, and UV (1/3rd chance each)
+* Special defenses: +2 or better weapons to hit; immune to light and optical effects (illusions, blindness, etc).  +2 damage per die from electricity
 * Slain lumens drop 6" octagonal crystals (50 gp) which can be used to access SL1-8.
+
+atk 21, def 18
+X / 43
+X / 39
+X / 37
+
 
 #### SL1-5: Yellow Chamber
 
@@ -134,7 +144,7 @@ Access and Egress
 	* A narrow corridor and stairs once led to SL1-2 but is now a pile of slag and collapsed rock, and so the chamber is accessible only through the secret doors from SL1-5 and SL1-7. 
 	* A steep, staircase leads down 20’ to SL1-4.
 		* The end (at SL1-4) is blocked by a force wall placed by Liut-Repp, easily passed through from the north (SL-8), but not the south (SL-4).
-			* (Nah) A rune is painted on the wall next to the doorway.  Disrupting the rune disables the force wall.
+			* An on/off button is in the wall next to the doorway.
 	* A red plastic console sits against the south wall.
 		* Above the console are three hexagonal plasglass view screens, each starred and broken (as if hit by a hammer).
 	* Four man-sized lumps of melted plastic, wiring, and electronics are the remains of some destroyed advanced technological equipment.
@@ -191,11 +201,15 @@ Transposer, wearing the form of a rudishva: SZ M; AL N; AC 7; MV 150’; HD 6; H
 
 #### SL1-10: Portal to Ethereal Plane
 
+white / silver / mist portal to elemental air
+
 * At the point of this arrow-shaped chamber a 5’-diameter portal of purple energy hovers in the air.
 	* The unsealed portal has no depth on this plane and is set at a 45-degree angle. It leads to the Ethereal Plane.
 	* A 4’-tall glyph (Rudishva, "Ethereal") is incised into the east wall and filled with platinum.  Next to it has been hurriedly scribed in some red substance a set of smaller glyphs (Rudishva, “Vaporous Curtain to the Deep at 30-degrees from Turquoise Veil.”)
 
 #### SL1-11: Portal to Astral Plane
+
+yellow / golden portal to astral
 
 * At the point of this arrow-shaped chamber a 5’-diameter portal of yellow energy hovers in the air.
 	* The unsealed portal has no depth on this plane and is set at a 45-degree angle. It leads to the Astral Plane.
@@ -213,6 +227,7 @@ Transposer, wearing the form of a rudishva: SZ M; AL N; AC 7; MV 150’; HD 6; H
 			* Opening the casket of a living member pulls their soul back from the Astral.  It takes 1-2 Turns to recover enough for speech or action.
 	* A crumbling, decrepit wooden chest sits in the corner.
 		* Inside are 20 20-lb platinum ingots (5,000 gp each).
+			* Misc treasure (20,000 gp)
 		* Various desiccated / rotted bits of adventuring gear, decades old.
 
 Caskets
@@ -245,13 +260,34 @@ Caskets
 	* The crystal-jacked elves discovered this laboratory and the dead researcher's theories about using arcanum and optical-planar properties for propulsion.  They were aware of the legend of Horus's death and were able to triangulate where they believed the god-corpse could be found in the astral.  Using the projection caskets, a group led by Vesh-Lok launched an expedition to obtain some of the vast arcanum deposits that must exist within Horus's veins.
 	* The team was ambushed and trapped inside Horus’s body by perils. As time works differently in the Astral, their many years of Prime Material captivity has only lasted a few years for them in the Astral.  During this ordeal, two members were slain. The other four are still alive and trapped in the Astral Plane.
 	* A returned explorer immediately tries to open the other caskets with his signet ring.
+	* 
 	* Vesh-Lok and team might welcome aid retrying their expedition, although they now recognize how dangerous it is and won't try again immediately.
 		* They are cagey about exactly who they area, what they know, and what their goal is.
 		* They will offer to "reawaken" any elves in the party with crystals and invite them to join their endeavor, but won't insist.
 		* They might take up position in Gosterwick as an adventuring party, or they may retreat to the Fenns for now.
 	* Should intruders slaughter the explorers, there may be more of the crystal-jacked elves out there, who could prove implacable and dangerous enemies thereafter.  They would seek to recover the special astral items held by Vesh-lok’s team.
+	* 
+	* 
+	* There was no "Horus corpse" plot thread.  The elves were trying to access Rudish via the astral plane to call for help.  This was an early idea of the rudishvan scientists that was explored at the Tombs of Light, but abandoned.  The elves attempted it again, without success.
 
-Up to 6 mihstu: SZ M; AL NE; AC -2; MV 60’, 60’ flying (Class B); HD 8+2; HP 61, 57, 53, 51, 49, 48; #AT 4; Dmg 2-7/2-7/2-7/2-7; MR 10%. Special attacks: drain CON. Special defenses: +2 or better weapons to hit; immune to electricity and all missiles (including magic missiles); stunned for 2-12 rounds by cold attacks.
+* The octagonal sigil ring is made from lumen crystal
+
+Hybridization
+* most of the available medpods were moved to the Fenn's facility
+* using human genetic material, arcanum, and Psalor-Ki's blood techno-sorcery, rudishva were able to link their souls the life force of this planet, transforming into quasi-humans, gaining primal magic, but forced to eschew tech
+	* rudishvan genetically engineered receptivity to cybernetic implants, the channels in their bodies, where repurposed by Psalor-Ki to receive the primal energies, but it required eschewing implants and tech, which disrupted the link to the energies and would have allowed the disease to keep progressing.
+	* the energies would protect the hybrid from the ravages of the heqeti plague, which was targeted to the xeno-biology of the rudishva who lacked any arcane "immune system", once the heqeti had the necessary lore to target them (via the kaliyani betrayal).  Local life such as humans did have such things, and were not so universally vulnerable.
+* the rudishva, knowing they were abandoning their tech and old lives, made many data memory recordings.
+	* the explorer elves found this and tried to access these "ancestral memories", accepting the implants.  They are now overwhelmed by a blended "racial" memory of the rudishva.
+* elves are not vulnerable to the heqeti plague anymore, being well and thoroughly mixed with humanity and acquiring native immunity; so the cyberelves aren't at risk.
+	* they see themselves as having reclaimed the "true" heritage of their people, and will seek to further it.  many elves will likely regard this is as perversion.
+
+
+
+
+Up to 6 mihstu: SZ M; AL NE; AC -2; MV 60’, 60’ flying (Class B); HD 8+2; HP 61, 57, 53, 51, 49, 48; #AT 4; Dmg 2-7/2-7/2-7/2-7; MR 10%. 
+* Special attacks: drain CON.
+* Special defenses: +2 or better weapons to hit; immune to electricity and all missiles (including magic missiles); stunned for 2-12 rounds by cold attacks.
 
 Grimkel
 Jalalbak, a niravairi (see new monsters) and a subadar in the Order of Planar Explorers, as a 12th-level magic user: SZ M; AL LN; AC 4; MV 120’; HD 12; HP 36; #AT 1; Dmg 2-7 
@@ -282,6 +318,8 @@ Mananik, a niravairi (see new monsters) and a duffadar in the Order of Planar Ex
 
 #### SL1-12: Sealed Portal to the Abyss
 
+black-purple portal, triple sealed, to abyss
+
 * At the point of this arrow-shaped chamber a 5’-diameter portal of purple energy hovers in the air.  It is sheathed in a shiny, clear coating.
 	* The portal has no depth on this plane and is set at a 45-degree angle. It leads to the Abyss.
 	* A 2’-diameter silver disk floats next to the portal, with a 1" octagonal depression in the center.
@@ -295,6 +333,8 @@ GM Note: a dimensional flaw exists to be made into a portal due to the long heqe
 HN 30%, CW 98%, RL 45%. Special attacks: gaze acts as ray of enfeeblement; backstab as 9th-level thief; fear (by touch only). Special defenses: half damage from cutting and stabbing attacks (20% corrode metal weapon, save vs acid; d6 to flesh); half damage from cold, electricity, fire and gas. Special: cause darkness 5’ radius; levitate (as 10th-level magic user); fly (as 11th-level magic user); dispel magic user (as 12th-level magic user); polymorph self; heat metal (as 14th-level druid); gate in a babau demon (25% chance).
 
 #### SL1-13: Portal to Order of Planar Explorers
+
+amber portal to elemental earth, sealed
 
 Revamp
 * At the point of this arrow-shaped chamber a 5’-diameter portal of topaz-yellow energy hovers in the air.  It is sheathed in a shiny, clear coating.

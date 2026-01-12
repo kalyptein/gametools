@@ -32,7 +32,7 @@ Access and Egress
 * Teleport destinations on Sub-Level 4:
 	* SL4-53: from teleport pillar at 4-167
 
-## Sub-Level 4: 1 - 15
+## Sub-Level 4: 1 - 15 (Upper)
 
 ### SL4-1: Tunnel to the Upper Halls
 
@@ -376,6 +376,7 @@ Rizzit, a lucern demon (see new monsters): SZ L; AL CE; AC -3; MV 90’; HD 8+8;
 		* Desk: an ivory and bronze statuette of a dancing houri (250 gp); a slim manuscript of high-quality original poetry (250 gp) by Sorrow herself "A Lover’s Lament" (the title page attributes the work to Aelia of Perros – for her, see Green are My Lover’s Eyes in Arden Vul books). 
 			* A letter in progress reads “Discord has gone too far and is living up to his name. The Master’s motive in letting him undermine my work here is opaque. He is banished to the Knight’s Rest. More efforts to shore up the pitiful goblins are needed.” (GM Note: ‘Discord’ refers to Sir Discord, another of the Sun-Scarred Knights, currently holed up in the Knights’ Rest, i.e., 8-116)
 		* Fine Armoire (100 gp): a pair of high-quality silk robes, decorated with female warriors defeating hydras (75 gp each); a red-and-yellow cap of serenity (new); a pair of thigh boots of heqeti hide (40 gp); and a feather boa (15 sp).
+
 * Sorrow is in her chamber (50%), in SL4-23 (25%), elsewhere in the Goblin Warrens (20%), or in some completely different location (5%). 
 	* Those entering unannounced or uninvited are greeted by her varlet, Huguette, who leaps to her feet to demand the reason for intrusion.
 	* 20% chance Sorrow is intrigued by the visitors and allow them to remain, otherwise Huguette demands immediate exit, using persuasion, then threats, and ultimately force. Sorrow allows Huguette to conduct all negotiations unless violence breaks out, at which point she comes to the defense of her varlet.
@@ -657,7 +658,7 @@ Vingrim the Surly, commander of the goblin royal guard (as gnoll): SZ M; AL LE; 
 	* Among the cloud caps and white ribs are 8 aqua vitae mushrooms (see flora for all).
 	* Buried in the mulch: a plasteel box of six Arden Vul cakes (av items) and a rudishva fire extinguisher (tech).
 
-## Sub-Level 4: 31 - 45
+## Sub-Level 4: 31 - 45 (Lower)
 
 ### SL4-31: Blocked Tunnel, eventually leading to SL5-24
 
@@ -830,8 +831,6 @@ Lake, a male Thorcin merchant from Narsileon whose debts led to his imprisonment
 	* (25%) King Weskenim, accompanied by Palestrim, Skimmel, Reeflik and a eunuch ogre guard – see SL4-22 for stats for all.
 
 3 groups
-* Nicetas the bailiff and 10 soldiers from Lord Burdock
-	* seeking goblin allies for the regalia search, and to hinder Alexia's seekers (those without a writ?)  Promises of trade agreements with Burdock, aid against the Varumani (tempting, but Weskenim is hesitant)
 * 6 lesser varumani
 	* sell goods (spell scrolls) and secretly Subvert King Weskenim (SL4-22) or his ministers
 	* they're interested in Nicetas and his envoy as well; both for themselves and in relation to Weskenim
@@ -839,6 +838,10 @@ Lake, a male Thorcin merchant from Narsileon whose debts led to his imprisonment
 	* resupplying at the market
 	* looking to buy or sell info (keeping tabs on the goblin/varumani sitch, know about the goblin sceptre; know it's s slave-rod, seek it to turn the goblins to heqeti service)
 	* abduct someone (Sir Sorrow and/or A Priscian) - both are interlopers in the deep
+* 5 doppelgangers
+	* disguised as human guards for a merchant ("Borsson of Frith’s Hearth"), investigating the possibilities of trade in antiquities, curios, etc from Arden Vul
+	* actually seeking new bases of operations in the Halls, after the loss of the Forum.
+
 6 merchants
 
 
@@ -900,7 +903,7 @@ Tredgeris the Dapifer, with 3 guardsmen (see 6-75). He is trying to recruit team
 Tredgeris, see stats at 6-75. 
 
 3 male Thorcin arena guardsmen, as 2nd-level fighters: SZ M; AL NE; AC 6; MV 60’; HD 2; 
-HP 18, 17, 15; #AT 1; Dmg 1-8 (long sword) or 1-6 (spear) or 1-4 (light crossbow). Possessions: scale mail; long swords; spears; light crossbow and 20 bolts; purse with 33 sp and 9 gp each. In addition to their mail byrnies, and simple helmets, they wear a light green surcoat em-blazoned with a black image of a six-sided die
+HP 18, 17, 15; #AT 1; Dmg 1-8 (long sword) or 1-6 (spear) or 1-4 (light crossbow). Possessions: scale mail; long swords; spears; light crossbow and 20 bolts; purse with 33 sp and 9 gp each. In addition to their mail byrnies, and simple helmets, they wear a light green surcoat emblazoned with a black image of a six-sided die
 
 3
 
@@ -1183,6 +1186,10 @@ GM Note
 * The adventurers are searching for specimens of the rare midnight rose flower (flora).
 	* They got in a verbal argument with the goblins concerning the treatment of their animals (e.g., the giant badgers at SL4-50), and so the goblins arrested them.
 	* Weskenim (SL4-22) is trying to decide what to do about the visitors. 
+
+* They are elves, recently from the Burdock Valley fastness, seeking botanical marvels from the Halls.
+	* They know/are known to Primal Vengeance, but aren't members.
+
 
 Fedolcin, 6th-level male half-elf druid: SZ M; AL N; AC 8; MV 120’; HD 6; HP 37; #AT 1; Dmg by weapon. Abilities: STR 11; INT 13; WIS 17; DEX 16; CON 10; CHA 15. Prepared spells: animal friendship, detect magic, entangle, faerie fire, invisibility to animals, speak with animals; barkskin, charm person, create water, cure light wounds, locate plants; hold animal, neutralize poison, summon insects; animal summoning I. 
 

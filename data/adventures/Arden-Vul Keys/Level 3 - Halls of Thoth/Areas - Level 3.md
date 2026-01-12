@@ -3587,7 +3587,7 @@ Deino, semi-immortal female enchantress: SZ M; AL LE; AC 2; MV 120’; HD 6; HP 
 * Possessions
 	* Deino’s ring (new): gold band set with huge opal
 		* Protection from normal missiles, Immune to hold
-		* 2/day haste
+		* 2/day haste (1)
 		* Tied to her lifeforce; if she dies, it loses its power after 60 - 90 days.
 	* A pearl necklace of invisibility (new)
 		* 1d10+10 pearls, eat once and turn invisible
@@ -3598,6 +3598,12 @@ Deino, semi-immortal female enchantress: SZ M; AL LE; AC 2; MV 120’; HD 6; HP 
 	* at will: audible glamer, change self, detect illusion, detect invisibility, detect magic, and hypnotism ().
 	* 3/day (as 7th-level illusionist): blur (), dispel illusion, hypnotic pattern (), invisibility (), magic mouth, phantasmal force (), improved phantasmal force (), non-detection (), and suggestion ().
 	* Can cast magic-user or illusionist spells from scrolls.
+
+0 / 38
+blind 1
+deaf 3
+
+25 / 25 ex-zombies
 
 
 Deino the Witch

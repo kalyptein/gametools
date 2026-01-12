@@ -182,15 +182,15 @@ Prep
 New Adventuring Companies
 * The Falcon's Five (room 3-214)
 	* Roscoe, Trillip, Iris, Azgallatu (setite captive)
+* Sigeric's Tech-Elves
+* Ladies of Misrule
+
+
+maybe the ogres aren't made by goblins, they are a goblinoid variant created back in the day, living in Level 7 (8?) and recruited by various factions?
 
 intended path
 * 
 * ready
-	* Deal with Deino
-	* Finish restoring Arden and Vul, do the rituals
-	* Experiment with level addresses
-	* SL 15
-	* SL 1
 	* SL 11 (wrap up)
 	* Level 3 (wrap up)
 	* Level 4 (wrap up)
@@ -205,8 +205,8 @@ intended path
 	* SL 7
 * bulletized
 	* SL 9
+	* Level 6
 * TBD
-	* Level 6 (underway)
 	* Level 7 (underway)
 * ready
 	* SL 13
@@ -218,48 +218,12 @@ intended path
 	* Level 9
 * bulletized
 	* Level 10
-* 
-* 
 
 
 
-
-* Level 3 - beastman complex 
-* 
-* SL-4
-* Setite hit team
-* 
-* SL-9
-* 
-* SL-6
-* Level 6
-* SL10
-* 
-* Level 7
-
-* Below Upper
-	* Level 3
-		* entities
-			* beastman casters
-		* dressing
-			* Beastman Complex
-				* 3-138, 3-140, 3-141, 3-142
-				* 3-144
-				* 3-146, 3-147
-				* 3-148
-				* 3-149
-				* 3-150
-				* 3-151
-				* 3-152
-				* 3-153
-				* 3-154
-				* 3-156
-				* 3-158
-				* 3-161, 3-161a
 
 * Below Lower
 	* Level 6
-		* bulletize
 		* entities
 		* dressing
 	* SL-4
@@ -267,32 +231,20 @@ intended path
 		* entities
 			* -23 visitors and court
 			* -40 a-f lots of people
-			* -41 prisoners
 			* -44 priscians
 		* dressing
-			* -10
-			* -16
 			* -17, -18
-			* -19
 			* -20, -21
 			* -22
-			* -23
-			* -24, -25, -26
-			* -27
+			* -24, -25
 			* 
-			* -32, -33
-			* -34
+			* -33
 			* -38
 			* -39 
 			* -40 a-f, -41, -42
-			* -44
 			* -46
 			* -47
-			* -48
-			* -49
-			* -54
 			* -56, -57, -59, -60
-			* and onward
 	* SL-6a (upper)
 		* B: clear up overpasses, missing secret doors?
 		* entities
