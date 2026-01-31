@@ -1201,7 +1201,7 @@ D8 Noise/Effect
 
 * The wall of the chasm here is covered with creepers (benign) which conceal the opening to this tomb (detect as concealed).
 * The entrance is a circular stone, 10’ in diameter.
-	* On it is carved the rudishva glyph for protection, along with some rough letters (Archontean): “Artax-Ris does not wish to be disturbed.”
+	* On it is carved the rudishva glyph for protection, along with some rough letters (Mithric): “Artax-Ris does not wish to be disturbed.”
 	* Depressing the protection glyph causes the entire disk of stone will roll to the right, opening the tunnel into the tomb.
 		* Touching the glyph with flesh or metal triggers an electric discharge (3d6 damage), 20' radius.  Cloth or other material is safe to use.
 		* After 1 hour the disk will grind shut.
@@ -1398,7 +1398,7 @@ Thoth, the Wise Arbiter:
 	* Chips of stone fly for several rounds, then Thoth commands (Mithric): “Halt!”
 	* The statues stop in mid assault, and Osiris drops his flail to the floor.
 	* Thoth intones “One with wisdom must choose!”
-		* If someone picks up the flails, the lion-head of Sekhmet comes to life and attacks them (Archontean animated construct).  Their companions are magically held for the length of the combat.
+		* If someone picks up the flails, the lion-head of Sekhmet comes to life and  attacks them (Archontean animated construct).  Their companions are magically held for the length of the combat.
 			* If they die, Thoth again shouts “Halt!” and they are revived, but lose 5 HP permanently.  If they prevail, Thoth grants them +3 HP permanently.
 	* After Thoth’s judgment, the statues return to their positions.
 		* A victor may keep the flail (flail +1) and a new one will appear in Osiris’s hand. If defeated, the flail returns to Osiris’s hand.
@@ -1425,6 +1425,7 @@ X / 27
 
 X / 31
 
+X / 64
 ## Level 3: 46 - 60
 
 ### 3-46: Larel One-Eye
@@ -1491,7 +1492,7 @@ Larel's Ashen Urn
 	* Entering the fire deals 3d6 damage and the elemental may freely attack all present.
 * If one speaks “Thoth Reigns Triumphant” (any language), they can safely enter the flame.
 	* Doing so, the elemental will allow them to take the key and speaks telepathically: “Thoth values your love. Do you wish to be cleansed or to be transported?”
-		* Thinking or saying “cleansed”: granted a gift (cure of all damage and removal of all curses and afflictions), permanent +1 Int, or seven tattoo icons appear, each can be triggered for a day of 20% magic resistance).
+		* Thinking or saying “cleansed”: granted a gift (cure of all damage and removal of all curses and afflictions), permanent +1 Int, or seven tattoo icons appear,  each can be triggered for a day of 20% magic resistance).
 			* Cleansing can only be gained once, ever.
 		* Thinking or saying “transported”: they and those who follow after them are transported immediately to the legendary City of Brass on the plane of fire.
 			* May be used repeatedly.
@@ -1511,6 +1512,11 @@ Larel's Ashen Urn
 
 6 enhanced Archontean animated constructs - spearmen (see new monsters): SZ M; AL N; AC 2; MV 60’; HD 8; HP 61, 58, 55, 53, 50, 49; #AT 1; Dmg 5-10; MR 25%. Special defenses: immune to elemental magic, poison, and mind-affecting spells; +1 or better weapons to hit; half damage from slashing or piercing weapons. These constructs are slightly more powerful than the run-of-the-mill variety.
 
+0 / 58
+0 / 55
+0 / 53
+0 / 50
+0 / 49
 ##### 3-50a: Stairs Up to AV-19
 
 * This narrow staircase rises 350’ through several landings to the basement of a ruined palace in the city of Arden Vul (AV-19).
@@ -2128,7 +2134,7 @@ DEX 10; CON 15; CHA 13.
 	* The walls are still decorated with scenes of skiffs moving over dark waters, poled by humans and ibises.
 	* Bits of equipment from slain adventurers litter the floor.
 		* a sack (solid gold ibis (750 gp), 4 aquamarines (100 gp each), and 239 ancient silver pennies); a fine short sword +1, a potion of human control, a scroll of protection from petrification, and a pair of Thorstein’s oculae (new).
-	* The door leading to 3-88 is spiked shut on the side of 3-88. 
+	* The door leading to 3-88 is spiked shut on the side of 3-88.
 	* A wight lurks in this chamber, along with three zombies.
 
 1 wight: SZ M; AL LE; AC 5; MV 120’; HD 4+3; HP 27; #AT 1; Dmg 1-4. Special attacks: energy drain. Special defenses: silver or magic needed to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
@@ -2607,7 +2613,9 @@ Setites have laid multiple heavy stone slabs over the hole down to the catacombs
 	* Secret Door (southeast): easy to locate (1 in 4 chance); a key in the mummy’s sarchophagus fits a small hole in the rock, unlocking the door.
 
 Tuolicha, a mummy: SZ M; AL LE; AC 2; MV 60’; HD 6+3; HP 41; #AT 1; Dmg 1-12. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, paralysis. 
-* Possessions: torc of protection (new).
+* Possessions: two-handed sword +1, +3 vs heqeti, torc of protection (new).
+
+35 / 41
 
 ### 3-117: Dripping Chamber, with Well to 5-104
 
@@ -3300,9 +3308,7 @@ Currently the beastmen have only a few creatures in detention:
 Ysabel Ligareon, 4th-level female Archontean cleric of Mitra: SZ M; AL LG; AC 10; MV 120’; HD 4; HP 18 (max 26); #AT 1; Dmg by weapon. Abilities: STR 15; INT 15; WIS 17; DEX 10; CON 9; CHA 11.
 * A representative of one of the powerful noble Five Families (see World of Archontos appendix), Ysabel’s normally firm belief in her own invincibility is beginning to waver.
 
-Rolf, 2nd-level male Wiskin ranger: SZ M; AL CG; AC 10; MV 
-120’; HD 2; HP 11 (max 20); #AT 1; Dmg by weapon. Abilities: 
-STR 16; INT 15; WIS 15; DEX 10; CON 15; CHA 12.
+Rolf, 2nd-level male Wiskin ranger: SZ M; AL CG; AC 10; MV 120’; HD 2; HP 11 (max 20); #AT 1; Dmg by weapon. Abilities: STR 16; INT 15; WIS 15; DEX 10; CON 15; CHA 12.
 * A member of an adventuring party that entered the upper Halls, Rolf got separated from his crew and was swiftly overwhelmed. He has been tortured and is in bad shape. If desired, the GM could link him to any good-aligned party from the NPC appendix.
 
 Thomas, a Set acolyte (see new monsters), as a 3rd-level Archontean cleric of Set: SZ M; AL LE; AC 4; MV 60’; HD 3; HP 5 (max 17); #AT 1; Dmg by weapon.

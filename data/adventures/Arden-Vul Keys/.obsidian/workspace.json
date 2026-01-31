@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SL1 - Tombs of Light/Areas - SL1.md",
+                "file": "SL12 - Workshops of Kerbog Khan/Areas - SL12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Areas - SL1"
+              "title": "Areas - SL12"
             }
           },
           {
@@ -90,9 +90,37 @@
               "icon": "lucide-file",
               "title": "Factions & Notables"
             }
+          },
+          {
+            "id": "24f98584657aa149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 3 - Halls of Thoth/Areas - Level 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Areas - Level 3"
+            }
+          },
+          {
+            "id": "ef11941139d63e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 7 - Court of the Troll Thegn/Areas - Level 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Areas - Level 7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AT",
+                "query": "gog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +174,7 @@
             }
           },
           {
-            "id": "be31434bd466ae6b",
+            "id": "c3e8dedc3ca95cd9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 7 - Court of the Troll Thegn/Areas - Level 7.md",
+                "file": "World/Chronicle/Plot Threads.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Areas - Level 7"
+              "title": "Outline of Plot Threads"
             }
           }
         ],
@@ -249,35 +277,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebb47557d03277ca",
+  "active": "83d5b943f8e3742f",
   "lastOpenFiles": [
     "TODO.md",
+    "Level 7 - Court of the Troll Thegn/Areas - Level 7.md",
+    "Level 6 - Troll Lifts & Arena/Areas - Level 6.md",
     "_Notes_/Factions & Notables.md",
+    "World/Chronicle/Plot Threads.md",
+    "Level 3 - Halls of Thoth/Areas - Level 3.md",
+    "Level 5 - Obsidian Gates & Midnight Road/Areas - Level 5.md",
+    "Level 6 - Troll Lifts & Arena/Encounters - Level 6.md",
+    "Level 4 - Forum of Set/Areas - Level 4.md",
+    "Level 8 - Nether Reaches/Areas - Level 8.md",
+    "Level 2 - Howling Caves & Well of Light/Areas - Level 2.md",
+    "SL12 - Workshops of Kerbog Khan/Areas - SL12.md",
+    "SL11 - Tomb of Isadora/Areas - SL11.md",
+    "SL11 - Tomb of Isadora/Map - SL-11 - The Tomb of Isadora DM.PNG",
+    "SL1 - Tombs of Light/Areas - SL1.md",
+    "SL15 - The Druid's Retreat/Areas - SL15.md",
+    "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
     "SL4 - Goblin Warrens/Areas - SL4.md",
+    "Arden-Vul Ruins (AV)/Areas - Arden-Vul Ruins.md",
+    "Level 3 - Halls of Thoth/Encounters - Level 3.md",
     "World/Gazetteer/Irithuin.md",
     "World/World of Magae.png",
-    "SL1 - Tombs of Light/Areas - SL1.md",
-    "Level 7 - Court of the Troll Thegn/Areas - Level 7.md",
-    "World/Chronicle/Plot Threads.md",
-    "Level 5 - Obsidian Gates & Midnight Road/Areas - Level 5.md",
-    "Level 3 - Halls of Thoth/Areas - Level 3.md",
     "SL14 - Chamber of the Beacon/Areas - SL14.md",
     "World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Gosterwick ; Vetuaster/Gosterwick ; Vetuaster.md",
     "World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Burdock's Valley ; Vale of Burgheat.md",
     "SL2 - Hall of Shrines/Areas - SL2.md",
     "SL2 - Hall of Shrines/Encounters - SL2.md",
     "World/Culture/Religion.md",
-    "Level 6 - Troll Lifts & Arena/Areas - Level 6.md",
-    "Level 4 - Forum of Set/Areas - Level 4.md",
-    "Level 2 - Howling Caves & Well of Light/Areas - Level 2.md",
     "World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Map - Burdock's Valley DM.png",
-    "World/Gazetteer/The World.md",
-    "World/Gazetteer/Narsileon.md",
-    "World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Castle Burdock/Castle Burdock.md",
-    "Arden-Vul Ruins (AV)/Areas - Arden-Vul Ruins.md",
-    "SL1 - Tombs of Light/Encounters - SL1.md",
-    "SL15 - The Druid's Retreat/Areas - SL15.md",
-    "World/Culture/Cultures.md",
     "World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Map - Burdock's Valley Players.png",
     "Tags",
     "Arden-Vul Ruins (AV)/Map - AV City Ruins DM.png",
@@ -288,7 +318,6 @@
     "_Notes_/Common Travel Times.png",
     "Level 4 - Forum of Set/Map - Level 04 - The Forum of Set DM.png",
     "World/Ennian Calendar.png",
-    "SL10 - Hold of the Sun-Scarred Knights/Map - SL-10b - Citadel of the Sun-Scarred Knights DM.PNG",
     "SL5 - Lizardman Caves/Kentillian's Chambers_93x25.png.crdownload",
     "SL5 - Lizardman Caves/Kentillian's Chambers.ds.crswap",
     "SL5 - Lizardman Caves/Kentillian's Chambers.ds",

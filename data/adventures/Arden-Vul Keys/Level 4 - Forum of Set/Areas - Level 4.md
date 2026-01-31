@@ -2191,6 +2191,8 @@ Lacedaion (50%), Set pontifex (see new monsters), as a 9th-level male Archontean
 Maris the succubus, posing as Herbert the deacon: SZ M; AL CE; AC 0; MV 120’, 180’ flying (Class C); HD 6; HP 40; #AT 2; Dmg 1-3/1-3; MR 70%. Constant abilities: infravision. Special attacks: energy drain; charm person; suggestion. Special defenses: +1 or better weapons to hit; half damage from cold, electricity, fire, and gas. Special: cause darkness 5’; become ethereal; ESP; clairaudience; shape change; gate (40% chance).
 * Possessions: sword +2, chaos blade (new) 
 
+X / 40
+
 3 wights: SZ M; AL LE; AC 5; MV 120’; HD 4+3; HP 33, 29, 27; #AT 1; Dmg 1-4. Special attacks: energy drain. Special defenses: silver or magic needed to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
 
 ### 4-59: Shadowy Trouble
@@ -2206,6 +2208,7 @@ Maris the succubus, posing as Herbert the deacon: SZ M; AL CE; AC 0; MV 120’, 
 	* Secret Door (south, to 4-58, locked): easy to detect (1 in 4) due to the hammer marks that cover it.  The sole key is held by High Priestess Stephania (4-51).
 * Lying on the pavement are the long-rotted, desiccated, and sometimes gnawed remains of the entombed.
 	* Amid the bones of one is a short written testimonial (in Goblin Runic) describing the last days of the slaves.
+		* Last Testament of Grik
 
 14 shadows: SZ M; AL CE; AC 7; MV 120; HD 3+3; HP 24, 23, 22, 21, 20(x3), 19(x3), 18, 18, 17, 16; #AT 1; Dmg 2-5. Special attacks: STR drain. Special defenses: 90% undetectable; +1 or 
 better weapons to hit; immune to sleep, charm, hold, and cold. 
@@ -2358,6 +2361,7 @@ armor (see Arden Vul items); footman’s mace; light crossbow; acolyte’s was s
 	* Some shapeless lumps of stone nearby are probably the rest of the statue.
 	* Digging into the sand to find the statue’s base, reveals a circular pavement 12’ in diameter set with a beautiful mosaic of pastoral subterranean scenes: lizards, mushrooms, bats, sarcophagi, altars, etc.
 	* The base of the statue reads (Mithric): “Chibalba, lord of the Deeps, watches over these caves. Summon him if thy need is great.”
+		* Anubis
 * Chibalba, guardian of the underworld, was also in antiquity associated with subterranean life and protection.
 	* Standing on the mosaic and reciting Chibalba’s name three times in a row, or declaiming “I summon thee, Chibalba!”, calls his avatar (once per month).
 	* It speaks (Mithric), describing the aid it will lend (depends on the invoker's need) in a solemn, deep voice, then does not speak again.
@@ -2422,8 +2426,16 @@ X / 43
 	* Secret Door (north): opens as a stuck door.
 * Four heqeti hoppers are stationed here, gathering intelligence about this part of the Halls.
 
-4 heqeti hoppers (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 28, 26, 24, 22; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
+4 heqeti hoppers (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 28, 26, 24, 22; #AT 2; Dmg 2-7 (spear), 1-6 (bite).
+* Special attacks: hop (20' leap every other round: +1 attack 2x spear dmg, save vs paralysis or prone); +1 to damage due to STR; toxic skin (save vs paralysis for 1-2 rounds).
+* Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice spells.
+* Fire: -2 save, +1 dmg/die
+* Light: -1 in bright light
 
+X / 28
+X / 26
+X / 24
+X / 22
 ##### 4-74a: Dead End Cave?
 
 * A set of rough-carved stairs leads up from 4-73 to this small cave.
@@ -3089,13 +3101,13 @@ X / 68
 	* The chasm is home to a small community of chasm cephalopods (those slain elsewhere (e.g., 4-119, 4-120) should be subtracted from this total).
 * Note: If the submerged door at AV-39 has been opened, and the southern portion of the swamp drained, the chasm at 4-121 will contain much more water, its level only 30’ below the bridge (4-120a) and landings (4-119 and 4-120).
 
-The treasures in the chasm are hard to locate, and explorating attracts the ghouls.  Some discoveries include:
+The treasures in the chasm are hard to locate, and exploring attracts the ghouls.  Some discoveries include:
 * A 1’-diameter sphere of platinum inset with jet, garnet, and ivory realistically depicting the continents and islands of Magae (5,000 gp)
 * Scattered coins: 119 ancient silver pennies and 71 ancient gold solidi, 53 sp, 27 gp, and 9 pp.
 * A crude statuette of a penguin carved from volcanic rock, with two huge jet gems for eyes (250 gp each for the gems, 650 gp for the statuette)
 * A metal shield +2
 * An icon of kauket (new)
-* Acursed blacklight torch (new)
+* Accursed blacklight torch (new)
 * A scrying ball hidden inside a clay jar (new)
 * A wand of alignment detection (43 charges) (new)
 * An obsidian skull of comprehension (new).

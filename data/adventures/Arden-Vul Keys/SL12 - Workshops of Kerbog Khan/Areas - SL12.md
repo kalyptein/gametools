@@ -239,7 +239,7 @@ Using the Surgical Theater Console
 d100 Function Effect
 * 01-10
 	* Permeability, surgical theater
-	* Allows something or someoneto be popped through the medicaderm shield
+	* Allows something or someone to be popped through the medicaderm shield
 * 11-13
 	* Permeability, sterile recovery suite
 	* Allows access or egress through the medicaderm of the southern recovery suite (thus releasing the space squid - see below)
@@ -326,13 +326,19 @@ d100 Function Effect
 
 2 invisible stalkers: SZ L; AL N; AC 3; MV 120’; HD 8; HP 60, 50; #AT 1; Dmg 4-16; MR 30%. Special attacks: surprise on 1-5. Special defenses: invisibility.
 
+X / 60
+X / 50
+
 The Giatros, a unique automaton of Kerbog Khan (see new monsters): SZ M; AL N; AC 2; MV 90’; HD 8+8; HP 61; #AT 4; Dmg 1-2/2-5/2-5/3-12; MR 35%. Special defenses: immune to 
 fire, cold and electricity.
 * Two aquamarines (500 gp each).
 
+0 / 61
+
 Gevorda, true varumani (see new monsters): true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 37 (max 57); #AT 3 or 1; Dmg 3-6/3-6/4-10 or by weapon. Special 
 defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
-* Gevorda attempted to bargain with the Khan. Fascinated with her special biological functions, he decided to abduct her instead to study anatomy and blood magic and rudishva biotech. She will aid any attempts to destroy the Khan and end his ‘tyranny’.
+* Gevorda attempted to bargain with (strongarm) the Khan.
+	* Fascinated with her special biological functions, he decided to abduct her instead to study anatomy and blood magic and rudishva biotech. She will aid any attempts to destroy the Khan and end his ‘tyranny’.
 * Gevorda is a half-sister of the troll thegn, Varboka (7-30), and her release would win great favor from the thegn.
 
 1 space squid (see new monsters): SZ L; AL N; AC 3; MV 20’, 120’ flying (Class D); HD 16; HP 109; #AT 7; Dmg 1-8(x6)/6-36; MR 35%. Special attacks: stunning attack; consumption of prey (4-24 HP damage). Special defenses: immune to cold and fire.
@@ -350,7 +356,7 @@ defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic
 	* The hole was bored by Kerbog Khan’s borer automaton (SL12-19).
 	* The tunnel descends in wide spirals to Level 6 (6-161a), the slope steep, but gentle enough to allow bipeds to traverse without slipping (3x difficult terrain).
 * 20’ down from the entry is a 2.5’-wide crack in the tunnel wall which opens into a natural, rough tunnel roughly 4’ in diameter.
-	* This tunnel descends gently over a very long distance to 4-175a.
+	* This tunnel ascends gently over a very long distance to 4-175a.
 
 ### SL12-14: Sick Ward
 

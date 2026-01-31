@@ -198,7 +198,6 @@ A secretive magic user traveling either  to the Troll Market (7-76) or the thegn
 
 Select an appropriate magic user with flunkies from the NPC appendix.
 
-
 Trijax, true varumani (see new monsters): SZ L; AL LN; AC 1; MV 90’; HD 8; HP 61; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail +1.
 
 2 bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 55, 49; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
@@ -225,8 +224,6 @@ Other visitors (1 in 6 chance): see table
 
 * Encounters: 1-in-6 chance every 3 Turns
 * Chasm Color: 1-in-6 chance every 3 Turns
-
-
 
 D100 Encounter
 
@@ -369,28 +366,16 @@ Up to 25 specimens of pink delight, and 3d20+120 delver’s reward nuts (see new
 ### 7-7: North Observation Facility
 
 * An iris door (sky blue or better) leads to this facility.
-
-The interior is also analogous to its counterpart, but is in a better state of preservation. 
-
-An operations and control panel stands against the curved one-way window (north wall); it has numerous dials, knobs, and dark-glass panels.
-
-Slumped against the panel are two dead rudishva in tattered orange jump suits.
-
-Five orange-colored amphibianoid corpses lie amid the plasteel lounge chairs and settees.
-
-The corpses – of heqeti – are now heqeti slime zombies (see new monsters).
-
-Attached to the ceiling are two heqeti slimes (see new monsters). 
-
-While most of the electronics have failed, one knob and screen combination still work.
-
-Turning the knob causes the screen to illuminate and display the upper temple to Kauket (7-78); given the recent heqeti refurbishment of that area, numerous heqeti will be visible in the scene.
-
-Most usefully to the viewer, the screen also bears a flickering set of Rudishva glyphs that read (if translated!): “300’ SSW.”
-
-Treasure:
-One of the rudishva corpses holds a laser pistol (with an empty lesser power supply) and has a sky blue plastic rudishva identity plaque (see new technological items for both). There are two rudishva dart throwers among the debris; they contain clips with 2 and 1 ordinary darts. The other rudishva corpse carries a synthetic pouch with 50 moonstones (60 gp each).
-
+	* The interior is also analogous to its counterpart, but is in a better state of preservation. 
+	* An operations and control panel stands against the curved one-way window (north wall) with numerous dials, knobs, and dark-glass panels.
+		* Slumped against the panel are two dead rudishva in tattered orange jump suits.
+			* #1) laser pistol (empty lesser power supply), sky blue identity plaque
+			* #2) a synthetic pouch with 50 moonstones (60 gp each).
+		* The electronics have mostly failed; one knob / screen combination still works.
+			* Turning the knob illuminates the screen, displaying the upper temple to Kauket (7-78); given the recent heqeti refurbishment of that area, numerous heqeti will be visible in the scene.  The screen bears a flickering set of glyphs (Rudishva): “300’ SSW.”
+	* 5 orange heqeti corpses (now heqeti slime zombies) lie amid the plasteel lounge chairs and settees.
+	* Attached to the ceiling are two heqeti slimes (see new monsters). 
+	* There are two rudishva dart throwers among the debris, with clips holdiong 2 and 1 ordinary darts.
 
 5 heqeti slime zombies (see new monsters): SZ M; AL N; AC 6; MV 60’; HD 4; HP 28, 27, 26, 25, 24; #AT 1; Dmg 2-8. Special attacks: slime infestation. Special defenses: immune to electricity.
 
@@ -402,14 +387,12 @@ victim in 4-7 rounds, then re-animates as a heqeti slime zombie - see new monste
 ### 7-8: Antechamber to the Varumani Hold
 
 * This antechamber is a visitor checkpoint to the varumani domain to the east and south.
+	* Sconces with globes of continual light are attached to the south, east and west walls.
+	* Secret Door (west): a large (9’x4’) door, opens by pulling down the west sconce.
 
-Unusual sconces with globes of ambient continual light are attached to the south, east and west walls.
-
-Three true varumani and two bestial varumani stand guard here at all times; they are 90% likely to attack non-varumani on sight. 
-
-When those with a legitimate need and official approval (from the thegn) to visit the varumani hold appear in the antechamber, one of the true varumani shouts across the chasm for the vibro-bridge to be activated. 
-
-Secret Door (west): This large (9’x4’) door is normal to detect. One opens it by pulling down the sconce on the west wall.
+* 3 true varumani and 2 bestial varumani stand guard here at all times
+	* 90% likely to attack non-varumani on sight.
+	* When those with a legitimate need and official approval (from the thegn) to visit the varumani hold appear in the antechamber, one of the true varumani shouts across the chasm for the vibro-bridge to be activated. 
 
 3 true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 62, 59, 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed swords; ring mail.
 
@@ -417,13 +400,9 @@ Secret Door (west): This large (9’x4’) door is normal to detect. One opens i
 
 ### 7-9: Chasm and Vibro-bridge
 
-A small (50’-deep) chasm separates 7-8 and 7-10.
-
-A rudishva-era vibro-bridge is set between the two worked areas.
-
-When it is extended, it appears as a 2’-wide strip of buzzing blue energy.
-
-Despite its appearance, the bridge is harmless and safe to cross.
+* A small (50’-deep) chasm separates 7-8 and 7-10.
+	* A rudishva-era vibro-bridge is set between the two worked areas.  When it is extended, it appears as a 2’-wide strip of buzzing blue energy.
+		* Despite its appearance, the bridge is harmless and safe to cross.
 
 ### 7-10: Vibro-bridge Control
 
@@ -468,15 +447,12 @@ Head of Tulliaros the polemarch (1,000 gp), with gilded (but usable) Archontean 
 
 ### 7-13: Porch of the Thegn
 
-Beyond the 20’-tall wooden double doors the thegn’s porch looms over the cavern of the troll market (7-76).
+* Beyond the 20’-tall wooden double doors, the thegn’s porch looms 25' above the cavern of the troll market (7-76).
+	* The porch proper is sheathed in marble, with 2 basalt columns carved with images of varumani struggling with heqeti.
+	* It is brightly lit by two rudishva light globes on 6’-tall iron spikes (tech).
 
-The porch proper is sheathed in marble and boasts two basalt columns carved with images of varumani struggling with heqeti.
-
-The porch is 25’ above the floor of the cavern, and is brightly lit by two rudishva light globes mounted on 6’-tall iron spikes (see new technological items).
-
-Despite its impressive appearance, the thegn almost never uses the porch, preferring to use the greeting hall (7-74).
-
-There is a 5% chance that Varboka is here with his six housecarls.
+* Despite its impressive appearance, the thegn almost never uses the porch, preferring to use the greeting hall (7-74).
+	* 5% chance Varboka is here with his six housecarls.
 
 Varboka, the troll thegn (5%): see stats at 7-30.
 
@@ -519,15 +495,12 @@ Chest 3: 4 pieces of ivory from a variety of unusual beasts (225 gp per piece), 
 
 ### 7-15: Larder
 
-The varumani store a wide variety of useful items here.
-
-Numerous dried colossal mushrooms, harvested from the chasm floor, hang from the ceiling, as do already-cured sides of meat.
-
-Stone bins hold the following: salt, barley flour, wheat flour, dried beans, mixed nuts, lard, and oil.
-
-A pair of armoires hold prosaic items, including a 50% chance for any item from the standard equipment list.
-
-Buried at the bottom of the bin of dried beans is a cursed loadstone (stone of weight). 
+* The varumani store a wide variety of useful items here.
+	* Numerous dried colossal mushrooms, harvested from the chasm floor, hang from the ceiling, along with already-cured sides of meat.
+	* Stone bins hold: salt, barley flour, wheat flour, dried beans, mixed nuts, lard, and oil.
+		* Buried under the dried beans is a cursed loadstone (stone of weight). 
+	* A pair of armoires hold prosaic items.
+		* 50% chance for any item from the standard equipment list.
 
 ## Level 7: 16 - 30
 
@@ -610,23 +583,14 @@ Chest 3 is a troll chest (see new technological items) keyed to the hand of Vedr
 
 ### 7-19: Sorcerous Practice 
 
-This space is where the varumani sorcerers hone their spellcraft, mainly by casting spells at each other.
+* Here varumani sorcerers hone their spellcraft, mainly by casting spells at each other.
+	* The walls, ceiling, and floors, bear numerous scorch marks and scars.
+	* Several life-size targets are painted on the walls: 2 kaliyani in different poses, 1  heqeti hopper, and a human dressed in archaic imperial field plate.
+	* The northern niche has a barrel with a variety of charred, snapped, and broken sticks.
+		* One charred stick is actually a rod of beguiling (13 charges).
 
-For obvious reasons the area is bereft of valuables or possessions, since they keep being incinerated, destroyed or otherwise damaged.
-
-Several life-size targets have been painted on the walls: two are kaliyani in different poses, one is a heqeti hopper, and the fourth is a human dressed in archaic imperial field plate.
-
-The walls, ceiling, and floors, bear numerous scorch marks and scars.
-
-The northern niche has a barrel in which a variety of charred, snapped, and broken sticks.
-
-One of the charred sticks is actually a rod of beguiling (13 charges).
-
-Provided they are not required elsewhere, there is a flat 10% chance that the sorcerers are practicing some spells.
-
-If that is the case, the court sorcerer, the first adept, and all the apprentices will be present here.
-
-There is a 10% chance that the court sorcerer, the first adept, and all the apprentices are here (see stats at 7-21, 7-22, and 7-24).
+* If not required elsewhere, 10% chance that the sorcerers are here practicing spells.
+	* If so, the court sorcerer, first adept, and all apprentices will be present here (see stats at 7-21, 7-22, and 7-24).
 
 ### 7-20: Niche with Summoning Circle
 
@@ -777,19 +741,29 @@ A hidden compartment in the frieze holds some valuables. It is activated by loca
 
 ### 7-28: Cave of Grateful Respite
 
-The varumani use this cave for meditation and contemplation. Several benches and stools have been carved into the rock, but otherwise it is rough and natural, with colorful lichens, flowstone, and not a few stalagmites and stalactites. 
+* The varumani use this cave for meditation and contemplation.
+	* Several benches and stools are carved into the rock.  The rest is rough and natural, with colorful lichens, flowstone, and not a few stalagmites and stalactites.
+	* Secret Door (west): difficult to locate (1 in 8), tall and narrow. Opens to any who declaims (Varumani) “Open in the name of Vanara” before it.
 
-All varumani save the thegn (7-30), the court sorcerer (7-22) and the first adept (7-24) believe the cave’s name, “Cave of Grateful Respite,” to be connected to its current meditative purpose. But those leaders know the truth, namely that it was the first place of respite found by the varumani who fled from Level 5 during the collapse of the rudishva hegemony. It is thus deeply connected to the origin story of the varumani. More significantly, the secret door on the west wall provides access to a set of caves hiding a secret route to Level 5 (see area 7-88). Varboka, Ashoka and Glif are the only who know of the secret door and the fact that it leads to somewhere near their ancient halls, but even they have been unable to proceed further than area 5-141. That is, they have not managed to discover the connections to the Midnight Road (5-135) or the resting place of Vanara (5-139), even if they suspect that area 5-141 ought to lead to someplace important.Secret Door (west): This door is difficult to locate (1 in 8) and is tall and narrow. The door opens to any who declaims “Open in the name of Vanara” in Varumani before it; otherwise, only force or magic will open it.
+* All varumani save the thegn (7-30), the court sorcerer (7-22) and the first adept (7-24) believe the cave’s name, “Cave of Grateful Respite,” to be connected to its current meditative purpose. 
+	* Those leaders know the truth: it was the first place of respite found by the varumani who fled from Level 5 during the collapse of the rudishva hegemony. 
+	* The secret door on the west wall provides access to a set of caves hiding a secret route to Level 5 (see 7-88). 
+	* Only Varboka, Ashoka and Glif know of the secret door and that it leads near their ancient halls.  Even they have been unable to proceed further than 5-141 (haven't discovered the connections to the Midnight Road (5-135) or the resting place of Vanara (5-139), even if they suspect that 5-141 ought to lead someplace important).
 
 ### 7-29: Thegn’s Housecarls
 
-The thegn’s twelve housecarls reside in this chamber. It is fairly spartan, with twelve hammocks, a water barrel, a pair of communal chests, and some weapons racks. At any given time six of the housecarls are present with Varboka while the others kill time in this chamber. At important ritual or diplomatic moments, however, the full complement of twelve accompanies the thegn. If Varboka is in his private chamber (7-30), though, all twelve housecarls will be present here. The housecarls are all fully loyal to Varboka.
+* The thegn’s twelve housecarls reside in this spartan chamber.
+	* 12 hammocks, a water barrel, and some weapons racks.
+	* A pair of communal chests:
+		* Several varieties of dried meat; 6 packs of playing cards (2 gp each); 8 sets of dice (10 sp each); a dozen silver drinking cups (15 gp each); 6 knives with elk-horn handles (5 gp each); a set of Archontean chessmen in ivory (25 gp each, or 650 gp for the set); a head of an Archontean nobleman carved out of ivory, decorated with ebony and gold (375 gp); a pair of beautiful ivory drinking horns carved with Wiskin scenes (225 gp each); a large polar bear fleece (55 gp); 757 gp and 1,238 sp.
+
+* 6 of the housecarls are present with Varboka while the others kill time in here.
+	* At important ritual or diplomatic events, all 12 accompany the thegn.
+	* If Varboka is in his private chamber (7-30), all twelve housecarls will be present here. 
+	* The housecarls are all fully loyal to Varboka.
 
 6 or 12 true varumani housecarls (see new monsters): SZ L; AL LN; AC 0; MV 90’; HD 8; HP 61, 61, 60(x4), 59(x5); #AT 3 or 1; Dmg 3-6/3-6/4-10 or 8-26 (two-handed sword +2, 2-20+6). 
-Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword +2; ring mail +2. If Varboka is in area 7-30, there are 12 housecarls here; otherwise there are 6.
-
-Treasure:
-The communal chests contain several varieties of dried meat; six packs of playing cards (2 gp each); eight sets of dice (10 sp each); a dozen silver drinking cups (15 gp each); six knives with elk-horn handles (5 gp each); a set of Archontean chessmen in ivory (25 gp each, or 650 gp for the set); a head of an Archontean nobleman carved out of ivory, and decorated with ebony and gold (375 gp); a pair of beautiful ivory drinking horns carved with Wiskin scenes (225 gp each); a large polar bear fleece (55 gp); and a cash reserve of 757 gp and 1,238 sp.
+Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword +2; ring mail +2. 
 
 ### 7-30: Varboka, the Troll Thegn
 
@@ -851,23 +825,30 @@ The Victors’ Right: This ritual is less common than the Cleansing of Sorrows. 
 
 ### 7-33: The Cells
 
-Treb the lesser varumani presides over the prisoners of the thegn in this location. The central area is brightly lit by two rudishva light globes (see new technological items), and contains an interrogation table with implements, plus a side table, a pair of chairs, and a stack of carefully preserved human-skin on which Treb practices his surprisingly adept painting techniques. 
+* Here, Treb the lesser varumani presides over the prisoners of the thegn, captured in battle (a rarity) or who fall afoul of the thegn within his domain.
+	* The central area is brightly lit by two rudishva light globes (tech)
+	* It contains an interrogation table with implements, a side table, a pair of chairs.
+		* A stack of carefully preserved human-skin on which Treb practices his surprisingly adept painting techniques. 
+	* Each cell is bare stone with a simple wooden bucket for necessities.
 
-Those captured in battle (a rarity) or those who fall afoul of the thegn within his domain are imprisoned here. Each cell is bare stone with a simple wooden bucket for necessities. At the moment the cells contain the following persons:
+Cells
 
-A. Berenice, a Set Deacon (see new monsters) whose tongue has been ripped out, as a 6th-level female Archontean cleric of Set: SZ M; AL LE; AC 10; MV 120’; HD 6; HP 15 (max 37); #AT 1; Dmg by weapon. She has no possessions, and is unable to pray for spells. The varumani caught her attempting to infiltrate their private areas, and have scheduled her to be slain in the next ritual of the Victor’s Right (see 7-32).
+A. Berenice, a Set Deacon (see new monsters) whose tongue has been ripped out, as a 6th-level female Archontean cleric of Set: SZ M; AL LE; AC 10; MV 120’; HD 6; HP 15 (max 37); #AT 1; Dmg by weapon. She has no possessions, and is unable to pray for spells.
+* The varumani caught her attempting to infiltrate their private areas, and have scheduled her to be slain in the next ritual of the Victor’s Right (see 7-32).  Her tongue has been ripped out
 
 B. Empty
 
 C. A heqeti hopper (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 7 (max 25); #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
-D. Kador Malachite and Kegil Malachite, dwarven brothers taken while searching for the forge of Zhorak (8-100). he brothers are bound, and Kegil is gagged; he has no spells prepared. The varumani see few dwarves, and are contemplating what to do about the pair. 
+D. Kador Malachite and Kegil Malachite
+* Dwarven brothers taken while searching for the forge of Zhorak (8-100). he brothers are bound, and Kegil is gagged; he has no spells prepared. The varumani see few dwarves, and are contemplating what to do about the pair. 
 
 a. Kador, 5th-level dwarf fighter: SZ S; AL N; AC 9; MV 90’; HD 4; HP 19 (max 41); #AT 1; Dmg by weapon. Abilities: STR 17, INT 10, WIS 12, DEX 15, CON 16, CHA 9. 
 
 b. Kegil, 5th-level dwarf cleric: SZ S; AL LN; AC 10; MV 90’; HD 5; HP 21 (max 47); #AT 1; Dmg by weapon. Abilities: STR 12, INT 13, WIS 17, DEX 9, CON 16, CHA 15. 
 
-E. Joskelin Artiklines, 8th-level male Archontean ranger: SZ M; AL CG; AC 10; MV 120’; HD 8; HP 30 (max 77); #AT 3/2; Dmg by weapon. Abilities: STR 18/61, INT 13, WIS 14, DEX 10, CON 16, CHA 15. Spells: speak with animals. Joskelin is an agent of the imperial Drome (see World of Archontos appendix), sent by the exarch in Narsileon to gather information about the demise of the imperial expedition sent 250 years ago and to report on opportunities for renewed imperial expansion. Joskelin appeared at the Troll Market (7-76), posing as a merchant, but was identified by a visiting Set deacon and hence seized by the varumani. The thegn is still considering what to do about him.
+E. Joskelin Artiklines, 8th-level male Archontean ranger: SZ M; AL CG; AC 10; MV 120’; HD 8; HP 30 (max 77); #AT 3/2; Dmg by weapon. Abilities: STR 18/61, INT 13, WIS 14, DEX 10, CON 16, CHA 15. Spells: speak with animals. 
+* An agent of the imperial Drome, sent by the exarch in Narsileon to gather information about the demise of the imperial expedition 250 years ago and report on opportunities for renewed imperial expansion. Joskelin appeared at the Troll Market (7-76), posing as a merchant, but was identified by a visiting Set deacon and hence seized by the varumani. The thegn is still considering what to do about him.
 
 Treb, a lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 58; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (mattock, 3-18+4). Special defenses: 33% resistant to mind-
 affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: mattock.
@@ -1563,7 +1544,7 @@ A. 18-24 Varumani Courtiers
 Courtiers are those varumani who have earned significant status in the eyes of their peers; that status may have come from combat, especially on the chasm floor (9-1), or from performing some impressive deed. Of the courtiers, 66% are true varumani and the rest are lesser varumani. The tables below allow the GM to determine both the reason for a courtier’s prominence and some of his/her current ideas or plans.
 
 B. Sir Prudence, the Sun-Scarred Knight
-Sir Prudence is a male Archontean of about 45 years in age. He has silver-grey hair, dark-black eyebrows, and a well-trimmed (grey) van dyke beard. He is accompanied at all times by his varlet, Beuvon. Sir Prudence arrived at the court of the troll thegn seven years ago and never left. Initially tasked to watch and report on the activities of the varumani, he has recently received orders to undermine Varboka’s authority, and in particular to prevent Varboka from moving against the goblins. Prudence has interests in varumani mating rituals (which he has still never witnessed), in the reasons why no varumani have ever been tapped as a Knight, and in the particular tactile qualities of the skins of all manner of creatures. He is also a reliable recruiter for the knights, and has been known to use his considerable persuasive abilities to convince members of NPC adventuring groups to consider a areer/lifetime as a knight. Finally, Prudence has a well-known soft spot for cheerful grifters and cheats, so long as he is not the victim. After a year in which the pair slept in a corner of the court, Varboka grudgingly allowed them to maintain a ‘permanent’ residence in one of the caves of the Troll Market (7-76A).
+Sir Prudence is a male Archontean of about 45 years in age. He has silver-grey hair, dark-black eyebrows, and a well-trimmed (grey) van dyke beard. He is accompanied at all times by his varlet, Beuvon. Sir Prudence arrived at the court of the troll thegn seven years ago and never left. Initially tasked to watch and report on the activities of the varumani, he has recently received orders to undermine Varboka’s authority, and in particular to prevent Varboka from moving against the goblins. Prudence has interests in varumani mating rituals (which he has still never witnessed), in the reasons why no varumani have ever been tapped as a Knight, and in the particular tactile qualities of the skins of all manner of creatures. He is also a reliable recruiter for the knights, and has been known to use his considerable persuasive abilities to convince members of NPC adventuring groups to consider a career/lifetime as a knight. Finally, Prudence has a well-known soft spot for cheerful grifters and cheats, so long as he is not the victim. After a year in which the pair slept in a corner of the court, Varboka grudgingly allowed them to maintain a ‘permanent’ residence in one of the caves of the Troll Market (7-76A).
 
 C. Ogre Guards
 Two obedient ogre guards are stationed at each of the western exits to the court.

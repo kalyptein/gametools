@@ -594,19 +594,159 @@ What exactly did the party see of the doppelgangers?
 
 
 Sigiric's party discovered in SL1
+* the party looted and collapsed the Fenn's rudishvan outpost where the Hybridization took place.
 
+Did doppel-Gunnar take real-Gunnar, Callista, and/or the set deacon out of the prison for any purpose?  Maybe they aren't dead?
+* he kept Gunnar to question in support of his disguise
+* he took the deacon because he got too nosy into "Gunnar's" activities
+* he took Callista because he wanted to see if the Drome operation might be worth investigating.
+	* when he left the Setites, he left Gunnar (recognizable from Visby's notes, including a distinctive tattoo) and the deacon to die.  he took Callista for further questioning, now needing a new environment to embed in.
+		* Callista left Drome symbols scratched into the wall of Gunnar's private prison.
+			* "agent was here", "cover compromised", "false operative" (her attempt to signal Gunnar being a doppelganger)
+
+Priddy moves to the arcanum geode near the Thoth Temple on Level 3
+* How does this end up going for them?
+	* It goes great!  He's eagerly studying, he survived exposure and its effects, he's mining and studying arcanum.
+
+
+Gevorda freed from Kerbog Khan, returning home.  Real pissed at the Khan.
+
+
+Pharastina, sister of Vagtro Westron is guest of the Savage Heart
+
+Ludrig, true varumani ambassador to the Archon of Arden Vul is a guest of the Savage Heart
+
+* where did Tomas the Set Acolytes eyeballs get sent by Pol's Treatise on Scrying
+	* At 2-8 (Pyramid of Venerable Age)
+
+
+To the Thegn's Court
+* spoke with Ludrig before going down; spoke of the 4 clans, the confra of hunters and the sorcerers
+* Gog hails Astrid when they appear in the cavern.
+	* He confides in Astrid about his exile from the court.
+* Astrid and co descend via the lifts to 7-1
 
 ### ==--- PRESENT DAY ---==
+
+
+TODO
+* Give J the creation mold recipes
+* post 'On the Terrible Old Gods' text to J
+
+
+* write up a "notables" list for the Varumani; figure out the faction dynamics
+
+
+To the Thegn's Court
+
+* Varboka heard Astrid's proclamation from the Bridge via comms bracelet
+	* Has he spoken of it with Ashoka or others in the court?
+		* No
+
+* any doppels in the Troll Market?
+* any "refugee" merchants from the Forum in the Troll Market?
+
+
+* Sir Prudence was informed by Melok-Ri about Astrid's pronouncement (heard on comms).
+	* When Sir P learns of Astrid's arrival (he has goblin runners in his pay), he approaches.
+	* He's very concerned about the devestation a varumani - Khan war could cause.  He'll gladly help prevent it, giving intel on the court and advice.
+		* He'll likely decide Astrid is important enough and honorable enough that he'll reveal some info about the Knights in return for an oath to keep it confidential.  Civilization prevails, the Knight's aims, etc.
+			* Concerned about the destruction of Set
+			* Concerned about a monoculture in the halls if Archontean rule returns.
+			* But very pleased with her handling of the Beastmen, finding a way to preserve them while curbing Deino.
+		* Advice:
+			* Ashoka is indeed honorable.  He's interested in growing the varumani arcane capabilities.
+			* Gevorda is overbearing, but has her fans.  Some may see it as sport to "put the toymaker in his place".  Ashoka is worried, he knows how powerful the khan really may be, but most varumani see him as a delightful tinkerer.
+			* Varboka fears the waning of his people and going down as a mere steward of that decline with no glory to his name.  This has made him contemplate expansionism (the goblins, a war vs the Khan maybe, turning
+				* The heqeti have been growing, the hunters say, but most regard them as an enemy to just raid.  A serious war with them would be both glorious but also big risk.  The kaliyani are even more hated, and that would be a shoe-in.
+			* Varboka isn't dumb, he didn't want to war with the Setites unnecessarily, and won't with the Khan; it pulls against his desire for glory, to have truly done something for his people.  The varumani are slow to rebuild their numbers, and are loss avoidant, at least at large scales.
+
+
+
+Where are Callista and "Gunnar" now?
+* Wherever the doppels are currently using as a base in the Halls (goblins? arena?)
+	* she and any other captives (maybe some Arena vendor / hanger-on types?) are stashed somewhere nearby.
+
+What fate for Artax-Ris?
+* Artax will mention or Akla-Chah will pass on that Artax and Psalor's work attempted to revive slain rudishva, but resulted in mindless but potentially tractable necrobionts.  Only those transformed before death retain their intelligence.
+* rolling 1d6 periodically to see how his therapy progresses
+	* phase 1: 1 (bad); Akla-Chah says he is deeply depressed (the death of the rudishva, his own folly and change, and the gulf of time that has forgotten the rudishva are all still too fresh for him).  He wishes, and she agrees, that he should return to his auto-doc (wherever they think it best to stash it).  It allows him to enter a slumber-like state that is more soothing that he can achieve normally with his undead state.  She hopes he will process her words and his emotions in that time and when he emerges in some weeks or months, he might be more receptive.
+
+Spy-balls watching...
+* AV-19 basement
+	* They'll see a Priscian team coming down, handling more supplies via floating disc.  They will note the slain zombies, examine the area and the supplies, and continue on (no sound, just vision).
+	* They have blue-and-orange sortian knot insignia and are wearing unusual looking orange-tinted mail.  the fighter and thief but also the obvious mage are armed with gladii
+* the Priscus statue in 4-164
+	* Priscian mage comes and drops flowers periodically, prays and meditates; she's unsure about Nerub's leadership.  Her conversi wait in the hall, nerviously keeping an eye out for monsters.
+		* ??? pick a named mage from the faction
+
+
+* write up a "notables" list for the Priscians; figure out the faction dynamics
+
 
 Who heard Astrid's address from the bridge?
 * RAJ's feeds to all the main rudishva areas of the Halls as a good stand-in:
 	* 5-84 to 5-98, 5-105 to 5-138, 6-4, 6-113 to 6-124, 6-103, 7-4 to 7-7, 7-35 to 7-41, 7-109 to 7-110, 8-51 to 8-53, 9-89 to 9-97, SL2-2 to SL2-3, SL9-44 to SL9-49, SL13-36 to SL13-39, and SL14-10 to SL14-14.
 
-Did doppel-Gunnar take real-Gunnar, Callista, and/or the set deacon out of the prison for any purpose?  Maybe they aren't dead?
+* med pod (and thither Kerbog Khan)
+* LOAV hanger
+* Upper and lower Bridge
+* RAJ-750 and weapons pod
+* The cloister
+* level 5 transit shaft, creation molds, transit hub
+* level 6 great pillar
+* the midnight road
+* varuda areas, bio-vats, varumani training area, ruined kaliyani area
+* kaliyani pits rudishva complex (SL-9-44 to 49)
+	* do the kaliyani hear at all?  check SL9-43, 41
+* cryo pod area in SL-2
+* level 6 & 7 floating gardens
+* level 6 habitation pod
+* level 7 engine room
+* ??? 7-35 to 7-41
+* ??? 7-108 to 7-110
+* ??? 8-51 to 8-53
+* ??? 9-89 to 9-97  bottom of transit shaft
+* 
+* Crelik-Var wrist-comm?
+	* his goblin servant overheard, maybe also Tredgris was with him too?
+* security constructs via comms
+* kaliyani and rudiga comm devices
+	* rudiga will plot against them
+	* make him a cooler villain, since they've accepted Druva's geas to slay him
+* Melok-Ri via comms
+* Thegan Whitemane via Isoc-Crix's comms
+	* maybe some other staff or patrons hear muffled words while at the Inn?
+* Psalor-Ki via comms
+* Reiv-Tor via comms
+* Varboka heard Astrid's proclamation from the Bridge via comms bracelet(s)
+	* Has he spoken of it with Ashoka or others in the court?
+* Cinna Minux via comms
+
+
+Doppelgangers begin trying to infiltrate the Drome in Gosterwick to get at the dwarves, and maybe steal any Ptah relics parties have (including the Savage Heart, maybe some minor magic items)
+* frame the dwarves with the Drome / Alexia?  try to get them driven out of town.
+* Kidnap dwarves to gain live lifestones, so they can lure the rest of the dwarves to doom
+* etc
+
+Doppels also want a new base within the Halls, having lost the Forum.
+* Inn of the Lost?
+	* ideal, but the antimagic aura messes with their shifting and mind-reading (can hold shape, but can't change)
+* Troll Thegns Court?
+* Arena? (maybe the best option)
+* Priscians?
+* Goblin Market? (easiest)
+
+Is Alexia created Lady Burdock?  Did some other governor get appointed?
+* If appointed, how does she start off doing?
 
 
 
-Give J the creation mold recipes
+
+
+
+
+
 
 ## Future
 
@@ -614,21 +754,12 @@ Deino might be eyeing ways to get her poison or transformation brews into the pa
 
 The Broom is seeking the sceptre of the goblins so the heqeti can enslave the goblins, as well as looking for info about the Priscians and ways to weaken the Varumani and Sun-Scarred Knights
 
-Is Alexia created Lady Burdock?  Did some other governor get appointed?
-* If appointed, how does she start off doing?
-
 The Kaliyani may move to make a forward post in the Forum of Set
 * Taking over the secret areas?  Sealing off more of the priestly quarter.
 * They try to keep their presence secret.
 
-Priddy moves to the arcanum geode near the Thoth Temple on Level 3
-* How does this end up going for them?
-	* It goes great!  He's eagerly studying, he survived exposure and its effects, he's mining and studying arcanum.
-
 Astrid threw Khalid's body off the ledge into the chasm.
 * Where does he land?  Somewhere on level 9?
-
-Gog confides in Astrid about his exile from the court.
 
 Forum "refugees"
 * birgir and asbjorn do excellently (inn of the lost?  troll market?)
@@ -639,7 +770,10 @@ Forum "refugees"
 * the goblins want to make their halls the new upper market
 	* Weskenim might pitch the party on it, and/or it may exacerbate his need for the "sceptre of the goblin king".  the Sun-Scarred Knights might encourage the Savage Heart to help?
 
-
+rumor of Sir Nixion the Bold, Azure Knight
+* mention his party disappeared.  Were searching the deep halls for archon's regalia
+	* other members of the party are Cyra Red-Eyes (thief) and Testareon (mage)
+* he'd be known to Astrid (LN)
 
 ## Far Future
 

@@ -361,6 +361,15 @@ Placida Gorgitrex
 4 hasted Archontean animated constructs - animated orators (see new monsters): SZ L; AL N; AC 2; MV 120’; HD 7; HP 48, 46, 42, 40; #AT 2; Dmg 3-12/3-12. Special defenses: +1 or better weapons to hit; immune to elemental magic, poison, and mind-affecting spells.
 * Club w/ stone "scroll"
 
+X / 80
+
+X / 48
+X / 46
+X / 42
+X / 40
+
+pot of frost giant str: 6 / 6 rounds
+
 ##### SL11-19a: Isadora the Gold Dragon
 
 * This gilded statue towers over the center of the crystal cavern, depicting an ancient, huge, gold dragon, rising above the sandy floor on a 5' plinth.
@@ -412,7 +421,7 @@ Puzzle and Secret Door (covering the hole to SL11-24)
 	* 6 bronze braziers (3 gp each)
 	* 2 tripods of heating (new)
 	* A portable fire pit made of wrought iron (10 gp)
-	* A cithara made of ivory and ebony (functions as a cittern instrument of the bards
+	* A cithara made of ivory and ebony (functions as a cittern instrument of the bards)
 	* 3 wooden settees covered in red leather (75 gp each)
 
 ### SL11-22: Chamber of Isadora
@@ -445,7 +454,7 @@ Puzzle and Secret Door (covering the hole to SL11-24)
 	* Scroll case: scrolls (protection from magic; protection from petrification; blink, haste; teleport, dimension door; hold person, hold monster; monster summoning II, monster summoning III).
 	* Bookshelf: 
 		* Isadora’s spell book
-			* Charm person, light; invisibility, mirror image; fireball, haste; charm monster, polymorph other; feeblemind, hold monster; invisible stalker, stone to flesh. 
+			* Charm person, light; invisibility, mirror image; fireball, haste; charm monster, polymorph other; feeblemind, hold monster; invisible stalker, stone to flesh.
 		* A History of Dragonkind, by Yasidoranicil
 		* The Intelligent User’s Guide to the Mystical Properties of Gems, by Keladon the Strong
 		* Irene Bellatrix: on the Wars of this Great Archon, by Egidius of Archontos

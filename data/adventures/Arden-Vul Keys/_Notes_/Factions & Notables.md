@@ -22,7 +22,7 @@ Psalor-Ki (5-74)
 	* tried to create a superior varumani strain using his own blood
 
 Crelik-Var, the Arena Master (6-85)
-- survived the plague because genetic lottery (damaged by fever, already losing some sanity and personality), still alive because extensive over-use of auto-doc and cybernetics, which have further eroded his personality
+- survived the plague because genetic lottery (damaged by fever, already some brain damage), still alive because extensive over-use of auto-doc and cybernetics, which have further eroded his personality
 * political / morale officer
 * he loved the contests in the arena during the Rudishva heyday, and so gravitated back there and drifted into his current role
 
@@ -45,7 +45,7 @@ Artax-Ris (3-39)
 
 Grev-Kilj
 * “Grev-Kilj the Far-Seer, Tamer of the Winged Ones, Lord of Air and Earth, Student of Subterranean Life Forms, Slayer of the Hopping-Ones.”
-* Willingly became undead to watch for the return of the Heqeti to wreak vengeance on them.
+* After speaking with Psalor-Ki, chose to became undead to watch for the return of the Heqeti to wreak vengeance on them.
 
 4 in deep storage (SL2-2): Triv-Lok, Plec-Gris, Kelo-Rep, Talg-Roe
 
@@ -495,9 +495,176 @@ STR 18/21, INT 10, WIS 15, DEX 11, CON 16, CHA 11. Possessions: chain mail +2 an
 * what are the varumami clans?  what political intrigue is going on?
 	* punch it up a bit.  don't just make the Rudigiya into house slytherin omni-baddies
 
+### Faction Details
+
+* Population
+	* ~100 true varumani
+		* repop ~0.5 / month
+	* ~170 lesser varumani
+		* repop ~2 / month
+	* unknown and growing number of bestial varumani (trolls)
+	* Only true "skyblooded" varumani can take leadership roles.
+* Clans
+	* Rudigaya (leader Hraskaya)
+	* Vanaraya (leader: Vedreya One-Eye)
+	* Pendaya (leader: Gavra the Easy-Going)
+	* Druvaya (leader: Igrippa the Unruly)
+* Territory
+	* Not expansionist in territory, as their numbers are waning, but very prone to dominating those factions around them.
+	* They would retake the ancestral halls on the Midnight Road is the learned the way.
+
+### Faces
+
+Court Notables
+* Varboka (7-30), true varumani
+	* A bit insecure, feels he hasn't done anything to put the seal of greatness on his reign; restless for glory.
+* Gevorda, true varumani
+	* half-sister of Varboka, liberated captive of Kerbog Khan for trying to probeat him
+* Ashoka (7-22, true varumani
+	* court sorcerer and chief advisor to the thegn
+* Hraskaya (7-17), true varumani
+	* leader of the Rudigaya.  Envious of Varboka, seeks to undermine his rule and advance himself.
+* Gavra the Easy-Going, true varumani
+	* leader of the Pendaya
+* Vedreya One-Eye, true varumani
+	* leader of the Vanaraya
+* Igrippa the Unruly, true varumani
+	* leader of the Druvaya
+* Clug (lesser) & Verv (lesser)
+	* ambassadors to the beastmen
+* 
+* 
+* ambassadors to Forum of Set
+* ambassadors to ???
+* other apprentices
+* 
+* Glif, First Adept
+* 
+* Yoburra (true)
+	* ambassador to the Setites
+
+Non-Court Notables
+* Gog (5-2), lesser varumani
+* Muq (8-151), lesser varumani
+	* Muq is a clan-brother and former friend of Gog (5-2).
+	* 
+	* He provided false evidence to Varboka implicating Gog in treason. Gog was duly exiled, but swiftly Muq was forced to flee as varumani public opinion turned against the snitch. 
+	* Fearing for his life, Muq survives by spying for the vampire, Cinna Minux (7-122), who has charmed him and who brings him food and bits of information. 
+	* Both Gog and Varboka would pay well for information about Muq’s location (or news of his death). 
+* Lommt (10-43)
+	* ??? captive of the heqeti
+* Prika (10-43)
+	* ??? captive of the heqeti
+* Vig (SL9-55)
+	* captive of the kaliyani mud pits; he was leading a party of adventurers (led by Sir Nixion the Bold, an Azure Knight, funded by Alexia, also captive)
+	* does Rudiga have plans for him?
+* Kaligo (true) & Trood (lesser)
+	* hunters on level 3, hunting setites or trophy monsters
+* Kallion the White (8-15)
+	* deceased / undead?  known for his white armor
+	* pissed off the Setites and had a bounty on his head?
+		* did he work with them for a time, then split, pissing them off?
+* Ferx (SL5-37 optional)
+* Riglon (true, 5-1)
+	* level 5 lift overseer
+* Reith (lesser, 6-1)
+	* level 6 lift overseer north
+* Gorlen (true, 6-5)
+	* level 6 lift overseer south
+* level 7 lift overseer
+* Confraternity of Hunters?
+	* Bedara - missing, captured by heqeti on level 9, held in 10-8
+	* Nogli (7-24)
 
 
-The Cult of Bast
+Non-Varumani in Court
+* Sir Prudence, Sun-Scarred Knight
+	* Sent to curb the varumani's militarism toward the other factions, counseling patience.  Aiming the Varumani at the kaliyani and/or heqeti would be ideal, or a faction that Knight deem unlikely to integrate (maybe the Priscians?)
+* Merchants???
+* Goblins???
+
+Others
+* Ludrig
+	* recently depetrified true varumani ambassador to the ancient Arden Vul archon.
+	* 
+	* Ludrig is quite intelligent, and fluent in Mithric. He served as an advisor to the Archonteans during the period in which the troll thegn (7-30) accepted imperial suzerainty. Ludrig’s appearance at the varumani court (7-75) would create a major stir; still, once his identity was established, many varumani would shun him as a collaborator.
+
+Historical
+* Vanara
+* Druva
+* Rudiga
+* Javaka, 20th thegn, reestablishes control of the middle Halls (2093 AEP)
+* Refta, thegn who submitted to Marius Tricotor (1043 AEP)
+
+### Faction Relations
+
+Internal
+* Waning of the Varumani
+	* The varumani are breeding less and less true over the centuries.  Beyond Arden Vul, with its plentiful arcanum, the degenerate into trolls much quicker.  They are low-key concerned about this.
+		* Rudishvan bioscience in its full flower might be able to correct / stabilize this.  In lesser form, it might allow a controlled descent to trollkindom.
+* The Ancestral Halls
+	* Varboka and Ashoka know the ways to the ancestral halls on Level 5, but haven't found Vanara's resting place (they would pay well for the info).
+* Hunter's Fate
+	* The Hunters wish to know the fate of Bedara, a member (taken by heqeti on level 9, imprisoned in 10-8).  Rescuing her brings friendship with the hunters.
+* Jealous Hraskaya
+	* Envious of Varboka, seeks to undermine his rule and advance himself.  Clear evidence of misdoing would let Varboka move against him confidently.
+* Framing of Gog
+	* Gog was known as upright and honorable, a shock that he did a crime and had to be exiled.  Varboka and a few others suspect he was framed.
+		* 
+		* WHAT WAS HIS SUPPOSED CRIME?
+		* Muq framed Gog for a crime, something treasonish?
+		* Conspiring with the kaliyani against the thegn / court for gain.  Actually it's Muq who cut this deal, framing Gog, helping the kaliyani by disrupting the court.
+		* what proof is there to be uncovered?
+		* detail the site of the supposed crime for investigation
+		* 
+	* Framed by Muq (8-151).  Clearing Gog's name brings thegn's favor.
+
+External
+* Kaliyani Interlopers
+	* The Varumani know there are Kaliyani in the Halls, at least one scouting party-worth, maybe more?  Varboka would gladly lead a war against them if he realizes there is a whole base.
+		* Varboka has placed a 100 gp bounty per kaliyani fang
+		* Varboka hopes this might be his path to glory, smiting this ancient, hated foe.
+* Arcane Resources
+	* Ashoka would like to expand the varumani's arcane capabilities.  He knows the Priscians are snooping around, and hopes he might be able to follow them to Sortian or Thothian lore, or take something from them directly.  Fears they will poach secrets from the Halls first.
+* Heqeti Hunting
+	* The varumani hunt them as worthy prey and mostly see their presence as a steady-state thing, a foe to fight, all good fun.  The Hunters have begun to see an uptick in their boldness and numbers.
+* Gevorda's Feud with the Khan
+	* 
+	* People know she's domineering, so they're not exactly surprised she got in a spat with the Khan.  No one is immediately leaping to help her out of insult to the varumani people (she should have been able to take care of herself, or she was dumb).
+		* She's happy to promise loot and favor to raiders who join her, so she doesn't need them to act out of ire.
+	* Her getting slapped down and captured mays some of them to who just see him as a toymaker wonder if he could be a threat.
+	* 
+	* the Khan has blood samples from both Ashoka and Gog, and probably a number of other varumani.  This may make them hesitate to clash with him, but Gevorda may use that threat over them as a reason to deal with him now, before he uses it against them (as clearly he will, seeing how he treated her)
+	* 
+* Priscian Presence
+	* suddenly appearing the lower halls, very concerning.  Ashoka and Varboka are suspicious of them, but permit them in the market blandly polite.
+	* Glif and Nogli captured a Priscian while out hunting, they and Ashoka hope to extract info.
+* Setites
+	* Didn't like this reminder of Archontean domination, but while they remain in the upper halls, they are too far away to bother with.  Just watched them.
+	* Lost some business to the Forum, but not too bad.  Weren't sorry to see them go.
+* Sun-Scarred Knights
+	* Respect their individual prowess, don't get their ethos, but don't see them as rivals.  Their advice and ways are mysterious but clearly potent and draw intrigued attention from the varumani, more than they realize (maybe a bit of vamp gaze to assist that).
+* Subjugation of the Goblins
+	* 
+	* ??? why moving to do this now, when Weskenim is paying tribute?
+	* 
+* Doppels
+	* The doppelgangers seek to establish a beachhead at the troll market for deep expeditions.
+* 
+
+The Survivors
+* Isoc-Crix / Thegan
+	* He remains a welcome neutral place for factions.
+* Melok-Ri / Sun-Scarred Knights
+	* Few varumani know anything more than the vague name "Master Malichite".  Varboka, Ashoka and maybe a few others know Melok-Ri leads them.  Respect and caution for the Knights
+* Crellik-Var / The Arena
+	* He remains a welcome neutral place for factions and entertainment
+* Psalor-Ki
+	* Aloof and enigmatic sorcerer to be left alone or rarely parleyed with.
+* Reiv-Tor / Fishmen
+	* Lost track of him centuries ago, know nothing of him.
+
+## The Cult of Bast
 
 
 Fishmen

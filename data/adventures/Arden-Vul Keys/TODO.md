@@ -191,10 +191,12 @@ maybe the ogres aren't made by goblins, they are a goblinoid variant created bac
 intended path
 * 
 * ready
-	* SL 11 (wrap up)
-	* Level 3 (wrap up)
-	* Level 4 (wrap up)
 	* SL 12
+	* 
+	* prep a small section of Level 7, in the troll thegn's court
+	* faction writeup for Varumani
+		* still need to parse AV v2 and v4 for anything of interest
+	* 
 	* Level 5 (wrap up)
 * almost ready
 	* SL 4
