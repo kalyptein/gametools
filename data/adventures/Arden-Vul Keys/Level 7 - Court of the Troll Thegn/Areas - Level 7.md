@@ -121,25 +121,43 @@ Access and Egress
 
 ### 7-1: The Lower Troll Lift, up to Level 6 (6-5)
 
-This chamber hosts the lowest terminus of the network of Troll Lifts on the western side of the Great Chasm. Here one can take the lift up 200’ to area 6-5. The chamber is formed of rough-carved stone, with polished blue granite tiles on the floor. Four highly detailed, 4’-tall, high-relief carvings of grinning varumani heads line the walls. The door to the south is locked and carefully watched. A pair of disused iron bars are set into the granite near the edge of the chasm (an out-of-commission cross-chasm ferry stop).
+* This chamber hosts the lowest terminus of the network of Troll Lifts on the western side of the Great Chasm.
+	* Here one can take the lift up 200’ to area 6-5.
+* The chamber is of rough-carved stone, with polished blue granite tiles on the floor.
+	* 4 detailed, 4’-tall, high-relief carvings of grinning varumani heads line the walls.
+		* The varumani like to paint (and repaint) the 4 heads; currently they are yellow, long noses blue, eyes black, and hair brown.
+		* The lesser varumani named them (clockwise from north) Smiley, Bubba, Junior, and Grim.
+			* The south face (Junior) is the destination for the teleporter from 4-167.
+	* The door to the south is locked and carefully watched. 
+	* A pair of disused iron bars are set into the granite near the edge of the chasm
+		* GM note: an out-of-commission cross-chasm ferry stop.
+	* A troll chest keyed to Trijax stands against the west wall (under the face of ‘Grim’).
+		* 14 ancient octagonal platinum coins; 137 ancient silver pennies; 879 sp; 211 ancient gold solidi; 731 gp; Trijax’s silver baton of authority (250 gp)
+		* A scroll (schedule of shipments), another scroll (list of names of those proscribed from using the Lift)  A clay tablet inscribed with an image of Vanara (legendary varumani leader, see 5-139).
 
-Domain of the Varumani: The chamber marks the main entrance to the domain of Varboka, the troll thegn, and is thus a necessary waypoint for those seeking entrance to the thegn’s court (7-75) or the Troll Market (7-76). Trijax, the true varumani vice-overseer of this section of the Troll Lifts, presides over a team of two bestial varumani and six ogres. Trijax immediately accosts those arriving from above (6-5) or the Chasm (7-3) in a gruff but neutral manner, demanding their business. Absolutely no one is permitted through the southern door without a special permit from the thegn, and those seeking access to the west will need to clear customs. 
+* The lift is unassuming at this end; no winch mechanism or even framework.
+	* A 12’, black square has been painted on the floor where the wood-and-iron cage from 6-5 (usually) lands.
+	* Those seeking to travel up (to 6-5) first offer payment to Trijax (10 sp/leg).
+		* If the cage is present (33% chance), Trijax shouts up to Gorlen to activate the lift, and passengers reach 6-5 after 11-20 rounds.
+		* If the cage is not, potential passengers have to wait 3-4 turns for it to appear.
 
-Trijax is a tough old warrior and likes nothing more than to mix it up with those who prove ‘lippy’; he will, of course, send one of the ogres for reinforcements from 7-75 in the case of a real fight. If visitors are deferential to Trijax, however, and offer him a small gratuity (5 gp/person), he proves utterly willing to negotiate. Trijax can provide useful information about the court, the market, and local politics. Despite his gruff, macho demeanor, Trijax is 
-surprisingly articulate and speaks fluent Archontean.
+* 1 in 6 chance another other group is present in this chamber (roll below)
 
-Customs Checkpoint: Those seeking to pass from 7-1 into 7-72 (in order to visit the court at 7-75 or the market at 7-76) must show at least one troll thegn’s passport (see Arden Vul items). If a party has no passport, they are almost always out of luck and must either return to 6-5 or seek their fortunes in the Chasm. If no other visitors are present (see below), there is a 20% chance that Trijax will be willing to furtively sell the party an extra passport. 
+* The chamber marks the main entrance to the domain of the varumani, a necessary waypoint for entrance to the thegn’s court (7-75) or the Troll Market (7-76).
+	* Trijax, the true varumani vice-overseer of this section of the Troll Lifts, presides over a team of 2 bestial varumani and 6 ogres.
+	* He immediately accosts those arriving from above (6-5) or the Chasm (7-3) in a gruff but neutral manner, demanding their business.
+		* To pass from 7-1 into 7-72 (to visit the court at 7-75 or the market at 7-76) one must show at least one troll thegn’s passport (av items).
+			* Without a passport, the party must either return to 6-5 or seek their fortunes in the Chasm.
+			* If no other visitors are present, 20% chance Trijax offer to furtively sell the party an extra passport.
+		* Absolutely no one is permitted through the southern door without a special permit from the thegn.
+	* No one has arrived by the teleporter in generations, Trijax and Co. will be astonished and impressed by any who arrive via that method (+15% reaction rolls).
 
-Stone Heads: The varumani like to paint (and repaint) the four heads; currently their faces are yellow, their long noses are blue, their eyes are black, and their hair is brown. The lesser varumani have given each face a name, as well: (clockwise from north) Smiley, Bubba, Junior, and Grim. The face on the south wall (Junior) is actually the destination point for the teleporter from 4-167. Since no one has used that teleporter in generations, Trijax and Co. will be astonished and impressed by any who arrive at 7-1 via that method (+15% reaction rolls).
+Trijax
+* A tough old warrior who likes nothing more than mixing it up with those who prove ‘lippy’.  He sends an ogres for reinforcements from 7-75 in case of a real fight.
+* Despite his gruff, macho demeanor, Trijax is surprisingly articulate and speaks fluent Archontean.
+* If visitors are deferential and offer a small gratuity (5 gp/person), he proves utterly willing to negotiate.
+* Trijax can provide useful information about the court, the market, and local politics. 
 
-The Troll Lift: The lift is unassuming at this end. No winch mechanism exists here, nor even a framework. Rather, on this end the only sign of the lift is a black square, 12’ per side, that has been painted on the floor at the point where the wood-and-iron cage from 6-5 (usually) lands. Passengers descending must wait until the cage has bumped the floor before disembarking and presenting themselves to Trijax for inspection. Those seeking to travel up (to 6-5) must first offer proper payment to Trijax (10 sp/leg). If the cage is present (33% chance), Trijax shouts up to Gorlen to activate the lift, and passengers reach 6-5 after 11-20 rounds. If the cage is not present, potential passengers have to wait 3-4 turns for it 
-to appear; the trip up will take the usual amount of time. A troll chest keyed to Trijax stands against the west wall, under the face of ‘Grim’.
-
-Treasure:
-Troll chest (see new technological items): 14 ancient octagonal platinum coins (see Arden Vul items); 137 ancient silver pennies (see Arden Vul items); 879 sp; 211 ancient gold solidi (see Arden Vul items); 731 gp; Trijax’s silver baton of authority (250 gp); a scroll with a schedule of shipments on it; another scroll with a list of names [those proscribed from using the Lift]; and a clay tablet inscribed with an image of Vanara (the legendary varumani leader – see 5-139).Trijax carries an embroidered silk purse with his own personal stash: 179 sp, 47 gp, and a gold sunburst medallion that he confiscated from a traveler (375 gp).
-
-
-There is a 1 in 6 chance that another other group is present in this chamber. Roll on the following table to determine its composition:
 
 D10 Travelers Stats 
 
@@ -198,7 +216,9 @@ A secretive magic user traveling either  to the Troll Market (7-76) or the thegn
 
 Select an appropriate magic user with flunkies from the NPC appendix.
 
-Trijax, true varumani (see new monsters): SZ L; AL LN; AC 1; MV 90’; HD 8; HP 61; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail +1.
+
+Trijax, true varumani (see new monsters): SZ L; AL LN; AC 1; MV 90’; HD 8; HP 61; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
+* Possessions: huge two-handed sword; ring mail +1, an embroidered silk purse (179 sp, 47 gp, and a gold sunburst medallion confiscated from a traveler (375 gp)).
 
 2 bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 55, 49; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
 
@@ -1533,97 +1553,119 @@ hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd;
 
 ### 7-75: Court of the Troll Thegn
 
-This spectacular hall is the location of the thegn’s notorious court. Its 25’-tall ceiling is barrel vaulted, and supported by two rows of 3’-diameter granite columns. Over a dozen rudishva light globes (see new technological items) hang from the ceiling, and noise from the scores of courtiers and visitors is substantial.
+* This spectacular hall is the location of the thegn’s notorious court.
+	* A 25’-tall barrel vaulted ceiling is supported by two rows of 3’-thick granite columns.
+		* Over a dozen rudishva light globes (tech) hang from the ceiling.
+		* Noise from the scores of courtiers and visitors is substantial.
+	* The east and west walls feature enormous frescoes, of 23 famous varumani of the past several centuries; a sort of ‘court of honor’ for those non-thegns who have performed some deed of special value to the people.
+		* 15 are are ring-mail clad true varumani.
+		* 7 lesser varumani and even 1 bestial varumani are also depicted.
+		* Each image is carefully named in spidery Varumani Semi-glyphik
+		* Among the names:
+			* Nolgi and Livod (hunters, 7-14)
+			* Gog (5-2)
 
-The east and west walls feature enormous frescoes, showing famous varumani of the past several centuries; the frescoes serve as a sort of ‘court of honor’ for those non-thegns who have performed some deed of special value to the people. There are 23 such images, the majority of which (15) are ring-mail clad true varumani. Still, seven lesser varumani and even one bestial varumani are also depicted. Each image is carefully identified by name in spidery 
-Varumani Semi-glyphik; among the names are Nolgi and Livod (both hunters, see 7-14), as well as Gog (see 5-2).
+* The court of the thegn is a center for political and diplomatic negotiations and, of course, plotting. At any given moment, the following are present:
 
-The court of the thegn is a center for political and diplomatic negotiations and, of course, plotting. At any given moment, the following are present:
-
-A. 18-24 Varumani Courtiers
-Courtiers are those varumani who have earned significant status in the eyes of their peers; that status may have come from combat, especially on the chasm floor (9-1), or from performing some impressive deed. Of the courtiers, 66% are true varumani and the rest are lesser varumani. The tables below allow the GM to determine both the reason for a courtier’s prominence and some of his/her current ideas or plans.
-
-B. Sir Prudence, the Sun-Scarred Knight
-Sir Prudence is a male Archontean of about 45 years in age. He has silver-grey hair, dark-black eyebrows, and a well-trimmed (grey) van dyke beard. He is accompanied at all times by his varlet, Beuvon. Sir Prudence arrived at the court of the troll thegn seven years ago and never left. Initially tasked to watch and report on the activities of the varumani, he has recently received orders to undermine Varboka’s authority, and in particular to prevent Varboka from moving against the goblins. Prudence has interests in varumani mating rituals (which he has still never witnessed), in the reasons why no varumani have ever been tapped as a Knight, and in the particular tactile qualities of the skins of all manner of creatures. He is also a reliable recruiter for the knights, and has been known to use his considerable persuasive abilities to convince members of NPC adventuring groups to consider a career/lifetime as a knight. Finally, Prudence has a well-known soft spot for cheerful grifters and cheats, so long as he is not the victim. After a year in which the pair slept in a corner of the court, Varboka grudgingly allowed them to maintain a ‘permanent’ residence in one of the caves of the Troll Market (7-76A).
-
-C. Ogre Guards
-Two obedient ogre guards are stationed at each of the western exits to the court.
-
-D. Visitors, in 4-8 distinct groups
-Use the tables below to determine the size of such groups, as well as the motives of each group.
+* A. 18-24 Varumani Courtiers
+	* Courtiers are varumani who have earned significant status in the eyes of their peers; usually from combat, especially on the chasm floor (9-1), or some impressive deed.
+	* 66% are true varumani and the rest lesser.
+		* The tables below can determine both the reason for a courtier’s prominence and some of his/her current ideas or plans.
+* B. Sir Prudence, the Sun-Scarred Knight
+	* A male Archontean, ~45 years old, silver-grey hair, dark-black eyebrows, and a well-trimmed (grey) van dyke beard.
+	* Accompanied at all times by his varlet, Beuvon.
+	* Arrived in court 7 years ago and never left.
+		* After a year sleeping in a corner of the court, Varboka grudgingly allowed them to maintain a ‘permanent’ residence in a cave of the Troll Market (7-76a).
+		* Initially tasked to watch and report on the activities of the varumani.
+		* Recently received orders to undermine Varboka’s authority, to prevent Varboka from moving against the goblins.
+	* Prudence has interests in varumani mating rituals (unwitnessed), why no varumani have ever been tapped as a Knight, and the particular tactile qualities of the skins of all manner of creatures.
+	* He is a reliable recruiter for the knights, persuading members of NPC adventuring groups to consider a career/lifetime as a knight.
+	* He has a well-known soft spot for cheerful grifters and cheats, so long as he is not the victim.
+* C. Ogre Guards
+	* 2 obedient ogre guards are stationed at each of the western exits to the court.
+* D. Visitors
+	* 1d3+5 distinct groups (rol below for groups and motives)
 
 Courtiers’ Motives and Background
 
 Roll d8 for the source of a courtier’s status and d20 for his/her current plans, plots or agenda
 
 D8 Source of Status
-1 Heroic personal combat against heqeti on Level 9
-2 Combat leadership of a small group of varumani
-3 Strategic planning 
-4 Discovery of minerals (1-2), treasure (3-4), or food sources (5-6)
-5 Discovery of important rudishva-era technology (1-4) or locations within Arden Vul (5-6)
-6 Diplomatic success, achieved against the Set Cult (1-2), the beastmen (3-4), or the goblins (5-6)
-7 Diplomatic success, with adventurers. Familiar with 1-2 groups of NPC adventurers.
-8 Friend (1-4) or family (5-6) of Varboka
+* 1 Heroic personal combat against heqeti on Level 9
+* 2 Combat leadership of a small group of varumani
+* 3 Strategic planning 
+* 4 Discovery of minerals (1-2), treasure (3-4), or food sources (5-6)
+* 5 Discovery of important rudishva-era technology (1-4) or locations within Arden Vul (5-6)
+* 6 Diplomatic success, achieved against the Set Cult (1-2), the beastmen (3-4), or the goblins (5-6)
+* 7 Diplomatic success, with adventurers. Familiar with 1-2 groups of NPC adventurers.
+* 8 Friend (1-4) or family (5-6) of Varboka
 
 D20 Current Agenda or Plan
-1 Boasting about his/her achievements
-2 Suspicious intimidation of non-varumani
-3 Acquisition of personal wealth
-4 Political maneuvering so as to be poised to be the next thegn, ‘should anything happen to Varboka’
-5 Desire to mount an expedition to a specific lost tomb 
-1-2: on Level 5
-3-5: in the drowned canyon (Sub-Level 6)
-6: elsewhere (GM’s choice)
-6 “Heqeti delenda sunt!” ('Let the heqeti be destroyed!') Talks to everyone about the need to destroy the growing heqeti threat.
-7 Plot to undermine the authority of King Weskenim, in favor of Gislu (see 4-2) or Gribble (see 3-105)
-8 Plot to eliminate Deino (3-158) and subjugate the beastmen
-9 Friend of an exiled varumani trying to rehabilitate the exile’s name in the eyes of the thegn. Either friend of Gog (5-2) or Iklor (petrified at 5-53).
-10 Enemy of Varboka, seeking quietly to build a coalition against him
-11 Radical who believes the Inn of the Lost’s neutrality is bad for the varumani. Full of suspicions about Thegan White-Mane (6-19) and Justin the Nose (6-7)
-12 Peacemaker, who tries to get other courtiers and visitors to agree to talk openly and collectivelyabout all possible plans
-13 Historical zealot, who wants to locate the original home of the varumani and the remains of Vanara (see 5-139)
-14 Roll twice, ignoring results of 14
-15 Religious fanatic, trying to convert the famously non-religious varumani to some religious belief
-16 Obsessed with the Sun-Scarred knights, either to join them (1-3) or annihilate them (4-6)
-17 Apprehensive about the elusive hints of a new power structure in the halls, those who ‘follow the knot’ and wield potent sorceries (i.e., the Priscians – see 9-58 to 9-64). Wants information about them or seeks to eliminate them.
-18 Looking for important documents about varumani birth rates. Believes they were stolen by a ‘low-down rat of a beastman.’ GM: Helios of Dog patrol is currently hawking the documents at the Forum of Set (4-2) 
-19 Fascinated with Archonteans and sorcery (at which the varumani have almost no skill). Eager to make alliances and connections with lawful Archonteans
-20 Obsessed with a particular monster somewhere in the halls; wants it eliminated. GM’s choice.
+* 1 Boasting about his/her achievements
+* 2 Suspicious intimidation of non-varumani
+* 3 Acquisition of personal wealth
+* 4 Political maneuvering so as to be poised to be the next thegn, ‘should anything happen to Varboka’
+* 5 Desire to mount an expedition to a specific lost tomb 
+	* 1-2: on Level 5
+	* 3-5: in the drowned canyon (Sub-Level 6)
+	* 6: elsewhere (GM’s choice)
+* 6 “Heqeti delenda sunt!” ('Let the heqeti be destroyed!') Talks to everyone about the need to destroy the growing heqeti threat.
+* 7 Plot to undermine the authority of King Weskenim, in favor of Gislu (see 4-2) or Gribble (see 3-105)
+* 8 Plot to eliminate Deino (3-158) and subjugate the beastmen
+* 9 Friend of an exiled varumani trying to rehabilitate the exile’s name in the eyes of the thegn. Either friend of Gog (5-2) or Iklor (petrified at 5-53).
+* 10 Enemy of Varboka, seeking quietly to build a coalition against him
+* 11 Radical who believes the Inn of the Lost’s neutrality is bad for the varumani. Full of suspicions about Thegan White-Mane (6-19) and Justin the Nose (6-7)
+* 12 Peacemaker, who tries to get other courtiers and visitors to agree to talk openly and collectively about all possible plans
+* 13 Historical zealot, who wants to locate the original home of the varumani and the remains of Vanara (see 5-139)
+* 14 Roll twice, ignoring results of 14
+* 15 Religious fanatic, trying to convert the famously non-religious varumani to some religious belief
+* 16 Obsessed with the Sun-Scarred knights, either to join (1-3) or annihilate them (4-6)
+* 17 Apprehensive about the elusive hints of a new power structure in the halls, those who ‘follow the knot’ and wield potent sorceries (i.e., the Priscians – see 9-58 to 9-64). Wants information about them or seeks to eliminate them.
+* 18 Looking for important documents about varumani birth rates. Believes they were stolen by a ‘low-down rat of a beastman.’ GM: Helios of Dog patrol is currently hawking the documents at the Forum of Set (4-2) 
+* 19 Fascinated with Archonteans and sorcery (at which the varumani have almost no skill). Eager to make alliances and connections with lawful Archonteans
+* 20 Obsessed with a particular monster somewhere in the halls; wants it eliminated. GM’s choice.
 
-Visting Groups
+Visiting Groups
 
 D20 Group Stats
 
-1-2 Beastmen patrol, composed of a sergeant and six troopers
+1-2
+Beastmen patrol, composed of a sergeant and six troopers
 
 6 beastman troopers (see new monsters): SZ S; AL LN; AC 6; MV 90’; HD 1+1; HP: 8, 7, 7, 6, 6, 5; #AT 1; Dmg 1-6. Special attacks: tactics. Possessions: ring mail and shield; spears; short swords; short bows1 beastman sergeant (see new monsters): SZ S; AL LN; AC 4; MV 90’: HD 2+2; HP 15; #AT 1; Dmg 1-6 or 2-5. Special attacks: tactics. Possessions: ring mail and shield; spear; war hammer
 
-3-6 Goblins
+3-6
+Goblins
 
 8 goblins: SZ S; AL LE; AC 6; MV 60'; HD 1-1; HP 7, 6, 5(x3), 4, 4, 3; #AT 1; Dmg 1-6
 
-7-8 Lizardmen
+7-8
+Lizardmen
 
 6-8 lizardmen: SZ M; AL N; AC 5; MV 60’, 120’ swimming; HD 2+1; HP 15, 13, 13, 12, 11, 11; #AT 1 or 3; Dmg 1-6 (club) and 1-6 (javelin), or 1-2/1-2/1-8. Possessions: clubs; javelins.
 
-9-10 Set deacon plus 6 Set guardsmen
+9-10
+Set deacon plus 6 Set guardsmen
 
 1 Set deacon (see new monsters), as a 6th-level Archontean cleric of Set: SZ M; AL LE; AC 3; MV 90’; HD 6; HP 38; #AT 1; Dmg 3-8 (mace +1). Possessions: Set armor +1 (see Arden Vul items); deacon’s was stick (see new magic items); footman’s mace +1; an amulet of protection against normal missiles (see new magic items); a potion of extra healing; a potion of glibness; a scroll of curse; and a gold holy symbol of Set (150 gp). Spells prayed for: command, cure light wounds (x2), cause fear, protection from good; chant, hold person, know alignment, resist fire, silence 15’ radius; animate dead, dispel magic, cause blindness; cause serious wounds.
 
 6 Set guardsmen (see new monsters), as 2nd-level Archontean fighters: SZ M; AL LE; AC 5; MV 60’; HD 2; HP 18, 17, 16, 16, 15, 12; #AT 1, Dmg 2-7 (mace), 1-6 (spear) and 1-4 (light crossbow). Special defense: fanaticism. Possessions: red scale mail and wooden shield; footman’s maces; spears; light crossbows with 20 bolts
 
-11-14 NPC adventurers pursuing their own  goal or mission
+11-14
+NPC adventurers pursuing their own  goal or mission
 
 Select an appropriate group from the NPC appendix
 
-15-16 NPC adventurers looking to hire themselves to the highest bidder
+15-16
+NPC adventurers looking to hire themselves to the highest bidder
 
 Select an appropriate group from the NPC appendix
 
-17-20 Special
+17-20
+Special
 
 See Special Visitors table below
+
 
 Special Visitors (from Visting Groups Table)
 
@@ -1778,50 +1820,54 @@ D20 Result
 	* 6. Marcus Junienos (4-56)
 	* 7. Isocritis Half-Hand (2-70)
 	* 8. Yurtil Skreel-Friend (SL5-35)
-
-19
-Track rival group deeper into the Halls, either for a secret meeting (25%) or an ambush (75%)
-
-20+
-Roll twice on this table, ignoringsubsequent rolls of 20
+* 19 Track rival group deeper into the Halls, either for a secret meeting (25%) or an ambush (75%)
+* 20+ Roll twice on this table, ignoringsubsequent rolls of 20
 
 
 Four sample courtiers, four groups of ordinary visitors, and two groups of special visitors are listed for the convenience of the GM:
 
-Reja (courtier): A lesser varumani friend of Varboka’s from infancy, Reja has a status that exceeds his achievements. In fact, he has never really left the varumani domain and as such is openly ridiculed as a ‘poor specimen of a varumani’ by the more aggressive and the more martial. As a result, Reja is usually found leaning against a pillar, observing the goings-on rather than actively participating in them. Despite his ‘outsider’ status, though, Varboka plainly values Reja’s advice and wisdom. Indeed, Reja is one of the only varumani (perhaps the only one) to have noticed signs of a new faction within the halls: the Priscians. He has spotted and catalogued their devices (knots, images of bearded men), and knows that some of the magic users who pass through the court have been Priscians. To date, though, Reja keeps this information to himself. Those who befriend Reja might find the path to Varboka easier to tread.
+Reja (courtier)
+* A lesser varumani friend of Varboka’s from infancy, Reja has a status that exceeds his achievements. In fact, he has never really left the varumani domain and as such is openly ridiculed as a ‘poor specimen of a varumani’ by the more aggressive and the more martial. As a result, Reja is usually found leaning against a pillar, observing the goings-on rather than actively participating in them. Despite his ‘outsider’ status, though, Varboka plainly values Reja’s advice and wisdom. Indeed, Reja is one of the only varumani (perhaps the only one) to have noticed signs of a new faction within the halls: the Priscians. He has spotted and catalogued their devices (knots, images of bearded men), and knows that some of the magic users who pass through the court have been Priscians. To date, though, Reja keeps this information to himself. Those who befriend Reja might find the path to Varboka easier to tread.
 
 Reja, a lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: mace.
 
-Lishna (courtier): An aged (200+ years) true varumani who has been one of the prime strategic planners for the past several thegns, Lishna is very wise and sharp, and has a good mind for factional politics. It is for her mind that the thegns are willing to tolerate her frank and open xenophobia. Lishna distrusts all outsiders, and especially hates Archonteans. While she is too wily (and old) to confront outsiders directly, she actively attempts to undermine 
-their diplomatic efforts at court. She is treated with respect but a certain amount of distance by the rest of the court. Lishna is aware of the lover’s aid orchid (see new flora and area 6-4), and will occasionally use specimens she has collected in order to further her purposes at court. 
+Lishna (courtier)
+* An aged (200+ years) true varumani who has been one of the prime strategic planners for the past several thegns, Lishna is very wise and sharp, and has a good mind for factional politics. It is for her mind that the thegns are willing to tolerate her frank and open xenophobia. Lishna distrusts all outsiders, and especially hates Archonteans. While she is too wily (and old) to confront outsiders directly, she actively attempts to undermine their diplomatic efforts at court. She is treated with respect but a certain amount of distance by the rest of the court. Lishna is aware of the lover’s aid orchid (see new flora and area 6-4), and will occasionally use specimens she has collected in order to further her purposes at court. 
 
 Lishna, a true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 41; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
 
-Yog (courtier): This genial lesser varumani accrued much favor at court by discovering a hoard of six fully-charged rudishva lesser power supplies. This meant a temporary return to service of the Nutri-Vore 2000 in 7-16, for which Yog was temporarily treated as a hero. Riding that popularity, Yog has tried to interest the court in ‘cleaning out’ the other denizens of the southern caves, including the ‘demon spider’ (7-58, a phase spider) that he claims haunts the area. As no one else has seen the ‘demon spider’, his efforts have thus far failed. Yog’s fifteen minutes of fame are ticking down, and he is anxious to reclaim the limelight through another bold deed. 
+Yog (courtier)
+* This genial lesser varumani accrued much favor at court by discovering a hoard of six fully-charged rudishva lesser power supplies. This meant a temporary return to service of the Nutri-Vore 2000 in 7-16, for which Yog was temporarily treated as a hero. Riding that popularity, Yog has tried to interest the court in ‘cleaning out’ the other denizens of the southern caves, including the ‘demon spider’ (7-58, a phase spider) that he claims haunts the area. As no one else has seen the ‘demon spider’, his efforts have thus far failed. Yog’s fifteen minutes of fame are ticking down, and he is anxious to reclaim the limelight through another bold deed. 
 
 Yog, a lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: flail.
 
-Janara (courtier): This hulking true varumani warrior is famous for having single-handedly defeated a band of heqeti hoppers on the floor of the chasm (see 9-1, but the action occurred near 9-75). She even brought two heqeti heads back to the court as trophies. Janara is not very smart, although she is a fine warrior; she doesn’t realize that her success was due almost entirely to luck. She spends his days constantly haranguing everyone – and especially new visitors – about the threat of the heqeti, and the necessity of ‘eliminating them once and for all!’ Although she may seem risible to the PCs, her achievements are legendary among the varumani, many of whom are coming around to her way of thinking. Unbeknownst to Janara, a witness to the battle exists (Cinna Minux, 7-122), and Thegan White-Mane (6-19) possesses a transcript of that witness’s account. If Thegan’s transcript were made known to the court, it would ruin Janara and likely halt varumani military expansion towards Level 9. 
+Janara (courtier)
+* This hulking true varumani warrior is famous for having single-handedly defeated a band of heqeti hoppers on the floor of the chasm (see 9-1, but the action occurred near 9-75). She even brought two heqeti heads back to the court as trophies. Janara is not very smart, although she is a fine warrior; she doesn’t realize that her success was due almost entirely to luck. She spends his days constantly haranguing everyone – and especially new visitors – about the threat of the heqeti, and the necessity of ‘eliminating them once and for all!’ Although she may seem risible to the PCs, her achievements are legendary among the varumani, many of whom are coming around to her way of thinking. Unbeknownst to Janara, a witness to the battle exists (Cinna Minux, 7-122), and Thegan White-Mane (6-19) possesses a transcript of that witness’s account. If Thegan’s transcript were made known to the court, it would ruin Janara and likely halt varumani military expansion towards Level 9. 
 
-Janara, a true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 62; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.Pillik, the goblin sub-chief, with six warriors (ordinary visitors): Pillik is on an official embassy from King Weskenim (SL4-22) and has been tasked with negotiating an alliance of equals between Weskenim and the thegn. Weskenim and Pillik would like to have a written document that delineates spheres of influence for both 
-courts. Unfortunately, the tenor of the court is currently rather aggressive, and Varboka has become convinced that it is time to subjugate the goblins to varumani authority (see 7-30). Pillik is thus finding his task extremely difficult. Pillik is also supposed to be nosing out the whereabouts of Gislu the mystic (see 4-2). He is aware that Intef (see below) is up to no good, and is also aware that Varboka has granted many more audiences to Intef than to Pillik himself. In desperation, Pillik has hired the NPC group known as the Broom to assassinate Intef (see below).
+Janara, a true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 62; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
+
+Pillik, the goblin sub-chief, with six warriors (ordinary visitors)
+* Pillik is on an official embassy from King Weskenim (SL4-22) and has been tasked with negotiating an alliance of equals between Weskenim and the thegn. Weskenim and Pillik would like to have a written document that delineates spheres of influence for both courts. Unfortunately, the tenor of the court is currently rather aggressive, and Varboka has become convinced that it is time to subjugate the goblins to varumani authority (see 7-30). Pillik is thus finding his task extremely difficult. Pillik is also supposed to be nosing out the whereabouts of Gislu the mystic (see 4-2). He is aware that Intef (see below) is up to no good, and is also aware that Varboka has granted many more audiences to Intef than to Pillik himself. In desperation, Pillik has hired the NPC group known as the Broom to assassinate Intef (see below).
 
 Pillik, goblin sub-chief (as a hobgoblin): SZ M; AL LE; AC 5; MV 60’; HD 1+1; HP 7; #AT 1; Dmg 1-8 (long sword). Possessions: long sword.
 
 6 goblins: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 6, 5, 5, 4, 3, 3; #AT 1; Dmg 1-6.
 
-The Broom, a mid- to high-level NPC band (ordinary visitors): This group of evil NPCs is led by the Wiskin fighter, Harold Good-Ears. They have valuable information about the location of Gislu the mystic (4-2), which they have sold to Pillik and are willing to sell to others. They also encountered and slew a small band of kaliyani on Level 8 (at 8-8); they have just learned that the thegn offers a bounty for kaliyani fangs, and are contemplating returning to that site to recover the fangs. They have tentatively agreed to assassinate Intef the deacon (see below) for Pillik, but have not yet moved on this task; indeed, they are contemplating betraying Pillik, if they can decide who would pay the most for information about the assassination contract. 
+The Broom, a mid- to high-level NPC band (ordinary visitors)
+* This group of evil NPCs is led by the Wiskin fighter, Harold Good-Ears. They have valuable information about the location of Gislu the mystic (4-2), which they have sold to Pillik and are willing to sell to others. They also encountered and slew a small band of kaliyani on Level 8 (at 8-8); they have just learned that the thegn offers a bounty for kaliyani fangs, and are contemplating returning to that site to recover the fangs. They have tentatively agreed to assassinate Intef the deacon (see below) for Pillik, but have not yet moved on this task; indeed, they are contemplating betraying Pillik, if they can decide who would pay the most for information about the assassination contract. 
 
 The Broom: see NPC appendix.
 
-Arctos, a beastman sergeant, with six troopers (ordinary visitors): Reith, the junior overseer of the Troll Lifts (6-50), taunted some beastmen returning from the Arena about having one of their dog brothers, ‘stuffed and mounted, and with a collar.’ Tagma command rightly guessed that this was a reference to Rex, legendary faithful ‘First Hound’ and companion of Gennadius. When Reith refused to negotiate with the beastmen, or even show them the item, Tagma Command sent Arctos to formally petition the thegn to aid them in their recovery, even if it meant compelling Reith to hand over Rex. Arctos would also like very much to learn where Reith acquired Rex, and has a sizable stash of coin (3,000 gp) with which to hire adventurers to pursue this lead. If negotiations fail, Arctos is supposed to steal the object from Reith; he has little hope that such a theft would work, unless he were to hire a more proficient thief from outside the tagma.
+Arctos, a beastman sergeant, with six troopers (ordinary visitors)
+* Reith, the junior overseer of the Troll Lifts (6-50), taunted some beastmen returning from the Arena about having one of their dog brothers, ‘stuffed and mounted, and with a collar.’ Tagma command rightly guessed that this was a reference to Rex, legendary faithful ‘First Hound’ and companion of Gennadius. When Reith refused to negotiate with the beastmen, or even show them the item, Tagma Command sent Arctos to formally petition the thegn to aid them in their recovery, even if it meant compelling Reith to hand over Rex. Arctos would also like very much to learn where Reith acquired Rex, and has a sizable stash of coin (3,000 gp) with which to hire adventurers to pursue this lead. If negotiations fail, Arctos is supposed to steal the object from Reith; he has little hope that such a theft would work, unless he were to hire a more proficient thief from outside the tagma.
 
 1 beastman sergeant (see new monsters): SZ S; AL LN; AC 4; MV 90’: HD 2+2; HP 15; #AT 1; Dmg 1-6 or 2-5. Special attacks: tactics. Possessions: ring mail and shield; spear; war hammer.
 
 6 beastman troopers (see new monsters): SZ S; AL LN; AC 6; MV 90’; HD 1+1; HP: 8, 7, 7, 6, 6, 5; #AT 1; Dmg 1-6. Special attacks: tactics. Possessions: ring mail and shield; spears; short 
 swords; short bows.
 
-Intef, the Set deacon, with five Set guardsmen (ordinary visitors): Intef has been sent to the thegn’s court to try to persuade Varboka to join High Priestess Stephania (4-51) in an alliance, with the specific aim of eliminating both the beastmen and the goblins. Intef is a short (5’2”) and rather round man, but is equipped with a sharp mind and a silver tongue. It is due to his influence that Varboka is contemplating the subjugation of the goblins (although Intef actually wanted Varboka to kill them all). Pillik the goblin has recently hired the Broom (see above) to assassinate Intef.
+Intef, the Set deacon, with five Set guardsmen (ordinary visitors)
+* Intef has been sent to the thegn’s court to try to persuade Varboka to join High Priestess Stephania (4-51) in an alliance, with the specific aim of eliminating both the beastmen and the goblins. Intef is a short (5’2”) and rather round man, but is equipped with a sharp mind and a silver tongue. It is due to his influence that Varboka is contemplating the subjugation of the goblins (although Intef actually wanted Varboka to kill them all). Pillik the goblin has recently hired the Broom (see above) to assassinate Intef.
 
 Intef, a Set deacon (see new monsters), as a 6th-level Archontean cleric of Set: SZ M; AL LE; AC 3; MV 90’; HD 6; HP 42; #AT 1; Dmg 3-8 (mace +1). Possessions: Set armor +1 (see 
 Arden Vul items); deacon’s was stick (see new magic items); footman’s mace +1; an amulet of protection against normal missiles (see new magic items); a potion of extra healing; a 
@@ -1830,16 +1876,16 @@ know alignment, resist fire, silence 15’ radius; animate dead, dispel magic, c
 
 4 Set guardsmen (see new monsters), as 2nd-level Archontean fighters: SZ M; AL LE; AC 5; MV 60’; HD 2; HP 18, 17, 15, 12; #AT 1, Dmg 2-7 (mace), 1-6 (spear) and 1-4 (light crossbow). Special defense: fanaticism. Possessions: red scale mail and wooden shield; footman’s maces; spears; light crossbows with 20 bolts.
 
-Sable Granite, the dwarf, with his five dwarven comrades (special visitors): This band of well-armored dwarven fighters claims to have journeyed from Kazildor (see World of Archontos appendix) in order to re-appropriate certain ‘rightful’ heirlooms of the dwarven people, namely the hammer, tongs, and belt of the great smith, Zhorak (see 8-100). They are suspicious, dour, and tight-lipped, as dwarves usually are. Typically they stand to one side, with cloaks up, staring at newcomers and, eventually, interrogating new visitors about their knowledge of dwarven artifacts and/or Zhorak. For all of this, the ‘dwarves’ are impostors, as they are actually doppelgangers engaged in yet another skirmish in the age-old war between their people and the dwarves. Sable and his companions might sponsor an expedition in search of Zhorak’s forge, but might also merely follow adventurers and hope to ambush them. For stats, see table above.
+Sable Granite, the dwarf, with his five dwarven comrades (special visitors)
+* This band of well-armored dwarven fighters claims to have journeyed from Kazildor (see World of Archontos appendix) in order to re-appropriate certain ‘rightful’ heirlooms of the dwarven people, namely the hammer, tongs, and belt of the great smith, Zhorak (see 8-100). They are suspicious, dour, and tight-lipped, as dwarves usually are. Typically they stand to one side, with cloaks up, staring at newcomers and, eventually, interrogating new visitors about their knowledge of dwarven artifacts and/or Zhorak. For all of this, the ‘dwarves’ are impostors, as they are actually doppelgangers engaged in yet another skirmish in the age-old war between their people and the dwarves. Sable and his companions might sponsor an expedition in search of Zhorak’s forge, but might also merely follow adventurers and hope to ambush them. For stats, see table above.
 
 Sable Granite, a doppelganger impersonating the real dwarven hero: SZ M; AL N; AC 3; MV 90’; HD 4; HP 26; #AT 1; Dmg 1-12 or 5-8 (war hammer +3). Special attacks: surprise 4 in 6. 
 Special defenses: immune to charm and sleep; saves as a 10th-level fighter. Special: ESP. Possessions: scale mail +3; potion of fire resistance; a war hammer +3; 2 potions of rock melting (see new magic items); and an inert dwarven life-stone (see new magic items) that once belonged to a dwarf named Korda Malachite.
 
 5 doppelgangers, posing as the dwarven clansmen of Sable Granite: SZ M; AL N; AC 5; MV 90’; HD 4; HP 29, 26, 25, 24, 23; #AT 1; Dmg 1-12 or 1-8 (battle axe) Special attacks: surprise 4 in 6. Special defenses: immune to charm and sleep; saves as a 10th-level fighter. Special: ESP. Possessions: chain mail; battle axes.
 
-Gaius Christopher, a grizzled but polite knight commander of the Order of the Azure Shield, with two squires (special visitors): Gaius Christopher journeyed from the Azure Keep (AK-1) on a mission from the Lady Alexia, aka the Green Lady (Ak-2, and World of Archontos appendix). She entrusted the knight commander with an important message to Varboka, one offering equal lordship above and below the ground should Varboka help her recover the four lost artifacts of the archons of Arden Vul. She seeks the artifacts – the iron circlet of Ghanor (3-127A), the tablet of the Beacon (9-107), the bone ring of Jagri-Naz (5-74), and the 
-ebon spear (SL5-13B) - ahead of her treacherous brother, Lord Burdock. Varboka is well aware of the rivalry between the siblings, and enjoys watching it play out. The thegn has already decided not to help her, mostly because he doesn’t want either sibling to re-acquire objects that might lead to another Archontean hegemony, but also because he has no idea where they might be. He hasn’t informed Gaius Christopher of his decision yet, as he enjoys 
-watching the knight squirm. For stats, see table above.
+Gaius Christopher, a grizzled but polite knight commander of the Order of the Azure Shield, with two squires (special visitors)
+* Gaius Christopher journeyed from the Azure Keep (AK-1) on a mission from the Lady Alexia, aka the Green Lady (Ak-2, and World of Archontos appendix). She entrusted the knight commander with an important message to Varboka, one offering equal lordship above and below the ground should Varboka help her recover the four lost artifacts of the archons of Arden Vul. She seeks the artifacts – the iron circlet of Ghanor (3-127A), the tablet of the Beacon (9-107), the bone ring of Jagri-Naz (5-74), and the ebon spear (SL5-13B) - ahead of her treacherous brother, Lord Burdock. Varboka is well aware of the rivalry between the siblings, and enjoys watching it play out. The thegn has already decided not to help her, mostly because he doesn’t want either sibling to re-acquire objects that might lead to another Archontean hegemony, but also because he has no idea where they might be. He hasn’t informed Gaius Christopher of his decision yet, as he enjoys watching the knight squirm. For stats, see table above.
 
 13-16 true varumani courtiers (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 62, 61, 60(x3), 59(x3), 58(x3), 57, 57, 54, 53, 52; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-
 handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
@@ -1857,76 +1903,111 @@ Visitors, in 4-8 groups: determine using tables above.
 
 ### 7-76: The Troll Market, aka the Cave of Blood
 
-This large cavern is famous for its history as well as for its function in the present. About 230 years ago it was the site of the famous (to varumani) defeat of the Archontean expeditionary force under Adrienic at the hands of the then-thegn, Girvala. As such it is venerated by the varumani as an iconic symbol of varumani prowess while it is known, by reputation only, to the Archonteans as a symbol of tragic, hubristic failure. To those unversed in history, however, the cavern is also the site of the Troll Market, which is the vernacular name for the public exchange sponsored by Varboka the thegn. Visitors may browse in one of eight or so permanent trading booths, or can strike deals along the platforms with more temporary salesmen. 
 
-The natural cavern is about 50’ tall. Running through the center of the cavern is a set of wooden platforms that rise 20’ from the floor, and which are supported by seven massive stone pillars (marked by the pillar sign on the map). The walls of the cave are thick with creepers and the entire place echoes with the chirp of cave insects. Side caves run along the north and south walls, and these are connected to the main set of platforms by rope bridges. 
+* The large, 50'-high natural cavern hosts the Troll Market.
+	* The walls are thick with creepers, and the cave echoes with the chirp of cave insects.
+	* Running through the center of the cavern are wooden platforms rising 20’ from the floor, supported by 7 massive stone pillars.
+		* Visitors and varumani alike crowd about buying, selling, and trading goods and information.  Booths and spread blankets host transient and semi-permanent peddlers and brokers.
+	* Side caves run along the north and south walls, connected to the main platforms by rope bridges, and hosting permanent merchant booths.
+		* 4 additional side caves hold 4 rudishva point defense arrays, controlled remotely from 7-11.
+	* The floor of the cavern lies 20’ below the platforms.
+		* Tents, draped partitions, and crude shanties fill much of the lower area; campsites for travelers, peddlers without caves, etc.
+			* Minor business goes on: meager stew is sold, rough but prepared straw palettes, etc.
+		* The piled bones of Adrienic's expedition are at the southeastern end, beneath the thegn's balcony (7-13).
+			* The bone pit holds hundreds of human skeletons, stripped bare by insects.
+			* Most of the valuables were stripped in the aftermath, but careful searching can turn up items (roll below every 3-6 turns of searching).
 
-The permanent booths are located in the side caves, while the central platform is where visitors and varumani alike crowd about buying, selling, and trading goods and information. In addition to the main side caves, four additional side caves hold the secret to the varumani success against Adrienic: four rudishva-era point defense arrays, which may be controlled remotely from area 7-11.
+History of "the Caves of Blood"
+* ~230 years ago the cave hosted the defeat of the Archontean expeditionary force under Adrienic at the hands of the then-thegn, Girvala.  
+* 5 cohorts of the II Scutarii (i.e., the Sheepshead Rangers) and much of the third cohort of the Imperial Tagmata (the Able Ones), marched to their demise here under the foolish orders of Archon Adrienic.  The Archontean soldiers were caught in a web of laser fire from the point defense arrays (7-76K) and annihilated.
+* The cave is venerated by the varumani as a symbol of varumani prowess.  To the Archonteans its reputation is as a symbol of tragic, hubristic failure.
 
-The Cavern Floor
-
-The floor of the cavern lies 20’ below the platforms. Those poking around on the floor will quickly discover hundreds of human skeletons, all stripped clean by the insect life that lives here. These are the remains of five cohorts of the II Scutarii (i.e., the Sheepshead Rangers) and much of the third cohort of the Imperial Tagmata (the Able Ones), both of which marched to their demise here under the foolish orders of Archon Adrienic about 230 years ago. The Archontean soldiers were caught in a web of laser fire from the point defense arrays (areas 7-76K) and annihilated. Although most of the valuables were stripped from the corpses in the aftermath of the defeat, careful searching can turn up the following (3-6 turns 
-searching per item):
+Bone Pit Items
 
 D8 Item
-1 A purse with 37 sp and 15 gp
-2 A battered silver helmet in the shape of a sheep’shead (55 gp for metal, 175 gp as a curio)
-3 An oliphant carved with the insignia “III Cohort. Able Ones,” worth 75 gp or 200 gp to a collector [GM Note: a reference to the 3rd cohort of the Imperial tagmata] 4 A pair of silver belt fittings embossed with the heads of sheep (10 gp each)
-5 A badly decayed officer’s baculus with tarnished silver tips, worth 60 gp
-6 An almost completely ruined parchment diary. The owner was “Tull[iaros] [polemarch] of the II Scutarii”. 
-Among the only readable bits is this, one of the final entries: “Why must we suffer the incompetence of aristocrats who fancy themselves soldiers? Adrienic believes his ‘grand strategy’ will bring the trolls to their knees. Yet he adopts no tactical plan worthy of the name, and will not listen to my pleas. Scouts and skirmishers? Unnecessary, according to A. The best plan? Marching straight into the trollish domain in a solid phalanx, as if we were maneuvering on the plains before Arcturos. May the gods forfend us from disaster! I will do my part, as my oath to the Emperor requires, but I fear the worst.” 
-7 A half-charged rudishva lesser power supply (see new technological items)
-8 A still-usable imperial gladius (short sword)
+* 1 A purse with 37 sp and 15 gp
+* 2 A battered silver helmet in the shape of a sheep’shead (55 gp for metal, 175 gp as a curio)
+* 3 An oliphant carved with the insignia “III Cohort. Able Ones,” worth 75 gp or 200 gp to a collector [GM Note: a reference to the 3rd cohort of the Imperial tagmata] 4 A pair of silver belt fittings embossed with the heads of sheep (10 gp each)
+* 5 A badly decayed officer’s baculus with tarnished silver tips, worth 60 gp
+* 6 An almost completely ruined parchment diary. The owner was “Tull[iaros] [polemarch] of the II Scutarii”. 
+	* Among the only readable bits is this, one of the final entries: “Why must we suffer the incompetence of aristocrats who fancy themselves soldiers? Adrienic believes his ‘grand strategy’ will bring the trolls to their knees. Yet he adopts no tactical plan worthy of the name, and will not listen to my pleas. Scouts and skirmishers? Unnecessary, according to A. The best plan? Marching straight into the trollish domain in a solid phalanx, as if we were maneuvering on the plains before Arcturos. May the gods forfend us from disaster! I will do my part, as my oath to the Emperor requires, but I fear the worst.” 
+* 7 A half-charged rudishva lesser power supply (see new technological items)
+* 8 A still-usable imperial gladius (short sword)
 
 The Troll Market
 
-Unlike the more heavily regulated Forum of Set, the thegn imposes no formal laws or rules to govern activity in the Troll Market save an unwritten but widely-known prohibition against lethal violence. Commerce takes place in the fixed ‘booths’ (caves 7-76A to 7-76J) as well as along the platforms. Those using the Troll Market include the varumani, adventurers exploring the Halls, representatives of other factions, and the occasional unusual visitor, whether from outside Arden Vul or from the caves that lead deeper into the earth. It should be noted that the thegn provides no accommodations to visitors to the Market; those who need to stay overnight typically climb to the cavern floor and sleep among the bones. 
+* The thegn imposes no formal laws or rules to govern activity in the Troll Market save an unwritten but widely-known prohibition against lethal violence.
+* Commerce takes place in the fixed ‘booths’ (caves 7-76A to 7-76J) and along the platforms.
+* Those using the Troll Market include the varumani, adventurers exploring the Halls, representatives of other factions, and the occasional unusual visitor, whether from outside Arden Vul or from the caves that lead deeper into the earth.
+* The thegn provides no accommodations to visitors to the Market; those who need to stay overnight typically climb to the cavern floor and sleep among the bones.
 
-At any given moment, the following are present at the Troll Market:
+##### Inhabitants
 
 A. Wardens of the Market
-
-Three tough, ring-mail clad, true varumani warriors patrol the market under the command of Layela Three-Tufts. Layela and his ‘gals’ (the other two wardens are female) are well known to habitués of the market, and greet regulars jovially. If anything they are more likely to side with existing merchants in a dispute, and like nothing more than to haul miscreants away and kick them down the Dread Risers (7-2). That said, they interfere only when matters become serious and blood is about to be shed. 
+* 3 tough, ring-mail clad, true varumani warriors patrol the market under the command of Layela Three-Tufts.
+	* Layela and her ‘gals’ are well known to habitués of the market, and greet regulars jovially. They are more likely to side with existing merchants in a dispute, and like nothing more than to haul miscreants away and kick them down the Dread Risers (7-2). They interfere only when matters become serious and blood is about to be shed. 
 
 Layela Three-Tufts and 2 other true varumani (see new monsters), wardens of the market: SZ L; AL LN; AC 2; MV 90’; HD 8; HP 63, 62, 58; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail.
 
 B. Food Vendors
-
-Four lesser varumani vendors wander the platforms, offering delicacies to the hungry. The source of the food is not always clear, and regulars know better than to ask. Each vendor carries about 150 sp and 20 gp. The delicacies on offer are these:
+* Four lesser varumani vendors wander the platforms, offering delicacies to the hungry.
+	* The source of the food is not always clear, and regulars know better than to ask.
 
 Food Item Price
-Rat on a stick 5 sp/rat
-Candied fruit 1 gp/glob
-Baked insects 5 cp each, or 15 sp/lb
-Toasted mushrooms 5 sp/skewer-full
-Green friend (see new flora) 3 gp per 3’ strand
+* Rat on a stick 5 sp/rat
+* Candied fruit 1 gp/glob
+* Baked insects 5 cp each, or 15 sp/lb
+* Toasted mushrooms 5 sp/skewer-full
+* Green friend (see new flora) 3 gp per 3’ strand
 
-4 lesser varumani (see new monsters) food vendors: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 59, 55, 53, 51; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
+4 lesser varumani (see new monsters) food vendors: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 59, 55, 53, 51; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision.
+* Possessions: club, ~150 sp and ~20 gp.
 
 C. Peddlers
 
-These are wandering merchants with neither the money nor inclination to rent one of the official market booths. At any mo-ment there are 0-3 such peddlers hawking their wares on the platforms. As compared to the market goods for sale in the booths, the peddlers typically offer stranger and fewer goods. Sample peddlers include the following (but the GM may also use those peddlers detailed at 6-28 or SL4-40F).
+* d4-1 wandering merchants without money or inclination to rent an official market booths, hawking their wares on the platforms (typically fewer and stranger goods).
+
+D. Patrons of the Market
+
+* Those who have come to buy, sell, or browse.
+* Roll for each type to see if they are present, how many groups and how many per group.
+	* Roll primary and secondary/ulterior reason for presence.
+
+Present  Number of Groups  Number in Group
+* Goblins 60% 1-2 groups, 6-8 members each
+* Beastmen 33% 1 group, 7 members
+* Lizardmen 20% 1 group, 6 members
+* Varumani 100% 2-5 groups, 1-4 members each
+* Ogres from 7-77 80% 1-2 groups, 2-5 members each
+* NPC adventurers 80% 1-2 groups, 4-9 members each
+* Human traders (50% from outside AV) 60% 1-3 groups, 3-7 members each
+* Priscians 25% 1 group, 3-7 members
+* Special (Table 1A) 50% see below
+
+##### Peddlers
+
+Peddlers detailed from 6-28 (Arena) or SL4-40F (goblin market).
 
 Foglifter the Seer 
-
-Foglifter has the gift of second sight, and makes a living reading futures – and occasionally the past – for those willing to pay. He wears greasy, once-elegant, lemon-yellow silken robes and a floppy purple hat.
-Personality: Distracted and distant, with a flair for dramatic pronouncements complete with gestures and small smoke and pyrotechnic effects.
-Reputation and/or relations with Factions: Tolerated by all, except the goblins, who are embarrassed by his theatrics. The varumani in particular love his act, and many lesser varumani line up for readings. Harassing Foglifter would incur significant enmity from most of the sentient factions of the Halls.
-Secret? None, although he knows an awful lot about politics and the personalities of the various factions.
-Available Wealth: He swiftly converts coin to gems, so he has only 55 sp and 129 gp in his purse. But in his pack are assorted gems worth 6,500 gp.
-Might Buy: Nothing
-Goods for sale: Three levels of reading, corresponding to augury, identify, and speak with dead. He charges 200 gp for the first two, and 400 gp for the third. He accepts goods in kind.
+* Has the gift of second sight, and makes a living reading futures (occasionally the past).
+* He wears greasy, once-elegant, lemon-yellow silken robes and a floppy purple hat.
+* Personality: Distracted and distant, with a flair for dramatic pronouncements complete with gestures and small smoke and pyrotechnic effects.
+* Reputation and/or relations with Factions: Tolerated by all, except the goblins, who are embarrassed by his theatrics. The varumani in particular love his act, and many lesser varumani line up for readings. Harassing Foglifter would incur significant enmity from most of the sentient factions of the Halls.
+* Secret? None, although he knows an awful lot about politics and the personalities of the various factions.
+* Available Wealth: He swiftly converts coin to gems, so he has only 55 sp and 129 gp in his purse. But in his pack are assorted gems worth 6,500 gp.
+* Might Buy: Nothing
+* Goods for sale: Three levels of reading, corresponding to augury, identify, and speak with dead. He charges 200 gp for the first two, and 400 gp for the third. He accepts goods in kind.
 
 Foglifter the Seer (male goblin): SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 5; #AT 1; Dmg 1-6.
 
 Aruna the Gatherer 
-Aruna travels the relatively safe portions of the halls seeking out bits of Archontean ephemera. Like a magpie, he is attracted to small shiny bits of the past. Aruna is a stooped, thin man who dresses in leather armor and grey wool.
-Personality: Dull and introspective, with a mumbling voice. He lacks the salesman’s instinct, and hence is often overlooked.
-Reputation and/or relations with Factions: Has no reputation, positive or negative, and no support from any leader.Secret? He has heard of a new faction (the Priscians) and is searching for information about their location (i.e., 9-58 to 9-64).
-Available Wealth: 411 sp, 218 gp, 1,200 gp in gems
-Might Buy: Sortian eyes (see new magic items), information about Priscian sites or Sortian artifacts (provided directions come with the information)
-Companions: Peller, a deaf-mute fighter.
-Goods for Sale: 1-4 species of exotic mushroom; a skein of spider silk; a still-moving fragment of living mosaic, showing a tiny (2”-square) portion of 6-154; eight octagonal platinum coins; a guard cap (see new magic items); an Alexia’s useful pole (see new magic items); an entire text of the Litany of Light (see Arden Vul books); and a hand-written copy of the inscription at 6-147, which he will note came from ‘the icy hall of the Lady’. 
+* Aruna travels the relatively safe portions of the halls seeking out bits of Archontean ephemera. Like a magpie, he is attracted to small shiny bits of the past. Aruna is a stooped, thin man who dresses in leather armor and grey wool.
+* Personality: Dull and introspective, with a mumbling voice. He lacks the salesman’s instinct, and hence is often overlooked.
+* Reputation and/or relations with Factions: Has no reputation, positive or negative, and no support from any leader.Secret? He has heard of a new faction (the Priscians) and is searching for information about their location (i.e., 9-58 to 9-64).
+* Available Wealth: 411 sp, 218 gp, 1,200 gp in gems
+* Might Buy: Sortian eyes (see new magic items), information about Priscian sites or Sortian artifacts (provided directions come with the information)
+* Companions: Peller, a deaf-mute fighter.
+* Goods for Sale: 1-4 species of exotic mushroom; a skein of spider silk; a still-moving fragment of living mosaic, showing a tiny (2”-square) portion of 6-154; eight octagonal platinum coins; a guard cap (see new magic items); an Alexia’s useful pole (see new magic items); an entire text of the Litany of Light (see Arden Vul books); and a hand-written copy of the inscription at 6-147, which he will note came from ‘the icy hall of the Lady’. 
 
 Aruna the Gatherer, a 3rd-level male Thorcin thief: SZ M; AL CN; AC 4; MV 120’; HD 3; HP 14; #AT 1; Dmg 1-6 (short sword) or 1-4 (daggers). Abilities: STR 11, INT 12, WIS 10, DEX 17, 
 CON 11, CHA 14. Thief skills: PP 45%, OL 43%, F/RT 30%, MS 32%, HS 25%, HN 15%, CW 87%. Possessions: leather armor +1; short sword; throwing daggers; grapple and rope; brooch of confident action (see new magic items); ring of shield (see new magic items).
@@ -1935,207 +2016,168 @@ Peller, 2nd-level male Thorcin fighter, deaf and mute: SZ M; AL LN; AC 6; MV 60�
 12, CON 16, CHA 6. Possessions: scale mail; spear; broadsword; purse with 127 gp. 
 
 Hakreon the Apothecary 
-Hakreon is a genial, outgoing, wandering healer. He dresses in a dirty white robe and sports a blue turban.
-Personality: Friendly and eager-to-please. Looks puzzled if asked about himself; it’s apparent he knows nothing of his own past.
-Reputation and/or relations with Factions: Viewed with suspicion by the cult of Set, but tolerated as an odd holy man by all others.
-Secret? Hakreon was a 5th-level cleric of Ardenia Tessaeron, but he has no memory of his life prior to the past year. The reason is that he fell prey to the memory erasing trap located in Level 8 (8-111). Ardenia Tessaeron would be pleased to have his memory restored, but this can only be accomplished by destroying the appropriate figurine in 8-126.
-Available Wealth: Almost none (75 sp, 55 gp), as he gives most of his money away to the needy
-Might Buy: Nothing
-Goods for Sale: ‘Blessings’, that is, cure light wounds, cure blindness, and cure disease. Hakreon accepts donations for his blessings; he leaves the amount up to recipients. Those who offer less than 100 gp or the equivalent in goods will not receive future blessings.
+* Hakreon is a genial, outgoing, wandering healer. He dresses in a dirty white robe and sports a blue turban.
+* Personality: Friendly and eager-to-please. Looks puzzled if asked about himself; it’s apparent he knows nothing of his own past.
+* Reputation and/or relations with Factions: Viewed with suspicion by the cult of Set, but tolerated as an odd holy man by all others.
+* Secret? Hakreon was a 5th-level cleric of Ardenia Tessaeron, but has no memory of his life prior to the past year. He fell prey to the memory erasing trap located in 8-111. Ardenia Tessaeron would be pleased to have his memory restored, but this can only be accomplished by destroying the appropriate figurine in 8-126.
+* Available Wealth: Almost none (75 sp, 55 gp), as he gives most of his money away to the needy
+* Might Buy: Nothing
+* Goods for Sale: ‘Blessings’, that is, cure light wounds, cure blindness, and cure disease. Hakreon accepts donations for his blessings; he leaves the amount up to recipients. Those who offer less than 100 gp or the equivalent in goods will not receive future blessings.
 
 Hakreon the Apothecary, 5th-level male Archontean cleric of Ardenia Tessaeron with amnesia: SZ M; AL CG; AC 5; MV 60’; HD 5; HP 42; #AT 1; Dmg 2-7 (footman’s mace). Abilities: STR 13, INT 14, WIS 16, DEX 10, CON 16, CHA 11. Possessions: scale mail and shield; footman’s mace. Spells granted by Ardenia Tessaeron, despite the amnesia: cure light wounds (x4), protection from evil; augury (x2), chant, know alignment, snake charm; cure blindness (or cure disease – 50% chance for either).
 
 Utor Malachite 
-Utor is a weapons-master, and travels the mid-levels of the Halls offering a small selection of weapons for sale. He also acts as a trainer for those who need one.
-Personality: Fairly friendly as far as dwarves go, but with a thin skin and a quick temper.
-Reputation and/or relations with Factions: Utor hates the Set cult and has nothing to do with them. He admires the beastman, is fond of the goblins, and admires the varumani.
-Secret? He is looking for his missing clansmen, Jasper and Korda Malachite. GM Note: Jasper’s party entered the chamber of the keqemander demon (5-52), and Jasper was slain there. Korda has been missing for decades, and his body is lost; his life-stone, however, is now possessed by the doppelganger posing as ‘Sable Granite’ (see 7-75). 
-Available Wealth: 45 sp and 53 gp in a purse, plus a lockbox in his pack with 278 sp, 359 gp, and 6,350 gp in gems. He wields a battle axe +2 that is not for sale.
-Might Buy: Any magic or unusual weapon 
-Goods for Sale: A selection of fine daggers and hand-axes, plus the following three magic items: dagger +2, hand-axe +2, short sword +1.
+* Utor is a weapons-master, and travels the mid-levels of the Halls offering a small selection of weapons for sale. He also acts as a trainer for those who need one.
+* Personality: Fairly friendly as far as dwarves go, but with a thin skin and a quick temper.
+* Reputation and/or relations with Factions: Utor hates the Set cult and has nothing to do with them. He admires the beastman, is fond of the goblins, and admires the varumani.
+* Secret? He is looking for his missing clansmen, Jasper and Korda Malachite. GM Note: Jasper’s party entered the chamber of the keqemander demon (5-52), and Jasper was slain there. Korda has been missing for decades, and his body is lost; his life-stone, however, is now possessed by the doppelganger posing as ‘Sable Granite’ (see 7-75). 
+* Available Wealth: 45 sp and 53 gp in a purse, plus a lockbox in his pack with 278 sp, 359 gp, and 6,350 gp in gems. He wields a battle axe +2 that is not for sale.
+* Might Buy: Any magic or unusual weapon 
+* Goods for Sale: A selection of fine daggers and hand-axes, plus the following three magic items: dagger +2, hand-axe +2, short sword +1.
 
 Utor Malachite, 7th-level male dwarf fighter: SZ M; AL LN; AC 3; MV 90’; HD 7; HP 79; #AT 3/2; Dmg 5-8 (war hammer +2), 4-11 (battle axe +2), or 1-3 (darts of sleeping). Abilities: STR 
 17, INT 10, WIS 12, DEX 15, CON 17; CHA 11. Possessions: chain mail and shield; war hammer +2; 2 darts of sleeping (see new magic items); battle axe +2; dwarven life-stone (see new magic items).
 
-D. Patrons of the Market
-To determine the nature of those who have come to buy, sell, or browse, roll once on Table 1 for each potential group (e.g., there is a 60% chance for 1-2 groups of goblins), then roll on subsequent tables as indicated in the final column of Table 1.
 
-Table 1: Creatures at the Market
-
-Type Chance 
-
-Present  Number of Groups  Number in Group
-Goblins 60% 1-2 6-8
-Beastmen 33% 1 7
-Lizardmen 20% 1 6
-Varumani 100% 2-5 1-4
-Ogres from 7-77 80% 1-2 2-5
-NPC adventurers 80% 1-2 4-9
-Human traders, 50% from outside AV 60% 1-3 3-7
-Priscians 25% 1 3-7
-Special (roll on Table 1A) 50% See below see below
-
-Table 1A: Special Visitors at the Market
+##### Special Visitors at the Market
 
 D20 Special Visitor Stats
-1 Psalor-Ki See area 5-74
-2 Nizamudden the efreeti, disguised as a Khumus human See area 7-75, Table 2A, entry 6
-3 Magic user and flunkies Select from NPC appendix
-4 A Sun-Scarred Knight (see new monsters) Select from list found in level overview to Sub-Level 10
-5 ‘Gunnar’, the chief slaver (who is currently a doppelganger – see 4-10), with four guildsmen from the Guild of Service
-1. For Gunnar, see stats at 4-10. 
-2. 4 guildsmen, as 2nd-level male Archontean fighters: SZ M; AL LE; AC 
-8; MV 120’; HD 2; HP 18, 17, 16; #AT 1; Dmg 2-7 (spears, clubs). Possessions: leather armor; spears; and clubs. Special:  +1 dmg from STR.
-6 Kerbog Khan (SL12-25), inhabiting a bipedal exploration automaton of Kerbog Khan
-1 bipedal exploration automaton of Kerbog Khan (see new monsters): SZ S; AL N; AC 2; MV 90'; HD 6; HP 43; #AT 2; Dmg 1-6/1-6; MR 40%. Special defenses: immune to cold and fire 
-7 A party of dwarven adventurers Use the group, ‘Survivors of the Stone,’ from the NPC appendix
-8 Tikun Thane (see SL3-2), and three disciplined See area 7-75, Table 2A, entry 8
-9 Five doppelgangers in dwarven form, seeking the body of Jasper Malachite (5-52). If Utor 
-Malachite (see peddlers, above) arrives at the same time as the doppelgangers, trouble will 
-ensue, as Utor will attempt to engage them in conversation and may well detect their true nature.
+* 1 Psalor-Ki See area 5-74
+* 2 Nizamudden the efreeti, disguised as a Khumus human See area 7-75, Table 2A, entry 6
+* 3 Magic user and flunkies Select from NPC appendix
+* 4 A Sun-Scarred Knight (see new monsters) Select from list found in level overview to Sub-Level 10
+* 5 ‘Gunnar’, the chief slaver (who is currently a doppelganger – see 4-10), with four guildsmen from the Guild of Service
+	* For Gunnar, see stats at 4-10.
+	* 4 guildsmen, as 2nd-level male Archontean fighters: SZ M; AL LE; AC 8; MV 120’; HD 2; HP 18, 17, 16; #AT 1; Dmg 2-7 (spears, clubs). Possessions: leather armor; spears; and clubs. Special:  +1 dmg from STR.
+* 6 Kerbog Khan (SL12-25), inhabiting a bipedal exploration automaton of Kerbog Khan
+	* 1 bipedal exploration automaton of Kerbog Khan (see new monsters): SZ S; AL N; AC 2; MV 90'; HD 6; HP 43; #AT 2; Dmg 1-6/1-6; MR 40%. Special defenses: immune to cold and fire
+* 7 A party of dwarven adventurers Use the group, ‘Survivors of the Stone,’ from the NPC appendix
+* 8 Tikun Thane (see SL3-2), and three disciplined See area 7-75, Table 2A, entry 8
+* 9 Five doppelgangers in dwarven form, seeking the body of Jasper Malachite (5-52). If Utor Malachite (see peddlers, above) arrives at the same time as the doppelgangers, trouble will ensue, as Utor will attempt to engage them in conversation and may well detect their true nature.  See area 7-75, Table 2A, entry 5
+* 10 An ogre mage from area 9-70, disguised as a human See area 7-75, Table 2A, entry 10
+* 11 A neverlasting (see new monsters) on a mission for a lich
+	* 1 neverlasting: SZ M; AL NE; AC 2; MV 120’, 60’ flying (Class C); HD 8+1; HP 51; #AT 3; Dmg 3-8/3-8/1-2, or 2-5/2-5/1-2. Possessions: lesser short sword of sharpness. Special attacks: entangling banner. Special defenses: +1 or better weapons to hit; immune to attacks by those with less than 3 HD; immune to charm, sleep, enfeeblement, polymorph, cold, insanity and death attacks; turned as vampires. Spells: comprehend languages, magic missile, shocking grasp, sleep; darkness 15’ radius, mirror image, scare, web; dispel magic, hold person, slow; confusion, ice storm; feeblemind, stone shape
+* 12 Jennistacoril, a silver dragon, in human form as a beautiful woman named Jenna. Her mission is up to the GM.
+	* Jennistacoril, average-sized, old silver dragon: SZ L (or M, in human form); AL LG; AC -1; MV 90’, 240’ flying (Class E), or 120’ in human form; HD 10; HP 60; #AT 3; Dmg 1-6/1-6/5-30. Continual abilities: infravision; detect hidden or invisible (70'); talking (Archontean, Elvish, Thorcin). Special attacks: breath weapon (cold); fear aura (+3 to saves). Special: polymorph self (animal or human). Spells memorized: charm person, shield; detect evil, invisibility; dispel magic, suggestion; ice storm, remove curse. She carries a spell book for the sake of appearances: charm person, comprehend languages, detect magic, friends, identify, read magic, shield; detect evil, ESP, invisibility, magic mouth, wizard lock; dispel magic, fly, haste, slow, suggestion; charm monster, ice storm, polymorph self, remove curse
+* 13 Human agents of the imperial Drome, from Narsileon See area 7-75, Table 2A, entry 11
+* 14 A succubus disguised as a female human magic user See area 7-75, Table 2A, entry 15
+* 15 An entrapment devil (see new monsters) See area 7-75, Table 2A, entry 4
+* 16 Justin the Nose, sacristan of the Inn of the Lost (6-7 and 6-9A), with 4 mercenaries, shopping
+	* Justin the Nose: for stats, see 6-7.
+	* 4 mercenaries, 2nd-level Thorcin fighters (2 male, 2 female): SZ M; AL LN; AC 4; MV 90’; HD 2; HP 17, 16, 14, 14; #AT 1; Dmg 2-9 (long sword). Special attacks: +1 to damage from STR. Possessions: chain mail and shield; long swords; 79 sp and 22 gp each.
+* 17 Tredgeris the Dapifer, with 3 guardsmen (see 6-75)
+	* Tredgeris, see stats at 6-75. 
+	* 3 male Thorcin arena guardsmen, as 2nd-level fighters: SZ M; AL NE; AC 6; MV 60’; HD 2; HP 18, 17, 15; #AT 1; Dmg 1-8 (long sword) or 1-6 (spear) or 1-4 (light crossbow). Possessions: scale mail; long swords; spears; light crossbow and 20 bolts; purse with 33 sp and 9 gp each. In addition to their mail byrnies, and simple helmets, they wear a light green surcoat emblazoned with a black image of a six-sided die
+* 18 A party of elves, looking for looking for supplies while searching for the “Sortian Outpost” (now occupied by the Priscians – see areas 9-58 to 9-64)
+	* Use the group, “Arcane Vengeance”, from the NPC appendix. The elves are ignorant of the existence of the modern Priscians
+* 19 A were-tiger in human form, calling herself Bootsy. She seeks supplies for an expedition to the shrine of Bastet (8-38)
+	* Bootsy, a weretiger. Human form: SZ M; AC 9; AL N; AC 9; MV 120'; HD 6+2; HP 39; #AT 1; Dmg 3-6 (dagger +2). Possessions: flowing robes; two daggers +2; amulet of protection from normal missiles (see new magic items). Weretiger form: SZ L; AL N; AC 3; MV 120'; HD 6+2; HP 39; #AT 3; Dmg 1-4/1-4/1-12. Special attacks: rake for 2-5/2-5; cause lycanthropy. Special defenses: silver, or +1 or better weapons to hit
+* 20 GM’s choice
 
-See area 7-75, Table 2A, entry 5
-
-10 An ogre mage from area 9-70, disguised as a human See area 7-75, Table 2A, entry 10
-11 A neverlasting (see new monsters) on a mission for a lich
-
-1 neverlasting: SZ M; AL NE; AC 2; MV 120’, 60’ flying (Class C); HD 8+1; 
-HP 51; #AT 3; Dmg 3-8/3-8/1-2, or 2-5/2-5/1-2. Possessions: lesser short 
-sword of sharpness. Special attacks: entangling banner. Special defenses: 
-+1 or better weapons to hit; immune to attacks by those with less than 3 
-HD; immune to charm, sleep, enfeeblement, polymorph, cold, insanity and 
-death attacks; turned as vampires. Spells: comprehend languages, magic 
-missile, shocking grasp, sleep; darkness 15’ radius, mirror image, scare, 
-web; dispel magic, hold person, slow; confusion, ice storm; feeblemind, 
-stone shape
-
-12 Jennistacoril, a silver dragon, in human form as a beautiful woman named Jenna. Her mission is up to the GM.
-
-Jennistacoril, average-sized, old silver dragon: SZ L (or M, in human form); AL LG; AC -1; MV 90’, 240’ flying (Class E), or 120’ in human form; HD 10; HP 60; #AT 3; Dmg 1-6/1-6/5-30. Continual abilities: infravision; detect hidden or invisible (70'); talking (Archontean, Elvish, Thorcin). Special attacks: breath weapon (cold); fear aura (+3 to saves). Special: polymorph self (animal or human). Spells memorized: charm person, shield; detect evil, invisibility; dispel magic, suggestion; ice storm, remove curse. She carries a spell book for the sake of appearances: charm person, comprehend languages, detect magic, friends, identify, read magic, shield; detect evil, ESP, invisibility, magic mouth, wizard lock; dispel magic, fly, haste, slow, suggestion; charm monster, ice storm, polymorph self, remove curse
-
-13 Human agents of the imperial Drome, from Narsileon See area 7-75, Table 2A, entry 11
-14 A succubus disguised as a female human magic user See area 7-75, Table 2A, entry 15
-15 An entrapment devil (see new monsters) See area 7-75, Table 2A, entry 4
-16 Justin the Nose, sacristan of the Inn of the Lost (6-7 and 6-9A), with 4 mercenaries, shopping
-1. Justin the Nose: for stats, see 6-7.
-2. 4 mercenaries, 2nd-level Thorcin fighters (2 male, 2 female): SZ M; AL LN; 
-AC 4; MV 90’; HD 2; HP 17, 16, 14, 14; #AT 1; Dmg 2-9 (long sword). 
-Special attacks: +1 to damage from STR. Possessions: chain mail and 
-shield; long swords; 79 sp and 22 gp each.
-17 Tredgeris the Dapifer, with 3 guardsmen (see 6-75)
- 1 Tredgeris, see stats at 6-75. 
-3. 3 male Thorcin arena guardsmen, as 2nd-level fighters: SZ M; AL NE; AC 6; MV 60’; HD 2; HP 18, 17, 15; #AT 1; Dmg 1-8 (long sword) or 1-6 (spear) or 1-4 (light crossbow). Possessions: scale mail; long swords; spears; light crossbow and 20 bolts; purse with 33 sp and 9 gp each. In addition to their mail byrnies, and simple helmets, they wear a light green surcoat emblazoned with a black image of a six-sided die
-
-18 A party of elves, looking for looking for supplies while searching for the “Sortian Outpost” (now occupied by the Priscians – see areas 9-58 to 9-64)
-
-Use the group, “Arcane Vengeance”, from the NPC appendix. The elves are ignorant of the existence of the modern Priscians
-
-19 A were-tiger in human form, calling herself Bootsy. She seeks supplies for an expedition to the shrine of Bastet (8-38)
-
-Bootsy, a weretiger. Human form: SZ M; AC 9; AL N; AC 9; MV 120'; HD 6+2; HP 39; #AT 1; Dmg 3-6 (dagger +2). Possessions: flowing robes; two daggers +2; amulet of protection from normal missiles (see new magic items). Weretiger form: SZ L; AL N; AC 3; MV 120'; HD 6+2; HP 39; #AT 3; Dmg 1-4/1-4/1-12. Special attacks: rake for 2-5/2-5; cause lycanthropy. Special defenses: silver, or +1 or better weapons to hit
-
-20 GM’s choice
+##### Visitor Motives
 
 Table 2: Primary Reason for Presence in Market
 
 D10 Motive Modifier to Table 3
-1-3 Buy goods (see table 4) 0
-4-6 Sell Goods (see table 4) 0
-7 Acquire or Sell Information +3
-8 Hire mercenaries +2
-9 Hire selves as mercenaries +1
-10 Meet with a third party: varumani (25%), existing merchant (25%), NPC party (25%), or Special Visitor (25%) +2
+* 1-3 Buy goods (see table 4) 0
+* 4-6 Sell Goods (see table 4) 0
+* 7 Acquire or Sell Information +3
+* 8 Hire mercenaries +2
+* 9 Hire selves as mercenaries +1
+* 10 Meet with a third party: varumani (25%), existing merchant (25%), NPC party (25%), or Special Visitor (25%) +2
 
 Table 3: Subsidiary or Ulterior Motives
-D20 Result 
-1-4 None
-5 Assassination, of another visitor (50%), a varumani (25%), or a PC (25%)
-6 Abduction, of third party
-7 Espionage, against varumani
-8 Espionage, against other: Sir Prudence (25%, see 7-76A for stats), another visitor (75%), 
-9 Theft, against varumani
-10 Theft, against other
-11 Rescue prisoner, of varumani (50%), of another visitor (25%), of a merchant (25%)
-12-13 Buy/sell important and/or secret artifact
-14 Usurp Thegan White-Mane’s ownership of the Inn of the Lost (see 6-7 to 6-19)
-15 Foment uprising against Varboka the thegn (7-30), by stoking the antagonisms of one or more clan chiefs (cf. 7-17, 7-18, 7-25, 7-26)
-16 Convert others to the worship of Rimmaq-Isfet (see new monsters), quietly and subtly
-17 Locate, and either slay (50%) or negotiate with (50%), one of the wizards living within Arden Vul. Roll d8 and consult the following list to determine which wizard:
-1: Kerbog Khan (SL12-25)
-2. Tikun Thane (SL3-2)
-3. Priddy of Archontos (5-128)
-4. Trocadero (3-176)
-5. Pelagion the Grey (4-62)
-6. Marcus Junienos (4-56)
-7. Isocritis Half-Hand (2-70)
-8. Yurtil Skreel-Friend (SL5-35)
-18 Mount an expedition against the ziggurat of Kauket (areas 10-32 to 10-35)
-19 Track rival group deeper into the Halls, either for a secret meeting (25%) or an ambush (75%)
-20 or more
 
-Roll twice on this table, ignoringsubsequent rolls of 20
+D20 Result 
+* 1-4 None
+* 5 Assassination, of another visitor (50%), a varumani (25%), or a PC (25%)
+* 6 Abduction, of third party
+* 7 Espionage, against varumani
+* 8 Espionage, against other: Sir Prudence (25%, see 7-76A for stats), another visitor (75%), 
+* 9 Theft, against varumani
+* 10 Theft, against other
+* 11 Rescue prisoner, of varumani (50%), of another visitor (25%), of a merchant (25%)
+* 12-13 Buy/sell important and/or secret artifact
+* 14 Usurp Thegan White-Mane’s ownership of the Inn of the Lost (see 6-7 to 6-19)
+* 15 Foment uprising against Varboka the thegn (7-30), by stoking the antagonisms of one or more clan chiefs (cf. 7-17, 7-18, 7-25, 7-26)
+* 16 Convert others to the worship of Rimmaq-Isfet (see new monsters), quietly and subtly
+* 17 Locate, and either slay (50%) or negotiate with (50%), one of the wizards living within Arden Vul. Roll d8 and consult the following list to determine which wizard:
+	* 1) Kerbog Khan (SL12-25)
+	* 2) Tikun Thane (SL3-2)
+	* 3) Priddy of Archontos (5-128)
+	* 4) Trocadero (3-176)
+	* 5) Pelagion the Grey (4-62)
+	* 6) Marcus Junienos (4-56)
+	* 7) Isocritis Half-Hand (2-70)
+	* 8) Yurtil Skreel-Friend (SL5-35)
+* 18 Mount an expedition against the ziggurat of Kauket (areas 10-32 to 10-35)
+* 19 Track rival group deeper into the Halls, either for a secret meeting (25%) or an ambush (75%)
+* 20+ Roll twice on this table, ignoring subsequent rolls of 20
 
 Table 4: Goods for Sale, or Goods Sought
-D100 Trade Goods Quality/Rarity
 
-1-20 Food. Bulk goods if for sale, rations if sought Average/Low
-21-30 Alcohol Average/Low
-31-35 Mushroom products, either food (75%) or for other purposes (25%) High/High
-36-40 Misc. objects found within Halls (roll on tables 4A and 4B) High/Average
-44-50 Weapons, mundane High/Low
-51-55 Armor, mundane High/Average
-56-58 Spell scrolls High/Average
-59-62 Potions High/Average
-63-64 Treasure maps Low/Low
-65-78 Meat, fresh or cured Average/Average
-79-85 Mundane manufactured goods (e.g. rope, barrels, pulleys) Average/Average
-86-90 Metal ore Average/Average
-91-95 Mundane metal items Average/Low
-96-97 Gems High/Low
-98-100 Special (roll on Table 4C) n.a.
+D100 Trade Goods Quality/Rarity
+* 1-20 Food. Bulk goods if for sale, rations if sought Average/Low
+* 21-30 Alcohol Average/Low
+* 31-35 Mushroom products, either food (75%) or for other purposes (25%) High/High
+* 36-40 Misc. objects found within Halls (roll on tables 4A and 4B) High/Average
+* 44-50 Weapons, mundane High/Low
+* 51-55 Armor, mundane High/Average
+* 56-58 Spell scrolls High/Average
+* 59-62 Potions High/Average
+* 63-64 Treasure maps Low/Low
+* 65-78 Meat, fresh or cured Average/Average
+* 79-85 Mundane manufactured goods (e.g. rope, barrels, pulleys) Average/Average
+* 86-90 Metal ore Average/Average
+* 91-95 Mundane metal items Average/Low
+* 96-97 Gems High/Low
+* 98-100 Special (roll on Table 4C) n.a.
 
 Table 4A: Looted Objects from Arden Vul
+
 D20 Object(s) and Quantity Value
-1-3 1-4 pieces of jewelry 6-600 gp each
-4-6 1-6 stelae or inscriptions 2-40 gp each
-7-8 1-3 pieces of statuary 10-100 gp each
-9-10 1-4 scrolls, informational 3-60 gp each
-11-12 1-4 religious items or strange bits of iconography 2-20 gp each
-13-15 1-6 rare monster parts 10-100 gp each
-16 1-2 pieces of rudishva technology, 90% non-functioning (select from new technological items) 20-200 gp each
-17-18 Re-roll twice, ignoring rolls over 16 n.a.
-19-20 Re-roll, ignoring rolls over 16,but unbeknownst to the seller,the object is magical n.a.
+* 1-3 1-4 pieces of jewelry 6-600 gp each
+* 4-6 1-6 stelae or inscriptions 2-40 gp each
+* 7-8 1-3 pieces of statuary 10-100 gp each
+* 9-10 1-4 scrolls, informational 3-60 gp each
+* 11-12 1-4 religious items or strange bits of iconography 2-20 gp each
+* 13-15 1-6 rare monster parts 10-100 gp each
+* 16 1-2 pieces of rudishva technology, 90% non-functioning (select from new technological items) 20-200 gp each
+* 17-18 Re-roll twice, ignoring rolls over 16 n.a.
+* 19-20 Re-roll, ignoring rolls over 16,but unbeknownst to the seller,the object is magical n.a.
 
 Table 4B: Nature of Objects from Halls
+
 (Roll 2d20, once for origin, and once for material)
 D20 Origin Material
-1-4 Archontean, Thoth Stone, granite
-5-6 Archontean, other Iron
-7-8 Archontean, Set Stone, other
-9-10 Varumani, post-rudishva era Gemstone, semi-precious
-11 Sortian Silver
-12 Beastman Copper
-13 Goblin Gold
-14 Lizardman Parchment
-15 Dwarven or elven Gemstone, precious
-16 Kaliyani Wood
-17 Rudishva Ivory
-18 Heqeti Bone
-19-20 Modern human culture (i.e., imported into halls) Steel
+* 1-4 Archontean, Thoth Stone, granite
+* 5-6 Archontean, other Iron
+* 7-8 Archontean, Set Stone, other
+* 9-10 Varumani, post-rudishva era Gemstone, semi-precious
+* 11 Sortian Silver
+* 12 Beastman Copper
+* 13 Goblin Gold
+* 14 Lizardman Parchment
+* 15 Dwarven or elven Gemstone, precious
+* 16 Kaliyani Wood
+* 17 Rudishva Ivory
+* 18 Heqeti Bone
+* 19-20 Modern human culture (i.e., imported into halls) Steel
+
 Table 4C: Special Objects for Sale
 
 D20 Object Value, per item
-1-2 Exotic poisons 60-600 gp
-3-4 Exotic mushrooms with pharmacological properties, 2-40 10-200
-5-6 Exotic animal parts used in spell research 100-400
-7-8 Miscellaneous, one-property,magic items Varies
-9-10 Enchanted weapons, 1-3 Varies
-11-12 Blackmail information 1,000-4,000
-13-14 Keys, allegedly to crucial sites in Halls (e.g. to Obsidian Gates). 33% chance claim is accurate 1-100
-15-16 Rudishva technology, 25% chance to be operable 100-800
-17-18 Personal objects stolen from powerful personage in Halls Varies
-19 Unusual or high-level spells Varies
-20 Piece of a powerful artifact; rest must still be recovered Priceless
+* 1-2 Exotic poisons 60-600 gp
+* 3-4 Exotic mushrooms with pharmacological properties, 2-40 10-200
+* 5-6 Exotic animal parts used in spell research 100-400
+* 7-8 Miscellaneous, one-property,magic items Varies
+* 9-10 Enchanted weapons, 1-3 Varies
+* 11-12 Blackmail information 1,000-4,000
+* 13-14 Keys, allegedly to crucial sites in Halls (e.g. to Obsidian Gates). 33% chance claim is accurate 1-100
+* 15-16 Rudishva technology, 25% chance to be operable 100-800
+* 17-18 Personal objects stolen from powerful personage in Halls Varies
+* 19 Unusual or high-level spells Varies
+* 20 Piece of a powerful artifact; rest must still be recovered Priceless
 
 ## Level 7: 7-76a to 7-76j
 

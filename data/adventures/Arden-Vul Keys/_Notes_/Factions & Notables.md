@@ -506,44 +506,174 @@ STR 18/21, INT 10, WIS 15, DEX 11, CON 16, CHA 11. Possessions: chain mail +2 an
 	* Only true "skyblooded" varumani can take leadership roles.
 * Clans
 	* Rudigaya (leader Hraskaya)
+		* smallest of the clans (19 true, 20 lesser)
 	* Vanaraya (leader: Vedreya One-Eye)
+		* traditionally first among the clans, lost some status recently
+		* 18 true, 31 lesser
 	* Pendaya (leader: Gavra the Easy-Going)
+		* slight inferiority complex for being not descended from one of the 3 original leaders
+		* currently riding high (21 true, 37 lesser)
 	* Druvaya (leader: Igrippa the Unruly)
+		* least interested in politics, more in a good fight
+		* 22 true, 46 lesser
 * Territory
 	* Not expansionist in territory, as their numbers are waning, but very prone to dominating those factions around them.
 	* They would retake the ancestral halls on the Midnight Road is the learned the way.
 
+Balance of Power
+* Varboka (and Gevorda) is Vanaraya, most common clan to be elected thegn, traditionally the strongest and greatest, but fallen on harder times.  They feel their precarity.
+* Rudigaya is weaker but ambitious, pushing to take thegn-ship.
+* Pendaya is less presitious but currently powerful, wealthy, and numerous; looking to raise parley this into lasting prestige; courted by Rudigaya and Vanaraya, king-makers.
+* Druvaya are numerous and strong; not prone to politics and love a good fight.  A very important keystone in the varumani, but not angling to advance itself; support is sought by the ambitious, but the way to their hearts is pretty obvious.
+
+Historical
+* Pre-Fall
+	* Vanara
+	* Druva
+	* Rudiga
+* Post-Fall Thegns
+	* Penda, the High-Scorer, she was all-time high score holder in the varumani training halls prior to the Fall, went on to serve as 4th thegn.  Had the Pendaya clan named for her.
+	* Gadila, 6th thegn
+	* Kubala, 7th thegn
+	* Rideya, 9th thegn
+	* Nakula, 10th thegn
+	* Refta, thegn who submitted to Marius Tricotor (1043 AEP)
+	* Priyala, thegn who oversaw return of independence at the fall of the city
+	* Javaka, 20th thegn, reestablishes control of the middle Halls (2093 AEP)
+	* Girvala, 31st thegn, crushed Adrienic's expedition
+	* Vanela, 36th thegn  (9-62)
+		* disappeared 53 years ago, petrified in the Priscian Hall of Trophies; his return would unleash political chaos
+
 ### Faces
 
 Court Notables
-* Varboka (7-30), true varumani
-	* A bit insecure, feels he hasn't done anything to put the seal of greatness on his reign; restless for glory.
-* Gevorda, true varumani
-	* half-sister of Varboka, liberated captive of Kerbog Khan for trying to probeat him
-* Ashoka (7-22, true varumani
-	* court sorcerer and chief advisor to the thegn
-* Hraskaya (7-17), true varumani
-	* leader of the Rudigaya.  Envious of Varboka, seeks to undermine his rule and advance himself.
-* Gavra the Easy-Going, true varumani
-	* leader of the Pendaya
-* Vedreya One-Eye, true varumani
-	* leader of the Vanaraya
-* Igrippa the Unruly, true varumani
-	* leader of the Druvaya
-* Clug (lesser) & Verv (lesser)
-	* ambassadors to the beastmen
-* 
-* 
-* ambassadors to Forum of Set
-* ambassadors to ???
-* other apprentices
-* 
-* Glif, First Adept
-* 
-* Yoburra (true)
-	* ambassador to the Setites
+
+* Thegns & Jarls
+	* Varboka, 37th thegn (true, vanaraya) (7-30)
+		* A bit insecure, feels he hasn't done anything to put the seal of greatness on his reign; restless for glory.
+	* Gevorda (true, Vanaraya)
+		* half-sister of Varboka, liberated captive of Kerbog Khan for trying to probeat him
+	* Hraskaya (true, Rudigaya) (7-17)
+		* leader of the Rudigaya.  Envious of Varboka, seeks to undermine his rule and advance himself.
+	* Gavra the Easy-Going (true, Pendaya)
+		* leader of the Pendaya
+	* Vedreya One-Eye (true, Vanaraya)
+		* leader of the Vanaraya
+	* Igrippa the Unruly (true, Druvaya)
+		* leader of the Druvaya; likes jokes and clowning around, very informal
+
+* Courtiers
+	* Reja (lesser)
+		* friend of varboka since infancy.  he has never really achieved much, not well thought of, but has the thegns ear.  usually observes from side-lines, gathering info.  can be a path to influence with Varboka, who respects his wisdom, advice, and loyalty.
+		* concerned about the Priscians, keeps track of them
+	* Lishna (true)
+		* she is aged (200+); a strategos for the past several thegns, very wise and sharp, with a good mind for politics.  frankly and openly xenophobic, distrusting all outsiders, especially hates archonteans.  wily, she undermines outsider diplomacy, rather than directly confronting.  respected but kept at a certain distance by the rest of the court
+		* sometimes uses the Lover's Aid orchid from the floating garden (6-4) to further her aims.
+	* Yog (lesser)
+		* genial; gained some standing by finding and donating 6 fully charged power cells.
+		* Has tried interesting the court in cleaning out the southern caves, including the demon-spider (phase spider, 7-58), but it's just a story to others; not getting a lot of interest; his 15 minutes of fame is ticking down, and he's looking for a new deed to reclaim the limelight
+	* Janara (true, Druvaya)
+		* famed for single-handedly defeating a heqeti band on the chasm floor (near 9-75), returning with 2 heads as trophies.  likes talking up the threat of the heqeti, and he's got some support for a war.
+			* was actually saved by Cinna Minux, mesmerized, and allowed to believe his story, becoming a spy for Cinna in the court.
+		* not very sharp, but a good fighter.
+	* Clug (lesser) & Verv (lesser)
+		* ambassadors to the beastmen
+	* Yoburra (true)
+		* ambassador to the Setites
+	* Vimela (???) the Record-Keeper (7-66)
+
+* Sorcerers
+	* Ashoka (true) (7-22)
+		* court sorcerer and chief advisor to the thegn, much relied upon and trusted
+		* member of the Rudigaya, constantly pressured to advance them, but refuses
+		* very intelligent, a keen judge of character
+	* Glif, First Adept (lesser) (7-24)
+		* she is very intelligent and has keen insight into psychology; plays up the "dumb" lesser varumani stereotype, wears primitive attire (mountain-lion pelt cape)
+		* the court was shocked when Ashoka appointed a lesser varumani as first adept; first to hold a high sorcerous office and one of only a few with any arcane talent down the years
+			* Varboka is a bit put off by her, but Ashoka trusts her implicitly.
+		* friend of the hunters, esp Nogli, goes exploring with them a lot.
+		* imp familiar "Elliott"
+	* Aditya (true) the Prophet
+		* A mystic whose prophecies and visions were the subject of ridicule in the troll thegn’s court (7-75). She managed to find her way to the ‘ancient ancestral halls’ and is looking for ‘the sign’ (or anything, really). She is tired, hungry and dispirited. She negotiates first but will defend herself fiercely if required.
+	* 5 apprentices currently
+		* Arjun
+		* Bindu
+		* Chanda
+		* Jagat
+		* Kalyan
+
+* Functionaries
+	* Heska (true) & Breg (true)
+		* huscarls of Varboka
+	* Treb (lesser) (7-33)
+		* jailor
+	* Kit, Vor, Cos (lesser) and Hendrav (true) (7-38)
+		* guards
+	* Shilva, Hinna (true) and Loff, Migi (lesser) (7-69)
+		* smiths
+		* have 4 lesser varumani apprentices
+	* Layela Three-Tufts (true) (7-76a)
+		* she and 2 other female true varumani are wardens of the troll market
+		* jovial, friendly with the market regulars.  do enjoy roughing up trouble makers tossing them down the Dead Risers, 7-2), but are hands off unless blood is about to be shed
+	* Prayaska (true, Rudigaya)
+		* mine boss; proud and very venal
+		* Varboka presumes her venality will lead to high mine yields; Lithric the setite is coaxing her into skimming for herself
+	* Geldaka (lesser)
+		* mute, operates the CRUD-Ore 7500 ore processor in the mine under Prayaska
+		* knows of Prayaska and Lithiric's skimming
+	* Lift Overseers
+		* Riglon (true, 5-1)
+			* level 5 lift overseer
+		* Reith (lesser, 6-1)
+			* level 6 lift junior overseer north
+		* Hakrim the Hairy (true)
+			* level 6 lift vice-overseer on the floating garden, very intelligent, lazy, enjoys the peace of the gardens
+		* Gorlen (true, 6-5)
+			* level 6 lift overseer south
+		* Trijax (???) (7-1)
+			* level 7 lift vice-overseer; an old warrior, gruff but neutral, likes to mix it up with those who give him lip; articular, speaks fluent archontean, willing to sell info for a small bribe
+		* Ecath (true) (8-1)
+			* apprentice overseer of the level 8 lifts; knows he's in a dead-end posting and seeking a away to rise
+
+* Confraternity of Hunters (7-14)
+	* Bedara
+		* she's missing for a month, captured by heqeti on level 9, held in 10-8
+		* a senior, highly respected member of the confra
+	* Nogli (true) (7-24)
+		* doesn't like Riglon; co-"first hunter" of the confra
+		* wears a helm made of 2 heqeti skulls w/ colorful cloth streamers
+	* Livod (true)
+		* obtains and sells monster parts from the nether reaches at the markets, dislikes Reith and his bullying; co-"first hunter" of the confra; his mail is covered in trophies
+	* Halti (true)
+		* she wears a bright yellow cap
+	* Kaligo (true) & Trood (lesser)
+		* hunters on level 3, hunting setites or trophy monsters
 
 Non-Court Notables
+
+* Ferx (SL5-37 optional)
+	* 
+* Pugh (lesser)
+	* enjoys gambling at the Arena
+* Griga (true) & Kist (true)
+	* gamblers, favoring cards at the Inn of the Lost, convinced they've got the perfect system.  Also gamble at the Arena and with Pugh.
+* ???, ???, and ??? (lesser)
+	* ambitious lesser varumani at the Inn of the Lost attempting to ‘civilize up’ to impress the thegn (7-30) and gain employment. They speak in mostly a-grammatical phrases that sound (to them) high-falutin’
+* Varly & Jiks (lesser)
+	* Varly is notably smarter than Jiks.  They love fighting in the Arena, undefeated
+* Keth the Friendly (lesser)
+	* friendly and outgoing, likes singing varumani drinking songs, gambler and loan shark/pawn broker operating at the gambler's corner (6-61) in the Arena, plays the rube and fool, but is shrewd
+* Hal (lesser) (6-64)
+	* Runs the bar at the Corner near the Arena, enterprising
+* Hak (lesser)
+	* brewer in 7-94
+* Kup (lesser)
+	* bestial varumani fight organizer in 7-103
+* Lugo (lesser) (8-136)
+	* leads a gang of robber lesser and bestial varumani (bestials are getting tired of him, blaming him for lack of meat) 
+
+Exiled, Outcast, and Indisposed Commoners
+
 * Gog (5-2), lesser varumani
 * Muq (8-151), lesser varumani
 	* Muq is a clan-brother and former friend of Gog (5-2).
@@ -551,6 +681,22 @@ Non-Court Notables
 	* He provided false evidence to Varboka implicating Gog in treason. Gog was duly exiled, but swiftly Muq was forced to flee as varumani public opinion turned against the snitch. 
 	* Fearing for his life, Muq survives by spying for the vampire, Cinna Minux (7-122), who has charmed him and who brings him food and bits of information. 
 	* Both Gog and Varboka would pay well for information about Muq’s location (or news of his death). 
+	* 
+	* he plans to return when things blow over, rewarded for taking the fall for Hraskaya?
+	* 
+* Peabo (lesser)
+	* exiled for refusing to support expansionism; wants to see the thegn fall / get replaced
+	* friendly / tolerated by the Knights, knows several of them, has snuck up and glimpsed their citadel
+* Bothig (lesser) (6-159)
+	* leads a band of renegade bestial varumani, all having abandoned the thegn to become bandits and freebooters.
+* Yeggit (lesser)
+	* captive of the heqeti (7-81)
+* Anuran (true)
+	* petrified (300 years ago) in 7-86
+* Ravi (true)
+	* petrified (???) in 7-90
+* Hella (true)
+	* outlawed, holed up at the Inn of the Lost contemplating her next move
 * Lommt (10-43)
 	* ??? captive of the heqeti
 * Prika (10-43)
@@ -558,47 +704,98 @@ Non-Court Notables
 * Vig (SL9-55)
 	* captive of the kaliyani mud pits; he was leading a party of adventurers (led by Sir Nixion the Bold, an Azure Knight, funded by Alexia, also captive)
 	* does Rudiga have plans for him?
-* Kaligo (true) & Trood (lesser)
-	* hunters on level 3, hunting setites or trophy monsters
 * Kallion the White (8-15)
 	* deceased / undead?  known for his white armor
 	* pissed off the Setites and had a bounty on his head?
 		* did he work with them for a time, then split, pissing them off?
-* Ferx (SL5-37 optional)
-* Riglon (true, 5-1)
-	* level 5 lift overseer
-* Reith (lesser, 6-1)
-	* level 6 lift overseer north
-* Gorlen (true, 6-5)
-	* level 6 lift overseer south
-* level 7 lift overseer
-* Confraternity of Hunters?
-	* Bedara - missing, captured by heqeti on level 9, held in 10-8
-	* Nogli (7-24)
+* Mox (lesser)
+	* prisoner of the heqeti larder (10-11)
 
 
-Non-Varumani in Court
+##### Non-Varumani in Court
+
 * Sir Prudence, Sun-Scarred Knight
 	* Sent to curb the varumani's militarism toward the other factions, counseling patience.  Aiming the Varumani at the kaliyani and/or heqeti would be ideal, or a faction that Knight deem unlikely to integrate (maybe the Priscians?)
-* Merchants???
-* Goblins???
+	* male Archontean, 45 years old, silver-grey hair, dark-black eyebrows, and a well-trimmed (grey) van dyke beard.
+	* He is accompanied at all times by his varlet, Beuvon. 
+	* arrived at the court 7 years ago and never left.
+		* After a year in which he and varlet slept in a corner of the court, Varboka grudgingly allowed them to maintain a ‘permanent’ residence in one of the caves of the Troll Market (7-76A).
+		* Initially tasked to watch and report on the activities of the varumani
+		* recently received orders to undermine Varboka’s authority, and in particular to prevent Varboka from moving against the goblins. 
+		* interests: varumani mating rituals (which he has still never witnessed), the particular tactile qualities of the skins of all manner of creatures. 
+		* has a well-known soft spot for cheerful grifters and cheats, so long as he is not the victim.
+
+* Merchants
+	* Foglifter, goblin seer (divination, advice)
+	* Aruna the Gatherer, thorcin man (mushrooms and archontean curios)
+		* Peller, mute thorcin fighter
+	* Hakreon the Apothecary
+		* amnesiac cleric of the flame
+	* Utor, dwarven weaponsmith and armorer
+		* seeking his missing clansmen Jasper (dead in 5-52) and Korda (long missing, lifestone held by "Sable" here in court)
+	* Big Jacoby
+		* ale and spirits
+		* Hod, his nephew
+	* Chaudri the Ecophont
+		* agent of the Collegium of CInder (led by "the Cold Fires", the ruling council), seeking Tikun Thane
+	* Jodran Rivulus "Cold Jordan"
+		* hot 30ish raven-haired thorcin woman, dresses in black, aloof and suspicious, gems and jewelry
+		* once-spy for the Guild of Service, now hiding in exile
+		* 3 guards
+	* Skalla Ironmonger, wiskin man
+		* secret skald, looking for epic material
+	* Hallar Ellagelsson, half-elven fighter-mage, scribe and scrollmonger
+		* half-son of Lady Ellagel the elven matriarch of Gallador fastness w/ a human lover.  Seeking his long vanished half-brother Erist (petrified in SL6-5)
+	* Coelrith the Mixer, male thorcin alchemist
+		* dislikes mages, specially Collegium of Cinders, very rude and bitter, muttering constantly
+		* goblin assistants, Wiggy and Plod
+	* Lyssandra of Newmarket, general outfitting
+		* sunny and cheerful, looking to deal payback to an adventurer who gave her a cheek scar
+	* Fat Yeskim, hot food, goblin
+		* nieces Sarka and Kellan aid him
+
+* Pillik, goblin ambassador
+	* was sent to negotiate better and more equitable terms between goblins and varumani delineating spheres of influence, only to find the court considering just conquering the goblins (thanks to Intef).
+	* also meant to listen for rumors of Gislu and the sceptre
+		* he heard (spied on) the Broom talking about Gislu's location (Inn of the Lost) and wants to buy the info, but they're not selling
+	* hired the Broom to knock off Intef
+
+* Doppelgangers posing as dwarves
+	* "Sable" - could this be Guunnar?  where is Callista?
+		* and 5 others
+	* Known to be seeking the Forge of Zhorak, and relics of Ptah (or buying them in market)
+
+* Intef, Deacon of Set
+	* former ambassador, now stranded refugees from the Forum, kept around in case they're useful (clerical magic is handy)
+	* he planted the idea of subjugating the goblins in Varboka, preaching of Set's ways
+	* and 5 guardsman
+	* a round man, but sharp and silver tongued
+* Lithiric the Talker
+	* 7th level thorcin mage; he's confidant of Prayaska the mine boss, swaying and corrupting her
+
+* Segreant Arctos, beastman
+	* and 6 troopers
+	* trying to obtain "Rex, the First Hound" from Reith, who won't deal and keeps mocking them about having it
+
+* The Broom
+	* considering betraying Pillik and killing him for Intef if the money is better
+	* seeking Gislu, Pillik learned they knew and is pestering them (they want the sceptre for the heqeti)
+	* killed a band of kaliyani at 8-8 and are redeeming the bounty on fangs, earning favor
+
+* Gaius Christopher
+	* grizzled, polite knight of the azure shield; here offering friendship with Lady Alexia and lordship of the Halls in return for the archon's regalia.  Varboka has decided to obstruct this, as he doesn't want powerful archonteans reclaiming the halls (but hasn't told Gaius, leaving him twisting)
 
 Others
+
 * Ludrig
 	* recently depetrified true varumani ambassador to the ancient Arden Vul archon.
 	* 
 	* Ludrig is quite intelligent, and fluent in Mithric. He served as an advisor to the Archonteans during the period in which the troll thegn (7-30) accepted imperial suzerainty. Ludrig’s appearance at the varumani court (7-75) would create a major stir; still, once his identity was established, many varumani would shun him as a collaborator.
 
-Historical
-* Vanara
-* Druva
-* Rudiga
-* Javaka, 20th thegn, reestablishes control of the middle Halls (2093 AEP)
-* Refta, thegn who submitted to Marius Tricotor (1043 AEP)
-
 ### Faction Relations
 
-Internal
+##### Internal
+
 * Waning of the Varumani
 	* The varumani are breeding less and less true over the centuries.  Beyond Arden Vul, with its plentiful arcanum, the degenerate into trolls much quicker.  They are low-key concerned about this.
 		* Rudishvan bioscience in its full flower might be able to correct / stabilize this.  In lesser form, it might allow a controlled descent to trollkindom.
@@ -618,8 +815,18 @@ Internal
 		* detail the site of the supposed crime for investigation
 		* 
 	* Framed by Muq (8-151).  Clearing Gog's name brings thegn's favor.
+	* 
+	* This was a ploy by Hraskaya to hassle Varboka, as Gog was a friend and supporter, and Varboka's tolerance and mercy was cast as weakness.
+	* 
 
-External
+##### External
+
+* Cinna's Influence
+	* he seeks to manipulate the varumani to advance his power
+	* willing agents
+		* ???
+	* mesmerized victims
+		* Janara, Gog, Muq, Lithric, Riglon (other lift overseers?)
 * Kaliyani Interlopers
 	* The Varumani know there are Kaliyani in the Halls, at least one scouting party-worth, maybe more?  Varboka would gladly lead a war against them if he realizes there is a whole base.
 		* Varboka has placed a 100 gp bounty per kaliyani fang
@@ -639,9 +846,11 @@ External
 * Priscian Presence
 	* suddenly appearing the lower halls, very concerning.  Ashoka and Varboka are suspicious of them, but permit them in the market blandly polite.
 	* Glif and Nogli captured a Priscian while out hunting, they and Ashoka hope to extract info.
+		* The Priscian prisoner (7-24) is named Noredden. Glif and Nolgi encountered Noredden in the Nether Reaches. After slaying her conversi, they captured her and brought her back to the varumani court for interrogation. Noredden has thus far revealed little, and Glif and Ashoka are growing frustrated; more advanced torture is imminent. The sorcerers are seeking specific information on the access points to the Priscian areas (9-58 to 9-64), and details of its layout. The thegn fully supports the sorcerers’ efforts, as he worries about the existence of a powerful force in an unknown location. Varboka is unaware that Ashoka is also interrogating Noredden with the hopes of extracting information about a hidden tomb connected with the Sortians (i.e., the Tomb of Isadora at Sub-Level 11). Unfortunately Noredden knows nothing of that tomb, nor even much about Isadora. 
 * Setites
 	* Didn't like this reminder of Archontean domination, but while they remain in the upper halls, they are too far away to bother with.  Just watched them.
 	* Lost some business to the Forum, but not too bad.  Weren't sorry to see them go.
+	* Intef and his fellow Setites (Lithiric, Jodran Rivulus, etc) seek to spread Set's gospel of domination to the Varumani and rise again
 * Sun-Scarred Knights
 	* Respect their individual prowess, don't get their ethos, but don't see them as rivals.  Their advice and ways are mysterious but clearly potent and draw intrigued attention from the varumani, more than they realize (maybe a bit of vamp gaze to assist that).
 * Subjugation of the Goblins
@@ -663,6 +872,12 @@ The Survivors
 	* Aloof and enigmatic sorcerer to be left alone or rarely parleyed with.
 * Reiv-Tor / Fishmen
 	* Lost track of him centuries ago, know nothing of him.
+
+
+
+The Logbooks of the Thegns: This title comprises a collection of 103 quarto codices bound in grey lizard hide. The logbooks annalistically record the deeds and events of the varumani, both good and bad, in the voice of every varumani thegn from the 8th to the 37th (i.e., to Varboka in the present). The earliest codex (the sole logbook of the 8th thegn) records the submission of the varumani to the archon, Marius Tricotor, called ‘invictus’ (see 6-154); the third logbook of the 16th thegn records the retreat of the Archonteans; the fourth logbook of the 31st thegn records the glorious varumani victory over Adrienic at the Cave of Blood (7-76); and so forth.  The number of logbooks produced by a given Thegn varies by the length of that thegn’s reign and by personal proclivity; it is evident to any serious scholar, for instance, that the logbooks have become terser and less polished in the past century or so.
+
+A Rudigaya’s Best Friend: The first ten folios are written in formal Rudishva Glyphik, and describe a score of plots conceived by Rudiga and his friends that were then carried out against the heqeti and other enemies. The remainder of the text is in Semi-glyphik, and describes centuries’ worth of secrets, plots, counterplots, and betrayals relating to the period of Archontean hegemony in Arden Vul. Readers of this tome gain a +1 bonus on to hit and damage rolls against heqeti.
 
 ## The Cult of Bast
 

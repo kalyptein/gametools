@@ -660,6 +660,8 @@ To the Thegn's Court
 			* Varboka fears the waning of his people and going down as a mere steward of that decline with no glory to his name.  This has made him contemplate expansionism (the goblins, a war vs the Khan maybe, turning
 				* The heqeti have been growing, the hunters say, but most regard them as an enemy to just raid.  A serious war with them would be both glorious but also big risk.  The kaliyani are even more hated, and that would be a shoe-in.
 			* Varboka isn't dumb, he didn't want to war with the Setites unnecessarily, and won't with the Khan; it pulls against his desire for glory, to have truly done something for his people.  The varumani are slow to rebuild their numbers, and are loss avoidant, at least at large scales.
+			* Whatever Varboka does, Hraskaya will try to make trouble from it
+				* If he declines to agress on
 
 
 

@@ -186,6 +186,15 @@ New Adventuring Companies
 * Ladies of Misrule
 
 
+
+* level 7 troll thegn's market and court areas
+	* bulletize
+	* tokens for personalities
+	* entities
+	* dressing
+
+
+
 maybe the ogres aren't made by goblins, they are a goblinoid variant created back in the day, living in Level 7 (8?) and recruited by various factions?
 
 intended path
