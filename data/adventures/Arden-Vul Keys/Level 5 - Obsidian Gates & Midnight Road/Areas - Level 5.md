@@ -1697,7 +1697,7 @@ missiles (including magic missile), fire, cold, mind-affecting spells (e.g. char
 	* The eastern statue is Jacinth the Rose: waist-length hair, loose tunic and trousers and a skull cap, and carrying a long-stemmed rose and a slim rapier. 
 	* The eyes of each statue are 3"-diameter crystals: Larel’s are yellow, Jacinth’s are red. The eyes detect as magic and are removable (50 gp each).
 * The grey granite floor is interrupted by an oval 10’x15’ plug of white marble.
-	* On the marble is carved (Archontean): “To proceed one must sometimes adopt a new perspective.”
+	* On the marble is carved (Mithric): “To proceed one must sometimes adopt a new perspective.”
 	* Beneath this plug are a set of worn stairs leading down 1,000’ through many landings and turns to 8-35.  The plug is retractable by manipulating the statues.
 		* The white marble plug retracts for 2 hours if the crystal eyes of the statues are exchanged (i.e., adopting a ‘new perspective’).  To open the cover on subsequent visits, the eyes must again be shifted.
 
@@ -1725,6 +1725,7 @@ missiles (including magic missile), fire, cold, mind-affecting spells (e.g. char
 
 1 paralyzing brain (new): SZ M; AL NE; AC 4; MV 120’ flying (Class A); HD 10; HP 67; #AT 11; Dmg 1-6(x10)/2-12. Special attacks: paralyzation (saves at +2); surprise on 1-3. Special defenses: immune to electricity; tentacles regenerate in 2-3 days.
 
+X / 67
 ## Level 5: 66 - 75 (Realm of the Vivisectionist)
 
 * These areas are the home to a formidable and highly psychotic being, the ancient rudishva known as Psalor-Ki (see 5-74).
@@ -1855,7 +1856,7 @@ Possible Victims awaiting Dismemberment:
 D12 Prisoner Notes/Stats
 
 1
-Goblin Sniveling and afraid: SZ S; AL LE; AC 6; MV 60'; HD 1-1; HP 3; #AT 1; Dmg 1-6
+Poz, Goblin Sniveling and afraid: SZ S; AL LE; AC 6; MV 60'; HD 1-1; HP 3; #AT 1; Dmg 1-6
 
 2
 Bestial varumani
@@ -1875,7 +1876,7 @@ Triss, 6th-level female Thorcin thief: SZ M; AL NE; AC 7; MV 120’; HD 6; HP 12
 * Triss was the leader of Bertis’s party; she still projects suavity and nonchalance
 
 5
-Lizardman warrior
+Ungah, Lizardman warrior
 
 Tongueless, but still defiant: SZ M; AL N; AC 5; MV 60’, 120’ swimming; HD 2+1; HP 8 (max 13); #AT 1 or 3; Dmg by weapon or 1-2/1-2/1-8
 
@@ -3157,7 +3158,7 @@ Available Artifacts in the Armory
 * optional: 10% chance that any item is still in working order (low availability) or 10% chance of having ceased to function (high but not unlimited access).
 
 Low Security-Access Objects (varuda construct, pale green identity plaques, d10)
-* 1 Dart thrower with clip of 10 ordinary darts (6)
+* X 1 Dart thrower with clip of 10 ordinary darts (6)
 * 2 Ballistic baton (6)
 * 3 Spear-gun with clip of 4 spears (2)
 * 4 Sonic fence (1)
@@ -3176,7 +3177,7 @@ Medium Security-Access Objects (varumani construct, pink identity plaques, d12)
 * 5 Plasteel breast-plate (2)
 * 6 Plasteel shield, large (2)
 * 7 Dart thrower, with a clip of 10 explosive darts and 2 clips of 10 ordinary darts (2)
-* 8 Dart thrower, with a clip of 10 narcotic gas darts and 2 clips of 10 ordinary darts (2)
+* X 8 Dart thrower, with a clip of 10 narcotic gas darts and 2 clips of 10 ordinary darts (2)
 * 9 Sonic fence (2)
 * 10 Breather, with 3 gas grenades (3)
 * 11 Anti-venom kit, with 6 doses (3)
@@ -3536,7 +3537,7 @@ Fire Blasts: jets of flame spout from F and G in a 30’-long, 20’-wide cone; 
 Sleet: driving sleet pours from ceiling; roll 4d6 under DEX or lose footing, slide 10’ in random direction;take 1-6 HP damage per round
 
 3
-Darts: high-impact steel darts fire from nozzles around the room; roll 4d6 under DEX or be hit by 1-4 dartsfor 1-6 HP damage each
+Darts: high-impact steel darts fire from nozzles around the room; roll 4d6 under DEX or be hit by 1-4 darts for 1-6 HP damage each
 
 4
 Poison Darts: same as above, but the darts are poisoned

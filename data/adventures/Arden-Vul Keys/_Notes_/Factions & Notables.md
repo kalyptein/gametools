@@ -75,21 +75,15 @@ Giant rudishva skeletons
 ## Goblin Kingdom
 
 
-## Poisoners & the Crimson Trust
-
-Phlebotomas Plumthorn's Crew
-
-* The Poisoners are an independent group, but allied with the Crimson Trust, who are buying their product.
-* A group of grimalkin, mostly of Thorcin origin.
-	* Parames Plumthorn (Phlebotomas Plumthorn) - archontean
-	* Rosk Winterclaw (Roskelly Winterleaf)
-	* Blandveg (human mage)
-	* Loma Fleetpaw (Carloman Fleetfingers)
-
-
 
 ## The Heqeti
 
+
+### The Broom
+
+??? Name ???
+* the Broom's "handler" is the keqemander demon released by the PCs from atop the heqeti obelisk.  It cut the deals with them and has conveyed info and rewards between them and the heqeti proper.
+	* Kauket has invested it with more power to reward its service and ensure it's succuess.  The Broom enabled this via a dark ritual at the obelisk (or perhaps elsewhere, sacrificing victims and magic items to the Great Pukelmander?)
 
 
 ## The Kaliyani & Lizardmen
@@ -102,24 +96,57 @@ The kaliyani / ophidians are native to this world, from a lost prehistoric age o
 * Now the would-be Eleventh Consortium has come back, hoping they can finally get that tech and solve the issue, which would definitely make them heroes to their kind and 
 
 Skreel Lizardmen
+* Ungah: freed from Psalor-Ki by Astrid
 
+## The Cult of Set (Remnants)
 
-## The Cult of Set
+Deacon Intef
+* was ambassador to the troll thegn, now a permanent fixture at court
+* seeks to spread Set's ways to the varumani
+* his influence is swaying Varboka toward conquering the goblins
+* has 5 guardsmen with him
+
+Cold Jordan
+* jeweler at the troll market, worshipper of set
+* her cave houses the Setite refugees in the thegn's court, and she bankrolls them
+
+“The Fist of Destiny”
+* Herman the acolyte and 5 human Set guardsmen
+* Were fighting for the glory of the Setites, now surviving there, laying low and surviving as a team
+* Goals: Humiliation of foes, wealth and renown
+* Tactics: Herman opens with hold person, while the boys (and girls) wade in and slug it out
+
 
 
 ## The Sun-Scarred Knights
+
+
+* Isok-Crix and Melok-Ri, co-vice-heads of the Security Department after the senior officer was killed in the war against the heqeti.
+* In the post-war era, they create the Harmonious Brotherhood (total 7 members), believing since the rudishva are here for a good long while, they should shake off complacency and colonize the region and bring local humans into the hegemony.  
+	* They found the sun-scarred hold (SL-10) and operate from there.
+	* They start ranging into the surroundings regions of the Valley and beyond.
+* They encounter an elder thorcin vampire, ??? the Silent.
+	* He is still remembered in ancient Thorcin legend as a terror of the night.
+	* In "Great Vampire Lords and their Demise", he is credited as the sire of several of archontean antiquity's great lords.  It says he was slain long before by an unknown hero (the rudishva of the first Harmonious Brotherhood).
+* ??? overcomes and turns them. 
+	* Their alien biology / psychology isn't enslaved by his power (elves are immune to charm after all), so they overwhelm the unsuspecting master.
+	* They can't range outdoors anymore, oops.
+* The Brotherhood dissolves
+	* All but IC and MR want to spread this "gift" to the other rudishva.  The two leaders are disgusted and slay the other 5 ("lost in a tragic training incident in the field")
+
+???
+strymir
+skyalmir
+skygrimmr
+
+* The original rudishvan Harmonious Brotherhood
+
 
 what are the Sun-Scarred Knights and Melok-Ri up to?
 * shepherding civilization in AV: goblins, beastmen, varumani, and now setites
 	* but they don't like the heqeti, and ignore lizardmen, fishmen.  kaliyani, priscians are new and small; what status quo have they been protecting?
 	* what about the bast temple, why not including them?
 
-* Isok-Crix and Melok-Ri create the Harmonious Brotherhood (total 7 members), believing since the rudishva are here for a good long while, they should shake off complacency and colonize the region and bring local humans into the hegemony.  They start ranging into the surroundings. 
-	* They found the sun-scarred hold and operate from there
-* The encounter an elder vampire, who overcomes and turns them.  Their alien biology / psychology isn't enslaved by his power (elves are immune to charm after all), so they overwhelm the unsuspecting master.
-* They can't range outdoors anymore, oops.
-* The Brotherhood dissolves
-	* IC and MR slay the others because they want to turn all the rudishva into vampires
 * 
 * Heqeti return, rudishva are destroyed
 * 
@@ -476,18 +503,177 @@ Sycadora, varlet to Sir Ennius, 6th-level female half-elf fighter: SZ M; AL LN; 
 STR 18/21, INT 10, WIS 15, DEX 11, CON 16, CHA 11. Possessions: chain mail +2 and medium shield; long sword +2; short bow and 20 arrows +1; 2 potions of heroism.
 
 
-## Priscians, the Eigth Collegium
+## Priscians, the Eighth Collegium
 
-* Nerub Null
+
+* Nerub Null first beheld Arden Vul 50 years ago.
+	* Contra the timeline, the order of Priscians wasn't founded 200 years ago, it's Nerub's work over the last century.
+
+* 29 Circularii (mages) and 32 Conversi ("Associates", support, custos/grogs)
+	* Conversi
+		* Have some magical training, but didn't make the cut as mages.  They have some skill and are folded into the cult's ideology (they're magical, thus special). 
+		* They can use arcane magic items (scrolls, wands) and know a few first level spells and have some arcane knowledge.
+		* +1 to mental saves
+		* Bonded Defenders: after two weeks of grueling rituals and a magical oath, a conversus bonds to a mage of equal or lower level (min 6th).  The defender can sense their mage's state and transfer up to 1/4 of their hp to them.  If the mage dies, the bonded defender takes 4d3 damage.
+	* Circularii
+		* Those who go into danger outside a sept's hold are "war mages".
+			* They fight with thief THAC0, rather than mage.
+		* When an important mission looms, three war mages can undergo a week-long ritual union to become a war mage triad.
+			* They can gift each other spells, as long as the recipient can cast it.
+			* Can transfer up to 10 hp to one another.  If one dies, the others take 10 hp and the triad is broken.
+	* Circle Lords ???
+
+* Priscian Cult Ranks
+	* mages are given a rank, conversi are not
+	* Primus, Secundus, Tertius, Quartus, Quintus, Sextus, Septimus, Octavus, Nonus, Decimus (highest)
+
+* They hold the Arcanum Forge (9-60) and are learning to make magic items with it.
+	* Hungry for arcanum and magical treasures and lore.
+	* Jace Far-Seer: the great Sortian arcane smith of antiquity, wrote "Forging with Arcanum"; has set the Priscians on the road to recreating magic items.
+
+* The Fragment
+	* The Priscians have only 1 folio (2 more exist in 7-23).
+	* Reveals prized secrets about Priscus and the Sortians.
+	* The single folio reveals that Priscus Pulcher acquired ‘the item’ with ‘the words of power’ that allowed him to summon ‘the ancient allies’. The ‘item’ was, of course, the Compact of Ennius (see World of Archontos appendix), and the ‘ancient allies’ were dragons. Although the single folio does not contain those words of power, it makes clear that the ancient allies were dragons, and that Priscus had a close friendship with one whose name begins with the letters ‘YAS’ (the rest of the name is lost) [GM Note: this is Yasidoranicil, aka Isadora - see Sub-Level-11]. The additional folios of the Fragment held in 7-23 reveal the full name of Yasidoranicil and make clear that she was a gold dragon who could take human form; they also reveal much detail about the partnership between Priscus and Isadora during the War of Sortians and Theosophs.
+	* Only the uppermost Circles of the Priscian Order are aware of the existence of the Fragment; leaders such as Nerub Null (9-64) would be most eager to acquire unknown folios from it. Any folios (new or old) from the Fragment would be extremely valuable to the Archontean authorities. The version held by Kerbog Khan is a copy of the one known to the Priscians (e.g., 9-64).
+
+* Their lair (9-58 to 9-64a)
+
+### Faces
+
+* Nerub Null (Decimus, male archontean war mage, mage 18)
+	* airy and ethereal demeanor, big thinker; mesmerizing Rasputin/Saruman-like manner, usually soft spoken but can bring the thunder
 	* A product of the Order of Thoth collegium.
 	* Seeks to claim the lore of Arden Vul for himself.
 		* He's dropped out of the public eye to dodge Drome and Collegia attention.
 		* He collected a lot of Sortian lore, learning of their boltholes in the depths.
 	* He's created a secret collegium, training illegal mages from students unable to get into collegia for various reasons but who have a spark fo magic.
 		* He is using the Sortian idea of democratizing magic, but combined with a cult-like indoctrination and "keeping magic for the worthy".  He uses them as his agents.
+			* In his version, the Sortians saw the Theosophs as unworthy of the secrets entrusted to them, so they made a new secret order and trained those who were truly worthy.  As then, so now the collegia are unworthy, consumed with politics and indolence, having let so much ancient lore slip away.
 		* He's crafted a hierarchical mystery cult, initiating his apprentices into new tiers when they prove loyal enough.  Subordinates are not to question the judgement of higher initiates.
 
+Liesbet the Reptile (female archontean conversus, bonded defender of Nerub Null, thief 11)
+* nickname comes from a fascination with snakes, slippery personality, and the ability to get out of trouble (no one uses it to her face)
+* pathetically loyal to Nerub Null (he's a great visionary and mystic, who lifted her from poverty); cares little for anyone else
+* one of the co-leaders of the Priscian conversii on the expedition, but leaves pretty much all day-to-day matters to Inlevris.
 
+Jaracondus the Sprightly (Nonus, male archontean war mage, mage 11)
+* Second in command, practical-minded, sees to the day to day matters of the Priscians
+* elderly but clever; climbed the ranks slow and steady, cautious not to make too many enemies on the way
+* he does the speaking with outsiders on the rare occasion they need high level talks
+
+Inlevris Half-Elven (male half-elf conversus, bonded defender of Jaracondus, figher thief 7/9)
+* one of the co-leaders of the Priscian conversii on the expedition
+* an aspiring artist, but not very good
+* erudite, polite, learned; discusses art, philosophy, literature; loyal and a believer in the Priscian creed
+
+
+Ebba of Pristen (Primus, female thorcin war mage, mage 3)
+??? the flower-leaver
+* she's sorrowful from the loss of friends and colleagues, leading her to question the wisdom of coming to this murder hole.
+* she also found a copy of Friends of the Hekate spell and the accompanying snippet of text seemed imply a different kind of Sortian ideology than Nerub teaches, though obviously they Sortians had to be secretive, faced with repression, so that part fit her expectations.
+* 
+
+Causeway Camp (9-31)
+* Cenwulf the Unseen (Septimus, male thorcin war mage, illusionist 8)
+	* leader of the priscian expeditionary team
+* Pretius Octavus (Quintus, male archontean war mage, mage 7)
+* Aethelflaed Flatnose (Tertius, female thorcin war mage, illusionist 5)
+* Demetrios Sinister (Tertius, male archontean war mage, mage 4)
+* Thorgrim the Stout (male wiskin war mage, mage 3)
+* Sarabel Jewel-Eye (female archontean conversus, bonded defender of Cenwulf, thief 8)
+* Crinux the Wrinkled (male archontean conversus, thief 5)
+
+???, Doppel-ambassador
+* A "dwarf" staying in their camp, coordinating the search for the Forge of Zhorak.
+
+
+Justinian (war mage, member of Quintus, mage 6)
+
+Guardpost (6-49)
+* Jillia One-Ear (Quintus, female archontean war mage, mage 8)
+* Oskarina (Secundus, female archontean war mage, mage 4)
+* Krator the Wit (male archontean conversus, bonded defender of Jillia One-Ear, theif 7)
+* Baela Ice-Hand (female archontean conversus, fighter 6)
+* Tergon the Rutter (male archontean conversus, fighter 5)
+
+Diplomats to Goblintown
+* Lukor (male thorcin war mage, member of Quintus, mage 7)
+* Elanchian Gellisson (female half-elf war mage, member of Tertius, mage 5))
+* Ysadel (female archontean war mage, member of Secundus, mage 4))
+* Paullor (male archontean conversi, Lukor's bonded defender, thief 6)
+* Rusticus (male archontean conversi, fighter 5)
+* Wellor (male wiskin conversi, fighter 3)
+
+War Mage Triad (7-44)
+* Scarred Crotus (Secundus, male thorcin war mage, mage 4)
+* Jellicos (Septimus, male archontean war mage, mage 7)
+* Lisut (Tertius, female archontean war mage, mage 5)
+* Haltor (male wiskin conversus, fighter 3)
+* Bitaurus (male archontean conversus, bonded defender of Jellicos, thief 6)
+* Paganus (male archontean conversus, fighter 5)
+
+Engine Room Explorers (7-143)
+* Laegel the Forsworn (Nonus, male archontean war mage, mage 9)
+* Malachi (Tertius, male thorcin war mage, mage 5)
+* Amadec (Secundus, female ??? war mage, mage 4)
+* Pelagor (male archontean conversus, bonded defender of Laegel, thief 8)
+* Eroica (female archontean conversus, fighter 5)
+
+Sortian Hideout (9-58 to 9-64a)
+* Big Theo (male archontean conversus, skilled smith, ex-warrior 4)
+* Palestrina (female archontean war mage, arcane smith enchantress 12)
+* Ulf No-brows (Tertius, male wiskin war mage, mage 4)
+* Knut Half-troll (Tertius, male wiskin trollkin war mage, mage 5)
+* Dolofina Yellow-eye (Primus, female archontean war mage, mage 2)
+* Eigon the Bald (male archontean conversus, fighter 5)
+* Asdrusil the Swift (female archontean conversus, fighter 4)
+* Cassie Top-knot (female archontean conversus, thief 5)
+* Ellergast Half-Elven (Septimus, male half-elf war mage, mage 8)
+* Gibreon (Secundus, male archontean war mage, illusionist 4)
+* Ebba of Pristen (Primus, female thorcin war mage, mage 3)
+* Justina Krakteros (Primus, female archontean war mage, mage 2)
+* Handsome Harold (male thorcin conversus, bonded defender of Ellergast, fighter 7)
+
+Indisposed
+* Norredden Galesdottir (female half-elf mage 7)
+	* captive in 7-24 (varumani)
+* Khulan the Westron (Tertius, male khumus)
+	* charred dead in 9-100 by the vengeance aspect of Sekhmet
+
+Agents
+* Edwin the Aged: old and decrepit fighter in the Inn of the Lost, always flush with coin.  Spy for the thegn, also recruited by Justinian the war mage to spy for the Priscians.
+
+### Faction Relations
+
+Pressed by the Heqeti
+* The heqeti seek to capture and mage and learn their location so they can be wiped out.
+* The mages fear the heqeti and  would be glad to ally to wipe out the Level 9 heqeti stronghold.
+	* They know info about it they could share.
+
+Nerub is hungry for magical power held by other factions
+* Nerub is hungry for the techno-magical secrets of the Sun-Scarred Knights.  He seeks their hold to raid.  Meanwhile, they have decent relations, as they are uninterested in territorial expansion.
+* Gislu has parleyed with one of their mages in the Inn of the Lost, trying to learn about the Sceptre of the Goblins.  Nerub realizes it is an ancient rod of slave control and wants to possess it so he can rule the goblins.
+* Nerub seeks the location of the Bast cult to obtain their secrets.
+* Priscians have only seen one kaliyani party, but recognized they had techno-sorcery and desire it.  They seek more info and whereabouts.
+
+Doppel-deceptions
+* Posing as dwarves, the doppelgangers have approached the Priscians about finding the Forge of Zhorak before rivals of their's (the real dwarves) do, promising to share its secrets.
+	* The plan to betray the mages and consume all of Ptah's power.
+
+Goblin Diplomacy
+* Recognizing that the goblins need help, they have opened an embassy.
+	* The goblins are eager to win allies and the mages to have more Hall-facing go-betweens so they don't have to stick their necks out as much.
+	* It has also put them near Sir Sorrow, a chance for them to observe and perhaps try to grab her, while taking a position she can't really argue with (since she's also trying to bolster the goblins).
+
+Parley with Cinna Minux
+* Nerub has dealt with Cinna (or his mage childer), recognizing him for a vampire but willing to make a deal.
+	* Cinna want help against the Knights and sees the mage's magical power as a way to even the playing field.  In return, the mages will get technomagical spoils (if Cinna doesn't get backstabby).
+	* Cinna has shared lore about the Knights.
+	* The mages are cautious about keeping mental wards in place when dealing with Cinna, but might slip up
+
+Collegium Interference
+* Kolgrima, a female wiskim mage, member of the Order of Thoth is in the Inn of the Lost (with a bodyguard, Hallam).  They seek info on the Priscians.
 
 ## The Varumani
 
@@ -559,6 +745,7 @@ Court Notables
 		* leader of the Pendaya
 	* Vedreya One-Eye (true, Vanaraya)
 		* leader of the Vanaraya
+		* wistful, resigned
 	* Igrippa the Unruly (true, Druvaya)
 		* leader of the Druvaya; likes jokes and clowning around, very informal
 
@@ -717,7 +904,7 @@ Exiled, Outcast, and Indisposed Commoners
 * Sir Prudence, Sun-Scarred Knight
 	* Sent to curb the varumani's militarism toward the other factions, counseling patience.  Aiming the Varumani at the kaliyani and/or heqeti would be ideal, or a faction that Knight deem unlikely to integrate (maybe the Priscians?)
 	* male Archontean, 45 years old, silver-grey hair, dark-black eyebrows, and a well-trimmed (grey) van dyke beard.
-	* He is accompanied at all times by his varlet, Beuvon. 
+	* He is accompanied at all times by his varlet, Beuvon.
 	* arrived at the court 7 years ago and never left.
 		* After a year in which he and varlet slept in a corner of the court, Varboka grudgingly allowed them to maintain a ‘permanent’ residence in one of the caves of the Troll Market (7-76A).
 		* Initially tasked to watch and report on the activities of the varumani
@@ -881,11 +1068,73 @@ A Rudigaya’s Best Friend: The first ten folios are written in formal Rudishva 
 
 ## The Cult of Bast
 
+### Faces
 
-Fishmen
+
+## Cinna Minux
+
+### Faces
+
+Cinna Minux
+
+childer 1
+
+childer 2
+
+etc
+
+Mesmerized Informants and Pawns
+* Gog
+* Riglon
+* Muq
+* etc
+
+### Faction Relations
+
+Hunted by the Sun-Scarred Knights
+* Seeks to dispose of Melok-Ri, perhaps by the same drug used on Isoc-Crix.
+
+Ally of Thegan Whitemane
+* Cinna helped him survive the Caves of Blood and told him of the drug that subdued Isoc-Crix and helped him become keeper of the Inn of the Lost.
+	* Set him up a meeting with Deino to get it brewed.   He posed to her as a Sun-Scarred Knight, and handed over the batch of archontean soldiers he'd rescued from the Caves of Blood, keeping back "Thegan Whitemane" as his agent.
 
 
-## Notables
+Priscians
+
+Doppels?
+
+
+
+
+
+
+## The Sin of the Maker / The Doppelgangers
+
+
+## Survivors of Stone
+
+* The Dwarven Explorers
+
+
+## Kaliyani
+
+Rudiga
+
+
+## Lizardmen
+
+### Skreel
+
+
+### Lagrek
+
+
+## Reiv-Tor and his Fishmen
+
+
+---
+
+## Notable Individuals
 
 Lost Elves: the Niravairi & Gerrilad
 
@@ -893,20 +1142,15 @@ Kel Boromol
 
 Tikun Thane
 
+
+### Thegan Whitemane
+
+
 ### Kerbog Khan
 
 * A brilliant Khumus sorcerer who came to Archontos decades ago as a youth, joining the Nova Schola Auctoritatis after a bravura display of natural talent before the masters.
 * He eventually stole several highly valuable tomes and fled, with rumors and sightings placing him western Thorcinga, in the vague area of Arden Vul.
 * Kerbog is trying to emulate to himself, crudely, what the rudishva once were, becoming cybernetic.  It seems much more intriguing that lichedom.
-
-
-
-
-The Doppelgangers
-
-The Dwarven Explorers
-
-Thegan Whitemane
 
 
 
@@ -933,3 +1177,19 @@ Relations with others:
 * Lizardmen: rarely venture to the top of the cliff, and always offer small, but symbolic, gifts to the wyrm.  Craastonistorex mostly ignores them.
 * Trollkin (EX-5): they are terrified of the wyrm but, as they have little treasure, Craastonistorex mostly ignores them. If pressed he will confess that they taste ‘a little off.’
 * Knights of the Azure Shield: perceived to be his greatest threat.  He might try to persuade PCs of the knights’ ‘untrustworthiness’ and of the danger they pose ‘to equilibrium in the valley’. He might ally to oppose the knights (leaving the hard work to the PCs). Those publicly allied with the knights, find him to be a permanent and implacable foe.
+
+
+---
+
+## --- Retired ---
+
+## Poisoners & the Crimson Trust
+
+Phlebotomas Plumthorn's Crew
+
+* The Poisoners are an independent group, but allied with the Crimson Trust, who are buying their product.
+* A group of grimalkin, mostly of Thorcin origin.
+	* Parames Plumthorn (Phlebotomas Plumthorn) - archontean
+	* Rosk Winterclaw (Roskelly Winterleaf)
+	* Blandveg (human mage)
+	* Loma Fleetpaw (Carloman Fleetfingers)

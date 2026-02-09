@@ -690,7 +690,7 @@ Kerbog Khan, 20th-level male Archontean magic user: SZ M; AL NE; AC 1; MV 120’
 * Five stone bins line the north wall.
 	* Bin #1: 33,512 ancient copper bits (see Arden Vul items), and 2,791 cp
 	* Bin #2: 22,963 ancient silver pennies (see Arden Vul items), and 4,725 sp
-	* Bin #3: 11,502 ancient gold solidi and 247 ancient octagonal platinum pieces (see Arden Vul items), as well as 2,921 gp and 1,391 pp
+	* Bin #3: 11,502 ancient gold solidi and 247 ancient octagonal platinum pieces, as well as 2,921 gp and 1,391 pp
 	* Bin #4: 244 10-gp gems; 139 50-gp gems; 113 100-gp gems; 17 500-gp gems; and 3 1,500-gp gems.
 
 ### SL12-27: Privy

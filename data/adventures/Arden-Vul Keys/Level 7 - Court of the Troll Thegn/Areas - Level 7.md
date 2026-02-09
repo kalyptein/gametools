@@ -345,15 +345,24 @@ D8 Noise/Effect
 
 ### 7-4: Large Floating Garden
 
-This floating garden is a larger version of the floating island found on Level 6 (6-4). Three ‘hills’ dot the island, each stone at its core but covered with earth and humus and planted with a variety of flora. The spray from the northern waterfall conveniently waters the garden. 
-
-The garden is brightly-lit, warm and humid. Two dozen rudishva light globes (see new technological items) emit the light and heat that enables the plants to grow. Doors into the hills are hidden by thick overgrowth of vines, moss, and grasses. The rounded sides of the north and south hills (areas 6-4 and 6-6) appear as shiny black surfaces across which vines and creepers trail; they are, in fact, one-way windows that are opaque from the outside. A pair of corroded iron frameworks occupy the southeast and southwest edges of the island; these were part of a cross-chasm ferry that the thegn abandoned when the island and Nether Reaches (Level 8) became too dangerous.
-
-Unlike area 6-4, which is relatively well-tended, this garden is wild and dangerous. One threat is an enormous assassin vine, whose main root is sunk into the loam of the central hill (its location is marked with the letter A). Another is the six retch plants that appear as globular palm-like trees (marked with the letter B). Three triflower frond plants (marked C on the map) complete the dangerous flora. Two giant pedipalpi roam among the plant life. 
-
-One of the creepers provides a succulent, coral-colored fruit that is edible and refreshing; denizens of the halls call it the pink delight (see new flora). A small orchard of six trees drop edible nuts, known colloquially as the delver’s reward (see new flora). Other edible plants may exist here at the GM’s desire.
-
-A large troupe of baindara (see new monsters) inhabits the island. The baindara have constructed a nest on the underside of the floating island out of dense pockets of twisted creepers and vines; its inaccessibility protects them from the pedipalpi and any wandering chasm cephalopods. The baindara chatter angrily and hurl nuts and fruit if disturbed; despite their fearsome appearance, they are cowardly and flee to their nest if threatened. They only fight if cornered. 
+* This floating garden is a larger version of the floating island found at 6-4.
+	* The spray from the northern waterfall conveniently waters the garden. 
+	* The garden is warm, humid, and brightly-lit by two dozen rudishva light globes (tech) that emit light and heat.
+* Three ‘hills’ dot the island, each a core of stone covered with earth and humus and planted with a variety of flora.
+	* Doors into the hills are hidden by thick overgrowth of vines, moss, and grasses.
+	* The rounded sides of the north and south hills (6-4 and 6-6) are shiny black surfaces across which vines and creepers trail (one-way windows, opaque from the outside).
+* A corroded iron frameworks occupy the southeast and southwest edges of the island.
+	* Part of a cross-chasm ferry the thegn abandoned when the island and Nether Reaches (Level 8) became too dangerous.
+* Unlike the relatively well-tended 6-4, this garden is wild and dangerous.
+	* An enormous assassin vine's main root is sunk into the central hill (at mark A). 
+	* 6 retch plants (appearing as globular palm-like trees) (at mark B).
+	* 3 triflower frond plants (at mark C).
+	* 2 giant pedipalpi roam among the plant life.
+	* One creeper, the pink delight (flora), provides a succulent, coral-colored fruit that is edible and refreshing (25 fruits).
+	* A small orchard of 6 'delver’s reward' trees (flora) drop edible nuts (3d20+120 nuts).
+* A large troupe of baindara (new) inhabits the island.
+	* Their globular nests of twisted creepers and vines is on the underside of the floating island, inaccessible to the pedipalpi and any wandering chasm cephalopods.
+	* They chatter angrily and hurl nuts and fruit if disturbed.  Despite a fearsome appearance, they are cowardly, fleeing to their nest if threatened, fighting only if cornered. 
 
 1 assassin vine (see new monsters): SZ S (effective); AL N; AC 8 (main plant), 4 (tendrils); HD 8 (main plant); HP 53 (main plant), 5 (tendrils); #AT 24; Dmg special. Special attacks: drag; strangulation; digestion.
 
@@ -364,9 +373,6 @@ A large troupe of baindara (see new monsters) inhabits the island. The baindara 
 2 giant pedipalpi: SZ L; AL N; AC 2; MV 60’; HD 4+4; HP 30, 28; #AT 3; Dmg 1-8/1-8/2-8. Special attacks: grip; poison gas.
 
 30 baindara (see new monsters), typically in groups of 5: SZ S; AL N; AC 8; MV 150’, 150’ gliding; HD 1-1; HP 4(x5), 3(x10), 2(x10), 1(x5); #AT 1; Dmg 1-2.
-
-Treasure:
-Up to 25 specimens of pink delight, and 3d20+120 delver’s reward nuts (see new flora for each).
 
 ### 7-5: South Observation Facility
 
@@ -380,8 +386,8 @@ Up to 25 specimens of pink delight, and 3d20+120 delver’s reward nuts (see new
 * This iris door opens to a silver or yellow identity plaque. 
 * Teleport Nodes:
 	* A silvery disk inset on the floor and a silvery square is inset on the wall.
-	* T16: access to 6-162
-	* T17: access to 7-110
+	* T16: access to 6-162 (level 6 transport hub)
+	* T17: access to 7-110 ()
 
 ### 7-7: North Observation Facility
 
@@ -434,36 +440,35 @@ magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic u
 
 ### 7-11: Point Defense Array Controls
 
-Only the thegn (7-30), his housecarls (7-29), and the court sorcerer (7-22) know of this chamber. This area contains an important piece of rudishva technology salvaged by the varumani when they fled from Level 5. A stone table holds a portable control unit for the four rudishva point defense arrays concealed in area 7-76 (the troll market). The portable point defense controller (see new technological items) is attached to a rudishva greater power supply (see new technological items). It requires an operator’s key-card (copies are held by the thegn Varboka [7-30] and Ashoka, the court sorcerer [7-22]) to activate. The controller has a single screen divided into four sub-screens, plus four switches, two dials, 
-and four joysticks. The screens are connected wirelessly to cameras on the point defense arrays; currently that means they reveal most of area 7-76, each from a slightly different perspective. While the arrays are fully automated, and can used as such in several modes 
-(motion-sensitive, sweep, arc-control, etc.), the joysticks allow manual control as well. 
-
-Underneath the stone table is a pile of 19 depleted greater power supplies. The power supply that is attached to the controller has only 30+3d100 hours of power remaining; recognizing this, the thegn normally leaves it unconnected to the controller so as to husband its power.
-
-Secret Door (east, to 7-12): The secret door is easy to find (1 in 4), but hard to open without the key (copies are held by the thegn and the court sorcerer). 
-
-Secret Door (west, to 7-76): This door is also easy to detect (1 in 4). It opens when a 1”-diameter object is thrust into a small hole in the ceiling of the corridor.
-
-GM Note: The controller is an extremely dangerous device. Of course, without an operator’s key-card, it is useless. But with the card and up to four point defense arrays, it could be used to inflict devastating damage on large numbers of enemies. Indeed, it was the main reason why the thegn was able to annihilate the Archontean expedition led by Adrienic 230 years ago. It could also be used on Level 10 to aid those assaulting the ziggurat of Kauket (10-32).
+* Only the thegn (7-30), his housecarls (7-29), and court sorcerer (7-22) know of this chamber.
+* A stone table holds a portable control unit for the four rudishva point defense arrays concealed in 7-76 (the troll market), salvaged by the varumani when they fled Level 5.
+	* The portable point defense controller (tech) is attached to a rudishva greater power supply (tech).
+	* It requires an operator’s key-card (copies held by the thegn Varboka [7-30] and Ashoka, the court sorcerer [7-22]) to activate.
+	* The controller has four sub-screens, four switches, two dials, and four joysticks.
+		* The screens display camera views on the point defense arrays (revealing most of 7-76, each from a slightly different perspective).
+		* The arrays are fully automated, and can used as such in several modes (motion-sensitive, sweep, arc-control, etc.), the joysticks allow manual control as well. 
+	* Underneath the table is a pile of 19 depleted greater power supplies.
+		* The power supply attached to the controller has only 30+3d100 hours of power.  The thegn normally has it unconnected to husband its power.
+	* Secret Door (east, to 7-12): easy to find (1 in 4), difficult lock (key held by thegn and court sorcerer). 
+	* Secret Door (west, to 7-76): easy to detect (1 in 4), opens when a 1”-diameter rod is thrust into a small hole in the ceiling of the corridor.
 
 ### 7-12: Lower Hall of the Thegns
 
-This 20’-tall grand hallway is broad, clean, and brightly lit (via continual light spells cast on the ceiling). Six niches break up the dark grey of the walls. In the niches are statues of some of the early thegns; the statues are 10’ tall, marble, and carved in an enthusiastic if somewhat clumsy style. Despite their mediocre quality, the varumani love and revere them; indeed, they dress them up with bright, loose clothing and paint their eyes, noses, and ears. The effect is garish. From north to south, the statues depict these thegns: 
-
-Penda, 4th Thegn
-Gadila, 6th Thegn
-Kubala, 7th Thegn
-Rideya, 9th Thegn
-Nakula, 10th Thegn
-Girvala, 31st Thegn
-
-At the foot of Girvala is the badly-mummified head of Tulliaros, polemarch of the Archontean II Legion (Sheepshead Rangers), still wearing the gilded helmet of a polemarch (for his empty tomb, see 5-21). Tulliaros was slain with most of his men in area 7-76 during 
-the ill-fated expedition to retake the Halls some 250 years ago. The exarch in Narsileon (see World of Archontos appendix) would pay up to 1,000 gp for the return of the head (and helmet). Stealing the ‘sacred relic’ incurs the automatic enmity of all the varumani.
-
-Secret Door (northwest, to 7-11): The secret door leading to this chamber is normal to find, but hard to open without the key (copies are held by the thegn and the court sorcerer). Only the thegn (7-30), his housecarls (7-29), and the court sorcerer (7-22) know of this chamber.
-
-Treasure:
-Head of Tulliaros the polemarch (1,000 gp), with gilded (but usable) Archontean helmet (125 gp). One of the pieces of cloth used to decorate Penda’s statue is an ancient lemon-yellow cloak of resistance +2 taken from poor Tulliaros’s body.
+* This 20’-tall grand hallway is broad, clean, and brightly lit via continual light.
+	* 6 niches break up the dark grey of the walls, holding statues of some early thegns.
+	* The statues are 10’ tall, marble, and carved in an enthusiastic if somewhat clumsy style. The varumani love and revere them; dressing them with bright, loose clothing and painting their eyes, noses, and ears. The effect is garish.
+	* From north to south, the statues depict these thegns: 
+		* Penda, 4th Thegn
+			* One of the pieces of cloth decorating Penda’s statue is an ancient lemon-yellow cloak of resistance +2 taken from Tulliaros’s body.
+		* Gadila, 6th Thegn
+		* Kubala, 7th Thegn
+		* Rideya, 9th Thegn
+		* Nakula, 10th Thegn
+		* Girvala, 31st Thegn
+			* At Girvala's foot is the badly-mummified head of Tulliaros, polemarch of the Archontean II Legion (Sheepshead Rangers), still wearing the gilded helmet (126 gp) of a polemarch (for his empty tomb, see 5-21).
+				* Tulliaros was slain with most of his men in 7-76 during the ill-fated expedition to retake the Halls some 250 years ago. The exarch in Narsileon would pay up to 1,000 gp for the return of the head (and helmet). Stealing the ‘sacred relic’ incurs the automatic enmity of all the varumani.
+	* Secret Door (northwest, to 7-11): a difficult lock opens (keys held by thegn and court sorcerer).
+		* Only the thegn (7-30), his housecarls (7-29), and the court sorcerer (7-22) know of this secret door.
 
 ### 7-13: Porch of the Thegn
 
@@ -526,39 +531,48 @@ Chest 3: 4 pieces of ivory from a variety of unusual beasts (225 gp per piece), 
 
 ### 7-16: Mess Hall and Kitchen
 
-The hall is brightly lit with continual light. A 10’-long and 5’-tall stone table occupies the center of the room; on it sits a Nutri-Vore 2000 food generator (see new technological items). As the thegn has announced that the varumani stock of communal power supplies has been exhausted, however, the Nutri-Vore 2000 is currently not operable; should a power supply be attached to it, of course, it would again be capable of producing Arden Vul cakes (see Arden Vul items). The thegn is aware of a few privately-held power supplies, but is not in a position to confiscate them and, in truth, feels that the few remaining supplies are better used elsewhere. Still, should a new stock of power supplies come into existence, the thegn will be happy to win plaudits by re-connecting the Nutri-vore 2000.
+* The hall is brightly lit with continual light.
+* A 10’-long, 5’-tall stone table occupies the center of the room
+	* On it sits a Nutri-Vore 2000 food generator (tech).
+* Around the rest of the chamber are wooden trestle tables and benches. 
+* Hanging on the west wall are two enormous casks of water. 
 
-Around the rest of the chamber are wooden trestle tables and benches. Hanging on the west wall are two enormous casks of water. There is a 50% chance for 2-12 varumani to be present in the mess hall, jovially eating, drinking, and singing songs.
+* 50% chance 2-12 varumani are present, jovially eating, drinking, and singing songs.
+
+Nutri-Vore 2000
+* The thegn has announced that the varumani stock of communal power supplies has been exhausted, so the Nutri-Vore 2000 is operable by currently not powered.
+* With power, it can produce Arden Vul cakes (av items).
+* The thegn is aware of a few privately-held power supplies, but isn't in a position to confiscate them.  And he feels the few remaining supplies are better used elsewhere.
+* Should a new stock of power supplies appear, the thegn will be happy to win plaudits by re-connecting the Nutri-vore 2000.
 
 1-6 lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 61, 60, 59, 58, 57, 54; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
 
 1-6 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 61, 59, 58, 57, 55, 55; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: 
 surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword. 
 
-Treasure:
-Nutri-vore 2000 food generator (see new technological items).
-
 ##### 7-16a: Kitchen
 
-Two diva ogres reign as the resident cooks.
-
-Their domain contains several wooden work tables, a fireplace against the north wall (with vents to the chasm), a stone basin for washing, and a cabinet full of plates and cups.
-
-The niche to the far east is rough carved, and contains a 3’-diameter hole which leads down 5’ to area 7-34.
-
-The cooks use this as for waste disposal; not surprisingly, it smells foul.
+* Two diva ogres reign as the resident cooks.
+	* Their domain contains several wooden work tables, a fireplace against the north wall (venting to the chasm), a stone wash basin, and a cabinet full of plates and cups.
+	* The far eastern niche is rough carved, and contains a foul-smelling, 3’-wide hole down 5’ to 7-34, used for waste disposal.
 
 2 ogre cooks: SZ L; AL CE; AC 5; MV 90’; HD 4+1; HP 25, 22; #AT 1; Dmg 1-10, or by weapon.
 
 ### 7-17: Rudigaya Clan Quarters
 
-The members of one of the ancient varumani clans –the Rudigaya – dwell in this chamber. The chamber is 30’ tall and boasts typical, if ancient, varumani construction. Five towering stacks of barracks-style bunks dominate both the north and south entrances. These stacks are 10’ long, 4’ wide and formed of very old orange plasteel. Each stack has seven bunks in it. In addition, the walls of each corner or ‘wing’ of the chamber have an additional seven bunks carved in each. In total there are 98 bunks. The middle of the chamber, a 20’x30’ rectangle, is open, and provides living space for the clan. The central, open area is brightly lit, while the bunk stacks are in shadows. The walls are regularly painted in a bright cerulean blue.
+* The members of the Rudigaya clan dwell in this chamber.
+* The 30’-high chamber houses the members of the Rudigaya clan.
+	* The walls are regularly painted in a bright cerulean blue.
+	* 5 towering stacks of barracks-style bunks (10' long, 4' wide, 7 bunks each) of old,  orange plasteel dominate the north and south entrances.  The walls of each corner or ‘wing’ of the chamber have an additional 7 bunks carved in each. (98 total bunks).
+	* The middle of the chamber (20’x30’) is open living space for the clan, bordered by benches.
+		* East side: several tables, with dice, game boards (chess), scores of clay mugs, and a large keg of cold water.
+			* North table: several codices bound in heqeti hide: A Rudigaya’s Best Friend, Success (books), a tome of understanding.
+		* West side: a pair of targets for dagger and javelin practice, a sanded wrestling pit, and three clan chests.
+			* Chests (unlocked, open to all clan members): 9,159 silver pieces; dozens of throwing daggers (6 daggers +1, a non-magical dagger with a hidden venom injector in the hilt); 8 vials of poison (varying toxicity); a crude but surprisingly useful Rudishva Glyphik-to-Heqeti dictionary; 4 coils of silk rope; 3 clips of narcotic gas rudishva dart thrower ammo (tech); 3 empty lesser power supplies and one full one; 5 copper, 3 bronze, and a brown rudishva identity plaques, a brown plastic plaque and a pink plastic plaque; and a dozen Arden Vul cakes (av items).
+	* The central, open area is brightly lit; the bunk stacks are in shadows.
 
-The Rudigaya is the smallest of the four clans, and despite the grand size of the chamber it is home to only 19 true and about 20 lesser varumani. At any given moment 50% of the clan is likely to be present here, sleeping, relaxing, or plotting. 
-
-Benches border the central living space. To the east are a several tables, with dice, game boards (chess), scores of clay mugs, and a large keg of cold water. To the west are a pair of targets used in dagger and javelin practice, a sanded wrestling pit, and three clan chests. 
-
- The northernmost table contains several codices bound in heqeti hide: A Rudigaya’s Best Friend and Success (see Arden Vul books), plus a tome of understanding.
+* The Rudigaya is the smallest of the four clans.  Despite the grand size of the chamber it is home to only 19 true and about 20 lesser varumani.
+	* At any given moment, 50% of the clan is likely present here: sleeping, relaxing, or plotting. 
 
 9 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 63, 61, 60, 59, 59, 58, 55, 53, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special 
 defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword. 
@@ -570,20 +584,20 @@ Hraskaya, a true varumani (see new monsters), and chief of the clan (25%): true 
 
 4 varumani infants, one of which is true (see new monsters): SZ M; AL LN; AC 8; MV 120’; HD 4; HP 25, 21, 20, 17; #AT 3; Dmg 1-2/1-2/1-6. Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
 
-Treasure:
-Books: a tome of understanding; A Rudigaya’s Best Friend; Success (see Arden Vul books for the last two).
-
-The chests are unlocked and open to all clan members. Among them are a total of 9,159 silver pieces; several dozen throwing daggers made of a variety of substances, including six 
-daggers +1 and a non-magical dagger with a hidden venom injector in the hilt; 8 vials of poison of varying toxicity; a crude but surprisingly useful Rudishva Glyphik-to-Heqeti dictionary; four coils of silk rope; three clips of narcotic gas darts for a rudishva dart thrower (see new technological items); three empty rudishva lesser power supplies and one 
-full one; 5 copper, 3 bronze, and a brown rudishva identity plaques, a brown plastic plaque and a pink plastic plaque (see new technological items); and a dozen Arden Vul cakes (see Arden Vul items).
-
 ### 7-18: Vanaraya Clan Quarters
 
 The basic orientation of this chamber is comparable to that of 7-17, at least in terms of the bunkbeds and general layout. The walls are painted a soothing ochre color. 
 
+Benches border the central living space. The center is occupied with four large tables pushed together, on which are dice, game boards (backgammon), scores of clay mugs, and a double-sized keg of Hak’s mushroom ale (30 gp; see 7-94). To the west is a wrestling pit and weapons rack along with three chests. The rack contains three two-handed swords, two large battle-axes, two halberds, two rudishva dart throwers (but with only 2 clips of ordinary darts – see new technological items), four ballistic batons (see new technological items), and a sheaf of 12 javelins. To the east is a pile of randomly sized pieces of wood, string and rope, bits of metal and plasteel, and so forth. This is a construction zone, where the Vanaraya experiment with new engineering projects. Currently the area contains a set of 2’-tall pillars connected by string (a model for an improved troll lift apparatus), and a set of 6’-long sliding, interlocking bits of colored plasteel (a portable bridge that extends up to 15’). Amid the tools and projects is also a rudishva security encoder (see new technological items), used to code troll chests to a new handprint. 
+
+Treasure: 
+Chests 1 and 2 are unlocked and open to all clan members. They contain a total of 6,479 silver pieces, plus 36 small bits of carved plasteel, ivory, and bone in a variety of shapes (worth 5 gp each to a collector of art naïf), a pair of large silver platters embossed with a sheepshead and the Archontean numeral II (GM Note: plunder from the massacre of Adrienic’s expedition; see 5-18 et seq.), worth 125 gp each; 3 bolts of silk (purple, yellow, and blue) worth 250 gp each; 2 tokens of Arden (see Arden Vul items); numerous worthless objects of daily life (cups, mugs, IOUs, small knives, etc.); and several rudishva identity plaques: three copper, a brown, two bronze, a pink, and an orange plaque. 
+
+Chest 3 is a troll chest (see new technological items) keyed to the hand of Vedreya One-Eye, the current clan chief. Inside are complete maps of the entirety of the varumani areas of Level 7 (areas 7-1 to 7-76); the chambers on the maps are neatly labelled by function in Varumani Semi-glyphik. Also in the chest is the helmet of Vanara, a rudishva battle helmet (see new technology) with special significance to the varumani in general and to the Vanaraya in particular. Affixed to the inside of the helmet is a carefully folded bit of parchment with an accurate sketch of the non-secret areas of the Midnight Road (areas 5-86 to 5-137, not including 5-99 to 5-104). Finally, Vedreya has a stash of 2 fully-charged lesser power supplies (see new technological items) that he’s saving for emergencies.
+
+
 The Vanaraya were traditionally the first of the clans, given their descent from Vanara (see 5-139). Currently they have lost some of their status, and have only 18 true and 31 lesser varumani members. About 50% of the clan is present in this chamber at any given time. 
 
-Benches border the central living space. The center is occupied with four large tables pushed together, on which are dice, game boards (backgammon), scores of clay mugs, and a double-sized keg of Hak’s mushroom ale (30 gp; see 7-94). To the west is a wrestling pit and weapons rack along with three chests. The rack contains three two-handed swords, two large battle-axes, two halberds, two rudishva dart throwers (but with only 2 clips of ordinary darts – see new technological items), four ballistic batons (see new technological items), and a sheaf of 12 javelins. To the east is a pile of randomly sized pieces of wood, string and rope, bits of metal and plasteel, and so forth. This is a construction zone, where the Vanaraya experiment with new engineering projects. Currently the area contains a set of 2’-tall pillars connected by string (a model for an improved troll lift apparatus), and a set of 6’-long sliding, interlocking bits of colored plasteel (a portable bridge that extends up to 15’). Amid the tools and projects is also a rudishva security encoder (see new technological items), used to code troll chests to a new handprint. 
 
 9 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 63, 61, 60, 59, 59, 58, 55, 53, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special 
 defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
@@ -595,11 +609,6 @@ Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-lev
 
 6 varumani infants, 2 of which are true (see new monsters): SZ M; AL LN; AC 8; MV 120’; HD 4; HP 26, 25, 21, 20, 19, 17; #AT 3; Dmg 1-2/1-2/1-6. Special defenses: surprised only on 1 
 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
-
-Treasure: 
-Chests 1 and 2 are unlocked and open to all clan members. They contain a total of 6,479 silver pieces, plus 36 small bits of carved plasteel, ivory, and bone in a variety of shapes (worth 5 gp each to a collector of art naïf), a pair of large silver platters embossed with a sheepshead and the Archontean numeral II (GM Note: plunder from the massacre of Adrienic’s expedition; see 5-18 et seq.), worth 125 gp each; 3 bolts of silk (purple, yellow, and blue) worth 250 gp each; 2 tokens of Arden (see Arden Vul items); numerous worthless objects of daily life (cups, mugs, IOUs, small knives, etc.); and several rudishva identity plaques: three copper, a brown, two bronze, a pink, and an orange plaque. 
-
-Chest 3 is a troll chest (see new technological items) keyed to the hand of Vedreya One-Eye, the current clan chief. Inside are complete maps of the entirety of the varumani areas of Level 7 (areas 7-1 to 7-76); the chambers on the maps are neatly labelled by function in Varumani Semi-glyphik. Also in the chest is the helmet of Vanara, a rudishva battle helmet (see new technology) with special significance to the varumani in general and to the Vanaraya in particular. Affixed to the inside of the helmet is a carefully folded bit of parchment with an accurate sketch of the non-secret areas of the Midnight Road (areas 5-86 to 5-137, not including 5-99 to 5-104). Finally, Vedreya has a stash of 2 fully-charged lesser power supplies (see new technological items) that he’s saving for emergencies.
 
 ### 7-19: Sorcerous Practice 
 
@@ -621,9 +630,13 @@ Chest 3 is a troll chest (see new technological items) keyed to the hand of Vedr
 
 ### 7-21: Apprentices’ Quarters
 
-Although this 10’-tall chamber is filled with five bunkbeds, enough for 10 apprentice sorcerers, the varumani have only identified five youth with the aptitude for magic. The apprentices have painted a large caricature of Ashoka next to the door; whenever they are feeling abused they adorn the painting with funny objects, including mice on string, odd-looking mushrooms, and ordure. A communal chest holds a dozen varumani-sized robes of rough wool, as well as the apprentices’ spell books.
-
-Secret Door (north): The apprentices are ignorant of this door. The door is 5’ tall and wide and is difficult to locate (1 in 8). It opens by pushing it inward.
+* * This 10’-tall chamber is filled with five bunkbeds, enough for 10 apprentice sorcerers.
+	* Only five youth with aptitude for magic currently reside here.
+* The apprentices have painted a large caricature of Ashoka next to the door.
+	* Whenever they are feeling abused they adorn the painting with funny objects, including mice on string, odd-looking mushrooms, and ordure.
+* A communal chest holds a dozen varumani-sized robes of rough wool, as well as the apprentices’ spell books.
+* Secret Door (north): difficult to locate (1 in 8), it is 5’ tall and wide, opens by pushing it inward.
+	* The apprentices are ignorant of this door.
 
 Arjun the apprentice, a male true varumani (see new monsters), 2nd-level magic user: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 49; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (staff, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: an iron-shod staff; a purse with 5 carnelians (50 gp each) and a copper plaque carved with a dragon in flight (225 gp). Memorized spells: comprehend languages, sleep. Spell book: comprehend languages, dancing lights, detect magic, hold portal, light, read magic, sleep, unseen servant.
 
@@ -1047,13 +1060,15 @@ Fighting among themselves. 1-2 They cease fighting and assault the PCs ; 3-4 the
 
 ### 7-44: Priscian Camp
 
-The Priscians based on the floor of the chasm (9-58 to 9-64) discovered the tunnel at 7-64 (aka 9-41) and widened it, allowing them access to this small portion of Level 7. Eager to plumb the mysteries of the nearby Great Pillar (7-37), a war mage triad accompanied by three conversi has established a camp in this chamber. They are cautiously exploring the surrounding areas. 
+* Eager to plumb the mysteries of the nearby Great Pillar (7-37), a war mage triad accompanied by three conversi has established a camp in this chamber.
+* The west wall of the hall fragment contains a niche holding a 4’ watcher nataraja (new).
+	* It is inert, since its original possessor died millennia ago. The activation word is written on the sole of its left foot (Rudishva for ‘look’).
+		* Speaking the activation word (in Rudishva) allows one to control the watcher.
+* Secret Door (east, locked; key held by Jellicos, +5% to pick): difficult to locate (1 in 8).
 
-The west wall of the hall fragment contains a niche in which stands a 4’ watcher nataraja (see new magic items). The watcher nataraja is inert since its original possessor died millennia ago. The activation word for the watcher is written on the sole of its left foot (the Rudishva word for ‘look’). Speaking the activation word (in Rudishva) allows one to control the watcher.
+* The Priscians based on the floor of the chasm (9-58 to 9-64) discovered the tunnel at 7-64 (aka 9-41) and widened it, allowing them access to this small portion of Level 7.  They are cautiously exploring the surrounding areas.
 
-If threatened, the Priscians shout loudly in order to summon their colleagues from 7-39.
-
-Secret Door (east): This door is difficult to locate (1 in 8). The key to this door is held by Jellicos. The lock may be also picked (+5% to chances) or the door may be beaten down.
+* If threatened, the Priscians shout loudly in order to summon their colleagues from 7-39.
 
 Jellicos, Priscian war mage (see new monsters) and member of Septimus, as a 7th-level male Archontean magic user: SZ M; AL LN; AC 2; MV 120’; HD 7; HP 22; #AT 1; Dmg 3-9 (Priscian gladius +2). Abilities: STR 11 INT 17, WIS 12, DEX 16, CON 13, CHA 10. Possessions: a key to 9-58; Priscian chain mail +1 (see new magic items); Priscian gladius +2 (see new magic items); brooch of shielding (66 HP left); wand of fire (23 charges); key to secret door leading to 7-44A. Spells memorized: charm person, detect magic, enlarge, magic missile; continual light, ESP, locate object; dispel magic, hold person; charm monster. Spell book: charm person, comprehend languages, detect magic, enlarge, feather fall, hold portal, identify, light, magic missile, push, read magic, shield, sleep; the Bracteros effect (see new spells), 
 continual light, ESP, knock, locate object, mirror image, ray of enfeeblement, stinking cloud, web; dispel magic, fireball, fly, hold person, lightning bolt, protection from evil 10’ radius; charm monster, monster summoning II. He is in a war mage triad with Scarred Crotus (7-39) and Lisut.
@@ -2820,8 +2835,8 @@ Kup, a lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP
 * An iris door (silver, yellow identity plaque) leads to this pair of rudishva teleport nodes.
 	* Each node is a 5’-diameter circle of silvery material inset into the floor, with a 10”x10” square of the same material affixed to the wall.
 	* Teleport Nodes:
-		* T17: access to 7-6
-		* T18: access to 8-52
+		* T17: access to 7-6 (floating island)
+		* T18: access to 8-52 ()
 
 ### 7-111: Stairs Up to SL9-49
 

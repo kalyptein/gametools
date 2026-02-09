@@ -626,16 +626,6 @@ To the Thegn's Court
 	* He confides in Astrid about his exile from the court.
 * Astrid and co descend via the lifts to 7-1
 
-### ==--- PRESENT DAY ---==
-
-
-TODO
-* Give J the creation mold recipes
-* post 'On the Terrible Old Gods' text to J
-
-
-* write up a "notables" list for the Varumani; figure out the faction dynamics
-
 
 To the Thegn's Court
 
@@ -644,7 +634,9 @@ To the Thegn's Court
 		* No
 
 * any doppels in the Troll Market?
+	* Yes
 * any "refugee" merchants from the Forum in the Troll Market?
+	* Off and on
 
 
 * Sir Prudence was informed by Melok-Ri about Astrid's pronouncement (heard on comms).
@@ -654,7 +646,7 @@ To the Thegn's Court
 			* Concerned about the destruction of Set
 			* Concerned about a monoculture in the halls if Archontean rule returns.
 			* But very pleased with her handling of the Beastmen, finding a way to preserve them while curbing Deino.
-		* Advice:
+		* Advice
 			* Ashoka is indeed honorable.  He's interested in growing the varumani arcane capabilities.
 			* Gevorda is overbearing, but has her fans.  Some may see it as sport to "put the toymaker in his place".  Ashoka is worried, he knows how powerful the khan really may be, but most varumani see him as a delightful tinkerer.
 			* Varboka fears the waning of his people and going down as a mere steward of that decline with no glory to his name.  This has made him contemplate expansionism (the goblins, a war vs the Khan maybe, turning
@@ -663,27 +655,31 @@ To the Thegn's Court
 			* Whatever Varboka does, Hraskaya will try to make trouble from it
 				* If he declines to agress on
 
-
-
-Where are Callista and "Gunnar" now?
-* Wherever the doppels are currently using as a base in the Halls (goblins? arena?)
-	* she and any other captives (maybe some Arena vendor / hanger-on types?) are stashed somewhere nearby.
-
 What fate for Artax-Ris?
 * Artax will mention or Akla-Chah will pass on that Artax and Psalor's work attempted to revive slain rudishva, but resulted in mindless but potentially tractable necrobionts.  Only those transformed before death retain their intelligence.
 * rolling 1d6 periodically to see how his therapy progresses
 	* phase 1: 1 (bad); Akla-Chah says he is deeply depressed (the death of the rudishva, his own folly and change, and the gulf of time that has forgotten the rudishva are all still too fresh for him).  He wishes, and she agrees, that he should return to his auto-doc (wherever they think it best to stash it).  It allows him to enter a slumber-like state that is more soothing that he can achieve normally with his undead state.  She hopes he will process her words and his emotions in that time and when he emerges in some weeks or months, he might be more receptive.
 
+
+Gifted 'the Chasm Bell' to Varboka from Kerbog Khan to make peace and imply threat.
+* deafening magical bell, mounted in 7-1; can be used as a signal throughout the chasm and it's volume will drive off a lot of chasm wildlife.  Can be aimed, focused and "fired" like a sonic cannon.
+
+
 Spy-balls watching...
 * AV-19 basement
 	* They'll see a Priscian team coming down, handling more supplies via floating disc.  They will note the slain zombies, examine the area and the supplies, and continue on (no sound, just vision).
 	* They have blue-and-orange sortian knot insignia and are wearing unusual looking orange-tinted mail.  the fighter and thief but also the obvious mage are armed with gladii
+	* archontean man mage, archontean man warrior, thorcin woman warrior
 * the Priscus statue in 4-164
 	* Priscian mage comes and drops flowers periodically, prays and meditates; she's unsure about Nerub's leadership.  Her conversi wait in the hall, nerviously keeping an eye out for monsters.
 		* ??? pick a named mage from the faction
 
-
-* write up a "notables" list for the Priscians; figure out the faction dynamics
+* have drome agents stake out for the Priscian supply run teams
+	* slipped a note into the mage's pocket: Astrid Ironblood of the Savage Heart seeks an audience, come to the Savage Lodge.  schedule ahead, we're probably adventuring
+	* how does this go over?
+		* how questioning is the mage who was shopping?
+			* very; it's the woman who goes to Priscus's statue; Delila implies as much
+			* shaken but intrigued
 
 
 Who heard Astrid's address from the bridge?
@@ -726,6 +722,42 @@ Who heard Astrid's address from the bridge?
 * Cinna Minux via comms
 
 
+Freed Bertis, Ungah (lizardman), and Poz (goblin) from Psalor-Ki
+
+
+### ==--- PRESENT DAY ---==
+
+
+TODO
+* Give J the creation mold recipes
+* post 'On the Terrible Old Gods' text to J
+
+
+
+* Took samples from Leil-Jor and varuda slime zombies for Psalor-Ki
+
+* what's in the ancient locked ivory coffer frp, 5-25?
+
+
+* write up a "notables" list for the Priscians; figure out the faction dynamics
+
+
+
+
+
+
+Visit by the Priscian sorceress to Savage Heart lodge?
+
+
+Where are Callista and "Gunnar" now?
+* Wherever the doppels are currently using as a base in the Halls (goblins? arena?)
+	* she and any other captives (maybe some Arena vendor / hanger-on types?) are stashed somewhere nearby.
+
+Ogre-magi
+* a produce of archontean experimentation on goblin-ogres to create an intelligent one produced these?
+* goblin-ogres who tampered with some arcane power? (lived in arcanum geode?  ate arcanum? worshipped mordiggian and became cannibals? ate some weird fungi? (blue haze? mind eater? whispering fungus?))
+* demon-possessed goblin-ogres?
+
 Doppelgangers begin trying to infiltrate the Drome in Gosterwick to get at the dwarves, and maybe steal any Ptah relics parties have (including the Savage Heart, maybe some minor magic items)
 * frame the dwarves with the Drome / Alexia?  try to get them driven out of town.
 * Kidnap dwarves to gain live lifestones, so they can lure the rest of the dwarves to doom
@@ -741,9 +773,14 @@ Doppels also want a new base within the Halls, having lost the Forum.
 
 Is Alexia created Lady Burdock?  Did some other governor get appointed?
 * If appointed, how does she start off doing?
+* If she gets the Ring of Jagri-Naz, surely she'll be appointed.
 
+Cheren has been upgraded!  How does this pan out.
+* She wants a more adult body?
 
-
+The Broom was able to spy out a lot of stuff in the aftermath of Astrid's visit
+* They know she showed the doom cylinder.  The heqeti know she has it.  They will begin to probe.
+* She proposed an alliance with the varumani to fight the heqeti and it seemed to go over well.
 
 
 
