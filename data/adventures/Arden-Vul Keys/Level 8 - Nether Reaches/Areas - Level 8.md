@@ -1617,11 +1617,11 @@ Two scrolls, one with the druid spell water breathing and the other with the mag
 ## Level 8: 94 - 104 (The Forge and Mines of Zhorak)
 
 The Forge of Zhorak should reveal the origin and nature of the doppelgangers.
-* Revamp the business with Lozor Hornfels.  Lozor was Zhorak's chief apprentice, and was replaced by a doppelganger, who trapped and killed Zhorak.
+* Revamp the business with Lozor Hornfels.  Lozor was Zhorak's chief apprentice, and was replaced by a doppelganger.  It trapped Zhorak and tried to kill him; Zhorak killed it, but could not escape and perished.
 * Among Zhorak's workshop papers:
 	* Posters and screeds denouncing the Sortians and exhorting his apprentice-priests not to heed their blandishments the way some in other priesthoods have.
 	* Fragmentary notes hinting at a complex project involving pa'ut (the creation of the doppelgangers as spies)
-* In his chamber, he has written a confesion and last testament, describing his "profaning of the maker's blood" and his folly.  In secret, he sought to craft shapeshifting spies from pa'ut to root out the Sortians.  But without combining Ptah's craft with the wisdom of Thoth and the true life-giving power of Isis, unlike the homunculi (goblins), he realizes too late that the creations are soulless abominations.  They feed upon the power of the Maker (Ptah), ruining his works and devouring his priests to breed more of themselves.
+* In his chamber, he has written a confession and last testament, describing his "profaning of the maker's blood" and his folly.  In secret, he sought to craft shapeshifting spies from pa'ut to root out the Sortians.  But without combining Ptah's craft with the wisdom of Thoth and the true life-giving power of Isis, unlike the homunculi (goblins), he realizes too late that the creations are soulless abominations.  They feed upon the power of the Maker (Ptah), ruining his works and devouring his priests to breed more of themselves.
 	* Now he is trapped by the one who stole the form of his apprentice, and they are loose in the world.  It is fitting he perish as punishment for his folly.  Ma'at will not welcome me.
 
 ### 8-87: Coal Seam

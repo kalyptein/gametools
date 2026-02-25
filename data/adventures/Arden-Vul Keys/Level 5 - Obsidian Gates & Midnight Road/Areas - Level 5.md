@@ -1430,14 +1430,14 @@ GM’s choice
 	* Snapped and broken bones of a variety of types litter the floor.
 		* Among the broken bones is the still-enfleshed corpse of the demon’s most recent victim, the dwarf Jasper Malachite, slain here about a week ago.
 			* Jasper’s clansman, Utor Malachite, is searching for his remains (see 7-76).
-			* Leather pouch (113 gp, 57 sp), a set of fine lockpicks (40 gp), an oily soapstone statuette of a salamander (75 gp); and Jasper’s dwarven life-stone (inert, carved with the symbols of clan Malachite).
+			* Leather pouch (113 gp, 57 sp), a set of fine lockpicks (40 gp), an oily soapstone statuette of a salamander (75 gp); and Jasper’s dwarven life-/*stone (inert, carved with the symbols of clan Malachite).
 		* The keqemander has accrued a substantial pile of loot over the centuries, more through boredom and success in battle than any love of wealth:
 			* 15,492 ancient silver pennies, 6,859 ancient gold solidi
 			* Six painted glass cups with gilt and lapis (125 gp each)
 			* A beautiful silk carpet depicting a scene of mysteries from the temple of Horus (350 gp)
 			* A golden ceremonial helmet (125 gp)
-			* A scroll (wizard’s cache, Daemon’s shadow)
-			* 2 potions of healing; a potion of diminution; a potion of flying
+			* A scroll (wizard’s cache, Dameon’s shadow book)
+			* potions (2x healing, diminution, flying)
 			* A soul stone (new), a mask of the skull (new), and a ring of faerie (good). 
 
 1 keqemander demon (see new monsters): SZ L; AL CE; AC -2; MV 90’, 150’ flying (Class D); HD 12; HP 83; #AT 3; Dmg 1-4/1-4/3-18; MR 40%. Constant abilities: dread (-1 to saves); 

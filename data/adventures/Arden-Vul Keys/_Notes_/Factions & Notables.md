@@ -74,7 +74,62 @@ Giant rudishva skeletons
 
 ## Goblin Kingdom
 
+Court 
 
+King Weskenim
+Baliff Reskim
+Major-Domo Palestrim
+Advisor Skimmel
+Advisor Reeflik
+Chief Concubine Griselt
+Gribble
+* brother of Weskenim, freed by Astrid from the prisons of the Setites
+Vingrim the Surly, head of the Royal Guard
+
+
+Witch-Doctors & Entities
+* Haskel
+* Preskell
+* Hobim
+* Bibi
+* Larakim
+* dretch servant
+* Rizzit the Lucern demon
+
+The Market
+* Master Leifcrim
+* Jobim the Brewer
+* Temrin the Artist
+* Thorgrim the Easy
+* Claudine of Narsileon
+	* Oskim the merchant (captive in the goblin market) figure out he was screwed by Claudine?  Nope, he's completely oblivious, thinks Claudine is a good friend, will keep working with her from afar.  She skimmed his tax payments and go him stuck with the trouble.
+
+
+Other Goblins
+* Killik
+	* guard captain of the Gate of Bones path
+* Pillik
+	* ambassador to the troll thegn
+* Gislu
+* Purbrin
+	* king weskenim's troublesome half-brother
+* Poz
+	* freed from Psalor-Ki by Astrid
+
+Visitors & Others
+* Sir Sorrow and Huguette
+* Priscian ambassadors
+* "Borrson of Firth's Hearth" and 3 guards
+	* doppelgangers; posing as merchants interested in buying ancient religious artifacts of the less famous of the Twelve (a means of seeking Ptah artifacts, locations, and info).
+* Julianus the Red
+	* Currently petrified, the statue in the middle of the goblin market
+	* A Sortian from antiquity, male Archontean mage 7
+
+### Faction Relations
+
+
+
+* Priscian Visitors
 
 ## The Heqeti
 
@@ -541,6 +596,74 @@ STR 18/21, INT 10, WIS 15, DEX 11, CON 16, CHA 11. Possessions: chain mail +2 an
 
 ### Faces
 
+Mages
+* Decimus
+	* Nerub Null (male archontean war mage, mage 18)
+* Nonus
+	* Jaracondus the Sprightly (male archontean war mage, mage 11)
+	* Laegel the Forsworn (male archontean war mage, mage 9)
+	* Palestrina (female archontean war mage, arcane smith enchantress 12)
+* Octavus
+* Septimus
+	* Cenwulf the Unseen (male thorcin war mage, illusionist 8)
+	* Jellicos (male archontean war mage, mage 7)
+	* Ellergast Half-Elven (male half-elf war mage, mage 8)
+	* Raeda Vyksdottir (female half-elf mage 7)
+		* Captive
+* Sextus
+* Quintus
+	* Pretius Octavus (male archontean war mage, mage 7)
+	* Justinian (male archontean war mage, mage 6)
+	* Jillia One-Ear (female archontean war mage, mage 8)
+	* Lukor (male thorcin war mage, mage 7)
+* Quartus
+* Tertius
+	* Aethelflaed Flatnose (female thorcin war mage, illusionist 5)
+	* Demetrios Sinister (male archontean war mage, mage 4)
+	* Elanchian Gellisson (female half-elf war mage, mage 5)
+	* Lisut (female archontean war mage, mage 5)
+	* Malachi (male thorcin war mage, mage 5)
+	* Ulf No-brows (male wiskin war mage, mage 4)
+	* Knut Half-troll (male wiskin trollkin war mage, mage 5)
+	* Khulan the Westron (male khumus)
+		* Dead
+* Secundus
+	* Thorgrim the Stout (male wiskin war mage, mage 3)
+	* Oskarina (female archontean war mage, mage 4)
+	* Ysadel (female archontean war mage, mage 4)
+	* Scarred Crotus (male thorcin war mage, mage 4)
+	* Amadec (female ??? war mage, mage 4)
+	* Gibreon (male archontean war mage, illusionist 4)
+* Primus
+	* Ebba of Pristen (female thorcin war mage, mage 3)
+	* Dolofina Yellow-eye (female archontean war mage, mage 2)
+	* Justina Krakteros (female archontean war mage, mage 2)
+
+Conversii
+* Liesbet the Reptile (female archontean conversus, bonded defender of Nerub Null, thief 11)
+* Inlevris Half-Elven (male half-elf conversus, bonded defender of Jaracondus, figher thief 7/9)
+* Sarabel Jewel-Eye (female archontean conversus, bonded defender of Cenwulf, thief 8)
+* Crinux the Wrinkled (male archontean conversus, thief 5)
+* Krator the Wit (male archontean conversus, bonded defender of Jillia One-Ear, theif 7)
+* Baela Ice-Hand (female archontean conversus, fighter 6)
+* Tergon the Rutter (male archontean conversus, fighter 5)
+* Paullor (male archontean conversi, Lukor's bonded defender, thief 6)
+* Rusticus (male archontean conversi, fighter 5)
+* Wellor (male wiskin conversi, fighter 3)
+* Haltor (male wiskin conversus, fighter 3)
+* Bitaurus (male archontean conversus, bonded defender of Jellicos, thief 6)
+* Paganus (male archontean conversus, fighter 5)
+* Pelagor (male archontean conversus, bonded defender of Laegel, thief 8)
+* Eroica (female archontean conversus, fighter 5)
+* Big Theo (male archontean conversus, skilled smith, ex-warrior 4)
+* Eigon the Bald (male archontean conversus, fighter 5)
+* Asdrusil the Swift (female archontean conversus, fighter 4)
+* Cassie Top-knot (female archontean conversus, thief 5)
+* Handsome Harold (male thorcin conversus, bonded defender of Ellergast, fighter 7)
+
+
+
+
 * Nerub Null (Decimus, male archontean war mage, mage 18)
 	* airy and ethereal demeanor, big thinker; mesmerizing Rasputin/Saruman-like manner, usually soft spoken but can bring the thunder
 	* A product of the Order of Thoth collegium.
@@ -580,7 +703,7 @@ Causeway Camp (9-31)
 * Pretius Octavus (Quintus, male archontean war mage, mage 7)
 * Aethelflaed Flatnose (Tertius, female thorcin war mage, illusionist 5)
 * Demetrios Sinister (Tertius, male archontean war mage, mage 4)
-* Thorgrim the Stout (male wiskin war mage, mage 3)
+* Thorgrim the Stout (Secundus, male wiskin war mage, mage 3)
 * Sarabel Jewel-Eye (female archontean conversus, bonded defender of Cenwulf, thief 8)
 * Crinux the Wrinkled (male archontean conversus, thief 5)
 
@@ -1130,6 +1253,30 @@ Rudiga
 
 
 ## Reiv-Tor and his Fishmen
+
+
+
+## The Arena
+
+* symbol: a light green surcoat emblazoned with a black image of a six-sided die
+
+Crellik-Var, Lord of the Arena
+
+Tredgeris the Dapifer
+
+Gladiators
+
+Outside Teams
+
+Peddlers, Gamblers, and Hanger's On
+
+
+## The Inn of the Lost
+
+
+
+
+
 
 
 ---

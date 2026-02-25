@@ -185,26 +185,19 @@ New Adventuring Companies
 * Sigeric's Tech-Elves
 * Ladies of Misrule
 
-
-
-* level 7 troll thegn's market and court areas
-	* bulletize
-	* tokens for personalities
-	* entities
-	* dressing
+* Survivors of Stone have a compound outside of town
 
 
 
-maybe the ogres aren't made by goblins, they are a goblinoid variant created back in the day, living in Level 7 (8?) and recruited by various factions?
+Arden Vul system
+* add hp / max hp properties to actors to values can be tracked on token
+* add fields to edit the values on the actor charsheet
+
+
 
 intended path
 * ready
-	* Level 5 (wrap up)
-* almost ready
-	* SL 4
-* bulletized
 	* SL 6
-* ready
 	* SL 5
 	* SL 7
 * bulletized
@@ -230,33 +223,14 @@ intended path
 	* Level 6
 		* entities
 		* dressing
-	* SL-4
-		* images
-		* entities
-			* -23 visitors and court
-			* -40 a-f lots of people
-			* -44 priscians
-		* dressing
-			* -17, -18
-			* -20, -21
-			* -22
-			* -24, -25
-			* 
-			* -33
-			* -38
-			* -39 
-			* -40 a-f, -41, -42
-			* -46
-			* -47
-			* -56, -57, -59, -60
-	* SL-6a (upper)
+	* 
+	* 
+	* SL-6a
 		* B: clear up overpasses, missing secret doors?
-		* entities
 		* dressing
-	* SL-6b (lower)
-		* B: clear up overpasses, missing secret doors?
-		* entities
-		* dressing
+			* 17a-c
+	* 
+	* 
 	* SL-9
 		* entities
 		* dressing

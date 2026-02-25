@@ -1298,9 +1298,8 @@ Gibreon, Priscian war mage (see new monsters) and member of Secundus, as a 4th-l
 change self, darkness, detect invisibility, hypnotism, phantasmal force; blindness, deafness, detect magic, fog cloud, improved phantasmal force, mirror image; fear, hallucinatory terrain, suggestion. 
 
 Ebba of Pristen, Priscian war mage (see new monsters) and member of Primus, as a 3rd-level female Thorcin magic user: SZ M; AL LE; AC 6; MV 120’; HD 3; HP 12; #AT 1; Dmg 1-3 (darts). Abilities: STR 12, INT 16, WIS 9, DEX 10, CON 16, CHA 
-
-Possessions: 6 darts; bracers of defense (AC 6); scroll of magic missile. Memorized spells: jump, sleep; pummeling fists of Arak-Zhorr (see new spells). Spell book: detect magic, 
-feather fall, hold portal, jump, magic missile, read magic, sleep; continual light, pummeling fists of Arak-Zhorr (See new spells), scare, strength.
+* Possessions: 6 darts; bracers of defense (AC 6); scroll of magic missile. 
+* Memorized spells: jump, sleep; pummeling fists of Arak-Zhorr (see new spells). Spell book: detect magic, feather fall, hold portal, jump, magic missile, read magic, sleep; continual light, pummeling fists of Arak-Zhorr (See new spells), scare, strength.
 
 Justina Krakteros, Priscian war mage (see new monsters) and member of Primus, as a 2nd-level female Archontean magic user: SZ M; AL LN; AC 8; MV 120’; HD 2; HP 6; #AT 1; Dmg 3-9 (Priscian gladius +2). Abilities: STR 9, INT 16, WIS 10, DEX 16, CON 11, CHA 11. Possessions: Priscian gladius +2 (see new magic items). Spells memorized: dancing lights, magic missile. Spell book: dancing lights, feather fall, jump, magic missile, read magic, sleep, floating disc; forget, ray of enfeeblement.
 

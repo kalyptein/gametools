@@ -485,16 +485,41 @@ Varboka, the troll thegn (5%): see stats at 7-30.
 
 ### 7-14: Hunters’ Lodge
 
-The elite varumani confraternity of hunters has its headquarters in this chamber. The 15’-tall chamber is dimly lit with huge tapers made of (smelly) rendered animal fat. The chamber is filled with stuffed and mounted monster heads: a jaguar, a yeth hound, an ogre, a guardian of Thoth, a heqeti weaver, a heqeti hopper, a frost ghoul, two fishmen, a dog-brother beastman, a fungal forester, a Set deacon, a giant rudishva skeleton, and an entire giant four-
-armed baboon. Amid all the trophies, eight hammocks are slung from the ceiling. By the doorway is a weapons rack, and three chests rest in the northeast corner. A set of heavy black velvet drapes blocks the eastern alcove, in which hang numerous sides of meat. An enormous cauldron steams in the center of the room; the hunters use it to rend the fat from their prey in order to make tallow candles. Three wooden chests carved with various animal and monster images dot the chamber. 
+The elite varumani confraternity of hunters has its headquarters in this chamber.
+The 15’-tall chamber is dimly lit with huge tapers made of (smelly) rendered animal fat.
+The chamber is filled with stuffed and mounted monster heads: a jaguar, a yeth hound, an ogre, a guardian of Thoth, a heqeti weaver, a heqeti hopper, a frost ghoul, two fishmen, a dog-brother beastman, a fungal forester, a Set deacon, a giant rudishva skeleton, and an entire giant four-armed baboon.
+Amid all the trophies, eight hammocks are slung from the ceiling.
+By the doorway is a weapons rack, and three chests rest in the northeast corner.
+A set of heavy black velvet drapes blocks the eastern alcove, in which hang numerous sides of meat.
+An enormous cauldron steams in the center of the room; the hunters use it to rend the fat from their prey in order to make tallow candles.
+Three wooden chests carved with various animal and monster images dot the chamber. 
 
- At any given moment 4-6 of the hunters are present in the lodge, skinning hides, sharpening blades, and drinking crude mushroom wine. The hunters are widely respected and feared for their independent ways. Winning their friendship is likely to convey significant advantages upon any seeking to negotiate with Varboka the thegn. That said, the hunters are among the smartest and most ruthless of the varumani, and are more likely to attempt to kill those they encounter in the wilds than they are to befriend them. Among the better-known members of the confraternity are Nolgi and Livod, each of whom has a 5% chance of being present. 
+ At any given moment 4-6 of the hunters are present in the lodge, skinning hides, sharpening blades, and drinking crude mushroom wine.
+ The hunters are widely respected and feared for their independent ways.
+ Winning their friendship is likely to convey significant advantages upon any seeking to negotiate with Varboka the thegn.
+ That said, the hunters are among the smartest and most ruthless of the varumani, and are more likely to attempt to kill those they encounter in the wilds than they are to befriend them.
+ Among the better-known members of the confraternity are Nolgi and Livod, each of whom has a 5% chance of being present. 
 
- One of the senior and most-respected members of the confraternity, Bedara, has been missing for a month. She had been scouting rumors of a new danger on the chasm floor (the aroksachaul at 9-50 - see new monsters) when she was ambushed by a heqeti strike force; she is now suffering perpetual torture in area 10-8. Nolgi, in particular, would very much like news of Bedara; he and the others would proclaim eternal friendship to those who rescued Bedara.
+ One of the senior and most-respected members of the confraternity, Bedara, has been missing for a month.
+ She had been scouting rumors of a new danger on the chasm floor (the aroksachaul at 9-50 - see new monsters) when she was ambushed by a heqeti strike force; she is now suffering perpetual torture in area 10-8.
+ Nolgi, in particular, would very much like news of Bedara; he and the others would proclaim eternal friendship to those who rescued Bedara.
 
- The hunters have their own shortcut to the Dread Risers (7-2): a set of hand- and foot-holds carved in the chasm wall and extending from the concealed door down 50’ to the Risers. They have hammered a series of iron hooks, pitons, and pulleys into the rock to allow them to hoist their catch from the Risers to the concealed door. 
+ The hunters have their own shortcut to the Dread Risers (7-2): a set of hand- and foot-holds carved in the chasm wall and extending from the concealed door down 50’ to the Risers.
+ They have hammered a series of iron hooks, pitons, and pulleys into the rock to allow them to hoist their catch from the Risers to the concealed door. 
 
 Secret Door (north): The door is easy (1 in 4) to locate. It swings soundlessly on a vertical pin; a successful open doors check pushes it open. The door leads to a narrow passage and a concealed door that gives forth onto the chasm. 
+
+Weapons rack: two two-handed swords, a two-handed axe, a heavy boar spear, a halberd, and two heavy crossbows
+
+Mounted monster heads: each (except the Set deacon) could be sold to collectors in a large city for 100-400 gp each.
+
+Chest 1: 2 lb of Gethite lotus powder in sixteen 2-oz pieces, stolen from traders on the chasm floor (100 gp per ounce) (see new flora); 4 vials of heqeti acid drawn from fresh corpses; 8 doses of hunter’s friend (see Arden Vul items); 11 doses of varumani knock-out juice (see Arden Vul items); 3 potions of waterbreathing; 2 potions of extra healing; and a potion of human control.
+
+Chest 2: 374 ancient silver pennies (see Arden Vul items); 298 ancient gold solidi (see Arden Vul items); 1,149 sp; 357 gp; and 19 ancient octagonal platinum pieces (see Arden Vul items).
+Chest 3: 4 pieces of ivory from a variety of unusual beasts (225 gp per piece), a weretiger pelt (300 gp), four sable pelts (100 gp each), and 3 teeth from a gold dragon (100 gp each).
+
+
+
 
 4-6 true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail.
 
@@ -505,18 +530,6 @@ surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whi
 
 Halti the hunter, a true varumani (see new monsters) (5%): SZ L; AL LE; AC 2; MV 90’; HD 8; HP 62; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 8-26 (two-handed sword +2, 2-20+6) or 7-25 (javelin +1). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, 
 confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: a two-handed sword +2; a net; a sheaf of 5 javelins +1; ring mail; a collection of 15 bangles of gold and silver (550 gp for the collection); and a purse with 87 sp, 131 gp, and two doses of hunter’s friend (see Arden Vul items). She affects a bright yellow phrygian cap (at least when she is not stalking prey).
-
-Treasure:
-Each hunter has his/her own personal weapons, some of which are enchanted.
-
-Weapons rack: two two-handed swords, a two-handed axe, a heavy boar spear, a halberd, and two heavy crossbows
-
-Mounted monster heads: each (except the Set deacon) could be sold to collectors in a large city for 100-400 gp each.
-
-Chest 1: 2 lb of Gethite lotus powder in sixteen 2-oz pieces, stolen from traders on the chasm floor (100 gp per ounce) (see new flora); 4 vials of heqeti acid drawn from fresh corpses; 8 doses of hunter’s friend (see Arden Vul items); 11 doses of varumani knock-out juice (see Arden Vul items); 3 potions of waterbreathing; 2 potions of extra healing; and a potion of human control.
-
-Chest 2: 374 ancient silver pennies (see Arden Vul items); 298 ancient gold solidi (see Arden Vul items); 1,149 sp; 357 gp; and 19 ancient octagonal platinum pieces (see Arden Vul items).
-Chest 3: 4 pieces of ivory from a variety of unusual beasts (225 gp per piece), a weretiger pelt (300 gp), four sable pelts (100 gp each), and 3 teeth from a gold dragon (100 gp each).
 
 ### 7-15: Larder
 
@@ -694,7 +707,7 @@ Ashoka shocked the thegn’s court by appointing Glif as First Adept, as there h
 
 Glif also has an imp as a familiar; it goes by the bizarre name ‘Elliott’.
 
-The Priscian prisoner is named Noredden. Glif and Nolgi encountered Noredden in the Nether Reaches. After slaying her conversi, they captured her and brought her back to the varumani court for interrogation. Noredden has thus far revealed little, and Glif and Ashoka are growing frustrated; more advanced torture is imminent. The sorcerers are seeking specific information on the access points to the Priscian areas (9-58 to 9-64), and details of its layout. The thegn fully supports the sorcerers’ efforts, as he worries about the existence of a powerful force in an unknown location. Varboka is unaware that Ashoka is also interrogating Noredden with the hopes of extracting information about a hidden tomb connected with the Sortians (i.e., the Tomb of Isadora at Sub-Level 11). Unfortunately Noredden knows nothing of that tomb, nor even much about Isadora. 
+The Priscian prisoner is named Noredden (Raeda Vyksdottir; Noredden is a dupe from Arcane Vengeance). Glif and Nolgi encountered Noredden in the Nether Reaches. After slaying her conversi, they captured her and brought her back to the varumani court for interrogation. Noredden has thus far revealed little, and Glif and Ashoka are growing frustrated; more advanced torture is imminent. The sorcerers are seeking specific information on the access points to the Priscian areas (9-58 to 9-64), and details of its layout. The thegn fully supports the sorcerers’ efforts, as he worries about the existence of a powerful force in an unknown location. Varboka is unaware that Ashoka is also interrogating Noredden with the hopes of extracting information about a hidden tomb connected with the Sortians (i.e., the Tomb of Isadora at Sub-Level 11). Unfortunately Noredden knows nothing of that tomb, nor even much about Isadora. 
 
 Glif, the First Adept, a female lesser varumani (see new monsters), 8th-level magic user: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 9-14 (short sword +4, 1-6+8). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and 
 other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: keys to 5-28 and 7-67; a gold Sortian eye (see new magic items); a rudishva useful palm (of correction) with 2 charges (see new magic items); a wand of secret door and trap detection (73 charges); and a short sword +4. Her memorized spells are: comprehend languages, feather fall, Frigg’s flatulence (see new spells), magic missile; levitate, Pol’s endless sneezes (see new spells), the pummeling fists of Arak-Zhorr (see new spells); dispel magic, haste, lightning bolt; confusion, wall of ice.
@@ -1089,16 +1102,22 @@ Paganus, Priscian conversus (see new monsters), as a 5th-level male Archontean f
 
 ### 7-45: Great Cavern, or the Varumani Proving Grounds
 
-This massive cavern averages 75’ in height. Phosphorescent mush-rooms from the southern portion of the cavern (south of the pool at 7-49) offer a dim light, through which can be glimpsed several looming rock formations (7-47, 7-48, and 7-53). The environment is humid and damp, and the air is filled with the sound of drips and subterranean insects. Numerous ledges line the walls of the cavern, some of which lead to small subsidiary cave systems.
+This massive cavern averages 75’ in height.
+Phosphorescent mush-rooms from the southern portion of the cavern (south of the pool at 7-49) offer a dim light, through which can be glimpsed several looming rock formations (7-47, 7-48, and 7-53).
+The environment is humid and damp, and the air is filled with the sound of drips and subterranean insects.
+Numerous ledges line the walls of the cavern, some of which lead to small subsidiary cave systems.
 
-The varumani access the cavern via the wooden ladder at 7-63. While they have not formally colonized the cavern, the varumani consider it to lie within their domain. They maintain it as a sort of nature preserve, albeit with several practical functions as well: 
+The varumani access the cavern via the wooden ladder at 7-63.
+While they have not formally colonized the cavern, the varumani consider it to lie within their domain.
+They maintain it as a sort of nature preserve, albeit with several practical functions as well: 
 
-1) it is a place for young varumani to learn combat techniques against the monsters that typically congregate nearby; 
-2) it provides valuable food supplies in the form of giant mushrooms and hunted animals; 
-3) it is mined for valuable arcanum (see new magic items), iron, and ‘glowing sand’ (radioactive silicon); and 
-4) it provides alternative routes to other portions of the lower Halls (especially 7-52, which provides access to the silver mine at 9-27). To the north, a deep, sandy pool of spring-fed water surrounds a 40’-tall rock formation (7-47 and 7-48).
+* it is a place for young varumani to learn combat techniques against the monsters that typically congregate nearby
+* it provides valuable food supplies in the form of giant mushrooms and hunted animals
+* it is mined for valuable arcanum (see new magic items), iron, and ‘glowing sand’ (radioactive silicon)
+* it provides alternative routes to other portions of the lower Halls (especially 7-52, which provides access to the silver mine at 9-27). To the north, a deep, sandy pool of spring-fed water surrounds a 40’-tall rock formation (7-47 and 7-48).
 
-To the south, the cavern is dominated by a small fungal forest, in which grow all the same species found in the Great Cavern of Level 3 (3-163, 3-172): white ribs, white bulbs, orange lamps, eye-openers, cloud caps, blue trumpets (see new flora for all). The mushrooms surround another prominent rock formation, on the top of which is an ancient ruin (7-53).
+To the south, the cavern is dominated by a small fungal forest, in which grow all the same species found in the Great Cavern of Level 3 (3-163, 3-172): white ribs, white bulbs, orange lamps, eye-openers, cloud caps, blue trumpets (see new flora for all). 
+The mushrooms surround another prominent rock formation, on the top of which is an ancient ruin (7-53).
 
 Chances for a random encounter are doubled here.
 

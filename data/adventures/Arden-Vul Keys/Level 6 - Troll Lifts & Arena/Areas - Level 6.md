@@ -2843,7 +2843,7 @@ D10 Effect
 ### 6-95: Hall of Four Pillars
 
 * This extension of the Hall of Stone Heads is 30' tall and features four greasy, smoothed-granite pillars (numbered from south to north, radiating magic) holding up the roof.
-	* Touching a pillar adjusts features of the large rudishva face.
+	* Touching a pillar adjusts features of the large heqeti (not rudishva) face.
 		* Pillar 1: reset (eyes and mouth closed, nostrils flared) 
 		* Pillar 2: the mouth opens wide
 		* Pillar 3: the nostrils close up
@@ -2873,6 +2873,21 @@ D10 Effect
 * On the south wall, a 5’-diameter circle has been cut out of the regular white marble.
 	* Beyond the circle is the back side (teeth) of the stone face in 6-95.
 	* A 12”-long, ½”-wide slot is set in the lip of the circle. Inserting a rod causes the mouth to open, granting access to 6-95.  While it stays inserted, the face stays open; if removed, it closes after 1 turn.
+
+Gunnar & Callista
+* The doppelganger who was "Gunnar" in the Forum of Set has relocated his lair here.
+	* He has a sky blue identity plaque.
+		* Can come and go through the Hall of Shrines (thence to Level 2 and 3).  It can enter the Translocation Hub, but is limited in where else it can go from there through teleportals.  Won't be attacked by the guardians, but can't pass the fiery dancer.
+	* He knows the pillar sequence for the hall 6-95, can get into 6-57 (Psalor-Ki's back stair), picking its lock, and ooze through the bars to 6-56 and then blend into the Arena traffic.
+	* He spends much time in the Peddler area (6-28), listening for news, looking for Ptah artifacts, helping equip his brethren who pass through, and spying on any dwarves.
+		* Can't go into the Inn of the Lost's anti-magic field without reverted to true form.
+* Callista is chained to one of the plasteel benches (which is bolted to the floor).
+	* Gunnar left a stock of food and water, and comes to replenish it periodically.
+	* He tortures and mind-probes her for info, and has passed Drome-faking into to his brethren.
+	* She is weak from long imprisonment and has no idea where she is.
+* Gunnar has kidnapped and replaced Skellan Skindros from the Peddler's Area
+	* He knows him from the Forum of Set.  Skellan is also chained up here for questioning.  He was new to the Peddler's corner and Hal's Corner, so less well known and easier to replace.
+	* Birgir and Asbjorn, also from the Forum and now in the Peddler's area, feel like Skellan is acting a little weird.  They used to drink in the Inn of the Lost, but he always passes now, goes off to Hal's.
 
 ### 6-96: The Arena Lord’s Stash
 

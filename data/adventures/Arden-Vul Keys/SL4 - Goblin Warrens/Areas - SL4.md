@@ -721,8 +721,8 @@ Carloman Fleetfingers, 3nd-level male halfling fighter: SZ S; AL CE; AC 9; MV 90
 		* Purbrin, Weskenim’s rebellious half-brother.
 	* Six iron posts set in the flagstones in the center of the room hold shackled prisoners.
 		* Two goblins caught thieving
-		* A beastman deserter
-		* A sobbing merchant from Narsileon
+		* Caras, a beastman deserter / exile, ovine konturb
+		* Oskin: a sobbing merchant from Narsileon, partner of Claudine
 	* Young goblins like to hang around, mocking the prisoners and hurling trash at them.
 	* A pair of guards is stationed at both north and south exits from the Judgment Hall.
 
@@ -830,7 +830,7 @@ Lake, a male Thorcin merchant from Narsileon whose debts led to his imprisonment
 	* 
 	* (25%) King Weskenim, accompanied by Palestrim, Skimmel, Reeflik and a eunuch ogre guard – see SL4-22 for stats for all.
 
-3 groups
+4 groups
 * 6 lesser varumani
 	* sell goods (spell scrolls) and secretly Subvert King Weskenim (SL4-22) or his ministers
 	* they're interested in Nicetas and his envoy as well; both for themselves and in relation to Weskenim
@@ -841,8 +841,13 @@ Lake, a male Thorcin merchant from Narsileon whose debts led to his imprisonment
 * 5 doppelgangers
 	* disguised as human guards for a merchant ("Borsson of Frith’s Hearth"), investigating the possibilities of trade in antiquities, curios, etc from Arden Vul
 	* actually seeking new bases of operations in the Halls, after the loss of the Forum.
+* skreel lizardmen, led by Hrashk (elite)
+	* buying meat, getting Temrin to explain a map showing underwater tombs in the Flooded Canyon
+* Tredgeris the Dapifer, w/ bodyguards
+	* recruiting fighters and promoting the arena
 
 6 merchants
+
 
 
 Table 1: Visitors to the Great Hall
@@ -1191,7 +1196,7 @@ GM Note
 	* They know/are known to Primal Vengeance, but aren't members.
 
 
-Fedolcin, 6th-level male half-elf druid: SZ M; AL N; AC 8; MV 120’; HD 6; HP 37; #AT 1; Dmg by weapon. Abilities: STR 11; INT 13; WIS 17; DEX 16; CON 10; CHA 15. Prepared spells: animal friendship, detect magic, entangle, faerie fire, invisibility to animals, speak with animals; barkskin, charm person, create water, cure light wounds, locate plants; hold animal, neutralize poison, summon insects; animal summoning I. 
+Fedolcin, 6th-level male half-elf druid: SZ M; AL N; AC 8; MV 120’; HD 6; HP 37; #AT 1; Dmg by weapon. Abilities: STR 11; INT 13; WIS 17; DEX 16; CON 10; CHA 15. Prepared spells: animal friendship, detect magic, entangle, faerie fire, invisibility to animals, speak with animals; barkskin, charm person, create water, cure light wounds, locate plants; hold animal, neutralize poison, summon insects; animal summoning I.
 
 Lillecin, 4th-level female half-elf druid: SZ M; AL N; AC 8; MV 120’; HD 4; HP 23; #AT 1; Dmg by weapon. Abilities: STR 9, INT 9, WIS 16, DEX 16, CON 11, CHA 17. Prepared spells: detect magic, entangle, locate animals, pass without trace, shillelagh, speak with animals; barkskin, charm mammal, obscurement, trip; protection from fire, stone shape. 
 
@@ -1358,6 +1363,7 @@ Ysadel’s Spell Book
 	* Along the south wall are three open 4’x4’x4’ stone bins.
 		* Left-most bin: empty
 		* Middle bin: full of rich topsoil (only 2" deep, covers a patient ochre jelly).
+			* shattered jars of healing concentrate; broke and animated into the ochre jelly.
 		* Right-hand bin: coated in a flaky, orange precipitate (if rehydrated, acts as a 10 doses of healing potion).
 	* Secret Door (east): opens by pulling the closest wall sconce; a 4’x3’ section of wall grinds open, revealing SL4-49.
 * As soon as the threshold is crossed, a sighing sound emanates from the corpse; 2 rounds later, a spectre materializes and attacks.
@@ -1377,6 +1383,7 @@ immune to sleep, charm, hold, cold, poison, and paralysis.
 
 1 ochre jelly: SZ M; AL N; AC 8; MV 30’; HD 6; HP 41; #AT 1; Dmg 3-12. Special defenses: lightning divides into half-sized creatures.
 
+X / 41
 ### SL4-49: Ogre Guards
 
 * King Weskenim assigned a second detachment of his eunuch ogres (SL4-25) as guards of this strategic route to the lower levels.
@@ -1489,7 +1496,7 @@ immune to sleep, charm, hold, cold, poison, and paralysis.
 ### SL4-58: Niche with Bust
 
 * At the north edge of the collapsed tunnel the goblins erected a shrine to their protector.
-	* A statuary bust floats 5’ from the floor; a Sortian portable sage (legends and folklore, dweomercraeft).
+	* A statuary bust floats 5’ from the floor; a Sortian portable sage (legends and folklore, dweomercraeft, 14 questions).
 		* The command word (Mithric) ‘speak’ is written on the bottom of the bust.
 		* The goblins call it “King Wesky the First”.
 		* The Priscian visitors (SL4-44) have learned of the existence of this sage and are scheming to acquire it.

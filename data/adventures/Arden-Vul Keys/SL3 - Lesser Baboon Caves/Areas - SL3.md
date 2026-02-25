@@ -110,9 +110,9 @@ Tikun Thane, 16th-level male Thorcin magic user (25%)
 	* ring of wizardry (3rd-level spells)
 	* a black robe of the archmagi (for evil mages, +5 def, 75% magic resist, +4 saves, +1 level for caster contests)
 	* rudishva useful palm (cleansing wind, 8 charges) (gust of wind as 3rd lvl, 5-12 rounds + dispel magic)
-	* torc of domination (2/day, charm person via speach)
+	* torc of domination (2/day, charm person via speech)
 	* wand of shielding (59 charges) (shield 1, minor globe 3, or stoneskin 3 charges)
-	* wand of fire (49 charges).
+	* wand of fire (49 charges)
 * Spells memorized
 	* charm person, comprehend languages, hold portal, magic missile, shocking grasp
 	* ESP, forget, knock, pyrotechnics, wizard lock
@@ -120,7 +120,7 @@ Tikun Thane, 16th-level male Thorcin magic user (25%)
 	* charm monster, confusion, extension I, fear, polymorph other
 	* cloudkill, cone of cold, feeblemind, hold monster, teleport; disintegrate, extension III, globe of invulnerability
 	* grasping hand, power word stun
-	* maze.
+	* maze
 * Tikun Thane keeps his spell books safely in his tower.
 
 3 disciplined large albino baboons: SZ M; AL N; AC 7; MV 120’; HD 4; HP 30, 27, 24; #AT 1; Dmg 1-8 (scimitar); MR 10%. Special defenses: immune to mind-affecting spells.
@@ -129,6 +129,7 @@ Tikun Thane, 16th-level male Thorcin magic user (25%)
 
 Rixit, stone golem: SZ L; AL N; AC 5; MV 60’; HD 14; HP 60; #AT 1; Dmg 3-24. Special attacks: slow once every other round. Special defenses: +2 or better weapons to hit; immune to most magic.
 
+62 / 60
 ##### SL3-2A: Prison of Kel Bormol, Archmage 
 
 * The ancient Archontean archmage, Kel Bormol, was imprisoned within his own chess set for a millennium.

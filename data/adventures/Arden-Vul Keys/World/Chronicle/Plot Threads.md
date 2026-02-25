@@ -724,6 +724,111 @@ Who heard Astrid's address from the bridge?
 
 Freed Bertis, Ungah (lizardman), and Poz (goblin) from Psalor-Ki
 
+What of the Borrson merchant company?
+* They stick around in the goblin market, hoping the Savage Heart will bring them Ptah artifacts or lore
+
+Freed from the goblin prisons
+* The elf druid botanists: plan to return to exploring
+* Narbo the wizard: goes to work for the Savage Heart
+* Oskim the merchant: goes home to Narsileon.  Does he figure out he was screwed?
+	* nope, completely oblivious, thinks Claudine is a good friend, will keep shipping to her from afar
+
+what's in the ancient locked ivory coffer frp, 5-25
+* a bunch of fragile bliss flowers (yellow with black pollen) with pollen that disorients (doom save at -3 or disoriented for 1 turn).  Can affect slimes, and potent against things with slimy exposed mucus membranes, like amphibians.
+* ancient thorcin runes burned on a scrap of leather that speaks of 'going into the underworld to gather the yellow flowers who's dust brings waking dreams, but can stun the 'formless ones' the toads command in their hunts' (bliss pollen)
+
+The question of a new governor for the valley has been broached raised
+* Alexia wined and dined the exarch's emissary and arranged the spectacle of receiving the Ring of Jagri-Naz from Astrid to coincide with the visit.
+* Soon she will be created Lady Burdock, imperial governitrix of the valley.
+	* She'll actually be the government, have some authority over the Drome, etc.
+	* How will this play with Azure Knight claims, etc?
+
+
+* Alexia's rule starts off positively, although there is a spate of bad harvests and a mess of finances left by her brother and his cronies to sort out.
+	* Her finances and the gifts of supporters have been strained thus far, but with the Ring's return, new supporters move into her orbit and further her support.
+
+
+Cheren has been upgraded!  How does this pan out.
+* She feels less fuzzy, she has an easier time remembering things and thinking.
+* She wants a more adult body?  Kerbog begins work on a "teenage" body, reasoning they should take it in steps.
+	* What should it's aesthetic be?  Kerbog isn't the best artist.  Cheren asks the party, since they're all girls.  Should she try to look human?  Machine?  
+		* Maybe like auntie Akla-Chah with horns? (does she know of Akla-Chah?)
+
+
+Visit by the Priscian sorceress to Savage Heart lodge?
+* Next supply run she's on, Ebba uses disguise self to spy on the Savage Heart Lodge.  Get's noticed by Fimbul's drome watchers.
+	* Due to a delayed shipment (arrives tomorrow) she and Malachi (her boss) stay overnight at an inn (the Stunned Acolyte) in town (easily found by the drome).
+
+Ebba is getting chewed out, being watched, not free to leave flowers
+* Malachi doesn't trust the situation or her
+* Worried about the Savage Heart's attentions
+
+
+"Moratius Ligareon" drome operative arrives
+* not pleased to be bogged down with this border lord's obstruction
+	* lightly feels out Fimbul and Alexia about pressuring Astrid
+	* eventually agrees to work alongside Astrid; wants to listen to the interrogations, 
+		* he has a quartet of soldiers with him (doppels)
+* "evidence"
+	* Intef letters (forged, but they have a good knowledge of Setite ways to fake it)
+	* Setite captives (an acolyte and 2 guardsmen) who (as far as they know) made a deal with some "dwarves" to get smuggled out.  They have come with Moratius.
+		* They were captured by "Moratius" and some local imperial soldiers (of course the doppels set them up to create this evidence).
+		* Two "dwarves" were aiding them. one was absent during the raid and is now at large, being searched for.  The other was captured, questioned a little, then tried to shiv him with a hidden dagger (he can show the "healing wound") and then took poison (all an act) when he failed.
+		* Moratius they various testimonies in writing, notarized by the local House of Sight chartoulios.
+		* Some setite relics were captured along with the cultists, and loose details of a plan to link up with another cell of Setites after they reached Narsileon.
+* doppels
+	* Can fake any alignment and provide plausible surface thoughts.
+	* the "Moratius" identity has some papertrail to support it, but it begins unraveling if looked at too hard.  Doesn't go back more than a year or so, gets thinner the more you move out of the frontier region toward Narsileon, where there are better records and lines of communication and people know each other.
+		* It's based on the kind of floating operative that Visby and Callista are.
+
+Doppels exposed by True Sight and captured
+* the surviving 3 are destruct tested by Tresti to learn more about their nature.
+
+3 more eyes of pol from doppel Set prisoners
+* recovered
+* all deployed spyballs collected
+
+
+Alexandros knows Tikun Thane purchased plenty of slaves
+* Savage Heart plans to visit and question him.
+
+The Fall of Tikun Thane
+* party found out about his dominating ways, ambushed him with a stun grenade and bound him
+* brought before the Collegium Court and sentenced to petrification to serve as a mana battery
+
+
+Cheren's new form
+* be more human, but more of an elegant robot with a metal masked face
+	* can pass for a fully / exotically armored human
+* 
+* does she have gender?  does she stay the nice nerd-girl or take on some new personality traits?  smart? perceptive? social? elegant?
+	* she stays mostly consistent with her established personality.  tagging around with Tresti, wanting to learn magic and scholarship.
+		* her body will have half-elf sized horns
+		* very femme
+	* trends elegant; after a life of Kerbog's clumsy workmanship, she is captivated by ornate and elegant things, jewelry, clothing, and definitely her new body
+		* Kerbog is somewhat bemused
+		* she doesn't want to go live in some horse tent or remote wizard tower; she wants to stay in civilization with all the people she knows.
+		* This will make Kerbog more sour at the idea of leaving Arden Vul
+	* 
+	* more airy or more grounded?  middling...what's that mean?
+	* 
+	* she's working with Tresti to find ways for a construct to do arcane magic
+		* Cheren can use scrolls and wands and similar mage things
+	* 
+	* items forged into her body
+		* 10k gp spent to build and beautify her body (gems, etc)
+		* amulet of proof against detection and location
+		* chain +3
+		* dagger +3
+		* torc of authority
+
+familiar's name: Puratana (rudishva for 'ancient')
+
+Talk with Kerbog about him being wanted
+* he'll set up a sanctum off in Khumus lands
+* what if Thoth would take him on as his "apprentice"?
+	* yes please
+
 
 ### ==--- PRESENT DAY ---==
 
@@ -733,65 +838,65 @@ TODO
 * post 'On the Terrible Old Gods' text to J
 
 
-
-* Took samples from Leil-Jor and varuda slime zombies for Psalor-Ki
-
-* what's in the ancient locked ivory coffer frp, 5-25?
-
-
-* write up a "notables" list for the Priscians; figure out the faction dynamics
+they owe Psalor-Ki valuable slime and bio-samples in  return for the Ring of Jagri-Naz
+* Took samples from Leil-Jor and varuda slime zombies for Psalor-Ki 
+	* seems unlikely, but he'll ask if there's any chance they could get an uninfected varuda sample from their quarters (he's a bit rusty on varuda biology after 3000 years).
 
 
+Priscians start using paid/charmed intermediaries, or going down to Newmarket
+* Ebba won't be free to leave flowers for Priscus
 
 
-
-
-Visit by the Priscian sorceress to Savage Heart lodge?
-
-
-Where are Callista and "Gunnar" now?
-* Wherever the doppels are currently using as a base in the Halls (goblins? arena?)
-	* she and any other captives (maybe some Arena vendor / hanger-on types?) are stashed somewhere nearby.
-
-Ogre-magi
-* a produce of archontean experimentation on goblin-ogres to create an intelligent one produced these?
-* goblin-ogres who tampered with some arcane power? (lived in arcanum geode?  ate arcanum? worshipped mordiggian and became cannibals? ate some weird fungi? (blue haze? mind eater? whispering fungus?))
-* demon-possessed goblin-ogres?
-
-Doppelgangers begin trying to infiltrate the Drome in Gosterwick to get at the dwarves, and maybe steal any Ptah relics parties have (including the Savage Heart, maybe some minor magic items)
-* frame the dwarves with the Drome / Alexia?  try to get them driven out of town.
-* Kidnap dwarves to gain live lifestones, so they can lure the rest of the dwarves to doom
-* etc
-
-Doppels also want a new base within the Halls, having lost the Forum.
-* Inn of the Lost?
-	* ideal, but the antimagic aura messes with their shifting and mind-reading (can hold shape, but can't change)
-* Troll Thegns Court?
-* Arena? (maybe the best option)
-* Priscians?
-* Goblin Market? (easiest)
-
-Is Alexia created Lady Burdock?  Did some other governor get appointed?
-* If appointed, how does she start off doing?
-* If she gets the Ring of Jagri-Naz, surely she'll be appointed.
-
-Cheren has been upgraded!  How does this pan out.
-* She wants a more adult body?
-
-The Broom was able to spy out a lot of stuff in the aftermath of Astrid's visit
+The Broom was able to spy out a lot of stuff in the aftermath of Astrid's visit to the thegn
 * They know she showed the doom cylinder.  The heqeti know she has it.  They will begin to probe.
-* She proposed an alliance with the varumani to fight the heqeti and it seemed to go over well.
+	* Maybe they plot to get her to bring out the cylinder again, planning to attack and steal it?
+	* They (and heqeti demon spies) will be trying to scry out the cylinder around the 
+		* Eventually a spy will be noticed.  Cheren and Tresti's cat familiar capture or kill one?
+* Astrid proposed an alliance with the varumani to fight the heqeti and it seemed to go over well.
+
+Heqeti start trying to scry and spy out the Doom Cylinder
+* Eventually a spy will be noticed  around the Savage Lodge.
+	* Cheren and Tresti's cat familiar capture or kill one?
+* slimes, toad-imps, dreamstalking night-efts
 
 
+Temrin the goblin map-maker is making a magic map to lead to Callista
+* arcane connections to assist: callista's hair
+* ready after next downtime
+* near arena peddlers
+* she and any other captives (maybe some Arena vendor / hanger-on types?) are stashed somewhere nearby.
 
 
+Varboka sends the hunters to scout out the heqeti.
+* Bedara is captured (they only know she hasn't returned). 
+* They capture the hopper now kept in 7-33.
+* 
+* They also capture the Priscian prisoner by chance, down on the Chasm Floor?
+* 
+* Perhaps the Priscians do come back to deal with the Savage Heart, hoping Astrid can return their prisoner?
+	* Or they try to magic them out?
+	* Cinna Minux might see the captive as a chance to get his mesmeric claws into a Priscian, if he can get them close enough (but they are held by Glif and Ashoka)
+
+
+Kirian - Gwelf's magic sword
 
 
 ## Future
 
+
+maybe the ogres aren't made by goblins, they are a goblinoid variant created back in the day, living in Level 7 (8?) and recruited by various factions?
+
+
+Caras the exiled beastman (for cowardice) was freed from goblin captivity, went with Tredgeris to fight in the arena.
+* Astrid gave him a shield +1 and shortsword +1 as a parting gift
+* how does it go?  does he win, making a name?  is he accepted back home for his valor?
+
+
 Deino might be eyeing ways to get her poison or transformation brews into the party's drinks in some deniable place (Inn of the Lost, although it's antimagic would probably block that) or the like.
 
 The Broom is seeking the sceptre of the goblins so the heqeti can enslave the goblins, as well as looking for info about the Priscians and ways to weaken the Varumani and Sun-Scarred Knights
+
+Goblins and Beastmen build a joint-market in the old Forum of Set ???
 
 The Kaliyani may move to make a forward post in the Forum of Set
 * Taking over the secret areas?  Sealing off more of the priestly quarter.
@@ -813,6 +918,12 @@ rumor of Sir Nixion the Bold, Azure Knight
 * mention his party disappeared.  Were searching the deep halls for archon's regalia
 	* other members of the party are Cyra Red-Eyes (thief) and Testareon (mage)
 * he'd be known to Astrid (LN)
+
+
+Ogre-magi
+* a produce of archontean experimentation on goblin-ogres to create an intelligent one produced these?
+* goblin-ogres who tampered with some arcane power? (lived in arcanum geode?  ate arcanum? worshipped mordiggian and became cannibals? ate some weird fungi? (blue haze? mind eater? whispering fungus?)), demon-possessed goblin-ogres?
+
 
 ## Far Future
 

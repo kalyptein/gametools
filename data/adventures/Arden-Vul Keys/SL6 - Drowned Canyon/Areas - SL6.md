@@ -111,13 +111,16 @@ SL6-72 to SL6-79 48 days (9.6 days)
 	* 5 azurites (20 gp each); 5 rock crystals (50 gp each); a bloodstone (50 gp); a small black opal (750 gp)
 	* A silver coffer sealed with wax, holding 2 scrolls (Kentillian’s animate water, Kentillian’s airy command).
 
-Pisscatig, a hydrodaemon: SZ L; AL NE; AC 2; MV 60’, 60’ flying (Class D), 240’ swimming; HD 9+36; HP 96; #AT 3 or 5; Dmg 1-4/1-4/1-8/1-8/1-10; MR 70% to 1st-level spells (-5% per level over 1st).
+Pisscatig, a hydrodaemon: SZ L; AL NE; AC 2; MV 60’, 60’ flying (Class D), 240’ swimming; HD 9+3; HP 96; #AT 3 or 5; Dmg 1-4/1-4/1-8/1-8/1-10; MR 70% to 1st-level spells (-5% per level over 1st).
 * Constant abilities: infravision; ultravision. 
 * Special attacks: energy drain. 
 * Special defenses: word of recall (1/day); half damage from acid, cold and magical fire; half or no damage from water-based attacks; silver, or +1 or better weapons to hit; immune to poison and paralysis. 
 * Special: detect invisible; read magic; comprehend languages; invisibility; telepathy; teleport without error; dimension door; darkness within 10’; create water; water walking (as the ring), gate in a hydrodaemon (50%); summon 12 HD water elemental.
 
 2 phase salamanders (see new monsters): SZ M; AL N; AC 3 (or 6); MV 90’, 120’ swimming; HD 5; HP 32, 23; #AT 1; Dmg 2-8. Special attacks: phase (+4 to hit). Special: AC 6 if unable to phase.
+
+33 / 32
+X / 23
 
 ##### SL6-1a: Rapids
 
@@ -148,8 +151,8 @@ Pisscatig, a hydrodaemon: SZ L; AL NE; AC 2; MV 60’, 60’ flying (Class D), 2
 * This stone bridge was a delicate, segmented single arch, 5' wide and rising 10’ above the cavern floor.
 	* It was broken in antiquity, leaving a 10’ gap between its surviving segments. 
 
-### SL6-2B: Bridge
-
+##### SL6-2B: Bridge
+ 
 * This stone bridge was a delicate, segmented single arch, 5' wide and rising 10’ above the cavern floor.
 	* It is sturdy and safe.
 
@@ -174,7 +177,7 @@ Pisscatig, a hydrodaemon: SZ L; AL NE; AC 2; MV 60’, 60’ flying (Class D), 2
 	* Two passages, 4’ wide and 6’ tall, allow observation of areas SL6-5, SL6-1, and SL6-2.
 	* The chamber’s walls are pebbled and oily.
 	* The corpses of two heqeti hoppers lie on the floor.
-		* They have into large heqeti slime zombies (new) rising to confront all intruders. 
+		* They are large heqeti slime zombies (new) rising to confront all intruders. 
 	* The east wall has an unusual half-round sculpture of Rimmaq-Isfet carved into it.
 		* The inscrutable evil god takes the form of a salamander with squid tentacles protruding from its mouth, brandishomg a harpoon in his small arms.
 		* It appears wet and viscous, as if a mucus membrane is covering it (caused by a variety of heqeti slime that soaks up and relates a message).
@@ -859,6 +862,8 @@ A small sack filled with:
 					* Geysers of magma shooting from an impossible cliffside, two dim red suns shining above.
 					* Immense buoyant fungal "trees" tethered by thin vine-trunks, blue-green mists swirling between.
 					* The vivid nebulae of the claw cluster.
+					* The Drowned Canyon.
+						* Sharp eyes will see the falls (SL6-1b) fell to a water level well below the present one (SL6-24), as the dam hadn't been raised yet when the holos were taken.
 
 ### SL6-33: Stairs Down into the Drowned Canyon
 
@@ -913,6 +918,23 @@ D20 Object Notes
 * 25% chance a war party of 10 lizardmen is lurking within the entrance to the corridor.
 
 10 lizardmen (25%): SZ M; AL N; AC 4; MV 60’, 120’ swimming; HD 2+1; HP 15, 13, 13, 12, 12, 11, 11, 10, 9, 9; #AT 1 or 3; Dmg 1-6 (club) and 1-6 (javelin), or 1-2/1-2/1-8. Possessions: clubs; javelins; shields.
+
+X / 15
+X / 13
+X / 13
+X / 12
+X / 12
+X / 11
+X / 11
+X / 10
+
+sleeping
+9
+9
+
+Hrashk, elite lizardmen: SZ M; AL NE; AC 3; MV 90’, 150’ swimming; HD 3+3; HP 25; #AT 1 or 3; 3-9 (broadsword) and 2-7 (javelin), or 1-3/1-3/2-9. Possessions: big-ass hammer; javelin.
+
+X / 25
 
 ### SL6-37: Fiery Wall and Stairs Up to 5-115
 
@@ -1414,11 +1436,7 @@ Inscription
 * From the right hand of the basileus flows
 * The golden authority that every archon shows.
 * It adheres by right to the lord’s hand,
-* And must be returned at the emperor’s demand.
-* Fear is not theirs, who his wishes fulfill,
-* But woe befalls they who his command fail. 
-* 
-* ???
+* To be returned at the emperor’s demand.
 * Fear is not theirs, who his wishes fulfill,
 * But fail his command and woe he instills.
 
@@ -1820,6 +1838,8 @@ sphere, time stop.
 
 1 giant constrictor snake: SZ L; AL N; AC 5; MV 90’; HD 6+1; HP 43; #AT 2; Dmg 1-4/2-8. Special attacks: constriction.
 
+42 / 43
+
 ### SL6-87: False Tomb of Taticus (Partly-submerged)
 
 * Five feet of water slosh about in this chamber.
@@ -1858,12 +1878,14 @@ sphere, time stop.
 1 type IV demon: SZ L; AL CE; AC -1; MV 90’, 120’ flying (Class E); HD 11; HP 78; #AT 3; Dmg 1-4/1-4/2-8; MR 65%. Constant abilities: infravision. Special attacks: +2 to hit; cause 
 fear; darkness 10’ radius; use symbol (fear or discord). Special defenses: half damage from cold, electricity, fire, gas; +1 or better weapons to hit. Special: teleport without error; detect magic; read languages; telekinesis (5,000 gp); project image; create illusion; levitate; polymorph self; dispel magic; gate in demon of type I to IV (60%).
 
+0 / 78
+
 ### SL6-89: Hidden Staircase up to SL6-31 (Dry)
 
 * A simple granite circular staircase leads upward to SL6-31 from this location.
 	* Only accessible via one of two secret doors.
 * Secret Door (west): tall and narrow (3’ wide x 8’ tall), opens by pushing the top of the panel, which is set on a horizontal pin.
-* Secret Door (east): hard to find (1 in 8), opens by pressing a button on the east wall.
+* Secret Door (east): hard to find (1 in 8 ), opens by pressing a button on the east wall.
 
 ### SL6-90: Tomb Entrance (Submerged)
 
@@ -1961,6 +1983,7 @@ Stone Visages
 	* On a huge stone table at the south end of the room Plotina lies as a mummy, surrounded by many potion bottles (samples of her alchemical genius).
 		* When the chamber is entered, she rises, whispers (Mithric) ‘More lovers for me!’ and begins to hurl potions at the intruders; her former concubines – now ghasts – swiftly join the fray.
 			* Throwing/using potions (random each turn): greek fire x6 (new), molasses x3 (new), hostile levitation x2 (new), fire resistance x2 (new), frost cage x3 (new), singing birds x3 (new).
+				* fireball survivors: 1 molasses, 1 frost cage, 1 singing birds
 			* Also on the table are 4 potions of extra healing, a potion of invisibility, a potion of superheroism, and a potion of levitation.
 		* A stone chest sits under the table.
 			* Plotina’s recipe book (formulae for the six special potions listed above); two glass carboys filled with potions of healing (10 potions per carboy); 2 philters of persuasiveness; and 6 packets of incense of attraction (new).
@@ -1970,7 +1993,16 @@ Stone Visages
 
 Plotina the mummy: SZ M; AL LE; AC 3; MV 60’; HD 6+3; HP 48; #AT 1; Dmg 1-12. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, and paralysis. She is turned as a vampire so long as at least one of her ghasts are alive. She can hurl two potions per round.
 
+X / 48
+
 6 ghasts: SZ M; AL CE; AC 4; MV 150’; HD 4; HP 30, 28, 27, 26, 25, 22; #AT 3; Dmg 1-4/1-4/1-8. Special attacks: stench; paralysis. Special defenses: immune to sleep and charm.
+
+X / 30
+X / 28
+X / 27
+25 / 26
+X / 25
+X / 22
 
 ### SL6-97: Pair of Looted Tombs (Submerged)
 
