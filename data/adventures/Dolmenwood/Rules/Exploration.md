@@ -41,3 +41,10 @@ reactions
 
 Traps
 * given time, training, and tools, auto-success on bypassing/disabling
+
+
+stealth
+* single- or few- roll scouting missions, just roll and tell what they find and/or what kind of trouble they stir up
+	* mitigates failures (which typically result in a complete alert-raising clusterfuck; now you can just cut the mission short, suggest that some suspicion was raised, offer a cost or ask for a clever idea, and only clusterfuck in the worst possible outcomes)
+* narrate it out, reveal the information, answer some questions
+* then cut back to the group

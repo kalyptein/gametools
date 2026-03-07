@@ -1,22 +1,41 @@
 
 questions
 
+* Witchhunter cleric benefits good?  Kind of clunky
+* 
+* ??? Turn Undead?  just as spell?  with my limitations placed on it?
+* 
+* ??? remove fighter's Hauler
+* 
+* ??? pick half your Glamours and roll the other half randomly?
+	* alternate picking and rolling each time you gain them?
+* ??? should Free Crest initial assignment be random / semi-random???
+
+
+
+
 * focus can be disrupted?
 * faerie Call Forth Wild Magic?
 * holy Sacred Vow?
 
-decisions
-* can move and cast
-* provoke w/ casting, skill, ranged, etc when threatened
-	* a "hit" doesn't deal damage but negates the action
-* provoke by moving
-	* a hit deals damage and halts / zeroes out movement
 
 
+downtime
+* a randomized number of days (weeks?) spent in a settlement (or anywhere you can take Respites)
+* settlements will have facilities that modify or permit downtime actions, and have caps on the amount of carousing they can support
+* holidays can modify downtime action rolls, especially carousing
+* Sabbath: a sunday, some actions require the downtime span to include one
 
 
 priest spells
+
+* copy saint miracle stories off to The Faith page, remove from Holy Magic
+
+* when I settle on rules for wound healing, maybe add some rules for the Cure Wounds miracle helping with that?
+
 * come up with a "walking in the footsteps" for each saint
+
+* benefits of holy ground?  means of hallowing?
 
 * you get the saint / miracle of the holy order you join as a cleric?
 	* signis (silence), sedge (bless weapon), faxis (circle of protection)
@@ -35,15 +54,39 @@ priest spells
 ???
 Crib from ACKS for congregations and creating holy magic items?
 * blessed magic items? (requires relics?)
+* hallowing ground
+
+include pilgrim's guidance, or just let them do the footwork and use divination spells
+* Pilgrim's Guidance: you can prayer for guidance in seeking saintly shrines and relics.
+
+Pilgrim's Guidance
+
+* Once a day, a holy caster can make a Brief prayer to a specific saint for guidance.
+	* This is often rolled into evening or morning prayers.
+* If that saint has relics, shrines, or other ties in the same hex as the supplicant, they grant a sign (dream, vision, omen).
+	* As long as the supplicant keeps seeking guidance each day while exploring the hex, they can eventually find even truly secret locations related to the saint.
+
+
+mage spells
+
+repurpose this for magicians in general to locate arcane stuff to research?
+
+Finding Manifestations to Commune With
+* using Detect Magic while consuming the fresh, wild products of a region (wild plants/fungi, fresh game, water, sometimes even breathing the air) lets you detect the taste of a wood god when you're in their general territory; stronger as you get closer.  the taste will be strongest / clearest in the product most aligned with their nature (plants for a god of the forest, animal flesh for a god of beasts, water for a water god, etc)
+* in cases where local folk maintain customs that tap into the god, the perception is quite noticeable (smell in the smoke of ritual bonfires, in specially brewed ale, etc), whereas normally civilization erases the taste (fields tilled with iron, the ring of church bells, water stirred by boat hulls, etc)
+* the taste of herbs and fungi (and animal / monster flesh) that could be part of a communion brew is evident.
+* 
+* are the ley lines and nodes useful?
 
 
 
 
-* editing pass on mossling knacks
+
 * create woodgrue knacks?
 
 * sanity check holy magic
 	* consider the various "unlock a saint's miracle" methods; all good ideas?
+
 * sanity check witches
 * mages
 	* how to handle spellbooks and prep?

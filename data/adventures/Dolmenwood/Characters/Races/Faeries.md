@@ -7,7 +7,7 @@ Faerie Blood
 * Ageless and immune to mundane disease.  Won't die of hunger or thirst, but becomes increasingly desperate and cruel.
 
 Glamour
-* Start with 1 Glamour, and can learn more as talents.
+* Choose 1 Glamour to start with, and can learn more as talents.
 
 Outside the Bounds of Heaven
 * You cannot be a Cleric or Friar.

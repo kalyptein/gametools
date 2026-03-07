@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Basics.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Basics"
+              "title": "TODO"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Classes/Magician.md",
+                "file": "Characters/Classes/Bard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magician"
+              "title": "Bard"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rewards.md",
+                "file": "Characters/Races/Breggle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rewards"
+              "title": "Breggle"
             }
           },
           {
@@ -69,26 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Overview.md",
+                "file": "Rules/Exploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Overview"
-            }
-          },
-          {
-            "id": "58a2876d6d60dad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Holy Magic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Holy Magic"
+              "title": "Exploration"
             }
           },
           {
@@ -97,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Factions.md",
+                "file": "Magic/Arcane Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Arcane Magic"
             }
           },
           {
@@ -111,15 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Faerie/Whyforth.md",
+                "file": "Magic/Faerie Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whyforth"
+              "title": "Faerie Magic"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Basics.md",
+                "file": "Characters/Races/Breggle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character Basics"
+              "title": "Outline of Breggle"
             }
           }
         ],
@@ -276,35 +263,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dac302ff4551fcc",
+  "active": "a4a00930357d015f",
   "lastOpenFiles": [
-    "TODO.md",
-    "Storage/Storage.md",
-    "Maps/Dolmenwood_Referee_Map_Pack/Dolmenwood VTT Hex Map Settlements.png",
-    "Vault.md",
-    "Setting/Factions.md",
-    "Setting/Setting.md",
-    "Setting/Faerie/Faerie Realms.md",
-    "Setting/Faerie/Whyforth.md",
-    "Setting/Faerie/Diuthurnia.md",
-    "Setting/Faerie/(Faerie Realm Template).md",
-    "Setting/Faerie/Faerie.md",
-    "Setting/Faerie",
-    "Magic/Holy Magic.md",
-    "Characters/Classes/Magician.md",
-    "Rules/Downtime.md",
-    "Characters/Rewards.md",
-    "Characters/Classes/Cleric.md",
-    "Magic/Magic Overview.md",
+    "Characters/Races/Human.md",
+    "Characters/Races/Mossling.md",
+    "Characters/Races/Elf.md",
+    "Magic/Arcane Magic.md",
     "Magic/Faerie Magic.md",
-    "Characters/Classes/Fighter.md",
-    "Characters/Classes/Friar.md",
-    "Characters/Classes/Enchanter.md",
+    "Setting/Faerie/Faerie Realms.md",
+    "Characters/Races/Grimalkin.md",
+    "Characters/Races/Woodgrue.md",
+    "Characters/Classes/Magician.md",
+    "Magic/Holy Magic.md",
+    "Characters/Classes/Bard.md",
+    "Characters/Races/Breggle.md",
+    "Characters/Classes/Rogue.md",
+    "Characters/Character Basics.md",
+    "Characters/Races/Faeries.md",
     "Characters/Classes/Knight.md",
     "Characters/Classes/Hunter.md",
-    "Characters/Classes/Rogue.md",
-    "Characters/Equipment.md",
-    "Characters/Classes/Bard.md",
+    "Characters/Rewards.md",
+    "Characters/Classes/Fighter.md",
+    "Characters/Classes/Enchanter.md",
+    "TODO.md",
+    "Rules/Exploration.md",
+    "Magic/Magic Overview.md",
+    "Rules/Rules.md",
+    "Rules/Faction Turn.md",
+    "Rules/Combat.md",
+    "Maps/Dolmenwood_Referee_Map_Pack/Dolmenwood VTT Hex Map Settlements.png",
+    "Setting/Faerie",
     "Storage/Magic",
     "Storage",
     "Magic",

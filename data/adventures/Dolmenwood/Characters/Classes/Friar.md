@@ -5,22 +5,20 @@
 Holy Abilities (see Holy Magic)
 * Sense Holiness: you can sense holiness and unholiness.
 * Invoke Divine Authority: you can turn undead and display your divine authority.
-* Pilgrim's Guidance: you can prayer for guidance in seeking saintly shrines and relics.
 
 Language
 * Start knowing Latin.
 
 Holy Magic
 * You can call upon the saints to grant you miracles and blessings (see Holy Magic).
-* (CHA | WIS) times a day you may choose to roll an invocation with advantage.
-	* If you use this with a Focus spell, you have advantage on its Focus rolls too.
+* (CHA | WIS) times per Long Rest you may choose to roll an invocation or focus with +A.
 
 Armour of Faith
-- Heaven protects ye who seeks peace.  While unarmored, gain (LVL+2) defense from divine providence.
+* Heaven protects ye who seeks peace.  While unarmored, gain (LVL+2) defense from divine providence.
 
 Humble Weapons
-- You can use humble, everyday items as weapons (d4, finesse), such as brooms, buckets, hambones, kitchen knives, candlesticks, frying pans, sausage links, etc.
-	- Vaguely aerodynamic items can be thrown Near.
+* You can use humble, everyday items as weapons (d4, finesse), such as brooms, buckets, hambones, kitchen knives, candlesticks, frying pans, sausage links, etc.
+	* Vaguely aerodynamic items can be thrown Near.
 
 Herbalist
 * You have the Apothecary talent (salve, restorative, and curative recipes).

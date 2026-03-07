@@ -5,7 +5,10 @@
 	* Glory and honor is in the clash of arms.  Eschew missile weapons, save against beasts.
 
 Fighting Style
-* Choose 1 and gain (LVL+1) to attack and damage when fighting that way.
+* Gain (LVL+1) to attack and multiple attacks when fighting with this style.
+	* Attacks: 1.5 (3rd), 2 (5th), 2.5 (7th), 3 (9th)
+	* A "half attack" is rolled normally but deals half damage, rounded up.
+* Style
 	* One Handed: one-handed weapon (with or without shield).
 	* Heavy: heavy melee weapon
 * You also gain this benefit when using lances from horseback.
@@ -32,7 +35,7 @@ Chivalric Code
 	* Justice: protect those in your care, uphold the right-wise order of the land.
 * When you pursue or uphold the Code at unusual risk or cost, gain Luck.
 * Take +A when resisting something that blocks your adherence to the code.
-	* e.g. mind-control, fear, restraint keeping you from your duty, etc.
+	* e.g. mind-control, fear, restraints keeping you from your duty, etc.
 * If you violate the Code, you are Dishonored and cannot benefit from it until you suitably atone and regain your honor.
 
 

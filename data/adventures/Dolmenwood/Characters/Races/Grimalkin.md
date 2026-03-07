@@ -61,11 +61,15 @@ Means of Introduction
 
 
 Talents
-* Gain 2 Glamours
-* Wildering
-	* +A to retain Wilder transformation, heal 2d6 when assuming Wilder form.
-	* Roll 3d4 to determine when you will transform back.  The sum of the lowest dice is when you may choose to change back, the sum of the highest dice is when you must.
-* Become invisible 2 more times per Long Rest
+* Gain 2 Glamours (choose 1 and roll 1)
+* Mingled Forms
+	* Your Chester form can speak and transform its paws into tiny hands at will.
+	* Your Estray form takes no falling damage, as long as you can land on your feet, and your claws and teeth are sharp (melee, close, d4, finesse).
+* Moon-Favored
+	* +1 use of Slink Into Shadow.
+	* You can spend a use of Slink Into Shadow to teleport Nearby, being invisible for 1 round upon arrival.
+* Purebred Mutt
+	* You can gain crests for a single Faerie Rune. Start with a Knave's or Knight's Crest marking your common birth or noble standing.
 
 Bonus
-* Add 2 points among DEX, WIS, and CHA.
+* Add 2 points among DEX and CHA.

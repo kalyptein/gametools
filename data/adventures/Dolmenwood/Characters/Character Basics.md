@@ -72,7 +72,7 @@ Class
 * Friar
 * Hunter
 * Knight
-* Magician / Witch
+* Magician (Witch or Wizard)
 * Rogue
 
 Talents & Bonuses
@@ -165,6 +165,12 @@ Languages
 	* Sylvan - common language of the faeriefolk of Dolmenwood.
 	* Mewl - cat-tongue spoken by grimalkin and mundane cats of all sizes (often to their surprise)
 	* Dwelve - language spoken by many faerie of the night and underworld.
+
+
+## Advancement
+
+Bonuses
+* Racial Bonus
 
 
 

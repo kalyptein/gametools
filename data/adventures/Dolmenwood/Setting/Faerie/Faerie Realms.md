@@ -59,14 +59,33 @@ non-depthcrawls
 
 ## Faerie Realms
 
+
+Realms, Rulers, and Runes
+* Gloomhold / The Blind King - bleak and drear and dark
+* Frigia / The Cold Prince - frigid
+* Hypnagogia / The Duke Who Cherishes Dreams - dreamland
+* Goblinhold / The Goblin King - badlands and swamp, warrens, the market
+	* ??? rename, we already have Gloomhold: Goblinburg?  Goblinshire? Goblinton? Goblinwold/weald?
+	* give the Goblin King a name?
+* Baths of Astralon / The Hag Thorn-Rosy
+* The Gardens of Ynn / Lady Belladonna - hedge maze with countless nooks and courtyards, games of intrigue and courtly whispers, an opulent court overtaken by doom and a threat (just straight up use the Gardens of Ynn, including the Idea of Thorns)
+* Everborne / The Lady of Midnight - dismal thorn-wastes and stony desert under an eternal moon
+* Gladdng-Gloam / Lord Gladhand - lush jungle garden
+* Ravenwild / Prince Mallowheart - misty haunted woods and cliffs
+* Blossom Fields / Princess Andromethia - tilled fields and endless pastoral beauty
+* Lampwrack / The Prince Who Is Seven - pools of illuminated civilization and languid decadence amidst desolate hungry darkness and echoes
+* Catland / Queen Abyssinia (and formerly King Pusskin) - cat's eye view of the world
+* Absynthe / The Queen of Blackbirds - endless dark manse (use adjusted Stygian Library?)
+* Tallowspire / The Regent Hador - endless baroque city and catacombs
+
+
 * Diuthurnia (Duke Mai-Fleur)
-	* hunter's forest
-	* mighty and wondrous beasts, dens, rugged terrain, dire thorn-brakes, raging rivers, steep crags
+	* hunter's forest of mighty and wondrous beasts, dens, rugged terrain, dire thorn-brakes, raging rivers, steep crags
 	* precious and potent herbs
 * Whyforth (The Earl of Yellow)
 	* golden plains, meadows of yellow flowers, and wind-carved sandstone canyons, golden beehives
-	* booze
-* 
+	* magical booze, honey, citrines, amber
+
 
 ## Ravenwild
 
@@ -76,6 +95,9 @@ non-depthcrawls
 * a borderland of the underworld, roamed by ghosts and lost souls, some mournful, some wrathful, some hungry
 	* various psychopomps cross, leading the newly dead
 	* ravens gather nests of stolen shinies: memories, grave goods, secrets
+
+* Prince Mallowheart escaped his brother the Cold Prince and Frigia during their estrangement, when he was cast into prison.  By attuning to this rune and becoming master of Ravenwild, he escaped and now has the power to come and go in Dolmenwood, where his brother does not.
+
 
 ## Hypnagogia
 

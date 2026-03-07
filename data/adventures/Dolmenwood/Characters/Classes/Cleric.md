@@ -6,7 +6,6 @@ Holy Abilities (see Holy Magic)
 * Sense Holiness: you can sense holiness and unholiness.
 	* May be modified by choice of Holy Order.
 * Invoke Divine Authority: you can turn undead and display your divine authority.
-* Pilgrim's Guidance: you can prayer for guidance in seeking saintly shrines and relics.
 
 Language
 * Start knowing Latin.
@@ -18,20 +17,18 @@ Holy Orders (choose 1)
 
 * St Faxis
 	* Witchhunter's Mantle
-		* You can cast (including at 1st level) a version of Mantle of Protection.
-			* Minor action, self only, only protects against arcane magic and beings.
-			* If exhausted, you regain it after a Brief Rest of quiet prayer.
-	* You can detect arcane magic using Detect Holiness.
+		* You can cast (including at 1st level) a version of Mantle of Protection (Casting (minor action), Focus (round), Self, Refresh (brief)).
+	* Upgrade Sense Holiness to Sense Magic (see Arcane Magic).
 * St Sedge
 	* Sword of the Church
 		* You can use all weapons.
 	* Lay on Hands
-		* When you lay hands on a dying creature, you don't require tools to revive them.  Add CHA to your stabilization check, and if successful, they rise with CHA HP.
+		* When you lay hands on a dying creature, you don't require tools to revive them.  Add CHA to your stabilization check, and if successful, they rise with CHA Guard.
 	* Aura of Zeal
 		* You and Nearby allies gain +A to resist fear and maintain morale.
-		* Nearby Dying allies get +2 to stabilization rolls, and rise with CHA HP.
+		* Nearby Dying allies get +2 to stabilization rolls, and rise with CHA Guard.
 * St Signis
-	* Undead Slayer
+	* Gravekeeper
 		* Your attacks harm undead as if using a magic or silver weapon.
 		* You have +A to resist necromancy and undead powers.
 		* You can use Detect Holiness to sense necromantic power and the presence of undead (their passage, victims slain by undead, necromantic spells, etc).

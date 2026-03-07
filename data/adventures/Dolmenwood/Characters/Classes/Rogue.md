@@ -2,25 +2,26 @@
 * Light armor
 * Light and medium weapons
 
-Thievery
+Skullduggery
 * You are trained in: 
 	* Climbing, acrobatics, balance, contortion
-	* Stealth, concealment
-	* Disguises, forgery
+	* Stealth, concealment, counter-tracking
 	* Lockpicking, disabling mechanisms, sabotage
 	* Sleight of hand, picking pockets, palming and concealing items, cheating at games
-	* Spotting danger and subtle details, listening, reading people and situations
-	* Lying, bluffing, and manipulating, streetwise
+	* Spotting danger and subtle details, listening, searching, reading people and situations
+	* Lying, bluffing, and manipulating
+	* Streetwise, finding shady people and deals, appraising value, fencing goods
 	* Deciphering cryptic messages and documents, sketching maps
+	* Disguises, forgery
 	* Resisting with DEX
 
 Backstab
-* Deal +2d weapon damage when you strike a creature unaware of the attack.
+* When a target is unaware of your incoming finesse, thrown, or missile attack, deal +2d damage.  If they are aware of you, but you have +A to attack or they are otherwise distracted (fighting an ally, etc), roll your damage with advantage.
 	* To Backstab with a ranged or thrown weapon, the target must be Nearby.
 
 Devil's Own Luck
-* LVL DC 12, Instant, Self
-* You may call upon it after committing to a risky action (attack, sneaking, climbing, etc), gaining +A on the action.
+* LVL DC 12, Reaction, Self
+* You may call upon your uncanny luck after committing to a risky action (attack, sneaking, climbing, etc), gaining +A on the action.
 	* Critical Failure: take +D instead.
 
 Thieves' Cant
@@ -31,6 +32,7 @@ Nocturnal
 * Your keen senses allow you to operate in darkness as if you could perceive Nearby.
 	* You can't read, see, detail or anything else that would require light, but can detect unhidden creatures, navigate without tripping or bumping into things, etc.
 	* You can target Nearby creatures with ranged attacks if there is at least a trace of light, but can't Backstab with them.
+
 
 
 Means of Introduction
@@ -45,7 +47,7 @@ Talents
 	* You can gain crests for a single Faerie Rune.  Start with 1 crest that you stole, either Knave's, Knight's, or King's.  You are NOT Bound By Faerie Law.
 		* If King's, there's someone powerful out there annoyed with you.
 * Brew Potions like a Magician.
-* Streetwise: +A to downtime checks involving criminals, outcasts, rumors, or skullduggery.  +1 to carousing.
+* Streetwise: +A to downtime checks involving criminals, outcasts, rumors, markets, or skullduggery.  +1 to carousing.
 * The Penitent Thief
 	* A saint has taken an inexplicable liking to you.  You can gain and invoke their miracle (and relics), up to Tier 3.  Avoid being worse than a lovable scoundrel, or you'll be cut off until you atone.
 * Gentleman Bastard
@@ -59,6 +61,7 @@ Bonus
 * Add 2 points to Dexterity or +1 to finesse and ranged attacks
 * Add 2 points among Dexterity, Wisdom, and Charisma
 * Add 1 point to three different stats
+* Take +A when resisting with WIS
 
 
 

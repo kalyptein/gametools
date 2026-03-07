@@ -1,14 +1,17 @@
-Lithe and beautiful faerie.  They can pass for human at a glance, but always have a few tells.  Most have pointed ears, and other variations include unusual hair or skin colors, strange eyes (slitted or star-shaped pupils), sixth fingers, patches of fur / scales / feathers, small horns, forked tongues, androgyny / hermaphroditism, unusual voices (musical, rhyming, sibilant, whispering, harmonic) etc.
+Lithe and beautiful faerie.  They can pass for human at a glance, but always have a few tells.  Most have pointed ears.  Other variations include unusual hair or skin colors, strange eyes (slitted or star-shaped pupils), sixth fingers, patches of fur / scales / feathers, small horns, forked tongues, androgyny / hermaphroditism, unusual voices (musical, rhyming, sibilant, whispering, harmonic) etc.
 
 Faerie Nature
 * You have all the benefits and limitations of faerie.
 
 Magic in the Blood
-* +1 to casting checks with Arcane and Faerie magic.
-* You know one additional Glamour.
+* Choose 1 additional Glamour to start with.
+* Choose 1:
+	* +1 to casting checks with Arcane and Faerie magic.
+	* Once per Long Rest, grant yourself Inspiration.
 
 Fey Sight
-* 3 times per Long Rest, for 10 minutes you can perceive the invisible and intangible, and see the truth through illusions and transformations (P: CL+2 vs R: deception source's TL).
+* 3 times per Long Rest, for 10 minutes you can perceive the invisible and intangible, and see the truth through illusions and transformations
+	* P [CL+2] vs R [deception source's TL].
 
 
 
@@ -25,8 +28,11 @@ Means of Introduction
 
 
 Talents
-* Gain 2 Glamours
-* Piercing Eyes: each use of Fey Sight lasts 30 minutes and has +2 Potency.
+* Gain 2 Glamours (choose 1 and roll 1)
+* Gentry
+	* You can gain crests for a single Faerie Rune. Start with a Knight's Crest marking your noble standing.
+* Wild Blood
+	* Once per Long Rest you can transform yourself slightly, gaining resistance to a natural force (fire, frost, storm, corrosion, poison) for the day.
 
 Bonus
 * Add 2 points among WIS and CHA.

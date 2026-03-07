@@ -13,7 +13,10 @@ Heroic Capability (choose 1)
 * Glorious: you are trained in leadership, intimidation, and inspiration, and when resisting with CHA.
 
 Fighting Style (choose 1)
-* Gain (LVL+1) to attack and damage when fighting with this style.
+* Gain (LVL+1) to attack and multiple attacks when fighting with this style.
+	* Attacks: 1.5 (3rd), 2 (5th), 2.5 (7th), 3 (9th)
+	* A "half attack" is rolled normally but deals half damage, rounded up.
+* Style
 	* One Handed: one-handed weapon (with or without shield).
 	* Duelist: dual wielding normal and light one-handed weapons or a twin weapon (staff, chain)
 	* Heavy: heavy melee weapon

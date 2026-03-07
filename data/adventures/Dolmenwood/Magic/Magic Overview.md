@@ -1,5 +1,29 @@
 
 
+Tags
+
+* Safe
+	* Botched castings are treated as normal failures.
+* Dangerous
+	* Treat all failed castings as Botches.
+* Hindered
+	* Roll casting with +D.
+* Aided
+	* Roll casting with +A.
+* Focus
+	* (action | total)
+	* (round | minute | 10 minutes | hour | day | etc)
+* Sustain
+* Limited
+* Refresh
+* Casting (time)
+* Ritual
+
+Potency vs Resist
+
+
+
+
 holy: no crits and fumbles
 * X spell exhaustions per day shuts down your casting for the day
 	* so merciful casting that doesn't exhaust the spell until it's cast once per day doesn't count toward this
@@ -23,6 +47,12 @@ magic item attunement
 
 * maybe there is a tier of "major" magic items of which you can only have up to 3 before they get contentious with each other and you (curses, weird luck and phenomena, items leaving you, etc).
 
+
+potions
+
+scrolls / tokens
+
+illuminated prayers
 
 
 talismans (scrolls) for all!

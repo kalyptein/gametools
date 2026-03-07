@@ -11,7 +11,7 @@ Affinity for Enchantment
 * You can activate arcane wands and similar items like a Magician.
 
 Faerie Magic
-* You can wield (LVL+2) Glamours.
+* You can wield (LVL+2) Glamours (choose 1 and roll 1 at 1st, then alternate choosing and rolling)
 * You can obtain access to Faerie Runes (see Faerie Magic).
 	* You have (Level) Free Crests to invest into Runes.
 

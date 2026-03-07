@@ -2,21 +2,19 @@
 * No armor
 * Clubs, staves, daggers, slings
 
-## Abilities
-
 Sense Magic
 * You can sense magic (see Arcane Magic).
 
 Longevity
-* A magician will live (level x 10) years beyond their normal span.  The greatest magicians may gain double, triple, or more through rarer means.
+* Your life will extend (level x 10) years beyond your normal span.  The greatest magicians may gain double, triple, or more through rarer means.
 
-Arcane Magic
-* You can call forth the Earthly Powers (the elements, the hidden sympathies, the underworld, lesser angels, old gods, demons, etc) to weave spells (see Arcane Magic).
+Arcane Magic (see Arcane Magic)
+* You can weave spells by calling forth the Earthly Powers (the Elements, the hidden sympathies, the underworld, lesser angels, Old Power, demons, etc).
 * You can develop new spells through study of magical beings, places, objects, and phenomena.
 
-Brew Potions & Scribe Scrolls
+Brew Potions & Scribe Scrolls (see Arcane Magic)
 * You can brew potions from potent reagent(s), capturing some of their power.
-	* Reagents include bits of monsters, rare herbs and fungi, material from fonts of power, etc.
+	* e.g bits of monsters, rare herbs and fungi, material from fonts of power, etc.
 * Brewed inks can be used to scribe scrolls of known spells with an affinity for the ink's reagent.
 
 Choose a Path of Magic: Witch or Wizard.
@@ -35,7 +33,7 @@ Witches Cant
 
 #### Wizard
 
-A practitioner of hermetic arts such as astrology, Solomonic seals, elemental sympathies, and other arts cultivated among esoteric scholars.  
+A practitioner of hermetic arts such as astrology, Solomonic seals, elemental sympathies, and other arts cultivated among esoteric scholars.
 
 Scholar
 * You are trained in recalling lore and deciphering documents.
@@ -43,8 +41,8 @@ Scholar
 
 Astrologer
 * Once during a Long Rest, you can read the nighttime stars.  Roll INT DC 12 to choose 1:
-	* Ask a question about the coming day.  The GM gives a brief answer or bit of guidance.
-	* Grant an ally Inspiration that lasts through the night and next day.
+	* Ask a question about the coming day and receive a brief answer or bit of guidance.
+	* Grant an ally Inspiration that lasts through this night and until their next Long Rest.
 * Botch: you see an unsettling omen; CHA DC 12 to avoid an interrupted rest.
 
 

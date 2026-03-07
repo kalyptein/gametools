@@ -1,7 +1,8 @@
 
 Demi-fey
-* You may take glamours as feats.
+* You are half mortal-blooded and don't have Faerie Blood.  You are not bound by Faerie Law, save for a twinge of uneasiness.
 * You can't be a Cleric or Friar, but aren't subject to the full faerie's Outside the Bounds of Heaven.
+* You may take glamours as talents.
 * You are Small.
 
 Bat Ears
@@ -17,12 +18,13 @@ Compulsive Jubilation
 Musical
 * Trained in dance and music (doesn't apply to spells or bardic abilities).
 * You can use music instruments as melee weapons without damaging them (treat smaller ones as daggers, larger ones as scimitars).
-* You can cast Mad Revelry using DEX, WIS, or CHA DC 10+tier (1-5).
+* You can cast Mad Revelry.
 
-Mad Revelry (DEX | WIS | CHA, Tier 2, Heavy Focus (1d4 rounds), Nearby listeners)
+Mad Revelry
+* DEX | WIS | CHA, Tier 2, Heavy Focus (1d4 rounds), Nearby listeners
 * You play a musical instrument while whooping and dancing manically, infecting listeners with wild delirium.  Choose 1 effect.
-	* P: 1 + CL/2 vs R: (TL-1) + CHA | WIS
-	* Critical Failure: a random effect happens to everyone, including you, for 1d6 rounds.
+	* P [1 + CL/2] vs R [(TL-1) + CHA | WIS]
+	* Botch: a random effect happens to everyone, including you, for 1d6 rounds.
 * Effect
 	* Jolliness: targets act like friendly drunks with lowered inhibitions, prone to spilling secrets, joining sing-alongs, etc.
 	* Jig: targets dance wildly; +A to defense and DEX resist, but immobile.
@@ -41,7 +43,14 @@ Means of Introduction
 
 Talents
 * Gain 2 Glamours
-* Power Chord: you can use the sound of your frenzied instrument playing (requires 2 hands) to make a ranged attack within Near (percussion = crushing, strings = slashing, wind = piercing).
+* Power Chord
+	* You can use the sound of your frenzied instrument playing (requires 2 hands) to make a ranged attack within Near (percussion = crushing, strings = slashing, wind = piercing).
+	* +1 Potency to Mad Revelry
+* Atavism
+	* You can gain crests for a single Faerie Rune.  Start with a Knight's or Knave's Crest that you found or made for yourself.  You are Bound By Faerie Law.
+* Gourmet
+	* You are trained in cooking and can Brew Potions like a Magician.
+	* If you eat a reagent, you can instantly Brew a Potion in your stomach, rolling CON instead of INT.  This can't benefit from a recipe.  Treat a crit similar to a spell crit.
 
 Bonus
 * Add 2 points among DEX, CON and CHA.

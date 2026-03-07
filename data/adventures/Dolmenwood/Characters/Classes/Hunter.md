@@ -3,7 +3,9 @@
 * Light and medium melee weapons, all ranged weapons
 
 Marksman
-* Gain (LVL+1) to attack and damage with thrown and missile attacks.
+* Gain (LVL+1) to attack and multiple attacks when fighting with thrown and missile attacks.
+	* Attacks: 1.5 (3rd), 2 (5th), 2.5 (7th), 3 (9th)
+	* A "half attack" is rolled normally but deals half damage, rounded up.
 * If your shot strikes a target that was unaware of danger, +1d damage.
 
 Apothecary

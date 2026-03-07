@@ -3,15 +3,79 @@
 * alternating activation
 
 
+* readied and delayed actions
+
+
+
+## Actions
+
+main
+* attack
+	* strike (full and/or half)
+	* parry (trade a full strike for +A defense vs one attack you can parry)
+* dash: move Near
+* charge: move twice Near and attack, -2 defense, +2 damage at end of straight line move
+* dodge/brace: +A to defense rolls and STR and DEX resists, can't attack
+* full offense: 
+* cast
+* aim: +A to next shot or throw
+* deed: force, lock, inflict
+* 3 minor actions
+* use item
+* retrieve stowed item
+* task
+* aid another
+
+move
+* advance: move Near
+* shift: shift Close
+* stand
+* 1 minor action
+
+minor
+* retrieve/pocket readied item, draw/sheathe weapon
+* manipulate (door, lever, etc)
+* hand-off, pick-up
+* minor cast
+
+free
+* on-turn
+	* drop item
+	* fall prone
+* off-turn (doesn't interrupt)
+	* talk
+
+reaction
+* readied action
+* AoO
+	* when provoked; if you "hit", the action is disrupted
+	* except for provoking movement: a hit halts movement and also deals damage
+
+variable
+* reload (main, move, minor)
+
+
+
+
 
 
 * shield wall: +1 defense
 * shield sundering
 * dual wield
+	* roll damage w/ both weapons, use the higher result OR +1 defense this round
 
 
 X Resistance
 * Against X, you gain whichever is most appropriate from: +A to resistance rolls, half damage, or +2 Resist.
+
+
+decisions
+* can move and cast
+* provoke w/ casting, skill, ranged, etc when threatened
+	* a "hit" doesn't deal damage but negates the action
+* provoke by moving
+	* a hit deals damage and halts / zeroes out movement
+
 
 ## Harm
 
