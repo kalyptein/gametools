@@ -770,6 +770,11 @@ Destroying the Dam
 1 large purple pudding (see new monsters): SZ L; AL N; AC 8; MV 60’; HD 10; HP 69; #AT 1; Dmg 2-12. Special attacks: corrosive to metal and leather. Special defenses: immune to fire; 
 grows with electricity; conductive.
 
+atk 22, def 12
+0 / 69
+
+
+
 ### SL6-27: Rudishva Pagoda
 
 * A 10’-tall granite platform rises from the cavern floor; topped by a 15’-tall stone canopy supported by six basalt columns.
@@ -842,6 +847,8 @@ A small sack filled with:
 		* Stepping on the mosaic causes a magic mouth to speak (Mithric): “By command of the emperor Clavius Tekton you are forbidden further passage! Retire now!”.  An invisible stalker is summoned and commanded to eliminate the interloper (the first to step on the mosaic).  These happen only once each.
 
 1 invisible stalker: SZ L; AL N; AC 3; MV 120’; HD 8; HP 55; #AT 1; Dmg 4-16; MR 30%. Special attacks: surprise on 1-5. Special defenses: invisibility.
+
+0 / 55
 
 ### SL6-32: Pool of the Black Pillars
 
@@ -1617,6 +1624,11 @@ D30 Item(s) Notes
 
 ### SL6-72: Burial Niches (Dry)
 
+SL6-72 to SL6-79 48 days (9.6 days)
+* Duration is reduced by1 hour per round of combat per person
+* Duration is reduced by 3 hours per turn of torch use
+* Duration is reduced by 50% per use of fire
+
 Note: The air supply in this area is fixed; see general sub-level conditions above.
 
 * This corridor is filled with plundered and broken burial niches, as in SL6-70.
@@ -1781,7 +1793,7 @@ sphere, time stop.
 		* The other intact piece of mosaic is in the northeast corner
 			* A skinny man in a white scribe’s tunic holds a stylus and wax tablet; this man has the same hair style, and several prominent blemishes by his nose. 
 				* Graffiti scrawled beside it reads: “Lucius Cornelius the thief, who stole the divine Marius’s relics.”
-					* GM Note: this person is Lucius Cornelius Scriptor – see 6-135
+				* GM Note: this person is Lucius Cornelius Scriptor – see 6-135
 	* In the center of the chamber is a worn, veined-marble dais (10’x10’).
 		* In its center stands an unusual vertical sarcophagus, 5’ square and 8’ tall.
 			* The top 2’ of the sarcophagus are broken off, leaving a hollow shell.
@@ -1920,6 +1932,9 @@ fear; darkness 10’ radius; use symbol (fear or discord). Special defenses: hal
 
 2 giant crayfish: SZ L; AL N; AC 4; MV 60’, 120’ swimming; HD 4+4; HP 33, 28; #AT 2; Dmg 2-12/2-12. Special attacks: surprise on 3 in 6.
 
+X / 33
+X / 28
+
 ### SL6-94: True Tomb of Vipsania Pacifica (Dry)
 
 * Up a narrow staircase is the true tomb of Vipsania Pacifica, archon of Arden Vul.
@@ -2014,6 +2029,12 @@ X / 22
 
 4 giant crayfish: SZ L; AL N; AC 4; MV 60’, 120’ swimming; HD 4+4; HP 33, 31, 28, 25; #AT 2; Dmg 2-12/2-12. Special attacks: surprise on 3 in 6.
 
+atk 17, def 16
+
+X / 33
+X / 31
+X / 28
+X / 25
 ### SL6-98: Tomb of Psallion the Logothete (Dry)
 
 * The once-important logothete, Psallion the Red, built this tomb during the waning days of the Archontean tomb-building period (during the archonate of Borsella Iron-Fist).

@@ -194,6 +194,8 @@ Arden Vul system
 * add fields to edit the values on the actor charsheet
 
 
+>>> pad SL6 and SL10 so that the inset map will over top of "background image", so the fog exploration works correctly
+
 
 intended path
 * ready
