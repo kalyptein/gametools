@@ -11,7 +11,20 @@ Magic in the Blood
 
 Fey Sight
 * 3 times per Long Rest, for 10 minutes you can perceive the invisible and intangible, and see the truth through illusions and transformations
-	* P [CL+2] vs R [deception source's TL].
+	* P [Level+2] vs R [deception source's Level].
+
+
+
+Talents
+* Gain 2 Glamours (choose 1 and roll 1)
+* Gentry
+	* You can gain crests for a single Faerie Rune. Start with a Knight's Crest marking your noble standing.
+* Wild Blood
+	* Once per Long Rest you can transform yourself slightly, gaining resistance to a natural force (fire, frost, storm, corrosion, poison) for the day.
+
+Bonus
+* Add 2 points among WIS and CHA.
+
 
 
 
@@ -25,14 +38,3 @@ Means of Introduction
 	* What kicked them out of it?  Maybe they finished living a contented life, and with their spouse and kids all gone on, they remember themselves and slip free.  Or everything came crashing down and they shed that role (perhaps not everyone feels they are done with them).
 * A half-elf taking after their fey parent, beginning to change and awaken to their true nature.
 	* Maybe around puberty, or after some dramatic event in their life.
-
-
-Talents
-* Gain 2 Glamours (choose 1 and roll 1)
-* Gentry
-	* You can gain crests for a single Faerie Rune. Start with a Knight's Crest marking your noble standing.
-* Wild Blood
-	* Once per Long Rest you can transform yourself slightly, gaining resistance to a natural force (fire, frost, storm, corrosion, poison) for the day.
-
-Bonus
-* Add 2 points among WIS and CHA.

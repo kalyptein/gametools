@@ -30,14 +30,10 @@ Fascinate (CHA, Tier 2, Safe, Heavy Focus (10 minutes, or round if begun in comb
 
 
 Talents
-* 
-* Virtuoso
-	* Your artistic works are of particular genius and impact.  
-* 
 * Earworm
 	* Learn one arcane spell from a scroll you've successfully used.
 * Faerie Patron
-	* You can gain crests for a single Faerie Rune.  Start with 1 crest, either Knave, Knight, or King; this patron has an interest in you and you are permanently Indebted to them.  You are Bound By Faerie Law.
+	* You can gain crests for a single Faerie Rune.  Start with 1 King's Crest (and suitable title) from your patron.  They will take an interest in your adventures, and you are permanently Indebted to them.  You are Bound By Faerie Law.
 * Life on the Road
 	* Trained in 2 sub-disciplines from Skullduggery and/or Wildcraft.
 * Mixology (choose 1)
@@ -48,14 +44,19 @@ Talents
 * Of the People
 	* +A to downtime checks involving people, society, or art (excluding carousing).  Improve Bardic Arts to +2 carousing.
 * Warrior-Poet
-	* When you or a Nearby ally fells a foe, unleash a verse healing them 1d4 Guard.
+	* When a creature Nearby falls in battle, unleash a verse an heal yourself or a Nearby ally 1d4 Guard.  If an ally rises from having fallen, heal then 1d6 Guard.
 * Music's Aegis
 	* While singing your Countersong, you personally have +A to resist all magic.
 * Sense Magic
 	* as a Magician.
+* Gain a Racial Talent
 
 Bonuses
 * Add 2 stat points among any stats.
 * +1 to melee and ranged attacks
 * +1 to cast Fascinate and +1 Potency
-* Racial bonus
+* Gain a Racial Bonus
+
+
+??? Virtuoso
+* Your artistic works are of particular genius and impact.  

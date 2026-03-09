@@ -47,19 +47,6 @@ Wilder (Small)
 
 
 
-Classes
-* Common: Bard, Enchanter, Hunter, Thief
-* Rare: Knight (plenty of fey knights, few sworn to mortal lords as this class implies)
-* Forbidden: Cleric, Friar
-
-Means of Introduction
-* Was living life as a mundane cat, when they remembered who they were and, finding "the air a bit thin", went seeking one of the places closer to Faerie.
-* Curled up in a puddle of sunshine for a nap centuries ago and just woke up, wondering where everyone went.
-* A half-grimalkin who is awakening from being a normal cat into their faerie nature.
-	* A kitten who has just kept growing, leaving their mother and siblings behind.
-	* A cat who experiences something (magic, a shock, etc) and exclaims in english, then begins discovering their true self.
-
-
 Talents
 * Gain 2 Glamours (choose 1 and roll 1)
 * Mingled Forms
@@ -73,3 +60,19 @@ Talents
 
 Bonus
 * Add 2 points among DEX and CHA.
+
+
+
+
+Classes
+* Common: Bard, Enchanter, Hunter, Thief
+* Rare: Knight (plenty of fey knights, few sworn to mortal lords as this class implies)
+* Forbidden: Cleric, Friar
+
+Means of Introduction
+* Was living life as a mundane cat, when they remembered who they were and, finding "the air a bit thin", went seeking one of the places closer to Faerie.
+* Curled up in a puddle of sunshine for a nap centuries ago and just woke up, wondering where everyone went.
+* A half-grimalkin who is awakening from being a normal cat into their faerie nature.
+	* A kitten who has just kept growing, leaving their mother and siblings behind.
+	* A cat who experiences something (magic, a shock, etc) and exclaims in english, then begins discovering their true self.
+

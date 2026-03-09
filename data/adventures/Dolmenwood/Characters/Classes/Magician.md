@@ -75,7 +75,7 @@ Metaphysical Talents
 * Feytouched
 	* You can gain crests for a single Faerie Rune.  Start with 1 crest, either Knave's, Knight's, or King's.  You are Bound By Faerie Law.
 		* If King's crest, then some lord of the realm has taken a particular interest in you.
-* Solomonic
+* Wisdom of Solomon
 	* Being faithful, virtuous, and taking up the Friar's vow of Poverty, a saint favors you.  You can gain and invoke their miracle, up to Tier 4.  You can use any saint's relics to invoke their miracles.  Your Sense Magic can detect holiness and unholiness.
 * Cambion
 	* A trace of infernal blood or a quarter-made pact with a demon empowers you.  Gain access to the Devil's Own Luck, only for casting spells and dealing with magical matters.

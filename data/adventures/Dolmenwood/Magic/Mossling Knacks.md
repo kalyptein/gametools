@@ -65,9 +65,28 @@
 * Commune With Yeast (3rd)
 	* Sip from a sweet or alcoholic drink and learn the name(s) of anyone else who has drunk from it.
 * Yeasty Belch (5th)
-	* (STR | CON | CHA DC 13, Instant, A Close creature) You emit a heady, fermented belch, and the target faints for 1d6 rounds.
+	* STR | CON | CHA DC 13, Instant, A Close creature
+	* You emit a heady, fermented belch, and the target faints for 1d6 rounds.
 		* P [LVL | 3] vs R [TL + CON - 1]
 		* Crit: affect targets Close to the intended one (you are immune).
 		* Botch: the fumes back up into your sinuses and you faint for 1d6 rounds.
 * Yeast Feast (7th)
 	* Once a day, cause omnipresent microbes to grow into a yeasty feast of 1d6 rations (chunks of rubbery compact yeast, frothing sheets of slime, bubbles of alcoholic brew).
+
+
+## Mycelium
+
+* Shroom (1st)
+	* CON | CHA DC 11, Safe, Post-Cast, Sustain (1 hour), A consuming creature
+	* You grow a small mushroom from yourself.  If eaten, you form a link with the eater.
+		* A sapient being shares a telepathic link with you.
+		* A mundane animal is charmed by you.  You can empathically guide and communicate with it.
+	* You can channel your Mossling Knacks through the subject.  You can steal 1d4 Grit from them, recovering Guard or Grit; this breaks the link.
+* Doppelshroom (3rd)
+	* CON | CHA DC 13, Safe, Post-Cast, Sustain (10 minutes)
+	* You touch fertile soil and shed spores.  Over a minute, an (obviously) fungal duplicate of yourself sprouts up.  You control it telepathically.  At the end of the charm, or when dismissed, it explodes in Close puff of spores (those exposed are blind and have +D to actions from coughing for 1 round).
+* Deep Rhizome (5th)
+	* You can plunk a single memory (perceiving it as they did) or answer to a question from a creature you are linked to using Shroom.  This breaks the link.
+	* You can refresh Shroom or Doppelshroom by consuming an extra ration.  Each time, the ration cost increases by 1, until you take a Long Rest.
+* Nutrient Web (7th)
+	* While touching flesh-to-flesh with someone linked via Shroom, as an action, you can give them up to (LVL+1)d4 Guard and/or Grit, or take a physical affliction from them (poisons, disease, paralysis, etc).  After each time you do this, roll to Sustain.

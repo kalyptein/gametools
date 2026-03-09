@@ -11,9 +11,9 @@ Fighting Style
 * Style
 	* One Handed: one-handed weapon (with or without shield).
 	* Heavy: heavy melee weapon
-* You also gain this benefit when using lances from horseback.
 * Charge (mounted or on foot)
-	* When you charge unimpeded at least Near, your attacks deal double damage this round.
+	* Gain (LVL+1) attack bonus with lances from horseback.
+	* When you charge unimpeded at least Near, your attack deals double damage, or triple with a lance.
 
 Rider
 * You are trained in the care, lore, and riding of horses.
@@ -46,35 +46,48 @@ Means of Introduction
 * Wearied by the cares of the world (war, duty, etc), your sense of adventure is kindled by chivalric tales of Arthur in a land called Dolmenwood.  Then you find it to be a real place, and set forth to seek a life of errantry.
 
 
-Talents
-
 
 
 Talents
 * Gain the other Fighting Style
-* Heavy Armor Mastery: +1 defense when wearing heavy armor.
-* Highborn: you are trained in leadership, diplomacy, and inspiration.
-* Dragonslayer: roll damage against Large or bigger monsters with +A.
-* Mounted Champion: while mounted, +1 defense and roll damage with +A.
-* Glory Everlasting: once per Long Rest gain Inspiration when pursing glory or duty.  When you spend Luck pursuing glory or duty, or upholding your Chivalric Code, add +1d6 as well as rerolling.
-* Gain a metaphysical Talent (they are incompatible with one another, so only 1 can ever be taken)
+* Noblesse Oblige
+	* You are trained in leadership, diplomacy, and inspiration.
+* Dragonslayer
+	* Roll damage against Large or bigger monsters with +A.
+* Mounted Champion
+	* While mounted, +1 defense and roll damage with +A.
+* Glory Everlasting
+	* Once per Long Rest gain Inspiration when pursing glory or duty.  When you spend Luck pursuing glory or duty, or upholding your Chivalric Code, add +1d6 as well as rerolling.
+* Green Knight
+	* Once per Long Rest, while in heavy armor, or medium armor and bearing a shield, fend off damage and effects from physical sources until your next turn.
+* Gain a Metaphysical Talent (only 1 can be taken)
+* Gain a Racial Talent
 
 Metaphysical Talents
 * Faerie Queen
-	* You take a Faerie Lord or Lady as your liege (perhaps in secret, continuing to serve a mortal liege) and can gain crests for a single Faerie Rune.  Start with 1 King's crest.  You are Bound By Faerie Law.
-	* You liege will have use for your service.
+	* You take a Faerie Lord or Lady as your liege (perhaps in secret, continuing to serve a mortal liege) and can gain crests for a single Faerie Rune.  Start with 1 King's crest.
+	* You are Bound By Faerie Law.  Your liege will have use for your service.
 * Pious
-	* You can use relics to cast Holy Magic of up to Tier 3.  You may gain and cast up to (CHA | WIS) holy spells of up to Tier 3.  Add to your Chivalric Code:
-	* Faith: protect and further the ends of Church and God.
+	* You can use relics to cast Holy Magic of up to Tier 3.  You may gain and cast up to (CHA | WIS) holy spells of up to Tier 3.  
+	* Add to your Chivalric Code: 
+		* Faith: protect and further the ends of Church and God.
+* Thrice Forged in Iron
+	* Wielding iron, wearing iron, pierced by iron.  Your flesh counts as iron to faerie and their magics.  You deal +1 damage to faerie, and gain +STR | CON | CHA to resist faerie magic.  Faerie magic cannot beguile or compel your mind and spirit, though it can deceive your senses.
 
 Bonus
 * Add 2 among Strength, Constitution or Charisma.
-* +1 to attacks
-* +1 to weapon damage
+* Heavy Armor Mastery: +1 defense when wearing heavy armor.
+* +1 to attack or +1 to weapon damage
 * Add 2 among any stats
+* Gain a Racial Bonus
 
 
 Gain a Battle Talent
 
 Strength of Will
 * +2 save vs all mind- and spirit-affecting things (mundane or magical)
+
+Ancestor of the Round Table
+* Somewhere back in your lineage was a Knight of the Round Table.
+	* describe their personality, deeds, and eventual fate
+	* once per long rest, recall their legend and act as trained in something relating to them, or gain inspiration when facing something relating to them.

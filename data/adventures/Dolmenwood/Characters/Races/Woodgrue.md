@@ -34,13 +34,6 @@ Mad Revelry
 
 
 
-Means of Introduction
-* A half-woodgrue taking after their demi-fey parent, beginning to change and awaken to their true nature.
-	* Maybe around puberty, or after some dramatic event in their life.
-* You always looks like this, a member of a small clan of woodgrue out in the world.  For some reason, humans usually couldn't perceive you as you actually are (just as a child or small human).  One day you met someone from Dolmenwood who saw you, and you found you had kin in that land.
-
-
-
 Talents
 * Gain 2 Glamours
 * Power Chord
@@ -54,3 +47,10 @@ Talents
 
 Bonus
 * Add 2 points among DEX, CON and CHA.
+
+
+Means of Introduction
+* A half-woodgrue taking after their demi-fey parent, beginning to change and awaken to their true nature.
+	* Maybe around puberty, or after some dramatic event in their life.
+* You always looks like this, a member of a small clan of woodgrue out in the world.  For some reason, humans usually couldn't perceive you as you actually are (just as a child or small human).  One day you met someone from Dolmenwood who saw you, and you found you had kin in that land.
+

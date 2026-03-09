@@ -31,6 +31,9 @@ Talents
 	* Cast Imperious Gaze with +A.
 * Of the Line of Servants
 	* You are resistant to frost and choose 1 Glamour.
+* Wyrdmarked
+	* Choose a T1-2 arcane spell.  You have a magical birthmark that lets you cast it using INT, CON, or CHA.
+	* (this is a hereditary gift from the old Drune masters)
 
 Bonus
 - Add 2 points among Strength and Constitution.
@@ -38,7 +41,11 @@ Bonus
     - +2 HP. Increase Horn bonus melee damage to +2. Your horns deal d6.
 
 
+??? Child of Pan
+
+
 Means of Introduction
 * A Breggle or half-Breggle from from the surrounding areas of Dolmenwood who aren't totally unfamiliar with goat-folk.
 * A half-blood who is transforming
 * A human who handled an ancient breggle artifact and was transformed
+

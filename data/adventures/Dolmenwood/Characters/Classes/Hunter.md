@@ -17,7 +17,7 @@ Wildcraft
 	* Stealth, spotting the hidden, sensing danger
 	* Tracking, counter-tracking
 	* Bushcraft (shelter-building, finding water, traps and snares, etc)
-	* Plant and animal lore, foraging, hunting, fishing, animal handing
+	* Plant and animal lore, foraging, hunting, fishing, animal and training handing
 
 Trophies
 * If you carry a trophy (1 slot item) from a dangerous beast or monster (mundane or magical), or display it in your home (house, hut, wagon, tent, etc), once per Long Rest, gain Inspiration when fighting, tracking, or otherwise dealing with that kind of creature.
@@ -37,7 +37,7 @@ Talents
 * Gain +A with 2 Apothecary recipes.
 * Gain either Swift or Cunning, like the Fighter's Heroic Capability.
 * Animal Companion
-	* Over a downtime, forge a special connection with an animal up to about the size of a deer or hound.  It is loyal, clever, and fearless in aiding you.  It gains +LVL to its own levels (max of your level).
+	* As a downtime action, forge a connection with an animal up to about the size of a deer or hound.  It is loyal, clever, and fearless in aiding you.  It gains +LVL to its own levels (max of your level).
 * You can Brew Potions like a Magician.
 
 Bonus

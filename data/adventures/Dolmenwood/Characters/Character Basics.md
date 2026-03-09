@@ -54,6 +54,8 @@ Stats
 	* Resist fear, resist attempts to overwhelm or afflict your will and spirit, brush off social attacks and embarrassments
 	* Cast divine and faerie magic
 
+* Stat Bonuses, even when composed from multiple stats (e.g. attack, casting) never exceed +4.
+
 ## Race, Class, and Abilities
 
 Race
@@ -84,9 +86,9 @@ Talents & Bonuses
 
 Attack Bonus
 * Stat bonus portion of attack bonus max +4; class bonus is added after.
-	* Forceful (including forceful thrown): STR + 1 if DEX >= 1
-	* Finesse (including finesse thrown): DEX + 1 if STR >= 1
-	* Missile (including finesse thrown): WIS + 1 if DEX >= 1
+	* Forceful (including forceful thrown): STR + 1 if DEX >= +1
+	* Finesse (including finesse thrown): DEX + 1 if STR >= +1
+	* Missile (including finesse thrown): WIS + 1 if DEX >= +1
 
 Defense Bonus
 * Unarmored: DEX-1
@@ -99,6 +101,14 @@ Hit Points
 * Total HP= (max of 1dHD) + CON + (level-1)dHD
 	* Reroll HP at each level, taking the new value if it's higher than current.  Otherwise take current HP + 1 (unless that would be above the max possible).
 * Split HP into two equal pools, Guard and Grit, with any odd point going to Guard.
+
+## Magic
+
+Casting Bonus
+* Stat bonus portion of casting bonus max +4; class bonus is added after.
+	* Arcane: INT + 1 if WIS | CHA >= +1
+	* Holy: CHA + 1 if WIS >= +1
+	* Faerie: CHA + 1 if INT | WIS | CON >= +1
 
 ## Miscellaneous
 
@@ -167,30 +177,3 @@ Languages
 	* Dwelve - language spoken by many faerie of the night and underworld.
 
 
-## Advancement
-
-Bonuses
-* Racial Bonus
-
-
-
-
-* Bonuses: choose 1
-	* Improve Attack: depends on class
-		* Martial: +1 to all attacks
-		* Semi-Martial: +1 to melee attacks OR +1 to ranged attacks
-		* Non-Martial: not an option
-	* Improve Spellcasting: +1 to casting checks.
-	* Improve Stats: 2 stat points to add to same or different stats.
-
-some may take +1 to damage instead of +1 attack
-
-
-common 
-* herbalism
-* poison
-* sense magic
-* lore
-* thievery sub-discipline
-* wayfinding sub-discipline
-* training in a skill

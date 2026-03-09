@@ -6,18 +6,36 @@ Tags
 	* Botched castings are treated as normal failures.
 * Dangerous
 	* Treat all failed castings as Botches.
+	* (minor) The mishap (except on a real Botch) is one Tier category weaker than normal.
+* Unstable
+	* Regardless of casting outcome, a mishap occurs (afterward, if successful).  May opt to negate the mishap as your Crit benefit.
+	* (minor) The mishap (except on a real Botch) is one Tier category weaker than normal.
 * Hindered
 	* Roll casting with +D.
 * Aided
 	* Roll casting with +A.
 * Focus
-	* (action | total)
-	* (round | minute | 10 minutes | hour | day | etc)
-* Sustain
-* Limited
+	* (minor | move | main | total)
+	* (round | minute | 10 minutes | hour | day | quick | brief | short | long | etc)
+	* (tested): each time the spell is put to use (providing protection, being called upon, etc)
+	* Can only have one Focus spell going at a time.
+* Sustain (round | minute | 10 minutes | hour | day | etc | tested)
+	* Can have any number of Sustain and/or a Focus spell going at the same time.
+* Limit (time / condition)
+	* attempt: count attempted casting against the limit (not just successes as normal)
+	* time / condition: can't use this spell again until the time is passed or condition met or  resolved.
 * Refresh
 * Casting (time)
-* Ritual
+	* reaction | free | minor | move | quick | brief | short
+* Ritual (time / materials)
+	* quick | brief | short | long | X respite(s)
+	* X gp | paraphernalia
+* Cost (price)
+	* irresistible damage taken | status inflicted | etc
+* Post-Cast
+	* The spell never fails, but roll the casting check to see if it becomes Exhausted and/or causes a mishap (if not Safe).
+* Subtle
+	* Does not require overt speech and gesturing to cast.
 
 Potency vs Resist
 
