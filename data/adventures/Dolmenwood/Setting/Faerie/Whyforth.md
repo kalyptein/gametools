@@ -6,14 +6,13 @@
 
 * 
 * golden plains, meadows of yellow flowers, and wind-carved sandstone canyons, golden beehives
-* booze
+* magical booze, honey, citrines, amber
 
 ## Faces
 
-* Ruler (s)
+* Ruler(s)
+	* The Earl of Yellow
 * Notables
-
-* The Earl of Yellow
 
 ## Plot Threads & Relationships
 

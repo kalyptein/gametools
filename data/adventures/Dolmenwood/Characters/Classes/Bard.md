@@ -9,7 +9,8 @@ Bardic Arts
 Lore
 * Training in recalling lore and deciphering documents.
 * Start with 2 extra languages.
-* On first hearing of a subject with some claim to fame, roll INT DC 15 (training applies, DC can vary with fame/obscurity) to know some snippet of lore about it (perhaps partial, slanted, or cryptic, but not outright false).
+* On first hearing of a subject with some claim to fame, roll INT DC 15 to know some snippet of lore about it (perhaps partial, slanted, or cryptic, but not outright false).
+	* Lore training applies to the roll.  The DC can vary with fame/obscurity.
 	* e.g. a person, group, place, event, monster, deity, magic item, etc
 
 Inspire
@@ -17,9 +18,10 @@ Inspire
 
 Aegis of Song
 * While you play music, sing or recite poetry, those Nearby are immune to magic based on music or language and you hedge out magical silence.
-	* e.g. charm, command, hypnotic music, but not violent sound, like thunder
+	* e.g. charm, command, hypnotic music, but not violent sound, like thunder.
 
-Fascinate (CHA, Tier 2, Safe, Heavy Focus (10 minutes, or round if begun in combat), Nearby listeners)
+Fascinate
+* CHA DC 12, Safe, Focus (action, 10 minutes, or round if hostile), Nearby listeners
 * You weave hypnotic music, song, oration, or poetry, enthralling listeners.
 	* P [LVL+2] vs R [Level + (CHA | WIS)]
 * Enthralled

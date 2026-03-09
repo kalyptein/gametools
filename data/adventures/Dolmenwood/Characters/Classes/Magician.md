@@ -48,16 +48,6 @@ Astrologer
 
 
 
-Means of Introduction
-* Witch
-	* the heavy hand of the Church lies across the land, and Gwyrae survives only in little pockets.  A story told in the small women's gatherings speaks of Dolmenwood, a land where the Old Gods still stir, where witches dance, and the Queen of All Witches holds her court.
-	* You dreamt of Nimue and her cryptic guidance led you to Dolmenwood.
-* Wizard
-	* Your society / mentor has found rumors of Dolmenwood, a place to which exotic herbs, strange curios, and rubbings of Drunic runes can be traced, redolent with power.  You set off to investigate, with or without their approval.
-* Either
-	* The Church seized you for witchcraft, but you've escaped.  Best to find a place to hide out.  Here's a coach / boat headed to some place called Dolmenwood.  Surely somewhere so obscure would be a great place to start over.
-
-
 Talents
 * Gain a Familiar
 	* You have allied spirit that takes the form of a small animal such as a raven, rat, or frog who serves you loyally. It can speak Common.  On a solstice or equinox, you can work a ritual to change its animal form.
@@ -91,22 +81,14 @@ Bonus
 
 
 
-
-
-
-Choose Wizard or Witch
-* Wizard
-	* Languages
-		* Know 2 other languages (1 may be rare / special)
-	* Decipher
-		* as Bard
+Means of Introduction
 * Witch
-	* Witches' Cant
-		* a real language and a means of disguising meaning + some hobosign
-	* Herbalism
-		* Use only half the normal dose of herb or fungi when administering it
-	* Foraging
-		* +1 to Survival rolls when Foraging
+	* the heavy hand of the Church lies across the land, and Gwyrae survives only in little pockets.  A story told in the small women's gatherings speaks of Dolmenwood, a land where the Old Gods still stir, where witches dance, and the Queen of All Witches holds her court.
+	* You dreamt of Nimue and her cryptic guidance led you to Dolmenwood.
+* Wizard
+	* Your society / mentor has found rumors of Dolmenwood, a place to which exotic herbs, strange curios, and rubbings of Drunic runes can be traced, redolent with power.  You set off to investigate, with or without their approval.
+* Either
+	* The Church seized you for witchcraft, but you've escaped.  Best to find a place to hide out.  Here's a coach / boat headed to some place called Dolmenwood.  Surely somewhere so obscure would be a great place to start over.
 
 
 

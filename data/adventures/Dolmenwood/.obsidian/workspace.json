@@ -55,26 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Classes/Bard.md",
+                "file": "Setting/The Faith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bard"
-            }
-          },
-          {
-            "id": "1c9f8eaa4544ce13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exploration"
+              "title": "The Faith"
             }
           },
           {
@@ -97,26 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Faerie Magic.md",
+                "file": "Magic/Holy Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faerie Magic"
-            }
-          },
-          {
-            "id": "63f923a705b78187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Mossling Knacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mossling Knacks"
+              "title": "Holy Magic"
             }
           }
         ],
@@ -250,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Classes/Bard.md",
+                "file": "Setting/The Faith.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bard"
+              "title": "Outline of The Faith"
             }
           }
         ],
@@ -279,32 +251,32 @@
   },
   "active": "7a8538853c5a602d",
   "lastOpenFiles": [
-    "Characters/Races/Woodgrue.md",
-    "Characters/Races/Mossling.md",
-    "Characters/Races/Grimalkin.md",
-    "Characters/Races/Human.md",
-    "Characters/Races/Elf.md",
-    "Characters/Races/Breggle.md",
-    "Characters/Races/Faeries.md",
-    "Characters/Rewards.md",
-    "Characters/Equipment.md",
-    "Characters/Character Basics.md",
-    "Rules/Combat.md",
-    "Characters/Classes/Knight.md",
-    "Characters/Classes/Bard.md",
-    "Characters/Classes/Fighter.md",
-    "Characters/Classes/Hunter.md",
-    "Characters/Classes/Enchanter.md",
-    "Characters/Classes/Rogue.md",
-    "Characters/Classes/Magician.md",
-    "Magic/Mossling Knacks.md",
-    "Magic/Magic Overview.md",
-    "Magic/Arcane Magic.md",
-    "Magic/Faerie Magic.md",
-    "Setting/Faerie/Faerie Realms.md",
     "Magic/Holy Magic.md",
-    "TODO.md",
-    "Rules/Exploration.md",
+    "Magic/Mossling Knacks.md",
+    "Setting/The Faith.md",
+    "Magic/Magic Overview.md",
+    "Magic/Faerie Magic.md",
+    "Setting/The Nobility.md",
+    "Setting/Factions.md",
+    "Setting/Magic Items.md",
+    "Setting/Magicians.md",
+    "Setting/The Eldritch.md",
+    "Setting/The Witches.md",
+    "Setting/The Drune.md",
+    "Setting/Faerie/Faerie Realms.md",
+    "Setting/Faerie/The Gardens of Ynn.md",
+    "Setting/Faerie/Catland.md",
+    "Setting/Faerie/Goblintown.md",
+    "Setting/Faerie/Gloomhold.md",
+    "Setting/Faerie/Frigia.md",
+    "Setting/Faerie/Everborne.md",
+    "Setting/Faerie/Blossom Fields.md",
+    "Setting/Faerie/Tallowspire.md",
+    "Setting/Faerie/(Faerie Realm Template).md",
+    "Setting/Faerie/Absynthe.md",
+    "Setting/Faerie/Lampwrack.md",
+    "Setting/Faerie/Ravenwild.md",
+    "Setting/Faerie/Hypnagogia.md",
     "Maps/Dolmenwood_Referee_Map_Pack/Dolmenwood VTT Hex Map Settlements.png",
     "Setting/Faerie",
     "Storage/Magic",

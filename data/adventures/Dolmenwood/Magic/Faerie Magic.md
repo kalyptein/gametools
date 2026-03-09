@@ -243,10 +243,10 @@ Usage by Level
 
 Realms, Rulers, and Runes
 
-* The Horned Rune / Rune of the Hunt (Diuthurnia)
 * 
 * The Jingling Rune / Rune of Coins (??? Goblindun)
 * 
+* The Horned Rune / Rune of the Hunt (Diuthurnia)
 * The Bleak Rune / Rune of Doom (Gloomhold)
 * The Gossamer Rune / Rune of Dreams (Hypnagogia)
 * The Blossoming Rune / Rune of Nectar (Blossom Fields)

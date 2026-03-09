@@ -84,15 +84,6 @@ Finding Manifestations to Commune With
 
 * create woodgrue knacks?
 
-* sanity check holy magic
-	* consider the various "unlock a saint's miracle" methods; all good ideas?
-
-* sanity check witches
-* mages
-	* how to handle spellbooks and prep?
-* how do I want faerie magic to work?
-* sanity check class improvements
-
 
 Things to add to Dolmenwood?
 

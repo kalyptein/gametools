@@ -16,7 +16,7 @@ Skullduggery
 	* Resisting with DEX
 
 Backstab
-* When a target is unaware of your incoming finesse, thrown, or missile attack, deal +2d damage.  If they are aware of you, but you have +A to attack or they are otherwise distracted (fighting an ally, etc), roll your damage with advantage.
+* When a target is unaware of your incoming finesse, thrown, or missile attack, deal +2d damage.  If they are aware of you, but you have +A to attack or they are otherwise distracted (fighting an ally, etc), deal +2 damage.
 	* To Backstab with a ranged or thrown weapon, the target must be Nearby.
 
 Devil's Own Luck
@@ -25,8 +25,8 @@ Devil's Own Luck
 	* Critical Failure: take +D instead.
 
 Thieves' Cant
-* You know various forms of slang, innuendo, signs and signals used to communicate in secret among the criminal element.
-* You can pick up the regional cant in a few days of observation and interaction.
+* You know various forms of slang, innuendo, signs and signals used to communicate covertly among the criminal element.
+* You can pick up the regional cant with a few days of observation and interaction.
 
 Nocturnal
 * Your keen senses allow you to operate in darkness as if you could perceive Nearby.
@@ -35,50 +35,38 @@ Nocturnal
 
 
 
-Means of Introduction
-* Wanted for a crime, or wanted by a criminal boss you crossed, it'd be a great time to get out of town.  Here's a coach / boat headed to some place called Dolmenwood.  Surely somewhere so obscure would be a great place to start over.
-
-
 Talents
-* Gain Apothecary and learn 2 recipes 
-	* Trained with poisons
-	* Gain +A with 2 Apothecary recipes.
+* Mixology (choose 1)
+    - Brew Potions like a Magician.
+    - Gain Apothecary and learn 2 recipes
+    - Training in poisons (with Apothecary, also learn 2 poison recipes).
+    - (with Apothecary) +A when making 2 recipes.
 * Stolen Crest
-	* You can gain crests for a single Faerie Rune.  Start with 1 crest that you stole, either Knave's, Knight's, or King's.  You are NOT Bound By Faerie Law.
-		* If King's, there's someone powerful out there annoyed with you.
-* Brew Potions like a Magician.
-* Streetwise: +A to downtime checks involving criminals, outcasts, rumors, markets, or skullduggery.  +1 to carousing.
+	* You can gain crests for a single Faerie Rune.  Somehow you stole the equivalent of a Knave's Crest from the Realm itself, and it will occasionally trouble in return.  You are NOT Bound By Faerie Law.
+* Streetwise
+	* +A to downtime checks involving criminals, outcasts, rumors, markets, travel, or skullduggery.  +1 to carousing.
 * The Penitent Thief
-	* A saint has taken an inexplicable liking to you.  You can gain and invoke their miracle (and relics), up to Tier 3.  Avoid being worse than a lovable scoundrel, or you'll be cut off until you atone.
+	* A saint has taken an inexplicable liking to you.  You can gain and invoke their miracle (and relics), up to Tier 3.  Avoid being worse than a lovable scoundrel, and give of your take to those less fortunate, or you'll be cut off until you atone.
 * Gentleman Bastard
 	* You are trained in diplomacy, etiquette, oratory, and courtly graces.
 * Highwayman
 	* Gain 2 sub-disciplines from Wildcraft.
+* Always on Edge
+	* Take +A to initiative and you can't be surprised.
+* Gain a Racial Talent
 
 Bonus
-* +1d to Backstab damage
-* Take +A to initiative and you can't be surprised.
+* +1d to unaware Backstab damage, +1 to distracted Backstab damage.
 * Add 2 points to Dexterity or +1 to finesse and ranged attacks
 * Add 2 points among Dexterity, Wisdom, and Charisma
 * Add 1 point to three different stats
 * Take +A when resisting with WIS
+* Gain a Racial Bonus
 
 
 
 
-
-
-Nocturnal
-* Your keen senses allow you to operate in darkness as if you could perceive out to 30', through sound, feel, and any faint light available.  You can't read, see, detail or anything else that would require light, but you can detect unhidden creatures, navigate without tripping or bumping into things, etc.
-	* Creatures that make no noise at all may be harder to detect.
-* You can target creatures with ranged weapons within 30', but not backstab with ranged weapons without at least dim light.
-
-Thieves' Cant
-* You know various forms of slang, innuendo, and coded signals to communicate in secret.
-	* Terms and phrases can be slipped into conversation without the uninformed realizing.  This can be used to probe someone to see if they're corrupt enough to regularly deal with thieves (officials, guards, etc) without tipping off the honest.
-	* Symbols can be used to make places as ripe for theft, trouble to watch out for, etc.
-	* Colors, symbols, etc can indicate particular criminal services, local gangs, etc.
-* Each region and culture has its own variations.  You can pick up the regional cant in about of week of observation and interaction.  Local variations in the region you can learn in less than a day, unless they are very particular.
-
+Means of Introduction
+* Wanted for a crime, or wanted by a criminal boss you crossed, it'd be a great time to get out of town.  Here's a coach / boat headed to some place called Dolmenwood.  Surely somewhere so obscure would be a great place to start over.
 
 

@@ -55,13 +55,13 @@
     "//Storage/Storage/Rules (ose)",
     "//Storage/Storage/Character (ose)",
     "//Storage/Storage/Magic",
-    "//Setting/Setting/Faerie",
     "//Setting",
     "//Characters",
     "//Magic",
     "//Rules",
     "//Characters/Characters/Classes",
-    "//Characters/Characters/Races"
+    "//Characters/Characters/Races",
+    "//PCG"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

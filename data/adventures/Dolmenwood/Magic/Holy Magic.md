@@ -132,7 +132,7 @@ Scribing Prayers
 	* This costs ??? for suitable inks, gold leaf, sacred oils and incense, etc.
 	* Either the caster has (LVL >= Tier+2) or the downtime includes the saint's holy day.
 
-### Blessed Panoply
+### Blessed Materials
 
 Holy Incense
 * When burned in swinging censor, it creates a Close cloud around you for 1 minute.
@@ -170,7 +170,6 @@ Creating Blessed Panoply
 #### Cure Wounds *
 
 - The Steadfastness of St Wick
-	- Miracle: as written
 - T1, Instant, A Close creature
 - The rustic voice of St Wick whispers a parable over caster and subject, who is healed (LVL+1)d6 Guard.  For every 2d6 less healing, remove a status that would end naturally within a few hours.
 	- e.g. paralysis, confusion, fear, temporary blindness or deafness, being on fire, bleeding, drunkenness, nausea.
@@ -183,7 +182,6 @@ Creating Blessed Panoply
 #### Detect Evil
 
 - St Whittery’s Vision
-	- Miracle: as written
 * T1, 1 hour, Nearby Evils
 * You perceives a faint halo of wicked, grinning spirits flickering around objects and places infused with evil essence or under evil enchantment, and beings with evil nature or intentions.
 	* You cannot be surprised by evils you sense.
@@ -199,7 +197,6 @@ Creating Blessed Panoply
 #### Detect Magic
 
 - The Wisdom of St Thorm
-	- Miracle: as written
 - T1, Sustain (10 minutes), Nearby magics
 - Enchanted objects, areas, or creatures are wreathed in shimmering colours for all to see.
 	- The colours and flux reveal various details of the magic to a knowledgeable onlooker.  It takes a round to get simple details, minutes to discern more complex facets.
@@ -208,11 +205,9 @@ Creating Blessed Panoply
 
 #### Featherweight
 
-- The Breath of St Hollyhock
-	- The Miracle of St Hollyhock the Jubilant: 
-		- The elderly Hollyhock served a pagan king as herald for many years.  After converting, he was sentenced to death for for refusing to sacrifice to the local god.  He was to be flung from atop a tower before the masses.   Instead of plummeting to his death, he drifted like thistledown over the heads of the astonished people, singing praises, and landed gently in the market square, where he preached the Good Word before the crowd.
+- St Hollyhock's Joy
 - T1, Falling time + 1 round, Casting (reaction), Creatures and objects Near a point within Far
-- A puff of breath and an inward prayer bring a soft, swirling breeze swirling.  Willing creatures and mundane objects the caster wishes to affect are briefly made light as thistledown.
+- An inward prayer brings a soft, swirling breeze swirling.  Willing creatures and mundane objects the caster wishes to affect are briefly made light as thistledown.
 	- Falling subjects float gently to the ground, unharmed, landing on their feet.
 	- Heavy objects are near-weightless; loads can be lifted, falling boulders pushed aside.
 	- Missiles lose their force and fall harmlessly to the ground (lasts until your next turn).
@@ -220,7 +215,6 @@ Creating Blessed Panoply
 #### Light
 
 * St Foggarty’s Benediction
-	- Miracle: as written
 - A bobbing wisp of light floats from the caster’s palm and manifests one of the following effects:
 	- Illumination (1 hour, a Close object): the object glows, brightly illuminating Nearby.
 	- Flare (1 round, Nearby onlooking foes): a flash of light blinds enemies who see it.
@@ -230,7 +224,6 @@ Creating Blessed Panoply
 #### Mantle of Protection
 
 - St Benester’s Word
-	- Miracle: as written
 - T1, Focus (1 hour), Close creature
 - Invoking the name of an archangel, the subject is divinely warded.
 	- The subject is immune to possession, beguiling, and compulsion magic, and cannot be detected by arcane or faerie magic, or by occult senses (telepathy, smelling mortality, etc).
@@ -239,7 +232,6 @@ Creating Blessed Panoply
 #### Purify
 
 - St Gretchen’s Sublimation
-	- Miracle: as written
 - The sound of distant goat bells echoes; choose 1:
 	- (Instant, Close to a point Nearby) Spoiled, rotten, contaminated, or poisoned food, drink, or water sources is rendered wholesome.
 	- (1 week, a Close organic object): the target (a corpse, side of beef, cask of beer, etc) does not naturally decompose or spoil.
@@ -248,7 +240,6 @@ Creating Blessed Panoply
 #### Sanctuary
 
 - The Obduracy of St Hildace
-	- Miracle: as written
 * T1, Focus (1 minute), A Close creature
 * Accompanied with the pealing of bells, you are warded from the malice of enemies.
 	* P [Level + 3] vs R [Level]
@@ -260,7 +251,6 @@ Creating Blessed Panoply
 #### Traveller's Boon
 
 - The Fortitude of St Gripe
-	- Miracle: When a storm raged across highland pastures, the young Gripe (a lowly apprentice monk, at the time) led his fearful livestock back toward the monastery. Only by the will of God were Gripe and his flock able to push through the bitter cold and driving rain to find their way to safety.
 - T1, Sustain (4 hours), Self
 - You and Nearby companions (and their gear) are protected from environmental extremes of heat and cold, torrential wet and parching dryness.  You spot natural hazards before stumbling into them.
 
@@ -269,7 +259,6 @@ Creating Blessed Panoply
 #### Augury
 
 - St Dougan’s Cup
-	- Miracles: Dougan was a pious young squire traveling in search of worthy errantry.  As he approached an inn for the night, he beheld a cup of blood above its door.  Heeding the warning and sleeping in a humble hayloft, he escaped robbery and murder at the hands of the wicked innkeeper.  As he passed a cave, he beheld a brimming cup of wine, and within found an enchanted sword.  Finally, at a fork in the road, he beheld both cups on the left path, leading him to a starving village whose orchards had been seized by a terrible ogre.  With the magic sword, he slew it, freeing the people and winning his spurs as a knight.  In his old age, he gave up to the sword to become a monk, offering guidance to seekers.
 - T2, Casting (1 round), Instant, Self
 - You whisper a prayer for insight into a proposed, immediate course of action ("taking the left path", "opening the chest", "talking with the witch") and receive a vision of two chalices.  
 	- The righthand fills with wine, indicating the scale of benefit you might obtain.
@@ -280,7 +269,6 @@ Creating Blessed Panoply
 #### Bless
 
 - The Righteousness of St Gondyw
-	- Miracle: An honoured guest at a king’s tourney, St Gondyw overheard blasphemous words upon his host’s lips. Boldly admonishing the king, Gondyw suggested a challenge of the might of the One True God: if the humble scribe who accompanied Gondyw could unhorse the king’s champion in the joust, the king would swear his fealty to the Church. The king accepted, the challenge seeming preposterous, but was dumbstruck when the scrawny altar-boy (with St Gondyw’s blessing) sent his knight tumbling to the ground.
 - T2, Instant, A Close creature
 - The triumphant ring of trumpets, fills the subject with a surge of hope.  They gain Inspiration.
 	- If cast on holy ground, all Close allies are affected.
@@ -290,7 +278,6 @@ Creating Blessed Panoply
 #### Hold
 
 * St Waylaine’s Reproof
-	* Miracle: as written
 * T2, A Nearby target
 * You issue a holy command of stillness. Choose 1:
 	* (Sustain (1 hour)) the moving parts of up to a Large object, or a portion of a larger one, seize up (hinges, lock, wheels, knots) and it acts as if fused into a single piece.
@@ -300,7 +287,6 @@ Creating Blessed Panoply
 #### Holy Panoply
 
 - The Courage of St Sedge
-	- Miracle: as written
 - T2, 1 hour, A Close weapon or suit of armor
 - Silver light arcs from the caster’s hand and wreathes a single weapon or suit of armor.
 	- Weapon: +1 attack and +1d4 damage (+1d6 vs unholy beings); treat as magical and silver.
@@ -311,7 +297,6 @@ Creating Blessed Panoply
 #### Locate Object
 
 - St Keye’s Revelation
-	- Miracle: as written.
 - T2, 1 hour
 - A cherub-like apparition of the infant St Keye hovers beside you, visible to all, pointing in the direction of an inanimate object you name upon invocation.
 	- The object can be a general class (a stairway, an altar, a key, etc.), and you will be led to the nearest such match.
@@ -319,15 +304,13 @@ Creating Blessed Panoply
 
 #### Morass
 
-* The Grasp of St Jorrael 
-	* Miracle: As a wandering mendicant in her middle years, Jorrael came upon a village under the tyrannical rule of a baron and his cruel knights. Preaching at a village council, the saint’s words emboldened the downtrodden villagers to rebel.  When the robber-knights tried to ride down the peasant militia, but were trapped in a sudden a mire.  Overcome by spear and bow, the despot and his lackeys were deposed and brought to justice.
+* The Grasp of St Jorrael
 * T2, 5 rounds, A Near-sized area within Far
 * Ground softens to mud that sucks at feet, water fills with weeds and shoals that clutch at  oars and keels.  Those within are immobilized, and rickety structures might topple.  As an action, the trapped may try to move normally during a round by rolling DEX DC (your casting check).
 
 #### Obscuring Mist
 
 - St Dank’s Plea
-	- Miracle: The miracle of St Dank of the Thorn: Venturing in a group of missionaries to a distant land, Dank's companions were captured by a wicked demon-worshipping cult.  As Dank snuck close, praying for aid, a thick, concealing mist rose around him.  He rescued his companions and led them out through a secret tunnel to safety, while the cultists and their hellhounds raged and sought him in vain.
 - T2, Sustain (10 minutes), The area Near you (moves with) or a point within Far
 - With a susurrus of prayer, a thick mist rises.  It limits sight to Close, muffles sound, and cleanses mild scents (making you hard to track).  It does not obscure your vision.
 	- Strong wind or very dry environs reduce the duration to Sustain (1 minute).
@@ -335,7 +318,6 @@ Creating Blessed Panoply
 #### Silence
 
 - The Abjuration of St Signis
-	- Miracle: as written
 - Raising a finger to your lips, you whisper a hushed prayer to St Signis the Silent.  Choose 1:
 	- (Focus (10 minutes), A Nearby creature or point within Far) You silence undesired noise within the area, which moves if cast around a creature.  Magical incantations cut through the silence.
 		- e.g. allow speech up close but keep it carrying afar, quell thunder or deathly wails, hush the footsteps of your companions, silence a guard's cries of alarm, etc.
@@ -344,7 +326,6 @@ Creating Blessed Panoply
 #### Speak With Animals
 
 - The Speech of St Hamfast
-	- Miracle: as written
 - T2, 1 hour, Self
 - Animals prick up their ears to the lilting words of this prayer, and you can speak with them, including giant animals and monsters with at least one animal feature.
 	- Mundane animals are calm in you presence unless spooked by your manner, or the presence of companions.
@@ -355,7 +336,6 @@ Creating Blessed Panoply
 #### Animal Growth
 
 - The Mercy of St Vinicus
-	- Miracle: as written
 - T3, Sustain (1 hour), A Nearby non-hostile animal
 - The subject is haloed with glimmering liturgical script, turns its eyes toward the heavens, and swells in size.  It can communicate with the invoker and, if respected, serves obediently.
 	- Animals can be grown to sizes comparable to a mastiff (fighting as one), horse (able to act as a mount), or ox (with comparable strength).  An already sizeable creature gains +2 STR, +2 CON, +1d damage, +10 hp, and +A to feats of strength.
@@ -363,7 +343,6 @@ Creating Blessed Panoply
 #### Circle of Protection
 
 - The Abjuration of St Faxis
-	- Miracle: as written.
 - T3, Sustain (1 hour), A Near diameter circle around you
 - A glowing sword manifests and inscribes a stationary, shimmering ring of light around you.
 	- Those within are immune to possession, beguiling, and compulsion magic, and cannot be detected by arcane or faerie magic, or by occult senses (telepathy, smelling mortality, etc).
@@ -376,7 +355,6 @@ Creating Blessed Panoply
 #### Command
 
 - St Ingrid’s Admonition
-	- Miracle: as written
 - T3, Focus (round), a Nearby sapient target able to understand your words
 - You issue a one-word command charged with holy power.
 	- e.g. flee, kneel, back, stop, disarm, leave, etc.
@@ -386,7 +364,6 @@ Creating Blessed Panoply
 #### Cure Affliction
 
 - St Passery’s Blessing 
-	- Miracle: as written.
 - T3, A Close target
 - The lowing of cattle is heard, choose 1:
 	- (Instant) a being is cured of an affliction of their health (illness, poison, nausea, intoxication, parasites, etc).  An object is cleansed of poison, contagion, etc.
@@ -397,7 +374,6 @@ Creating Blessed Panoply
 #### Mass Cure
 
 - The Breath of St Lillibeth
-	- Miracle: as written
 - T3, Instant, Self and Nearby allies
 - The fluttering of doves’ wings and the sweet scent of blossoms descends on the area.  Each subject either heals 2d6 Guard or remove a status that would end naturally within a few hours.
 	- e.g. paralysis, confusion, fear, temporary blindness or deafness, being on fire, bleeding, drunkenness, nausea.
@@ -405,7 +381,6 @@ Creating Blessed Panoply
 #### Holy Light
 
 - The Devotion of St Eggort
-	- Miracle: as written
 - T3, Far
 - A ray of white light beams from your raised hand.  Choose 1:
 	- Beacon: a beacon of holy light shines across a Near radius area, bright as noon.  Choose 1:
@@ -420,7 +395,6 @@ Creating Blessed Panoply
 As Swarm (Witch 3) or Locusts (Druid 3)
 
 - The Amity of St Cornice
-	* Miracle: as written
 - T3, the area Nearby a Far point
 - Choose 1:
 	- Swarm (Focus (round)): Biting locusts fill the area.  Those that start a turn within are blinded and deafened by the press, and take 2d6 damage.  Tasks requiring any clarity, such as spellcasting, take +D.
@@ -429,7 +403,6 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Remove Curse
 
 - St Primula’s Grace
-	- Miracle: as written.
 * T3, A Close being or enchantment
 - You anoint the subject with drops of holy milk from your hand.  Choose 1:
 	- (Sustain (1 hour)) A cursed item or permanent harmful magic is suppressed.
@@ -473,7 +446,6 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Create Food
 
 - St Ponch’s Feast
-	- Miracle: as written
 - T4, Ritual (quick), 1 day, Close
 - Barrels and hampers of fresh food (a dozen rations) wash up on a foaming swell of seawater, which recedes instantly.  Any uneaten food turns to seawater and evaporates at day's end.
 - Ritual (1 hour on any saint's Feast Day)
@@ -482,7 +454,6 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Holy Vow
 
 * The Righteousness of St Galaunt
-	* Miracle: as written
 * T4, Ritual (quick), until completed, A Close willing (if grudging) free-willed being
 * You pronounce a task or taboo, your words understood with perfect clarity by all who hear them.  If the subject willing submits, a roll of thunder and ray of holy light bear witness.
 	* The vow must have a clear ending (a monster slain, relic recovered, prisoner resuced) or else lasts for 7 years (give hospitality to all who ask, serve at this church, do not enter this region).  You may also choose to lift it.
@@ -493,10 +464,7 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Serpent Transformation
 
 - St Horace’s Requital
-	- Miracle: as written
-- Duration: 6 Turns
-- Range: 120′
-- T4, 1 hour, 2d8 Nearby sticks
+- T4, 1 hour, 3d6 Nearby sticks
 - With the merry laughter of St Horace and the waft of freshly unearthed mushrooms, the sticks leap to attention and miraculously transform into adders.
 	- They obey fearlessly with human intelligence.  They are 4-5' long, strong enough to carry small objects by mouth.  Upon death or spell's end, they transform back into sticks.
 - Adder (Small animal—animal intelligence—neutral) Level 1 AC 13, 4 HP, 1x Bite (+2, 1 damage + CON DC 12 or take 1 poison for 1d6 rounds), Move near, S -2, D +2, C +0, I +0, W +1, C +0
@@ -504,7 +472,6 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Speak With Plants
 
 - Salvation of St Wort
-	- Miracle: as written.
 - T4, 1 hour, Self
 - A vision of a great yew tree briefly manifests behind the caster, its limbs arching overhead, granting the miraculous ability to communicate with plants.
 	- Living, mundane plants within Near of the invoker will do as bidden; slowly (taking minutes or tens of minutes) repositioning, growing, bending or withering.  Fertile terrain can be made difficult or clear, crops can be brought to ripeness, a hedge as sturdy as a wooden palisade can sprout up, a path can be opened or hidden.
@@ -515,7 +482,6 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Communion
 
 - St Elsa’s Visitation
-	- Miracle: as written
 - T5, Ritual (brief, a Saint's holy day), Limited (1 week), Self
 - You enter into communion with the ascended saint whose day this is, asking them 3 questions.
 	- The saints are generally able to answer any question posed to them.  Rarely, particularly deep or secret questions might require a saint with a particularly relevant portfolio.
@@ -525,14 +491,12 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Heavenly Host
 
 * St Torphia’s Call
-	* Miracle: Torphia lived in a land where the faithful of the Pluritine Church were offered to blood-thirsty demons for their unholy favor. When she was captured and sacrificed, angels sprang up from her heart's blood.  They slew the demons and scourged their cult into the streets.  The people of the land beheld their groveling priests and the angels bearing Torphia's body away into the heavens.
 * T5, Limited (Respite during a Sabbath on holy ground), 1 service, Near
 * You shed your blood, call forth for Heaven's aid, and angels with a total of 16 level answer.  They act of their own free will to aid you.
 
 #### Holy Fire
 
 - St Goodenough’s Rebuke
-	- Miracle: as written
 - A column of holy fire surrounds the caster, channeling divine grace.  Choose 1:
 	- (Instant, A Near unholy or magically summoned/created being) A pillar of fire engulfs the creature and it is affected as if by Turn Undead.  Beings of Level 9 or lower automatically botch and are destroyed.
 	- (10 minutes, A stationary circle of Near diameter) The area is consecrated.  Any being within is subject to the pillar of fire effect above.  Vulnerable beings may flee the area as the sanctification is taking place.  If a being resists, it is immune to this circle.
@@ -541,7 +505,6 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Inviolable
 
 - The Charity of St Esther
-	- Miracle: as written.
 - T5, Focus (round), A close creature
 - Accompanied by the sound of a hound’s bark, a single living creature is blessed.  Their Grit cannot be reduced below 1 and they have +A to resist while the spell lasts.
 	- An collapsed subject is restored to 1 Grit and rises to their feet.  A subject that has died within the last hour rises too, but falls dead again when the spell ends.
@@ -549,7 +512,6 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 #### Restore Life and Limb
 
 * The Mercy of St Clewyd
-	* Miracle: as written
 * T5, Instant, A close being
 * Choose 1:
 	* (Ritual (quick)) A subject that has died within the last 10 minutes is restored to Life with 1 Grit.  Mortal wounds are healed, but a maimed body is not otherwise restored.

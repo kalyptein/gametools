@@ -3,9 +3,16 @@
 * general environment
 * means of access
 
+* 
+* 
+* use Let Us Build A Tower as its depthcrawl?
+* 
+* endless baroque city and catacombs
+
 ## Faces
 
 * Ruler(s)
+	* The Regent Hador
 * Notables
 
 ## Plot Threads & Relationships

@@ -5,9 +5,11 @@
 * Bird Companion (3rd)
 	* Charm a level 1 bird to be your companion until dismissed.  May only have one at a time.
 * Twittering Message (5th)
-	* (INT | WIS | CHA DC 12, Safe, until delivered, a spoken message)  Forest birds relay a message of up to 10 words, passed among the birds 2 hexes (12 miles) per hour to a specified person or location, where it is reproduced in a throng of chirps and calls.
+	* INT | WIS | CHA DC 12, Safe, until delivered or 1 day, a spoken message
+	* Forest birds relay a message of up to 10 words, passed among the birds 2 hexes (12 miles) per hour to a specified person or location, where it is reproduced in a throng of chirps and calls.
 * Summon Flock (7th)
-	* (INT | WIS | CHA DC 13, Safe, Sustain (half an hour), Self)  Call a flock of woodland birds to serve you (stat block in book); starlings, thrushes, blackbirds, etc.
+	* INT | WIS | CHA DC 13, Safe, Sustain (hour), Self
+	* Call a flock of woodland birds to serve you (stat block in book); starlings, thrushes, blackbirds, etc.
 
 ### Lock Singer
 
@@ -23,13 +25,15 @@
 ### Root Friend
 
 * Root Question (1st)
-	* (INT | WIS | CHA DC 12, Safe, Instant,  A close root) Pose a question to a root and it answers truthfully in 1d6 words.  Roots generally only know about their plant or surroundings.
+	* INT | WIS | CHA DC 12, Safe, Instant,  A close root
+	* Pose a question to a root and it answers truthfully in 1d6 words.  Roots generally only know about their plant or surroundings.
 * Summon Roots (3rd)
 	* Once a day, Sprout 1d4 rations of edible roots.
 * Root Respite (5th)
-	* (INT | WIS | CHA DC 12, Safe, Sustain (1 hour), Self) Roots draw you underground to lie among their root system.
+	* INT | WIS | CHA DC 12, Safe, Sustain (1 hour), Self
+	* Roots draw you underground to lie among their root system.
 * Summon Root Thing (7th)
-	* (INT | WIS | CHA DC 14, Safe, 1d6 x 10 minutes, Close soil)
+	* INT | WIS | CHA DC 14, Safe, 1d6 x 10 minutes, Close soil
 	* Call an obedient Root Thing from the earth (stat block in book).  It arrives in 1d6 rounds and returns underground on departure.
 
 ### Thread Whistling
@@ -55,7 +59,8 @@
 	* Get a momentary glimpse of what lies on the other side of a wooden barrier (wall, door, tree, etc).
 * True Name (7th)
 	* Confer with a tree to learn its true name.
-	* (INT | WIS | CHA DC 13, Safe, Focus (action, 10 minute)) Speak a tree's true name and behold its surroundings.
+	* INT | WIS | CHA DC 13, Safe, Focus (action, 10 minute)
+	* Speak a tree's true name and behold its surroundings.
 		* Invoking the name of a dead tree gives a curious vision of the vegetable afterlife.
 
 ### Yeast Master
@@ -67,7 +72,7 @@
 * Yeasty Belch (5th)
 	* STR | CON | CHA DC 13, Instant, A Close creature
 	* You emit a heady, fermented belch, and the target faints for 1d6 rounds.
-		* P [LVL | 3] vs R [TL + CON - 1]
+		* P [4 | LVL+1] vs R [Level + CON]
 		* Crit: affect targets Close to the intended one (you are immune).
 		* Botch: the fumes back up into your sinuses and you faint for 1d6 rounds.
 * Yeast Feast (7th)

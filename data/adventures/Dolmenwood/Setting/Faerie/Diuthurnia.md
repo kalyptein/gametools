@@ -11,10 +11,9 @@
 
 ## Faces
 
-* Ruler (s)
+* Ruler(s)
+	* Duke Mai-Fleur
 * Notables
-
-* Duke Mai-Fleur
 
 ## Plot Threads & Relationships
 

@@ -17,7 +17,7 @@ Wildcraft
 	* Stealth, spotting the hidden, sensing danger
 	* Tracking, counter-tracking
 	* Bushcraft (shelter-building, finding water, traps and snares, etc)
-	* Plant and animal lore, foraging, hunting, fishing, animal and training handing
+	* Plant and animal lore, foraging, hunting, fishing, animal handing and training
 
 Trophies
 * If you carry a trophy (1 slot item) from a dangerous beast or monster (mundane or magical), or display it in your home (house, hut, wagon, tent, etc), once per Long Rest, gain Inspiration when fighting, tracking, or otherwise dealing with that kind of creature.

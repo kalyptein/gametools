@@ -26,7 +26,7 @@ Fighting Style (choose 1)
 
 Talents
 * Additional Heroic Capability
-* Gain a Battle Talent
+* Gain a Battle Talent (or 2?)
 * Gain an additional Fighting Style
 * Thrice Forged in Iron
 	* Wielding iron, wearing iron, pierced by iron.  Your flesh counts as iron to faerie and their magics.  You deal +1 damage to faerie, and gain +STR | CON | CHA to resist faerie magic.  Faerie magic cannot beguile or compel your mind and spirit, though it can deceive your senses.

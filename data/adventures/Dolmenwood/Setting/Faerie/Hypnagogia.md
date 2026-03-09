@@ -3,9 +3,12 @@
 * general environment
 * means of access
 
+* dreamland, countless dream vignettes, wunderkammer chambers full of curiosities plunked out of dreams, dream-beast enclosures and menageries
+
 ## Faces
 
 * Ruler(s)
+	* The Duke Who Cherishes Dreams
 * Notables
 
 ## Plot Threads & Relationships

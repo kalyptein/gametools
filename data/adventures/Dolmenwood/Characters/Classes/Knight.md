@@ -40,14 +40,6 @@ Chivalric Code
 
 
 
-
-Means of Introduction
-* An ancestor of yours served an obscure lord of the region called Dolmenwood.  You have ancient documentation (but it's unclear which house they served) and have no prospects in the outside world.  Perhaps you will find opportunity in the land of your ancestors.
-* Wearied by the cares of the world (war, duty, etc), your sense of adventure is kindled by chivalric tales of Arthur in a land called Dolmenwood.  Then you find it to be a real place, and set forth to seek a life of errantry.
-
-
-
-
 Talents
 * Gain the other Fighting Style
 * Noblesse Oblige
@@ -91,3 +83,9 @@ Ancestor of the Round Table
 * Somewhere back in your lineage was a Knight of the Round Table.
 	* describe their personality, deeds, and eventual fate
 	* once per long rest, recall their legend and act as trained in something relating to them, or gain inspiration when facing something relating to them.
+
+
+
+Means of Introduction
+* An ancestor of yours served an obscure lord of the region called Dolmenwood.  You have ancient documentation (but it's unclear which house they served) and have no prospects in the outside world.  Perhaps you will find opportunity in the land of your ancestors.
+* Wearied by the cares of the world (war, duty, etc), your sense of adventure is kindled by chivalric tales of Arthur in a land called Dolmenwood.  Then you find it to be a real place, and set forth to seek a life of errantry.

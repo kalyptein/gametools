@@ -37,13 +37,6 @@ Holy Orders (choose 1)
 			* You are automatically protected this way, even if not properly buried.
 
 
-Means of Introduction
-* You were a member of the clergy out and about.  One night you were visited by a vision of a saint of Dolmenwood while dreaming or at vigil, calling you to seek Dolmenwood.
-* You read an obscure book about an obscure branch of the Church called the Pluratine Order, and felt drawn to seek it out.  Perhaps you have some heretical thoughts and saw their reputation as a place for some freethough.
-* You were a junior clergyman whose superiors idly sent them to investigate this obscure sect of Pluratines for questionable believes (which you might share).
-
-
-TBD
 
 Talents
 * Gain +A to cast one miracle you have accessed, or Invoke Divine Authority.
@@ -59,3 +52,12 @@ Bonuses
 * +1 to melee attacks and damage
 * +1 to ranged attacks and damage
 * +1 to holy casting checks
+
+
+
+
+
+Means of Introduction
+* You were a member of the clergy out and about.  One night you were visited by a vision of a saint of Dolmenwood while dreaming or at vigil, calling you to seek Dolmenwood.
+* You read an obscure book about an obscure branch of the Church called the Pluratine Order, and felt drawn to seek it out.  Perhaps you have some heretical thoughts and saw their reputation as a place for some freethough.
+* You were a junior clergyman whose superiors idly sent them to investigate this obscure sect of Pluratines for questionable believes (which you might share).
