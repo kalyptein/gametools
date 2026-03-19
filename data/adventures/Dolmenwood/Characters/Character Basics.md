@@ -122,20 +122,21 @@ Size
 
 Encumbrance
 
-* Slots: 10 + STR + CON
-* Readied
-	* The first half of your slots are Readied.
-		* Readied Items are accessible to use (weapons, ammo, potions, armor).
+* Free Items
+	* You can carry up to 3 Light items without occupying any slots.
+	* You can carry up to 100 coins without occupying any slots.
+	* You can carry any reasonable number of Tiny items without occupying any slots.
+* Readied Slots: 5 + (STR + CON)/2, rounding up
+	* Readied Items are accessible to use (weapons, ammo, potions, armor).
 	* If you only have readied items, you have a Light Load.
 		* +A to outrun / out-maneuver those w/ heavier loads.
-* Stowed
-	* The second half of your slots are Stowed.
-		* Stowed Items require actions to unearth in a hurry.
+* Stowed Slots: 5 + (STR + CON)/2, rounding down
+	* Stowed Items require actions to unearth in a hurry.
 	* If you have stowed items, you have a Medium Load
-		* +D to swim and sheer climb.
-* You can overflow your Stowed slots by up to half your total slots (doubling Stowed slots).
-	* If you have overflow items, you have a Heavy Load.
-		* Items in overflow take a minute to gain access to.
+		* +D to swim, jump, and sheer climb.
+* Burdening Slots: 5 + (STR + CON)/2, rounding up
+	* Burdening items take a minute to gain access to.
+	* If you have burdening items, you have a Heavy Load.
 		* Can't swim, Slowed, +D to all activities, including attack, casting, and defense.
 
 Luck & Inspiration

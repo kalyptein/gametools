@@ -2,6 +2,8 @@
 questions
 
 * Witchhunter cleric benefits good?  Kind of clunky
+	* +2 Resist vs Potency for arcane magic?
+	* Once per long rest, nullify a spell effect on yourself
 * 
 * ??? Turn Undead?  just as spell?  with my limitations placed on it?
 * 

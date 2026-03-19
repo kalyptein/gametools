@@ -516,5 +516,5 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 * Choose 1:
 	* (Ritual (quick)) A subject that has died within the last 10 minutes is restored to Life with 1 Grit.  Mortal wounds are healed, but a maimed body is not otherwise restored.
 	* (Ritual (Respite during a Sabbath on holy ground, 1000 gp in materials)) A maimed body and/or mind is restored to wholeness: limbs regrown, eyes restored, madness healed, etc.
-		* A dead subject can also be resurrected, if it is within the divine plan (usually reserved for heroes with a destiny, the truly innocent, etc).  If it is possible, the invoker must also sacrifice 3 years of their life, and then roll for Tampering With Mortality.
+		* A dead subject can be resurrected, if it is within the divine plan (usually reserved for heroes with a destiny, the truly innocent, etc).  If permitted, the invoker must also sacrifice 1d3 Constitution, and then roll for Tampering With Mortality.
 * A subject returned from death is fatigued (+D to checks) until after a Long Rest.

@@ -26,6 +26,13 @@ Pushing
 Training
 * A character who is trained in a field of endeavor (e.g. stealth, diplomacy, etc) gets advantage on related checks.
 
+Resistance
+* Apply the most appropriate option when dealing with the phenomenon being resisted.
+	* Roll to resist with advantage.
+	* Take +2 to your Resist value.
+	* Take half damage.
+* With resistance applying to a whole stat (e.g. resistance with DEX), only apply one of the first 2 options.
+
 Momentum
 * if you keep working at a task that can be retried, take +A on subsequent rounds
 
@@ -39,6 +46,9 @@ Group Checks
 	* Natural 1 always fails; natural 20 always succeeds
 	* Add an appropriate MOD to your save roll.  Use the single best value if multiple options apply.
 
+
+* if you have +A on certain kinds of actions, you don't need to roll.  if countered by +D, this ceases to apply
+	* e.g. with +A to the climb (from training, gear, etc), rough climbing at half speed or less doesn't require a check.  Moving faster imposes +D, rain might impose +D, etc.
 
 
 ## Luck
@@ -63,37 +73,18 @@ Distance
 
 
 
+## Recovery
 
-Encumbrance
+* once per long rest, you can eat an extra ration and then do one of the following:
+	* after a Short Rest, refresh your Guard
+	* after a Long Rest, heal 1dHD+CON Grit
+	* after a Long Rest, heal 1 damage per stat (if multiple stats are damaged), or 2 stat damage (if only one stat is damaged).
+		* Grit and stat damage don't otherwise recover in the field
+* After a Long Rest, fully restore Guard.
+* After a Respite, restore (2dHD + CON) Grit and d3 damage per stat.  If tended by a trained healer, regain +1dHD and +1 damage per stat.
 
+* Most magical healing can only restore Guard.  Consumables (healing potions, healing herbs, etc) can heal Grit and an equal amount of Guard (excess Grit also goes into Guard).
 
-
-Survival
-
-
-
-* if you have +A on certain kinds of actions, you don't need to roll.  if countered by +D, this ceases to apply
-	* e.g. with +A to the climb (from training, gear, etc), rough climbing at half speed or less doesn't require a check.  Moving faster imposes +D, rain might impose +D, etc.
-
-
-
-
-
-Climbing
-* STR or DEX to move at half speed.  Fall if you fail by 5 or more.
-	* Moving more than half speed gives disadvantage.
-	* 
-	* Rough climbing: auto-success if you have +A.
-	* Sheer if you lack training, take +D.
-	* 
-* 1d6 damage per 10' fallen.
-	* DEX resist for half damage if there are things to grab onto to slow yourself, or other ways to break your fall.
-
-Swimming
-* Swim at half speed.  STR check if in rough waters.
-
-Breath
-* CON check each round to hold your breath, d6 damage on failure.
 
 Resting
 * Quick: 1 minute
@@ -101,16 +92,4 @@ Resting
 * Short: 1 hour, have rations but don't consume
 * Long: 8 hours, consume a ration
 * Respite: 24 hours of rest and relaxation in civilized comfort
-
-Conditions
-* Safe: no hazard rolls
-* Unsafe
-* Risky
-* Deadly
-
-Stealth
-
-Searching
-
-Surprise
 

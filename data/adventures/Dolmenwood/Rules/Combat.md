@@ -130,13 +130,3 @@ recovery idea
 
 
 
-## Recovery
-
-* once per long rest, you can eat an extra ration
-	* eat during a short rest: refresh your Guard
-	* eat during a long rest, either heal 1dHD Grit or heal 1 stat damage per stat (if multiple are damaged) or 2 stat damage (if only 1 stat is damaged).
-		* Grit and stat damage don't otherwise recover in the field
-* After a Long Rest, fully restore Guard.
-* After a Respite, restore (2dHD + CON) Grit.  If tended by a trained healer, regain +1dHD.
-
-* Most magical healing can only restore Guard.  Consumables (healing potions, healing herbs, etc) can heal Grit and an equal amount of Guard (excess Grit also goes into Guard).

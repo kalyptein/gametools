@@ -34,6 +34,15 @@ Talents
 * Wyrdmarked
 	* Choose a T1-2 arcane spell.  You have a magical birthmark that lets you cast it using INT, CON, or CHA.
 	* (this is a hereditary gift from the old Drune masters)
+* Child of Pan
+	* You can Bleat.
+
+Bleat
+* STR | CON | CHA, Tier 2, Near listeners
+* You let out a eerie, howling bleat that shocks and startles listeners.
+	* For 1 round, targets cannot approach you and have +D to stat checks, including casting and attacking, but not defense.
+	* P [LVL+4] vs R [Level+CHA]
+	* Botch: it goes off, but your voice is so strained you are mute for an hour.
 
 Bonus
 - Add 2 points among Strength and Constitution.
@@ -41,7 +50,6 @@ Bonus
     - +2 HP. Increase Horn bonus melee damage to +2. Your horns deal d6.
 
 
-??? Child of Pan
 
 
 Means of Introduction

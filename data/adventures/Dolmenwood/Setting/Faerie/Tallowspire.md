@@ -9,6 +9,12 @@
 * 
 * endless baroque city and catacombs
 
+* infinite city, catacombs from the dawn of time, aethetics / beauty
+* info from the dead or the infinite archives?  beauty
+	* summon archivist, summon artist, ???
+	* summon a feature from the city which conveys an emotion
+	* 
+
 ## Faces
 
 * Ruler(s)

@@ -13,7 +13,7 @@ Skullduggery
 	* Streetwise, finding shady people and deals, appraising value, fencing goods
 	* Deciphering cryptic messages and documents, sketching maps
 	* Disguises, forgery
-	* Resisting with DEX
+* You have resistance with DEX.
 
 Backstab
 * When a target is unaware of your incoming finesse, thrown, or missile attack, deal +2d damage.  If they are aware of you, but you have +A to attack or they are otherwise distracted (fighting an ally, etc), deal +2 damage.
@@ -42,7 +42,7 @@ Talents
     - Training in poisons (with Apothecary, also learn 2 poison recipes).
     - (with Apothecary) +A when making 2 recipes.
 * Stolen Crest
-	* You can gain crests for a single Faerie Rune.  Somehow you stole the equivalent of a Knave's Crest from the Realm itself, and it will occasionally trouble in return.  You are NOT Bound By Faerie Law.
+	* You can gain crests for a single Faerie Rune.  Somehow you stole the equivalent of a Knave's Crest from the Realm itself, and it will occasionally trouble in return.  You are NOT Bound By Faerie Law (unless you already were).
 * Streetwise
 	* +A to downtime checks involving criminals, outcasts, rumors, markets, travel, or skullduggery.  +1 to carousing.
 * The Penitent Thief
@@ -53,6 +53,8 @@ Talents
 	* Gain 2 sub-disciplines from Wildcraft.
 * Always on Edge
 	* Take +A to initiative and you can't be surprised.
+* Pack-Rat
+	* When you expend a use of a consumable item carried since your last Long Rest (arrows, oil, rations), roll d6.  On a 5+, regain that use.
 * Gain a Racial Talent
 
 Bonus
@@ -60,7 +62,7 @@ Bonus
 * Add 2 points to Dexterity or +1 to finesse and ranged attacks
 * Add 2 points among Dexterity, Wisdom, and Charisma
 * Add 1 point to three different stats
-* Take +A when resisting with WIS
+* You have resistance with WIS.
 * Gain a Racial Bonus
 
 

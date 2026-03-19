@@ -6,11 +6,11 @@ Hauler
 * Add CON (min 0) to your stowed inventory slots
 
 Heroic Capability (choose 1)
-* Mighty: you are trained in feats of strength and grappling, and when resisting with STR.
-* Swift: you are trained in feats of agility and evasion, and when resisting with DEX.
-* Implacable: you are trained in feats of labor and endurance, and when resisting with CON.
-* Cunning: you are trained in tactics, strategy, and maneuver, and when resisting with WIS.
-* Glorious: you are trained in leadership, intimidation, and inspiration, and when resisting with CHA.
+* Mighty: you are trained in feats of strength and grappling, and have resistance with STR.
+* Swift: you are trained in feats of agility and evasion, and have resistance with DEX.
+* Implacable: you are trained in feats of labor and endurance, and have resistance with CON.
+* Cunning: you are trained in tactics, strategy, and maneuver, and have resistance with WIS.
+* Glorious: you are trained in leadership, intimidation, and inspiration, and have resistance with CHA.
 
 Fighting Style (choose 1)
 * Gain (LVL+1) to attack and multiple attacks when fighting with this style.
@@ -25,46 +25,55 @@ Fighting Style (choose 1)
 
 
 Talents
-* Additional Heroic Capability
-* Gain a Battle Talent (or 2?)
+* Gain an additional Heroic Capability.
 * Gain an additional Fighting Style
+* 
+* ??? Gain a Battle Talent (or 2?)
+* 
+* Gain a Metaphysical Talent (only 1 can be taken)
+* Gain a Racial Talent
+
+Metaphysical Talents
 * Thrice Forged in Iron
 	* Wielding iron, wearing iron, pierced by iron.  Your flesh counts as iron to faerie and their magics.  You deal +1 damage to faerie, and gain +STR | CON | CHA to resist faerie magic.  Faerie magic cannot beguile or compel your mind and spirit, though it can deceive your senses.
-* Penitence For Blood
+* Path of Peace
 	* Being faithful, virtuous, and taking up the Friar's vow of Poverty, a saint favors you.  You can gain and invoke their miracle (and relics), up to Tier 3.  If you forgo violence at risk or cost to yourself, gain Luck.
 
 Bonus
-* Add 2 among Strength, Dexterity, Constitution or the stat from your Heroic Capability.
-* +1 to attacks
-* +1 to weapon damage
-* Add 2 among any stats
+* Add 2 among Strength, Dexterity, Constitution or the stat from a Heroic Capability.
+* +1 to attacks or +1 to weapon damage
 * Armor Mastery: choose a weight of armor; +1 defense when wearing that.
+* Add 2 among any stats
+* Gain a Racial Bonus
 
 Battle Talents
-* Shieldwall
-	* When fighting with shield-bearing allies on either side of you, +1 defense.
+* Shield Wall
+	* When fighting with shield-bearing allies on either side of you, you all take +1 defense.
 	* As an action, enter shielding stance.  Your base defense (armor & shield) increases to +10.
 * Main Gauche
 	* Gain both the offensive and defensive benefits of dual wielding at the same time.
-* Flawless Parry (STR | DEX DC attacker's roll, Limited (Brief), Refresh (Brief))
-	* An attack that is about to hit you is deflected.  Fumble: the attack deals +1d damage.
+* Flawless Parry
+	* STR | DEX DC (attack total), Limited (10 minutes), Refresh (Brief)
+	* An attack that is about to hit you is deflected.
+		* Botch: the attack deals +1d damage.
 * Riposte
-	* When you strike an enemy who missed an attack on you in melee since your prior turn, deal +STR | DEX damage.
+	* When you strike an enemy who missed a melee attack on you since your prior turn, deal +STR | DEX damage (for forceful | finesse attacks).
 * Flourish
 	* (STR | DEX | CON) times per Long Rest, when you damage a target, regain 1d8 Guard.
 * Relentless
-	* (CON) times per Long Rest, when you would drop to 0 hp, roll CON DC 12.  If successful, drop to 1 Guard instead.  +2 to stabilization rolls.
+	* (CON) times per Long Rest, when you would drop to 0 Grit, roll CON DC 12.  If successful, drop to 1 Grit instead.  +2 to stabilization rolls.
 * Fearsome
 	* Enemies facing you in battle make morale checks with +D.
 * Face Me
-	* When you damage a foe with a melee attack, you can mark them.  They have +D on attacks that don't include you until your next turn.  You can mark enemy at a time.
+	* When you damage a foe with a melee attack, you can mark them.  They have +D on attacks that don't include you until your next turn.  You can mark 1 enemy at a time.
 * Battle Fury
-	* (Minor action, STR | CON | CHA DC 12, self only, Safe, Focus (round), Limited (brief), Refresh (short))
-	* Your focused bloodlust makes you immune to fear and charm, grants +A to feats of strength and forceful attacks, and grants +1d4 damage with forceful weapons.  If you haven't attacked someone or performed a feat of destruction by the end of your turn, your rage ends.
+	* STR | CON | CHA DC 12, Casting (minor), Safe, Focus (round), Refresh (short), Self
+	* Bloodlust makes you immune to fear and charm, grants +A to feats of strength and forceful attacks, and +1d4 damage with forceful weapons.
+		* If you haven't attempted a feat of destruction or violence by the end of your turn, your rage ends.
 * Heroic Surge
 	* Once per Long Rest, you gain an extra turn at some point following your normal turn during a round.  Detrimental effects on you don't happen again.
 * War Cry
-	* One per Long Rest, you can utter a war cry.  Allies Nearby have +A to resist fear and gain Inspiration until the end of their next turn.
+	* One per Short Rest, you can utter a war cry.  You and Allies Nearby have resistance to fear, and gain Inspiration for battle until the end of their next turn.
 
 
 

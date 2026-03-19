@@ -26,7 +26,7 @@ A practitioner of the ancient ways of Gwyrae, a hidden religion that learned mag
 Herbalist
 * You have the Apothecary talent and know 3 random recipes.
 * When you administer a dose of herb or fungi, you only use half as much as normal.
-* You are trained in medicine and foraging.
+* You are trained in medicine, brewing, and foraging.
 
 Witches Cant
 * You know the secret language, signs, and ways of Gwyrae and its practitioners.
@@ -49,35 +49,46 @@ Astrologer
 
 
 Talents
+* Arcane Mastery
+	* Gain +A to cast one spell you know.
 * Gain a Familiar
 	* You have allied spirit that takes the form of a small animal such as a raven, rat, or frog who serves you loyally. It can speak Common.  On a solstice or equinox, you can work a ritual to change its animal form.
 	* It can be the source or of spells you cast; treat it as yourself for determining spell ranges.
 	* If it dies, you take 2d4 damage and suffer +D until after a Long Rest.  You call it back with a ritual under a full or new moon.
-* Apothecary
-	* Trained in poisons
-	* Gain +A with 2 Apothecary recipes.
-* Wormtongue: you are trained in persuasion, lying, rumor-mongering, and manipulation.
-* Gain a metaphysical Talent (they are incompatible with one another, so only 1 can ever be taken)
+* * Mixology (choose 1)
+	* Gain Apothecary and learn 2 recipes
+	* Training in poisons (with Apothecary, also learn 2 poison recipes).
+	* (with Apothecary) +A when making 2 recipes.
+* Wormtongue
+	* You are trained in persuasion, lying, rumor-mongering, and manipulation.
+* Iron Willed
+	* You have resistance with CHA.  (CHA) times per Long Rest, you can turn a failed Focus roll into a success.
+* Shrewd
+	* You are trained in spotting danger and reading people, and have resistance with WIS.
+* Gain a metaphysical Talent (only 1 can be taken)
+* Gain a Racial Talent
 
 Metaphysical Talents
 * Gwyrigon's Blessing
-	* You forge a pact with a Gwyrigon.  So long as continue to fulfill your end, you gain its boon.
-* Feytouched
+	* You forge a pact with a Gwyrigon.  So long as continue to fulfill your end, you gain its boon(s).
+* 
+* ??? Feytouched
 	* You can gain crests for a single Faerie Rune.  Start with 1 crest, either Knave's, Knight's, or King's.  You are Bound By Faerie Law.
 		* If King's crest, then some lord of the realm has taken a particular interest in you.
+* 
 * Wisdom of Solomon
-	* Being faithful, virtuous, and taking up the Friar's vow of Poverty, a saint favors you.  You can gain and invoke their miracle, up to Tier 4.  You can use any saint's relics to invoke their miracles.  Your Sense Magic can detect holiness and unholiness.
+	* Being faithful, virtuous, and taking up the Friar's vow of Poverty, a saint favors you.  You can gain and invoke their miracle, up to Tier 4.  You can use any saint's relics to invoke their miracles.
 * Cambion
-	* A trace of infernal blood or a quarter-made pact with a demon empowers you.  Gain access to the Devil's Own Luck, only for casting spells and dealing with magical matters.
+	* A trace of infernal blood or a half-formed pact with a demon empowers you.  Gain access to the Devil's Own Luck, only for casting spells and dealing with magical matters.
 		* Your critical failure effects will tend toward the interventions and intrusions of Hell.
 	* Your magic has a whiff of brimstone.  Demons might pause to wonder if you are a diabolist; so might witchhunters.
 	* You are Outside the Bounds of Heaven.  Odd, but usually subtle, phenomena occur when you set foot on holy ground or come near relics.  Sense Holiness can detect your corruption.
 
 Bonus
 * Add 2 to Intelligence or +1 to casting arcane magic.
-* Add 2 to Intelligence, Wisdom, or Charisma.
-* Add 2 points across any stat(s)
-* Gain +A to cast one spell you know.
+* Add 2 among Intelligence, Wisdom, or Charisma.
+* Add 2 points among any stats.
+* Gain a Racial Bonus.
 
 
 

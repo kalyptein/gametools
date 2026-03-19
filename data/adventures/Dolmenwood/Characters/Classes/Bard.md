@@ -48,7 +48,7 @@ Talents
 * Warrior-Poet
 	* When a creature Nearby falls in battle, unleash a verse an heal yourself or a Nearby ally 1d4 Guard.  If an ally rises from having fallen, heal then 1d6 Guard.
 * Music's Aegis
-	* While singing your Countersong, you personally have +A to resist all magic.
+	* While singing your Countersong, you personally have resistance to all magic..
 * Sense Magic
 	* as a Magician.
 * Gain a Racial Talent

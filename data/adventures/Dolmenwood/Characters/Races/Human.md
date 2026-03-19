@@ -10,6 +10,7 @@ Earthborn
 * Heed your instincts to briefly sense Nearby supernatural / otherworldly presences or forces (hauntings, holiness, corruption), gaining a vibe of what and a rough impression of where.  Roll WIS DC 11; on failure, your inner eye is dimmed until after a Long Rest.
 
 
+Advancement
 
 Talents
 * Gain 2 Glamours (if able to use glamours).
@@ -19,8 +20,19 @@ Talents
 	* You are trained in handling and training animals.
 	* Animal Companion
 		* As a downtime action, forge a connection with an animal up to about the size of a deer or hound.  It is loyal, clever, and fearless in aiding you.  It gains +LVL to its own levels (max of your level).
+* Knowledge of Good and Evil
+	* You are trained in lying, manipulation, and reading a person.
+* Fortune Seeker
+	* You are trained in assessing value.
+	* Heed your instincts to sense if a location or social interaction you are in holds some unobvious prospect for gain (a useful ally, a hidden treasure, a secret door) .  Know know if, but not where or how, through the GM may offer a hint.  Roll WIS DC 11; on failure, your instinct is dulled until after a Long Rest.
+		* The GM can trigger this for you if they like, with no need for a roll.
+* Trust Your Instincts
+	* Roll Earthborn and/or Fortune Seeker with +A.
 
-
+Bonus
+* Adaptable: gain 1 point to 3 separate stats
+* Red-Handed Seeker of Power
+	* Gain the other choice between Red-Handed and Seeker of Power.
 
 
 
@@ -36,18 +48,14 @@ Means of Introduction
 
 
 
-??? Knowledge of Good and Evil
-* cleric's sense holiness?  judge of character?
-* use Earthborn (or a separate, similar power) to tell if someone is deceiving you?
+
 
 
 Seventh Son of a Seventh Son
 * some arcane power?
+* england and ireland always attribute white magic healing as the power
+* 
+* magic resistance?
 
-Fortune Seeker
-* a nose for treasure and opportunity
 
 
-Bonus
-* Adaptable: gain 1 point to 3 separate stats
-* Gain the other choice of Red-Handed and Seeker of Power.

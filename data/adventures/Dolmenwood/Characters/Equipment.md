@@ -6,9 +6,9 @@
 * Leather
 	* (10 gp, 11+DEX def, light)
 * Chain
-	* (100 gp, 13+DEX def, medium, +D swim, stealth, acrobatics)
+	* (100 gp, 13+DEX def, medium, +D swim, move silently, acrobatics)
 * Plate
-	* (200 gp, 15 def, heavy, no swim, +D stealth, acrobatics)
+	* (200 gp, 15 def, heavy, no swim, +D move silently, acrobatics)
 
 ??? Full Plate (1000 gp, 17 def, heavy)
 

@@ -19,6 +19,21 @@
 * 
 * 
 
+* In the Goblin Market...
+	* The Goblin King and his servants keep the peace, enforce neutrality, and see that honest deals (to the letter of the agreement) are upheld.
+	* All visitors are expected to make at least one transaction each day, or risk the ire of the locals.
+	* All manner of goods as services are available.
+		* Refreshment, lodgings, and luxury.
+		* Hiring experts and craftsmen (they generally won't leave the Market, or if so, only briefly).
+		* Change money and gems for a reasonable surcharge.
+		* Hire mercenaries (loyalty and behavior not guaranteed by Market).
+		* Buy and sell mundane and magical items.
+		* Hire messengers and couriers.
+		* Seek audience with important personages here on neutral ground.
+	* All forms of legal tender are accepted: coin, gems, magic items, information, favors, promises of service, memories, dreams, emotions, magical reagents, secrets, faces, stolen children, True Names, etc.  Each merchant is the judge of what they are interested in.
+
+
+
 ## Faces
 
 * Ruler(s)

@@ -42,7 +42,7 @@ Notes
 * Knave's and Knight's Crests are physical items and can be lost.  Multiple Knave Crests and/or multple Knight's Crests only count as one of their type, but offer redundancy.
 * All permanent magic items tied to a Faerie Realm, preexisting or self-crafted, count as Crests of a rank commensurate with their power.
 * To "possess" a Knave's or Knight's Crest, it can be physically on you, or safely ensconced in your sanctum (home, etc) or a trove untouched by any other.
-* Faerie are bound to their rank, and can hold or bestow a Crest of another rank, nor compel a subordinate to give one.
+* Faerie are bound to their rank, and cannot hold or bestow a Crest of another rank, nor compel a subordinate to give one.
 * If you have more than 5 Realm Crests for a Realm, additional gifts from it will find their way to you: retainers, demesnes, items, boons, etc.
 
 #### Free Crests
@@ -62,7 +62,7 @@ Notes
 ### Invoking Runes
 
 * Runes are activated through an act of will (taking an action), without gesture or speech, except as noted.  This does Provoke.
-* Runes always manifest and don't require a casting check, but sometimes involve rolls for efficacy.
+* Runes always manifest and don't require a casting check, but sometimes involve CHA rolls for efficacy.
 
 Usage by Level
 * 1-4) Lesser (once a day), Greater (once a season), Mighty (once ever)
@@ -243,9 +243,7 @@ Usage by Level
 
 Realms, Rulers, and Runes
 
-* 
-* The Jingling Rune / Rune of Coins (??? Goblindun)
-* 
+* The Jingling Rune / Rune of Coins (Goblintown)
 * The Horned Rune / Rune of the Hunt (Diuthurnia)
 * The Bleak Rune / Rune of Doom (Gloomhold)
 * The Gossamer Rune / Rune of Dreams (Hypnagogia)
@@ -266,114 +264,6 @@ Unusual Runes
 * The Scented Rune / Rune of Falling Water (Baths of Astralon)
 * The Rune of As You Wish (unknown)
 
-
-
-* ??? Goblinhold - badlands and swamp, warrens, the market
-	* ??? rename, we already have Gloomhold: Goblinburg?  Goblinshire? Goblinton? Goblinwold/weald?
-	* give the Goblin King a name?
-	* 
-	* goblindun (fort)
-	* goblinbolg (sack)
-	* goblindene (a deep valley)
-	* goblinwend
-
-
-* realm ???
-* aka The Rune of ???
-* Crests
-	* Faerie: 
-		* Knave: 
-		* Knight: 
-		* King: 
-	* Features
-	* Magic Items
-
-
-### The Jingling Rune *
-
-* Goblinhold
-* aka The Rune of Coins
-* Crests
-	* Faerie: goblins, those who commonly deal with goblins or the Market
-		* Knave
-		* Knight
-		* King: The Goblin King
-	* Features
-	* Magic Items
-
-Fairy Gold (Lesser)
-
-* 2d100 gp, in whatever denominations and currencies you wish, appears in a purse, bag, box, etc that you touch.  It is real in all ways.
-* It is snatched back to the Goblin Vaults after 1d6 hours.
-
-Summon Goblin Merchant (Greater)
-
-* You issue a request into a hole, well, pot, doorway, hollow stump, etc, and a goblin merchant pops out, bearing an enormous, overstuffed sack.
-	* They spare up to 1d6 hours of their time, but usually depart as soon as dealings are concluded (an enticing deal might encourage them to linger a bit longer).  They flee at any sign of danger, disappearing back into any hole in reach.
-	* Merchants generally cover certain locales (towns, regions, roads, etc), broad or narrow, and handle summons from within those places.
-* Merchant services include...
-	* Selling mundane goods (food, drink, adventuring gear, household goods, arms and armor, pipeweed, etc) at normal price.
-	* Buying and selling consumable magic items (with a random handful of selections), including potions, tokens, herbs, reagents, etc.
-	* Buying treasure (gems, art, etc) but not mundane gear, weapons, or armor.
-	* Sometimes they have information, maps, or secrets, and might buy information that could lead to profit.
-	* They have tools and a portable forge, and can do simple repairs or modifications to gear.
-	* Change money (coins and gems) and hold a balance for you in their own vault (may be drawn on for purchases, or withdrawn later).
-		* If part of another deal, or if you've been a good customer, they will do this free of charge, or else for 5% of the value.
-	* Goods may be stored with the merchant for up to a year and a day, and retrieved for a surcharge of 10% of their value (more if particularly bulky or troublesome), or 10 gp, whichever is greater.
-* If a merchant is mistreated, the Goblin Market will likely deny future calls, and may dispatch goblin thieves to steal the offender's possessions or ruin their livelihood until the harm has been repaid sevenfold (as they reckon it).
-	* Restitution is likely to be very expensive, but enough money will be persuasive.
-* The wards of the Market protect a merchant from magical manipulation, charm, or illusory deception, and they can spot lies or frauds most of the time.
-* Merchants don't offer charity and always drive a hard bargain, but for a good customer, they are happy to offer a line of credit or accept a promise of future payment.
-
-Gate of the Goblin Market (Mighty)
-
-* You enchant a door, hole in the wall, cave, freestanding gate, etc to become a gate to the Goblin Market.  It remains enchanted as long as you are visible through it.
-	* If you hold it open too long, or bring through too many people, the locals might start getting irate.
-* In the Goblin Market...
-	* The Goblin King and his servants keep the peace, enforce neutrality, and see that honest deals (to the letter of the agreement) are upheld.
-	* All visitors are expected to make at least one transaction each day, or risk the ire of the locals.
-	* All manner of goods as services are available.
-		* Refreshment, lodgings, and luxury.
-		* Hiring experts and craftsmen (they generally won't leave the Market, or if so, only briefly).
-		* Change money and gems for a reasonable surcharge.
-		* Hire mercenaries (loyalty and behavior not guaranteed by Market).
-		* Buy and sell mundane and magical items.
-		* Hire messengers and couriers.
-		* Seek audience with important personages here on neutral ground.
-	* All forms of legal tender are accepted: coin, gems, magic items, information, favors, promises of service, memories, dreams, emotions, magical reagents, secrets, faces, stolen children, True Names, etc.  Each merchant is the judge of what they are interested in.
-* To depart, you can reopen the exact gate you entered through, or a suitable candidate nearby, or you can leave onto a faerie road that touches Goblinhold.
-
-### Horned Rune
-
-* Diuthurnia
-* aka The Rune of the Hunt
-* Crests
-	* Faerie: faerie hounds and steeds, elf hunters
-		* Knave: faerie hounds and steeds
-		* Knight: 
-		* King: Duke Mai-Fleur
-	* Features
-	* Magic Items
-
-Summon Fairy Hound
-
-* Lesser, until dawn, Close
-* A loyal and enthusiastic faerie hound appears, serves until dawn, then vanishes.  It aids in any capacity, but will not obey suicidal commands.
-	* Fairy Hound (Small Fairy—Semi-intelligent—neutral) Level 1 AC 12 HP 1d8 (4) Saves D12 R13 H14 B15 S16 Att Bite (+0, 1d6) Speed 50 Morale 8 XP 10
-
-Summon Fairy Steed
-
-* Greater, until dawn, Close
-* A dashing faerie horse—fleet of foot and charming of wit—appears, serves until dawn, then vanishes.  It aids in any capacity, but will not obey suicidal commands.
-	* Fairy Steed (large Fairy—Sentient—neutral) Level 2 AC 13 HP 2d8 (9) Saves D12 R13 H14 B15 S16 Att None Speed 80 Morale 8 XP 20
-
-Summon Wild Hunt
-
-* Mighty, until successful or dawn, Nearby
-* The blasting of ghostly horns summons forth a hunting host from the wild woods of Fairy (4d6 fairy hounds, 4d20 elf hunters on foot, 4d20 elf hunters mounted on fairy horses, and 1d6 goblin horn-blowers).   The host hunts a quarry you name.
-	* Fairy Steed and Fairy Hound (as above)
-	* Elf Hunter (Medium Fairy—Sentient—neutral) Level 1 AC 12 HP 1d8 (4) Saves D12 R13 H14 B15 S16 Att Shortbow (+0, 1d6, range 50′/100′/150′) or shortsword (+0, 1d6) Speed 40 Morale 9 XP 10
-	* Goblin Hornblower (Small Fairy—Sentient—neutral) Level 1 AC 12 HP 1d8 (4) Saves D12 R13 H14 B15 S16 Att Dagger (+0, 1d4) Speed 40 Morale 8 XP 10
 
 ### The Bleak Rune
 
@@ -408,44 +298,6 @@ Adam's Flesh and Adam's Bone
 * Mighty, 1 round, Mortals and beasts in a Near area within Far
 * A cloud of gloom brings the fate of all mortal things.  Those of Level 6 or less die immediately. Survivors take 4d6 damage.  Targets of Level 9 or less that end the round within the gloom die.
 
-### The Gossamer Rune *
-
-* Hypnagogia
-* aka The Rune of Dreams
-* Crests
-	* Faerie: 
-		* Knave: dreamlings
-		* Knight: 
-		* King: The Duke Who Cherishes Dreams
-	* Features
-	* Magic Items
-
-Borrowed Phantom *
-
-* Lesser
-* You pull an image from dream, functioning as the Lesser arcane spell Phantasm.
-* It must be of something that someone, somewhere, has dreamed of before (which is most things).
-
-Summon Dreamling
-
-* Greater, until dawn, Close
-* You call forth a dreamling, a shapeshifting being who inhabits dream, who serves obediently.
-	* Dreamling (medium Fairy—Sentient—neutral) Level 3 AC 14 HP 3d8 (13) Saves D11 R12 H13 B14 S15 Att (+0, 1d6) Speed 40 Morale 12 XP 90
-		* Dream Walk: can enter Dream and seek the dreams of a named or precisely specified person.  Takes the whole night, returning shortly before dawn to  report.  It can deliver a message and return a reply (perhaps muddled due to the sleeping recipient), shape dreams to convey a drama, or spy on their dreams to get a general sense of what they've been thinking, doing, etc.
-		* Shapeshift: into beasts, mortals, or faerie of Small or Medium size.  Can't precisely duplicate a specific person.  Has the senses and physical abilities of the form, but none of its other abilities (venom, magic, etc).  Can outfit itself with glamours of clothing, weapons, etc.  Takes the form of a warrior or beast to fight.
-		* Excellent Actor: speaks all languages (but can't read or write) and has an intuitive sense for fitting in with or playing counter to expectations (passing as a type of person, having the right etiquette).
-		* Glamours: awe, mirth and malice, moon-sight
-		* Immune to sleep, fear, and charm
-
-Dream Ship
-
-* Mighty, until arrival, a Near-width volume within Far
-* You call the White Ship of Dreams, a magnificent phantasmagoric galleon, can sail anywhere in the cosmos.  It arrives shortly thereafter, sailing down from the sky, or even appearing within a deep cavern or interior hall vast enough to fit it.
-* It takes on the caster and companions and bears them to another destination.
-	* The voyagers enjoy luxurious hospitality from the Captain, and behold many wondrous sights as they travel.  The voyage appears to take 1d6 hours, but only 10 minutes pass in the world.
-	* The ship can reach anywhere on Earth and such distant lands as the domains of Faerie, the reaches of Hell, and the City of Brass.  Only Heaven itself, the Hearts of the Faerie Realms, and places warded by mighty magics, are beyond reach.
-	* The Captain offers advice to travelers and outfits them with mundane gear and provisions.
-
 ### The Blossoming Rune
 
 * The Blossom Fields
@@ -458,23 +310,405 @@ Dream Ship
 	* Features
 	* Magic Items
 
-Blossom's Nectar (Lesser)
+Blossom's Nectar
 
 * Lesser, until consumed or 1 day, A Close vessel
 * Summons a cup's worth of sweet liquid.  Drinking or being anointed with it heals 1d6+CHA Guard.  Drinking it also satisfies thirst for the day.
 
-Cleansing Draught (Greater)
+Cleansing Draught
 
 * Greater, until consumed or 1 day, A Close vessel
 * Summons nectar like the Lesser Rune, but whose use also acts like the miracle Cure Affliction.
 
-Unravel Death (Mighty)
+Unravel Death
 
 * Mighty, until consumed or 1 day, A Close vessel
 * Summons a cup's worth of luminous liquid.  If used to anoint a mortal, demi-fey, or faerie who died within the last 7 days, they return to life.
 	* The revived one is frail and bedridden until they get a full week of Respite.
 
-### The Unkind Rune *
+### The Frigid Rune
+
+* Frigia
+* aka The Rune of Winter
+* Crests
+	* Faerie: frost elves
+		* Knave: 
+		* Knight: 
+		* King: The Cold Prince
+	* Features
+	* Magic Items
+
+Frost Wind
+
+* Lesser, 1 round, Emanating from you, a Close circle, Near cone, or Near line
+* A gust of chilling wind and stinging flecks of ice fills the area, blocking sight.
+	* Those struck by the gale are shoved (Close) and flung prone if they fail a STR DC 12 check.
+	* Those who enter or start their turn within take (CHA)d6 frost.  You are immune.
+	* Water freezes, thick enough to walk on.  Mundane, non-evergreen plants wither and crumble.
+
+Winter Storm
+
+* Greater, A Near area within Far
+* Choose 1:
+	* (Focus (round)) Hail and sleet pelt the area, blindingly thick.  Creatures take 2d6 frost each turn they start within.  The ground becomes coated with ice until it melts naturally.  Creatures moving over it in haste roll DEX DC 15 or slip.
+	* (12 rounds) Snow falls in the area more gradually, dealing 1d4 frost to creatures each turn they start within.  It accumulates and freezes into shapes as you direct, forming walls, mounds, ramps, etc.  Once the magic ends, it melts naturally.
+
+Creeping Frost
+
+* Mighty, seasonal duration, A Near area adjacent to you
+* You summon glacial ice from the heart of Frigia.
+	* Each round, the ice creeps Close in the direction commanded, moving freely over terrain, water (which freezes), and obstacles.  It leaves a trail of ice and can build up structures of ice (which it can climb), up to a Close volume each round.
+		* It can't pass a barrier of flame, but can snuff out small campfire-sized flames.
+	* Creatures of Level 9 or less caught in the freezing tide are instantly frozen solid.  Higher level creatures take 3d8 frost each turn.
+	* Wood, metal, and masonry become brittle.
+* The creeping ice persists 100 rounds in summer, 150 in spring or autumn, and 200 in winter.  Afterward, anything frozen thaws at the normal rate.
+
+### The Gossamer Rune
+
+* Hypnagogia
+* aka The Rune of Dreams
+* Crests
+	* Faerie: 
+		* Knave: dreamlings
+		* Knight: 
+		* King: The Duke Who Cherishes Dreams
+	* Features
+	* Magic Items
+
+Borrowed Phantom
+
+* Lesser, Focus (10 minutes), Far
+* You plunk from dream an illusory creature, object, or scene.  It looks, sounds, and smells real, but is harmless and revealed as false upon touch.  It must be of something that someone, somewhere, has dreamed of before (which is most things).
+	* If suspicious, a creature can inspect the illusion at a distance and make an opposed roll of WIS against your CHA.  Success allows them to spot subtle tells of its unreality.
+
+Summon Dreamling
+
+* Greater, until dawn, Close
+* You call forth a dreamling, a dream-dwelling shapeshifter, which serves obediently.
+	* Dreamling (medium Fairy—Sentient—neutral) Level 3 AC 14 HP 3d8 (13) Saves D11 R12 H13 B14 S15 Att (+0, 1d6) Speed 40 Morale 12 XP 90
+		* Dream Walk: can spend a night in Dream, seeking the dreams of a precisely specified person.  It can deliver a message (and return a reply, perhaps muddled due to the sleeping recipient), stage a drama in dream, spy on dreams, etc.
+		* Shapeshift: into beasts, mortals, or faerie of Small or Medium size.  Can't precisely duplicate a specific person.  Has the senses and physical abilities of the form, but none of its other abilities (venom, magic, etc).  Can outfit itself with glamours of clothing, weapons, etc.  Takes the form of a warrior or beast to fight.
+		* Excellent Actor: speaks all languages (but can't read or write) and has an intuitive sense for fitting in with or playing counter to expectations (passing as a type of person, having the right etiquette).
+		* Glamours: awe, mirth and malice, moon-sight, disguise object
+		* Immune to sleep, fear, and charm
+
+Dream Ship
+
+* Mighty, until arrival, a Near-width volume within Far
+* You call the White Ship of Dreams, a magnificent phantasmagoric galleon, can sail anywhere in the cosmos.  It arrives shortly thereafter, sailing down from the sky, or even appearing within a deep cavern or interior hall vast enough to fit it.
+* It takes on the caster and companions and bears them to another destination.
+	* The voyagers enjoy luxurious hospitality from the Captain, and behold many wondrous sights as they travel.  The voyage appears to take 1d6 hours, but only 10 minutes pass in the world.
+	* The ship can reach anywhere on Earth and such distant lands as the domains of Faerie, the reaches of Hell, and the City of Brass.  Only Heaven itself, the Hearts of the Faerie Realms, and places warded by mighty magics, are beyond reach.
+	* The Captain offers advice to travelers and outfits them with mundane gear and provisions.
+
+### The Graven Rune
+
+* Tallowspire
+* aka The Rune of the City Unending
+* Crests
+	* Faerie: 
+		* Knave: 
+		* Knight: 
+		* King: Regent Hador
+	* Features
+	* Magic Items
+
+Made to Serve
+
+* Lesser, Sustain (1 hour), A Nearby tool or furnishing
+* The subject animates and carries out its purpose as you direct (a wagon rolls, a door opens and closes, a broom sweeps).  The finer the item's craftmanship, the more skilled it's behavior and the cannier its judgement.
+	* Doesn't work on weapons or armor / apparel.
+
+Mason's Call
+
+* Greater, Sustain (1 hour), A Near area Nearby
+* You summon a piece of the Infinite City into the world.  Terrain bends, trees shift, and architecture warps to accommodate it, then springs back, leaving no disturbance.  The piece can even graft on to existing architecture.  No part remains behind upon departure.
+	* The piece is always bare of furnishings and occupants; only the architecture comes.
+	* e.g. cottage, well, bridge, gate, gaol, watchtower, wall, stables, plaza, kitchen, baths, sitiing room, park, garden, etc.
+
+Catacomb of Ages
+
+* Mighty, until the next dawn, Close
+* A mausoleum rises before you, with stairs leading down into the catacombs of Tallowspire.  Enter within and confer with the dead.  They will answer any 1 question with considerable thoroughness, so long as some deceased mortal or faerie has ever known the answer.
+
+### The Greening Rune
+
+* Gladding-Gloam
+* aka The Rune of Verdancy
+* Crests
+	* Faerie: 
+		* Knave: 
+		* Knight: 
+		* King: Lord Gladhand
+	* Features
+	* Magic Items
+
+Green Mask
+
+* Lesser, Sustain (10 minutes), Self
+* You don a mask of wood and ivy, becoming a plant-like being and gaining a vegetative boon (choose on casting).  Carnivores are uninterested in eating you.  You are vulnerable to fire and resistant to plant toxins, spores, etc.  Example boons:
+	* Curling tendril fingers and toes give +A to climb or cling.
+	* Thorny flesh gives you dagger-like talons and inflicts d4 damage if grabbed.
+	* Bark-covered skin gives you defense +5 (replacing armor).
+	* Poisonous flesh deals 2d6 damage to anything bites you or imbibes your blood.
+	* You are invisible while standing still amongst vegetation.
+
+Blood and Sap
+
+* Greater, until leaving, A Close tree
+* You step into a tree big enough to contain you.  While within, you can perceive through the tree and speak with it.  You can step out of another tree within Far.
+	* You can give the tree some of your animal blood, allowing it to animate for 1 round per Grit donated (it only depletes blood on rounds it actually acts).
+	* Animate Tree: AC 14, HP 38, ATK 2 slam +8 (1d12) or 1 rock (far) +8 (2d6), MV near, S +4, D -1, C +2, I *, W *, Ch *, AL N, LV 8
+
+Tree of Life
+
+* Mighty, until consumed or 1 day, A Close tree
+* In the innermost garden of Gladding-Gloam is a cutting from the Tree of Life from the Garden of Eden. A fruit from that cutting sprouts on a tree you touch.
+	* The fruit remains fresh and potent for a day.  Eating it heals all physical injury, restores maimed limbs, cures disease, clarifies the mind of madness (so one knows good and evil once more), and restores 20 years of life.
+
+### The Horned Rune
+
+* Diuthurnia
+* aka The Rune of the Hunt
+* Crests
+	* Faerie: faerie hounds and steeds, elf hunters
+		* Knave: faerie hounds and steeds
+		* Knight: 
+		* King: Duke Mai-Fleur
+	* Features
+	* Magic Items
+
+Summon Fairy Hound
+
+* Lesser, until dawn, Close
+* A loyal and enthusiastic faerie hound appears, serves until dawn, then vanishes.  It aids in any capacity, but will not obey suicidal commands.
+	* Fairy Hound (Small Fairy—Semi-intelligent—neutral) Level 1 AC 12 HP 1d8 (4) Saves D12 R13 H14 B15 S16 Att Bite (+0, 1d6) Speed 50 Morale 8 XP 10
+
+Summon Fairy Steed
+
+* Greater, until dawn, Close
+* A dashing faerie horse—fleet of foot and charming of wit—appears, serves until dawn, then vanishes.  It aids in any capacity, but will not obey suicidal commands.
+	* Fairy Steed (large Fairy—Sentient—neutral) Level 2 AC 13 HP 2d8 (9) Saves D12 R13 H14 B15 S16 Att None Speed 80 Morale 8 XP 20
+
+Summon Wild Hunt
+
+* Mighty, until successful or dawn, Nearby
+* The blasting of ghostly horns summons forth a hunting host from the wild woods of Fairy (4d6 fairy hounds, 4d20 elf hunters on foot, 4d20 elf hunters mounted on fairy horses, and 1d6 goblin horn-blowers).   The host hunts a quarry you name.
+	* Fairy Steed and Fairy Hound (as above)
+	* Elf Hunter (Medium Fairy—Sentient—neutral) Level 1 AC 12 HP 1d8 (4) Saves D12 R13 H14 B15 S16 Att Shortbow (+0, 1d6, range 50′/100′/150′) or shortsword (+0, 1d6) Speed 40 Morale 9 XP 10
+	* Goblin Hornblower (Small Fairy—Sentient—neutral) Level 1 AC 12 HP 1d8 (4) Saves D12 R13 H14 B15 S16 Att Dagger (+0, 1d4) Speed 40 Morale 8 XP 10
+
+### The Hospitable Rune
+
+* Absynthe
+* aka The Rune of the Silent Manse
+* Crests
+	* Faerie: 
+		* Knave: 
+		* Knight: 
+		* King: The Queen of Blackbirds
+	* Features
+	* Magic Items
+
+Guest Room
+
+* Lesser, 1 day, A Close solid surface (wall, rock, tree, etc)
+* You open a door to one of the unoccupied rooms in the outer wings of the Silent Manse of Absynthe.  The door remains where you conjured it, and is invisible from the mortal side if closed.  As long as you don't open the door(s) leading further into the Manse, nothing from the Manse will enter.
+	* The contents and type of room (bedroom, dining room, storage hall, sitting room, etc) is random.  
+
+Many Doors
+
+* Greater, until leave the Manse, Self
+* While within the Manse, you can try to find hidden doors back to the mortal world.  Choose your destination hex in the mortal world.  Each area of the Manse explored has a cumulative 10% chance (+5% per depth) to hold a door to your destination (emerging in a random place).  Once closed or unattended in the mortal world, it vanishes.
+	* On a roll of 91+, you thought it was the right door, but discover it went somewhere else after passing through.
+
+Eternal Guest
+
+* Mighty, Permanent / A year and a day, Nearby creature(s)
+* A single target is cursed to wander the darkened halls of Absynthe for all their days, or many  targets you choose are cursed for a year and a day.  Door(s) open, swallowing them up.
+	* The Ruler may have words for you if the new guests are too much trouble.
+
+### The Jaundiced Rune
+
+* Whyforth
+* aka The Rune of Yellow
+* Crests
+	* Faerie: 
+		* Knave: 
+		* Knight: 
+		* King: The Earl of Yellow
+	* Features
+	* Magic Items
+
+Flaxen Levy
+
+* Lesser, 10 minutes, Nearby
+* (1d3+LVL) minor faerie creatures from Whyforth appear to serve you.  They never check morale.  Choose a type to call:
+	* Old dry bones
+	* Grain sheaf golems
+	* Giant yellowjackets
+	* Sun-beam sprites
+	* Flaxen foxes
+
+Amber Guards
+
+* Greater, 10 minutes, Nearby
+* A lone, greater faerie creature from Whyforth appears to serve you.  They never check morale.  Choose a type to call:
+	* Gold Coin Knight: armored in gold-coin mail, bearing a jewel-bladed sword and lance, mounted on a tawny charger.
+	* Honey ooze: a flowing mass of delicious, suffocating goo.
+	* Sandstone golem: slow and implacable, with crushing strength.
+	* Giant Golden Eagle
+	* Buttercup Pixie Phalanx
+
+Golden Champion
+
+* Mighty, 10 minutes, Nearby
+* A lone, grand faerie creature from Whyforth appears to serve you.  They never check morale.  Choose a type to call:
+
+	* Yellow bile wyrm: oozing and spitting caustic bile, it slithers through air, emitting an aura of terror.
+	* Wolf of the Sun: a horse-sized wolf, swift and ferocious, wreathed in solar flame.
+	* Honeybee Tyrant-Queen (and minions): big enough to ride, with a poison string; wields authority over insectkind.
+	* Citrine Cataphract
+	* Marigold Empress (and entourage)
+
+
+For Reference:
+* (monster summoning spell # x 10) + 20 yd range, (2 + Level + monster summoning spell #) rounds
+* I) 2d4
+	* bullywug, hobgoblin, 3d4 kobolds, orc, 3d4 giant rats, huge bat, giant ant
+* II) 1d6
+	* giant centipede, gnoll, lizard man, stirge, troglodyte
+* III) 1d4
+	* ankheg 3-4 HD, bugbear, giant crab, gelatinous cube, ghoul, huge spider, giant weasel
+* IV) 1d3
+	* ghast, hell hound, ogre, owlbear, huge scorpion, yeti, worg, ankheg 5-6 HD
+* V) 1d3
+	* ankheg 7-8 HD, cockatrice, displacer beast, doppelganger, minotaur, winter wolf
+* VI) 1d3
+	* basilisk, carrion crawler, dracolisk, drider, griffon, weretiger, manticore, ogre mage, phase spider, troll, wraith, wyvern
+* VII) 1 or 2 7th level (1 round to arrive) or 1 8th (2 rounds to arrive)
+	* 7th) behir, greater basilisk, chimera, flesh golem, gorgon, hydra, mummy, roper, hieroco sphinx, xorn, 2 headed troll, hill giant
+	* 8th) frost or fire giant, stone golem, remorhaz, purple worm, will o wisp
+
+### The Jingling Rune
+
+* Goblinhold
+* aka The Rune of Coins
+* Crests
+	* Faerie: goblins, those who commonly deal with goblins or the Market
+		* Knave
+		* Knight
+		* King: The Goblin King
+	* Features
+	* Magic Items
+
+Fairy Gold
+
+* Lesser, 1d6 hours, A Close container
+* 2d100 completely real gold pieces, in whatever denominations and currencies you wish, appears in a purse, bag, box, etc that you touch.  It is snatched back to the Goblin Vaults after when the Rune expires.
+
+Summon Goblin Merchant
+
+* Greater, until business is concluded, A close "passageway"
+* You issue a request into a hole, well, pot, doorway, hollow stump, etc, and shortly a goblin merchant pops out, bearing an enormous, overstuffed sack.
+	* They linger 1d6 hours (longer if particularly enticed), departing through any available hole once dealings are done.  They flee at any sign of danger.
+	* They are warded against beguiling, charm, and deception, and can (mostly) spot lies or frauds.  They are very elusive and tricksy if threatened.
+	* If mistreated, the Goblin Market denies future summons, and goblin thieves come to rob and ruin the offender until the harm is repaid sevenfold.  Restitution is very expensive, but enough riches will be persuasive.
+	* They don't offer charity and always drive a hard bargain, but for a good customer, may offer credit or accept a promise of future payment (witnessed with Word Given).
+* Merchant services include...
+	* Selling
+		* Mundane goods (food, drink, adventuring gear, household goods, arms and armor, pipeweed, etc) at normal price.
+		* Consumable magic items and reagents (a handful of selections on offer).
+		* Information (maps, secrets, advice, lore).
+	* Buying (or pawning)
+		* Magic items, consumables, reagents.
+		* Information that could lead to profit or security.
+		* Treasure (gems, art, jewelry)
+	* Services
+		* Money changing (coins and gems, 5% service fee, or free with other dealings)
+		* Repairs and customizations with their portable forge and tools.
+		* Storage of either coin (free) or items (upfront fee of the greater of 10% value or 10 gp, extra if troublesome) for up to a year and day.
+
+Royal Audience
+
+* Mighty, until business is concluded, Self and entourage
+* You enchant a door, hole, cave, etc and pass through into the Goblin King's great hall.  A minister welcomes you, eager to arrange a matter for this esteemed guest.  The King himself is likely to get involved in interesting affairs.
+	* Borrow a magic item from the royal vaults for a time.  With a good enough offer, buy it instead, or put in a commission with Weyland Smith.
+	* Arrange a meeting with powerful being(s) (devils, djinn, faerie lords, dragons, dead souls, etc), here on neutral ground, safety guaranteed by the Goblin King.  He's good at goading people into showing up.  Couriers are ready to deliver messages and gifts across the cosmos.
+	* Consult with the royal sages or spymasters.
+	* Borrow a wing of the palace (along with servants and supplies) for a grand gala or private debauch.
+	* Buy, sell, or wager intangibles, such as souls, beauty, luck, memories, noble lineage, or love, between yourself and another party, facilitated by the Goblin King.
+
+### The Pallid Rune
+
+* Lampwrack
+* aka The Rune of the White Flower
+* Crests
+	* Faerie: 
+		* Knave: 
+		* Knight: 
+		* King: The Prince Who is Seven
+	* Features
+	* Magic Items
+
+Deathly Blossom
+
+* Lesser, until used or 10 minutes, A creature
+* You conjure an exquisite white rose to hand.
+	* A target who smells the rose directly falls into an enchanted slumber for 1d6 x 10 minutes.
+		* P [CL+2] vs R [TL]
+		* If smelled by one desiring its gift, it can affect anyone, and lasts up to a day.
+	* You can blow on the rose, whirling its petals and pollen at a Close target (-2 Potency).
+* No time passes for an enchanted subject (no aging, bleeding, growing sickness, breathing, hunger, etc)
+	* Your touch can dismiss the slumber, or you may declare an ending condition when the slumber takes hold (a span of time, words spoken, true love's kiss).
+* Once per enchantment, you can try to break another caster's slumber with an opposed Level check (may try again after leveling).
+
+Field of White
+
+* Greater, until you leave, A Near area centered on you
+* A field of white roses springs up around you.  Within, consequence and the normal flow of time are suspended.  Physical changes to creatures and objects are undone instantly: damage unhappens, food was not eaten, fires neither light nor burn down, flesh does not age, wounds do not bleed.
+
+Eternal Slumber
+
+* Mighty, until used or 10 minutes, A creature
+* Like Deathly Blossom, but you can blow its petals at a mortal creature Nearby, casting them into permanent enchanted slumber.
+	* If smelled by one desiring its gift, it can affect anyone.
+
+### The Silken Rune
+
+* The Gardens of Ynn
+* aka The Rune of Webs
+* Crests
+	* Faerie: 
+		* Knave: 
+		* Knight: 
+		* King: Lady Belladonna
+	* Features
+	* Magic Items
+
+Slender Thread
+
+* Lesser, 1 day, Close
+* You conjure a soot-black spider, tiny enough to stand on a coin, able to climb, spin thread, and leap Closeby.  It obeys your verbal instructions with human intelligence, crumbling to ash if killed or at spell's end.
+	* When touching a mortal or beast, it can enchant them to regard you as a close and trusted friend.
+	* P [CHA] vs R [Level+WIS]
+* You can send one spider to slay another.  Roll an opposed casting check (+A if pitting a Greater against a Lesser Rune) with the loser's spider being killed (or a tie, both die).
+
+Sticky Thread
+
+* Greater, 1 day, Close
+* You conjure a slightly larger, ash-grey spider.  It acts as in Slender Thread but can enchant any kind of being.
+	* P [LVL+CHA] vs R [Level+WIS] (+2 if faerie)
+
+Spin Webs
+
+* Mighty, permanent, A castle, village, neighborhood, etc
+* You conjures a multitude of tiny, pure-white spiders and name a belief.  They spread out through the area, spinning invisible webs of thought over the course of a day.
+	* Those walking among their webs believe as if subconsciously told by a trusted friend.  The charm fades upon leaving, but reasserts on return.
+		* P [LVL+CHA] vs R [Level+WIS] (+2 if faerie)
+	* The spiders breed and endlessly maintain the webs, but both are semi-real and can be killed / destroyed.  If the spiders are wiped out (fire, poison gas, a host of frogs, starvation), the spell ends.  If webs are cleared, the spiders will spin them anew.
+
+### The Unkind Rune
 
 * Ravenwild
 * aka The Rune of Black Feathers
@@ -487,68 +721,25 @@ Unravel Death (Mighty)
 	* Features
 	* Magic Items
 
-* unbinding is borne via spectral ravens
-* 
-* Effects
-	* unbind ???
-		* unbind material things
-		* open locks, ropes, doors
-		* a raven snatches something and flies away (unbinding possessions), or disrupts something (knocking over a pot of liquid, scattering embers from a hearth)
-	* unbind thought
-		* dispel magic
-		* a raven flies around whispering a rumor
-		* a raven spies on someone, maybe even listening to their thoughts, and then tells you and two unrelated others
-		* a raven steals a spell / memory / idea / word / skill from someone
-	* unbind fate
-		* something that just happened is rolled back (can include something terminal to you, invoked from beyond the grave/unconsiousness)
-		* you are plucked from your current situation and placed somewhat nearby at random, but free and not immediately in danger
-* 
-* freedom / unbinding / unbarred passage theme? lonely, ravens
-* 
+Unbind Dross
 
-### The Silken Rune *
+* Lesser, between Instant and 1d4 rounds, Nearby
+* Mischief arrives on spectral raven wings.
+	* A locks opens, ropes and chains fall loose, doors unbar, an item is snatched and flown away with (1 slot, resist with DEX DC 13 if held, dropped Far off in some direction), something is knocked askew (a pot spilled, embers scattered), a shot is spoiled, or a target is harried and pecked.
 
-* The Gardens of Ynn
-* aka The Rune of Webs
-* Crests
-	* Faerie: 
-		* Knave: 
-		* Knight: 
-		* King: Lady Belladonna
-	* Features
-	* Magic Items
+Unbind Thought
 
-Sway the Mortal Mind (Lesser)
+* Greater, Instant, Far
+* A spectral raven snatches a thought and flies off.
+	* Spread a whispered rumor through a Far radius; no one can remember who actually first told them.
+	* A target has a named or random spell, skill training, ability, or details of a memory stolen from them until they next sleep (resist your casting check with their own relevant check).
+	* (Sustain (round)) A target has all their words stolen.
+	* A spell of up to Tier 4 is carried off (dispelled).
 
-* You conjure a soot-black spider into your hand, tiny enough to stand on a small coin.
-	* It can climb, spin webs, leap a few feet, and otherwise act like a spider.
-	* It lasts for 1 day before crumbling into a wisp of ash, obeying your verbal instructions as well as a person might, though it can't exercise judgement.
-* When it touches a mortal or beast (up to Medium size), it can enchant them.  If they fail a save vs Spells, they regard you are a close and trusted friend.
-	* The charm lasts while the spider touches them.  It can leave, ending the charm, and try to affect a new subject (requiring another save).  It could be swiped, washed, blown, etc off.
-	* If the spider is killed, or a saving throw is made, it crumbles and the spell ends.
-	* The subject is generally glad to defend and assist you, but doesn't change their personality, beliefs, or willingness to risk harm.  It does not gain any special ability to understand you.
+Unbind Fate
 
-Sway the Cunning Mind (Greater)
-
-* Conjures a slightly larger, ash-grey spider to hand.  It behaves as its lesser cousin, but can charm any kind of creature (faeries save with +4).
-
-Spin Webs (Mighty)
-
-* Conjures a multitude of tiny, pure-white spiders that spread out through a defined space up (castle, village, neighborhood, etc).
-	* They spin invisible webs, charming those who enter and fail a save vs Spells (faeries save with +4).  It takes about a day to fully fill the area.
-		* With See Invisible or any level of this Rune, you can see the webs.
-		* Detect Magic will only reveal the magic to those unaffected by the charm.
-	* The charm fades from those who leave, but reasserts itself on reentry without another save.
-* When you send for the spiders, you name a belief, which they weave into their web.  Those under the charm believe it as if a trusted friend had told them, but subconsciously, without having been told.
-	* "I am the rightful queen", "Everyone is out to get you", "We must keep the treasure safe at all costs", etc.
-	* It doesn't change perceptions or beliefs.  "Gravity no longer works" will lead to a lot of confusion (why did my "trusted friend" tell me this?), but they can see it's not true.  You can't control how individuals will act based on the belief.
-* The webs are maintained by the spiders, and the spiders breed more of their kind, indefinitely.
-	* If something (fire, poison gas, a host of frogs with truesight) wipes out the spiders, the webs will gradually erode and the magic fades.  The spiders subsist on ordinary bugs and scraps, and could starve in a totally barren place.
-	* If something wipes out the webs (fire, cleaning or dispelling magic), it can lift the charm for a time, until the spiders spin new ones.  Pockets within the enchanted area might be cleared of magic for a time.
-
-Notes
-
-* A caster can send their own spider to slay that of another if they realize it must be present (grey spiders can slay black ones, but can't be slain by them; either can slay individual white spiders, but can't clear them all).  When the spiders meet, each caster makes a save vs Spells.  If one fails, their spider is killed.  If both succeed or fail, both spiders die.
+* Mighty, Instant, Self
+* You are snatched away before whatever just happened to you (up to 1 round prior) happened, although it happens for everyone else.  You are deposited 1 round in the future, in a safe spot within 10 miles.  You can invoke this even from beyond death.
 
 ### The Unyielding Rune
 
@@ -581,86 +772,7 @@ Adamant Fortress
 	* People may not enter, except as you, or those you appoint, permit.  Revocation doesn't expel a person, but will prevent reentry.
 	* The protection ends immediately if your blood is shed upon the structure.
 
-### The Pallid Rune *
-
-* Lampwrack
-* aka The Rune of the White Flower
-* Crests
-	* Faerie: 
-		* Knave: 
-		* Knight: 
-		* King: The Prince Who is Seven
-	* Features
-	* Magic Items
-
-Deathly Blossom (Lesser)
-
-* Lesser, until used or 10 minutes, A creature
-* You conjure an exquisite white rose to hand.
-	* P [CL+2] vs R [TL]
-	* A target who smells the rose directly falls into an enchanted slumber for 1d6 x 10 minutes.
-		* If smelled willingly and knowing its full effect, it can affect those normally too strong, and lasts 1 hour.
-	* You can blow on the rose, whirling its petals at a Close target (-2 Potency).
-
-Field of White (Greater)
-
-* Greater, 
-* ???
-* 
-* field of flowers?
-	* could be a mass sleep effect, or be placed as a ward
-* swirl of petals?
-	* conjure the field of flowers, then blow their petals at range / aoe?
-* 
-
-Eternal Slumber
-
-* Mighty, until used or 10 minutes, A creature
-* Like Deathly Blossom, but you can blow its petals at a mortal creature Nearby, casting them into permanent slumber.  If willingly, directly smelled, it can affect immortal beings as well.
-
-Notes
-* A subject in enchanted slumber doesn't experience the passage of time (not aging, bleeding, growing sicker from illness, breathing, needing food, etc)
-* You can dismiss the slumber with a touch, or declare a waking condition when the slumber first takes hold (a span of time, certain words spoken, etc).
-	* You can try to break the slumber granted by this Rune by roll Level DC (11+caster's Level), only once per enchantment (may try again after leveling).
-
-### The Frigid Rune
-
-* Frigia
-* aka The Rune of Winter
-* Crests
-	* Faerie: frost elves
-		* Knave: 
-		* Knight: 
-		* King: The Cold Prince
-	* Features
-	* Magic Items
-
-Frost Wind
-
-* Lesser, 1 round, Emanating from you, a Close circle, Near cone, or Near line
-* A gust of chilling wind and stinging flecks of ice fills the area, blocking sight.
-	* Those struck by the gale are shoved (Close) and flung prone if they fail a STR DC 12 check.
-	* Those who enter or start their turn within take (CHA)d6 frost.  You are immune.
-	* Water freezes, thick enough to walk on.  Mundane, non-evergreen plants wither and crumble.
-
-Winter Storm
-
-* Greater, A Near area within Far
-* Choose 1:
-	* (Focus (round)) Hail and sleet pelt the area, blindingly thick.  Creatures take 2d6 frost each turn they start within.  The ground becomes coated with ice until it melts naturally.  Creatures moving over it in haste roll DEX DC 15 or slip.
-	* (12 rounds) Snow falls in the area more gradually, dealing 1d4 frost to creatures each turn they start within.  It accumulates and freezes into shapes as you direct, forming walls, mounds, ramps, etc.  Once the magic ends, it melts naturally.
-
-Creeping Frost (Mighty)
-
-* Mighty, seasonal duration, A Near area adjacent to you
-* You summon glacial ice from the heart of Frigia.
-	* Each round, the ice creeps Close in the direction commanded, moving freely over terrain, water (which freezes), and obstacles.  It leaves a trail of ice and can build up structures of ice (which it can climb), up to a Close volume each round.
-		* It can't pass a barrier of flame, but can snuff out small campfire-sized flames.
-	* Creatures of Level 9 or less caught in the freezing tide are instantly frozen solid.  Higher level creatures take 3d8 frost each turn.
-	* Wood, metal, and masonry become brittle.
-* The creeping ice persists 100 rounds in summer, 150 in spring or autumn, and 200 in winter.  Afterward, anything frozen thaws at the normal rate.
-
-### The Whiskered Rune *
+### The Whiskered Rune
 
 * Catland
 * aka The Rune of Silent Paws
@@ -672,187 +784,25 @@ Creeping Frost (Mighty)
 	* Features
 	* Magic Items
 
-Padding Quietly (Lesser)
-* You become invisible to mortals and beasts for 6 Turns.
-	* If you attack someone or use magic on them without their explicit permission, the spell ends.
-* While you are invisible...
-	* You possessions are also invisible, but reappear if you part with them.
-	* You weigh no more than a cat, able to walk on thin branches or over pressure plates.  You land on your feet without harm from falls, and can leap 10' further than normal.
-	* You have the benefits of the Moon Sight and Subtle Sight glamours.
+Padding Quietly
 
-Frolicking Unseen (Greater)
-* For the next day, you can cast Padding Quietly on yourself at will.
-* You become invisible to all beings, not just mortals and beasts.  While invisible, you cannot be scried upon or detected by magic either.
-* 
-* 
+* Lesser, 1 hour, Self
+* You become invisible to mortals and beasts.
+	* If you attack or use magic (other than self-only Glamours), the spell ends.
+	* While invisible, you weigh no more than a cat and have impeccable balance.  You take no harm from falling and always land on your feet.  You have +A to sneak, climb, and leap.  You benefit from the Moon Sight and Subtle Sight Glamours.
 
-The Prowling Clowder (Mighty)
-* For the next day, you can cast Padding Quietly on anyone you touch.
-* 
-* 
-* all day misty step?  plus invis, plus cat form?  mass misty step?
-* 
-* as rune of invisibility but you can turn it on or off throughout the day.
-* can cast Padding Quietly on others with a touch, at will
-* you and others invisible also...
-	* can transform into a cat or grimalkin (chester form) and back
-	* sneak attack damage?
-	* can walk on water
-* while invisible, you can
-	* teleport 30'
-	* make a 10' section of solid wall like mist for those invisible
+Frolicking Unseen
 
+* Greater, until dawn, Self
+* You can cast Padding Quietly on yourself at will, and will be invisible to all beings, and hidden from scrying and detection magic as well.
 
-### The Jaundiced Rune *
+The Prowling Clowder
 
-* Whyforth
-* aka The Rune of Yellow
-* Crests
-	* Faerie: 
-		* Knave: 
-		* Knight: 
-		* King: The Earl of Yellow
-	* Features
-	* Magic Items
+* Mighty, until dawn, Self
+* You can cast Padding Quietly (with the improvements of Frolicking Unseen) on anyone Closeby.  While subjects are invisible, they can teleport Nearby when they move.
+	* (Sustain (round)) You can, to invisible subjects, make a Close-sized volume of mundane, solid matter intangible, or a Near-sized volume of liquid act as solid.
 
-* Effects
-* You summon a group of faerie creatures from Whyforth.  They appear within 30', serve you for 1 Turn, then vanish.  What type and how many are conjured is a surprise.
-* The summoned creatures obey any orders and never check morale.
-* 
-* (monster summoning spell # x 10) + 20 yd range, (2 + Level + monster summoning spell #) rounds
-* I) 2d4
-	* bullywug, hobgoblin, 3d4 kobolds, orc, 3d4 giant rats, huge bat, giant ant
-* II) 1d6
-	* giant centipede, gnoll, lizard man, stirge, troglodyte
-* III) 1d4
-	* ankheg 3-4 HD, bugbear, giant crab, gelatinous cube, ghoul, huge spider, giant weasel
-* IV) 1d3
-	* ghast, hell hound, ogre, owlbear, huge scorpion, yeti, worg, ankheg 5-6 HD
-* V) 1d3
-	* ankheg 7-8 HD, cockatrice, displacer beast, doppelganger, minotaur, winter wolf
-* VI) 1d3
-	* basilisk, carrion crawler, dracolisk, drider, griffon, weretiger, manticore, ogre mage, phase spider, troll, wraith, wyvern
-* VII) 1 or 2 7th level (1 round to arrive) or 1 8th (2 rounds to arrive)
-	* 7th) behir, greater basilisk, chimera, flesh golem, gorgon, hydra, mummy, roper, hieroco sphinx, xorn, 2 headed troll, hill giant
-	* 8th) frost or fire giant, stone golem, remorhaz, purple worm, will o wisp
-* 
-* Flaxen Levies (Lesser)
-* Summon 2d4 of the creature type rolled:
-	* old dry bones (skeletons)
-	* grain sheaf golems (brambling, tweak brambles effect)
-	* giant yellowjackets (killer bee)
-	* sun-beam sprites (yellow? sprites)
-	* amber foxes (???)
-* Amber Guards (Greater)
-* Summon 1d3 of the creature type rolled:
-	* gold coin knight
-	* honey golem/ooze
-	* buttercup pixie warriors
-	* giant golden eagle
-	* harvest hulk (big grain golem)
-	* giant golden scarabs
-	* sandstone golem
-* Golden Champion (Mighty)
-* Summon 1 of the creature type rolled:
-	* golden wolves of the sun
-	* honeybee tyrant-queen (and minions)
-	* citrine champion
-	* marigold empress
-	* yellow bile wyrm
-
-### Greening Rune *
-
-* Gladding-Gloam
-* aka The Rune of Verdancy
-* Crests
-	* Faerie: 
-		* Knave: 
-		* Knight: 
-		* King: Lord Gladhand
-	* Features
-	* Magic Items
-
-Green Thumb (Lesser) *
-
-* plant growth, entangle, barkskin?, grow hedge, spike growth? fruit tree bears fruit
-* speak with plants
-
-Blood & Sap *
-
-* Greater, 
-* step into a tree (must be big enough to squeeze into); can remain within, perceiving out, gaining sustenance from sap, sun, and water.  can speak with the tree you're in
-* can step out of a tree within range
-* can give the tree some of your animal blood, allowing it to animate for 1 round per hp (like a treaent), to aid you.  can wait to use it until the tree sees a proper time (when enemies come, etc)
-
-Animate Tree
-AC 14, HP 38, ATK 2 slam +8 (1d12) or 1 rock (far) +8 (2d6), MV near, S +4, D -1, C +2, I *, W *, Ch *, AL N, LV 8
-
-Tree of Life
-
-* Mighty, until consumed or 1 day, A Close tree
-* In the innermost garden of Gladding-Gloam is a cutting from the Tree of Life from the Garden of Eden. A fruit from that cutting sprouts on a tree you touch.
-	* The fruit remains fresh and potent for a day.  Eating it heals all physical injury, restores maimed limbs, cures disease, clarifies the mind of madness (so one knows good and evil once more), and restores 20 years of life.
-
-### The Graven Rune *
-
-* Tallowspire
-* aka The Rune of the City Unending
-* Crests
-	* Faerie: 
-		* Knave: 
-		* Knight: 
-		* King: Regent Hador
-	* Features
-	* Magic Items
-
-* infinite city, catacombs from the dawn of time, aethetics / beauty
-* info from the dead or the infinite archives?  beauty
-	* summon archivist, summon artist, ???
-	* summon a feature from the city which conveys an emotion
-	* 
-* Effects
-	* Key to the City (Lesser)
-		* knock / wizard lock
-	* Mason's Call (Greater)
-		* manifest bits of the city
-			* a cottage (shelter, food), a well (water), a workshop (tools, materials), stable (tack, harness), library (reference books, writing materials), jail (chains, cells), watchtower (fortified house), wall, bridge, store? hospital?
-			* never brings creatures (planets, animals, people), doesn't bring precious materials; stuff goes back unless you eat / transform it?  can't just carry it out?
-	* Catacomb of Ages (Mighty)
-		* mausoleum w/ stairs down into the catacombs rises before you, enter and spend a day and night confering among the dead;  legend lore: answer any 1 question so long as some mortal or faerie has known the answer, guaranteed and with decent thoroughness
-
-### The Hospitable Rune *
-
-* Absynthe
-* aka The Rune of the Silent Manse
-* Crests
-	* Faerie: 
-		* Knave: 
-		* Knight: 
-		* King: The Queen of Blackbirds
-	* Features
-	* Magic Items
-
-* gloomy, vast, get lost in her manse; some kind of rune of branching rivers or halls, a bit Spiralish?  getting lost, navigating the maze
-	* banquets? river barges?
-	* maze a target so they can't follow you (get lost / lose your trali)
-* maze, cast enemy to wander the halls forever?
-* conjure a manse into the world, an extension of the halls; enemies who invade may become lost
-
-Guest Room (Lesser)
-
-* rope trick / astral chamber
-* find food, drink, beds, etc roaming the halls, can get lost
-
-Many Doors (Greater)
-
-* dimension door (near instant) / teleport (w/in dolmenwood; with more time spent roaming the halls)
-* ??? teleport between doors / caves / etc
-* can invert it, to make a place hard to find in the real world?
-
-Darkened Halls (Mighty)
-
-* maze / imprisonment (maybe even mass maze)?
-
+---
 ### The Scented Rune
 
 * The Baths of Astralon
@@ -879,7 +829,7 @@ Palanquin
 
 ### The Rune of As You Wish
 
-* What Realm this rune is bound to, and who holds its Crests is a mystery.
+* What Realm this rune is bound to, and who holds its Crests, is a mystery.
 
 Wish
 

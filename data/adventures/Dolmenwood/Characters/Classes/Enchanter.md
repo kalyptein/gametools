@@ -20,17 +20,35 @@ Faerie Magic
 
 Talents
 * Gain 2 more Glamours
-* Gain Apothecary and learn 2 recipes 
-	* Trained with poisons
-	* Gain +A with 2 Apothecary recipes.
-* Jack o' the Green: learn 2 sub-disciplines from Thievery and/or Wildcraft
+* Mixology (choose 1)
+	* Brew Potions like a Magician.
+	* Gain Apothecary and learn 2 recipes
+	* Training in poisons (with Apothecary, also learn 2 poison recipes).
+	* (with Apothecary) +A when making 2 recipes.
+* Jack o' the Green
+	* Trained in 2 sub-disciplines from Skullduggery and/or Wildcraft.
+* In Ovo
+	* You've hidden your life somewhere (inside an egg, in a box, under a stone, etc).  As long as it's undisturbed:
+		* Roll your death timer with advantage, +2 to rise from fallen
+		* 6-in-6 chance of waking up alive even if you do die (but you'll need to hide your life again).  Every time you would die, take a permanent -1 to your odds of surviving.
+* Mind Like A Maze of Mirrors
+	* What is sanity, really?  You are immune to confusion, befuddlement, entrancement, and madness (e.g. Mad Revelry, Fascinate, etc).  You have resistance to magical and mundane attempts to read you or your mind.
+* Three-Faced
+	* You can transform between male, female, and animal forms of yourself.
+		* The type of animal you turn into reflects your spirit.  In animal form, your possessions disappear into a pocket domain (see Grimalkin).
+* Never Leave the Path
+	* You are trained in navigation and mapmaking.  You have resistance to magic that would lead you astray or displace you against your will.
+* String Attached
+	* Unless an person has paid back their debt in full, you have advantage when seeking or avoiding them, and you may invoke their Indebted status once a week.
+		* Even with no idea where the debtor is, you can trust your instincts to help lead you toward them.
+* Weyland's Apprentice
+	* You can forge items of bronze or precious metals that are strong as iron.
+* Gain a Racial Talent
 
-
-Bonus
-* Add 2 to Charisma or +1 to casting faerie magic.
-* Add +1 to melee and ranged attack.
-* Add 2 to Strength, Dexterity, or Charisma
-* Add 2 to Intelligence, Wisdom, or Charisma
-* Add 2 points across any stat(s)
-* Add 1 point to three different stats 
+Bonuses
+* Add 2 stat points among Intelligence, Wisdom, and Charisma.
+* Add 2 stat points among any stats.
+* +1 to melee and ranged attacks
+* You have resistance with (choose 1) DEX, WIS, or CHA.
+* Gain a Racial Bonus
 

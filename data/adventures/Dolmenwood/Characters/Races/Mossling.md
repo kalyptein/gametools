@@ -20,11 +20,6 @@ Talents
 	* Roll death timer and stabilization with advantage.
 	* You gain enough food and water by rooting in fertile soil for an hour throughout the day.  You can still eat for pleasure and benefit.
 	* Gain the Breath spell (self only, Safe, cast with +A)
-* Mycelium
-	* 3 times per Long Rest you can grow a small mushroom.  If eaten, you form a link with the eater for Sustain (1 hour, CON | CHA DC 12).
-		* A sapient being shares a telepathic link with you.
-		* A mundane animal is charmed by you, you can empathically guide and communicate with it.
-	* You can channel your Mossling Knacks through the eater.  You can steal 1d4 Grit from them, recovering Guard or Grit; this breaks the link.
 
 Bonus
 * Add 2 points among WIS and CON.

@@ -112,7 +112,7 @@ casters just advance their casting w/ level (start at +2, rise to +4 or +5?)
 	* this casting can't critically fail (no mishaps, etc), treat it as a normal failure
 * limited (X)
 	* can only be cast X times per long rest; if X is omitted, X = 1
-* (quick | brief | short | long) ritual: requires a (1 min | 10 min | 1 hour | 8 hour) ritual to cast
+	* (quick | brief | short | long) ritual: requires a (1 min | 10 min | 1 hour | 8 hour) ritual to cast
 * focus (round | minute | 10 min): make a focus check each interval to maintain it; can only focus on 1 spell at a time
 	* no crit fails for focus, spell just ends
 * focus (test X): duration is measured in tests, when the spell is "tested", offering its benefit.

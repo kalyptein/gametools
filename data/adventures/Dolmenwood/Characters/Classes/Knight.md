@@ -34,7 +34,7 @@ Chivalric Code
 	* Glory: seek glory in deeds and battle, especially in single-combat.
 	* Justice: protect those in your care, uphold the right-wise order of the land.
 * When you pursue or uphold the Code at unusual risk or cost, gain Luck.
-* Take +A when resisting something that blocks your adherence to the code.
+* Gain resistance against things that block your adherence to the code.
 	* e.g. mind-control, fear, restraints keeping you from your duty, etc.
 * If you violate the Code, you are Dishonored and cannot benefit from it until you suitably atone and regain your honor.
 
@@ -43,7 +43,7 @@ Chivalric Code
 Talents
 * Gain the other Fighting Style
 * Noblesse Oblige
-	* You are trained in leadership, diplomacy, and inspiration.
+	* You are trained in leadership, diplomacy, inspiration, and matters of law.
 * Dragonslayer
 	* Roll damage against Large or bigger monsters with +A.
 * Mounted Champion
@@ -59,11 +59,11 @@ Metaphysical Talents
 * Faerie Queen
 	* You take a Faerie Lord or Lady as your liege (perhaps in secret, continuing to serve a mortal liege) and can gain crests for a single Faerie Rune.  Start with 1 King's crest.
 	* You are Bound By Faerie Law.  Your liege will have use for your service.
-* Pious
-	* You can use relics to cast Holy Magic of up to Tier 3.  You may gain and cast up to (CHA | WIS) holy spells of up to Tier 3.  
+* Piety
+	* You can use relics to cast Holy Magic of up to Tier 3.  You may gain and cast up to (CHA | WIS) holy spells of up to Tier 3.
 	* Add to your Chivalric Code: 
 		* Faith: protect and further the ends of Church and God.
-* Thrice Forged in Iron
+* Thrice-Forged in Iron
 	* Wielding iron, wearing iron, pierced by iron.  Your flesh counts as iron to faerie and their magics.  You deal +1 damage to faerie, and gain +STR | CON | CHA to resist faerie magic.  Faerie magic cannot beguile or compel your mind and spirit, though it can deceive your senses.
 
 Bonus

@@ -11,25 +11,7 @@ The Holy Orders
 ## The Pluritine Saints
 ---
 
-* The 3 Martyrs (Esther, Hildace, Ingrid)
-
-
-name and epithet
-* Miracle
-	* saintly name (common name)
-	* miracle story
-* Hagiography
-	* 
-	* notes of their life, times, and ending
-	* 
-* Patronage
-	* clients
-* Walking in Their Footsteps
-	* how?
-* Paraphernalia
-	* Shrine (place): status
-	* known relics?
-
+* Note: the 3 Martyrs (Esther, Hildace, Ingrid)
 
 ### St Abthius, Ever-Lustrous
 
@@ -56,16 +38,69 @@ name and epithet
 	* Hermits, fasting, choirboys
 	* 1707 Buried in a giant ants’ nest 
 	* Footsteps: survive in wilderness alone for a month with nothing by what you carry
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Clewyd
 	* Restore Life and Limb
 	* Dolmenwood, repentance, devil-slayers, goldsmiths, judges
 	* 0906 In the crypts of the ruined abbey 
 	* Footsteps: experience death
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Cornice
 	* Insect Plague
 	* Chastity, beetles, scullery maids
 	* 1505 Overgrown with moss + lichen 
 	* Footsteps: save someone from an unwelcome marriage to someone powerful
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
 
 ### St Dank of the Thorn
 
@@ -83,8 +118,6 @@ name and epithet
 * Paraphernalia
 	* Shrine (0305): Toppled in mud
 	* known relics?
-
-
 
 ### St Dougan the Discerning
 
@@ -106,31 +139,146 @@ name and epithet
 
 
 
+
+
 * Eggort
 	* Holy Light
 	* Chandlers, undertakers
 	* 0703 In ruined town of Midgewarrow 
 	* Footsteps: dwell in darkness for a year and a day
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Elsa
 	* Communion
 	* Floods, towers, hunters of sea monsters, follies
 	* 0310 Buried in beetle-infested soil 
 	* Footsteps: rescue people from a watery disaster (flood, wave, dam break, etc)
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
+
+### St Esther the Mourner
+
+* Miracle
+	* The Charity of St Esther (Inviolable)
+	* Following the sudden death of her parents, the youthful Esther inherited a small estate in a region south of Dolmenwood, along with the title baroness. A devout follower of the Pluritine Church, she spent her days in prayer at the family mausoleum, accompanied only by her loyal hound, who sat patiently outside. Late one evening, her prayers were disturbed by the hound’s barking. Rushing outside, Esther witnessed a would-be thief in battle with the dog, about to skewer it with a wicked dirk. Esther beseeched God to aid the noble hound, which was unharmed by the thief’s blow and saw the villain off. Following this incident, Esther was moved by the plight of the common folk and donated much of her family’s wealth to the poor.
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+	* one of the 3 Martyrs
+	* how was she martyred?
+	* 
+* Patronage
+	* Hounds, grave wardens, charitable deeds
+* Walking in Their Footsteps
+	* Thwart a theft with the aid of a hound (tracking, guarding, fighting, etc).
+* Paraphernalia
+	* Shrine (0512): In the town of High-Hankle's Three Martyrs Minster
+	* known relics?
+
+
+
+
 * Faxis
 	* Circle of Protection
 	* Seekers, hunters of evil magicians and witches, soldiers
 	* 1003 Submerged in a pool of slime 
 	* Footsteps: 
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Foggarty
 	* Light
 	* Lost travelers, peat cutters
 	* 1109 In the Woodcutters’ Encampment
 	* Footsteps: lead lost pilgrim(s) to safety
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Galaunt
 	* Holy Quest
 	* Pilgrimage, truth-seeking, marsh-dwellers
 	* 0607 Concealed in a reed bed
 	* Footsteps: accept the imposition of a worthy Holy Quest and complete it, or survive a malicious geas
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
 
 ### St Gondyw, Converter of Kings
 
@@ -156,11 +304,46 @@ name and epithet
 	* Warding against evil, corn-dolls, picnics
 	* 1004 Beneath Baron Fragglehorn’s tower
 	* Footsteps: destroy a tome or artifact of evil magic (of at least Greater power) with fire
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Gretchen
 	* Purify
 	* Victims of battle, goat-herds
 	* 0702 In the hamlet of Drigbolton
 	* Footsteps: provide aid to the injured of a significant battle in which you had no side or part
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
 
 ### St Gripe the Forthright
 
@@ -188,7 +371,42 @@ name and epithet
 	* 0309 Floating in a small pond 
 	* Footsteps: live only among beasts for a year and a day
 
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
 
+
+### St Hildace, Bellringer
+
+* Miracle
+	* The Obduracy of St Hildace (Sanctuary)
+	* As a young acolyte in a coastal town, Hildace was responsible for ringing a great bell in the market square at dawn to call adherents of the Pluritine Church to prayer. Following a long siege, the town was conquered by a pirate army, who set up their camp in the square. Undeterred, Hildace strode peaceably through the enemy encampment and proceeded to ring the great bell. Despite their efforts, not a single pirate was able to lay hands on her, their attacks repelled by the will of God.
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+	* one of the 3 Martyrs
+	* how was she martyred?
+	* 
+* Patronage
+	* Bell ringers, kittens
+* Walking in Their Footsteps
+	* Openly pass through a hostile place without violence to a achieve a virtuous task.
+* Paraphernalia
+	* Shrine (0512): In the town of High-Hankle's Three Martyrs Minster
+	* known relics?
 
 ### St Hollyhock the Jubilant
 
@@ -224,6 +442,27 @@ name and epithet
 	* Shrine (1204): On a muddy beach
 	* known relics?
 
+### St Ingrid the Austere
+
+name and epithet
+* Miracle
+	* St Ingrid's Admonition (Command)
+	* As chief librarian of a great abbey, Ingrid was feared among the acolytes for her austere mien and her righteous temper. The local baron, a vain and greedy man, decreed a tithe on all gold and silver in his demesne, ostensibly to support the strengthening of his soldiery. When his lack-eys took their crowbars to a local chapel, Ingrid was among the clergy dispatched to its defence. Her brusque commands caused the vandals to prostrate themselves on the chapel’s floor, not leaving until the following dawn.
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+	* one of the 3 Martyrs
+	* how was she martyred?
+	* 
+* Patronage
+	* Teachers, librarians, tithe collectors
+* Walking in Their Footsteps
+	* Prevent the theft of church property without violence.
+* Paraphernalia
+	* Shrine (0512): In the town of High-Hankle's Three Martyrs Minster
+	* known relics?
+
 ### St Jorrael, God-Friend
 
 * Miracle
@@ -248,26 +487,115 @@ name and epithet
 	* Historians, infants, lost objects
 	* 1307 In a wayside refuge
 	* Footsteps: find a lost item or piece of information whose return brings salvation from trouble
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Lillibeth
 	* Lesser Healing
 	* Doves, fowl, virgins, messengers
 	* 1703 In the village of Meagre’s Reach
 	* Footsteps: in the face of dire need or peril, care for an animal above yourself
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Passery
 	* Cure Affliction
 	* Butchers, well-diggers
 	* 0710 In the town of Lankshorn
 	* Footsteps: 
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Ponch
 	* Create Food
 	* Whalers, castaways, scones, pears
 	* 1010 Overgrown with lofty fungus
 	* Footsteps: survive a shipwreck in deep water
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Primula
 	* Remove Curse
 	* Oxen, strength
 	* 1702 Toppled at the base of a sinkhole 
 	* Footsteps: bring an end to a piece of faerie malice afflicting one of the faithful
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
 
 ### St Quister, Ever-Loyal
 
@@ -294,34 +622,69 @@ name and epithet
 	* Holy warriors, knifemakers
 	* 0202 Submerged in a swamp
 	* Footsteps: 
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Signis
 	* Silence
 	* Warding the dead, holy silence
 	* 1508 In Castle Brackenwold Silence
 	* Footsteps: silence a noisy threat (banshee, song-luring harpy, thunder elemental, etc)
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Thorm
 	* Detect Magic
 	* Gamblers, prisoners, blacksmiths
 	* 0911 Overgrown with ivy and fungus 
 	* Footsteps: win a gambling game with a faerie of note
-* 
-* The 3 Martyrs
-	* Esther
-		* Aid
-		* Hounds, grave wardens, charitable deeds
-		* Footsteps: thwart a theft with the aid of a hound (tracking, guarding, fighting, etc)
-		* how was she martyred?
-	* Hildace
-		* Sanctuary
-		* Bell ringers, kittens
-		* Footsteps: openly pass through a hostile place without violence to a achieve a virtuous task
-		* how was she martyred?
-	* Ingrid
-		* Command
-		* Teachers, librarians, tithe collectors
-		* Footsteps: prevent the theft of church property without violence
-		* how was she martyred?
-	* 0512 In the town of High-Hankle
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
 
 ### St Torphia of the Solitudes
 
@@ -348,16 +711,69 @@ name and epithet
 	* Mice, churchwardens
 	* 0905 Cliffs above Valley of Wise Beasts 
 	* Footsteps: raise a strong animal (bear, wolf, boar, bull) from infancy to maturity
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Waylaine
 	* Hold
 	* Executioners, axe-grinders, merciful lords
 	* 1106 In the town of Prigwort
 	* Footsteps: prevent an unjust execution without violence
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
+
 * Whittery
 	* Detect Evil
 	* Visions, premonitions, warding against faeries, lost souls
 	* 1704 Buried in the roots of a great oak
 	* Footsteps: expose the magical disguise of a malign being
+
+name and epithet
+* Miracle
+	* saintly name (common name)
+	* miracle story
+* Hagiography
+	* 
+	* notes of their life, times, and ending
+	* 
+* Patronage
+	* clients
+* Walking in Their Footsteps
+	* how?
+* Paraphernalia
+	* Shrine (place): status
+	* known relics?
+
 
 ### St Wick the Venerable
 

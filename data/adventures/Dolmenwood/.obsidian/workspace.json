@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Classes/Knight.md",
+                "file": "Characters/Classes/Magician.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knight"
+              "title": "Magician"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Races/Elf.md",
+                "file": "Characters/Classes/Magician.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elf"
+              "title": "Magician"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/The Faith.md",
+                "file": "Rules/Taking Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Faith"
+              "title": "Taking Action"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Overview.md",
+                "file": "Setting/Faerie/Faerie Realms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Overview"
+              "title": "Faerie Realms"
             }
           },
           {
@@ -83,16 +83,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Holy Magic.md",
+                "file": "Setting/Faerie/Absynthe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Holy Magic"
+              "title": "Absynthe"
+            }
+          },
+          {
+            "id": "58fe30cba276cbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/The Nobility.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Nobility"
+            }
+          },
+          {
+            "id": "f0d0fb6bc2b0aef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage/Magic/Faerie Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faerie Magic"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +174,7 @@
             }
           },
           {
-            "id": "553412618a5e5c40",
+            "id": "80cc4b53fc5f8993",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/The Faith.md",
+                "file": "Characters/Classes/Magician.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Faith"
+              "title": "Outline of Magician"
             }
           }
         ],
@@ -249,34 +277,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a8538853c5a602d",
+  "active": "a4a00930357d015f",
   "lastOpenFiles": [
+    "Characters/Classes/Rogue.md",
+    "Rules/Taking Action.md",
+    "Characters/Classes/Magician.md",
+    "Characters/Classes/Knight.md",
+    "Characters/Classes/Hunter.md",
+    "Characters/Classes/Friar.md",
+    "Characters/Classes/Fighter.md",
+    "Characters/Classes/Enchanter.md",
+    "Characters/Classes/Bard.md",
+    "Characters/Equipment.md",
+    "Characters/Classes/Cleric.md",
+    "Rules/Exploration.md",
+    "Characters/Character Basics.md",
+    "Rules/Combat.md",
+    "Rules/Harm, Recovery, and Conditions.md",
+    "Rules/Rules.md",
     "Magic/Holy Magic.md",
-    "Magic/Mossling Knacks.md",
-    "Setting/The Faith.md",
-    "Magic/Magic Overview.md",
+    "Characters/Races/Human.md",
+    "TODO.md",
+    "Characters/Races/Elf.md",
     "Magic/Faerie Magic.md",
-    "Setting/The Nobility.md",
-    "Setting/Factions.md",
-    "Setting/Magic Items.md",
-    "Setting/Magicians.md",
-    "Setting/The Eldritch.md",
-    "Setting/The Witches.md",
-    "Setting/The Drune.md",
+    "Magic/Magic Overview.md",
     "Setting/Faerie/Faerie Realms.md",
-    "Setting/Faerie/The Gardens of Ynn.md",
-    "Setting/Faerie/Catland.md",
-    "Setting/Faerie/Goblintown.md",
-    "Setting/Faerie/Gloomhold.md",
-    "Setting/Faerie/Frigia.md",
-    "Setting/Faerie/Everborne.md",
-    "Setting/Faerie/Blossom Fields.md",
-    "Setting/Faerie/Tallowspire.md",
-    "Setting/Faerie/(Faerie Realm Template).md",
-    "Setting/Faerie/Absynthe.md",
-    "Setting/Faerie/Lampwrack.md",
-    "Setting/Faerie/Ravenwild.md",
-    "Setting/Faerie/Hypnagogia.md",
+    "Characters/Races/Mossling.md",
+    "Magic/Mossling Knacks.md",
+    "Characters/Races/Breggle.md",
     "Maps/Dolmenwood_Referee_Map_Pack/Dolmenwood VTT Hex Map Settlements.png",
     "Setting/Faerie",
     "Storage/Magic",
