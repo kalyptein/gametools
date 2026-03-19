@@ -350,6 +350,9 @@ D6 Condition
 * Recent, bound and gagged, with a gaping abdominal wound; a member of Leofwin Rufus’s doomed party (see SL5-44 and SL6-16) 
 * Ancient, trapped with explosive runes, and carrying a scroll of protection from demons 
 
+found corpses
+* ancient piscodaemon husk
+
 ### SL6-12: Cave of the Colossal Column 
 
 * Several stalagmites and stalactites have fused together in the northeast corner of this cave, forming a huge column 20’ across and extending 30’ to the ceiling of the cave.
@@ -365,6 +368,17 @@ D6 Condition
 	* All six wear an odd necklace (25 gp) made of bits of coral, bone, smooth glass, and teeth, vaguely resembling a fanged eel’s head, marking their bearers as members of the cult of the eel (see SL6-15).
 
 6 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 24, 22, 20, 18, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
+* doom or paralyzed 1d3 rounds
+
+
+X / 20
+X / 24
+
+X / 22
+X / 18
+
+X / 16
+X / 15
 
 ### SL6-13: Cave with Pool
 
@@ -410,7 +424,22 @@ Kreel, a 7th-level fishman shaman (see new monsters): SZ M; AL CE; AC 5; MV 60�
 * Possessions: mace +2, blue glass activation square in headdress
 * Spells prepared: cure light wounds, light, protection from good; chant, snake charm, resist fire; blindness, dispel magic; poison (reverse of neutralize poison).
 
+X / 41
+
 4 giant eels (moray): SZ M; AL N; AC 6; HD 5; HP 35, 31, 28, 25, 24; #AT 1; Dmg 3-18.
+
+break free of webbing 4 / 5
+
+X / 24
+X / 22
+
+X / 20
+X / 18
+X / 17
+
+X / 16
+X / 15
+
 
 ## Sub-Level 6: 16 - 37  (Upper)
 
@@ -439,7 +468,7 @@ Sarcophagus
 Huge Bust of Tiresias
 * This massive bust (10’ tall, 5’ wide, 3’ deep) is carved of solid marble, and with close attention to every detail.
 	* An elderly man, thin to gauntness, nearly bald with unruly tufts of hair by his ears, with narrowed, suspicious eyes and a short, snub nose.
-	* The only splash of color on the white marble marble is a heavy chain of gold and lapis rectangles around Tiresias’s neck (1325 gp.
+	* The only splash of color on the white marble marble is a heavy chain of gold and lapis rectangles around Tiresias’s neck (1325 gp).
 		* Touching the chain causes a magic mouth to speak (Mithric) “Remove me at your peril!”  An empty threat.
 		* If the chain is removed, the head clicks open on a hinge, revealing a cavity.
 			* Alabaster jar with the ashes of Tiresias the White (50 gp for the jar,  but the ashes could sell to modern Priscians for 575 gp)
@@ -457,6 +486,14 @@ GM Note
 
 1 flensing demon (name: Belubzor) (see new monsters): SZ L; AC -1; MV 90’, leap 40’; HD 9+9; HP 76; #AT 4; Dmg 1-6/1-6/1-6/1-6; MR 35%. Constant abilities: infravision. Special 
 attacks: flensing; leap; mucous spit. Special defenses: +2 or better weapons to hit; half damage from cold, electricity, fire, and gas. Special: invisibility; detect invisibility; levitate (1,000 lb); dispel magic; darkness (20’ diameter); ESP; teleport without error; gate (50%).
+
+atk 22, def 21, MR 35%
+X / 76
+flense: on tentacle hit, 1d3 bleed for 1d4+2 rounds
+(1 per 3 rounds) spit mucous 2d4 acid
+at will, one per round: invisibility, detect invisibility, levitate (1,000 lb), dispel magic, darkness (20’ diameter), and ESP.
+
+frost cage: 30%, rounds 1
 
 ##### SL6-16a: Corpses and Secret Door 
 
@@ -617,7 +654,9 @@ Library of the Tower of Pol (see Arden Vul books for all) (Title Author)
 		* The corpses are the remains of the last three Priscian war mages to attempt to access the Drowned Canyon via the teleporter.
 
 1 enormous gray ooze: SZ L; AL N; AC 8; MV 10’; HD 5+5; HP 37; #AT 1; Dmg 2-16. Special attacks: corrode metal. Special defenses: impervious to spells; immune to heat and cold. 
-* The ooze has consumed all the metallic valuables from the dead Priscians.  Only three light-blue surcoats, a potion of climbing, and three scrolls (water breathing, enchanted weapon, and interposing hand) in a wooden scroll case remain.
+* The ooze has consumed all the metallic valuables from the dead Priscians.  3 light-blue surcoats, a potion of climbing, a wooden scroll case (water breathing, enchanted weapon, and interposing hand) remain.
+
+0 / 37
 
 ### SL6-20: Doors to Nowhere
 
@@ -695,10 +734,14 @@ defenses: +2 or better weapons to hit; immune to cold and fire; cured by electri
 			* 433 ancient silver pennies, 387 ancient gold solidi.
 			* A platinum model of an archaic legionary fortress (1,150 gp)
 			* A spear +2, +3 versus golems, light crossbow of accuracy
-			* A piece of obsidian carved (Mithric) with: “The construct known as Sulla had to be dismantled, for in the absence of the (Ptah) dwarven smith, he has proven uncontrollable. The military sorcerers of the XIth Legion were required to dismantle it with spells of transmutation” (refers to Sulla the Myrmex, whose remains lie in SL6-22).
+			* A piece of obsidian carved (Mithric) with: “The construct known as Sulla had to be dismantled, for in the absence of the (Ptah) dwarven smith, it has proven uncontrollable. The military sorcerers of the XIth Legion were required to dismantle it with spells of transmutation” (refers to Sulla the Myrmex, whose remains lie in SL6-22).
 * Hiding behind the northern sarcophagus are 3 wights, ready to attack.
 
 3 wights: SZ M; AL LE; AC 5; MV 120’; HD 4+3; HP 33, 29, 27; #AT 1; Dmg 1-4. Special attacks: energy drain. Special defenses: silver or magic needed to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
+
+X / 33
+X / 29
+X / 27
 
 ### SL6-24: The Drowned Canyon
 
@@ -926,14 +969,14 @@ D20 Object Notes
 
 10 lizardmen (25%): SZ M; AL N; AC 4; MV 60’, 120’ swimming; HD 2+1; HP 15, 13, 13, 12, 12, 11, 11, 10, 9, 9; #AT 1 or 3; Dmg 1-6 (club) and 1-6 (javelin), or 1-2/1-2/1-8. Possessions: clubs; javelins; shields.
 
-X / 15
-X / 13
-X / 13
-X / 12
-X / 12
-X / 11
-X / 11
-X / 10
+0 / 15
+0 / 13
+0 / 13
+0 / 12
+0 / 12
+0 / 11
+0 / 11
+0 / 10
 
 sleeping
 9
@@ -1354,7 +1397,7 @@ Colossal moray eel (see new monsters): stats at SL6-24
 
 ### SL6-60: Hall of the Archons (Partly-Submerged)
 
-* Like the entrance corridor (SL6-58), this 15’-tall chamber is flooded 5’ deep (-1 attack and damage, difficult terain).
+* Like the entrance corridor (SL6-58), this 15’-tall chamber is flooded 5’ deep (-1 attack and damage, difficult terrain).
 	* A hint of the formerly vibrant painted walls is now smears of wet color running down the walls and statues.
 	* Four statues (9’ tall) in the corners of the room depict generalized figures of ancient archons (actually Archontean animated constructs - spearman ).
 		* A male archon in toga, gesturing with a baculus.
@@ -1393,7 +1436,7 @@ Colossal moray eel (see new monsters): stats at SL6-24
 		* Bin #1: 5,439 ancient silver pennies
 		* Bin #2: 3,467 ancient gold solidi
 		* Bin #3: 1,111 white pearls (100 gp each) and one giant pearl (5,000 gp).
-		* Bin#4: empty
+		* Bin #4: empty
 	* An iron bar is set in the north wall; from it hangs an ivory horn of domination (new).
 	* Secret Door (east): opens by pushing a stone slab towards the east (open doors).
 
@@ -1432,9 +1475,10 @@ Sarcophagi
 		* Contents: Jovianus’s bones, scale mail +1.
 	* Sarcophagus #5: Quirinus the Factor
 		* Image: An aged man dressed in the toga of office, cradling a baculus. He wears a gold ring on the right hand (75 gp).
-		* Inscription: Quirinus, builder in more ways than one; architect, negotiator, harmonizer; wise father.
+		* Inscription: Quirinus, builder in more ways than one; archon, architect, negotiator, harmonizer; wise father.
 		* Contents: Quirinus’s bones.
-	* Sarcophagus #6: Borsella Iron-Fist
+
+	 Sarcophagus #6: Borsella Iron-Fist
 		* Image: A female with fierce eyes and a scowl, dressed in legionary armor. Her hands are clenched in fists. An iron ring is on the right ring-finger.
 		* Inscription: Borsella, she of the iron fists, who tolerated no disobedience.
 		* Contents: Empty.
@@ -1570,7 +1614,7 @@ D30 Item(s) Notes
 * 1 9 ancient silver pennies(see Arden Vul items) tied into a roll with linen
 * 2 An iron holy symbol of Thoth 25 sp
 * 3 1-2 octagonal platinum coins
-* 4 13 ancient gold solidi (see Arden Vul items) strung ona leather cord
+* 4 13 ancient gold solidi (see Arden Vul items) strung on a leather cord
 * 5 A silver holy symbol of Set 50 gp
 * 6 A silver holy symbol of Horus 50 gp
 * 7 A battered and empty rudishva lesser power supply
@@ -1622,6 +1666,10 @@ D30 Item(s) Notes
 
 2 giant pikes: SZ L; AL N: AC 5; MV 360’ swimming; HD 4; HP 26, 22; #AT 1; Dmg 4-16. Special attacks surprise on 4 in 6. 
 
+X / 26
+X / 22
+
+
 ### SL6-72: Burial Niches (Dry)
 
 SL6-72 to SL6-79 48 days (9.6 days)
@@ -1646,7 +1694,7 @@ Note: The air supply in this chamber is fixed; see general sub-level conditions 
 
 Note: The air supply in this chamber is fixed; see general sub-level conditions above.
 
-* This 30’x30’x10’ chamber holds a bullet-shaped basalt monument at the exact center.
+* This 30’x30’x20’ chamber holds a bullet-shaped basalt monument at the exact center.
 	* The ==monument== is of sickly grey granite, 3’ in diameter and 6’ tall.
 	* Scattered around it are eight moldering corpses which appear to have been flung backward, though each has an outstretched hand reaching towards the monument.
 		* They come from various periods (4 ancient, 2 lizardmen, 2 fishmen). None appear to bear any injury. They have been stripped of all valuables.
