@@ -84,20 +84,23 @@ Talents & Bonuses
 
 ## Combat
 
-Attack Bonus
+### Attack Bonus
+
 * Stat bonus portion of attack bonus max +4; class bonus is added after.
 	* Forceful (including forceful thrown): STR + 1 if DEX >= +1
 	* Finesse (including finesse thrown): DEX + 1 if STR >= +1
 	* Missile (including finesse thrown): WIS + 1 if DEX >= +1
 
-Defense Bonus
+### Defense Bonus
+
 * Unarmored: DEX-1
 * Light armor: DEX
 * Medium armor: DEX+2
 * Heavy armor: +4
 * Shield: +2
 
-Hit Points
+### Hit Points
+
 * Total HP= (max of 1dHD) + CON + (level-1)dHD
 	* Reroll HP at each level, taking the new value if it's higher than current.  Otherwise take current HP + 1 (unless that would be above the max possible).
 * Split HP into two equal pools, Guard and Grit, with any odd point going to Guard.
@@ -112,18 +115,18 @@ Casting Bonus
 
 ## Miscellaneous
 
-Backgrounds
+### Backgrounds
 
 * You are Trained in performing the various facets of your background(s).
 
-Size
+### Size
 
 * Tiny, Small, Medium, Large, Huge, Gargantuan, Colossal
 
-Encumbrance
+### Encumbrance
 
-* Free Items
-	* You can carry up to 3 Light items without occupying any slots.
+* Free Items (treat as Readied)
+	* You can carry up to 3 Small items without occupying any slots.
 	* You can carry up to 100 coins without occupying any slots.
 	* You can carry any reasonable number of Tiny items without occupying any slots.
 * Readied Slots: 5 + (STR + CON)/2, rounding up
@@ -139,7 +142,7 @@ Encumbrance
 	* If you have burdening items, you have a Heavy Load.
 		* Can't swim, Slowed, +D to all activities, including attack, casting, and defense.
 
-Luck & Inspiration
+### Luck & Inspiration
 
 * Luck
 	* During an action, you can spend a Luck to reroll a die (d20 or damage), keeping whichever result you prefer.

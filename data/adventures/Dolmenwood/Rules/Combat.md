@@ -77,6 +77,14 @@ decisions
 	* a hit deals damage and halts / zeroes out movement
 
 
+can shoot/thrown out to double listed range w/ +D
+
+
+* 1h) you have a spare hand to grapple, hold, use, half-sword, throw, etc
+* 1h + shield) higher defense
+* 2h) higher damage
+* dual) each round choose between +1 defense or rolling both damage dice and using higher
+
 ## Harm
 
 Death

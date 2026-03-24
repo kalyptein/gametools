@@ -235,10 +235,6 @@ Usage by Level
 	- If any party knowingly breaks the agreement, you and all participants know who, but not how.  If they broke it and only realize later, the awareness occurs then.
 	- If the deal is completed / obviated / waived, you and all participants know it, and the glamour ends.
 
-
-
-
-
 ## The List of Runes
 
 Realms, Rulers, and Runes

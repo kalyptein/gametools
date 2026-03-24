@@ -1,4 +1,29 @@
 
+* classes and advancement
+	* cleric witchhunter - still not happy with it
+	* magician needs a few more talents
+	* fighter talent / bonus review
+* equipment
+* 
+* arcane magic (crafting wands, eldritch patrons, spell list, spell descriptions)
+	* making a spell source?
+	* arcane mishaps table(s)
+	* research boons and banes
+* 
+* holy magic (turn undead, holy ground, cure wounds effect on injuries?)
+	* finish processing saint entries in The Faith page
+* faerie magic (cosmology overview, call wild magic?)
+* 
+* taking action
+* combat
+* exploration
+* 
+* downtime
+* 
+* rewards
+
+
+
 questions
 
 * Witchhunter cleric benefits good?  Kind of clunky
@@ -30,8 +55,6 @@ downtime
 
 
 priest spells
-
-* copy saint miracle stories off to The Faith page, remove from Holy Magic
 
 * when I settle on rules for wound healing, maybe add some rules for the Cure Wounds miracle helping with that?
 
@@ -112,62 +135,3 @@ Things to add to Dolmenwood?
 * 
 * Petty Gods (might have some good ideas for faerie lords or wood god-like beings)
 
-
-
-
-
-
-
-Protection
-* Ward Against Frost and Flame
-* Mantle of Protection
-* Circle of Protection
-* Sanctuary
-
-Heal
-* Restore Life and Limb - includes regenerate
-* Lesser Healing - cure wounds
-* Greater Healing - replace with mass cure
-
-Restoration
-* Cure Affliction
-* Remove Poison
-* Remove Curse
-
-Holy Light
-* Holy Light
-* Light
-* Holy Fire
-
-* Augury
-* Communion
-
-* Detect Magic
-* Detect Evil
-* Reveal Alignment
-* Reveal Peril
-* Locate Object
-
-* Bless Weapon
-* Bless
-
-* Speak With Animals
-* Speak With Plants
-
-* Create Food
-* Command Water
-
-* Command
-
-* Holy Quest
-
-* Insect Plague
-* Obscuring Mist
-* Purify
-* Feather Fall
-* Serpent Transformation
-* Clarity
-* Silence
-* Animal Growth
-* Hold
-* Aid

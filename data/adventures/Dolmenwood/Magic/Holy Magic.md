@@ -150,7 +150,7 @@ Holy Oil
 	* Holy oil can only offer benefit once per affliction.
 * An anointed weapon is able to harm unholy beings for 10 minutes as if it were silver or magic.
 
-Creating Blessed Panoply
+Creating Blessed Materials
 * As a downtime action including the Sabbath, on holy ground, a ritual use of the Bless miracle can craft blessed items (60% of full cost).
 * With costly materials, a holy forge, suitable skill, and time, you can craft blessed weapons, arrows, shields, armor, etc.
 

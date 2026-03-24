@@ -72,6 +72,7 @@ Spell Sources
 	* Sites of power, such as rune-carved standing stones, petroglyphs, etc.  Taking sketches, samples, etc allows you to encapsulate one spell from the source in portable form (1 slot).
 * If you study a source as a downtime action, roll INT DC 15 to learn one of its spells.
 	* Reduce the DC a step each subsequent downtime spent studying it, until you learn a spell.
+* 
 * A magician can, with considerable time, materials, and paying twice the spell's insight cost, record their knowledge to create a new spell source.
 	* 
 	* ??? 2x insight cost, magic ink Tier = spell Tier, (spell Tier)^2 x 100 gp
