@@ -108,7 +108,7 @@ A relic of the failed Archontean attempt to recolonize the halls (see 5-18)
 
 6 lizardman hatchlings: noncombatants (AC 7, HP 2). 
 
-##### SL5-2a: Negotiation Cave
+m##### SL5-2a: Negotiation Cave
 
 * This relatively dry cave located between SL5-2 and SL5-5 is unoccupied by lizardmen.
 	* It is used for preliminary negotiations with those approaching the area from Level 4.
@@ -255,6 +255,8 @@ javelins; shields. Of the ten, three are females who fight as 1 HD creatures.
 
 2 giant crayfish: SZ L; AL N; AC 4; MV 60’, 120’ swimming; HD 4+4; HP 30, 26; #AT 2; Dmg 2-12/2-12. Special attacks: surprise on 3 in 6.
 
+atk 17, def 16
+X / 30
 ##### SL5-13a: Burial Shrine of Kentillian the Magnificent
 
 * On the cave floor of SL5-13, 40’ below the water line, sits a small white-marble building in the greco-roman style.
@@ -360,7 +362,10 @@ elemental magic, poison, and mind-affecting spells; +1 or better weapons to hit;
 	* The ruins are guarded by six piscodaemons bound centuries ago by Kentillian.
 		* They attack anyone that ventures onto the island; the lizardmen avoid it like the plague, saying only that it is ‘haunted’.
 		* If the shrine ( SL5-13a) is entered, any surviving piscodaemons instantly leap to defend it.
-	* In one of the ruined buildings is a secret door leading to a staircase descending 25' to a laboratory which still contains some nice equipment.
+	* In one of the ruined buildings is a secret door leading to a staircase descending 25' to a ==laboratory==.
+
+Laboratory
+	* The laboratory which still contains some nice equipment.
 		* 4 10-lb gold ingots (500 gp each), a full set of glass activation squares.
 		* Potions of animal control, clairvoyance, diminution, ESP, extra healing, fire resistance (x2), flying, gaseous form, longevity (x2), speed.
 		* 4 spell scrolls: 
@@ -373,6 +378,15 @@ elemental magic, poison, and mind-affecting spells; +1 or better weapons to hit;
 
 6 piscodaeomons: SZ M; AL NE; AC -1; MV 60’, 180’ swimming; HD 6; HP 45, 42, 37, 33, 32, 30; #AT 2; Dmg 2-16/2-16; MR 60% to 1st-level spells. Constant abilities: infravision; ultravision. Special attacks: seize with claws; poison. Special defenses: never surprised; -1 to damage die from water-based spells; half damage from acid, cold, and fire; immune to poison and paralysis; silver, or +1 or better weapons to hit. Special: detect invisible; read 
 magic; comprehend languages; invisibility; telepathy; word of recall. 
+
+atk 18, def 21
+
+X / 33
+X / 45
+X / 42
+X / 37
+X / 32
+X / 30
 
 ### SL5-15: Secondary Lake and Island
 
@@ -417,6 +431,15 @@ magic; comprehend languages; invisibility; telepathy; word of recall.
 
 6 lizardmen: SZ M; AL N; AC 4; MV 60’, 120’ swimming; HD 2+1; HP 13, 12, 11, 11, 10, 9; #AT 1 or 3; Dmg 1-6 (club) and 1-6 (javelin), or 1-2/1-2/1-8. Possessions: clubs; javelins; shields.
 
+atk 15, def 16
+
+X / 13
+X / 12
+X / 11
+X / 11
+X / 10
+X / 9
+
 ### SL5-18: Lizardman Egg Guardians
 
 * Eight lizardmen, guardians of the egg clutches, wait patiently in the dry ell to the north of this cave.
@@ -425,6 +448,16 @@ magic; comprehend languages; invisibility; telepathy; word of recall.
 
 8 lizardmen: SZ M; AL N; AC 4; MV 60’, 120’ swimming; HD 2+1; HP 15, 13, 12, 12, 11, 11, 10, 9; #AT 1 or 3; Dmg 1-6 (club) and 1-6 (javelin), or 1-2/1-2/1-8. Possessions: clubs; javelins; shields.
 
+atk 15, def 16
+
+X / 15
+X / 13
+12
+6 / 12
+X / 11
+X / 11
+10
+X / 9
 ### SL5-19: Egg Clutches
 
 * Five egg clutches dot the walls of this cave, nestled among the fronds of the green friend in the 4’-deep water. 
@@ -436,8 +469,8 @@ magic; comprehend languages; invisibility; telepathy; word of recall.
 	* Inside are the ancient remains of Strith, assistant of Kentillian the Archmage (SL5-13a).  He grew alarmed by Kentillian’s as she neared her transformation into a lich, and attempted to flee.  Her daemonic agents tracked him down and slew him here.
 	* Strith’s skeleton still wears rags of his old livery (a stylized “K”).
 		* His rotted leather satchel: ivory plaque, a faded parchment
-			* Plaque, inscribed in blood (Mithric) “1) Take the body of Kentillian the Magnificent to the resting chamber at the foot of the pillar bearing her residence. 2) Watch the water rise, and retire to the laboratory under the residence. 3) Wait for my summoned minions to transform you into a higher form. 4) Once transformed, wait four-score years before descending and releasing Kentillian the Undying. 5) Do not mention any of these details to those meddling priests of Thoth, and especially avoid Kel Bormol, the so-called ‘Overseer.’ -- Kentillian the Magnificent, soon-to-be Kentillian the Undying.” 
-			* Parchment, partially burned (Mithric) “… you were right to contact me. Bring the incriminating plaque to the Great Hall at once so that we may stop this foolishness. We shall meet on the 24th. Keep quiet until then. -- Kel Bormol, Overseer.”
+			* In brass scroll tube w/ K cap, a fine scrolls, inscribed in blood (Mithric) “Strith, my trusted assistant, follow these instructions to the letter: 1) Take the body of Kentillian the Magnificent to the resting chamber at the foot of the pillar bearing her residence. 2) Watch the water rise, and retire to the laboratory under the residence. 3) Wait for my summoned minions to transform you into a higher form. 4) Task the demons with guarding the residence and resting chamber.  5) Once transformed, wait four-score years before descending and releasing Kentillian the Undying. 6) Do not mention any of these details to those meddling priests of Thoth, and especially avoid the so-called ‘Overseer.’ -- Kentillian the Magnificent, soon-to-be Kentillian the Undying.”
+			* Parchment, partially burned (Mithric) “… you were right to contact me. Bring the incriminating message to the Great Hall at once so that we may stop this foolishness. We shall meet on the 24th. Keep quiet until then. -- Kel Bormol, Overseer.”
 		* By his side is an ebony spear +1, +4 vs. reptiles. 
 
 ### SL5-21: Unsettling Sight
@@ -686,6 +719,7 @@ stinking cloud, web; blink, dispel magic, feign death, fireball, haste, slow, wa
 	* If things are looking grim, one of the females or warriors will touch the emerald eyes of the statue to summon the keqemander.
 	* Sgraal will use the north tunnel concealed hole or the pool if needing to escape.
 
+Perrilk (son of Sgraal)
 
 Chief Sgraal, a lizard king: SZ L; AL CE; AC 1; MV 150’, 120’ swimming; HD 8; HP 53; #AT 1; Dmg 12-27. Special attacks: skewer if roll to hit is 5 more than needed. Possessions: trident; 
 amulet of natural armor +2 (see new magic items); girdle of hill giant strength.
@@ -822,7 +856,9 @@ GM’s choice
 * A stunjelly has made its way from the Drowned Canyon (Sub-Level 6), and waits patiently along the north wall for fishmen, lizardmen or adventurers.
 	* It has no treasure, making it even harder to spot.
 
-1 stunjelly: SZ L; AL N; AC 8; MV 30’; HD 4; HP 25; #AT 1; Dmg 2-8. Special attacks: paralysation; surprise 3 in 6.
+1 stunjelly: SZ L; AL N; AC 8; MV 30’; HD 4; HP 25; #AT 1; Dmg 2-8. Special attacks: paralyzation; surprise 3 in 6.
+
+22 / 25
 
 ### SL5-45: Storage Room with Lost Adventurer
 
@@ -841,21 +877,30 @@ GM’s choice
 		* Buried in the scales is a scale-covered mesh bag holding a garnet (300 gp).
 	* Bin #4: a block and tackle, missing its rope.
 	* Bin #5: 25 pieces of granite, each 12”x3” in size, roughly shaped into biped forms.
-		* Meant to be sculpted into tomb garnishings, but never completed.
+		* Meant to be sculpted into tomb garnishing, but never completed.
 		* One of the pieces is much heavier than its fellows: actually a solid gold statuette of Bastet (4000 gp) with a permanent illusion cast upon it.
 			* Offering it as a gift at the temple of Bastet (8-30) gives+40% reaction, or automatically improves the current relationship one step.
 
-Leofwin Rufus, 5th-level male Thorcin cleric of Heschius Ban: SZ M; AL LE; AC 3; MV 90’; HD 5; HP 17 (max 31); #AT 1; Dmg 4-9 (footman’s flail +2). Abilities: STR 11, INT 8, WIS 16, DEX 9, CON 12, CHA 17. Possessions: banded mail and shield; footman’s flail +2; backpack with 3 flasks of oil, two torches, a packet of iron rations, 50’ of rope, and a silver holy symbol. Spells: 
+Leofwin Rufus, 5th-level male Thorcin cleric of Heschius Ban: SZ M; AL LN; AC 3; MV 90’; HD 5; HP 17 (max 31); #AT 1; Dmg 4-9 (footman’s flail +2). Abilities: STR 11, INT 8, WIS 16, DEX 9, CON 12, CHA 17. Possessions: banded mail and shield; footman’s flail +2; backpack with 3 flasks of oil, two torches, a packet of iron rations, 50’ of rope, and a silver holy symbol. Spells: 
 bless, command, cure light wounds, light, protection from evil; chant, find traps, hold person, silence 15’ radius (x2); feign death.
 
 ### SL5-46: Fishman Ambush
 
 * The door is identical to that at SL5-44, and pinned into an open position by a long pole.
-	* Two more unfinished sarcophagi are here; both are rough-hewen, without any sculptural decoration.
+	* Two more unfinished sarcophagi are here; both are rough-hewn, without any sculptural decoration.
 * A hunting party of eight fishmen (new) crouches here, hoping to ambush some lizardmen.
 	* They have come from their home in the Flooded Vaults (SL7) through the Drowned Canyon (SL6).
 
 8 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 24, 22, 20, 19, 18, 17, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
+
+X / 24
+X / 22
+X / 20
+X / 19
+X / 18
+X / 17
+X / 16
+X / 15
 
 ### SL5-47: Corridor to SL6-36
 

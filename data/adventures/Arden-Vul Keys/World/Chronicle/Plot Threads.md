@@ -837,10 +837,17 @@ TODO
 * Give J the creation mold recipes
 * post 'On the Terrible Old Gods' text to J
 
-
 they owe Psalor-Ki valuable slime and bio-samples in  return for the Ring of Jagri-Naz
 * Took samples from Leil-Jor and varuda slime zombies for Psalor-Ki 
 	* seems unlikely, but he'll ask if there's any chance they could get an uninfected varuda sample from their quarters (he's a bit rusty on varuda biology after 3000 years).
+
+
+
+Basil Choumnos and the junior team bump into each other
+
+
+Kusok One-Eye (lizard shaman) will want to slay the Savage Heart, guided by Kauket
+* Bsak wants Kusok
 
 
 Priscians start using paid/charmed intermediaries, or going down to Newmarket
