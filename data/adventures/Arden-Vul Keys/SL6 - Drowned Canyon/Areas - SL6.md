@@ -710,8 +710,7 @@ Background
 * Sulla is the Myrmex (new monster), a unique construct created by Zhorak the Smith, a dwarven smith whose long career spanned much of the era of the Archontean hegemony.
 * In addition to use against the heqeti, the archons used Sulla to demolish unwanted structures.
 
-Sulla the Myrmex (see new monsters): SZ L; AL N; AC 4; MV 60’; HD 16; HP 70; #AT 2; Dmg 3-24/3-24; MR special. Special attacks: slow 10' radius once per 3 rds; clenched fists 1/turn. Special 
-defenses: +2 or better weapons to hit; immune to cold and fire; cured by electricity; immune to all spells except stone to flesh (3d6 dmg, 75% chance a limb falls off).
+Sulla the Myrmex (see new monsters): SZ L; AL N; AC 4; MV 60’; HD 16; HP 70; #AT 2; Dmg 3-24/3-24; MR special. Special attacks: slow 10' radius once per 3 rds; clenched fists 1/turn. Special defenses: +2 or better weapons to hit; immune to cold and fire; cured by electricity; immune to all spells except stone to flesh (3d6 dmg, 75% chance a limb falls off).
 * Clenched Fists (1/turn): it clubs its hands together and produces an enhanced version of clenched fist; vs flesh (auto-hit, 4d6 damage, save at -2 or be stunned 3 rounds); vs stone (shatters a 10 cube of stone)
 * Limbs: focuses on rejoining any "severed" limbs (1 rounds to get and 1 to attach).
 
@@ -807,14 +806,14 @@ Destroying the Dam
 
 * This section of floor slopes downward. forming a concave depression about 10’ below the main level of the floor.
 	* A large purple pudding (new) inhabits the area.
-	* Unlike the natural cavern floor, this area appears to be a slagged mixture of stone, metal struts and rods, and fragments of plasteel. None have recognizable forms, nor are they easily separated from the stone to which they have been fused. 
+	* Unlike the natural cavern floor, this area appears to be a slagged mixture of stone, metal struts and rods, and fragments of plasteel. None have recognizable forms, nor are they easily separated from the stone to which they have been fused.
 	* The southeastern corner of the depression has a hole in the cavern wall leading to a tunnel that descending precipitously to 7-86.
 
 1 large purple pudding (see new monsters): SZ L; AL N; AC 8; MV 60’; HD 10; HP 69; #AT 1; Dmg 2-12. Special attacks: corrosive to metal and leather. Special defenses: immune to fire; 
-grows with electricity; conductive.
+grows with electricity; conductive.  2x from cold, mildly intelligent
 
 atk 22, def 12
-0 / 69
+X / 69
 
 
 
@@ -1599,6 +1598,8 @@ Vafer Telator, a mummy: SZ M; AL LE; AC 3; MV 60’; HD 6+3; HP 48; #AT 1; Dmg 1
 * Lesser Necklace of Prayer Beads: as normal, but the special beads can be used only once.
 * Imperial pin (hoplite helm): turned as a vampire; destroying it grants 1,000 xp points to a good character.
 * Since Vafer is submerged, he risks no danger from fire.
+
+41 / 48
 
 ### SL6-70: Burial Niches (Submerged)
 

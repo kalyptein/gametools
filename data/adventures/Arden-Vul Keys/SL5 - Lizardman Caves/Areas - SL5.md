@@ -356,6 +356,13 @@ Kentillian the Undying (see stats at SL5-13A)
 4 Archontean animated constructs - spearmen (see new monsters): SZ M; AL N; AC 2; MV 60’; HD 6; HP 45, 40, 38, 35; #AT 1; Dmg 5-10; MR 25%. Special defenses: immune to 
 elemental magic, poison, and mind-affecting spells; +1 or better weapons to hit; half damage from slashing or piercing weapons. Possessions: black iron spear.
 
+atk 18, def 18
+X / 45
+X / 40
+
+X/ 38
+X / 35
+
 ### SL5-14: Island with Ruined Buildings
 
 * This island rises only 2’ above the waters of the cave, and holds ruins of Kentillian’s former residence and laboratory.
@@ -572,7 +579,7 @@ Lorg, 5th-level lizardman shaman (25%): SZ M; AL LE; AC 5; MV 60’, 120’ swim
 
 Bsak, 3rd-level lizardman shaman (25%): SZ M; AL LE; AC 5; MV 60’, 120’ swimming; HD as a 3+1 HD monster; HP 19; #AT 1 or 3; Dmg 1-6 (spear) and 1-6 (javelin), or 1-2/1-2/1-8. 
 * Possessions: javelins, spear
-* Spells memorized: cause light wounds, light; chant. 
+* Spells memorized: cause light wounds, light; chant.
 
 ## Sub-Level 5: 31 - 47
 
@@ -580,7 +587,7 @@ Bsak, 3rd-level lizardman shaman (25%): SZ M; AL LE; AC 5; MV 60’, 120’ swim
 
 * The cave of the senior shaman, Kusok One-Eye, is the most ‘civilized’ of the three.
 	* A fine ebony stool, a weapons rack with a broadsword and mace, a tattered banner with an image of a black boar on it (an ancient Set war-banner), and a chipped set of crystal stemware which Kusok greatly admires (25 gp).
-	* Hanging among the green friend are 6 gourds of double-doses of green friend juice (each heals 4-14 HP), 3 gourds keqemander acid (2d4  acid each, and 1 HP splash).
+	* Hanging among the green friend are 6 gourds of double-doses of green friend juice (each heals 4-14 HP), 3 gourds keqemander acid (2d4 acid each, and 1 HP splash).
 	* In a nook hidden by the green friend are 2 tears of Kauket; a bejeweled golden cup (1,250 gp) and 3 garnets (300 gp each).
 	* At the rear of his cave the green friend conceals a narrow tunnel to SL5-32. 
 		* If surprised in his cave, Kusok attempts to retreat to SL5-32.
@@ -629,6 +636,11 @@ D8 Wild Magic Effect
 * 8 All five effects occur
 
 3 orange oozes (see new monsters): SZ M; AL N; AC 6; MV 30’; HD 8; HP 57, 49, 43; #AT 1; Dmg 2-12; MR 85%. Special attacks: destroy magic item on hit. Special defenses: non-magic weapons to hit.
+
+atk 20, def 14
+X / 57
+0 / 49
+18 / 43
 
 ### SL5-33: Giant Crab Cage
 

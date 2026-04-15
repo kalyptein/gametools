@@ -56,7 +56,7 @@ Thorcin
 * Rowan - security, protection, love
 * Apenn - fortune, wine, agriculture
 * Croul - mountains, snow
-* Ghureena - growth, productivity, order
+* Ghureena - productivity, order, craft, industry
 * Thefila - marriage, fidelity, family
 * Thrufor - travel, trade, the disabled (clubfooted)
 * Dapp - mountains, forests, growth, fertility, animals

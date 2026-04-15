@@ -485,41 +485,32 @@ Varboka, the troll thegn (5%): see stats at 7-30.
 
 ### 7-14: Hunters’ Lodge
 
-The elite varumani confraternity of hunters has its headquarters in this chamber.
-The 15’-tall chamber is dimly lit with huge tapers made of (smelly) rendered animal fat.
-The chamber is filled with stuffed and mounted monster heads: a jaguar, a yeth hound, an ogre, a guardian of Thoth, a heqeti weaver, a heqeti hopper, a frost ghoul, two fishmen, a dog-brother beastman, a fungal forester, a Set deacon, a giant rudishva skeleton, and an entire giant four-armed baboon.
-Amid all the trophies, eight hammocks are slung from the ceiling.
-By the doorway is a weapons rack, and three chests rest in the northeast corner.
-A set of heavy black velvet drapes blocks the eastern alcove, in which hang numerous sides of meat.
-An enormous cauldron steams in the center of the room; the hunters use it to rend the fat from their prey in order to make tallow candles.
-Three wooden chests carved with various animal and monster images dot the chamber. 
+* The headquarters of the elite varumani confraternity of hunters.
+	* The 15’-tall chamber is dimly lit with huge tapers of (smelly) tallow.
+	* Stuffed and mounted monster heads (1d4 x 100 gp each).
+		* A jaguar, a yeth hound, an ogre, a guardian of Thoth, a heqeti weaver, a heqeti hopper, a frost ghoul, two fishmen, a dog-brother beastman, a fungal forester, a Set deacon, a giant rudishva skeleton, and an entire giant four-armed baboon.
+	* 8 hammocks are slung from the ceiling.
+	* Heavy black velvet drapes block the eastern alcove, holding numerous sides of meat.
+	* An enormous, tallow-rendering cauldron steams in the center of the room.
+	* By the doorway is a weapons rack.
+		* 2 2h swords, a 2h axe, a heavy boar spear, a halberd, and 2 heavy crossbows
+	* 3 chests carved with various animal and monster images rest in the northeast corner.
+		* Chest 1: Gethite lotus powder (16 2-oz pieces (flora; stolen from traders on the chasm floor, 100 gp / oz); 4 vials of heqeti acid (drawn from fresh corpses); 8 doses of hunter’s friend (av items); 11 doses of varumani knock-out juice (av items); potions (3 waterbreathing; 2 extra healing; 1 human control).
+		* Chest 2: 374 ancient silver pennies; 298 ancient gold solidi; 1,149 sp; 357 gp; and 19 ancient octagonal platinum pieces.
+		* Chest 3: 4 pieces of ivory (225 gp each), a weretiger pelt (300 gp), 4 sable pelts (100 gp each), 3 teeth from a gold dragon (100 gp each).
+* Secret Door (north): easy to locate (1 in 4), swings on a vertical pin (open doors).
+	* Leads to a narrow passage and a concealed door into the chasm. 
+	 * A hand- and foot-hold shortcut in the chasm walls extends from the concealed door down 50’ to the Dread Risers (7-2).  Iron hooks, pitons, and pulleys spiked into the rock to allow them to hoist their catch from the Risers to the concealed door.
 
- At any given moment 4-6 of the hunters are present in the lodge, skinning hides, sharpening blades, and drinking crude mushroom wine.
- The hunters are widely respected and feared for their independent ways.
- Winning their friendship is likely to convey significant advantages upon any seeking to negotiate with Varboka the thegn.
- That said, the hunters are among the smartest and most ruthless of the varumani, and are more likely to attempt to kill those they encounter in the wilds than they are to befriend them.
- Among the better-known members of the confraternity are Nolgi and Livod, each of whom has a 5% chance of being present. 
-
- One of the senior and most-respected members of the confraternity, Bedara, has been missing for a month.
- She had been scouting rumors of a new danger on the chasm floor (the aroksachaul at 9-50 - see new monsters) when she was ambushed by a heqeti strike force; she is now suffering perpetual torture in area 10-8.
- Nolgi, in particular, would very much like news of Bedara; he and the others would proclaim eternal friendship to those who rescued Bedara.
-
- The hunters have their own shortcut to the Dread Risers (7-2): a set of hand- and foot-holds carved in the chasm wall and extending from the concealed door down 50’ to the Risers.
- They have hammered a series of iron hooks, pitons, and pulleys into the rock to allow them to hoist their catch from the Risers to the concealed door. 
-
-Secret Door (north): The door is easy (1 in 4) to locate. It swings soundlessly on a vertical pin; a successful open doors check pushes it open. The door leads to a narrow passage and a concealed door that gives forth onto the chasm. 
-
-Weapons rack: two two-handed swords, a two-handed axe, a heavy boar spear, a halberd, and two heavy crossbows
-
-Mounted monster heads: each (except the Set deacon) could be sold to collectors in a large city for 100-400 gp each.
-
-Chest 1: 2 lb of Gethite lotus powder in sixteen 2-oz pieces, stolen from traders on the chasm floor (100 gp per ounce) (see new flora); 4 vials of heqeti acid drawn from fresh corpses; 8 doses of hunter’s friend (see Arden Vul items); 11 doses of varumani knock-out juice (see Arden Vul items); 3 potions of waterbreathing; 2 potions of extra healing; and a potion of human control.
-
-Chest 2: 374 ancient silver pennies (see Arden Vul items); 298 ancient gold solidi (see Arden Vul items); 1,149 sp; 357 gp; and 19 ancient octagonal platinum pieces (see Arden Vul items).
-Chest 3: 4 pieces of ivory from a variety of unusual beasts (225 gp per piece), a weretiger pelt (300 gp), four sable pelts (100 gp each), and 3 teeth from a gold dragon (100 gp each).
-
-
-
+* At any given moment 4-6 of the hunters are present in the lodge, skinning hides, sharpening blades, and drinking crude mushroom wine.
+	* The hunters are widely respected and feared for their independent ways.
+	* Winning their friendship conveys significant advantages to negotiate with Varboka the thegn.
+	* The hunters are among the smartest and most ruthless varumani, more likely to kill those they encounter in the wilds than to befriend them.
+* Better-known members of the confraternity:
+	* Nolgi and Livod (5% each of being present).
+	* Bedara, one of the senior and most-respected members has been missing for a month.
+		* While scouting rumors of a new danger on the chasm floor (the aroksachaul at 9-50), she was ambushed and captured by a heqeti strike force and is now suffering perpetual torture in 10-8.
+		 * Nolgi wants news of Bedara; he and the others would proclaim eternal friendship to those who rescued her.
 
 4-6 true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail.
 
@@ -599,18 +590,34 @@ Hraskaya, a true varumani (see new monsters), and chief of the clan (25%): true 
 
 ### 7-18: Vanaraya Clan Quarters
 
-The basic orientation of this chamber is comparable to that of 7-17, at least in terms of the bunkbeds and general layout. The walls are painted a soothing ochre color. 
+* This chamber is laid out similar to 7-17.
+	* The walls are painted a soothing ochre color. 
+	* Benches border the central living space, occupied by 4 large tables.
+		* They hold dice, game boards (backgammon), scores of clay mugs, and a double-sized keg of Hak’s mushroom ale (30 gp; see 7-94). 
+	* West is a wrestling pit and weapons rack along with ==three chests==.
+		* The rack contains three two-handed swords, two large battle-axes, two halberds, two rudishva dart throwers (but with only 2 clips of ordinary darts – see new technological items), four ballistic batons (see new technological items), and a sheaf of 12 javelins. 
+	* East is a construction zone for experimenting with new engineering projects. 
+		* Pile of randomly-sized pieces of wood, string and rope, bits of metal and plasteel, and so forth.
+		* Currently contains a set of 2’-tall pillars connected by string (a model for an improved troll lift apparatus), and a set of 6’-long sliding, interlocking bits of colored plasteel (a portable bridge that extends up to 15’).
+		* Amid the tools and projects is also a rudishva security encoder (tech) to code troll chests to a new handprint.
 
-Benches border the central living space. The center is occupied with four large tables pushed together, on which are dice, game boards (backgammon), scores of clay mugs, and a double-sized keg of Hak’s mushroom ale (30 gp; see 7-94). To the west is a wrestling pit and weapons rack along with three chests. The rack contains three two-handed swords, two large battle-axes, two halberds, two rudishva dart throwers (but with only 2 clips of ordinary darts – see new technological items), four ballistic batons (see new technological items), and a sheaf of 12 javelins. To the east is a pile of randomly sized pieces of wood, string and rope, bits of metal and plasteel, and so forth. This is a construction zone, where the Vanaraya experiment with new engineering projects. Currently the area contains a set of 2’-tall pillars connected by string (a model for an improved troll lift apparatus), and a set of 6’-long sliding, interlocking bits of colored plasteel (a portable bridge that extends up to 15’). Amid the tools and projects is also a rudishva security encoder (see new technological items), used to code troll chests to a new handprint. 
+* Chests 1 and 2 (unlocked, open to all clan members).
+	* 6,479 silver pieces
+	* 36 small bits of carved plasteel, ivory, and bone in a variety of shapes (worth 5 gp each to a collector of art naïf)
+	* 2 large silver platters embossed with a sheepshead and the Archontean numeral II (plunder from the massacre of Adrienic’s expedition; see 5-18, 125 gp each)
+	* 3 bolts of silk (purple, yellow, and blue; 250 gp each)
+	* 2 tokens of Arden (av items)
+	* Numerous objects of daily life (cups, mugs, IOUs, small knives, etc.)
+	* Rudishva identity plaques (3 copper, 1 brown, 2 bronze, 1 pink, 1 orange). 
+* Chest 3 (troll chest, keyed to the hand of Vedreya One-Eye, current clan chief)
+	* Complete maps of all varumani areas of Level 7 ( 7-1 to 7-76), neatly labelled by function in Varumani Semi-glyphik.
+	* The helmet of Vanara (a rudishva battle helmet (tech).
+		* Affixed inside is a carefully folded bit of parchment with an accurate sketch of the non-secret areas of the Midnight Road (5-86 to 5-137, not including 5-99 to 5-104).
+	* 2 fully-charged lesser power supplies (tech) saved for emergencies.
 
-Treasure: 
-Chests 1 and 2 are unlocked and open to all clan members. They contain a total of 6,479 silver pieces, plus 36 small bits of carved plasteel, ivory, and bone in a variety of shapes (worth 5 gp each to a collector of art naïf), a pair of large silver platters embossed with a sheepshead and the Archontean numeral II (GM Note: plunder from the massacre of Adrienic’s expedition; see 5-18 et seq.), worth 125 gp each; 3 bolts of silk (purple, yellow, and blue) worth 250 gp each; 2 tokens of Arden (see Arden Vul items); numerous worthless objects of daily life (cups, mugs, IOUs, small knives, etc.); and several rudishva identity plaques: three copper, a brown, two bronze, a pink, and an orange plaque. 
-
-Chest 3 is a troll chest (see new technological items) keyed to the hand of Vedreya One-Eye, the current clan chief. Inside are complete maps of the entirety of the varumani areas of Level 7 (areas 7-1 to 7-76); the chambers on the maps are neatly labelled by function in Varumani Semi-glyphik. Also in the chest is the helmet of Vanara, a rudishva battle helmet (see new technology) with special significance to the varumani in general and to the Vanaraya in particular. Affixed to the inside of the helmet is a carefully folded bit of parchment with an accurate sketch of the non-secret areas of the Midnight Road (areas 5-86 to 5-137, not including 5-99 to 5-104). Finally, Vedreya has a stash of 2 fully-charged lesser power supplies (see new technological items) that he’s saving for emergencies.
-
-
-The Vanaraya were traditionally the first of the clans, given their descent from Vanara (see 5-139). Currently they have lost some of their status, and have only 18 true and 31 lesser varumani members. About 50% of the clan is present in this chamber at any given time. 
-
+* The Vanaraya were traditionally the first of the clans, descended from Vanara (see 5-139).
+	* Currently they have lost some status, and have only 18 true and 31 lesser varumani members.
+	* About 50% of the clan is present in this chamber at any given time. 
 
 9 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 63, 61, 60, 59, 59, 58, 55, 53, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special 
 defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
@@ -670,22 +677,45 @@ enfeeblement, web; blink, explosive runes, gust of wind, hold person, lightning 
 
 ### 7-22: Ashoka, the Court Sorcerer
 
-The powerful and influential varumani court sorcerer, Ashoka, resides here. The large chamber has a hammock in the northwest corner with a troll chest (see new technological items) under it, a large work desk in the center, a scroll and codex cabinet by the door, and an alchemical apparatus to the south.
+* The powerful and influential varumani court sorcerer, Ashoka, resides in this large chamber.
+	* A hammock hangs in the northwest corner, a troll chest (tech) under it.
+		* Troll chest (keyed to Ashoka):
+			* Ashoka’s spell book
+			* a 6’-long ‘string’ of silver, coiled like solder; 
+			* 3 lb of arcanum
+			* gold and sapphire Sortian eyes
+			* a leather sack (451 sp, 399 gp)
+			* a silk pouch (4 black opals, 1000 gp each)
+			* a pair of gauntlets of fire absorption (new)
+			* a human-sized guard cap (new)
+			* a packet of immobilizing mesh (new).
+	* A large work desk in the center
+	* A scroll and codex cabinet by the door
+		* Scrolls (stinking cloud, extension I, ice storm, magic jar, monster summoning III, reincarnation).
+		* Codices
+			* the Ancient Ones, by Laelius the Praetor
+			* Dogmatics of Father Set
+			* Pandects of Thaumaturgical Visitation
+			* Planar Dwellers and their Powers, by Nominus Obscurus
+			* “Property of Eustachius the Cantor”
+			* Thoth in all his Forms
+	* An alchemical apparatus to the south (750 gp).
+		* Among the retorts and glassware are several potions (potions of the berserk (new), clarity (new), growth and polymorph).
+	* Secret Door (south): difficult to find (1 in 8), keyhole in the pavement by the door.
+		* Ashoka has the only key, but the First Adept (7-24) knows of the door.
 
-As a member of the Rudigaya clan, Ashoka is constantly being pressured by his clansmen to manipulate the thegn; he is firmly loyal to Varboka, however, and has refused such overtures. Ashoka is highly intelligent and a keen judge of character; Varboka relies on him in almost all decision-making.
+* Ashoka is highly intelligent and a keen judge of character; Varboka relies on him in almost all decision-making.
+	* As a member of the Rudigaya clan, Ashoka is constantly being pressured by his clansmen to manipulate the thegn; he is firmly loyal to Varboka, however, and has refused such overtures.
 
-The alchemical apparatus is valuable (750 gp); mixed in with the retorts and glassware are several potions, including potions of the berserk (see new magic items), clarity (see new magic items), growth and polymorph.
-
-In the cabinet are several magic user scrolls and a few rare codices. The scrolls are of stinking cloud, extension I, ice storm, magic jar, monster summoning III, and reincarnation.
-
-The codices include: the Ancient Ones, by Laelius the Praetor; Dogmatics of Father Set; Pandects of Thaumaturgical Visitation; Planar Dwellers and their Powers, by Nominus Obscurus; “Property of Eustachius the Cantor”; and Thoth in all his Forms (see Arden Vul books for all).
-
-Inside the troll chest (see new technological items), which is keyed to Ashoka, are Ashoka’s spell book, a 6’-long ‘string’ of silver, coiled like solder; 3 lb of arcanum (see new magic items); gold and sapphire Sortian eyes (see new magic items); a leather sack with 451 sp and 399 gp; a silk pouch with four black opals (1000 gp each); a pair of gauntlets of fire absorption (see new magic items); a human-sized guard cap (see new magic items); and a 
-packet of immobilizing mesh (see new magic items).
-
-Secret Door (south): This door is difficult to discover (1 in 8). A keyhole exists in the pavement in front of the door; only Ashoka has the key, but the First Adept (7-24) knows of the door’s existence.
-
-Ashoka the Court Sorcerer, a true varumani (see new mon-sters), 12th-level magic user: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 62; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 5-11 (staff of the magi 1-6+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 12th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: keys to areas 7-11, 7-23, 7-28, and 7-67; a sky blue rudishva identity plaque (see new technological items); an operator’s keycard for the weapons controller in 7-11; a rod of absorption; and a staff of the magi (21 charges). Memorized spells: comprehend languages, detect magic, identify, sleep; continual light, detect evil, levitate, ray of enfeeblement; dispel magic, fireball, slow, suggestion; confusion, monster summoning II, remove curse, wall of fire; conjure elemental, contact other plane, telekinesis, wall of force; monster summoning IV. 
+Ashoka the Court Sorcerer, a true varumani (see new mon-sters), 12th-level magic user: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 62; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 5-11 (staff of the magi 1-6+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 12th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
+* Possessions
+	* keys (7-11, 7-23, 7-28, and 7-67)
+	* a sky blue rudishva identity plaque; 
+	* an operator’s keycard for the weapons controller in 7-11; 
+	* a rod of absorption; 
+	* a staff of the magi (21 charges)
+* Memorized spells
+	* comprehend languages, detect magic, identify, sleep; continual light, detect evil, levitate, ray of enfeeblement; dispel magic, fireball, slow, suggestion; confusion, monster summoning II, remove curse, wall of fire; conjure elemental, contact other plane, telekinesis, wall of force; monster summoning IV. 
 
 Ashoka’s Spell Book: All standard first level spells; all standard second level spells; blink, clairaudience, dispel magic, fireball, gust of wind, haste, hold person, fly, invisibility 
 10’ radius, item, lightning bolt, monster summoning I, slow, suggestion, tongues; charm monster, confusion, dig, dimension door, extension I, hallucinatory terrain, ice storm, monster summoning II, polymorph other, remove curse, wall of fire; cone of cold, conjure elemental, contact other plane, interposing hand, magic jar, monster summoning 
@@ -693,21 +723,53 @@ III, telekinesis, wall of force; forceful hand, globe of invulnerability, monste
 
 ### 7-23: Sorcerer’s Secret Chamber
 
-The existence of this hidden chamber is known only to the Court Sorcerer and First Adept, but the only key is held by the former. 
-
-The chamber is rough carved. Its only decoration is a large slogan painted on the south wall: “The Truth Can Hurt. Keep This Secret!” A stone table stands in the center of the chamber. On it sit two incredible treasures that the court sorcerers have kept squirreled away for centuries. The first is the Testament of Vanara (see Arden Vul books), and describes in detail the collapse of the rudishva hegemony, the treachery of Rudiga, the death of Druva, and the wanderings of the varumani. It describes the passage from 7-28 to 5-141, and clearly describes Vanara’s resting place. Making the contents of the Testament widely known to the varumani would cause serious repercussions at the thegn’s court: 1) the Rudigaya clan would be shamed, and its members marginalized; 2) the harmony of the varumani society would be broken, leading to factionalization and infighting; 3) expeditions to reclaim Level 5 would be mounted almost immediately. For political reasons, therefore, a long succession of court sorcerers has kept the Testament secret from even the thegn.
-
-The second treasure comprises two incredibly rare Priscian texts, the Hidden Codex and a heretofore unknown portion of the Fragment (see Arden Vul books for both). Information derived from the texts would be extremely valuable to the Archontean authorities in Narsileon or the modern Priscians (at areas 9-58 to 9-64 and elsewhere). Ashoka has correctly intuited from these texts that Isadora’s resting place is nearby, and he would like to locate it (GM: the location is SL11-19).
+* The existence of this rough-carved, hidden chamber is known only to the Court Sorcerer and First Adept, but the only key is held by the former. 
+	* Its only decoration is a large slogan painted on the south wall: “The Truth Can Hurt. Keep This Secret!”
+	* A stone table stands in the center of the chamber, holding 3 tomes the court sorcerers have kept squirreled away for centuries.
+		* The Testament of Vanara
+			* Describes in detail the collapse of the rudishva hegemony, the treachery of Rudiga, the death of Druva, and the wanderings of the varumani. It describes the passage from 7-28 to 5-141, and clearly describes Vanara’s resting place.
+			* If widely known to the varumani, it would cause serious repercussions at the thegn’s court:
+				1) the Rudigaya clan would be shamed, and its members marginalized
+				2) the harmony of the varumani society would be broken, leading to factionalization and infighting
+				3) expeditions to reclaim Level 5 would be mounted almost immediately.
+			* For political reasons, a long succession of court sorcerers has kept the Testament secret from even the thegn.
+		* 2 incredibly rare Priscian texts
+			* The Hidden Codex
+			* A heretofore unknown portion of the Fragment.
+			* Information from the texts would be extremely valuable to the Archontean authorities in Narsileon or the modern Priscians (at 9-58 to 9-64 and elsewhere).
+			* Ashoka has correctly intuited from these texts that Isadora’s resting place is nearby, and he would like to locate it (GM: the location is SL11-19).
 
 ### 7-24: Glif, the First Adept
 
-This chamber is the abode of the First Adept, the second most important sorcerer at the varumani court. The current First Adept is Glif, a lesser varumani. Glif has had the chamber painted a cheery yellow, over which she likes to practice painting images of monsters and other Arden Vul denizens. Images of chasm cephalopods, subterranean lizards, carcass creepers, and one of Kerbog Khan’s basic exploration automatons are visible. If guests ask about the automaton, Glif reveals that she encountered it at 8-62 (“in the Nether Reaches, in one of the ruined corridors north of the troll lift”). Glif has a hammock, an ordinary wooden chest, a work-table, a scroll case, and a gagged Priscian attached to the north wall with manacles. 
+* This chamber is the abode of the First Adept, the second most important sorcerer at the varumani court (currently Glif, a lesser varumani).
+	* The chamber is painted a cheery yellow, over which Glif paints images of monsters and other Arden Vul denizens (chasm cephalopods, subterranean lizards, carcass creepers, one of Kerbog Khan’s basic exploration automatons, etc). 
+		* Asked about the automaton, Glif says she encountered it at 8-62 (“in the Nether Reaches, in one of the ruined corridors north of the troll lift”). 
+	* A hammock.
+	* An ordinary wooden chest.
+		* A set of beautiful black silk robes embroidered with dragons (she wears it in private, 75 gp); 10 black pearls (500 gp each); a sack (357 ancient silver pennies, 121 ancient gold solidi); a sack (7,456 sp, 3,718 gp); 3 lb of arcanum; and her spell book.
+	* A work-table.
+		* A fine map of the western areas of Level 8 (8-1, 8-3, and 8-27 to 8-46), lacking only secret doors
+		* Strewn about are Raeda's Priscian chain mail, Sortian baculus (imbued with blink), and Priscian gladius +2.
+	* A scroll case.
+		* Scrolls: find familiar, suggestion, locate object, wizard lock, conjure elemental, polymorph self, and remove curse.
+* A gagged Priscian is manacled to the north wall.
 
-Ashoka shocked the thegn’s court by appointing Glif as First Adept, as there has never been a lesser varumani in any position of sorcerous importance (and, indeed, only a handful of lesser varumani apprentices over the centuries). Glif is certainly worthy of the post, however, as she is extremely intelligent and possessed of a keen insight into varumani psychology. She plays up the ‘dumb’ lesser varumani stereotype, and wears ‘primitive’ attire, including a mountain lion head and pelt as a cape, but is in truth one of the most canny varumani of them all. Despite Ashoka’s trust and her obvious ability, Varboka is a bit off-put by her. Glif is quite the explorer, and has been known to accompany members of the Hunters’ Lodge (7-14), and especially Nolgi, on expeditions to the Nether Reaches (Level 8).
+Glif
+* Ashoka shocked the thegn’s court by appointing Glif as First Adept.
+	* There has never been a lesser varumani of any sorcerous importance (and only a handful of apprentices over the centuries).
+	* Glif is worthy of the post, extremely intelligent, possessed of a keen insight into varumani psychology, and one of the most canny varumani of all.
+	* She plays up the ‘dumb’ lesser varumani stereotype, wearing ‘primitive’ attire (mountain lion head and pelt as a cape). 
+	* Despite Ashoka’s trust and her obvious ability, Varboka is a bit off-put by her. 
+	* Glif is quite the explorer, and has been known to accompany members of the Hunters’ Lodge (7-14), and especially Nolgi, on expeditions to the Nether Reaches (Level 8).
+	* Glif also has an imp as a familiar; it goes by the bizarre name ‘Elliott’.
 
-Glif also has an imp as a familiar; it goes by the bizarre name ‘Elliott’.
-
-The Priscian prisoner is named Noredden (Raeda Vyksdottir; Noredden is a dupe from Arcane Vengeance). Glif and Nolgi encountered Noredden in the Nether Reaches. After slaying her conversi, they captured her and brought her back to the varumani court for interrogation. Noredden has thus far revealed little, and Glif and Ashoka are growing frustrated; more advanced torture is imminent. The sorcerers are seeking specific information on the access points to the Priscian areas (9-58 to 9-64), and details of its layout. The thegn fully supports the sorcerers’ efforts, as he worries about the existence of a powerful force in an unknown location. Varboka is unaware that Ashoka is also interrogating Noredden with the hopes of extracting information about a hidden tomb connected with the Sortians (i.e., the Tomb of Isadora at Sub-Level 11). Unfortunately Noredden knows nothing of that tomb, nor even much about Isadora. 
+* The Priscian prisoner is named Noredden (Raeda Vyksdottir)
+	* (Noredden is a dupe from Arcane Vengeance).
+	* Glif and Nolgi encountered Noredden in the Nether Reaches.
+		* Slaying her conversi, they brought her back to court for interrogation.
+		* Noredden has revealed little, and Glif and Ashoka are growing frustrated; more advanced torture is imminent.
+		* The sorcerers are seeking specific information on the access points to the Priscian areas (9-58 to 9-64), and details of its layout.
+		* The thegn fully supports the sorcerers’ efforts, as he worries about the existence of a powerful force in an unknown location. Varboka is unaware that Ashoka is also interrogating Noredden with the hopes of extracting information about a hidden tomb connected with the Sortians (i.e., the Tomb of Isadora at Sub-Level 11). Unfortunately Noredden knows nothing of that tomb, nor even much about Isadora. 
 
 Glif, the First Adept, a female lesser varumani (see new monsters), 8th-level magic user: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 9-14 (short sword +4, 1-6+8). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and 
 other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: keys to 5-28 and 7-67; a gold Sortian eye (see new magic items); a rudishva useful palm (of correction) with 2 charges (see new magic items); a wand of secret door and trap detection (73 charges); and a short sword +4. Her memorized spells are: comprehend languages, feather fall, Frigg’s flatulence (see new spells), magic missile; levitate, Pol’s endless sneezes (see new spells), the pummeling fists of Arak-Zhorr (see new spells); dispel magic, haste, lightning bolt; confusion, wall of ice.
@@ -716,12 +778,6 @@ other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: keys t
 weapons to hit; immune to fire, cold and electricity; save vs magic as 7 HD creatures. Special: polymorph self (to animal form); detect magic; detect good; detect magic; invisibility; regenerate 1 hp/round, suggestion 1/day.
 
 Noredden Galesdottir, 7th-level female elf magic user: SZ M; AL LN; AC 8; MV 120’; HD 7; HP 12 (max 22); #AT 1; Dmg by weapon. Abilities: STR 9, INT 18, WIS 15, DEX 16, CON 10, CHA 13. Noredden’s spell book was destroyed when she was captured.
-
-Treasure: 
-In addition to the items carried on her person (see above), Glif ’s chest contains: a full set of beautiful black silk robes embroidered with dragons, which she wears in private (75 gp); a pouch holding 10 black pearls (500 gp each); a sack with 357 ancient silver pennies (see Arden Vul items) and 121 ancient gold solidi (see Arden Vul items); another sack with 7,456 sp and 3,718 gp; 3 lb of arcanum (see new magic items); and her spell book.
-
-Her scroll case contains the following scrolls: find familiar, suggestion, locate object, wizard lock, conjure elemental, polymorph self, and remove curse. The work area has a fine 
-map of the western areas of Level 8 (areas 8-1, 8-3, and 8-27 to 8-46), lacking only secret doors; strewn about it are Noredden’s Priscian chain mail, Sortian baculus (imbued with blink), and Priscian gladius +2 (see new magic items for each).
 
 Glif ’s Spell Book: Burning hands, charm person, comprehend languages, detect magic, feather fall, find familiar, friends, Frigg’s flatulence (see new spells), identify, light, magic missile, read magic, shield, spider climb; continual light, detect evil, ESP, invisibility, knock, levitate, locate object, mirror image, Pol’s endless sneezes (see new spells), the pummeling fists of Arak-Zhorr (see new spells), pyrotechnics, stinking cloud, web, wizard lock; clairaudience, dispel magic, gust of wind, haste, hold person, lightning bolt, slow, suggestion, tongues; confusion, dig, dimension door, fire shield, minor globe of invulnerability, polymorph self, remove curse, wall of ice.
 
@@ -736,6 +792,11 @@ against the south wall, along with two clan chests and a stand holding Gavra’s
 
 Should combat break out in the clan room, 25% of the varumani who are present will take to the ropes and attempt either to use missile weapons or to drop down on opponents from above.
 
+Treasure:
+Within the clan chests are the following: 7,392 sp and 531 gp; an ioun stone (pale green); a rudishva data crystal (see new technological items) entitled Anatomy of the Enemy (see Arden Vul books); a faded scroll entitled The Time of Darkened Skies, written in Semi-glyphik (see Arden Vul books); a grey soapstone statuette of Kauket, with white veins, taken on Level 9 (250 gp); and an array of rudishva identity plaques (see new technological items), 4 copper, one brown, one sky blue, one bronze, and one pink plastic.
+
+
+
 11 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 63, 61, 60, 59, 59, 58, 58, 57, 55, 53, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
 
 18 lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 60, 59(x3), 58(x3), 57(x3), 55(x3), 54(x3), 53, 51; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (mattock, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: mattock.
@@ -745,9 +806,6 @@ defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic
 
 6 varumani infants (see new monsters), 1 of which is true: SZ M; AL LN; AC 8; MV 120’; HD 4; HP 26, 25, 21, 20, 19, 17; #AT 3; Dmg 1-2/1-2/1-6. Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
 
-Treasure:
-Within the clan chests are the following: 7,392 sp and 531 gp; an ioun stone (pale green); a rudishva data crystal (see new technological items) entitled Anatomy of the Enemy (see Arden Vul books); a faded scroll entitled The Time of Darkened Skies, written in Semi-glyphik (see Arden Vul books); a grey soapstone statuette of Kauket, with white veins, taken on Level 9 (250 gp); and an array of rudishva identity plaques (see new technological items), 4 copper, one brown, one sky blue, one bronze, and one pink plastic.
-
 ### 7-26: Druvaya Clan Quarters
 
 The basic orientation of this chamber is comparable to that of 7-17, at least in terms of the bunkbeds at the east and west ends and a 20’x30’ open space between them. The walls are painted in electric green spotted with bright silver ‘suns’. 
@@ -755,6 +813,10 @@ The basic orientation of this chamber is comparable to that of 7-17, at least in
 The Druvaya clan is the least interested in politics; its members are always more interested in a good, clean fight. The clan is currently composed of 22 true and 46 lesser varumani. Many of the Druvaya are found as guards elsewhere, however, so the clan hold is not particularly crowded. At any given time about 9 true and 18 lesser varumani are present in the chamber, sleeping, relaxing, or good-naturedly beating each other up. Their clan-chief, Igrippa the Unruly is frequently found here, clowning around with ‘the boys and girls.’ 
 
 Battered benches border the central living space. A solitary trestle table stands to the north. It has a number of sharp daggers thrust into it (for the knife game), while a score of cheap clay mugs are piled near a double-sized keg of Hak’s mushroom ale (30 gp; see 7-94). The bulk of the area is given over to a sparring ring set off by ropes attached to spears thrust into holes in the ground, and to a sanded wrestling area. A long weapons rack against the south wall holds six halberds, six two-handed swords, six huge clubs, six two-handed axes, a score of javelins, a pair of rudishva ballistic batons (see new technological items), six large crossbows, and 120 large crossbow bolts.
+
+Treasure:
+Underneath the table is a trough-sized wooden box containing 5,743 sp; 16 dried mushrooms (8 white ribs, 2 red veils, 2 orange lamps, and 4 cloud caps – see new flora for all); a vial of stone salve; a mask of the skull (carved as a kaliyani skull/face); and several rudishva identity plaques: 2 copper, one rust, and one pink.
+
 
 9 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 63, 61, 60, 59, 59, 58, 57, 55, 53; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special 
 defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
@@ -766,9 +828,6 @@ Igrippa the Unruly, a true varumani (see new monsters) (33% chance): SZ L; AL LN
 defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: mattock +1, ring mail +2. 
 
 8 varumani infants (see new monsters), 2 of which are true: SZ M; AL LN; AC 8; MV 120’; HD 4; HP 26, 25, 23, 22, 21, 20, 19, 17; #AT 3; Dmg 1-2/1-2/1-6. Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision.
-
-Treasure:
-Underneath the table is a trough-sized wooden box containing 5,743 sp; 16 dried mushrooms (8 white ribs, 2 red veils, 2 orange lamps, and 4 cloud caps – see new flora for all); a vial of stone salve; a mask of the skull (carved as a kaliyani skull/face); and several rudishva identity plaques: 2 copper, one rust, and one pink.
 
 ### 7-27: Thegn’s Audience Hall
 
@@ -1102,24 +1161,21 @@ Paganus, Priscian conversus (see new monsters), as a 5th-level male Archontean f
 
 ### 7-45: Great Cavern, or the Varumani Proving Grounds
 
-This massive cavern averages 75’ in height.
-Phosphorescent mush-rooms from the southern portion of the cavern (south of the pool at 7-49) offer a dim light, through which can be glimpsed several looming rock formations (7-47, 7-48, and 7-53).
-The environment is humid and damp, and the air is filled with the sound of drips and subterranean insects.
-Numerous ledges line the walls of the cavern, some of which lead to small subsidiary cave systems.
+* This massive cavern, humid and damp, averages 75’ in height.
+	* Phosphorescent mushrooms from the southern end of the cavern (south of the pool at 7-49) offer a dim light.  Water drips, and subterranean insects whir and chirp.
+	* Several looming rock formations (7-47, 7-48, and 7-53).
+		* North: a deep, sandy pool of spring-fed water surrounds a 40’-tall rock formation (7-47 and 7-48).
+		* South: a small fungal forest (same species as the Great Cavern of Level 3): white ribs, white bulbs, orange lamps, eye-openers, cloud caps, blue trumpets (flora). 
+			* The mushrooms surround another prominent rock formation, on the top of which is an ancient ruin (7-53).
+	* Numerous ledges line the walls of the cavern, some of which lead to small subsidiary cave systems.
+	* The varumani access the cavern via the wooden ladder at 7-63.
 
-The varumani access the cavern via the wooden ladder at 7-63.
-While they have not formally colonized the cavern, the varumani consider it to lie within their domain.
-They maintain it as a sort of nature preserve, albeit with several practical functions as well: 
-
-* it is a place for young varumani to learn combat techniques against the monsters that typically congregate nearby
-* it provides valuable food supplies in the form of giant mushrooms and hunted animals
-* it is mined for valuable arcanum (see new magic items), iron, and ‘glowing sand’ (radioactive silicon)
-* it provides alternative routes to other portions of the lower Halls (especially 7-52, which provides access to the silver mine at 9-27). To the north, a deep, sandy pool of spring-fed water surrounds a 40’-tall rock formation (7-47 and 7-48).
-
-To the south, the cavern is dominated by a small fungal forest, in which grow all the same species found in the Great Cavern of Level 3 (3-163, 3-172): white ribs, white bulbs, orange lamps, eye-openers, cloud caps, blue trumpets (see new flora for all). 
-The mushrooms surround another prominent rock formation, on the top of which is an ancient ruin (7-53).
-
-Chances for a random encounter are doubled here.
+* Chances for a random encounter are doubled here.
+* It isn't formally colonized, but the varumani consider it within their domain as a sort of nature preserve, albeit with several practical functions as well: 
+	* Young varumani learn combat against the monsters that congregate nearby.
+	* It supplies edible giant mushrooms and game to hunt.
+	* Arcanum, iron, and ‘glowing sand’ (radioactive silicon) are mined.
+	* It provides routes to elsewhere in the lower Halls (especially 7-52, and thence to the silver mine at 9-27).
 
 ## Level 7: 46 - 60
 
@@ -1139,25 +1195,26 @@ Chances for a random encounter are doubled here.
 
 ### 7-48: Varumani Sand Mining Operation
 
-The varumani dredge the pool (7-49) for ‘glowing’ sand and other objects from atop this 25’ rock formation.
+* The varumani dredge the pool (7-49) for ‘glowing’ sand and other objects from atop this 25’ rock formation.
+	* The formation is reached by a pair of small, 2-person dinghies (one attached to the eastern shore, near 7-63, the other to the western foot of 7-48).
+		* The varumani learned to paddle swiftly to avoid the blood eels infesting 7-49.
+		* Hand- and foot-holds lead to the top of the formation.
+	* Atop the formation are 4 dredging stations and an 8’ structure of well-fitted stone blocks.
+		* Dredging Stations: heavy buckets on chains are dropped from these iron frames and winched back up with muck from the pond bottom.
+		* Structure: muck is sifted through a sluice and rocker box.
+			* A couple of barrels hold the gathered ‘glowing’ sand.
+			* A wooden box holds other strange objects dredged up.
+				* A horned rudishva skull, 6 small pieces of plasteel in various colors, 2 badly corroded and ruined lesser power supplies, a badly corroded long sword, a glass vial filled with contact poison, and 4 deep blue spinels (500 gp each).
 
-The formation is reached by a pair of small, 2-person dinghies, one of which is attached to the eastern shore (near 7-63) and the other to the western foot of 7-48.
+* Usually, 2 varumani are here, operating the dredges and filtering muck.
 
-Hand- and foot-holds in the formation allow the varumani to clamber to the top.
-
-The varumani have learned to paddle swiftly to avoid the blood eels that infest 7-49.
-
-Atop the formation are four dredging stations and an 8’ structure formed of well-fitted stone blocks.
-
-Most of the time two varumani are found here, operating the dredges and filtering muck. 
-
-Dredging Stations: These four areas are comprised of iron structures from which a heavy bucket depends. Using a winch, the varumani drop the bucket into the depths of the pond and pull up the contents of the bottom. The contents are sorted and filtered inside the neighboring structure.
-
-Structure: This simple stone structure holds a sluice and rocker box for sifting the materials dredged from the pond, as well as a couple of barrels used to hold the gathered ‘glowing’ sand. A wooden box in the corner holds other strange objects dredged from the pond: a rudishva skull with horns, six small pieces of plasteel in various colors, 2 badly corroded and unusable rudishva lesser power supplies, a badly corroded long sword, a glass vial still filled with contact poison, and 4 deep blue spinels (500 gp each). 
-
-Glowing Sand: The sand is fine and glows with a yellow-green color. It is, in fact, radioactive silicon from a nuclear disaster that occurred here in the early years of the rudishva hegemony (see below). As the varumani are immune to the radiation, they are happy to use it for smithing purposes in the Triple Forge (7-68). Given its off-world properties, it is potentially quite valuable, and might fetch 50 gp/lb from alchemists. Non-varumani who stay into contact with the glowing sand for more than 3 days, however, suffer from radiation sickness: 1-4 HP damage plus a loss of one point of CON for each subsequent day of contact. HP lost from radiation sickness may be regained normally, but CON loss can only be cured magically.
-
-GM Note: The nuclear-powered fuel-injection pod of the Beacon ended up in this cavern when the starship crashed. Although the udishva discovered the pod and tried to repair it, it eventually suffered a nuclear meltdown, turning areas 7-48 and 7-49 into a dangerous, radioactive slag pool. 
+Glowing Sand
+* The sand (radioactive silicon) is fine and glows yellow-green.
+	* Non-varumani in contact with the glowing sand more than 3 days, suffer radiation sickness: each day 1d4 damage and -1 CON (HP can be healed, but CON loss can only be cured magically).
+	* The varumani are immune to the radiation, and use it for smithing in the Triple Forge (7-68).
+	* 50 gp / lb from alchemists.
+* The nuclear-powered fuel-injection pod of the Beacon ended up here after the crash.
+	* The rudishva discovered the pod and tried to repair it, but it suffered a meltdown, turning 7-48 and 7-49 into a dangerous, radioactive slag pool.
 
 2 lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 58, 53; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
 
@@ -1235,7 +1292,6 @@ D8 Result
  * 2 xorn just arrived here, swimming through the nearby rock, munching on delicate ores.
 	 * They are hungry and attack anyone on whom they smell gold, silver, or gems.
 	 * They have not yet encountered the miners in 7-51C or 7-51D.
-
 
 4 lesser varumani (see new monsters), miners at 7-51C: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 59, 58, 57, 53; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% 
 resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.

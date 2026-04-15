@@ -829,6 +829,19 @@ Talk with Kerbog about him being wanted
 * what if Thoth would take him on as his "apprentice"?
 	* yes please
 
+Basil Choumnos and the junior team bump into each other
+
+Kusok One-Eye (lizard shaman) will want to slay the Savage Heart, guided by Kauket
+* Bsak wants Kusok and Yurtil dead
+
+Kirian - Gwelf's magic sword
+
+Sgraal has agreed to let the Savage Heart kill Kusok and Yurtil by secret means.
+* Bsak will ask them to destroy the idol at SL5-28 too, to be good and rid of Tsathogguan influence
+* What will the Savage Heart offer to the Skreel to make up for the loss of their shamans and divine favor (and Visby).
+* 
+* Kusok and Yurtil are dead, Sgraal has thoroughly repudiated Tsathoggua.  Bsak is in good favor and loaded up with gifts of scrolls and tokens.  Lorg is trying to get with the winning side.  The pukels and arcanum-slime shrine are destroyed / sealed away beneath stone.
+
 
 ### ==--- PRESENT DAY ---==
 
@@ -837,22 +850,13 @@ TODO
 * Give J the creation mold recipes
 * post 'On the Terrible Old Gods' text to J
 
-they owe Psalor-Ki valuable slime and bio-samples in  return for the Ring of Jagri-Naz
+The party owes Psalor-Ki valuable slime and bio-samples in  return for the Ring of Jagri-Naz
 * Took samples from Leil-Jor and varuda slime zombies for Psalor-Ki 
 	* seems unlikely, but he'll ask if there's any chance they could get an uninfected varuda sample from their quarters (he's a bit rusty on varuda biology after 3000 years).
-
-
-
-Basil Choumnos and the junior team bump into each other
-
-
-Kusok One-Eye (lizard shaman) will want to slay the Savage Heart, guided by Kauket
-* Bsak wants Kusok
-
+* Orange (arcanum) slime and corrupted arcanum chunk from SL5 heqeti shrine.
 
 Priscians start using paid/charmed intermediaries, or going down to Newmarket
 * Ebba won't be free to leave flowers for Priscus
-
 
 The Broom was able to spy out a lot of stuff in the aftermath of Astrid's visit to the thegn
 * They know she showed the doom cylinder.  The heqeti know she has it.  They will begin to probe.
@@ -866,26 +870,43 @@ Heqeti start trying to scry and spy out the Doom Cylinder
 	* Cheren and Tresti's cat familiar capture or kill one?
 * slimes, toad-imps, dreamstalking night-efts
 
-
 Temrin the goblin map-maker is making a magic map to lead to Callista
 * arcane connections to assist: callista's hair
 * ready after next downtime
 * near arena peddlers
 * she and any other captives (maybe some Arena vendor / hanger-on types?) are stashed somewhere nearby.
 
-
 Varboka sends the hunters to scout out the heqeti.
-* Bedara is captured (they only know she hasn't returned). 
-* They capture the hopper now kept in 7-33.
-* 
-* They also capture the Priscian prisoner by chance, down on the Chasm Floor?
-* 
-* Perhaps the Priscians do come back to deal with the Savage Heart, hoping Astrid can return their prisoner?
+* Nogli and Glif have captured the Priscian, Raeda Vyksdottir.  They haven't made her known to the court, seeking to learn more.  May 
+* Bedara is captured (the hunters are keeping it mum, they only know she hasn't returned, and seek to find her).
+* The hunters capture the hopper now kept in 7-33.
+* Cinna Minux has enthralled a couple hunters and is seeking to extend his power into the court.
+	* Mistrust of all deep-downers has grown (priscians? etc), and Cinna seeks to spread mistrust about the Knights as well.  Sir Prudence is concerned and unsure where this is coming from.
+		* Prudence confides in the Savage Heart.
+	* When Cinna learns of the Priscian captive, he'll try to get access to get his mesmeric claws into a Priscian (not easy, with Glif and Ashoka holding her).
+
+* ??? The Priscians come back to deal with the Savage Heart, hoping Astrid can return their prisoner?
 	* Or they try to magic them out?
-	* Cinna Minux might see the captive as a chance to get his mesmeric claws into a Priscian, if he can get them close enough (but they are held by Glif and Ashoka)
 
 
-Kirian - Gwelf's magic sword
+
+The party is routinely checking in with the dungeon allies:
+* Fane of Thoth
+* Beastmen
+* Goblins
+* Skreel
+* Varumani
+
+Uthgrim of the Order of the Fifth Circle collegium
+* visits the Savage Lodge
+* he's visited the Inn of the Lost; reports on its anti-magic zone
+* no particular luck searching for 8th Collegium
+
+* here investigating the Eighth Collegium
+* was in the Skreel lair
+* Astrid has given a lot of info on Sortians, their magics, 8th Col traces
+* invited to the Savage Lodge
+
 
 
 ## Future

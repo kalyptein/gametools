@@ -86,6 +86,8 @@ Gribble
 * brother of Weskenim, freed by Astrid from the prisons of the Setites
 Vingrim the Surly, head of the Royal Guard
 
+* Crosbenim (he) & Narbonim (she): "relatives" of Palestrim
+	* Cros was held by the Skreel, freed by Astrid
 
 Witch-Doctors & Entities
 * Haskel
@@ -176,23 +178,25 @@ Cold Jordan
 ## The Sun-Scarred Knights
 
 
-* Isok-Crix and Melok-Ri, co-vice-heads of the Security Department after the senior officer was killed in the war against the heqeti.
+Rudishva Era
+* Isok-Crix and Melok-Ri, co-vice-heads of the Security Department after the senior officer was killed in the initial heqeti aggression after the crash.
 * In the post-war era, they create the Harmonious Brotherhood (total 7 members), believing since the rudishva are here for a good long while, they should shake off complacency and colonize the region and bring local humans into the hegemony.  
 	* They found the sun-scarred hold (SL-10) and operate from there.
 	* They start ranging into the surroundings regions of the Valley and beyond.
-* They encounter an elder thorcin vampire, ??? the Silent.
+* They encounter an elder thorcin vampire, Skalmir the Silent.
 	* He is still remembered in ancient Thorcin legend as a terror of the night.
 	* In "Great Vampire Lords and their Demise", he is credited as the sire of several of archontean antiquity's great lords.  It says he was slain long before by an unknown hero (the rudishva of the first Harmonious Brotherhood).
-* ??? overcomes and turns them. 
+* Skalmir overcomes the Brotherhood, killing five and turning Isok-Crix and Melok-Ri.
 	* Their alien biology / psychology isn't enslaved by his power (elves are immune to charm after all), so they overwhelm the unsuspecting master.
-	* They can't range outdoors anymore, oops.
-* The Brotherhood dissolves
-	* All but IC and MR want to spread this "gift" to the other rudishva.  The two leaders are disgusted and slay the other 5 ("lost in a tragic training incident in the field")
+	* They can't range outdoors anymore, oops.  The Brotherhood is defunct.
+	* The two vamps stop visiting Akla-Chah.
+		* Reiv-Tor develops the neuroderm-based synthetic blood they rely on.
 
-???
-strymir
-skyalmir
-skygrimmr
+Archontean Era
+
+Post-Collapse Era
+
+
 
 * The original rudishvan Harmonious Brotherhood
 
@@ -206,7 +210,7 @@ what are the Sun-Scarred Knights and Melok-Ri up to?
 * Heqeti return, rudishva are destroyed
 * 
 * IC and MR covertly help the varumani survive and establish elsewhere?
-* IC and MR split acrimoniously, MR retains their hold as his base.  IC leaves, disgusted by his vampiric nature
+* IC and MR split acrimoniously, MR retains their hold as his base.  IC leaves, disgusted by his vampiric nature, founds the Inn of the Lost.
 * 
 * Archonteans inhabit AV, heqeti driven out, rudishva survivors make nice, varumani bend the knee
 * 
@@ -216,9 +220,9 @@ what are the Sun-Scarred Knights and Melok-Ri up to?
 * 
 * Collapse of AV, Theo-Sort War
 * 
-* * MR creates a New Harmonious Brotherhood using human vamps, driven to protect civilization, which is once again crumbling
-	* Rud vamps can't be controlled by their master, and turn out not to be able to control human childer?  (or he just won't?)  His kids grow increasingly evil and plot against him
-* MR slays his human spawn, except Cinna Minux, who escapes into hiding
+* MR creates a New Harmonious Brotherhood using human vamps, driven to protect civilization, which is once again crumbling
+	* Rud vamps can't be controlled by their master, and turn out not to be able to control human childer?  (or he just won't?)  His kids grow increasingly evil and plot against him.
+* MR slays his human spawn, except Cinna Minux, who escapes into hiding (MR thinks he got them all).
 * 
 * MR founds Sun-Scarred Knights w/ normal humans
 	* They are to protect "civilization" in AV from further disasters, morphing into a weird neutrality code
