@@ -1,10 +1,10 @@
 * HD: d4 (+1 per paragon)
 * No armor
-* Clubs, staves, daggers, slings
+* Club, cudgel, staff, dagger, hatchet, sling
 
 Holy Abilities (see Holy Magic)
 * Sense Holiness: you can sense holiness and unholiness.
-* Invoke Divine Authority: you can turn undead and display your divine authority.
+* Turn Undead: you can hold undead at bay and punish them.
 
 Religious Education
 * Start knowing Latin.
@@ -40,7 +40,7 @@ Talents
 * Woodland Hermit
 	* Trained in 2 sub-disciplines from Wildcraft.
 * Guardian Angel
-	* Strange luck always prevents you from being surprised.  You may spend your Holy Magic advantaged rolls to gain resistance to an instance of magic, harm, or peril.
+	* Strange luck always prevents you from being surprised.  You may spend your Holy Magic advantaged rolls to gain Resistance to an instance of magic, harm, or peril.
 * Friend of Beasts
 	* You are trained in animal handling.  Mundane beasts won't attack or flee you unless given reason to.  Even arcane and faerie animals will not fight or flee immediately.
 * Confessor

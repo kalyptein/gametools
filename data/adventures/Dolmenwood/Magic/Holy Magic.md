@@ -25,18 +25,12 @@ Unholy
 	* Invoke with +A when on holy ground.
 * You can sense the presence of Nearby holiness (sanctified objects and places, holy magic, divine beings) and unholiness (desecrated / accursed objects and places, demonic and necromantic magic, undead and infernal beings).  Continued scrutiny on a specific presence may yield deeper insight.
 
-### Invoke Divine Authority
+### Turn Undead
 
-* CHA DC 11, Safe, Limited (1 minute), Instant
+* T1, Safe, Focus (round), A Near area centered on you
 	* Invoke with +A when on holy ground.
-* You present your holy symbol and display the divine authority invested in you to the eyes of the pious and magical beings (faerie, demons, elementals, undead, angels, saints, etc).
-	* This may convince such beings to heed your request (a divine ward might let you pass, a devil might pause their mischief to parlay, a gathering of the pious may heed your request, etc), but doesn't compel them.
-	- Undead, as mortal souls subject to divine judgement, or animals subject to the authority of man, can be Turned.
-		- Never-mortal beings, even with a "deathly" aspect", cannot be turned.
-
-???
-- Turn Undead
-	- Nearby undead must roll CHA DC (your casting check).  Success: they are immune to your turning for a day.  Failure: they flee from you for 5 rounds (ignore future fumbles for a day, if turned again).  Fumble: if (CL >= TL), they are destroyed.
+- Undead of your Level or lower within the area cannot attack or use hostile powers; higher level undead can, but all targets are Resistant to them.  Each time you Focus, all undead within the area take 1d6 damage.
+	- Undead, as mortal souls subject to divine judgement, or animals subject to the authority of man, can be Turned.  Never-mortal beings, even of "deathly" aspect", cannot.
 
 ## Obtaining Miracles
 ---
@@ -140,12 +134,12 @@ Holy Incense
 * 10 minutes of quiet prayer and meditation while burning holy incense prior to casting a miracle of up to Tier 2, gives +A to the casting roll.
 
 Holy Water
-* If an unholy being (undead, infernal) is splashed with holy water, they suffer 2d4 damage (usually irreducible).
+* If an unholy being (undead, infernal) is splashed with holy water, they suffer 2d4 damage (usually irreducible) and must roll LVL DC 12 or they cannot attack or use hostile powers for one round.
 * For 10 minutes, an unholy being of Level 6 or less cannot pass through a portal (window, door, etc) or pick up an object splashed with holy water.
 
 Holy Oil
 * To use holy oil, the subject is anointed and prayed over by one of the Pious as an action.
-* An anointed character has resistance the next time they resist unholy power (undead, infernal, necromancy) within the following hour.
+* An anointed character has Resistance the next time they resist unholy power (undead, infernal, necromancy) within the following hour.
 	* If already afflicted by unholy power, holy oil grants retroactive resistance (reroll, etc).
 	* Holy oil can only offer benefit once per affliction.
 * An anointed weapon is able to harm unholy beings for 10 minutes as if it were silver or magic.
@@ -167,17 +161,12 @@ Creating Blessed Materials
 ---
 ### Tier 1
 ---
-#### Cure Wounds *
+#### Cure Wounds
 
 - The Steadfastness of St Wick
 - T1, Instant, A Close creature
 - The rustic voice of St Wick whispers a parable over caster and subject, who is healed (LVL+1)d6 Guard.  For every 2d6 less healing, remove a status that would end naturally within a few hours.
 	- e.g. paralysis, confusion, fear, temporary blindness or deafness, being on fire, bleeding, drunkenness, nausea.
-* 
-* ???
-	- Once per day, receiving this spell advances the healing of a longer-lasting physical injury (broken bone, sprain, longer-lasting blindness, deep exhaustion, etc) by 1 week.  The injury must be something able to heal naturally, so severed limbs, permanent blindness, etc cannot be healed.  It does not heal poison or disease.
-- 
-- as ritual on holy ground, accelerate the healing of injuries?
 
 #### Detect Evil
 
@@ -227,7 +216,7 @@ Creating Blessed Materials
 - T1, Focus (1 hour), Close creature
 - Invoking the name of an archangel, the subject is divinely warded.
 	- The subject is immune to possession, beguiling, and compulsion magic, and cannot be detected by arcane or faerie magic, or by occult senses (telepathy, smelling mortality, etc).
-	- You have have resistance to arcane and faerie magic and the powers and attacks of magical creatures (undead, demons, faerie, elementals, summoned or created beings, etc).  Once tested this way, the duration becomes Focus (round).
+	- You have have Resistance to arcane and faerie magic and the powers and attacks of magical creatures (undead, demons, faerie, elementals, summoned or created beings, etc).  Once tested this way, the duration becomes Focus (round).
 
 #### Purify
 
@@ -290,7 +279,7 @@ Creating Blessed Materials
 - T2, 1 hour, A Close weapon or suit of armor
 - Silver light arcs from the caster’s hand and wreathes a single weapon or suit of armor.
 	- Weapon: +1 attack and +1d4 damage (+1d6 vs unholy beings); treat as magical and silver.
-	- Armor: +2 defense, resistance to fear and forced movement.
+	- Armor: +2 defense, Resistance to fear and forced movement.
 - Ritual
 	- With costly materials, a holy forge, suitable skill, and time, you can craft blessed weapons, arrows, shields, armor, etc.
 
@@ -385,7 +374,7 @@ Creating Blessed Materials
 - A ray of white light beams from your raised hand.  Choose 1:
 	- Beacon: a beacon of holy light shines across a Near radius area, bright as noon.  Choose 1:
 		- Illumination (1 week)
-		- Clarity (1 hour): unholy creatures within suffer -2 to checks and defense.  Allies have +A to resist fear, charm, confusion, and similar mental disorders.  Invisible things within the light are revealed.
+		- Clarity (1 hour): unholy creatures within suffer -2 to checks and defense.  Allies have Resistance to fear, charm, confusion, and similar mental disorders.  Invisible things within the light are revealed.
 	- Dispel (Instant): darkness magic from a source up to Level 10 is dispelled or countered.
 	- Banish (Instant): an otherworldly being (demon, faerie, ghost, magically summoned/created) of up to Level 6 is cast back to its realm.
 	- Blind (Focus (round)): the light blazes in the target's eye, blinding them.
@@ -506,7 +495,7 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 
 - The Charity of St Esther
 - T5, Focus (round), A close creature
-- Accompanied by the sound of a hound’s bark, a single living creature is blessed.  Their Grit cannot be reduced below 1 and they have +A to resist while the spell lasts.
+- Accompanied by the sound of a hound’s bark, a single living creature is blessed.  Their Grit cannot be reduced below 1 and they have Resistance to all things while the spell lasts.
 	- An collapsed subject is restored to 1 Grit and rises to their feet.  A subject that has died within the last hour rises too, but falls dead again when the spell ends.
 
 #### Restore Life and Limb

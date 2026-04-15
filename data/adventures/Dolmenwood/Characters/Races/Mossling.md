@@ -2,7 +2,7 @@
 Symbiotic Flesh
 * You are colonized by your own particular biome of plants, mosses, and fungi.
 * While holding still and silent among vegetation, you are invisible.
-* You gain advantage to resist poisons, disease, parasites, spores, and similar afflictions of health.
+* You are Resistant to poisons, disease, parasites, spores, and similar afflictions of health.
 * Roll d6 for your death timer, instead of d4.  Take +2 to stabilization rolls.
 * You are Small.
 

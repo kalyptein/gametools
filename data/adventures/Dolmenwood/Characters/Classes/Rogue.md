@@ -1,6 +1,6 @@
 * HD: d4 (+1 per paragon)
 * Light armor
-* Light and medium weapons
+* Simple weapons
 
 Skullduggery
 * You are trained in: 
@@ -13,7 +13,7 @@ Skullduggery
 	* Streetwise, finding shady people and deals, appraising value, fencing goods
 	* Deciphering cryptic messages and documents, sketching maps
 	* Disguises, forgery
-* You have resistance with DEX.
+* You have Resistance with DEX.
 
 Backstab
 * When a target is unaware of your incoming finesse, thrown, or missile attack, deal +2d damage.  If they are aware of you, but you have +A to attack or they are otherwise distracted (fighting an ally, etc), deal +2 damage.
@@ -55,6 +55,7 @@ Talents
 	* Take +A to initiative and you can't be surprised.
 * Pack-Rat
 	* When you expend a use of a consumable item carried since your last Long Rest (arrows, oil, rations), roll d6.  On a 5+, regain that use.
+	* You have a 4th Small free slot.
 * Gain a Racial Talent
 
 Bonus
@@ -62,7 +63,7 @@ Bonus
 * Add 2 points to Dexterity or +1 to finesse and ranged attacks
 * Add 2 points among Dexterity, Wisdom, and Charisma
 * Add 1 point to three different stats
-* You have resistance with WIS.
+* You have Resistance with WIS.
 * Gain a Racial Bonus
 
 

@@ -1,6 +1,6 @@
 * HD: d4 (+1 after 10th)
 * No armor
-* Clubs, staves, daggers, slings
+* Club, cudgel, staff, dagger, hatchet, sling
 
 Sense Magic
 * You can sense magic (see Arcane Magic).
@@ -51,10 +51,14 @@ Astrologer
 Talents
 * Arcane Mastery
 	* Gain +A to cast one spell you know.
+* Spell Jar
+	* You can invest 1 spell at a time (up to Tier 4, up to 1 action casting time) into a talisman over the course of a Short Rest.  When anyone invokes it using the command word you imbued; roll as if you were present, casting normally.
+		* If the spell becomes Exhausted, either through the talisman or your own casting, it is Exhausted for you.  When Exhausted or successful cast through the talisman, it crumbles to dust.
 * Gain a Familiar
-	* You have allied spirit that takes the form of a small animal such as a raven, rat, or frog who serves you loyally. It can speak Common.  On a solstice or equinox, you can work a ritual to change its animal form.
-	* It can be the source or of spells you cast; treat it as yourself for determining spell ranges.
-	* If it dies, you take 2d4 damage and suffer +D until after a Long Rest.  You call it back with a ritual under a full or new moon.
+	* You have an allied spirit who aids you.  It has taken the form of a small animal such as a raven, rat, or frog. It can speak Common and Sense Magic like a Magician.
+		* On a solstice or equinox, you can work a ritual to change its animal form.
+	* Spells with Close or Self range can be cast through the familiar, as if it were yourself.
+	* If it dies, you take 2d4 damage and suffer +D until after a Long Rest.  It can be called back with a ritual under a full or new moon.
 * * Mixology (choose 1)
 	* Gain Apothecary and learn 2 recipes
 	* Training in poisons (with Apothecary, also learn 2 poison recipes).
@@ -62,23 +66,32 @@ Talents
 * Wormtongue
 	* You are trained in persuasion, lying, rumor-mongering, and manipulation.
 * Iron Willed
-	* You have resistance with CHA.  (CHA) times per Long Rest, you can turn a failed Focus roll into a success.
+	* You have Resistance with CHA.  (CHA) times per Long Rest, you can turn a failed Focus roll into a success.
 * Shrewd
-	* You are trained in spotting danger and reading people, and have resistance with WIS.
+	* You are trained in spotting danger and reading people, and have Resistance with WIS.
+* Arcane Sink
+	* (INT) times per Long Rest, delay the onset of a magical effect (spell, power, casting mishap, etc) on yourself by up to 1d4 rounds.
+		* When doing this, you may pull the effect from a Nearby ally to yourself (if it targeted both of you, you take its effects twice).  You must pull the effect before determining any resistance rolls or outcomes.
 * Gain a metaphysical Talent (only 1 can be taken)
 * Gain a Racial Talent
 
 Metaphysical Talents
 * Gwyrigon's Blessing
 	* You forge a pact with a Gwyrigon.  So long as continue to fulfill your end, you gain its boon(s).
+* Wisdom of Solomon
+	* Being faithful, virtuous, and taking up the Friar's vow of Poverty, a saint favors you.  You can gain and invoke their miracle, up to Tier 4.  You can use any saint's relics to invoke their miracles.
+* 
+* 
+* ??? Student of Faerie
+	* Gain 1 Glamour.  You are Bound By Faerie Law.
+	* You can gain Faerie crests, but can only be attuned to 1 realm's Rune each day.
+		* roll to cast like an arcane spell?
 * 
 * ??? Feytouched
 	* You can gain crests for a single Faerie Rune.  Start with 1 crest, either Knave's, Knight's, or King's.  You are Bound By Faerie Law.
 		* If King's crest, then some lord of the realm has taken a particular interest in you.
 * 
-* Wisdom of Solomon
-	* Being faithful, virtuous, and taking up the Friar's vow of Poverty, a saint favors you.  You can gain and invoke their miracle, up to Tier 4.  You can use any saint's relics to invoke their miracles.
-* Cambion
+* ??? Cambion
 	* A trace of infernal blood or a half-formed pact with a demon empowers you.  Gain access to the Devil's Own Luck, only for casting spells and dealing with magical matters.
 		* Your critical failure effects will tend toward the interventions and intrusions of Hell.
 	* Your magic has a whiff of brimstone.  Demons might pause to wonder if you are a diabolist; so might witchhunters.

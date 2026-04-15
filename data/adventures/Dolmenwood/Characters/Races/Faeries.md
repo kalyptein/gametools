@@ -28,7 +28,7 @@ Bound by Faerie Law
 * Gifts
 	* If you give someone a gift and don't receive some recompense or promise in return, the receiver becomes Indebted to you. If you receive a gift and don't offer some recompense or promise in return, you become Indebted to the giver.
 	    - If a promise is reneged upon, the promise-breaker is thrice-Indebted.
-	- Indebted: vulnerable to the magic and social influence of the one they owe, and the one they owe is resistant to their magic and social influence. This applies the next time it is attempted, and for a day thereafter.
+	- Indebted: vulnerable to the magic and social influence of the one they owe, and the one they owe is Resistant to their magic and social influence. This applies the next time it is attempted, and for a day thereafter.
 	    - This law is longer-lasting and more powerful for great Lords and Ladies of Faerie than for common fey.
 * The Teind
 	* Every 7 years, the faerie as a whole must pay the Teind to Hell of 7 maids and 7 youths.

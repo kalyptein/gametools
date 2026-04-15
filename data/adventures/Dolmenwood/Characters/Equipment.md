@@ -1,18 +1,24 @@
 
+## Inventory
+
+* Armor not being worn takes up +1 slot.
+* Wearable items not being worn are either 1 slot (helm, gauntlets, boots, crown) or Small (3x) (gloves, circlet).
+* 500 or fewer coins fills 1 slot.
+
+
+
 ## Armour
 
 * Unarmored
 	* 10+DEX def
 * Leather Armor / Gambeson
-	* 10 gp, 11+DEX def, Light
+	* 10 gp, 11+DEX defense, Light
 * Chainmail
-	* 100 gp, 13+DEX def, Medium, iron
+	* 100 gp, 13+DEX defense, Medium, Iron
 * Plate Armor
-	* 200 gp, 15 def, Heavy, iron
-* Buckler
-	* 3 gp, +1 def, 1h, Small (3x), Slam (d4, Light Simple, Forceful/Finesse Melee)
+	* 200 gp, 15 defense (+1 w/ Dexterity 14+), Heavy, Iron
 * Shield
-	* 10 gp, +2 def, 1h, 1 slot, Sacrifice, Slam (d4, Medium Simple, Forceful Melee)
+	* 10 gp, +2 defense, 1h, 1 slot, Sacrificial (including ranged, blasts, beams)
 
 Craftsmanship
 
@@ -27,67 +33,86 @@ Tags
 
 * Weight
 	* Light: 1 slot
-	* Medium: 2 slots, +D swim, move silently, acrobatics
-	* Heavy: 3 slots, no swim, +D move silently, acrobatics
-* Sacrifice: shatters to absorb the damage from one hit
+	* Medium: 2 slots
+	* Heavy: 3 slots, can't swim or sheer climb, +D to move silently, acrobatics
+* Sacrificial: can shatter to negate all damage from a single hit.
 
 ## Weapons
 
-* Martial Melee (10 gp, d8, 1h, Medium Martial Melee, 1 slot, Forceful)
-	* Battle Axe, War hammer (Impact)
-	* Longsword (Half-Sword)
-	* Spear (Throw Near, Brace)
-* Simple Melee (7 gp, d6, 1h, Medium Simple Melee, 1 slot, Forceful)
-	* Shortsword (Forceful/Finesse, Half-Sword)
-	* Mace, Flail, Hand Axe (Impact)
-	* Javelin (Forceful/Finesse, Throw Near)
-	* Quarterstaff (2h, Forceful/Finesse, Twin)
-	* Club (cheap, d4)
-* Heavy Melee (15 gp, d10, 2h, Large Martial Melee, 2 slots, Forceful)
-	* Greatsword (Half-Sword)
-	* Polearm, Longspear (Reach, Brace)
-	* Maul, Greataxe (Impact)
-* Light Melee (3 gp, d4, 1h, Light Simple Melee, Small (3x), Finesse)
-	* Dagger, Hatchet, Dart (Throw Near)
-	* Baton, Sickle
-	* Throwing Knife (d3, Small (10x), Throw Near)
+* Unarmed (Forceful / Finesse)
+	* STR -2 or lower) d3-STR
+	* STR -1) d2-1
+	* STR 0 to +1) 1d2
+	* STR +2) 1d(STR)+1
+
+* Small Simple Melee (3 gp)
+	* Dagger: d4, Thrown (Near, 1h, Finesse, Piercing, Bundle (3x)
+	* Hatchet: d4, Thrown (Near), 1h, Finesse, Slashing, Bundle (3x)
+	* Buckler: d4, Sacrificial (only melee & thrown hits), 1h, Finesse/Forceful, Crushing 
+	* Cudgel: d4, Very Cheap, 1h, Forceful/Finesse, Crushing
+* Medium Simple Melee (7 gp)
+	* Shortsword: d6, Precise, 1h, Forceful/Finesse, Slashing/Piercing
+	* Mace, Flail: d6+1, Impact, 1h, Forceful, Crushing
+	* Hand Axe: d6+1, Impact, 1h, Forceful, Slashing
+	* Javelin: d6, Thrown (Near), 1h, Forceful/Finesse, Piercing
+	* Quarterstaff: d6, Cheap, 2h, 1h, Forceful/Finesse, Twin, Crushing
+	* Club: d6, Very Cheap, 1h, Forceful, Crushing
+* Medium Martial Melee (10 gp)
+	* Longsword: d8, Precise, Versatile (d10), 1h, Forceful, Slashing/Piercing
+	* Battle Axe: d8+1, Impact, Versatile (d10), 1h, Forceful, Slashing
+	* War Hammer: d8+1, Impact, Versatile (d10), 1h, Forceful, Crushing
+	* Spear: d8, Thrown (Near), Versatile (d10, Reach), 1h, Forceful, Piercing
+* Large Martial Melee (15 gp)
+	* Greatsword: d12, Precise, 2h, Forceful, Slashing
+	* Polearm, Longspear: d12, Reach, 2h, Forceful, Piercing
+	* Maul, d12+1, Impact, 2h, Forceful, Crushing
+	* Greataxe: d12+1, Impact, 2h, Forceful, Slashing
 
 * Crossbow
-	* 80 gp, d8, 2h, Medium Simple Missile, 1 slot, Shoot Far, Loading (action)
-	* Bolts (5 gp for 20, 1 slot)
+	* 80 gp, d8, 2h, Medium Simple Missile (Far), Loading (action)
+	* Bolts: 5 gp, Bundle (20x)
 * Longbow
-	* 40 gp, d6, 2h, Medium Martial Missile, 2 slots, Shoot Far
-	* Arrows (5 gp for 20, 1 slot)
+	* 40 gp, d6, 2h, Medium Martial Missile (Far)
+	* Arrows: 5 gp, Bundle (20x)
 * Shortbow
-	* 10 gp, d4, 2h, Medium Simple Missile, 1 slot, Shoot Far
-	* Arrows (5 gp for 20. 1 slot)
+	* 10 gp, d4, 2h, Medium Simple Missile (Far)
+	* Arrows: 5 gp, Bundle (20x)
 * Sling
-	* 2 gp, d4, 2h, Light Simple Missile, Small (3x), Shoot 2x Near
-	* Stones (free, Small (10x, can bundle w/ sling))
+	* 2 gp, d4, 2h, Small Simple Missile (2x Near)
+	* Stones: free, Bundle (20x)
 
 Tags
 
-* Forceful: uses STR for attack rolls.
-* Finesse: uses DEX for attack rolls.
-* Reach: can strike out to 2x Close, over a front rank, and up at mounted/elevated foes
-* Impact: can be used to smash through things
-* Brace: can set vs charges
-* Throw: can be thrown
-* Half-Sword: grip at midpoint, +A to attack, half damage
-* Twin: can be its own off-hand weapon for dual-wielding
-* Loading (X): requires an action of the specified type to reload, provokes
-
-* Melee
-* Missile: provokes when used
-* Thrown: does not provoke when used, can be thrown off-hand
-
-* 1h
-* 2h: can be carried in one hand, but requires two hands to use in combat
-
+* Qualities
+	* Reach: can strike out to 2x Close, over a front rank, and up at mounted/elevated foes
+	* Impact: +1 damage (included in weapon damage), can be used to smash through things
+	* Precise: +1 attack (also applies when parrying)
+	* Cheap / Very Cheap
+	* Loading (X): requires an action of the specified type to reload, loading Provokes
+* Wielding
+	* Forceful: uses STR for attack rolls.
+	* Finesse: uses DEX for attack rolls.
+	* Forceful/Finesse: uses your choice of STR or DEX for attack rolls.
+	* 1h
+	* 2h: can be carried in one hand, but requires two hands to use in combat
+	* Versatile (X): if wielded with two-hands, gain additional qualities X (usually damage).
+	* Twin: can be its own d4 off-hand weapon for dual-wielding
+* 
+* 
+* Type
+	* Melee
+	* Missile (Range): provokes when used
+	* Thrown (Range): does not provoke when used, Small weapons can be thrown off-handed
+* Size
+	* Small: +2 init, Small (3x)
+	* Medium, 1 slot
+	* Large: -2 init, 2 slots
+* Training
+	* Martial: usable by those trained for battle
+	* Simple: usable by almost anyone
 
 
 ??? brace: a hit against a charging target deals 2x damage
-
 
 ??? Lance (5 gp, d8, Large, Brace, Charge, Melee, Reach, 2h when dismounted)
 * single use?
@@ -107,91 +132,7 @@ blackjack
 	* Creates a Close patch of caltrops on the group.  d4 damage and Slowed until Short Rest to targets that don't move through the area slowly and cautiously.
 
 
-
-Containers
-
-* Backpack
-* Bottle (Small)
-* Sack
-* Barrel
-* Strongbox
-* Chest
-* Bucket
-
-Exploration Gear
-
-* Provisions
-	* Preserved Rations (2 gp / day, 3x)
-	* Fresh Rations (1 gp /day, 3x)
-* Waterskin (1 gp, 1 slot)
-* Camping Gear (5 gp, bedroll, mess kit, flint and tinder, twine, 1 slot)
-	* Basic gear for travel.  Provides a bedroll for camping
-* Tent (20 gp, 1 slot)
-	* Provides shelter for 2 when camping.
-* Cold Weather Clothing (2 gp, 1 slot)
-* Lighting
-	* Bundle of Torches (3 gp, 3 uses, 2 slots)
-		* While possessed, you have access to torchlight.
-		* Uses: lighting several torches to illuminate an area or equip people to fight with flame, torch illumination for many hours.
-	* Lantern (hooded: 5 gp, bullseye: 10 gp, 1 slot)
-		* While fueled, you have many hours of lanternlight.
-	* Bundle of Candles (1 gp, 3 uses, 1 slot)
-		* While possessed, you have access to candlelight.
-		* Uses: setting out several candles to illuminate an area, candle illumination for many hours.
-	* Firewood (1 gp, 8 hours, 3 slots)
-* Flask of Oil (1 gp, 1 use, 1 slot)
-	* Uses: fully refills a lantern, make a Molotov cocktail, grease a Close area.
-* Rope (2x Near, 3 uses, 1 gp, 1 slot)
-	* When you run out of uses, the rope still functions but is getting frayed.  It must be replaced next time you're in town.
-	* Uses: tying someone up, climbing, hauling something
-* Grappling Hook (20 gp, 1 slot)
-* Iron Spikes (1 gp, 3 uses, 1 slot)
-	* Uses: spiking a door, placing pitons to secure a rope.
-
-Tools
-
-* Thieves Tools (10 gp, Small)
-* Crowbar (5 gp, 1 slot)
-* Sledgehammer (5 gp, 1 slot)
-* Pickaxe (5 gp, 1 slot)
-* Shovel (2 gp, 1 slot)
-* Pole (1 gp, 2 slots)
-* Block and Tackle
-* Mason's Tools
-* Fishing Tackle (4 gp)
-* Mirror (5 gp, Small)
-* Cooking Kit (3 gp, 2 slots)
-* Alchemy Kit
-* Healer's Kit (3 uses, 1 slot)
-* Bear Trap
-* Musical Instrument (5-20 gp, Small or 1 slot)
-
-
-* Book
-* Ritual Tools
-
-Clothing
-
-
-Lifestyle
-
-* Fine Clothes
-* Extravagant Clothes
-
-* Destitute
-* Poor
-* Common
-* Comfortable
-* Prosperous
-* Wealthy
-* Noble
-
-Mounts, Pack Animals, and Wagons
-
-
-Watercraft
-
-
+## Equipment
 
 Uses
 * Each time you make non-trivial use of the item, mark off a use.  If there aren't any more uses to mark off (you were at 0), the item is fully used up.
@@ -234,6 +175,121 @@ penalty to climb, swim, sneak, jump
 * CON checks for fatigue: -1 for medium, -2 for heavy (forced march, sleep rough, etc)
 
 
+Containers
+
+* Backpack
+* Bottle / Flask (Small)
+* Sack (Small when folded, 0 slots in use)
+* Barrel
+* Strongbox
+* Chest
+* Bucket
+
+Exploration Gear
+
+* Provisions
+	* Preserved Rations (2 gp / day, Bundle 3x)
+	* Fresh Rations (1 gp /day, Bundle 3x)
+* Waterskin (1 gp, 1 slot)
+* Travel Gear (5 gp, bedroll, mess kit, flint and tinder, twine, water bottle, 1 slot)
+	* Basic gear for travel.  Provides a bedroll for camping
+* Tent (20 gp, 1 slot)
+	* Provides shelter for 2 when camping.
+* Cold Weather Clothing (2 gp, 1 slot)
+* Lighting
+	* Bundle of Torches (3 gp, 3 uses, 2 slots)
+		* While possessed, you have access to torchlight.
+		* Uses: lighting several torches to illuminate an area or equip people to fight with flame, torch illumination for many hours.
+	* Lantern (hooded: 5 gp, bullseye: 10 gp, 1 slot)
+		* While fueled, you have many hours of lanternlight.
+	* Bundle of Candles (1 gp, 3 uses, 1 slot)
+		* While possessed, you have access to candlelight.
+		* Uses: setting out several candles to illuminate an area, candle illumination for many hours.
+	* Firewood (1 gp, 3 slots)
+		* Provides 8 hours of campfire fuel.
+* Flask of Oil (1 gp, 1 use, 1 slot)
+	* Uses: fully refills a lantern, make a Molotov cocktail, grease a Close area.
+* Rope (2x Near, 3 uses, 1 gp, 1 slot)
+	* When you run out of uses, the rope still functions but is getting frayed.  It must be replaced next time you're in town.
+	* Uses: tying someone up, climbing, hauling something
+* Grappling Hook (20 gp, 1 slot)
+* Iron Spikes (1 gp, 3 uses, 1 slot)
+	* Uses: spiking a door, placing pitons to secure a rope.
+
+Tools
+
+* Thieves Tools (10 gp, Small)
+* Crowbar (5 gp, 1 slot)
+* Sledgehammer (5 gp, 1 slot)
+* Pickaxe (5 gp, 1 slot)
+* Shovel (2 gp, 1 slot)
+* Pole (1 gp, 2 slots)
+* 
+* Block and Tackle
+* Mason's Tools
+* 
+* Fishing Tackle (4 gp)
+* Mirror (5 gp, Small)
+* Cooking Supplies (3 gp, 2 slots; cook pot, spices, utensils)
+* Alchemy Kit
+* Healer's Kit (3 uses, 1 slot)
+* Musical Instrument (5-20 gp, Small or 1 slot)
+* Spyglass (300 gp, 1 slot)
+
+* Bear Trap
+
+* Book
+* Ritual Tools
+
+Clothing
+
+
+## Lifestyle
+
+* Fine Clothes
+* Extravagant Clothes
+
+* Destitute
+* Poor
+* Common
+* Comfortable
+* Prosperous
+* Wealthy
+* Noble
+
+## Transport
+
+Mounts, Pack Animals, and Wagons
+
+
+Watercraft
+
+
+
 
 mounts and vehicles
 * listed coin capacity / 100
+
+
+## Services
+
+* sage
+* religious
+* arcane
+* 
+* alchemist / herbalist
+* healer
+* craftsman
+* animal trainer
+* scribe (copy or compose documents and maps, common translation)
+* factor / advocate (handle business / legal affairs)
+* bard (entertain, compose a song, spread a rumor, act as herald/hype-man)
+* spy / informant
+* fence / smuggler
+* moneychanger
+* storehouse
+* 
+* scout / guide
+* porter (carry, dig, build)
+* teamster (handle pack animals, cargo, wagons, barges)
+* guard

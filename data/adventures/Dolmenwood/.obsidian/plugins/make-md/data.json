@@ -62,8 +62,7 @@
     "//Characters/Characters/Classes",
     "//Characters/Characters/Races",
     "//PCG",
-    "//Setting/Setting/Faerie",
-    "//Storage"
+    "//Setting/Setting/Faerie"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

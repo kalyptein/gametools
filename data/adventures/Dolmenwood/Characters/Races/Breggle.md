@@ -10,10 +10,10 @@ Horns
 * Your horns can serve as a weapon (melee, close, d4, finesse/forceful).
 
 Beast of Burden
-* +CON inventory slots (min 1).
+* +CON Stowed inventory slots (min 1).
 
 Iron Stomach
-* +A to resist conditions caused by ingesting something.
+* Resistance (5) to conditions caused by ingesting something.
 
 Longhorn
 * At 4th level and above, you are considered a Longhorn.  Gain Imperious Gaze.
@@ -30,7 +30,7 @@ Talents
 * Really Impressive Horns
 	* Cast Imperious Gaze with +A.
 * Of the Line of Servants
-	* You are resistant to frost and choose 1 Glamour.
+	* You are Resistant (5) to frost and choose 1 Glamour.
 * Wyrdmarked
 	* Choose a T1-2 arcane spell.  You have a magical birthmark that lets you cast it using INT, CON, or CHA.
 	* (this is a hereditary gift from the old Drune masters)

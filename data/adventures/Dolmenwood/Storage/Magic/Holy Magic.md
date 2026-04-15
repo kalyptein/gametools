@@ -113,13 +113,6 @@ effects of...
 ## Miracles
 ---
 
-- make spells less precise in their parameters, allow roles to extend as far as needed?
-
-- "lesser foes" - beings of lower level than the caster and who lack magic resistance or +save vs magic (e.g. from Wisdom 13+)
-
-- overcast w/o spell slot by swearing to perform some service in the saint's name (in their idiom) and Doom save
-	- fail save: stricken until Long Rest, succeed and it is granted and you are bound to the service (as geas / holy quest).
-
 ### The Saints of the Pluritine Order
 
 * Abthius

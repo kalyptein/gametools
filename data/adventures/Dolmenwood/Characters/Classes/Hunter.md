@@ -1,6 +1,6 @@
 * HD: d8 (+2 per paragon)
 * Light and medium armor
-* Light and medium melee weapons, all ranged weapons
+* Simple melee weapons, all ranged weapons
 
 Marksman
 * Gain (LVL+1) to attack and multiple attacks when fighting with thrown and missile attacks.
@@ -20,7 +20,7 @@ Wildcraft
 	* Plant and animal lore, foraging, hunting, fishing, animal handing and training
 
 Trophies
-* If you carry a trophy (1 slot item) from a dangerous beast or monster (mundane or magical), or display it in your home (house, hut, wagon, tent, etc), once per Long Rest, gain Inspiration when fighting, tracking, or otherwise dealing with that kind of creature, or gaining resistance to its attacks and abilities for 1 round.
+* If you carry a trophy (1 slot item) from a dangerous beast or monster (mundane or magical), or display it in your home (house, hut, wagon, tent, etc), once per Long Rest, gain Inspiration when fighting, tracking, or otherwise dealing with that kind of creature, or gaining Resistance (5) to its attacks and abilities for 1 round.
 	* You can only take 1 trophy per kill.  Multiple trophies of a creature type don't grant multiple uses.
 
 Nocturnal
@@ -45,6 +45,7 @@ Talents
 	* As a downtime action, forge a connection with an animal up to about the size of a deer or hound.  It is loyal, clever, and fearless in aiding you.  It gains +LVL to its own levels (max of your level).
 * Pack-Rat
 	* When you expend a use of a consumable item carried since your last Long Rest (arrows, oil, rations), roll d6.  On a 5+, regain that use.
+	* You have a 4th Small free slot.
 * Merry Man
 	* Gain 2 sub-disciplines from Skullduggery.
 * Fey Trophy

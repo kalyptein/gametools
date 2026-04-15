@@ -174,7 +174,8 @@ Usage by Level
 
 - Glamour, Limit (1/day/person), length of interaction + 10 minutes, Nearby mortals
 - You subliminally infuse your social interaction with a group with either good cheer, creeping discord and anger, or anxiety and unease, either subtle or strong.
-	- After interacting at least a minute or so, make a CHA+LVL check.  Target that fail a WIS+LVL resistance feel the emotion .  Your behavior needn't obvious convey the emotion, it just creeps in beneath.
+	- After interacting at least a minute targets feel the emotion .  Your behavior needn't obvious convey it, it just creeps in beneath.
+		- P [LVL+CHA+1] vs R [LVL+WIS]
 	- You don't control how they act, but might manage to steer their interpretation based on your interaction.  A subtle emotion remains subliminal, a strong one is acute, though not overwhelming.
 
 ### Moon Sight
@@ -442,7 +443,7 @@ Catacomb of Ages
 Green Mask
 
 * Lesser, Sustain (10 minutes), Self
-* You don a mask of wood and ivy, becoming a plant-like being and gaining a vegetative boon (choose on casting).  Carnivores are uninterested in eating you.  You are vulnerable to fire and resistant to plant toxins, spores, etc.  Example boons:
+* You don a mask of wood and ivy, becoming a plant-like being and gaining a vegetative boon (choose on casting).  Carnivores are uninterested in eating you.  You are Vulnerable (10) to fire and Resistant (5) to plant toxins, spores, etc.  Example boons:
 	* Curling tendril fingers and toes give +A to climb or cling.
 	* Thorny flesh gives you dagger-like talons and inflicts d4 damage if grabbed.
 	* Bark-covered skin gives you defense +5 (replacing armor).
@@ -728,7 +729,8 @@ Unbind Thought
 * Greater, Instant, Far
 * A spectral raven snatches a thought and flies off.
 	* Spread a whispered rumor through a Far radius; no one can remember who actually first told them.
-	* A target has a named or random spell, skill training, ability, or details of a memory stolen from them until they next sleep (resist your casting check with their own relevant check).
+	* A target has a named or random spell, skill training, ability, or details of a memory stolen from them until they next sleep.
+		* P [casting check] vs R [casting | skill | WIS check]
 	* (Sustain (round)) A target has all their words stolen.
 	* A spell of up to Tier 4 is carried off (dispelled).
 

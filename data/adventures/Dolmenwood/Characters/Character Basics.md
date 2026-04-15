@@ -122,25 +122,62 @@ Casting Bonus
 ### Size
 
 * Tiny, Small, Medium, Large, Huge, Gargantuan, Colossal
+	* Each step above / below Medium doubles / halves the amount of food and drink needed each day, and increases / decreases the die rolled for falling damage 1 step.
 
 ### Encumbrance
 
-* Free Items (treat as Readied)
-	* You can carry up to 3 Small items without occupying any slots.
-	* You can carry up to 100 coins without occupying any slots.
-	* You can carry any reasonable number of Tiny items without occupying any slots.
-* Readied Slots: 5 + (STR + CON)/2, rounding up
-	* Readied Items are accessible to use (weapons, ammo, potions, armor).
-	* If you only have readied items, you have a Light Load.
-		* +A to outrun / out-maneuver those w/ heavier loads.
-* Stowed Slots: 5 + (STR + CON)/2, rounding down
-	* Stowed Items require actions to unearth in a hurry.
-	* If you have stowed items, you have a Medium Load
-		* +D to swim, jump, and sheer climb.
-* Burdening Slots: 5 + (STR + CON)/2, rounding up
-	* Burdening items take a minute to gain access to.
-	* If you have burdening items, you have a Heavy Load.
-		* Can't swim, Slowed, +D to all activities, including attack, casting, and defense.
+* Readied and Stowed
+	* Readied
+		* Items in Free slots (unless noted) are Readied, and up to 4 other slots-worth of items can be designated Readied, accessible a a moment's notice.
+		* This should include weapons, shield, ammo, potions, scrolls, wands, etc.
+	* Stowed
+		* Non-Readied items are Stowed and require action(s) to unearth in a hurry.
+		* If you have a Heavy Load, Stowed items are so tightly packed and bound up that they take a minute to access.
+* Load
+	* Free Slots
+		* Clothing and personal effects.
+		* Worn items (crown, helm, belt, boots, gloves/gauntlets, cloak, amulets, etc).
+		* A worn backpack (items in a pack are Stowed).
+		* 3 Small items in belt or bandolier.
+		* Up to 100 coins in a pouch.
+		* Any reasonable number of Petty items (Stowed).
+	* Light Load
+		* Up to 6 slots.
+		* +A to outrun / out-maneuver those w/ heavier loads or of Large or larger Size.
+	* Medium Load
+		* Up 16 + (STR | CON) slots.
+		* +D to swim and sheer climb.
+	* Heavy Load
+		* Up to 22+(2 x STR | CON) slots.
+		* Can't swim or sheer climb, +D to stat checks, attacks, resists, and casting, but not defense.
+	* Overburdened
+		* Greater than a Heavy Load.
+
+Item Size
+* Coin: 500 coin per slot.
+* Petty: negligible, except in great quantity.
+* Small: fits in Small free item slots.
+* Bundle: 3x, 10x, 20x per slot; can treat half a bundle (rounding down) as Small.
+* Normal: 1 slot.
+* Bulky: 2+ slots.
+
+Treasure
+	* Armor and weapons have their normal size.
+	* Most wearables (gloves, boots, crowns, etc) are 
+	* Small treasures are Petty (statuettes, jewelry, )
+	* Larger treasures are 1 or more slots (paintings, tapestries, idols, bolts of silk, pots of spices, books)
+	* Potions, scrolls, and most tokens are Small and Bundle (3x) in a scroll tube or pouch.
+	* Wands are Small.
+
+treasure
+* coins, gems, and all but the chunkiest jewelry (big crowns, etc) are Petty
+	* for treasure to be considered Petty, if must be Stowed.
+* wearable items (gloves, boots, etc) are Petty
+* armor and weapons take up space, including helms and gauntlets and stuff?
+	* give armor a fixed slot size (not +1 if stowed), give fighters and knights an extra Readied slot to accommodate that
+* larger art objects take up slots (paintings, tapestries, idols, golden chessboards)
+	* small ones (statuettes, )
+
 
 ### Luck & Inspiration
 

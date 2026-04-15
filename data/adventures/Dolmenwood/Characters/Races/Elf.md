@@ -20,7 +20,7 @@ Talents
 * Gentry
 	* You can gain crests for a single Faerie Rune. Start with a Knight's Crest marking your noble standing.
 * Wild Blood
-	* Once per Long Rest you can transform yourself slightly, gaining resistance to a natural force (fire, frost, storm, corrosion, poison) for the day.
+	* Once per Long Rest you can transform yourself slightly, gaining Resistance (5) to a natural force (fire, frost, storm, corrosion, poison) for the day.
 
 Bonus
 * Add 2 points among WIS and CHA.

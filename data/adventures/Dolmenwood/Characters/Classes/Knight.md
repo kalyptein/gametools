@@ -1,7 +1,7 @@
 * HD: d8 (+2 per paragon)
 * All armor, shields
 	* A knight's station is evident in their panoply.  Light armor is for peasants.
-* All melee weapons, light and medium ranged weapons
+* All melee weapons, Simple medium ranged weapons
 	* Glory and honor is in the clash of arms.  Eschew missile weapons, save against beasts.
 
 Fighting Style
@@ -34,7 +34,7 @@ Chivalric Code
 	* Glory: seek glory in deeds and battle, especially in single-combat.
 	* Justice: protect those in your care, uphold the right-wise order of the land.
 * When you pursue or uphold the Code at unusual risk or cost, gain Luck.
-* Gain resistance against things that block your adherence to the code.
+* Gain Resistance against things that block your adherence to the code.
 	* e.g. mind-control, fear, restraints keeping you from your duty, etc.
 * If you violate the Code, you are Dishonored and cannot benefit from it until you suitably atone and regain your honor.
 

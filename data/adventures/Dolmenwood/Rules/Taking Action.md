@@ -26,13 +26,6 @@ Pushing
 Training
 * A character who is trained in a field of endeavor (e.g. stealth, diplomacy, etc) gets advantage on related checks.
 
-Resistance
-* Apply the most appropriate option when dealing with the phenomenon being resisted.
-	* Roll to resist with advantage.
-	* Take +2 to your Resist value.
-	* Take half damage.
-* With resistance applying to a whole stat (e.g. resistance with DEX), only apply one of the first 2 options.
-
 Momentum
 * if you keep working at a task that can be retried, take +A on subsequent rounds
 
@@ -66,30 +59,10 @@ inspiration tokens
 ## Time & Distance
 
 Distance
-* Close = 5'
-* Near = 30'
-* Far = 5 x Near = 150'
+* Close: about 5'
+* Reach: about 10-15'
+* Near: about 30'
+* Far: 4x Near, about 120'
 
 
-
-
-## Recovery
-
-* once per long rest, you can eat an extra ration and then do one of the following:
-	* after a Short Rest, refresh your Guard
-	* after a Long Rest, heal 1dHD+CON Grit
-	* after a Long Rest, heal 1 damage per stat (if multiple stats are damaged), or 2 stat damage (if only one stat is damaged).
-		* Grit and stat damage don't otherwise recover in the field
-* After a Long Rest, fully restore Guard.
-* After a Respite, restore (2dHD + CON) Grit and d3 damage per stat.  If tended by a trained healer, regain +1dHD and +1 damage per stat.
-
-* Most magical healing can only restore Guard.  Consumables (healing potions, healing herbs, etc) can heal Grit and an equal amount of Guard (excess Grit also goes into Guard).
-
-
-Resting
-* Quick: 1 minute
-* Brief: 10 minutes
-* Short: 1 hour, have rations but don't consume
-* Long: 8 hours, consume a ration
-* Respite: 24 hours of rest and relaxation in civilized comfort
 

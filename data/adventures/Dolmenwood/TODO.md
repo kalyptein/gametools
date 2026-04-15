@@ -1,18 +1,22 @@
 
 * classes and advancement
-	* cleric witchhunter - still not happy with it
-	* magician needs a few more talents
 	* fighter talent / bonus review
 * equipment
+	* Impact tag needs more oomph
+		* maybe a haymaker option?  or power attack?
 * 
 * arcane magic (crafting wands, eldritch patrons, spell list, spell descriptions)
 	* making a spell source?
 	* arcane mishaps table(s)
 	* research boons and banes
 * 
-* holy magic (turn undead, holy ground, cure wounds effect on injuries?)
+* holy magic
+	* sanctifying holy ground
 	* finish processing saint entries in The Faith page
-* faerie magic (cosmology overview, call wild magic?)
+	* another pass on holy water / incense / oil
+* faerie magic
+	* cosmology overview
+	* call wild magic?
 * 
 * taking action
 * combat
@@ -26,18 +30,15 @@
 
 questions
 
-* Witchhunter cleric benefits good?  Kind of clunky
-	* +2 Resist vs Potency for arcane magic?
-	* Once per long rest, nullify a spell effect on yourself
-* 
-* ??? Turn Undead?  just as spell?  with my limitations placed on it?
-* 
-* ??? remove fighter's Hauler
-* 
+* treasure encumbrance?
+	* burdening treasure + the rest is weightless?
+
+
+
+
 * ??? pick half your Glamours and roll the other half randomly?
 	* alternate picking and rolling each time you gain them?
 * ??? should Free Crest initial assignment be random / semi-random???
-
 
 
 
@@ -55,8 +56,6 @@ downtime
 
 
 priest spells
-
-* when I settle on rules for wound healing, maybe add some rules for the Cure Wounds miracle helping with that?
 
 * come up with a "walking in the footsteps" for each saint
 
@@ -90,6 +89,16 @@ Pilgrim's Guidance
 	* This is often rolled into evening or morning prayers.
 * If that saint has relics, shrines, or other ties in the same hex as the supplicant, they grant a sign (dream, vision, omen).
 	* As long as the supplicant keeps seeking guidance each day while exploring the hex, they can eventually find even truly secret locations related to the saint.
+
+
+- make holy spells less precise in their parameters, allow roles to extend as far as needed?
+
+- "lesser foes" - beings of lower level than the caster and who lack magic resistance or +save vs magic (e.g. from Wisdom 13+)
+
+- overcast w/o spell slot by swearing to perform some service in the saint's name (in their idiom) and Doom save
+	- fail save: stricken until Long Rest, succeed and it is granted and you are bound to the service (as geas / holy quest).
+
+
 
 
 mage spells

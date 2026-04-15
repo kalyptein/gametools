@@ -1,11 +1,11 @@
 * HD: d6 (+1 per paragon)
 * All armor and shields
-* Light and medium weapons
+* Simple weapons
 
 Holy Abilities (see Holy Magic)
 * Sense Holiness: you can sense holiness and unholiness.
 	* May be modified by choice of Holy Order.
-* Invoke Divine Authority: you can turn undead and display your divine authority.
+* Turn Undead: you can hold undead at bay and punish them.
 
 Religious Education
 * Start knowing Latin.
@@ -18,26 +18,22 @@ Holy Orders (choose 1)
 
 * St Faxis
 	* Witchhunter's Mantle
-		* 
-		* ???
-		* You have +2 Resist against arcane powers.  Arcane spells deal -1d damage to you.
-		* 
-		* Once per Long Rest, you can nullify the effects an arcane spell would have had upon you.
+		* Three times per Long Rest, you can nullify the effect(s) an arcane spell is about to have on you.
 	* Upgrade Sense Holiness to Sense Magic (see Arcane Magic).
 * St Sedge
 	* Sword of the Church
 		* You can use all weapons.
 	* Lay on Hands
-		* When you lay hands on a dying creature, you don't require tools to revive them.  Add CHA to your stabilization check, and if successful, they rise with CHA Guard.
+		* When you lay hands on a dying creature, you don't require tools to stabilize them, it doesn't Provoke, and take +CHA to your check.  On a 20+, they rise with CHA Guard.
 	* Aura of Zeal
-		* You and Nearby allies are resistant to fear and breaking morale.
-		* Nearby Dying allies get +2 to stabilization rolls, and rise with CHA Guard.
+		* You and Nearby allies are Resistant to fear and breaking morale.
+		* Nearby Dying allies get +2 to stabilization rolls, and rise with CHA+1 Guard on a 20+.
 * St Signis
 	* Gravekeeper
 		* Your attacks harm undead as if using a magic or silver weapon.
-		* You have resistance to necromancy and undead powers.
+		* You have Resistance to necromancy and undead powers.
 		* You can use Detect Holiness to sense necromantic power and the presence of undead (their passage, victims slain by undead, necromantic spells, etc).
-	* Lay to Rest
+	* Last Rites
 		* Those you personally laid to rest with proper burial and prayer are sanctified.  If they would rise as undead, roll Invoke Divine Authority.  If they would be affected, they don't rise (doesn't affect the already undead).
 			* You are automatically protected this way, even if not properly buried.
 
@@ -61,11 +57,11 @@ Talents
 * Repentant Rake
 	* Trained in streetwise, finding shady people and deals, appraising value, and fencing goods, as well as 1 other sub-discipline from Skullduggery.
 * (Faxis) Smite the Unclean
-	* Roll damage against arcane beings with advantage.
+	* 3 times per Long Rest, when you damage an arcane being or arcane caster with weapon or miracle, you may deal +(LVL+1) and break their Focus (if any).
 * (Sedge) Deus Vult!
 	* Take a fighter Battle Talent or Heroic Capability.
 * (Signis) Dust to Dust
-	* Gain +A to Turn Undead.
+	* Once per casting of Turn Undead, you can reroll a failed Focus.  Undead take +CHA when Turn Undead damages them.
 * Gain a Racial Talent
 
 Bonuses
@@ -80,10 +76,6 @@ Bonuses
 ??? Zeal
 * 3 times per Long Rest you can either: reroll a check or add CHA damage to a successful hit.
 
-
-
-Faxis
-* +2 Resist vs Potency
 
 
 Means of Introduction

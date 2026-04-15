@@ -9,7 +9,7 @@
 
 * Open Simple Lock (1st): each Turn you sing to a simple, mundane lock, 2-in-6 chance of opening it.
 * Locate Key (3rd): a brief, whispered conversation with a lock reveals the location of its nearest key.
-* Snap Shut (5th): singing for a round causes all simple, mundane locks within 30' to snap shut.  While you sing, they resist opening by pick or key, and magic must overcome you as per Dispel.
+* Snap Shut (5th): singing for a round causes all simple, mundane locks within 30' to snap shut.  While you sing, they won't open to pick or key, and magic must overcome you as per Dispel.
 * Open Any Lock (7th): your song works on any kind of lock (2-in-6 oer Turn).  It works on magic locks, but when it would succeed, there is instead a 1-in-6 chance it backfires and seals your mouth for 1d4 days.
 
 ### Root Friend
