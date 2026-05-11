@@ -36,8 +36,11 @@ Reiv-Tor (SL7-23)
 * obsessed with creating new lifeforms, mad scientist
 
 Naik-Lir (SL7-13)
-- survived the plague along with early forms of Reiv-Tor's piscine treatments.  Served as Reiv-Tor's aide until used as a lab rat and then turned into a giant rudishva skeleton after being tortured to death by Reiv-Tor.
+- survived the plague by genetic luck, like Crellik-Var.  He survived via auto-doc treatment, his implants, and some stints in cryosleep, though he knew his days were numbered before psychological breakdown would push him toward euthanasia.
+- Served the Archonteans, appreciating their valor and overthrow of the heqeti.  Fought with them, served as liason to the conquered trolls and to Melok-Ri and Isoc-Crix.
+- As chaos engulfed the city, he sought Reiv-Tor, who captured him and used him as a lab rat (he needed an untainted Rudishvan subject if he were going to take his work farther).  Once his use was done, he turned him a giant rudishva skeleton out of scientific curiosity (Artax-Ris had run off, so he'd never seen the process on a living Rudishva, rather than a corpse.
 * security officer
+* good hearted straight-forward guy, just wants a good cause and a good leader.
 
 Artax-Ris (3-39)
 - was infected with the plague, sought to slow it with medtech, working with Psalor-Ki, they developed the nano-undead treatment.  He thought he could use it "correctly" and Psalor-Ki didn't.  Artax-Ris stole a hyperbaric chamber they'd been working with and turned himself into a giant rudishva skeleton.
@@ -47,7 +50,11 @@ Grev-Kilj
 * “Grev-Kilj the Far-Seer, Tamer of the Winged Ones, Lord of Air and Earth, Student of Subterranean Life Forms, Slayer of the Hopping-Ones.”
 * After speaking with Psalor-Ki, chose to became undead to watch for the return of the Heqeti to wreak vengeance on them.
 
-4 in deep storage (SL2-2): Triv-Lok, Plec-Gris, Kelo-Rep, Talg-Roe
+4 in deep storage (SL2-2):
+* Triv-Lok: dangerously naive pacifist during early contact with the heqeti, after alliance with the kaliyanai, she believed she could broker peace with the heqeti and disobeyed orders to attempt it (was captured before reaching them).  Judged a poor fit for a subordinate officer in such a dire situation, too sure of her own flawed judgement, she was reprimanded and placed in stasis until return to the homeworld and dismissal.
+* Plec-Gris: science tech, had a psychotic break and murdered his mate.  Placed in indefinite stasis for eventual eval and psychological repair on the homeworld.
+* Kelo-Rep: security officer, had a nervous breakdown while commanding in the war against the Heqeti (part of the major loss in the Cave of Tears), was placed in stasis
+* Talg-Roe: just prior to the fall, she was exposed to heqeti contagion, but no one realized what that implied.  She was placed in stasis so her condition wouldn't worsen while doctors studied the pathogen.
 
 Giant rudishva skeletons
 * A dangerous nano-conversion mixed with principles of necromancy to keep flesh from dying.  A desperate attempt to stop the heqeti plague.  It seemed to work at first, but gradually overran the body and turned you into a hulking nano-encrusted skeleton cyberundead.

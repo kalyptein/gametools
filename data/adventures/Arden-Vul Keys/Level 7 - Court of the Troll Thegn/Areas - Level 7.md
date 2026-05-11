@@ -763,13 +763,13 @@ Glif
 	* Glif is quite the explorer, and has been known to accompany members of the Hunters’ Lodge (7-14), and especially Nolgi, on expeditions to the Nether Reaches (Level 8).
 	* Glif also has an imp as a familiar; it goes by the bizarre name ‘Elliott’.
 
-* The Priscian prisoner is named Noredden (Raeda Vyksdottir)
-	* (Noredden is a dupe from Arcane Vengeance).
-	* Glif and Nolgi encountered Noredden in the Nether Reaches.
-		* Slaying her conversi, they brought her back to court for interrogation.
-		* Noredden has revealed little, and Glif and Ashoka are growing frustrated; more advanced torture is imminent.
-		* The sorcerers are seeking specific information on the access points to the Priscian areas (9-58 to 9-64), and details of its layout.
-		* The thegn fully supports the sorcerers’ efforts, as he worries about the existence of a powerful force in an unknown location. Varboka is unaware that Ashoka is also interrogating Noredden with the hopes of extracting information about a hidden tomb connected with the Sortians (i.e., the Tomb of Isadora at Sub-Level 11). Unfortunately Noredden knows nothing of that tomb, nor even much about Isadora. 
+* The Priscian prisoner is Raeda Vyksdottir (Noredden is a dupe from Arcane Vengeance).
+	* Glif and Nolgi encountered her in the Nether Reaches, thought she was squirrely, slew her conversi, and brought her back to court for interrogation.
+	* She has revealed little.  Glif and Ashoka are growing frustrated; more advanced torture is imminent.
+		* The sorcerers seek specific information on the access points to the Priscian areas (9-58 to 9-64), and details of its layout.
+	* The thegn fully supports the sorcerers’ efforts.
+		* He worries about the existence of a powerful force in an unknown location.
+		* Varboka is unaware that Ashoka is also interrogating Noredden with the hopes of extracting information about a hidden tomb connected with the Sortians (i.e., the Tomb of Isadora at Sub-Level 11). Raeda knows nothing of the tomb, nor even much about Isadora. 
 
 Glif, the First Adept, a female lesser varumani (see new monsters), 8th-level magic user: SZ L; AL LE; AC 4; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 9-14 (short sword +4, 1-6+8). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and 
 other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: keys to 5-28 and 7-67; a gold Sortian eye (see new magic items); a rudishva useful palm (of correction) with 2 charges (see new magic items); a wand of secret door and trap detection (73 charges); and a short sword +4. Her memorized spells are: comprehend languages, feather fall, Frigg’s flatulence (see new spells), magic missile; levitate, Pol’s endless sneezes (see new spells), the pummeling fists of Arak-Zhorr (see new spells); dispel magic, haste, lightning bolt; confusion, wall of ice.
@@ -777,25 +777,28 @@ other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: keys t
 ‘Elliott’, imp familiar of Glif: SZ S; AL LE; AC 2; MV 60’, 180’ flying (Class C); HD 2+2; HP 14; #AT 1; Dmg 1-4; MR 25%. Special attacks: poison. Special defenses: silver, or +1 or better 
 weapons to hit; immune to fire, cold and electricity; save vs magic as 7 HD creatures. Special: polymorph self (to animal form); detect magic; detect good; detect magic; invisibility; regenerate 1 hp/round, suggestion 1/day.
 
-Noredden Galesdottir, 7th-level female elf magic user: SZ M; AL LN; AC 8; MV 120’; HD 7; HP 12 (max 22); #AT 1; Dmg by weapon. Abilities: STR 9, INT 18, WIS 15, DEX 16, CON 10, CHA 13. Noredden’s spell book was destroyed when she was captured.
+Raeda Vyksdottir (Noredden Galesdottir), 7th-level female elf magic user: SZ M; AL LN; AC 8; MV 120’; HD 7; HP 12 (max 22); #AT 1; Dmg by weapon. Abilities: STR 9, INT 18, WIS 15, DEX 16, CON 10, CHA 13. Noredden’s spell book was destroyed when she was captured.
 
 Glif ’s Spell Book: Burning hands, charm person, comprehend languages, detect magic, feather fall, find familiar, friends, Frigg’s flatulence (see new spells), identify, light, magic missile, read magic, shield, spider climb; continual light, detect evil, ESP, invisibility, knock, levitate, locate object, mirror image, Pol’s endless sneezes (see new spells), the pummeling fists of Arak-Zhorr (see new spells), pyrotechnics, stinking cloud, web, wizard lock; clairaudience, dispel magic, gust of wind, haste, hold person, lightning bolt, slow, suggestion, tongues; confusion, dig, dimension door, fire shield, minor globe of invulnerability, polymorph self, remove curse, wall of ice.
 
 ### 7-25: Pendaya Clan Quarters
 
-The basic orientation of this chamber is comparable to that of 7-17, at least in terms of the bunkbeds at the east and west ends and the open common space in between. The walls are painted bright yellow; the Pendaya have added large purple rings (symbolizing fidelity) with the letter ‘P’ on them (in Varumani). 
+* The basic orientation of this chamber is comparable to that of 7-17.
+	* The walls are painted bright yellow; with large purple rings (symbolizing fidelity) with the letter ‘P’ on them (in Varumani). 
+	* Three long trestle tables abut the north wall. 
+	* Bunkbeds at the east and west ends.
+	* An open common space in between, bordered by benches.
+		* A web of ropes connects to the ceiling, neighboring bunks, and iron bars are set in the walls for climbing, jumping, and other physical workouts.
+	* A sanded wrestling pit is to the south. 
+	* Against the south wall, several weapons racks, 2 clan chests, and a stand holding Gavra’s personal armor (ring mail +2).
+		* Weapons racks: 6 halberds, 6 2h swords, 2 huge clubs, 3 2h axes, 20 javelins, 2 rudishva dart throwers (tech), and 6 clips of darts (2 immobilizing, 2 explosive, and 2 narcotic).
+		* Clan chests: 7,392 sp, 531 gp; an ioun stone (pale green); A statuette of Kauket (grey soapstone with white veins, taken on Level 9, 250 gp), rudishva identity plaques (4 copper, 1 brown, 1 sky blue, 1 bronze, and 1 pink).  A rudishva data crystal "Anatomy of the Enemy" (books); a faded scroll "The Time of Darkened Skies" (books).
 
-Despite a slight inferiority complex at being descended from a varumani who was not one of the original three thegns, the Pendaya are currently powerful and self-satisfied. They maintain a roster of 21 true and 37 lesser varumani members, although only about 40% are present at any given time, eating, resting, and generally having a good time.
+* Should combat break out in the clan room, 25% of the varumani who are present will take to the ropes and attempt either to use missile weapons or to drop down on opponents from above.
 
-Benches border the central living space. Three long trestle tables abut the north wall. A sanded wrestling pit is to the south. The current chief of the clan, Gavra the Easy-Going, is interested in wrestling and physical skills, and thus the common area has a web of ropes connected to the ceiling, neighboring bunks, and iron bars set into the walls. The clan uses this apparatus to practice climbing, jumping, and general fun. ASeveral weapons racks rest 
-against the south wall, along with two clan chests and a stand holding Gavra’s personal armor (ring mail +2). The weapons racks hold six halberds, six two-handed swords, two huge clubs, three two-handed axes, a score of javelins, 2 rudishva dart throwers (see new technological items), and six clips of darts (2 immobilizing, 2 explosive, and 2 narcotic).
-
-Should combat break out in the clan room, 25% of the varumani who are present will take to the ropes and attempt either to use missile weapons or to drop down on opponents from above.
-
-Treasure:
-Within the clan chests are the following: 7,392 sp and 531 gp; an ioun stone (pale green); a rudishva data crystal (see new technological items) entitled Anatomy of the Enemy (see Arden Vul books); a faded scroll entitled The Time of Darkened Skies, written in Semi-glyphik (see Arden Vul books); a grey soapstone statuette of Kauket, with white veins, taken on Level 9 (250 gp); and an array of rudishva identity plaques (see new technological items), 4 copper, one brown, one sky blue, one bronze, and one pink plastic.
-
-
+* Despite a slight inferiority complex at not being descended from one of the original three thegns, the Pendaya are currently powerful and self-satisfied.
+	* 21 true and 37 lesser varumani members, about 40% are present at any given time.
+	* The current chief of the clan, Gavra the Easy-Going, is interested in wrestling and physical skills. 
 
 11 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 63, 61, 60, 59, 59, 58, 58, 57, 55, 53, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
 
@@ -808,15 +811,23 @@ defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic
 
 ### 7-26: Druvaya Clan Quarters
 
-The basic orientation of this chamber is comparable to that of 7-17, at least in terms of the bunkbeds at the east and west ends and a 20’x30’ open space between them. The walls are painted in electric green spotted with bright silver ‘suns’. 
+* The basic orientation of this chamber is comparable to that of 7-17.
+	* The walls are painted electric green, spotted with bright silver ‘suns’.
+	* Bunkbeds at the east and west ends.
+	* A 20’x30’ open space between them, bordered by battered benches.
+		* Most of the area is a sparring ring, set off by ropes attached to spears thrust into holes in the ground, and to a sanded wrestling area.
+	* A solitary trestle table stands to the north.
+		* Numerous sharp daggers are thrust into it (for the knife game).  20 cheap clay mugs piled near a double-sized keg of Hak’s mushroom ale (30 gp; see 7-94). 
+		* Underneath is a trough-sized wooden box
+			* 5,743 sp; dried mushrooms (8 white ribs, 2 red veils, 2 orange lamps, and 4 cloud caps, flora); a vial of stone salve; a mask of the skull (carved as a kaliyani skull/face); and rudishva identity plaques (2 copper, 1 rust, 1 pink).
+	* A long weapons rack against the south wall
+		* 6 halberds, 6 2h swords, 6 huge clubs, 6 2h axes, 20 javelins, 2 rudishva ballistic batons (tech), 6 large crossbows, 120 large crossbow bolts.
 
-The Druvaya clan is the least interested in politics; its members are always more interested in a good, clean fight. The clan is currently composed of 22 true and 46 lesser varumani. Many of the Druvaya are found as guards elsewhere, however, so the clan hold is not particularly crowded. At any given time about 9 true and 18 lesser varumani are present in the chamber, sleeping, relaxing, or good-naturedly beating each other up. Their clan-chief, Igrippa the Unruly is frequently found here, clowning around with ‘the boys and girls.’ 
-
-Battered benches border the central living space. A solitary trestle table stands to the north. It has a number of sharp daggers thrust into it (for the knife game), while a score of cheap clay mugs are piled near a double-sized keg of Hak’s mushroom ale (30 gp; see 7-94). The bulk of the area is given over to a sparring ring set off by ropes attached to spears thrust into holes in the ground, and to a sanded wrestling area. A long weapons rack against the south wall holds six halberds, six two-handed swords, six huge clubs, six two-handed axes, a score of javelins, a pair of rudishva ballistic batons (see new technological items), six large crossbows, and 120 large crossbow bolts.
-
-Treasure:
-Underneath the table is a trough-sized wooden box containing 5,743 sp; 16 dried mushrooms (8 white ribs, 2 red veils, 2 orange lamps, and 4 cloud caps – see new flora for all); a vial of stone salve; a mask of the skull (carved as a kaliyani skull/face); and several rudishva identity plaques: 2 copper, one rust, and one pink.
-
+* The Druvaya clan is the least interested in politics; its members are always more interested in a good, clean fight.
+	* The clan is currently composed of 22 true and 46 lesser varumani. 
+	* Many serve as guards elsewhere, so the clan hold is not particularly crowded.
+	* At any given time about 9 true and 18 lesser varumani are present in the chamber, sleeping, relaxing, or good-naturedly beating each other up.
+* Their clan-chief, Igrippa the Unruly is frequently found here, clowning around with ‘the boys and girls.’ 
 
 9 true varumani (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 63, 61, 60, 59, 59, 58, 57, 55, 53; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special 
 defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword.
@@ -831,18 +842,34 @@ defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic
 
 ### 7-27: Thegn’s Audience Hall
 
-This vast, 25’-tall hemispherical hall is one of the central ritual chambers for the varumani. The walls are natural stone, but painted bright blue. The curved east wall contains a 30”-tall frieze (starting 4’ from the ground) that the original varumani brought with them from Level 5. Composed of high-relief figural and geometric sculptures, the frieze tells the story of the rudishva hegemony’s conquest of the middle halls and its defeat of the heqeti. Tall, spindly, horned bipeds (rudishva), as well as thick, muscled bipeds (varumani) are common, while bird-men (varuda) and a few sinuous bipeds (kaliyani) are also visible. The final scenes depict varumani assaulting a ziggurat structure, around which scores of heqeti are dying. A bright red curtain hides the hallway to the west; on the curtain is embroidered a massive grinning varumani head.
+* A vast, 25’-tall hemispherical hall, one of the central ritual chambers for the varumani. 
+	* The walls are natural stone, painted bright blue. 
+	* The curved east wall contains a 30”-tall ==frieze== (starting 4’ from the ground) of high-relief figural and geometric sculptures.
+	* A bright red curtain hides the hallway to the west
+		* The curtain is embroidered a massive grinning varumani head.
+	* The chamber is dominated by the chairs of thegns.
+		* These simple plasteel seats affixed by iron bolts to a 5’-tall granite dais.
+		* The central chair alone shows signs of wear; the flanking chairs are dusty.
 
-The chamber is dominated by the chairs of thegns. These simple plasteel seats are affixed by iron bolts to a 5’-tall granite dais. The central chair alone shows signs of wear; the flanking chairs are, in fact, dusty.
+==Frieze==
+* Tells the story of the rudishva hegemony’s conquest of the middle halls and its defeat of the heqeti.
+* Tall, spindly, horned bipeds (rudishva), as well as thick, muscled bipeds (varumani) are common, while bird-men (varuda) and a few sinuous bipeds (kaliyani) are also visible.  The final scenes depict varumani assaulting a ziggurat structure, around which scores of heqeti are dying. 
+* Brought by the original varumani from Level 5. 
+* A hidden compartment in the frieze is activated by pressing a catch in the heqeti ziggurat.
+	* A section swing opens on a 2’ x 2’ x 1’ space.
+	* 1 silver rudishva identity plaque, a rudishva gas grenade, a rudishva personal defense array with a full lesser power supply.
+	* The varumani are ignorant of its existence.
 
-Most of the time (93%) the Audience Hall is filled with 3-30 varumani youth, who noisily and good-naturedly practice wrestling and martial arts here. 
-
-Special Ceremonies: On rare occasions, the hall is filled with varumani for a Moot or an Audience. In the case of the varumani Moot (which is underway 1% of the time when PCs first arrive), the thegn assembles all available varumani to discuss some pressing matter, usually one with clear implications to the entire people. Such matters might include a decision to go to war, to ally with a certain faction, to occupy a new section of halls, to devote resources to a particularly costly or dangerous task, etc. At a Moot the thegn stands on the dais and conducts an open discussion, in which any varumani is free to speak; about 65 true, 70 lesser, and 30 bestial varumani will be present. Outsiders, unless they are formal allies or have something pertinent to add to the discussion, are not permitted to attend.
-
-An Audience is a more regular (6% chance when PCs first arrive) occurrence. At such meetings, the thegn meets with important allies to discuss, generally, their requests, and/or to offer a judgment in the case of a dispute. Either way, the thegn is accompanied by his housecarls (7-29), his court sorcerer (7-22), and 2-40 true, 2-40 lesser, and 1-20 bestial varumani. Outsiders (including PCs) are only admitted to an Audience if they are already well-known and admired by the varumani.
-
-Treasure: 
-A hidden compartment in the frieze holds some valuables. It is activated by locating and pressing a catch found in the heqeti ziggurat represented on the frieze. The release causes a section of the frieze to swing open, revealing a 2’x2’x1’ space within which are the following: a silver plastic rudishva identity plaque, a rudishva gas grenade, and a rudishva personal defense array with a full lesser power supply (see new technological items for all). The varumani are ignorant of the existence of this valuable hoard.
+Occupants
+* (93%) 3d10 varumani youth noisily and good-naturedly practice wrestling and martial arts here.
+* Moot (1%)
+	* All available varumani (~65 true, ~70 lesser, and ~30 bestial varumani) assemble to discuss a pressing matter, usually with clear implications to the entire people.
+		* A decision to go to war, to ally with a certain faction, to occupy a new section of halls, to devote resources to a particularly costly or dangerous task, etc.
+	* The thegn stands on the dais and conducts an open discussion; any varumani is free to speak.  Outsiders, unless formal allies or with something pertinent to add, are not permitted to attend.
+* Audience (6%).
+	* The thegn meets with important allies to discuss their requests and/or to offer a judgment in the case of a dispute.
+	* The thegn is accompanied by his housecarls (7-29), court sorcerer (7-22), and 2d20 true, 2d20 lesser, and 1d20 bestial varumani.
+	* Outsiders are only admitted if they are already well-known and admired by the varumani.
 
 ### 7-28: Cave of Grateful Respite
 
@@ -872,31 +899,44 @@ Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-le
 
 ### 7-30: Varboka, the Troll Thegn
 
-This chamber hosts the private quarters of Varboka the troll thegn. The walls are painted a pleasing sea green, over which has been added a fine (in varumani terms) portrait of Varboka. Several mottoes are also visible, all written in spidery Semi-glyphik: “the People cannot be stopped!”, “the only good dead hopper is a cooked hopper!”, “Smile if you love the thegn!” and so forth. 
+* This chamber is the private quarters of Varboka the troll thegn.
+	* The walls are a pleasing sea green, with a fine (in varumani terms) portrait of Varboka (south wall).  Several mottoes are written in spidery Semi-glyphik: “the People cannot be stopped!”, “the only good dead hopper is a cooked hopper!”, “Smile if you love the thegn!” and so forth.
+* A simple wooden bed, loaded with silk sheets (125 gp) and rare furs (375 gp total).
+* His armor and weapon rack stands by the door.
+* A pot of stew bubbles over a tripod of heating (new) around which cluster four stools.
+	* * A keg of fine brandy (225 gp) stands beside.
+* A fine, teak writing desk (450 gp) is pushed against the south wall, under the portrait.
+	* Atop the desk: a draft of an ultimatum to the goblin king, Weskenim (SL4-22), demanding formal submission of the goblins and installation of varumani ‘advisors’.
+		* This would be extremely valuable to Weskenim (500 gp), and would win the alliance of the goblins for he/she who delivered it. 
+	* Drawers
+		* A pouch of silvered sand (100 gp)
+		* A set of fine writing inks and quills (35 gp
+		* A primer in Semi-glyphik entitled ‘How to Write Elegantly’ (books); a quire of ruled parchment with sample ‘letters’ in Semi-glyphik
+		* Varboka’s Logbook (books). 
+	* Secret compartment (unknown to Varboka, a hidden catch opens a panel):
+		* Contains an exceptionally crafted platinum orb delicately etched with the continents of the varumani homeworld (8,000 gp).
+* Secret Door (east, locked): easy (1 in 4) to locate. Varboka holds the key.
 
-Varboka’s bed is a simple wooden affair, loaded with silk sheets (125 gp) and rare furs (3 pelts, worth 375 gp total). His armor and weapon rack stands by the door, while a pot of stew bubbles over a tripod of heating (see new magic items) around which cluster four stools. He owns a fine, teak, inclined writing desk (450 gp, but difficult to move) that is pushed against the south wall, under his portrait. A keg of fine brandy completes the scene (225 gp).
+* When present in his chamber, Varboka is likely to be found entertaining his two favorite companions, Heska and Breg.
 
-Lying atop the writing desk is a draft of an ultimatum to the goblin king, Weskenim (SL4-22), demanding formal submission of the goblins and the installation of varumani ‘advisors’ on Sub-Level 4. This document would be extremely valuable to Weskenim (500 gp), and would win the alliance of the goblins for he/she who delivered it. Within the writing desk are the following: a pouch of silvered sand (100 gp); a set of fine writing inks and quills (35 gp); a primer written in Semi-glyphik and entitled ‘How to Write Elegantly’ (see Arden Vul books); a quire of ruled parchment with sample ‘letters’ in Semi-glyphik, and space to practice them; and Varboka’s Logbook (see Arden Vul books). The desk has a secret compartment of which Varboka is ignorant: if the correct catch is found and depressed, a small panel pops open, revealing an exceptionally crafted platinum orb on which had been delicately etched the shape of the continents from the varumani homeworld (8,000 gp).
+Varboka
+* Varboka knows there was something ‘wrong’ with the evidence that implicated Gog (5-2) in treason, and caused his banishment.
+* Varboka will pay up to 2,500 gp if evidence of Gog’s innocence is found; that evidence is located in area 8-151, with Muq.
 
-Varboka knows there was something ‘wrong’ with the evidence that implicated Gog (5-2) in treason, and caused his banishment. Varboka will pay up to 2,500 gp if evidence of Gog’s innocence is found; that evidence is located in area 8-151, with Muq.
-
-Varboka is also deeply alarmed at the sudden reappearance of kaliyani in Arden Vul (a band of hunters slew three kaliyani on the chasm floor two months ago). He has issued a bounty of 100 gp apiece for kaliyani fangs. Although nervous about this development, he also greets the prospect of a ‘good war’ against the kaliyani (one that all varumani would support) with growing interest, since a victory would cement his reputation as one of the 
-great thegns. As yet, however, Varboka is ignorant of the location of the kaliyani; indeed, his people have not encountered any other kaliyani after that first battle.
-
-When present in his chamber (see below for chances), he is likely to be found entertaining his two favorite companions, Heska and Breg.
-
-Secret Door (east): The door is easy (1 in 4) to locate. Only the key held by Varboka will open it.
-
-Initial Location of Varboka
+* Varboka is deeply alarmed at the sudden reappearance of kaliyani in Arden Vul.
+	* A band of hunters slew three kaliyani on the chasm floor two months ago.
+	* He has issued a bounty of 100 gp apiece for kaliyani fangs.
+	* He also greets the prospect of a ‘good war’ against the kaliyani (one that all varumani would support) with growing interest; a victory would cement his reputation as one of the great thegns.
+	* Varboka is ignorant of the location of the kaliyani; an his people have not encountered any other kaliyani after that first battle.
 
 D100 Location of Varboka
-1-5 7-13
-6-12 7-27 
-13-32 7-30
-33-35 7-32 
-36-65 7-73
-66-95 7-74
-96-100 Moving about Level 7
+* 1-5) 7-13
+* 6-12) 7-27 
+* 13-32) 7-30
+* 33-35) 7-32 
+* 36-65) 7-73
+* 66-95) 7-74
+* 96-100 Moving about Level 7
 
 Varboka the thegn, a true varumani (see new monsters) (20% chance; see chart above): SZ L; AL LN; AC -1; MV 90’; HD 8; HP 63; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 8-28 (two-handed vorpal sword +4, 2-20+8). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: a two-handed vorpal sword +4 that he calls ‘Peacemaker’; ring mail +3; a purse with 37 gp, 112 sp, and 7 octagonal platinum coins (see Arden Vul items); keys to 
 7-11, 7-28, 7-31, 7-37, 7-39, and 7-67; an operator’s keycard for the controller of 7-11; and a pink rudishva identity plaque (see new technological items). 
@@ -909,24 +949,58 @@ Breg, a lesser varumani (see new monsters), only if Varboka is present: SZ L; AL
 
 ### 7-31: Varumani Treasure Hall
 
-All varumani know that this chamber exists, but only the thegn knows how to access it. The hall is 10’ tall, undecorated, and brightly lit by two rudishva light globes (see new technological items). Troll chests (see new technological items), stone tables, and steel racks are crammed into the room, scattered among which is a king’s ransom in treasure. 
-
-The items in the north ell, including two troll chests, are the thegn’s personal hoard, while the items just inside the secret door from 7-30 are what is known as the ‘Mighty Strength of the People.’ The ‘Mighty Strength’ comprises ancient objects and weapons that the varumani bore with them in their flight from Level 5, as well as some famous trophies. Theoretically any varumani in the court can formally request that the thegn produce any or all of the ‘Mighty Strength’ to be viewed and/or used by the assembled clans. Should this request be supported by representatives from the other three clans, then the thegn is obligated to produce the goods. In practice, this sort of request is rare; indeed, the last formal request was made 250 years ago at the time of the Archontean expedition of Adrienic (see 5-18 et seq.). 
-
-The Mighty Strength of the People: Scattered about the tables are 2 laser rifles, 6 laser pistols, a laser deflector shield, a sonic fence, 3 stun batons, two broken Nutri-Vore 2000 devices (for all of which, see new technological items), as well as embalmed corpses of a heqeti weaver, a kaliyani, and a human. Alas, no power supplies remain for any of these potent devices. Both troll chests are keyed to the hand of the thegn. The first troll chest contains 10 25-lb bars of platinum worth 6,250 gp each, plus a piece of ancient pink plasteel on which is written the following, in Semi-glyphik: “Let the People not forget their home, Bunda-Three, nor their glorious history as star walkers and faithful servants of the Lords Rudishva. Repair the Beacon so they may return whence they came!” [GM Note: this note, meant to remind the varumani of their origins and provide them with a racial goal, provides valuable clues about the extra-terrestrial nature of the rudishva and varumani, and about the Beacon’s identity as a starship]. The second troll chest contains rust, copper, brown, bronze, and sky blue rudishva identity plaques (see new technological items); an amulet of courage (see new magic items); an insidious bone flute (see new magic items); to which is attached a tag that reads in Semi-glyphik, ‘Do not blow into holes’; a disarticulated skeleton of a kaliyani formed of solid silver (3,500 gp); the gold and platinum archon’s baculus lost by Adrienic 230 years ago in 7-76 (5,000 gp); a silver and emerald cloak clasp with the name Adrienic on it (1,150 gp); 4 bolts of fine yellow silk embroidered with red flowers (150 gp each); a wood and copper scale model of a heqeti ziggurat (1,200 gp); and a rudishva grav disk lacking a power supply (see new technological items).
-
-The Thegn’s Personal Treasure: In the northern ell lies Varboka’s personal hoard. In plain site are the following: a suit of imperial field plate +1 (see Arden Vul items); a halfling- or goblin-sized suit of leather armor +3; a tower shield +2; a sling +2 and a short bow +2 (both too small for varumani use); a porter’s carpet (see new magic items); a guardian caryatid (see new magic items) in the form of a cat-headed biped carrying a mace in each hand; a rod 
-of resurrection, useless to the cleric-less varumani, with 6 charges remaining; and an ancient Archontean tapestry that depicts the use of the obelisks in the city of Arden Vul to open a door, which is marked ‘Beacon’ [GM Note: this is a hint about using areas AV-5, AV-41, and AV-28 to open the doors at AV-34 that lead to SL14-1]. In the first troll chest are 4,501 ancient silver pennies (see Arden Vul items); 2,159 ancient gold solidi (see Arden Vul items); 3,499 gp; and 12,641 sp. In the second troll chest are potions of extra healing (x2), invulnerability, longevity, treasure finding, and undead control; a pair of boots of striding and springing sized for a SZ S creature; a girdle of hill giant strength; a tooth of Pol (see new magic items); and the following note, inscribed in spidery Semi-glyphik on a piece of blue plasteel: “The hangar for the thegn’s flying sleds is located just north of the transit octagon. The thegn holds the key.” [GM Note: this refers to areas 7-35 to 7-37]. 
+* All varumani know that this chamber exists, but only the thegn knows how to access it.
+* The hall is 10’ tall, undecorated, and brightly lit by 2 rudishva light globes (tech), showing troll chests, stone tables, and steel racks are crammed into the room, scattered with a king’s ransom in treasure.
+	* The items in the north ell are the thegn’s personal hoard.
+		* Imperial field plate +1 (av items), Small-sized leather armor +3, tower shield +2
+		* A sling +2, a short bow +2 (both too small for varumani)
+		* A porter’s carpet (new)
+		* A guardian caryatid (new), a cat-headed biped carrying a mace in each hand
+		* A rod of resurrection (6 charge, useless to the cleric-less varumani)
+		* An ancient Archontean tapestry depicting use of the obelisks in the city of Arden Vul to open a door marked ‘Beacon’
+			* A hint about using AV-5, AV-41, and AV-28 to open the doors at AV-34.
+		* 2 Troll Chests (keyed to the thegn)
+			* #1) 4,501 ancient silver pennies; 2,159 ancient gold solidi; 3,499 gp; and 12,641 sp. 
+			* #2) potions (2x extra healing, invulnerability, longevity, treasure finding, undead control); a Small pair of boots of striding and springing; a girdle of hill giant strength; a tooth of Pol (new); and a note on a piece of blue plasteel:
+				* (Glyphik) “The hangar for the thegn’s flying sleds lies just north of the transit octagon.  The thegn holds the key.” (7-35 to 7-37).
+	* Items just inside the secret door from 7-30 are the ‘Mighty Strength of the People.’
+		* Ancient objects and weapons the varumani bore away in their flight from Level 5, as well as some famous trophies.
+			* Any varumani in the court can formally request the thegn produce any or all of the ‘Mighty Strength’ to be viewed and/or used by the assembled clans.  If supported by representatives from the other three clans, then the thegn is obligated to produce the goods.  This is rare in practice; the last formal request was 250 years ago, during Adrienic expedition. 
+		* Scattered about the tables:
+			* 2 laser rifles, 6 laser pistols, a laser deflector shield, a sonic fence, 3 stun batons, 2 broken Nutri-Vore 2000 devices (no power supplies).
+			* Embalmed corpses of a heqeti weaver, a kaliyani, and a human.
+		* 2 Troll Chests (keyed to the thegn)
+			* #1) 10x 25-lb bars of platinum (6,250 gp each); an piece of ancient pink plasteel inscribed (glyphik): “Let the People not forget their patrons, the star-walking Rudishva. Repair the Beacon that they may return whence they came!”
+			* #2) rudishva identity plaques (rust, copper, brown, bronze, sky blue); an amulet of courage (new); an insidious bone flute (new, w/ tag (Glyphik) ‘Do not blow into holes’); a disarticulated kaliyani skeleton of solid silver (3,500 gp); the gold and platinum archon’s baculus lost by Adrienic (5,000 gp); a silver and emerald cloak clasp with the name Adrienic (1,150 gp); 4 bolts of fine yellow silk embroidered with red flowers (150 gp each); a wood and copper scale model of a heqeti ziggurat (1,200 gp); and a rudishva grav disk (power supply, tech).
 
 ### 7-32: Great Pit of the Varumani
 
-This vast hall plays an important daily and ritual part in the lives of the varumani. Five rows of stone benches circle the upper part of the chamber, leading down 15’ to a sunken, sanded area. This area – the actual ‘Pit’ - is located 5’ below the level of the lowest set of seats. The ceiling rises 20’ above the entrance level, and the entire area is lit by eight rudishva light globes suspended from the ceiling (see new technological items). 
+* This vast hall is important in the social lives of the varumani.
+	* The ceiling rises 20’ above the entrance level.
+	* The area is lit by 8 rudishva light globes suspended from the ceiling (tech). 
+	* Five rows of stone benches circle the upper part of the chamber, sloping down 15’, then dropping 5' to a sunken, sanded area ('The Pit’).
 
-Most of the time the hall is filled with the sound of ringing steel and loud, but friendly, taunts and challenges: the varumani ceaselessly practice their combat skills on the sands of the pit and even among the seats. At such times 7-12 true varumani may be found sparring with weapons, while 11-20 lesser varumani wrestle (50%) or spar (50%). 
+* Usually, the hall is filled with the sound of ringing steel and loud, but friendly, taunts and challenges.
+	* The varumani ceaselessly practice their combat skills on the sands of the pit and even among the seats.  7-12 true varumani spar, while 11-20 lesser varumani wrestle (50%) or spar (50%).
 
-Cleansing of Sorrows: At least once a month the thegn presides over this important ritual. At that ceremony all grudges between individual varumani or groups of 2-5 varumani are settled by duels. The parties to a duel agree to terms, and particularly to the desired outcome, in advance: outcomes range from first blood to lack of consciousness or even (rarely) to death. Almost all varumani who are not ‘on duty’ (at 7-1, 7-8, 7-38, etc.) attend the Cleansing of Sorrows, cheering, singing songs, and offering praise or sorrow to the parties. Although a Cleansing ceremony is scheduled when pre-existing grudges are known and registered with the thegn, it is not uncommon for varumani from the crowd to remember old, forgotten grudges, partly as a way to keep the festivities going. It is exceedingly rare for non-varumani to be allowed to witness, let alone participate in, a Cleansing. Only those who are already known and respected to the varumani leadership and who subsequently enter into a dispute with a varumani are permitted to duel in the Cleansing of Sorrows. At such a ceremony the thegn, his housecarls, the chiefs of all four clans, the sorcerers, and approximately 70 true, 150 lesser, and 50 or more bestial varumani will be present. When PCs first arrive at the thegn’s court there is a 2% chance that a Cleansing of Sorrows ritual is taking place. If a ceremony is not occurring, it will occur in d30 + d6 days.
+Cleansing of Sorrows
+* (2% chance at any given time, d30+d6 day to next event)
+* At least once a month the thegn presides over this important ritual.
+	* The thegn, his housecarls, all four clan chiefs, the sorcerers, and approximately 70 true, 150 lesser, and 50 or more bestial varumani will be present. 
+	* Almost all varumani not ‘on duty’ (at 7-1, 7-8, 7-38, etc.) attend the Cleansing of Sorrows, cheering, singing songs, and offering praise or sorrow to the parties.
+* All grudges between individual varumani or groups of 2-5 varumani are settled by duels.
+	* The parties agree to terms and the desired outcome: outcomes range from first blood to lack of consciousness or even (rarely) to death.
+* A Cleansing ceremony is scheduled when pre-existing grudges are made known to the thegn, but commonly varumani from the crowd bring up old grudges (partly as a way to keep the festivities going).
+* It is exceedingly rare for non-varumani to be allowed to witness, let alone participate.
+	* Only those known and respected to the varumani leadership, who subsequently enter a dispute with a varumani, are permitted to duel in the Cleansing of Sorrows. 
 
-The Victors’ Right: This ritual is less common than the Cleansing of Sorrows. It has a 1% chance of being underway when the PCs first arrive, and will occur in the future in d100+30 days (modified by -5 days per prisoner held in 7-33). In this ritual, prisoners from the Cells (7-33) are brought to the Great Pit and sacrificed by a hand-picked team of varumani. The prisoners are given no weapons, and spell casters are gagged to begin, but all are permitted to fight back as best they can. Usually the varumani make this into a ‘fun’ spectacle of humiliation and terror. When this ritual is taking place, the thegn will be present as well as 1-4 of the clan chiefs, 30 true varumani, 90 lesser varumani, and 60 bestial varumani.
+The Victors’ Right
+* 1% chance at any given time, d100+30 day to next event, -5 days per prisoner in 7-33
+* This ritual is less common than the Cleansing of Sorrows. 
+* The thegn and 1d4 clan chiefs, 30 true varumani, 90 lesser varumani, and 60 bestial varumani are present.
+* Prisoners from the Cells (7-33) are brought to the Great Pit and sacrificed by a hand-picked team of varumani.
+	* Prisoners are given no weapons, and casters are gagged to begin, but all are permitted to fight back as best they can. 
+	* Usually the varumani make this into a ‘fun’ spectacle of humiliation and terror. 
 
 ### 7-33: The Cells
 
@@ -1309,32 +1383,49 @@ resistant to mind-affecting magic; immune to cold and poison; save as 8th-level 
 
 ### 7-53: Ancient Sortian Teleportation Device
 
-High above the ground and within this massive rock pillar lies the companion mosaic and teleportation device to that found in in 7-62. This chamber is almost completely hidden from the outside, with only a 2’-square window giving forth to the cavern; the window is found 40’ up the side of the pillar. 
+* High above the ground, within this massive rock pillar, lies the companion mosaic and teleportation device to the one in 7-62.
+	* The chamber is almost completely hidden from the outside; only a 2’-square window (no pane), 40’ up the side of the pillar, gives forth to the cavern.
+* The chamber is rough-hewn from the solid rock.
+	* 8 huge spiders nest here.
+	* The floor is littered with desiccated husks of small animals.
+		* Beneath the grime of the floor is a beautiful mosaic, 20’ square.
+			* A 10’-diameter image of a male human head, with close-cropped hair and beard, and Archontean nose, and kind eyes.  His mouth is open wide. 
+			* Four 1’-diameter holes are set in a diamond pattern around the face. 
+				* If activation stones are placed in them, standing on the face and uttering ‘Sortian’, transports one to 7-62. 
+				* 3 of the activation stones are found in 7-62.
+				* The fourth is in the murky water of 7-49.
+	* Two levers sit in the floor near the locked southeastern door. 
+		* One opens the door to the stone bridge to 7-54.
+		* The second opens the steel door to 7-54 itself.
 
-The chamber is rough-hewn from the solid rock and is littered with the desiccated husks of numerous small animal forms, for eight huge spiders have established their nest here. Beneath the grime, however, is a beautiful mosaic some 20’ square. The centerpiece of the mosaic is a large, 10’-diameter image of a male human head, with close-cropped hair and beard, and Archontean nose, and kind eyes. His mouth is open wide. Four 1’-diameter holes are set in a diamond pattern around the face. If proper activation stones are placed in the holes, the mosaic can function as a teleportation device: if one stands on the image of the face and utters the word ‘Sortian’, one is instantly transported to 7-62. Currently, three of the activation stones are found in 7-62, while the fourth is in the murky water of 7-49.
+* The intended method of accessing this chamber is the teleportation device.
+	* Those arriving from 7-62 by teleportation are confronted immediately by the spiders.
 
-Two levers sit in the floor near the locked southeastern door. One lever opens the door to the stone bridge leading to 7-54, while the second opens the steel door to 7-54 itself.
-
-It is possible to scale the pillar, locate the window, and – if one is sufficiently small – slip inside. Still, the intended method of accessing this chamber is the teleportation device. Those arriving from 7-62 by teleportation will be confronted immediately by the huge spiders.
-
-GM Note: The modern Priscian cult based on Level 9 has no idea that this area exists; bringing a map of its location to 9-58 might bring a reward of 5,000 gp and the good will of the Priscians.
+* GM Note: The modern Priscian cult has no idea that this area exists.
+	* Bringing a map to 9-58 might bring a reward of 5,000 gp and Priscians good will.
 
 8 huge spiders: SZ M; AC 6; MV 180’; HD 2+2; HP 18, 17, 16, 16, 16, 15, 14, 13; #AT 1; Dmg 1-6. Special attacks: surprise 1-5; poison (+1 to saves); can leap up to 30’.
 
 ### 7-54: Ancient Idol
 
-This cave is difficult to access, as it is located 30’ above the cavern floor and behind a locked, steel door. The door can be opened via the lever in area 7-53. Inside is an ancient idol to a long-forgotten worm deity. It was discovered in antiquity by Sortian explorers, who, alerted to its dangers, constructed the teleport device (7-62 and 7-53) and the doors as safety mechanisms. 
+* This cave is difficult to access, 30’ above the cavern floor behind a locked, steel door.
+	* The door can be opened via the lever in area 7-53.
+	* The Sortians who discovered it constructed the teleport device (7-62 and 7-53) and doors as safety mechanisms.
+* Inside is an ancient, ' tall' idol to a long-forgotten worm deity atop a 2' granite pediment preceded by 4 red-granite, free-standing pillars.
+	* It is an S-curved, erect worm with a humanoid face with 2 enormous, platter-sized crystal eyes, a protruding proboscis-style nose, and an open mouth of razor teeth. 
+	* The worm body is a single, enormous piece of ivory, from an unknown beast.  The face is etched and incised gold, with faceted crystal eyes and sharpened steel teeth.
 
-The idol sits on an elevated granite pediment (2’ tall), preceded by four red-granite, free-standing pillars. It is about 8’ tall and ess-shaped, taking the form of a curved, erect worm with a human-esque face looming over the pediment. The face has two enormous, platter-sized crystal eyes, a protruding proboscis-style nose, and an open mouth with razor sharp teeth. The worm body of the idol is formed from an enormous piece of ivory, from an unknown type of beast, while the face is etched and incised gold, with faceted crystal eyes and sharpened steel teeth.
+* Standing on the pediment in front of the idol, one sees its eyes glow with a yellow light.
+	* One has 1 round to hold an offering above their head before the worm strikes.
+		* If an appropriate offering (at least 300 gp of precious metal or any magic item) is present, the idol lurches down and takes the offering in its mouth.  It then drops two 300 gp black pearls from its proboscis.
+		* If not, it strikes the blasphemer (as 16 HD, amputation on 18+, 6d6 damage).
+	* The idol is protected by powerful divine magic (MR 100%, AC -6, 100 HP).
+		* If attacked, 4 horned devils gate in to smite the desecrators.
 
-Anyone standing on the pediment in front of the idol will see its eyes glow with a yellow light. That person has 1 round to hold an offering above its head before the worm strikes. If an appropriate offering is present (see below), the worm-idol lurches down and takes the offering in its mouth. If no offering is present, it strikes the blasphemer, rolling to hit as a 16 HD creature; if it hits, its teeth inflict 6-36 damage and have a chance of amputating an extremity (amputation occurs on any roll to hit of 18-20). If an offering is presented and accepted, the idol will drop a pair of 300 gp black pearls from its proboscis. Appropriate offerings include any precious metals worth at least 300 gp or any magic item. The idol is protected by powerful divine magic: it has a 100% magic resistance, and is AC -6 with 100 HP. Should PCs begin hammering at the idol, the ancient worm deity will gate in four horned devils to smite the desecrators.
-
-GM Note: The ancient Sortians were puzzled by the existence of this idol, whose deity they did not recognize. The deity has no real connection to the other entities of Arden Vul and provides an opportunity for further GM development.
+* GM Note: The ancient Sortians were puzzled by the existence of this idol, whose deity they did not recognize.
+	* It has no real connection to the other entities of Arden Vul and provides an opportunity for further GM development.
 
 4 horned devils: SZ L; AL LE; AC -5; MV 90’, 180’ flying (Class D); HD 5+5; HP 41, 39, 37, 32; #AT 4, or 1+ weapon; Dmg 1-4/1/-4/2-5/1-3, or 1-3 and 2-12 (fork); MR 50%. Constant abilities: infravision. Special attacks: bleeding from tail strike (1 HP/rd); cause fear 5’ radius; pyrotechnics (1/rd); produce flame (1/rd); wall of fire of triple strength (1/day); charm person, suggestion. Special defenses: +1 or better weapons to hit; half damage from cold and gas; immune to fire. Special: ESP, detect magic, illusion; teleportation; know alignment; animate dead; summon horned devil (50%).
-
-Treasure: 
-Large black pearls (300 gp each).
 
 ### 7-55: Arcanum Cave
 
@@ -1400,9 +1491,37 @@ weapons to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
 
 ### 7-62: Cave of the Spriggans
 
-This dangerous location is accessed via a narrow ledge 30’ above the floor of the main cavern. The sound of chattering and singing is audible from the ledge, and the flicker of flames is visible from the same location. A set of crude steps lead down to a large cave lit by a campfire, around which crouch four small humanoids. The beings appear to be toasting bits of meat speared on sticks. A large boulder lies at the rear of the cave. The cave smells of sour wine and sweat, and a layer of dirt covers everything. 
+* This location is accessed by a narrow ledge 30’ above the main cavern floor.
+	* Chattering and singing comes from the ledge, and the flicker of flames can be seen.
+* Crude steps lead down to a large cave lit by campfire.
+	* The cave smells of sour wine and sweat, and a layer of dirt covers everything. 
+	* Around the fire crouch 4 small humanoids toasting bits of skewered meat.
+	* A large boulder lies at the rear of the cave.
+		* Actually a pile of rotting varumani corpses hidden by phantasmal force. 
+	* Underneath the dirt and grime is a beautiful mosaic (teleporter), 14’ square.
+		* The center is an 8’-wide male human face with close cropped hair and beard (a Sortian Philosopher).  At the four corners of the mosaic are 1’ round holes in the pavement. 
+		* By placing 4 activation stones in the 4 holes and speaking "Sortian", all on the mosaic are teleported to 7-53.
+	* Buried under a boulder nearby (requires their giant strength to move):
+		* 211 ancient silver pennies, 390 ancient gold solidi
+		* A gold flute inscribed with naked dancing girls (250 gp); a water pipe of ivory, copper, and enamel (75 gp)
+		* A silk chasuble with Sortian knots (90 gp); a Sortian baculus (new) imbued with blink (11 charges remaining), and potions (2x water breathing).
+		* 3 activation stones
 
-The creatures are Arden Vul spriggans (see new monsters), who were tricked in antiquity into agreeing to guard the transportation circle that lies underneath the dirt. The spriggans are most unhappy with their millennium-long task, and are eager for conversation and the opportunity to trick someone else into guarding the location. They offer visitors a seat at the fire, a share of their toasted lizard meat, and the opportunity to chat. They freely admit to being stuck here, but will slyly attempt to get the PCs to agree to helping them out. If the PCs are suspicious or hostile, the spriggans begin to sing a famous (to them) song, ‘The Green Silken Robe’, as a round. After a few verses the round begins to degenerate and, one round later, it turns into the spriggans’ confusion attack. At that point they spriggans transform into giant size and attack. The ‘boulder’ is a pile of rotting varumani corpses hidden by phantasmal force. 
+* The stones are 1’-tall, oblong pieces of black granite with silver-filled carvings of ‘Sortian’.
+	* The spriggans have 3 activation stones, but cast the fourth into the pond at 7-49 in a fit of rage.
+
+* GM Note: As with 7-53, the modern Priscians have no idea that this area even exists.
+	* They would pay much in wealth and favors for a map  to this area.
+
+The Spriggans (new)
+* Recast as svartalfar ?
+* Tricked in antiquity by the Sortians into agreeing to guard the transportation circle here.
+	* They are most unhappy with their millennium-long task, are eager for conversation and the opportunity to trick someone else into guarding the location.
+* They offer visitors a seat at the fire, a share of toasted lizard meat, and chatter.
+	* They freely admit to being stuck here, and slyly attempt to get talk visitors into agree to helping them out.
+	* If visitors are suspicious or hostile, the spriggans begin singing a famous (to them) song, ‘The Green Silken Robe’, as a round.
+		* Many other verses exist, some quite explicit.  They can sing this song for hours, improvising new, naughtier bits all the while.
+		* After a few verses the round degenerates into the spriggans’ confusion attack.  They turn to giant size and attack.
 
 The Green Silken Robe
 
@@ -1426,21 +1545,8 @@ So tight and so trim,
 As soon as I glimpsed it,
 My heart went a-swim.
 
-Many other verses exist, some quite explicit. The spriggans can sing this song for hours, improvising new, naughtier bits all the while.
-
-Underneath the dirt and grime is a beautiful bit of mosaic about 14’ square. The center of the mosaic features an 8’-diameter depiction of a male human face with close cropped hair and beard. Those familiar with Sortian faces (see new magic items) will instantly recognize the image, for is it identical (complete with empty eye sockets). At the four corners of the mosaic are 1’ round holes in the pavement. 
-
-The mosaic functions as a teleportation device that transports those who figure out its puzzle to area 7-53. The teleportation works as follows: 1) one places the four activation stones in the four holes in the mosaic; 2) one stands on the mosaic face; 3) one declaims the word “Sortian”. The spriggans have three of the activation stones, but they cast the fourth into the pond at 7-49 in a fit of rage. The stones are 1’-tall, oblong pieces of black granite on 
-which has been carved (and filled with silver) the word ‘Sortian’.
-
-GM Note: As with area 7-53, the modern cult of Priscus Pulcher (see areas 9-58 to 9-64) has no idea that this area even exists; it would pay much in wealth and favors to receive an accurate map of how to access this area.
-
 4 Arden Vul spriggans (see new monsters): SZ S or L; AL CN; AC 4 (5); MV 90’ (150’); HD 5 (8+3); HP 37 (62), 35 (61), 34 (61) 32 (58); #AT 1 (2); Dmg 2-5 (knife) or (2-12/2-12); MR 
 25%. Thief skills: PP 75%, OL 78%, FRT 70%, MS 77%, HS 64%, HN 35%, CW 81%, RL 40%. Special attacks: confusion 1/day. Special defenses: immune to poison, charm, and mind-affecting spells; healed by magic missiles. Special: grow to giant size; affect normal fires, faerie fire, trip, detect magic, shatter.
-
-Treasure:
-In addition to the three activation stones, the spriggans have accumulated a bit of treasure: 211 ancient silver pennies (see Arden Vul items) and 390 ancient gold solidi (see Arden Vul 
-items); a gold flute inscribed with pictures of naked dancing girls (250 gp); a water pipe of ivory, copper, and enamel (75 gp); a silk chasuble with Sortian knots (90 gp); and a Sortian baculus (see new magic items) imbued with blink (11 charges remaining), and two potions of water breathing.
 
 ### 7-63: Ledge leading to the Varumani Domain
 
@@ -1481,72 +1587,110 @@ level magic user, whichever is better; immune to cold, poison, charm, hold, feeb
 
 ### 7-67: Varumani Hall of Records
 
-This narrow hall contains the records of the varumani people dating back to the era of the rudishva hegemony. The east wall is lined with shelving, some of it plasteel and subtly ‘different’ (rounded edges, shallow shelves) and some of it wooden. The shelves contain a veritable treasure trove of information in two basic forms: 1) a set of 25 data crystals (see new technological items) in grey plasteel tubes, and 2) over 100 parchment codices. 
+* This narrow hall contains the records of the varumani people dating back to the era of the rudishva hegemony.
+	* East wall: lined with shelving (some rounded and plasteel), some of it wooden.
+		* Contain 25 ==data crystals== in grey plasteel tubes, and over 100 parchment codices (==thegns' logbooks==).
+			* The varumani possess no means of viewing data crystals and they have not been viewed in over a millennium.
+	* North wall: a stone table with a broken GnuCoder 3000 data recorder and a still functioning security encoder (tech).
 
-Among the data crystals are a handful of pre-collapse recordings (see below) as well as the digitized logbooks of the first seven thegns. Although the information on these crystals is 
-exceptionally useful and valuable, the varumani currently possess no means of viewing them. In fact, the crystals have not been viewed in over a millennium.
+* Vimela the Record-Keeper (7-66) is well-versed in the material found in the logbooks.
+	* He can suggest events of potential interest to browsers, and swiftly to locate relevant books.
 
-The codices are quarto volumes, bound in grey lizard skin, and contain the thegn’s logbooks of every thegn from the 8th to the 37th (i.e., Varboka). The logbooks annalistically record the deeds and events of the varumani, both good and bad. So, the earliest parchment codex (the sole logbook of the 8th thegn) records the submission of the varumani to the archon, Marius Tricotor, called ‘invictus’ (see 6-154); the third logbook of the 16th thegn records the retreat of the Archonteans; the fourth logbook of the 31st thegn records the glorious varumani victory over Adrienic at the Cave of Blood (7-76); and so forth. The number of logbooks produced by a given Thegn varies by the length of that thegn’s reign and by 
-personal proclivity; it is evident to any serious scholar, for instance, that the logbooks have become terser and less polished in the past century or so (indeed, Varboka is only beginning his second logbook despite having been Thegn for 53 years).
+Data Crystals
+* Digitized logbooks of the first seven thegns
+* The People Improve
+* High Score!
+* the Thegns Speak
+* Service Manual for Optical Devices produced by GnuCoder S.A.
+* Testimony of Vanara
+* Great Feats
+* the Faithful Manager
+* How to Talk with the Natives
+* Military Instructional Manual
+* Voyages of the Shining Beacon of Glorious Heaven
 
-Against the north wall rests a stone table with two pieces of rudishva technology: a broken GnuCoder 3000 data recorder and a still functioning security encoder (see new technological items for both).
-
-Vimela the Record-Keeper (7-66) is well-versed in the material found in the logbooks. He is able to suggest events of potential interest to browsers as well as swiftly to locate the books relevant to an already known event.
-
-GM Note: It is impossible to detail all the historical information and potential adventure seeds found in this trove. The following, though, is a list of some of the more interesting non-logbook data crystals (see new technological items) preserved here: the People Improve, High Score!, the Thegns Speak, Service Manual for Optical Devices produced by GnuCoder S.A., Testimony of Vanara, Great Feats, the Faithful Manager, How to Talk with the Natives, Military Instructional Manual, and Voyages of the Shining Beacon of Glorious Heaven (see Arden Vul books for all).
+Thegns' Logbooks
+* The codices are quarto volumes, bound in grey lizard skin, and contain the thegn’s logbooks of every thegn from the 8th to the 37th (i.e., Varboka).
+	* They annalistically record the deeds and events of the varumani, both good and bad.
+	* The number of logbooks produced by a given Thegn varies by length of reign and by personal proclivity.  Llogbooks have become terser and less polished in the past century or so.
+* Notable Contents
+	* 8th thegn (single logbook, earliest parchment codex)
+		* Records the submission of the varumani to the archon, Marius Tricotor, called ‘invictus’ (see 6-154)
+	* 16th thegn
+		* third logbook: records the retreat of the Archonteans
+	* 31st thegn
+		* the fourth logbook: records the glorious varumani victory over Adrienic at the Cave of Blood (7-76).
+	* 37th thegn (Varboka)
+		* Is only beginning his second logbook, despite having been Thegn for 53 years.
 
 ### 7-68: Triple Forge of the Varumani
 
-This massive, 30’-tall, vaulted hall is home to the famous triple forge, at which the varumani create high-quality steel, iron, and other practical objects for use and trade. The chamber is lit by a series of four pendent rudishva light globes (see new technological items) and is quite hot from the forge fire.
+* This massive, 30’-tall, vaulted hall is home to the famous triple forge.
+	* The varumani create high-quality steel and other practical objects for use and trade.
+	* 4 pendent rudishva light globes (tech) light the chamber.  It is quite hot from the forge.
+* The forge proper is massive, 20’ long and 10’ wide, and built of the hardest granite.
+	* The base rises 3’ from the ground, with a steel door at the north end.
+	* The main fire is stoked by a lesser fire elemental bound to the forge by a past court sorcerer.  The forge pumps out dry heat at an impressive rate.
+	* On the base is a steel grill.  Atop are a number of lava rocks that conduct heat from the elemental.
+	* Above the main base are two subsidiary grills, 18” apart (so the top grill is 3’ from the floor) with lava rocks on them for work that requires less heat. 
+* Three smithing stations circle the forge.
+	* Each has a water trough, metal-topped work table, and massive anvil.
+	* An array of smith’s tools (tongs, hammers, crucibles, buckets, picks, etc; 350 gp total) rest on or beneath each.
+* Northeast and northwest walls: racks for finished weapons, armor, etc.
+	* Usually 7-12 two-handed weapons, 7-12 suits of ring mail, 7-12 helmets (for large creatures), and a variety of metal clips, nails, tools, etc.
+* Southwest wall: armorer’s station, where the master armorer improves and personalizes varumani ring mail.
+* Southeast wall:  a jeweler’s station.
+	* Several benches and tables, under which are bins containing bits of copper, silver, gold (125 gp) and small ornamental (200 gp) and semi-precious stones (340 gp).
+		* Ornamental: 5 eye agates, 5 azurites, 5 pieces of turquoise, and 5 pieces of obsidian
+		* Semi-precious: 2 bloodstones, 2 onyx, a peridot, an iolite, and 2 rock crystals
+	* Molds and dies for ingots, wire, troll thegn’s passports, and other jewelry-like objects are also found here.
+	* Fine tools are scattered about the benches.
+	* A wall-mounted rack here also contains objects of the glass-blower’s trade.
 
-Forge: The forge proper is massive, being about 20’ long and 10’ wide, and built of the hardest granite. The base rises 3’ from the ground and has a steel door at the north end; the main fire is stoked by a lesser fire elemental bound to the forge by one of the past court sorcerers. Atop the base is a steel grill on which are set a number of lava rocks that conduct the heat from the elemental. Above the main base are two subsidiary grills, set 18” apart (so 
-that the top grill is 3’ from the floor). These, too, have lava rocks on them; they are used for work that requires less heat. The forge pumps out dry heat at an impressive rate.
+* The smiths receive regular shipments of smelted silver from the mining operations (see 9-22 to 9-28).
+	* One of their primary tasks is to turn that raw silver into ingots and wire.
 
-Smithing Stations: Three smithing stations circle the forge. Each station has a water trough, a metal-topped work table, and a massive anvil. A wide array of smith’s tools (tongs, hammers, 
-crucibles, buckets, picks, etc.) rest on or beneath each table.
+* Most of the time at least one of the four smiths is hard at work.
+	* If intruders from the east prove dangerous, an apprentice will be sent north to fetch help from the clan halls.
 
-The northeast and northwest walls hold racks for finished weapons, armor, and utilitarian objects. At any given time one can find 7-12 two-handed weapons, 7-12 suits of ring mail, 7-12 helmets (for large creatures), and a variety of metal clips, nails, tools, etc.
+D10 Forge Activity
+* 1) Forge is empty; smiths are in 7-69 (75%) or elsewhere (25%)
+* 2-3) 1 smith at work
+* 4-6) 2 smiths at work
+* 7-8) 3 smiths at work
+* 9) 4 smiths at work, with important visitors (GM’s choice) looking on
+* 10) All apprentices are present, cleaning the forge area
 
-The southwest wall holds an armorer’s station, where the master armorer improves and personalizes varumani ring mail. The southeast wall holds a jeweler’s station, with several benches and tables, under which are bins containing bits of copper, silver, gold and small ornamental and semi-precious stones. Molds and dies for ingots, wire, troll thegn’s passports, and other jewelry-like objects are also found here. Fine tools are scattered about the benches. A wall-mounted rack here also contains objects of the glass-blower’s trade.
+1-4 smiths (80% - see above) – for stats, see 7-69.
 
-The smiths receive regular shipments of smelted silver from the mining operations on Level 9 (see areas 9-22 to 9-28). One of their primary tasks is to turn that raw silver into ingots and wire.
+4 apprentices (10%) – for stats, see 7-69.
 
-Most of the time at least one of the four smiths is hard at work. If intruders from the east prove dangerous, one of the apprentices will be sent north to fetch help from the clan halls. Roll d10 to determine activity in the forge:
-
-D10 Activity
-1 Forge is empty; smiths are in 7-69 (75%) or elsewhere (25%)
-2-3 1 smith at work
-4-6 2 smiths at work
-7-8 3 smiths at work
-9 4 smiths at work, with important visitors (GM’s choice) looking on
-10 All apprentices are present, cleaning the forge area
-
-Inhabitants
-1. 1-4 smiths (80% - see above) – for stats, see 7-69.
-2. 4 apprentices (10%) – for stats, see 7-69.
-3. Visitors (10%)
-
-Treasure:
-Finished weapons, armor, and objects. Smithing tools (350 gp all told). Scrap precious metal worth 125 gp; a score of ornamental stones worth 200 gp total (5 eye agates, 5 azurites, 5 pieces of turquoise, and 5 pieces of obsidian); 8 semi-precious stones worth 340 gp total (2 bloodstones, 2 onyx, a peridot, an iolite, and 2 rock crystals).
+Visitors (10%)
 
 ### 7-69: Smiths’ Dwelling
 
-The four varumani smiths and their four apprentices dwell in this warm side chamber. The smiths have decorated the walls by painting them white and then sketching exotic weaponry over the paint; although the weapons look fearsome, they are impractical and largely constitute a joke. Each smith has one corner of the chamber to himself, while the apprentices sleep on the floor in the central, common area. Each smith has a wooden cot, a small wooden chest, and a rack for personal items (weapons and armor). 
+* The four varumani smiths and their four apprentices dwell in this warm side chamber.
+	* The walls are painted white, with exotic weaponry sketched over it (they look fearsome, but are impractical and largely a joke).
+	* Each smith has a corner to himself.
+		* Each has a wooden cot, a small wooden chest, and a rack for personal items (weapons and armor).
+		* Collectively: 528 sp; 123 gp; a two-handed axe +2; a two-handed sword +2; a massive spear +2; a war hammer +2; four sets of varumani ring mail; and each smith’s master-piece jewelry: a gold and deep-green spinel goblet (3,000 gp), a ceremonial knife made of platinum and silver (1,750 gp) inscribed with the smith’s name (Hinna), a silver and emerald arm-ring (2,750 gp), and a silver and pearl pendant (975 gp).
+	* The central, common area.
+		* The apprentices sleep on the floor here.
+		* A beautiful, 20’x10’ carpet depicting Marius atop the ‘sky sled,’ clad in his Archon’s regalia (for Marius, see 6-145 and 6-154; the ‘sky sled’ is a rudishva hover sleds) (tech, 750 gp).
+		* A tripod of heating (new), a barrel of ale, two benches, and two battered chairs.
 
-The common area contains a beautiful, 20’x10’ carpet depicting Marius atop the ‘sky sled,’ clad in his Archon’s regalia (GM Note: for Marius, see 6-145 and 6-154; the ‘sky sled’ refers to rudishva hover sleds – see new technological items); the carpet could be sold to Archontean elites for up to 750 gp. In addition, the common area has a tripod of heating (see new magic items), a barrel of ale, two benches, and two batter chairs.
+* 2 smiths are true varumani (Shilva and Hinna), 2 are lesser varumani (Loff and Migi).  The apprentices are all lesser varumani.
+	* For locations of the smiths and apprentices, see chart at 7-68.
+	* The smiths and apprentices have fine ring-mail and weapons, but don’t typically wear or carry their equipment when at work or lounging in their quarters.
 
-Two of the smiths are true varumani (Shilva and Hinna) and two are lesser varumani (Loff and Migi). The apprentices are all lesser varumani. For locations of the smiths and apprentices, see chart at area 7-68. Although all the smiths and apprentices have fine ring-mail and weapons, they don’t typically wear or carry their equipment when at work or lounging in their quarters.
+Shilva and Hinna, true varumani smiths (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (hammer, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. 
+* Possessions: huge hammer, key to 7-69 and 7-70. 
 
-Treasure:
-Each smith wears a heavy belt on which hang keys to 7-69 and 7-70 as well as his/her favored hammer. In addition, the smiths possess the following: 528 sp; 123 gp; a two-handed axe +2; a two-handed sword +2; a massive spear +2; a war hammer +2; four sets of varumani ring mail; and four pieces of impressive jewelry that constitute each smith’s master-piece, namely a gold and deep-green spinel goblet (3,000 gp), a ceremonial knife made of platinum and silver (1,750 gp) inscribed with the smith’s name (Hinna), a silver and emerald arm-ring (2,750 gp), and a silver and pearl pendant (975 gp). The apprentices have no wealth.
+Loff and Migi, lesser varumani smiths (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 58, 51; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (hammer, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. 
+* Possessions: hammer, key to 7-69 and 7-70. 
 
-
-
-Shilva and Hinna, true varumani smiths (see new monsters): SZ L; AL LN; AC 4; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (hammer, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge hammer, key to 7-70. 
-
-Loff and Migi, lesser varumani smiths (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 58, 51; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (hammer, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: hammer, key to 7-70.
-
-4 lesser varumani apprentices (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 60, 57, 55, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (hammer, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: hammer.
+4 lesser varumani apprentices (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 60, 57, 55, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (hammer, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. 
+* Possessions: hammer.
 
 ### 7-70: Materials Storage
 
@@ -1993,7 +2137,6 @@ Visitors, in 4-8 groups: determine using tables above.
 
 ### 7-76: The Troll Market, aka the Cave of Blood
 
-
 * The large, 50'-high natural cavern hosts the Troll Market.
 	* The walls are thick with creepers, and the cave echoes with the chirp of cave insects.
 	* Running through the center of the cavern are wooden platforms rising 20’ from the floor, supported by 7 massive stone pillars.
@@ -2127,7 +2270,6 @@ Utor Malachite
 
 Utor Malachite, 7th-level male dwarf fighter: SZ M; AL LN; AC 3; MV 90’; HD 7; HP 79; #AT 3/2; Dmg 5-8 (war hammer +2), 4-11 (battle axe +2), or 1-3 (darts of sleeping). Abilities: STR 
 17, INT 10, WIS 12, DEX 15, CON 17; CHA 11. Possessions: chain mail and shield; war hammer +2; 2 darts of sleeping (see new magic items); battle axe +2; dwarven life-stone (see new magic items).
-
 
 ##### Special Visitors at the Market
 
@@ -2269,7 +2411,7 @@ D20 Object Value, per item
 * 19 Unusual or high-level spells Varies
 * 20 Piece of a powerful artifact; rest must still be recovered Priceless
 
-## Level 7: 7-76a to 7-76j
+## Level 7: 7-76a to 7-77
 
 * These small side caves connect to the main cavern of the Troll Market.
 	* Each has a flat, sandy floor and, at minimum, one wooden table and an open wooden box.
@@ -2455,8 +2597,6 @@ Sarka and Kellan, goblin assistants: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 3, 
 * Secret Door (east, in one of the point defense caves to 7-11): hard to find from this side (1 in 8), very heavy to force open (bend bars).
 	* Leads to the point defense control chamber.
 
-## Level 7: 77 - 84
-
 ### 7-77: Barracks of the Ogre Guards
 
 * A small tribe of ogres inhabits this chamber. The ogres serve happily as petty guards for the varumani, and are paid well for their troubles.
@@ -2472,69 +2612,122 @@ Sarka and Kellan, goblin assistants: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 3, 
 
 4 ogre children: SZ M; AL CE; AC 7; MV 90’; HD 2+1; HP 13, 12, 11, 10; #AT 1; Dmg 1-4.
 
+## Level 7: 78 - 84 (Upper Temple of the Heqeti)
+
+* This ancient heqeti temple to Kauket was important in antiquity before it was destroyed by the rudishva.
+	* The original complex included current 7-91 and 7-76, but those areas were devastated by the rudishva in their first wars with the heqeti, leaving only this badly dilapidated set of ruins (7-78 to 7-84).
+	* In the past several decades the heqeti have returned and have begun restoring it. 
+
 ### 7-78: Upper Temple of the Heqeti
 
-This ancient heqeti temple to Kauket was important in antiquity before it was destroyed by the rudishva. The original complex included current areas 7-91 and 7-76, but those areas were devastated by the rudishva in their first wars with the heqeti, leaving only this badly dilapidated set of ruins (7-78 to 7-84). In the past several decades, however, the heqeti have returned and have begun restoring this area. 
+* This, the temple proper, encompasses a tall cavern (40’) dominated by a crumbling stone ziggurat (7-79) sitting in a foetid pool.
+	* The walls are pitted and covered with strange purple lichen and yellow-green shelf fungus.  The floor is covered by a thin layer of sand. 
+	* The dark pool of mostly-stagnant water is 13’ deep, with a mild but unpleasant reek of rotting vegetation.
+		* 2 glowing fire-beetle abdomens hang from iron rods by the east end of the pool, providing minimal light to that area.
+	* A stone causeway rise 10’ in a series of shallow stone steps to the foot of the ziggurat (7-79).
+	* The altar atop the ziggurat radiates a Hallow (new spell) over the entire cavern.
+		* +2 to all rolls made by those of chaotic evil alignment, and -2 penalty to all rolls by good creatures.
+	* 2 niches stand 15’ above the cavern floor near the east exit.
+		* A pair of heqeti hopping dead (new) with spears stands in each niche.
+		* Under the southern niche are subtle hand and foot-holds up to the niche.
+			* Secret Door (southern niche, to 7-83): opens by sliding the stone panel into a slot in the wall.
 
-Area 7-78 is the temple proper. It encompasses a tall cavern (40’) dominated by a crumbling stone ziggurat (7-79) that sits in the midst of a foetid pool. The entire cavern is covered by the effects of a hallow spell (see new spells) cast on the altar atop the ziggurat; this spell adds +2 to all rolls made by those of chaotic evil alignment, and imposes a -2 penalty to all rolls by good creatures.GM Note: The heqeti forces on Level 10 can be weakened by removing the evil hallow effect from the upper temple. To remove that effect is difficult: it might be accomplished by having good-aligned PCs cast their own version of hallow, or by having a high priest of a good deity cleanse the area through a set of costly and time-consuming rituals (15,000 gp in materials and a two-week period of time). For the consequences of removing the evil hallow effect, see the level introduction to Level 10.
+* The heqeti on Level 10 can be weakened by removing the hallow effect here.
+	* A good-aligned priest can cast their own Hallow or perform costly and time-consuming cleansing rituals (15,000 gp, 2 weeks).
+	* See the Level 10 introduction for the consequences of removing it.
 
-The walls of the chamber are pitted and covered with strange purple lichen and yellow-green shelf fungus, while the floor is covered by a thin layer of sand. Two glowing fire-beetle abdomens hang from iron rods by the east end of the pool, providing minimal light to that area.
-
-Two niches stand 15’ above the cavern floor near the east exit. A pair of heqeti hopping dead (see new monsters) with spears stands in each niche. Close examination of the wall under the southern niche reveals hand and foot-holds leading up to that niche; these features are discovered as if they were secret doors. The cavern is dominated by a dark pool of mostly-stagnant water. The pool is 13’ deep and offers a mild but unpleasant reek of rotting vegetation. A stone causeway leads up 10’ via a series of shallow stone steps to the foot of the ziggurat (7-79). 
-
-Six heqeti chosen on riding salamanders (see new monsters for both) patrol the cavern, and keep a close eye out for the warning salamanders from 7-84. The chosen swiftly intercept any intruders, while calling for assistance from those on the lesser ziggurat (7-79). Should a battle royale break out here, the other six chosen arrive from 7-82 after 4 rounds.
-
-The Tongue (i.e., chief priest) of this temple is Caudatssa, a heqeti builder (see new monsters). Initially Caudatssa will be found at the ziggurat at 7-79, either atop it with a sacrifice (50%), or within it in the summoning chamber (50%).
-
-Secret Door (southern niche, leading to 7-83): The door is normal to find and opens by physically sliding stone panel into a slot in the wall. 
+* 6 heqeti chosen on riding salamanders (new) patrol the cavern.
+	* They keep a close eye out for the warning salamanders from 7-84.
+	* They swiftly intercept any intruders, calling for assistance from those on the lesser ziggurat (7-79).
+	* If a battle royale breaks out here, the other 6 chosen arrive from 7-82 in 4 rounds.
+* The Tongue (chief priest) of this temple is Caudatssa, a heqeti builder (new).
+	* Initially Caudatssa is at the ziggurat (7-79), either atop it with a sacrifice (50%), or within it, in the summoning chamber (50%).
 
 4 heqeti hopping dead (see new monsters): SZ M; AL CE; AC 5; MV 90’; HD 3; HP 19, 17, 16, 15; #AT 1; Dmg 1-8. Special attacks: leap; cursed tongue. Special defenses: turned as ghasts; half damage from piercing and edged weapons; immune to sleep, charm, hold, and cold-based spells.
 
 6 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 44, 42, 41, 39, 38, 37; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice.
+* Each heqeti has 11 gp and 7 sp.
 
 6 riding salamanders (see new monsters): SZ L; AL N; AC 6; MV 60’, 90’ swimming; HD 6; HP 43, 41, 41, 39, 37, 35; #AT 1; Dmg 2-12.
 
-Treasure: 
-Each heqeti has 11 gp and 7 sp.
-
 ### 7-79: Lesser Heqeti Ziggurat
 
-This forbidding structure is the heart of the revived heqeti temple. Its interior is formed by huge granite blocks, while the sheathing and steps are oily, pebbled soapstone. Steep steps on each side of the ziggurat climb 25’ above the level of the surrounding pool to a central platform. Halfway up the west side a 7’-square opening leads to an inner chamber. Atop the ziggurat stands a 6’x3’x4’ altar.Altar: The altar is a shaped piece of soapstone resembling a salamander on four legs. Leather restraints allow a sacrifice to be strapped onto the altar. A hole in the altar allows blood from such sacrifices to spill down through the altar into a copper basin on the ziggurat top; a hole in the basin leads to the summoning chamber 
-inside the ziggurat. Three sharp copper knives, a pair of copper picks, and a set of copper nesting bowls rest atop the altar. Two large violet garnets are set into the altar at one end, forming the eyes of the ‘salamander’.
+* This forbidding structure is the heart of the revived heqeti temple.
+	* Its interior is of huge granite blocks, sheathed in oily, pebbled soapstone.
+	* Steep steps on each side of the ziggurat climb 25’ above the level of the surrounding pool to a central platform.
+		* Halfway up the west side a 7’-square opening leads to an inner chamber.
+	* Atop the ziggurat stands a soapstone altar (6’x3’x4’) resembling a salamander on four legs with 2 large violet garnet eyes (650 gp each).
+		* Copper implements (200 gp) rest atop it (3 sharp copper knives, a pair of copper picks, and a set of copper nesting bowls).
+		* Leather restraints allow a sacrifice to be strapped down with a hole channeling blood down through the altar into a copper basin on the ziggurat top, then through a hole in the basin to the summoning chamber inside the ziggurat.
 
 Inner Chambers (not mapped)
-The interior of the ziggurat is comprised of three chambers. The 7’-square entrance tunnel leads straight to the summoning chamber, whose dimensions are 14’x14’x14’. A 4’-wide side corridor leads down 30’ from the entrance passage via a narrow staircase to two 10x10’ chambers set in the bedrock. The summoning chamber has a hole in the ceiling that leads up to the top of the ziggurat; blood from sacrifices drips down the hole and pools in a 
-shallow depression in the center of the chamber. The depression is surrounded by a five pointed star gouged into the floor and carefully filled with crushed shell. Two iron sconces hold tallow candles. From this chamber the tongue and weavers are able to summon keqemandri (see new monsters). Of the two lower chambers, one is a holding cell for sacrifices, with iron shackles set into the wall. The other is a utility room for the weavers and builder. Currently the holding cell is occupied by Lyxander, a human adventurer and member of the ill-fated NPC group, the Cleaners. The Cleaners found the Drowned Canyon (SL6) and then came up the tunnel to 7-86. Surprised by the basilisks, they fled to 7-84, where they were overwhelmed by the heqeti and taken prisoner. The utility room contains the adventurer’s gear, plus a pile of dried human skins, a sack with unidentifiable jerky, an extra set of copper sacrificial instruments; and a stone chest containing the treasure of the temple.
-Ceremonies: Two rituals take place at the ziggurat: 1) the sacrifice of prisoners to Kauket, and 2) the summoning of keqemandri demons to aid the heqeti. When the PCs arrive, there is a 50% chance that the tongue, Caudatssa, is performing a sacrifice atop the ziggurat. Otherwise he is found in the summoning chamber within the ziggurat. The weavers accompany Caudatssa at all times. Should PCs arrive during a sacrifice, Caudatssa will immediately dash to the summoning chamber; there he spends 5 rounds summoning a keqemander demon while the weavers confront the PCs. If the leaders are already in the summoning chamber, they complete the summoning before moving en masse to the top of the ziggurat for combat.
+* The interior of the ziggurat is comprised of three chambers.
+	* The 7’-square entrance tunnel leads straight to the summoning chamber (14’x14’x14’).
+	* A 4’-wide side corridor leads down 30’ from the entrance passage via a narrow staircase to two chambers (10x10’) set in the bedrock.
 
-GM Note: In the case of a combat that turns clearly against the heqeti, Caudatssa attempts to flee towards 7-83, where he jumps into the teleport well to alert the rest of his people. 
+* The summoning chamber
+	* A hole in the ceiling leads up to the top of the ziggurat for blood from sacrifices to flow down and pool in a shallow depression in the center of the chamber.
+	* The depression is surrounded by a five pointed star gouged into the floor and carefully filled with crushed shell.
+	* Two iron sconces hold tallow candles.
+	* From this chamber the tongue and weavers are able to summon keqemandri (new).
+
+* Lower chamber 1) a holding cell for sacrifices, with iron shackles set into the wall.
+	* Current occupants: Lyxander, a human adventurer and member of the ill-fated NPC group, the Cleaners.
+		* The Cleaners found the Drowned Canyon (SL6) and came up the tunnel to 7-86.  Surprised by the basilisks, they fled to 7-84 and were overwhelmed by the heqeti and taken prisoner.
+
+* Lower chamber 2) a utility room for the weavers and builder.
+	* The adventurer’s gear: chain mail +2; long sword +2; shield +1; gold statuette of a crocodile (200 gp)
+	* a pile of dried human skins, a sack with unidentifiable jerky, an extra set of copper sacrificial instruments (200 gp)
+	* Stone chest: 
+		* 5,418 sp; 7,421 gp; three white opals tied together by strips of human flesh (1,000 gp each); a choker made of silver and aquamarines (575 gp); a pair of matched gold rings inset with silver lizards (400 gp each)
+		* a platinum key to the Obsidian Gates (5-6D)
+		* a sheet of smallness
+		* a rod of turning (new)
+		* a silk-lined purse with 2 doses of efreeti sand (new)
+		* an orange ioun stone
+		* a bone coffer with 4 tears of Kauket (new)
+		* a spoon of stirring
+		* 2 potions (sweat of Rimmaq-Isfet, new)
+		* scrolls (phantom armor, protection from fire)
+		* A pledge of Rimmaq-Isfet (new).
+
+Ceremonies & Combat
+* Two rituals take place at the ziggurat: 1) the sacrifice of prisoners to Kauket, and 2) the summoning of keqemandri demons to aid the heqeti.
+	* 50% chance that the tongue, Caudatssa, is performing a sacrifice atop the ziggurat.
+		* Caudatssa will immediately dash to the summoning chamber and spends 5 rounds summoning a keqemander demon while the weavers confront the PCs.
+	* Otherwise he is in the summoning chamber within the ziggurat.
+		* If the leaders are already in the summoning chamber, they complete the summoning before moving en masse to the top of the ziggurat for combat.
+	* The weavers accompany Caudatssa at all times.
+* If combat turns clearly against the heqeti, Caudatssa attempts to flee towards 7-83, and jump into the teleport well to alert the rest of his people. 
 
 Caudatssa the Tongue, a heqeti builder (see new monsters), 9th/7th-level fighter/cleric of Rimmaq-Isfet: SZ M; AL CE; AC 3; MV 90’, 120’ swimming; HD 9; HD 64; #AT 3/2; Dmg 6-11 (short sword +4, defender); MR 10% (tear of Kauket). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: 
-psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: heqeti mail armor (-2 to AC); short sword +4, defender; heqeti ring (see new magic items); tear of Kauket 
-(10% MR) (see new magic items), staff of compulsion. Spells: bless, command (x2), light, protection from good; augury, hold person (x3), silence 15’ radius; dispel magic, curse; cure serious wounds.
+psionic resistance; immune to sleep, charm, hold, and water/ice.
+* Possessions:
+	* heqeti mail armor (-2 to AC); 
+	* short sword +4, defender; 
+	* heqeti ring (see new magic items);
+	* tear of Kauket (10% MR) (see new magic items)
+	* staff of compulsion.
+	* A sun-scarred knight’s solar ring (new)
+* Spells: bless, command (x2), light, protection from good; augury, hold person (x3), silence 15’ radius; dispel magic, curse; cure serious wounds.
 
 Rissalviq, a heqeti weaver (see new monsters), as a 9th-level magic user: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 9; HP 28; #AT 1; Dmg 4-6 (dagger +2). Constant abilities: 
-infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: wand of fire (30 charges); amulet of natural armor +2 (see new magic items); ring of shield (see new magic items); wand of magic missiles (12 charges); bone dagger +2. Memorized spells: burning hands, comprehend languages, enlarge, magic missile; darkness 15’ radius, levitate, web; dispel magic, fly, haste; ice storm, wall of ice, interposing hand. 
-Spell book: found at 7-82.
+infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. 
+* Possessions: wand of fire (30 charges); amulet of natural armor +2 (see new magic items); ring of shield (see new magic items); wand of magic missiles (12 charges); bone dagger +2.
+* Memorized spells: burning hands, comprehend languages, enlarge, magic missile; darkness 15’ radius, levitate, web; dispel magic, fly, haste; ice storm, wall of ice, interposing hand. 
+* Spell book: found at 7-82.
 
 1 heqeti weaver (see new monsters), as a 7th/7th-level magic user/cleric of Rimmaq-Isfet: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 7; HP 34; #AT 1; Dmg 5-10 (footman’s mace +2). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, 
-hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); staff of healing (18 charges); copper-headed footman’s mace +2; two glass spheres of arcane 
-assistance (one of arcane warding, one of protection) (see new magic items); potion of gaseous form. Magic user spells: enlarge, jump, magic missile, shield; continual light, 
-levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other. Cleric spells: bless, command (x2), create water, cure light wounds; chant, hold person (x2), resist fire, silence 15’ radius; animate dead, blindness; sticks to snakes. Spell book: found at 7-82.
+hold, and water/ice. 
+* Possessions: amulet of natural armor +2 (see new magic items); staff of healing (18 charges); copper-headed footman’s mace +2; two glass spheres of arcane assistance (one of arcane warding, one of protection) (see new magic items); potion of gaseous form.
+* Magic user spells: enlarge, jump, magic missile, shield; continual light, levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other. Cleric spells: bless, command (x2), create water, cure light wounds; chant, hold person (x2), resist fire, silence 15’ radius; animate dead, blindness; sticks to snakes. Spell book: found at 7-82.
 
 1 keqemander demon (see new monsters): SZ L; AL CE; AC -2; MV 90’, 150’ flying (Class D); HD 12; HP 85; #AT 3; Dmg 1-4/1-4/3-18; MR 40%. Constant abilities: dread (-1 to saves); 
 infravision. Special attacks: acid spit (3-10 dmg; 30’ range, every other round); cause fear; darkness (10’ radius); exude acid with chance to degrade armor; use a symbol of discord. 
 Special defenses: only hit by magic weapons; half damage from cold, electricity, fire, and gas; become invisible. Special: levitate; telekinesis (4,000 gp weight); project image; teleport without error; 50% chance to gate in either another keqemander or a Type I-IV demon.
 
-Lyxander, 5th-level male Archontean fighter: SZ M; AL NG; AC 9; MV 120’; HD 5; HP 18 (max 43); #AT 1; Dmg by weapon. Abilities: STR 16, INT 8, WIS 11, DEX 15, CON 15, CHA 10. Possessions: Lyxander’s gear is held in the storeroom (chain mail +2 and shield +1, long sword +2).
-
-Treasure:
-Altar: 2 large violet garnets (650 gp each); set of copper sacrificial instruments (200 gp)
-
-Storeroom: another set of sacrificial instruments (200 gp); chain mail +2; long sword +2; shield +1; gold statuette of a crocodile (200 gp); sack of jerky; pile of dried and prepared human skins.
-
-Chest: 5,418 sp; 7,421 gp; three white opals tied together by strips of human flesh (1,000 gp each); a choker made of silver and aquamarines (575 gp); a pair of matched gold rings inset with silver lizards (400 gp each); a platinum key to the Obsidian Gates (5-6D); a sheet of smallness; a rod of turning (see new magic items); a silk-lined purse with 2 doses of efreeti 
-sand (see new magic items); an orange ioun stone; a bone coffer with 4 tears of Kauket (see new magic items) and a spoon of stirring; 2 potions of sweat of Rimmaq-Isfet (see new magic items); a scroll of phantom armor, a scroll of protection from fire; and a pledge of Rimmaq-Isfet (see new magic items).
+Lyxander, 5th-level male Archontean fighter: SZ M; AL NG; AC 9; MV 120’; HD 5; HP 18 (max 43); #AT 1; Dmg by weapon. Abilities: STR 16, INT 8, WIS 11, DEX 15, CON 15, CHA 10. 
+* Possessions: Lyxander’s gear is held in the storeroom (chain mail +2 and shield +1, long sword +2).
 
 ### 7-80: Pool
 
@@ -2571,20 +2764,36 @@ Proethus of Epirenus, 7th-level male Archontean magic user: SZ M; AL CG; AC 8; M
 
 ### 7-82: Chambers of the Tongue
 
-These three caves constitute the living quarters for the heqeti who serve the upper temple. The westernmost cave is home to the two weavers; the middle cave is the residence of Caudatssa, the tongue; the larger, eastern cave is a residence for the other heqeti.
+* These three caves constitute the living quarters for the heqeti who serve the upper temple.
+	* The westernmost cave is home to the two weavers; the middle to Caudatssa, the tongue, and the larger, eastern cave is for the other heqeti.
 
-Western Cave: The weavers (for stats see 7-79) have a ‘bead curtain’ made of bits of shell that offers a bit of privacy. They have a full human skeleton tied together with wire and hanging from a hook, on which they practice spells. A low (3’-tall) slab of inclined rock acts as a writing desk; on it sit their two spell books, the leaves and binding of which are made of human flesh. They also have an art-naïf statuette of Rimmaq-Isfet shaped much like a slug: a 10”-long piece of granite, shaped and rounded, with eyes and a mouth opening on one end. It detects as evil, but has no powers.
+Western Cave (Weavers)
+* A ‘bead curtain’ of bits of shell screens the interior.
+* A full human skeleton, wired together, hangs from a hook for spell target practice.
+* A low (3’-tall) slab of inclined rock acts as a writing desk
+	* An it sit 2 spell books, the leaves and binding of human flesh.
+* An crude 10'-long granite statue of Rimmaq-Isfet shaped much like a slug (radiates evil).
 
-Center Cave: Caudatssa, the tongue (see 7-79), commands the revived lesser ziggurat from this cave (even though he is rarely present here). A pile of dried pondweed serves as his resting spot. On a flat rock is the partly dissected corpse of the last sacrifice, a human; a set of finely-honed copper knives lies next to the body. Caudatssa has a curious interest in the inner workings of humans, and he is always eager to open up prisoners or the remains of 
-sacrifices. Two banners made of human skin lashed to a circle of bones rest against one wall. A large white teardrop is painted on the first [GM: a symbol of Kauket], while a thin black circle on a white field appears on the second [GM: a symbol of Rimmaq-Isfet]. Caudatssa also retains Sir Mendacity’s solar ring (see new magic items). 
+Center Cave
+* Caudatssa, the tongue (see 7-79), commands the revived lesser ziggurat from this cave (but is rarely present).
+* A pile of dried pondweed serves as a bed.
+* On a flat rock is the partly dissected corpse of the last sacrifice, a human
+	* A set of finely-honed copper knives lies next to the body. 
+	* Caudatssa is curious about in the inner workings of humans, always eager to open up prisoners or the remains of sacrifices.
+* Two banners made of human skin lashed to a circle of bones rest against one wall.
+	* A large white teardrop is painted on the first (a symbol of Kauket)
+	* A thin black circle on a white field appears on the second (a symbol of Rimmaq-Isfet).
 
-Eastern Cave: This large cave houses twelve heqeti chosen. At any given moment, six are on patrol in 7-78, while the other six relax here. The heqeti have flattened one of the walls and painted it white; atop the white field is a sinuous tongue [GM: another Rimmaq-Isfet symbol]. The cave contains twelve lumps of sand and pondweed, and a wooden post on which hangs a decomposing varumani corpse that the heqeti use for combat practice. In one 
-of the ‘nests’ is a hand-carved circular piece of bone; it serves as an amulet of health, albeit only for those of an evil alignment. Searching the others produces six pieces of carved amber.
+Eastern Cave
+* This large cave houses twelve heqeti chosen (6 present at any given moment, the other 6 on patrol in 7-78).
+* One wall is flattened and painted white on which is a sinuous tongue (another Rimmaq-Isfet symbol).
+* The cave contains 12 lumps of sand and pondweed (beds).
+	* In one ‘nest’: a hand-carved circular bone, an amulet of health (only works for evil)
+	* Other nests: 6 pieces of carved amber (150 gp each).
+* On a wooden post hangs a decomposing varumani corpse used for combat practice.
+
 
 6 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 45, 43, 40, 39, 38, 35; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice.
-
-Treasure:
-A sun-scarred knight’s solar ring (see new magic items), an amulet of health usable only by evil characters, and six pieces of carved amber (150 gp each).
 
 Spell Book for 9th-level Weaver: Affect normal fires, burning hands, comprehend languages, detect magic, enlarge, floating disk, hold portal, identify, jump, magic missile, read magic, shield, sleep; continual light, darkness 15’ radius, detect invisibility, knock, levitate, mirror image, ray of enfeeblement, web; dispel magic, feign death, fireball, fly, haste, protection from normal missiles, suggestion; charm monster, fear, fumble, ice storm, monster summoning II, wall of ice; conjure elemental, interposing hand, stone shape, telekinesis.
 
@@ -2986,24 +3195,57 @@ Caterwaul (33%): see stats at 7-116.
 
 ## Level 7: 119 - 132 (Domain of the Vampire, Cinna Minux)
 
-This cluster of chambers forms the current lair of the dangerousand ancient vampire lord, Cinna Minux. Cinna was one of the first Archonteans recruited to the Order of the Sun-Scarred Knights by the order’s reclusive master, Master Malachite (SL10A-32), and the last to have been offered the ‘gift’ of vampirism by the master. In his pride, Cinna accepted, but over time grew to chafe at the master’s strict and overly lawful regulations. He eventually renounced the order and its principles and fled, hiding himself in the ancient Archontean shrine complex in which he had once served. Here he works hard to conceal his presence from the Knights, even while continuing to hunt (carefully, and quietly) on the chasm floor 
-(Level 9).
+* This cluster of chambers is the lair of the ancient and dangerous vampire lord, Cinna Minux.
+	* Cinna was one of the first Archonteans recruited to the second Harmonious Brotherhood (precursor to the Order of the Sun-Scarred Knights) by the order’s reclusive master, Master Malachite (SL10A-32).
+	* In his pride, Cinna accepted the 'gift' of vampirism, but over time grew to chafe at the master’s strict and overly lawful regulation
+	* When Melok-Ri realized his mistake and began slaying his spawn, Cinna fled and successfully hid in the ancient Archontean shrine complex where he had once served.
+	* He carefully conceals his presence from the Knights, while continuing to hunt (carefully, and quietly) on the chasm floor (Level 9) and extending his invisible web of influence over the folk of the Halls.
+	* Melok-Ri believes he is dead, and the Sun-Scarred Knights haven't been been told of the prior iteration; though they have been ordered to report and destroy any vampires encountered.
 
- He has been exceptionally careful in revealing his presence, and few know even rumors of his existence. The bestial and lesser varumani know the area to be haunted, but know nothing of the cause of that ‘haunting’. Malachite has not told subsequent generations of Sun-Scarred Knights about Cinna’s origins, and they know him only as a ‘dangerous undead lord’. Cinna has built up a small circle of undead, plus a few lesser vampires, whom he dominates ruthlessly, imposing his own rigid regulations upon them (mostly, those have to do with never leaving Cinna’s domain).
+ * Exceptionally careful in revealing his presence, few know even rumors of him.
+	 * The bestial and lesser varumani know the area to be haunted, but know nothing of the cause of that ‘haunting’.
+* Age has made Cinna’s charm more powerful than a normal vampire (10x duration).
+	* He regularly travels throughout the halls in gaseous form; occasionally stopping to charm NPCs and monsters, who provide him with current news.
+	* Some include: Gillen, Tressa and Quade (4-180), Gog (5-2), Killik (5-46), Riglon (5-54), Gorlen (6-5), Virgoolian the chemist (6-28), Razor Face (6-61), Olaf the bee-whisperer (8-73), Muq (8-151), and Lithiric (9-22).
+		* He has also charmed, as necessary, numerous ordinary beastmen, goblins, Set guardsmen, lizardmen, and adventurers.
 
- Due to his age, Cinna’s charm abilities are more powerful than those of a standard vampire; the duration of any successful charm by Cinna is 10x that of the standard vampire. Cinna regularly travels throughout the halls in gaseous form; occasionally he stops to charm NPCs and monsters throughout Arden Vul. These charmed allies provide Cinna with information about who has passed, what their goals might be, and so forth. Some of his charmed sources of information include: Gillen, Tressa and Quade (4-180), Gog (5-2), Killik (5-46), Riglon (5-54), Gorlen (6-5), Virgoolian the chemist (6-28), Razor Face (6-61), Olaf the bee-whisperer (8-73), Muq (8-151), and Lithiric (9-22). He has also charmed, as necessary, 
-numerous ordinary beastmen, goblins, Set guardsmen, lizardmen, and adventurers.
+Domain
 
-Within his domain, Cinna is aggressive and dangerous, and uses all of his resources to destroy any party that sets foot in that domain. Of course, should the PCs prove too powerful, he swiftly resorts to gaseous form and flees to his sanctum (7-122) through the holes he has drilled in the floor of that chamber.
+* Cinna’s evil casts a pall over the entire area.
+	* Attempts to turn or rebuke undead have -2, and all good creatures have -1 to saves.
+	* Should Cinna be slain, the evil pall disappears in 1-3 days.
 
- Cinna’s evil casts a pall over the entire area. That pall produces two effects: 1) it reduces good clerics’ chances of turning undead by 2, and 2) it imposes a penalty of 1 to all saving throws made by good characters. Should Cinna be slain, the evil pall disappears in 1-3 days.
+* When the area is first approached, Cinna is holding court in 7-128 among his minions.
 
-When the area is first approached, Cinna is holding court in 7-128 among his minions. He is instantly aware of an attack on any of the minions of his domain; if such an attack occurs, 
-he immediately disperses his remaining lesser minions to soften up intruders’ defenses. He then plans ambushes with his greater minions among the hallways and shrines of his domain.
+* Within his domain, Cinna is aggressive and dangerous, using all of resources to destroy any party that sets foot there.
+	* Cinna is instantly aware of an attack on any of the minions and will immediately disperse his remaining lesser minions to soften up intruders’ defenses.  
+	* Then he plans ambushes with his greater minions.  They try to force the PCs into 7-128, where Cinna’s entire force can participate in the assault.
+	* Should intruders prove too powerful, he resorts to gaseous form and flees to his sanctum (7-122) through the holes drilled in the floor of that chamber.
 
-Cinna’s Minions:
-Cinna has sired two vampires, whom he dominates and employs as assistants. He has also charmed several adventurers and a few monsters. Finally, he has dominated a trio of wights and a small pack of ghouls. He has issued strict orders to the charmed creatures, forbidding them from leaving his domain without permission. All of the minions fight gladly for their master. Should PCs enter the domain in a way that attracts attention – e.g., by noisily fighting with the ogres at 7-119, the ghouls at 7-123, or the wights at 7-130 – then Cinna will order the remainder of his minions to move into action against the intruders. They attempt to force the PCs into 7-128, where Cinna’s entire force can participate in the assault. It is 
-possible, however, for PCs to stealthily enter the domain via area 7-121 (or via one of the other entrances, if silence is employed); in this case, the minions will be found in their usual locations, and Cinna could be caught by surprise in his hall (7-128). If Cinna captures any PCs, there is a 50% he will attempt to charm one or more low-intelligence characters into his service, and a 15% chance he will make one into a vampire.
+* Any captives may be charmed, especially if of low intelligence, or made into a vampire, if they seem promising.
+	* Less interesting captives will be turned into wights or ghouls, or just fed to the ghouls entire.
+
+Minions
+
+* Cinna has sired two vampires, whom he dominates and employs as assistants.
+	* They are forbidden them from leaving his domain without his express orders, for fear they might reveal his presence to the Sun-Scarred Knights.
+* He has dominated a trio of wights and a small pack of ghouls.
+* He has also charmed several adventurers and a few monsters.
+	* He might send for these charmed subjects to obstruct or even fight, intruders.
+	* He might also use them to try to lead the party into a trap.
+
+* He has issued strict orders to the charmed creatures, forbidding them from leaving his domain without permission.
+
+My Modifications
+
+* The pall of evil is the result of not just his long residence, but corrupting magics used on the shrines of Osiris and Khonsu.
+	* These corrupting magics he learned from study of the ruins of Melok-Ri's sire, Skalmir the Silent (still remembered in ancient Thorcin legend as a terror of the night).
+	* Undead cannot be turned within the pall, and sunlight loses its special nature to harm vampires.
+	* The area is hidden from scrying.
+	* -2 to all d20 rolls by good-aligned creatures.
+	* +2 to all d20 roll by undead and evil-aligned creatures.
+* Cinna has numerous vermin (rats, lizards, etc) that act as spies.
+* Lots of subtle holes drilled between halls, allowing quick short cuts via gaseous form.
 
 ### 7-119: Spiral Stairs Up to SL7-31 
 
@@ -3020,22 +3262,36 @@ possible, however, for PCs to stealthily enter the domain via area 7-121 (or via
 
 ### 7-120: Shrine to Ptah
 
-The ancient Archontean shrine to Ptah is in remarkably good condition. The chamber is tall (20’), and clad entirely in green marble. To the south is a cult statue of the god, standing on a dais. A well-appointed forge occupies the center and northern part of the chamber. Painted onto the green walls are images of farmers engaged in every sort of agricultural activity, one per 5’ section of marble. Looming behind each farmer is the face of Ptah, handsome and bearded. The one exception is the north wall, which is devoted to an enormous high-relief carving of bearded Ptah
+* The ancient Archontean shrine to Ptah is in remarkably good condition.
+	* The chamber is tall (20’), and clad entirely in green marble. 
+		* A painted images of farmers engaged in various agricultural activity occupy each 5’ section of marble, with the face of Ptah, handsome and bearded, looming behind each. 
+		* The exception is the north wall, hosting an enormous high-relief carving of bearded Ptah.
+	* To the south is a ==cult statue of the god==, standing on a dais. 
+	* A well-appointed forge occupies the center and northern part of the chamber. 
+		* Beside it are tools for threshing and grinding flour.
+	* Most of the northern half of the chamber is devoted to a remarkable site known in antiquity as “Ptah’s Field”.
+		* In an area of loamy dirt (5’ deep) grows gorgeous specimens of wheat and corn.
+		* A constant, gentle breeze blows from the carving of Ptah on the north wall.  For 10 minutes every hour, it becomes a gentle rain.
+		* Harvesting (1 hour to thresh, 1 hour to grind) yields 5 lbs of flour.
+			* Each loaf of bread (uses 1 lb) provides a day's sustenance and heals 2d6.
+			* The crops regrow in 2 weeks.
 
-Statue of Ptah: The statue of Ptah is 9’ tall and stands on a 3’ dais. He takes the form of a standing man, tightly wrapped in a thin shroud, holding three scepters across his chest. The statue is white marble, save for the head, which is polychromed green marble. His head is impassive, with blue eyes, black eyebrows, and a black beard. The three scepters – two held in the right hand, and one in the left – are a was stick, a djed pillar, and an ankh. A lawful good cleric who invokes Ptah (even if he/she follows a different god) hears the following words rumble like an earthquake through the chamber: “Champion of Order and Creation, choose your reward: power, life, or stability.” The cleric has 3 rounds to remove one of 
-the three scepters; after the three rounds, the magic ends and none of the scepters can be removed. 
+Statue of Ptah
+* The statue of white marble is, 9’ tall, atop a 3’ dais, of a standing man, tightly wrapped in a thin shroud, holding three scepters across his chest.
+	* His head is polychromed green marble, with impassive expression, blue eyes, black eyebrows, and a black beard.
+	* The three scepters – two in the right hand, one in the left – are a was stick, a djed pillar, and an ankh. 
 
-The was stick is shaped like one of the Set was sticks (see new magic items), that is, like a curved head on a straight body, with a forked bottom. In the hands of a lawful good cleric, it functions as a rod of striking with 20 charges (albeit only usable by LG clerics).
-
-The djed pillar appears as a rod formed of concentric rings of polished copper, starting with a ring 1” in diameter and ending with one that is 6” in diameter. In the hands of a LG cleric, it acts as a potent enchanted mace known as the creator’s breath (see new magic items).
-
-The ankh appears as a 2’-long copper ankh, incised with lapis. In the hands of a lawful good cleric it functions as rod of resurrection (with 10 charges).
-
-Ptah’s Field: Most of the northern half of the chamber is devoted to a remarkable site known in antiquity as “Ptah’s Field”. The field is an area of loamy dirt about 5’ deep, from which grow gorgeous specimens of wheat and corn. A gentle breeze blows constantly from the large carving of Ptah on the north wall, except for ten minutes of every hour, when the breath turns into a gentle rain. The crops are without disease or weeds, and can easily be harvested, threshed and ground into flour using tools and a stone that stand in the center of the chamber. If the crops are harvested, a new set will have grown back within 2 weeks. It takes an hour to thresh the harvest, and another hour to grind it into flour. One harvest can 
-produce 5 lb of flour. If made into bread, the flour is quite valuable: one loaf not only provides all food needs for a day, it also cures 2-12 HP. 
-
-Treasure:
-Ptah’s grain (see above); possibility of an enchanted ‘scepter’.
+* If Ptah is invoked by a lawful cleric, they hear words rumble like an earthquake through the chamber: “Champion of Order and Creation, choose your reward: power, life, or stability.”
+	* They have 3 rounds to remove a scepter before the magic ends.
+* Was stick
+	* Shaped like those of Set, with curved head on a straight body, with a forked bottom.
+	* To a lawful cleric, it is a rod of striking (20 charges).
+* Djed pillar
+	* A rod formed of concentric rings of polished copper, starting with a ring 1” in diameter and ending with one that is 6” in diameter.
+	* To a lawful cleric, it is the potent mace known as the Creator’s Breath (new).
+* Ankh
+	* A 2’-long copper ankh, incised with lapis.
+	* To a lawful good cleric it is a rod of resurrection (10 charges).
 
 ### 7-121: Deserted Chamber
 
@@ -3050,27 +3306,42 @@ Ptah’s grain (see above); possibility of an enchanted ‘scepter’.
 
 ### 7-122: Lair of the Vampire, Cinna Minux
 
-The final 15’ of the staircase that rises from 7-119 to this hall has been blocked with rubble (stone bits and pieces of furniture). It would take several hours of hard labor to move all the debris. 
+* The final 15’ of the staircase rising from 7-119 to this hall is blocked with rubble (stone bits and pieces of furniture) that would take several hours of hard labor to move.
 
-Cinna Minux has made a sanctum out of this ancient Archontean convocation hall, a site where the priests of the various temples and shrines used to meet to discuss business and settle disputes. Cinna enters and exits the lair in gaseous form through one of several holes he drilled in the floor of 7-122; these holes emerge in the ceiling of the corridor that passes beneath the convocation hall. Should Cinna be encountered elsewhere and driven to 0 HP, he is forced into gaseous form and retreats to this chamber, where his coffin lies. 
+* Cinna Minux has made a sanctum out of this ancient Archontean convocation hall where once, the priests of the various temples and shrines would meet to discuss business and settle disputes.
+	* Cinna enters and exits in gaseous form through one of several holes he drilled between the floor of 7-122 and the ceiling of the corridor that passes beneath.
+	* If Cinna is driven to 0 HP, he is forced into gaseous form and retreats to this chamber, where his coffin lies.
 
-The hall was once very grand, with frescoes of all the ancient Archontean gods lining the walls above a set of tiered benches. The frescoes are faded, but still visible and depict, in addition to Thoth and Set, Horus, Wadjet, Sobek, Besa, Osiris, Isis, Jael, Anubis, Tiamat, and Ptah, each in their iconic poses. The benches rise steeply from the central space, where once a speaking rostrum stood; now, however, the central space holds the sarcophagus/coffin of Cinna Minux. 
+* The hall was once very grand.  Faded frescoes of all the Twelve line the walls above a set of tiered benches.
+	* The benches rise steeply from the central space (where a speaking rostrum stood) that holds the sarcophagus/coffin of Cinna Minux. 
+	* The sarcophagus is of fine marble and unadorned save for an inscription (Mithric) ‘Cinna Minux. First Knight.’
+		* Ten ½” holes are drilled in the lid (open doors to move).
+		* The interior contains a 3” layer of dirt, an emergency stash of 20 yellow topazes in a red-silk bag (500 gp each), and a full set of six colored glass activation squares.
+* Surrounding the sarcophagus are various treasures that Cinna has accumulated over the centuries:
+	* a 3’-tall silver statue of a maiden (900 gp); a rosewood and ebony escritoire inlaid with ivory (1,200 gp); a silk and ivory canopy, such as might be carried above a dignitary in a procession (350 gp); a settee carved from a single piece of maple, carved with images of lions, tigers, and bears (250 gp), a set of six oak dinner chairs on the backs of which is carved the seal of the old archons of Arden Vul (150 gp each)
+	* an armor rack with imperial field plate (av items)
+	* a Theodorus’s bed of convenient respite (new) in full-sized mode
+	* several codices
+		* Symbols of Power
+		* the Twelve Labors of Arden
+		* Words and Symbols: an attempt to understand the symbols of the old ones
+		* Thirty-Seven Quips of Balak the Sage
+		* Tales of Larel One-Eye
+		* Sixteen Steps to Successful Administration
+		* Great Vampire Lords and their Demise, by Usuon of Agoreon
+			* As well as a collection of very old runestones which once belonged to Skalmir, enumerating favors owed by Loki in return for offerings and services done by the vampire; some stricken out (having been repaid).
 
-The sarcophagus is made of fine marble and unadorned save for an inscription in Mithric that reads, ‘Cinna Minux. First Knight.’ A set of 10 ½”-diameter holes are drilled in the lid, which can only be budged by making an open doors roll. The interior of the sarcophagus contains a 3” layer of dirt and Cinna’s emergency stash of yellow topazes inside a red-silk bag.
-
-Surrounding the sarcophagus are various treasures that Cinna has accumulated over the centuries: a 3’-tall silver statue of a maiden (900 gp); a rosewood and ebony escritoire inlaid 
-with ivory (1,200 gp); a silk and ivory canopy, such as might be carried above a dignitary in a procession (350 gp); a settee carved from a single piece of maple, carved with images of lions, tigers, and bears (250 gp); an armor rack with a full set of imperial field plate (see Arden Vul items); a Theodorus’s bed of convenient respite (see new magic items) in full-sized mode; a set of six oak dinner chairs on the backs of which is carved the seal of the old archons of Arden Vul (150 gp each); and several codices, including Symbols of Power, the Twelve Labors of Arden, Words and Symbols: an attempt to understand the symbols of the old ones, Thirty-Seven Quips of Balak the Sage, Tales of Larel One-Eye, and Sixteen Steps to 
-Successful Administration (see Arden Vul books for all). It should be noted that these objects are all (mostly) bulky and require much labor to move.
+Cinna Minux
+* Dresses in black silk chased with silver thread, with a silver torc and a silver coronet.
+* Cinna enjoys ceremony and the trappings of the civilized life.
+	* He likes to read edifying verses or stories to his minions, and to encourage them to offer songs to the group. 
 
 Cinna Minux, ancient vampire, formerly a 10th-level male Archontean fighter: SZ M; AL CE; AC 1; MV 120’, 180’ flying (Class B); HD 8+3; HP 59; #AT 1, or 3/2; Dmg 5-10, or 8-15 
 (Cers). Special attacks: energy drain; charm gaze (-2 to saves, duration 10x longer than usual). Special defenses: shape change (bat); assume gaseous form; summon 10-100 rats or 
-bats; immune to charm, hold, sleep; +1 or better weapons to hit. Due to his age, Cinna’s charm power has a duration of 10x that of normal vampires. He possesses the intelligent enchanted scimitar, Cers (see new magic items), which he can wield as follows: #AT 3/2, Dmg 8-15.
-
-Treasure:
-
-Sarcophagus: 20 golden yellow topaz gems (500 gp each), and a full set of six colored glass activation squares (see Thothian teleportation rings in new magic items).
-
-Chamber: numerous bulky valuables (see above).
+bats; immune to charm, hold, sleep; +1 or better weapons to hit.
+* Due to his age, Cinna’s charm power has a duration of 10x that of normal vampires.
+* Possessions
+	* Cers (intelligent scimitar), which he wields as follows: #AT 3/2, Dmg 8-15.
 
 ### 7-123: Badly Damage Shrine to Osiris
 
@@ -3078,6 +3349,10 @@ Chamber: numerous bulky valuables (see above).
 	* Not much remains of the shrine.  A headless granite statue of a man stands against the west wall.  Fragments of color suggest once-vibrant frescoes on the walls.
 	* At the east a djed pillar still stands: 8’ tall and formed of concentric circles of stone.
 		* The ghouls give it a wide berth, as it sparks constantly (a vestige of its old divine power). 
+	* 
+	* Various blasphemous sigils of Undeath adorn the djed pillar, and a ring of skulls face outward from it, each hosting a restless spirit (Shadow?).
+		* Ancient Thorcin runes "Nidhoggr, Root-Gnawer, keep open the road to Náströnd.  In the name of Skalmir, Silent One, let it be so." (the "Shore of Corpses", part of Hel for the souls of the dishonorable, source of undeath)
+		* This is part of the enchantment producing the pall of evil over Cinna's domain.
 
 * Cinna Minux has stationed six ghouls here as a deterrent to visitors.
 	* They have strict orders to send one to report any intruders to him.  Given their rapacious nature, 33% they actually obey.
@@ -3167,19 +3442,30 @@ magic, fly, lightning bolt, protection from normal missiles, slow, tongues; fear
 
 ### 7-128: Court of Cinna Minux 
 
-This grand hall was once an important shrine to Horus, but now it serves as the court for the vampire, Cinna Minux, and his minions.
+* This grand hall was once an important shrine to Horus, but now serves as the court for the vampire, Cinna Minux, and his minions.
+	* Two lines of columns march along the flanks of the chamber towards the cult statue at the western end, supporting a 25' ceiling.
+		* The headless, 15' tall statue stand on a 3’ dais and depicts a standing man holding spears in each hand (the butts rest against his feet).
+	* Several continual light spells cast on the ceiling provide adequate light.
+	* The walls are decorated with scenes of hawk-headed Horus presiding over the weather and armies of Archontean soldiers.
+	* Two massive, 20’ long oaken tables dominate the center of the chamber, joined in a t-shape (Cinna and his greater minions sit at the head table, while lesser minions sit on the cross).
+		* They are piled with food, plates, silverware, and heavy gold candelabra (200 gp each).
+			* Three silver ewers (75 gp each), a dozen fine porcelain plates decorated with the imperial helmet (600 gp total), a dozen sets of gold and steel ableware (100 gp each); 3 fine porcelain vases of dried flowers (150 gp each); a dozen crystal goblets (75 gp each); 8 pewter tankards (10 gp each); and 7 heavy pewter serving dishes (25 gp each).
+		* The severed head of the Horus idol is the centerpiece of Cinna Minux’s table.
+			* Marble, with a covering of gold for his back feathers, and eyes formed of silver, yellow topaz and sapphire (8,000 gp intact, 125 lb, 1,500 gp for just  the metals and gems).
+		* The serving dishes are filled with dried fruit and meat, fresh meat (slightly rare), bread, jams, preserves, etc.  7 bottles of imported Archontean wine (45 gp each) and a keg of Hak’s mushroom ale (see 7-94) complete the feast.
 
-The ceiling is 25’ tall. Two lines of columns march along the flanks of the chamber towards the cult statue at the western end. The walls are decorated with scenes of hawk-headed Horus presiding over the weather and over armies of Archontean soldiers. Two massive, oaken tables dominate the center of the chamber. They are piled with food, plates, silverware, and candelabra. Several continual light spells cast on the ceiling provide adequate light.Statue: Standing on a 3’ dais, the 15’-tall statue depicts a standing man holding spears in each hand (the butts rest against his feet). The head has been knocked off, however, and now serves as the centerpiece of Cinna Minux’s table.
+* Unless previously alerted to intruders (and soemtimes even then), Cinna Minux here, holding court with his minions.
+	* He occupies the central seat at the high table.
+	* To his left are Brenna and Joshuel; to his right are Nasteon and Elliana.
+	* Two ogres and two bestial varumani sit at the cross table. 
+* Cinna enjoys ceremony and the trappings of the civilized life.
+	* He likes to read edifying verses or stories to his minions, and to encourage them to offer songs to the group. 
+	* Guests (sudden or unexpected) who arrive without immediate violence are greeted as guests and invited to his table.
+		* They are free to eat and drink with the company without fear.
+		* At the end of the meal, Cinna politely invites guests to share stories, poetry or song. If the offerings gain favor, Cinna likely allows the visitors to depart in peace, with a warning not to intrude again.
+	* Though not nourished by normal food, the three vampires eat of the feast for the sake of appearances.
+		* When one of them brings back a victim, they dine in their personal lairs and dispose of the body in 7-132.
 
-Tables: Both tables are 20’ long and made of heavy oak. They are joined in a t-shape, such that Cinna and his greater minions can sit at the head table while the lesser minions (ogres and varumani) sit on the cross. Dotting the tables is an impressive array of objects: six heavy gold candelabra (200 gp each); three silver ewers (75 gp each); a dozen fine porcelain plates decorated with the imperial helmet (600 gp the set); a dozen sets of gold and steel ableware 
-(100 gp each set); three fine porcelain vases filled with dried flowers (150 gp each); a dozen crystal goblets (75 gp each); eight pewter tankards (10 gp each); and seven heavy pewter serving dishes (25 gp each). The serving dishes are filled with food: dried fruit, dried meat, fresh meat (slightly rare), bread, jams, preserves, etc.. Seven bottles of imported Archontean wine (45 gp each) and a keg of Hak’s mushroom ale (see 7-94) complete the feast.
-
-On the table in front of Cinna sits the hawk head of Horus. At its core the head is marble, with a covering of gold to represent his back feathers, and eyes formed from silver, yellow topaz and sapphire. Intact the head is worth 8,000 gp, but weighs 125 lb; if the head is broken up, the metals and gems are worth 1,500 gp.Unless previously alerted to intruders, and in some circumstances even then, Cinna Minux is found here, holding court with his 
-minions. He occupies the central seat at the high table. To his left are Brenna and Joshuel; to his right are Nasteon and Elliana. Two ogres and two bestial varumani sit at the cross table. Cinna enjoys ceremony and the trappings of the civilized life, and likes nothing more than to read edifying verses or stories to his minions and to encourage them to offer songs to the group. 
-
-If a party manages to reach this location without causing a general alert, or if a party has sought negotiations with the vampire, then Cinna greets the PCs as guests and invites them to his table. Should the PCs agree, they are free to eat and drink with the company without fear. At the end of the meal, Cinna politely invites guests to share stories, poetry or song. If the offerings are successful (as determined by the GM), Cinna likely allows the party to depart in peace, with a warning not to intrude again. If the PCs’ efforts are unsuccessful, or if they show hostility, then Cinna signals his minions to attack.
-
-GM Note: Although they are not nourished by normal food, the three vampires do consume portions of the feast for the sake of appearances. When one of them brings back a victim, they dine on it in their personal lairs and dispose of the body in 7-132.
 
 Cinna Minux, vampire: Cinna is dressed in black silk chased with silver thread, with a silver torc and a silver coronet. See stats at 7-122
 
@@ -3195,11 +3481,6 @@ Elliana the Swarthy, charmed F6 (see stats at 7-124)
 
 2 charmed bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 55, 53; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
 
-Treasure:
-See table furnishings above.
-Personal magic-items on inhabitants.
-Hawk head of Horus: 8,000 or 1,500 gp,
-
 ### 7-129: Shrine to Jael (Khonsu)
 
 * The shrine to Khonsu, the ancient Archontean god of the moon, secrecy and lawlessness is in good shape.
@@ -3210,6 +3491,10 @@ Hawk head of Horus: 8,000 or 1,500 gp,
 			* Speaking ‘Jael’ (Khonsu) while standing on the marble disk causes mist (i.e., Jael’s ‘cloak’) to billowing forth from the heron’s beak, filling the room in 5 rounds (harmless).
 			* Once the room is mist-filled, one can seek blessings from Jael by whispering a secret plan or nefarious activity to the full moon image.
 				* for d4 days: +1 all saves, +1 to all rolls while in moonlight
+
+* Various blasphemous sigils of Darkness adorn the walls, and wolf skulls face inward from along the walls, each hosting a restless spirit (Shadow?).
+	* Ancient Thorcin runes "Sköll Sun-Eater and Hati Moon-Hunter, keep the light from my door.  In the name of Skalmir, Silent One, let it be so."
+	* This is part of the enchantment producing the pall of evil over Cinna's domain.
 
 ### 7-130: Sarcophagi and Wights
 
@@ -3319,20 +3604,47 @@ This wide cave is relatively flat.
 
 ### 7-143: Engine Room of the Beacon
 
-This large chamber constitutes one of the original modules of the starship Beacon, the engine room. This module contains some artifacts that are both valuable and potentially useful, even though it certainly cannot be used to drive a starship anymore.
+* A ==fierce battle== is currently raging between three factions.
 
-The outer walls of the engine room are made of triple-strength plasteel, painted gunmetal grey on the outside and off-white on the inside. The module is 40’ tall, and has two main areas. The first is the engineering deck, set 20’ above the floor of the module. Both entrances to the module give forth onto the engineering deck. The second area is the 60’x40’x20’ drive well in the center of the module, in which the six warp drives stand. 
+* This large chamber is the engine room module of the starship Beacon.
+	* The outer walls are triple-strength plasteel, gunmetal grey on the outside and off-white on the inside.
+	* The module is 40’ tall, with 2 main areas.
+		* The first is the engineering deck, 20’ above the floor of the module.
+			* Both entrances to the module give forth onto the engineering deck.
+			* A ==control console== (4’ high black glass sheets studded with dials and buttons) stands at either end of this deck.
+		* The second is the drive well (60’ x 40’ x 20’) in the center of the module.
+			* Accessed by four plasteel ladders set into the sides of the well.
+			* The columns of six warp drives stand stand within the drive well.
+				* 10’-diameter, 30’-tall columns of clear plasteel filled with glowing yellow gel.  A maze of tubing, wires, glowing panels, and dials attaches to the outside of each.
+				* At the foot of each drive is a panel (18” x 36”), openable via consoles on the engineering deck.  Within each is a heavy (50 lb), 2’-long drive rod of clear plasteel filled with glowing orange liquid 
+				* Amber lights periodically blink on each drives; all have been in ‘power-down’ state for millennia.
+				* A nuclear generator under the engineering deck provides the power that keeps the drives active.
+			* Two rudishva skeletons (inert) lie on the floor of the drive well.
+				* One carries a GnuCoder 1000, a data crystal, and a full lesser power supply (tech).
+					* Data crystal: orders to “report immediately to Lieutenant Svar-Loj in the shuttle bay” (i.e., SL13-37), along with instructions and auth codes to remove 2 of the drive cores.
+				* Rudishva identity plaques (brown, sky blue)
 
-A fierce battle is currently raging between three factions: a rudishva animated construct; a party of Priscian explorers who navigated their way here from Level 9 via 7-136 and 7-138; and one of Kerbog Khan’s rare battle automatons (who arrived via 5-85B and 7-141). The construct is carrying out its last orders, to prevent non-rudishva from entering the module. The Priscians and the automaton are each in search of artifacts. Kerbog Khan (SL12-25) is currently directly controlling his automaton, and the strange voice of that wizard may be heard bellowing imprecations, shouting for blood samples, and threatening magical ruin on the Priscians. The Priscians are fighting quietly, using hand signals in addition to spells. Two Priscian conversi are already dead. Either the Priscians or Kerbog Khan would be willing to ally with a party of PCs, but only if the PCs help eliminate the other group.
+Control Consoles
+* Without technical training it is impossible to figure out how the drives function.
+* Pushing buttons and cranking dials at random has a 5% chance per round of causing a meltdown in one of the drives.
+	* Once begun, a meltdown is heralded by loud klaxon horns and flashing red lights.
+	* In 4 rounds, the drive explodes (30d6 damage to all in the area).
+	* A meltdown can be averted by pushing the right sequence of buttons (1% chance if attempted randomly).
+* With proper instructions (see below), the consoles can also be used to unlock the panels holding the drive rods.
 
-Engineering Deck: Two control consoles stand at either end of this deck. The consoles are 4’ from the ground and appear as black glass sheets studded with dials and buttons. Without technical training it would be impossible to figure out what all the functions are, let alone how to operate or trouble-shoot the drives. Those who simply push buttons and crank dials at random have a 5% chance per round of causing a meltdown in one of the drives. Once begun, a meltdown leads to loud klaxon horns and flashing red lights. In 4 rounds one of the drives will explode for 30d6 damage to all in the area. A meltdown can be averted by pushing the right sequence of buttons (1% chance if attempted randomly). With proper instructions (see below), the consoles can also be used to unlock the panels holding the drive rods.
+Fierce Battle
+* A fierce battle is currently raging between three factions
+	* A rudishva animated construct
+		* Carrying out its last orders, to prevent non-rudishva from entering the module.
+	* A party of Priscian explorers who navigated their way here from Level 9 via 7-136 and 7-138
+		* The Priscians are each in search of artifacts.
+		* They fight quietly, using hand signals in addition to spells.
+		* Two Priscian conversi are already dead.
+	* One of Kerbog Khan’s rare battle automatons (who arrived via 5-85B and 7-141).
+		* The automaton is in search of artifacts.
+		* Under direct control by Kerbog Khan (SL12-25).  His strange voice bellows imprecations, shouting for blood samples, and threatening magical ruin on the Priscians. 
+* Either the Priscians or Kerbog Khan would be willing to ally with a party of PCs, but only if the PCs help eliminate the other group.
 
-Warp Drive Well:  The well is accessed by four plasteel ladders set into the sides of the well. The drives appear as 10’-diameter, 30’-tall columns of clear plasteel filled with glowing yellow gel. A maze of tubing, wires, glowing panels, and dials is attached to the outside of each drive. At the foot of each drive is an openable panel, some 18”x36” in size. The panels can only be opened using the consoles on the engineering deck. Doing so reveals a heavy (50 lb), 2’-long rod of clear plasteel filled with glowing orange liquid; this rod is a ‘drive rod.’ 
-
-The six engines are also connected to each other, as well as to consoles to the east and west, by a set of blue plasteel tubing. Although amber lights periodically blink on each of the drives, all six engines have been in ‘power-down’ state for millennia; a nuclear generator under the engineering deck continues to provide the power that keeps the drives active.
-
- Two rudishva skeletons (inert) lie on the floor of the drive well. One carries a GnuCoder 1000 with one data crystal and a full lesser power supply (see new technological items). The data crystal carries a set of orders that include instructions on how to remove two of the drive cores safely, and instructions (in Rudishva) to “report immediately to Lieutenant Svar-Loj in the shuttle bay” (i.e., SL13-37). One who reads Rudishva could use these instructions at 
-the control console to open the panel doors on any or all of engines so as to remove the drive rods.
 
 1 rudishva animated constructs - stone nataraja (see new monsters): SZ L; AL N; AC 2; MV 90’; HD 8; HP 55 51; #AT 1; Dmg 4-11; MR 25%. Special attacks: sonic or fire attack. Special 
 defenses: +1 or better weapons to hit; immune to cold, fire, electricity, poison, and mind-affecting spells.
@@ -3356,12 +3668,6 @@ Pelagor, Priscian conversus (see new monsters) and bonded defender to Laegel, as
 
 Eroica, Priscian conversus (see new monsters), as a 5th-level female Archontean fighter: SZ M; AL NE; AC 2; MV 90’; HD 5; HP 49; #AT 1; Dmg 4-11 (battle axe +1) or 1-4 (light 
 crossbow). Abilities: STR 18/50, INT 9, WIS 12, DEX 10, CON 16, CHA 7. Possessions: splint mail +1 and shield; battle axe +1; light crossbow; 83 sp and 37 gp.
-
-Treasure:
-
-Warp drive rods (up to 6).
-
-On the bodies: a GnuCoder 1000 image screen, with one crystal; a rudishva lesser power supply; and brown, copper, sky blue rudishva identity plaques (see new technological items for all).Items on the Priscians (see above).
 
 ### 7-144: Rudishva Teleport Node
 

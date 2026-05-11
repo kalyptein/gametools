@@ -9,7 +9,7 @@ of the Sun-Scarred Knights) that offered greatly expanded lifespans.
 
 After the collapse he found himself working for the Archonteans in a limited fashion from a laboratory created for him on Sub-Level 7; they knew him as ‘the necromancer’, even though he despised that term (and it was mostly inaccurate).
 
-When the empire splintered, Reiv-Tor was poised to seize con-trol of this region. Doing so, his experiments in bioengineering rapidly accelerated in number and type. He became obsessed with the idea that water was the ideal medium for life and began altering his body to make it more suited for aquatic living. He also began mutating captured goblins, beastmen and humans into servitors – the fishmen. Approximately 60 fishmen inhabit the sub-level, and Reiv-Tor is always in the process of creating new ones.
+When the empire splintered, Reiv-Tor was poised to seize control of this region. Doing so, his experiments in bioengineering rapidly accelerated in number and type. He became obsessed with the idea that water was the ideal medium for life and began altering his body to make it more suited for aquatic living. He also began mutating captured goblins, beastmen and humans into servitors – the fishmen. Approximately 60 fishmen inhabit the sub-level, and Reiv-Tor is always in the process of creating new ones.
 
 Finally, he also created a few forms of unique life to help him restructure his environment to match his tastes; these include the coral generating fish, the lantern fish, and the spy fish. It was Reiv-Tor and his creatures, of course, who built up the dam in the Drowned Canyon (SL6-25).
 
@@ -207,9 +207,25 @@ Barileon the spectre: SZ M; AL LE; AC 2; MV 150’, 300’ flying (Class B); HD 
 	* A secret compartment (detects as secret door) within the column open when a catch worked into the head of Agapion’s horse is pressed.
 		* The compartment is 2’ square, containing a pale green ioun stone, a pearly white ioun stone, and the giant’s tooth (new).
 
-8 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 234, 22, 20, 19, 18, 16, 15, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
+8 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 23, 22, 20, 19, 18, 16, 15, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
+
+X / 24
+X / 22
+X / 22  W
+X / 20 
+X / 19
+X / 18
+X / 16
+X / 15
+X / 15
 
 2 lantern fish (see new monsters): SZ S; AL N; AC 8 or 4; MV 120’ swimming; HD 2; HP 13, 9; #AT 1; Dmg 2-5. Special attacks: blind.
+
+12 / 13
+X / 9
+
+0 / 13
+X / 9
 
 2 spy fish (see new monsters): SZ S; AL N; AC 7 or 3; MV 150’ swimming; HD 1-4 HP; HP 4, 2; #AT 1; Dmg 1. Special: blind.
 
@@ -221,6 +237,11 @@ Barileon the spectre: SZ M; AL LE; AC 2; MV 150’, 300’ flying (Class B); HD 
 * The growing coral has destroyed any former decoration in this chamber. 
 
 4 barracuda: SZ M; AL N; AC 6; MV 300’ swimming; HD 3; HP 20, 19, 17, 14; #AT 1; Dmg 2-8.
+
+X / 20
+X / 19
+X / 17
+X / 14
 
 ### SL7-13: Old Torture Chamber (Dry)
 
@@ -270,10 +291,19 @@ Special attacks: bone throwing; sonic blast. Special defenses: +1 or better weap
 6 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 22, 20, 18, 16, 15, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
 * One of the fishmen: foebane necklace (new).
 
+X / 16
+X / 15
+X / 22
+X / 20
+X / 18
+X / 15
+
+
 2 coral generating fish (see new monsters): SZ S; AL N; AC 4; MV 150’ swimming; HD 2; HP 12, 8; #AT 1; Dmg none. Special attacks: chitin spray degrades armor.
 
 2 lantern fish (see new monsters): SZ S; AL N; AC 8 or 4; MV 120’ swimming; HD 2; HP 13, 9; #AT 1; Dmg 2-5. Special attacks: blind.
- 
+
+
 ### SL7-15: Assorted Fish (Submerged)
  
 * The narrow corridor leading to this room is completely coral-encrusted and difficult to navigate.
@@ -305,6 +335,11 @@ Special attacks: bone throwing; sonic blast. Special defenses: +1 or better weap
 MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison. 
 * Possessions: One fishmen wears bracers of defense (AC 4), one wears a a gold ankle bracelet (150 gp).
 
+X / 20
+X / 18
+X / 16
+X / 15
+
 ### SL7-17: Giant Clams (Submerged)
 
 * The coral in this room is substantially thicker than elsewhere.
@@ -325,15 +360,21 @@ MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and 
 		* The boons are 2’-diameter air bubbles, activated when the beseecher touches it.
 * GM Note: if Naik-Lir was released from SL7-13, three of the fishmen here will be dead.
 
-D6 Boon
+D4 Boon
 * 1) Water breathing: the bubble fastens itself around the head of the beseecher. For the next 24 hours the recipient can breathe in water as well as air.
-* 2) Blessing: the bubble fastens itself around the head of the beseecher. For 6 hours, the recipient is under the effect of a bless spell.
-* 3) Fortitude: the bubble pops, but provides 6 hours of protection against fear (+4 to saves).
-* 4) Righteous Anger: the bubble pops, but provides the recipient with +1 to hit and damage for 6 hours
-* 5) Healing: the bubble pops, but heals 3-24 of damage on the beseecher.
-* 6) Protection from water-based creatures: the bubble fastens itself around the beseeecher’s head. For 3 hours the recipient’s AC is improved by one versus all water-based or water-dwelling creatures.
+* 2) Fortitude: the bubble pops, but provides 6 hours of immunity to fear.
+* 3) Righteous Anger: the bubble pops, but provides the recipient with +2 to hit and damage for 6 hours
+* 4) Healing: the bubble pops, but heals 3-24 of damage on the beseecher.
 
 6 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 22, 20, 18, 17, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
+
+X / 22
+X / 17
+X / 20
+X / 18
+X / 16
+14 / 15
+
 
 1 lantern fish (see new monsters): SZ S; AL N; AC 8 or 4; MV 120’ swimming; HD 2; HP 11; #AT 1; Dmg 2-5. Special attacks: blind.
 
@@ -359,6 +400,18 @@ GM Note: If Naik-Lir was released from SL7-13, then 3 of the fishmen here will b
 
 2 coral generating fish (see new monsters): SZ S; AL N; AC 4; MV 150’ swimming; HD 2; HP 12, 8; #AT 1; Dmg none. Special attacks: chitin spray degrades armor.
 
+X / 24
+
+22 P
+20 P
+
+X / 18
+X / 16
+
+X / 16
+X / 15
+X / 13
+
 ### SL7-20: Crossroads Wells (Partly-Submerged)
 
 * Five statues of winged, monkey-like beings sit on ledges set on the walls (two on the east wall, two on the west, one on the south, beside another, empty, ledge).
@@ -371,8 +424,6 @@ GM Note: If Naik-Lir was released from SL7-13, then 3 of the fishmen here will b
 5 kopoacinth (water gargoyles): SZ M; AL CE; AC 5; MV 90’, 150’ swimming; HD 4+4; HP 31, 28, 26, 25, 21; #AT 4; Dmg 1-3/1-3/1-6/1-4. Special defenses: Special defenses: +1 or better weapons to hit.
 
 1 in 6 chance for 1-3 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 18, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
-
-Treasure:
 
 ### SL7-21: Well Chamber (Partly-Submerged)
 
@@ -619,6 +670,7 @@ mucus. Special defenses: immune to cold and poison. Possessions: trident.
 		* Fully permeable from the east; one passes through with only a flicker of energy.
 		* From the west, one is barred passage.
 	* Carrying a stone of passage (new, see SL7-33) allows safe passage through it.
+	* 
 	* Above both eastern and western exits is carved in 3’-tall, silver-filled letters (Mithric): ‘By order of the archon, none shall pass save those with proper authorization.’ 
 
 ### SL7-36: Roper Cave (Dry)
@@ -632,6 +684,9 @@ mucus. Special defenses: immune to cold and poison. Possessions: trident.
 1 roper: SZ L; AL CE; AC 0; MV 30’; HD 11; HP 67; #AT 1; Dmg 5-20; MR 80%. Special attacks: six poisonous strands (20’-50’ range; reduce STR by 50% in 1-3 rds). Special defenses: immune to lightning; take half damage from cold.
 * 4 aquamarines (500 gp each) in the roper’s gullet.
 
+atk 23, def 20
+X / 67
+
 ### SL7-37: Lesser chasm with Tunnel to 4-76) (Dry)
 
 * A small chasm runs from southwest to northeast (60’ long, 30’ wide, and 55’ deep).
@@ -640,6 +695,14 @@ mucus. Special defenses: immune to cold and poison. Possessions: trident.
 	* A pod of medium chasm cephalopods occupies the chasm.
 
 6 medium chasm cephalopods (see new monsters): SZ M; AL N; AC 5; MV 60’ flying (Class A); HD 4; HP 32, 27, 26, 25, 24, 23; #AT 5 (4 tentacles and a beak); Dmg 1-4/1-4/1-4/1-4/1-6; MR 25%. Special attacks: surprise on 1-4.
+
+atk 16
+X / 32 WW
+X / 27
+19 / 26
+X / 25
+X / 24
+20 / 23
 
 ### SL7-38: Landing (Dry)
 

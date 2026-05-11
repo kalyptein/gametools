@@ -117,6 +117,12 @@ Pisscatig, a hydrodaemon: SZ L; AL NE; AC 2; MV 60’, 60’ flying (Class D), 2
 * Special defenses: word of recall (1/day); half damage from acid, cold and magical fire; half or no damage from water-based attacks; silver, or +1 or better weapons to hit; immune to poison and paralysis. 
 * Special: detect invisible; read magic; comprehend languages; invisibility; telepathy; teleport without error; dimension door; darkness within 10’; create water; water walking (as the ring), gate in a hydrodaemon (50%); summon 12 HD water elemental.
 
+72 / 96
+
+12 HD water elemental
+atk 24, def 18
+X / 72
+
 2 phase salamanders (see new monsters): SZ M; AL N; AC 3 (or 6); MV 90’, 120’ swimming; HD 5; HP 32, 23; #AT 1; Dmg 2-8. Special attacks: phase (+4 to hit). Special: AC 6 if unable to phase.
 
 33 / 32
@@ -179,13 +185,16 @@ X / 23
 	* The corpses of two heqeti hoppers lie on the floor.
 		* They are large heqeti slime zombies (new) rising to confront all intruders. 
 	* The east wall has an unusual half-round sculpture of Rimmaq-Isfet carved into it.
-		* The inscrutable evil god takes the form of a salamander with squid tentacles protruding from its mouth, brandishomg a harpoon in his small arms.
+		* The inscrutable evil god takes the form of a salamander with squid tentacles protruding from its mouth, brandishing a harpoon in his small arms.
 		* It appears wet and viscous, as if a mucus membrane is covering it (caused by a variety of heqeti slime that soaks up and relates a message).
 			* Any stepping within 5’ of it hear (Heqeti): “The Devourer is displeased with our efforts. Punishment shall befall all those who fail to carry the war to the humans. The dread lord sends a new ally, Pisscatig, to accomplish what the heqeti could not. For your failures, you will serve Rimmaq-Isfet in other ways!”
 			* GM Note: the message refers to the wars of the heqeti and the Archonteans. It reveals the private name of the hydrodaemon in SL2-1.
 		* Beneath the sculpture is a silk pouch with 3 tears of Kauket (new).
 
 2 heqeti slime zombies: SZ L; AL N; AC 6; MV 60’; HD 6; HP 42, 35; #AT 1; Dmg 2-8. Special attacks: slime infestation. Special defenses: immune to electricity.
+
+X / 42
+34 / 35
 
 ##### SL6-4a: Stairs Down to 9-125
 
@@ -517,7 +526,7 @@ The Challenge
 	* Arriving via tunnel provokes no reaction unless a challenge is issued upon the pentagram.
 	* Arriving via the pentagram automatically invokes the challenge, and the castellan must immediately appear and duel the new claimant. 
 * When challenged, the current castellan – Basil Choumnos – will teleport from the tower in 3 rounds to the south lip of the dueling pit.
-	* He immediately issues the formal challenge: “I, Basil Choumnos, am rightful lord of the Tower of Pol. Who challenges my right?” 
+	* He immediately issues the formal challenge: “I, Basil Choumnos, am rightful lord of the Tower of Pol. Who challenges my right?”
 	* Intruders have a brief opportunity to explain themselves, during which Basil will explain, imperiously, their choice: either a magic user duels him, or the intruders return back the way they came.  He then repeats his challenge, and the visitor must reply with their name and some form of challenge. 
 	* If attacked during negotiations, his obligation to duel ends, and he is teleported back to the Tower; likely to utterly ignore any clamor from outside.   Only if the intruders are particularly annoying and appear weak will he mount to the top of the tower and engage the intruders in combat from that safe location.
 * If a duel is agreed upon, the two parties descend into the dueling pit  (10’ x 10’ x 25’).
@@ -545,7 +554,7 @@ Benefits and Obligations of the Castellan
 Recall Devices
 * 3 keys and 3 small stones on leather thongs.
 	* Permanently enchanted with Pol’s recall (new)
-	* Each key is different opens no lock.  Holding it and speaking "home" teleports you to Level 2 of the Tower of Pol.
+	* Each key is different and opens no lock.  Holding it and speaking "home" teleports you to Level 2 of the Tower of Pol.
 	* Holding a rock and speaking "challenge" teleports one to the dueling pit in SL6-17. 
 
 The Tower
@@ -600,8 +609,25 @@ Scrolls:
 	* Basil Choumnos almost never uses the roof; and the trapdoor is locked and barred.
 
 
-Basil Choumnos, 9th-level male human magic user: SZ M; AL CE; AC -1; MV 120’; HD 9; HP 29; #AT 1; Dmg 1-6 (staff of the magi). STR 9; INT 18; WIS 14; DEX 17; CON 8; CHA 2. Possessions: staff of the magi (17 charges); bracers of defense (AC 2); leviathan’s teeth (9 teeth); amulet of spell absorption (14 spell levels remaining), cap of serenity, ring of shield, key of recall, stone of recall, ring of higher purpose (see new magic items for last seven items). Memorized spells: magic missile, shield, shrink (reverse of enlarge) (x2); invisibility (x2), mirror image; dispel magic, hold person (x2); fire shield, ice storm; feeblemind.
+Basil Choumnos, 9th-level male human magic user: SZ M; AL CE; AC -1; MV 120’; HD 9; HP 29; #AT 1; Dmg 1-6 (staff of the magi). STR 9; INT 18; WIS 14; DEX 17; CON 8; CHA 2. 
+* Possessions: 
+	* staff of the magi (17 charges, -2)
+	* bracers of defense (AC 2)
+	* leviathan’s teeth (9 teeth) (new)
+	* amulet of spell absorption (14 spell levels remaining, -7) (new)
+	* cap of serenity (new)
+	* ring of shield (new)
+	* key of recall (new)
+	* stone of recall (new)
+	* ring of higher purpose (new)
+* Memorized spells
+	* magic missile, shield, shrink (reverse of enlarge) (x2); invisibility (x2), mirror image; dispel magic, hold person (x2); fire shield, ice storm; feeblemind.
 
+X / 29
+
+15 / 24
+15 / 24
+15 / 24
 
 Spell Book of Gemma of Arcturos: Burning hands, charm person, dancing lights, detect magic, firewater, grease, hold portal, identify, light, magic missile, melt, message, recipitation, read magic, run, sleep, spider climb, taunt, ventriloquism, wizard’s mark; bind, darkness 15’ radius, deeppockets, detect evil, flaming sphere, forget, invisibility, irritation, know alignment, locate object, acid arrow, rope trick, vocalize, web, wizard lock; blink, cloudburst, dispel magic, explosive runes, fly, gust of wind, hold person, item, minute meteor, secret page, slow, suggestion, water breathing; confusion, dig, dimension door, extension I, fire trap, fumble, ice storm, massmorph, plant growth, polymorph self, remove curse, shout, wall of ice; avoidance, interposing hand, contact other plane, extension II, hold monster, magic jar, sending, teleport; chain lightning, eyebite, part water.
 
@@ -636,8 +662,7 @@ Library of the Tower of Pol (see Arden Vul books for all) (Title Author)
 * Travels in the Astral Plane Nicodemus the Noseless
 * Trifold Tome of Theodore the White Theodore the White
 * The Twelve Labors of Arden Anonymous
-* Waldinus’s Guide to the City of Brass
-* Waldinus Counsel-Avoider
+* Waldinus’s Guide to the City of Brass Waldinus Counsel-Avoider
 * Words and Symbols: an attemptto understand the symbols of the Old Ones Hanon the Scribe
 
 ### SL6-18: Tunnel down to 7-135
@@ -656,7 +681,7 @@ Library of the Tower of Pol (see Arden Vul books for all) (Title Author)
 1 enormous gray ooze: SZ L; AL N; AC 8; MV 10’; HD 5+5; HP 37; #AT 1; Dmg 2-16. Special attacks: corrode metal. Special defenses: impervious to spells; immune to heat and cold. 
 * The ooze has consumed all the metallic valuables from the dead Priscians.  3 light-blue surcoats, a potion of climbing, a wooden scroll case (water breathing, enchanted weapon, and interposing hand) remain.
 
-0 / 37
+X / 37
 
 ### SL6-20: Doors to Nowhere
 
@@ -675,7 +700,7 @@ Library of the Tower of Pol (see Arden Vul books for all) (Title Author)
 * The secret door is a circular stone plug (normal to locate).
 	* It opens by forcing it inward (as stuck door).
 	* Beyond the secret door is a narrow, 6’-wide tunnel leading to SL6-10.
-		* A series of traps lies in wait along the tunnel for the unwary.
+	* A series of traps lies in wait along the tunnel for the unwary.
 		* Scything blade: a 10’ section of floor is a pressure plate that causes several blades to scythe across the hallway (3d6 damage to those in its path).
 		* Pit with spikes: just beyond the pressure plate for the blades is a 10’ section of floor that gives way to a 10’-deep pit with wooden stakes (2d6 damage).
 		* Poisoned darts: the final 10’ of corridor before the door to SL6-22 is a pressure plate that launches a dozen air-powered poison darts (1d2 each and save vs poison at +2 or die).
@@ -1003,7 +1028,7 @@ X / 25
 * This 10’-tall arched entrance to Archontean-era tombs lies 60’ below the level of cavern floor and 20’ below the water level of the Drowned Canyon.
 	* The archway leads to stairs rising 20’ to exit the water before a sodden, moisture-filled wooden door (stuck).
 		* Three hand axes are buried in the door, and the skeleton of a dwarf in a badly rent chain hauberk (AC 6) lies in front of it.
-			* Battle axe; a pouch (50 gp of wet silver dust), a silver flute (25 gp).
+			* Battle axe; a pouch (50 gp of wet silver dust), a silver flute (25 gp).  Lifestone
 
 ### SL6-39: Grand Porch and Corridor to SL7-1 (Submerged)
 
@@ -1016,6 +1041,16 @@ X / 25
 * 50% chance that 6 fishmen are lurking just behind the porphyry pillars, waiting for their moment to avoid the colossal moray eel (see SL6-24) and swim for the stairs at SL6-10.
 
 6 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 24, 22, 20, 18, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold, poison.
+
+atk 16, def 15
+X / 20
+X / 24
+
+X / 22
+X / 18
+
+X / 16
+X / 15
 
 ### SL6-40: Hallway (Submerged)
 
@@ -1126,7 +1161,7 @@ Sarcophagus
 	* Carved ivory plaques rest in the two rows of 7 indentations; each depicting a human in a different scene.
 		* The plaques represent the traditional Seven Virtues and Seven Vices of the Archontean Empire.
 * Inside Cassandra’s tomb
-	* 3 yellow feldspar jars: one with Cassandra’s ashes, one with her mummified heart, and one with her mummified brain.  A hoplite helmet inscribed on each jar with silver gilt (750+ gp to an upper imperial official).
+	* 3 yellow feldspar jars: one with Cassandra’s ashes, one with her mummified heart, and one with her mummified brain.  A hoplite helmet inscribed on each jar with silver gilt (750 gp to an upper imperial official).
 	* Packed in wax:
 		* 1,000 mint ancient silver pennies
 		* A packet of love letters between Cassandra Rubea and the basileus, Drusirrus the Legionary (1,000 gp and instant notoriety and scandal throughout the empire)
@@ -1144,27 +1179,45 @@ Sarcophagus
 Archontean Virtues and Vices
 * In traditional Archontean moral philosophy, there were 7 cardinal virtues, each with a complementary cardinal vice.
 
-* Prudence/Rashness
+* Prudence / Rashness
 	* A farmer plows his field while another lies lazily under a tree
 	* A legionary rushing ahead of his unit 
-* Justice/Pride
+* Justice / Pride
 	* A seated woman gesturing to two disputants kneeling before her
-	* A rider falling froma horse
-* Patience/Anger
+	* A rider falling from a galloping horse
+* Patience / Anger
 	* A benignly smiling man walks through a crowd of clamoring petitioners
-	* A female pulling at her hair and gnashing her teeth
-* Courage/Treason
+	* A woman pulling at her hair and gnashing her teeth
+* Courage / Treason (Treachery)
 	* A lone legionary confronts a troll
-	* Two men embracing, with one preparingto stab the other with a dagger
-* Probity/Lust
+	* Two men embracing, with one preparing to stab the other with a dagger
+* Probity / Lust
 	* A man and woman touch hands in the traditional marriage gesture
-	* A naked female with toads attached to breasts and genitals
-* Vigor/Sloth
+	* A naked woman who dances lasciviously
+* Vigor / Sloth
 	* A man digging with a shovel
 	* A fat man leaning against a donkey
-* Largesse/Avarice
+* Largesse (Generosity) / Avarice
 	* A woman handing an apple to a beggar and a gladius to a man
-	* A man sitting on a money chest
+	* A richly dressed man sitting on a money chest
+
+Virtues
+* A farmer plows his field while another lies lazily under a tree
+* A seated woman gesturing to two disputants kneeling before her
+* A benignly smiling man walks through a crowd of clamoring petitioners
+* A lone legionary confronts a troll
+* A man and woman touch hands in the traditional marriage gesture
+* A man digging with a shovel
+* A woman handing an apple to a beggar and a gladius to a man
+
+Vices
+* A legionary rushing ahead of his unit 
+* A rider falling from a galloping horse
+* A woman pulling at her hair and gnashing her teeth
+* Two men embracing, with one preparing to stab the other with a dagger
+* A naked woman with dances lasciviously
+* A fat man leaning against a donkey
+* A richly dressed man sitting on a money chest
 
 4 Archontean animated constructs - spearmen (see new monsters): SZ M; AL N; AC 2; MV 60’; HD 6; HP 45, 40, 35, 33; #AT 1; Dmg 5-10; MR 25%. Special defenses: immune to elemental magic, poison, and mind-affecting spells; +1 or better weapons to hit; half damage from slashing or piercing weapons.
 
@@ -1200,6 +1253,8 @@ Opening Jellida First
 
 Georgius Aurellus, vengeful spirit (see new monsters): SZ M; AL LE; AC 1; MV 120’; HD 6; HP 38; #AT 1; Dmg 1-12; MR 25%. Special attacks: STR drain. Special defenses: +1 or better 
 weapons to hit; immune to fire; turned as vampire; reform in 1-6 hours so long as his bones remain disturbed.
+
+X / 38
 
 ### SL6-47: Tomb of Ligareus of Archontos (Dry)
 
@@ -1266,6 +1321,9 @@ GM Notes
 1 dust monster (see new monsters): SZ L; AL N; AC 0; MV 90’; HD 8, HP 39; #AT 1; Dmg 3-18. Special attacks: suffocation; blinding. Special defenses: +1 or better weapons to hit; half 
 damage from blunt magical weapons.
 
+58 / 39
+slowed 5 rounds, -4 to rolls
+
  2 bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 50, 49; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
 
 ### SL6-48: Unfinished Side-Tomb (Dry)
@@ -1324,6 +1382,9 @@ sleep and charm.
 2 ropers: SZ L; AL CE; AC 0; MV 30’; HD 11; HP 77, 68; #AT 1; Dmg 5-20; MR 80%. Special attacks: six poisonous strands (20’-50’ range; reduce STR by 50% in 1-3 rds). Special defenses: immune to lightning; take half damage from cold.
 * In the gut of one of the ropers are 9 gemstones: 2 pieces of amber (100 gp each), 2 violet garnets (500 gp each), 2 moss agates (13 gp each), 2 tourmalines (100 gp), and a white opal (1000 gp).
 
+X / 77
+X / 68
+
 ### SL6-55: Archontean Vault (Submerged)
 
 * This Archontean vault for the storage of valuable and dangerous objects has been lost to common knowledge for centuries.
@@ -1356,6 +1417,8 @@ Stone Chests
 
 1 imperial stone guardian (see new monsters): SZ L; AL N; AC -2; MV 90’; HD 8+3; HP 60; #AT 2; Dmg 3-18/3-18; MR 50%. Special defenses: +2 or better weapons to hit; immune to missiles (including magic missile), fire, cold, mind-affecting spells (e.g. charm), and most immobilizing spells (immune to entangle, hold monster, web).
 
+X / 60
+
 ##### SL6-55a: Stairs Up to Level 5 (5-42)
 
 * This passage climbs out of the water via two brief stairs.
@@ -1386,7 +1449,7 @@ Colossal moray eel (see new monsters): stats at SL6-24
 * The empty chamber was originally only accessible from SL6-61, but ancient tomb robbers delved the tunnel at SL6-57 and broke into it.
 	* The walls show no signs of decoration, and there is nothing on the floor save the tools of the tomb-robbers, namely some ancient pick-axes, hammers, and chisels.
 * The bones of a few of the eel’s victims have ended up here, along with a bit of treasure.
-	* A suit of blood-red leather armor +2 
+	* A suit of blood-red leather armor +2
 	* Red-band, a scimitar +2 (INT 13; empathy, True Neutral, detect sloping passages in a 10’ radius, detect elevator/shifting walls/rooms in a 10’ radius; ego 4)
 	* A pair of copper armbands chased with silver (145 gp each)
 	* A leather purse with 57 gp; a silk pouch with gold choker (1,400 gp)
@@ -1799,6 +1862,8 @@ Note: The air supply in this chamber is fixed.
 
 Licata the spectre: SZ M; AL LE; AC 2; MV 150’, 300’ flying (Class B); HD 7+3; HP 52; #AT 1; Dmg 1-8. Special attacks: energy drain. Special defenses: +1 or better weapons to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
 
+X / 52
+
 ### SL6-79: Unfinished Tomb (Dry)
 
 * Note: The air supply in this chamber is fixed; see general sub-level conditions above.
@@ -1815,9 +1880,16 @@ Licata the spectre: SZ M; AL LE; AC 2; MV 150’, 300’ flying (Class B); HD 7+
 	* He repurposed several chambers throughout the Halls as bolt-holes to which he could teleport if conditions in the city grew desperate.
 	* This tomb was one of his third-tier refuges, where he deposited some coin, a few potions, and copies of his spell-books.
 
-Kel Bormol’s Spell Books (in eleven large volumes): All 1st-level spells plus Basil’s torch treatment, Cleophalus’s look-away spell, and friend of the Hekate (see new spells for all three); all 2nd-level spells plus the Bracteros effect, locate place, Pol’s endless sneezes, pummeling fists of Arak-Zhorr, and wizard’s cache (see new spells for all five); all 3rd-level spells plus garrulous mouth (see new spells); all 4th-level spells plus Dameon’s shadow spell book (see new spells); all 5th-level spells plus harnessing the chaos, the hekate’s bonds, and 
-Pol’s improved eye (see new spells for all three); anti-magic shell, curse item (see new spells), death spell, disintegrate, enchant an item, extension III, forceful hand, geas, globe of invulnerability, invisible stalker, legend lore, monster summoning IV, project image, reincarnation, repulsion, stone to flesh, transformation; cacodemon, delayed blast fireball, duo-dimension, grasping hand, limited wish, mass invisibility, monster summoning V, Pol’s recall (see new spells), power word stun, vanish, warding chain of glyphs (see new spells); clenched fist, incendiary cloud, irresistible dance, mass charm, mind blank, mindshift (see new spells), monster summoning VI, permanency, polymorph object, power word blind, spell immunity, symbol; astral spell, crushing hand, gate, meteor swarm, power word kill, prismatic 
-sphere, time stop.
+Kel Bormol’s Spell Books (in eleven large volumes):
+* All 1st-level spells plus Basil’s torch treatment, Cleophalus’s look-away spell, and friend of the Hekate (see new spells for all three)
+* all 2nd-level spells plus the Bracteros effect, locate place, Pol’s endless sneezes, pummeling fists of Arak-Zhorr, and wizard’s cache (see new spells for all five)
+* all 3rd-level spells plus garrulous mouth (see new spells)
+* all 4th-level spells plus Dameon’s shadow spell book (see new spells)
+* all 5th-level spells plus harnessing the chaos, the hekate’s bonds, and Pol’s improved eye (see new spells for all three)
+* anti-magic shell, curse item (see new spells), death spell, disintegrate, enchant an item, extension III, forceful hand, geas, globe of invulnerability, invisible stalker, legend lore, monster summoning IV, project image, reincarnation, repulsion, stone to flesh, transformation
+* cacodemon, delayed blast fireball, duo-dimension, grasping hand, limited wish, mass invisibility, monster summoning V, Pol’s recall (see new spells), power word stun, vanish, warding chain of glyphs (see new spells)
+* clenched fist, incendiary cloud, irresistible dance, mass charm, mind blank, mindshift (see new spells), monster summoning VI, permanency, polymorph object, power word blind, spell immunity, symbol
+* astral spell, crushing hand, gate, meteor swarm, power word kill, prismatic sphere, time stop.
 
 ### SL6-80: Concealed Corridor Entrance (Partly-submerged)
 

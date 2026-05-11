@@ -842,8 +842,39 @@ Sgraal has agreed to let the Savage Heart kill Kusok and Yurtil by secret means.
 * 
 * Kusok and Yurtil are dead, Sgraal has thoroughly repudiated Tsathoggua.  Bsak is in good favor and loaded up with gifts of scrolls and tokens.  Lorg is trying to get with the winning side.  The pukels and arcanum-slime shrine are destroyed / sealed away beneath stone.
 
+* Freed Gemma and Erist from petrification at Pol's Tower.
+
+* Found Sulla the Myrmex
+	* It was mis-instructed by a doppelganger in the form of Zhorak's chief assistant, sending it on a deconstructing rampage that Zhorak was no longer around to countermand.
+		* Or maybe they tried to command it, but it was keyed to Zhorak and the false-Zhorak orders caused it to go crazy instead simply obeying or not obeying?
+	* Returning it to the dwarves.
+		* They plan to get it quickly to the safely of their forgehold.
+
+* Deal with Basil Choumnos
+	* determine what his magic items do and how he responds to an assault.
+	* 
+	* Tresti slew him, claimed Castellan-ship for a time, before giving it to Gemma.
+
+* Erist mentions another companion, his half-brother (same mom, different human dad)
+	* Hallar Ellagelsson, fighter-mage (merchanting in the Troll Market, hoping to find a cure); Ketra and he went into the depths searching for stone salve or something like it.  Separated from Ketra, eventually forced to fall back, without allies he's stayed at the market, rather than venture out again.
+
 
 ### ==--- PRESENT DAY ---==
+
+
+
+* Naik-Lir has been freed and taken away by Tresti to see Akla-Chah
+	* He is remarkably psychologically healthy.  Akla-Chah is a bit puzzled by how well undead can endure centuries of captivity without going nuts.  Once she's had some time with him, she'll pronounce him well and in need of worthwhile pursuits to sustain him.
+	* She can talk him out of vengeance, assuring him that the Savage Heart will see justice and the greater good done.
+	* What will the party do with him?
+		* He could take over guarding the Bridge area, and serving Akla-Chah.
+		* Offer advice and insight.
+		* Etc.
+
+
+* Why did Ketra and Hallar go deeper?  what rumor led Ketra to level 9?  Why did they think this might save Erist?
+	* maybe they didn't know how to reach Pol's tower?  They were trying to find another path there, thinking his petrification was caused by the Castellan, who could undo it?  Looking for that path up from 7-135 to SL6-17?
+
 
 
 TODO
@@ -887,25 +918,27 @@ Varboka sends the hunters to scout out the heqeti.
 
 * ??? The Priscians come back to deal with the Savage Heart, hoping Astrid can return their prisoner?
 	* Or they try to magic them out?
+	* Maybe it's a small group of Priscians willing to take a risk to save their comrade, when Nerub and the bulk of the group.
 
 
 
 The party is routinely checking in with the dungeon allies:
-* Fane of Thoth
+* Fane of Thoth, Icthelon the "Well-Preserved" (mummy)
 * Beastmen
 * Goblins
 * Skreel
-* Varumani
+* Varumani Court, Gog
 
 Uthgrim of the Order of the Fifth Circle collegium
+* he's here investigating the Eighth Collegium
+* was in the Skreel lair
+* Astrid has given a lot of info on Sortians, their magics, 8th Col traces
+* invited to the Savage Lodge
+* 
 * visits the Savage Lodge
 * he's visited the Inn of the Lost; reports on its anti-magic zone
 * no particular luck searching for 8th Collegium
 
-* here investigating the Eighth Collegium
-* was in the Skreel lair
-* Astrid has given a lot of info on Sortians, their magics, 8th Col traces
-* invited to the Savage Lodge
 
 
 

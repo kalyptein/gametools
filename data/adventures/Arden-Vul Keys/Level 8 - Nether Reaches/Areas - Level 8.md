@@ -409,16 +409,13 @@ An oblique reference to the false dwarves at 8-100(really doppelgangers)
 
 ### 8-4: Hall of Ambushes
 
-This long chamber is brightly lit by several continual light spells cast on the ceiling. It is littered with skeletons and partially-decomposed corpses. The stench of death is strong. Under all the debris is a beautiful, 10’-diameter mosaic depicting a yellow hoplite helmet (an imperial symbol); unusually, the yellow tesserae are actually bits of gold (total of 475 gp worth).
-
-Three arrow slits occupy the north wall, as does a lowered portcullis. Nicetas and his robbers (8-4) use these apertures to ambush those who approach their domain. The robbers wait until a party has fully entered the chamber before launching their attacks.
-
-Almost nothing of value may be found here, since Nicetas’s men assiduously loot the dead bodies. Still, the robbers have never noticed that a desiccated human hand rests flush with the ceiling in the northwestern corner. Unless visitors expressly state that they are examining the ceiling, it is likely to be overlooked. The hand wears a ring of levitation (see new magic items), which accounts for its strange positioning.
-
-Secret Door (east): The door is normal to detect. It is locked, and the key is held by Nicetas. Attempts to pick the lock are at +5%.
-
-Treasure:
-Ring of levitation (see new magic items).
+* This long chamber is brightly lit by several continual lights cast on the ceiling.
+	* It is littered with skeletons and partially-decomposed corpses, and the stench of death is strong.
+		* Under the debris is a beautiful, 10’-wide mosaic: a yellow hoplite helmet (an imperial symbol).  The yellow tesserae are actually gold (475 gp).
+		* The bodies are thoroughly looted, but a severed human hand wearing a ring of levitation floats unnoticed against the ceiling in the northwest corner.
+	* North wall: 3 arrow slits and a lowered portcullis. 
+		* Nicetas and his robbers (8-4) use them to ambush those who approach, waiting until a party has fully entered the chamber before attacking.
+	* Secret Door (east, locked, +5% to pick): the key is held by Nicetas.
 
 ### 8-5: Nicetas and Co., Robbers
 
@@ -569,35 +566,35 @@ Leather armor +2; damaged light crossbow of speed; ankh of protection (see new m
 
 ### 8-11: The Landing of Flowers
 
-Forty feet of stairs rise from the darkness of 8-8 towards a bright, well-lit landing. The walls of the stairwell are carved intricately in the form of flowers, vines, and creepers. The landing extends 15’ into an enormous cavern (8-67); it is 60’ above the cavern floor, and 30’ below the ceiling.
-
-The magically created sunlight in 8-67 prevents the shadows from area 8-8 and other undead from neighboring areas from entering the landing.
+* Forty feet of stairs rise from the darkness of 8-8 towards a bright, well-lit landing.
+	* The walls of the stairwell are intricately carved with flowers, vines, and creepers.
+	* The landing extends 15’ into an enormous cavern (8-67), emerging 60’ above the cavern floor, and 30’ below the ceiling.
+	* The magical sunlight in 8-67 prevents the shadows (8-8) and other undead from entering the landing.
 
 ### 8-12: Secret Room
 
-A decrepit wooden table stands against the north wall, while two wall-mounted racks on the south wall have collapsed in a pile of rotted wood. A dozen potions sit on the table, the products of an ancient but forgotten Archontean alchemist. Amid the debris of the fallen racks is the beekeeper’s rod (see new magic items).
-
-Secret Doors (east and west): The doors are easy (1 in 3) to find from this side. They open with the key (found in 8-9) or by force.
-
-Treasure:
-Beekeeper’s rod (see new magic items); potions of healing x3; potions of plant control x4; and potions of sweetwater, speed, heroism, invulnerability, and levitation.
+* A decrepit wooden table stands against the north wall.
+	* A dozen potions sit on the table, products of an ancient, forgotten Archontean alchemist (healing x3; plant control x4; sweetwater, speed, heroism, invulnerability, levitation).
+* 2 wall-mounted racks on the south wall have collapsed in a pile of rotted wood. 
+	* Amid the debris is the beekeeper’s rod (new).
+* Secret Doors (east and west, locked): easy (1 in 3) to find from this side; the key is in 8-9.
 
 ### 8-13: Table with Corpses
 
-A large oak table, 10’x20’ in size, occupies the center of this chamber. The desiccated corpses of two human men-at-arms lie under the table; their souls have joined the troupe of shadows that killed them. The corpses carry leather armor, long swords, and pouches with 77 and 43 sp respectively.
-
-Secret Door (west): The door is normal to find. It opens either by force, or with a key that fits the cleverly-hidden lock (the key may be found in 8-9).
+* A large oak table (10’x20’) occupies the center of this chamber.
+	* Desiccated corpses of 2 human men-at-arms lie under the table (their souls have joined the troupe of shadows that killed them).
+		* Leather armor, long swords, and pouches (77 sp and 43 sp).
+* Secret Door (west, locked): opens by force, or with the key in 8-9.
 
 ### 8-14: More Shadows
 
-A series of stone busts built into the walls line the walls of this chamber. There are sixteen busts, each about 3’ tall; each depicts a now-forgotten Archontean functionary. They are carved in high realism, showing wrinkles, warts, and scars. Tucked into the space between one bust and the wall is a scroll of protection from undead, a scroll of protection from acid, and a scroll of protection from devils.
+* A series of 16, 3'-tall, stone busts built into the walls line the walls of this chamber.
+	* Each depicts a now-forgotten Archontean functionary. They are carved in high realism, showing wrinkles, warts, and scars.
+	* Tucked between one bust and the wall are  3 scrolls of protection (undead, acid, devils).
 
-Three more greater shadows (see new monsters) occupy the chamber, although they are likely to be first encountered in area 8-8 (q.v.).
+* 3 greater shadows (new) occupy the chamber, although are likely first encountered in 8-8.
 
 3 greater shadows (see new monsters): SZ M; AL CE; AC 5; MV 120’; HD 5+1; HP 36, 34, 30; #AT 1; Dmg 2-12. Special attacks: ability drain. Special defenses: +1 or better weapons to hit; immune to cold, poison, paralysis, sleep, charm, and hold; turned as a wraith.
-
-Treasure: 
-A scroll of protection from undead; scroll of protection from acid; scroll of protection from devils.
 
 ### 8-15: Lair of Laocoon the Shadow Lord
 
@@ -622,14 +619,16 @@ Laocoon’s treasure: 4,199 gp; 3 pieces of chalcedony (50 gp each); 3 amethysts
 
 ### 8-16: Sparring Hall
 
-The walls of this former sparring hall are lined with metal clips and wooden racks designed to hold all manner of weapons. Only a few weapons remain, and all are mundane: 2 halberds, 2 bill-guisarmes, a footman’s flail, and a mace. In the center of the chamber is a sand-filled pit; the pit is 10’x20’ and 5’ deep. The sand is tightly packed, such that its level is now 2” below the stone of the main floor. Buried in the sand are two skeletons, one wearing a corroded but still usable suit of imperial field plate (see Arden Vul items) while the other possesses a philter of beauty and clutches a dagger of venom. It takes 5-8 turns of digging to find these items.
+* The walls of this former sparring hall are lined with metal clips and wooden racks designed to hold all manner of weapons.
+	* Only a few weapons remain: 2 halberds, 2 guisarmes, a footman’s flail, and a mace.
+* In the center of the chamber is a sand-filled pit (10’x20’, and 5’ deep).
+	* The sand is tightly packed, now 2” below the stone of the main floor.
+	* Buried in the sand are 2 skeletons, one wearing corroded but usable imperial field plate (av items); the other has a philter of beauty and clutches a dagger of venom.
+		* It takes 5-8 turns of digging to find these items.
 
-Three skeletal wights (see new monsters) occupy this hall, although they are likely to be encountered in 8-8 (q.v.).
+* 3 skeletal wights (new) occupy this hall, though are likely encountered in 8-8.
 
 3 skeletal wights (see new monsters): SZ M; AL CE; AC 3; MV 120’; HD 5+1; HP 35, 33, 32; #AT 1; Dmg 3-9. Special attacks: energy drain. Special defenses: successful energy drain heals 3-9 HP; +1 or better weapons to hit; edged weapons do ½ damage; immune to sleep, charm, hold, poison, paralyzation and cold; turned as ghasts. 
-
-Treasure:
-A suit of imperial field plate (see Arden Vul items); philter of beauty; dagger of venom.
 
 ### 8-17: Chamber of Several Uses
 
@@ -639,23 +638,29 @@ This utilitarian chamber is largely undecorated, although flecks of sky-blue pai
 
 ### 8-18: Audience Hall
 
-A 2’-tall, semi-circular dais made of blue granite abuts the east wall. On top of the dais is a large stone throne of the same blue stone. The rest of the chamber is strangely bare of decorations.  Four vorantes demons (see new monsters) roll about in this chamber, looking for prey. The vorantes demons are quick to join combat in 8-8 (q.v.)
+* A 2’-tall, semi-circular, blue granite dais abuts the east wall.
+	* Atop is a large stone throne of the same blue stone.
+		* hidden compartment (as secret door): a piece of folded oilskin cloth, tied with string and sealed with red wax (the seal is a hoplite helmet with the words ‘Valens proedros’ around it).
+			* Inside: Valens’s tokens of office, a gold signet ring (550 gp), a platinum scepter (1,250 gp), and a set of silver writing tools (125 gp).
+	* The rest of the chamber is strangely bare of decorations.
 
-A hidden compartment (detected as a secret door) in the throne contains a piece of folded oilskin cloth, tied up with string and sealed with red wax (the seal is a hoplite helmet with the words ‘Valens proedros’ around it). Inside the cloth are Valens’s tokens of office, a gold signet ring (550 gp), a platinum scepter (1,250 gp), and a set of silver writing tools (125 gp).
+* Four vorantes demons (new) roll about in this chamber, looking for prey.
+	* They vorantes demons are quick to join combat in 8-8.
 
 4 vorantes demons (see new monsters): SZ S; AL CE; AC 4; MV 120’; HD 4; HP 28, 26, 24, 21; #AT 1; Dmg 2-8; MR 10%. Special attacks: gnaw. Special defenses: take 1 less HP damage 
 per die versus fire and cold. Special: demonic telepathy; can see in absolute darkness.
 
-Treasure:
-A gold signet ring (550 gp), a platinum scepter (1,250 gp), and a set of silver writing tools (125 gp).
-
 ### 8-19: Decayed Lounge
 
-Formerly a sumptuous-appointed lounge, this chamber is now largely filled with debris. A beautiful silk rug (10’x20’) depicting various legendary monsters (dragons, sea serpents, kraken, etc.) occupies the center of the chamber (575 gp, but heavy). The rotted remnants of a half dozen leather chairs have been pushed against the walls, amid other bits of wood, leather, and cloth. Three bronze side tables (75 gp each) are buried among the debris. A tall, heavy, but empty bookcase stands in front of a 2’-diameter hole located near the ceiling of the southwest corner.
+* Formerly a sumptuous-appointed lounge, this chamber is now largely filled with debris.
+	* Central is a beautiful silk rug (10’x20’) depicting legendary monsters (dragons, sea serpents, kraken, etc) (575 gp, but heavy).
+	* The rotted remnants of a half dozen leather chairs are pushed against the walls, amid other bits of wood, leather, and cloth.
+		* Three bronze side tables (75 gp each) are buried among the debris.
+	* A tall, heavy, empty bookcase stands in southwest corner.
+		* It obscures a 2’-diameter hole located near the ceiling, leading into a tunnel to the south.  It gradually grows as it descends to the south.
+			* The vorantes demons are unaware of the hole, and the kaliyani (8-22) deemed it a tactically dangerous dead end.
 
-Four vorantes demons and a greater vorantes demon (see new monsters) occupy the chamber.
-
-The tunnel to the south is only 2’ in diameter where it enters this chamber; it gradually grows larger in diameter as it descends to the south. The vorantes demons are unaware of the hole, and the kaliyani (8-22) deemed it a tactically dangerous dead end.
+* Four vorantes demons and a greater vorantes demon (new) occupy the chamber.
 
 4 vorantes demons (see new monsters): SZ S; AL CE; AC 4; MV 120’; HD 4; HP 28, 26, 24, 21; #AT 1; Dmg 2-8; MR 10%. Special attacks: gnaw. Special defenses: take 1 less HP damage 
 per die versus fire and cold. Special: demonic telepathy; can see in absolute darkness.
@@ -664,29 +669,32 @@ per die versus fire and cold. Special: demonic telepathy; can see in absolute da
 
 ### 8-20: Former Barracks
 
-The remains of four wooden bunkbeds rest against the north wall of this chamber. The four vorantes demons (see new monsters) that occupy the chamber are busily devouring the (somewhat rancid) corpses of two human adventurers.
+* The remains of four wooden bunkbeds rest against the north wall of this chamber.
+	* A torn and tattered (but still legible) copy of the Twelve Labors of Arden lies under one bunkbed.
+* The four vorantes demons (new) that occupy the chamber are busily devouring the (somewhat rancid) corpses of two human adventurers.
+	* Corpse 1) cleric scroll (stone tell, heal).
+	* Corpse 2) morning star +1, a 4”-tall, golden votive statuette of Hathor (610 gp).
 
 4 vorantes demons (see new monsters): SZ S; AL CE; AC 4; MV 120’; HD 4; HP 28, 26, 24, 21; #AT 1; Dmg 2-8; MR 10%. Special attacks: gnaw. Special defenses: take 1 less HP damage 
 per die versus fire and cold. Special: demonic telepathy; can see in absolute darkness.
 
-Treasure:
-One of the corpses still bears a scroll with the cleric spells stone tell and heal. The other bears a morning star +1 and a 4”-tall, golden votive statuette of Besa, the Archontean goddess of pleasure (610 gp). A torn and tattered (but still legible) copy of the Twelve Labors of Arden lies under one of the bunkbeds (see Arden Vul Books).
-
 ### 8-21: Bedroom
 
-Unlike neighboring rooms, this chamber features plastered walls, on top of which are bright frescoes showing an Archontean official (Valens the proedros) dispensing justice, commanding laborers, and reclining in a throne-like chair (that looks much like the one 
-in 8-18). The plaster on the west wall conceals the broken passage that originally led to area 8-25. The corridor fragment is instantly recognizable as from a different era of construction; its walls are pebbled and oily, and throw off a very dim sense of evil (a product of its heqeti origins).
+* Unlike neighboring rooms, this chamber has plastered walls with bright frescoes.
+	* An Archontean official (Valens the proedros) dispenses justice, commands laborers, and reclines in a throne-like chair (like the one in 8-18).
+	* The west wall's plaster conceals the broken passage originally leading to 8-25.
+		* The corridor fragment is instantly recognizable as from the heqeti era; pebbled and oily, with a dim sense of evil.
+	* Remains of a once grand four-poster bed are collapsed in the southwest corner.
+	* A teak writing desk (175 gp) on the north wall is intact.
+		* Carved with exotic, Khumusi figures.
+		* Jade ink well (225 gp), a crystal-encrusted golden statuette of a large-bellied, smiling woman (375 gp).
+		* Stuck to the underside of the sole drawer: a parchment bifolium entitled ‘The Honey Project’ (books).
 
-The main chamber is marked by the remains of a once grand four-poster bed, now collapsed in the southwest corner. A teak writing desk (175 gp) on the north wall is intact; the desk is carved with exotic, non-Archontean figures (it comes from the Khumus people to the west). 
-
-Four vorantes demons and a greater vorantes demon (see new monsters) occupy this chamber, although they may be first encountered in 8-8 (q.v.).
+* Four vorantes demons and a greater vorantes demon (new) occupy this chamber, though likely first encountered in 8-8.
 
 4 vorantes demons (see new monsters): SZ S; AL CE; AC 4; MV 120’; HD 4; HP 28, 26, 24, 21; #AT 1; Dmg 2-8; MR 10%. Special attacks: gnaw. Special defenses: take 1 less HP damage per die versus fire and cold. Special: demonic telepathy; can see in absolute darkness.
 
 1 greater vorantes demon (see new monsters): SZ M; AL CE; AC 2; MV 120’; HD 7+3; HP 44; #AT 1; Dmg 2-12; MR 25%. Special attacks: gnaw. Special defenses: immune to fire and cold. Special: demonic telepathy; can see in absolute darkness.
-
-Treasure:
-The writing desk holds a jade ink well (225 gp), a crystal-encrusted golden statuette of a large-bellied, smiling woman (375 gp), and, stuck to the underside of the single drawer, a parchment bifolium entitled ‘The Honey Project’ (see Arden Vul books).
 
 ### 8-22: Crossroads Cave
 
@@ -708,11 +716,14 @@ or 2-7/2-7 (javelins). Special defenses: immune to poison and mind-affecting spe
 
 ### 8-23: Tunnel Down to 9-57
 
-A narrow tunnel twists downward here before opening onto the floor of the Great Chasm (9-57). A ranger or other tracker will easily notice the signs of the passage of several six-legged creatures (kaliyani).
+* A narrow tunnel twists downward and opens onto the floor of the Great Chasm (9-57).
+	* A tracker will notice signs of the passage of several kaliyani.
 
 ### 8-24: Chasm Access and Route to 7-34 
 
-A wide ledge provides access to the Great Chasm here. Three ropes studded with loops and knots are set into the chasm wall next to the ledge; the ropes lead upward steeply to area 7-34. The kaliyani exploring party now at 5-125 installed the ropes after they made their way from 9-57 to 8-23.
+* A wide ledge provides access to the Great Chasm here.
+	* 3 ropes studded with loops and knots are set in the chasm wall next to the ledge, leading upward steeply to 7-34.
+		* The kaliyani exploring party (now at 5-125) installed the ropes after making their way from 9-57 to 8-23.
 
 ### 8-25: Heqeti Transport Hall, with Stairs Up to 6-106
 
@@ -732,24 +743,35 @@ command (x2), create water, cure light wounds; chant, hold person (x2), resist f
 
 ### 8-26: Pukel-mander
 
-One of the loathsome heqeti pukel-manders (see new magic items) crouches here, on a ledge overlooking the Great Chasm. Over a dozen chasm cephalopod husks dot the floor at the thing’s feet.Secret Doors (northeast): The door is normal to locate, but opens only to those who are chaotic evil in alignment (for whom it pushes aside easily) or by force. A second, 4’-wide, secret door lies at the end of the tunnel leading to 8-25. This door is easy to locate; as it hangs on a horizontal pin, it opens by pushing on either the upper or lower half of the door. 
+* One of the loathsome heqeti pukel-manders (new) crouches here on a ledge overlooking the Great Chasm.
+	* A dozen chasm cephalopod husks dot the floor at the thing’s feet.
+* Secret Doors (northeast): opens to those of chaotic evil alignment (for whom it pushes aside easily) or by force. 
+	* A second, 4’-wide, secret door (easy to locate) lies at the end of the tunnel leading to 8-25.  It hangs on a central horizontal pin, and opens turning on this axis.
 
 ### 8-27: Spur of the Great Chasm
 
-About 500 years ago, erosion along the wall of the Great Chasm began to produce this side spur. Indeed, it continues to slowly encroach on the worked areas to the east. The spur is about 100’ tall; Level 8 bisects it at about its midpoint (i.e., 50’ above the floor of the spur). Bits of rope attached to spikes hammered into both landings hang into the spur. At the bottom of the chasm are several chasm cephalopod husks as well as a smashed and inoperable basic exploration automaton from Kerbog Khan’s workshop (see new monsters). Those investigating the floor of the spur provoke two additional chances for random encounters (see 8-2 for possible encounters).
-
-Treasure:
-The remains of the automaton could be delivered to Kerbog Khan (SL12-16) in return for favors. Among the debris are three chrysoprase gems (50 gp each) that the automaton had located. 
+* 500 years ago, erosion along the Great Chasm's wall began to produce this side spur.
+	* It continues to slowly encroach on the worked areas to the east.
+* The spur is 100’ tall.
+	* Level 8 bisects it at about its midpoint (50’ above the floor of the spur).
+	* Bits of rope, attached to spikes hammered into both landings, hang into the spur.
+* At the bottom of the chasm:
+	* Several chasm cephalopod husks
+	* A smashed and inoperable basic exploration automaton from Kerbog Khan’s workshop (new), with 3 chrysoprase gems (50 gp each) it had located. 
+	* Investigating the floor of the spur provoke two additional chances for random encounters (see 8-2 for possible encounters).
 
 ### 8-28: Northern Landing
 
-The northern side of the chasm spur is nondescript save for eight spikes hammered into the lip of the chasm. Numerous lengths of rope hang from the spikes.
+* The northern side of the chasm spur is nondescript.
+	* 8 spikes are hammered in the chasm lip, supporting lengths of hanging rope.
 
 ### 8-29: Transitional Hall
 
-This empty chamber displays a marked variation in construction. The eastern, western and southern walls are typical of Archontean construction: neatly trimmed granite. The northern third of the floor and the north wall, however, are of rudishva vintage: octagonal plaques of solid white marble closely fit together, and with rounded joints between floor and walls. In the center of the northern wall is a rudishva iris door that spirals open only when a sky blue or better plastic rudishva identity plaque (see new technological items) is presented. 
-
-Secret Door (east): This door is difficult to locate (1 in 8). It opens by inserting a 1”-diameter object into a small hole in the ceiling; the hole is perfectly sized for a sun lance of a sun-scarred knight (see new monsters).
+* This empty chamber displays a marked variation in construction.
+	* The eastern, western and southern walls are typical Archontean construction: neatly trimmed granite.
+	* The northern third of the floor and the north wall are of rudishva vintage: octagonal plaques of solid white marble closely fit together, and with rounded joints between floor and walls. 
+		* In the center of the northern wall is a rudishva iris door (sky blue or better identity plaque)
+	* Secret Door (east): difficult to locate (1 in 8). Opens by inserting a 1”-diameter rod into a small hole in the ceiling; perfectly sized for a sun lance of a sun-scarred knight.
 
 ### 8-30: Face of Bastet
 
@@ -822,18 +844,25 @@ Secret Door (north): The secret door on the north wall is easy to locate from th
 
 ### 8-35: Rudishva Hall, with Stairs Up to 5-63
 
-This chamber is obviously of rudishva construction, with its sheathing of octagonal white plates of marble and lack of 90-degree angles. It is dominated by the stairs which rise some 1,000’ through many landings and turns to Level 5 (area 5-63). Some garish graffiti, in huge, red-painted letters, mars the west wall: it reads (in Archontean) ‘to the Knights,’ with an arrow pointing north. A second, smaller hand has annotated the earlier graffiti in the same 
-tongue with the word ‘vampires.’. Both doors are rudishva iris doors, and may only be opened when a sky blue or better plastic rudishva identity plaque (see new technological items) is presented. GM Note: The graffiti refers to the fact that the main route to the 
-Sun-Scarred Knights (Sub-Level 10A) may be found by heading north from this chamber
+* This chamber is of rudishva construction, with octagonal white marble sheathing and lack of 90-degree angles. 
+	* It is dominated by the stairs rising 1,000’ through many landings and turns to 5-63.
+	* Garish graffiti, in huge, red-painted letters, mars the west wall (Archontean) ‘to the Knights,’ with an arrow pointing north (this is the main route to SL10A).
+		* A second, smaller hand has annotated (Archontean) ‘vampires.’.
+	* Both doors are rudishva iris doors (sky blue or better identity plaque). 
 
 ### 8-36: Mummification Chamber
 
-A strong smell of cinnamon and juniper greets anyone who listens at this door.
+* A strong smell of cinnamon and juniper greets anyone who listens at this door.
 
-The chamber is devoted to mummifying deceased members of the cult of Bastet. Two large stone tables stand in the center of the room; one has a human female in process of mummification, the other has two ordinary cats in early stages of mummification. Frescoes in bright paint line the walls: these show the process of mummification, from corpse to beautifully arranged mummy. Some of the subjects are human women, others are cats. 
-
-The east wall is lined with alabaster jars containing the materials used in the process: wax, juniper berries, scented unguents and oils, salt, and sawdust. A large box on the north wall 
-contains linen strips. Scattered around the tables are a half-dozen copper knives, hooks, and other implements.
+* The chamber is devoted to mummifying deceased members of the cult of Bastet.
+	* Frescoes in bright paint line the walls showing the process of mummification, from corpse to beautifully arranged mummy. Some subjects are human women, others are cats. 
+	* 2 large stone tables stand in the center of the room
+		* One has a human female in process of mummification.
+		* The other has 2 ordinary cats in early stages of mummification.
+		* Scattered around the tables are a half-dozen copper knives, hooks, and other implements.
+	* The east wall is lined with alabaster jars containing materials for mummification.
+		* Wax, juniper berries, scented unguents and oils, salt, and sawdust.
+	* A large box on the north wall contains linen strips.
 
 ### 8-37: Chamber of Oubaste, the High Priestess of Bastet
 
@@ -947,42 +976,48 @@ Each of the 74 mummies may have a piece of jewelry (see above). Gennadius’s de
 
 ### 8-42: Feral Cat Colony
 
-A large colony of feral cats inhabits the caves south of the shrine to Bastet (8-42 to 8-45, 8-49, 8-50). About 60 cats of numerous breeds and colors make up the colony. The cats hunt along the chasm walls, but also frequently venture into the precincts of Bastet (via tunnels at 8-37, 8-38, 8-41, and the corridor outside 8-38) for handouts from the priestesses. 
-
-This particular cave is 8’ tall in the center, and dotted with ledges and crevices that are perfect for cat nests. At any given moment 11-18 cats are present here. The cats are not naturally aggressive, but do defend their turf.
+* A large colony of feral cats inhabits the caves south of the shrine to Bastet (8-42 to 8-45, 8-49, 8-50).
+	* About 60 cats of numerous breeds and colors make up the colony.
+	* They hunt along the chasm walls, but frequently venture into the precincts of Bastet (via tunnels at 8-37, 8-38, 8-41, and the corridor outside 8-38) for handouts from the priestesses. 
+* This particular cave is 8’ tall in the center, dotted with ledges and crevices ideal for cat nests.
+	* At any given moment 11-18 cats are present here.
+	* They are not naturally aggressive, but do defend their turf.
 
 11-18 feral domestic cats: SZ S; AL N; AC 6; MV 150’; HD 1-5 HP; HP 5(x4), 4(x5), 3(x5), 2(x4); #AT 2; Dmg 1-2/1. Special attacks: rear claw rakes; surprise 3 in 6. Special defenses: only 
 surprised 1 in 6.
 
 ### 8-43: Stinking Cave 
 
-The colony of feral cats uses this cave as a litter box, which incidentally helps ward off unwanted predators from the chasm. As a result, the stench of feline urine is rather overpowering. Spending more than a turn here imposes a -1 penalty to CON for 6 turns. At 
-any given moment 1-4 cats are present here, doing their business.
+* The colony of feral cats uses this cave as a litter box, which incidentally helps ward off unwanted predators from the chasm.  The stench of feline urine is rather overpowering.
+	* Spending more than a turn here imposes -1 penalty to CON for 6 turns.
+* At any given moment 1-4 cats are present here, doing their business.
 
 1-4 domestic cats: SZ S; AL N; AC 6; MV 150’; HD 1-5 HP; HP 5, 4, 3, 2; #AT 2; Dmg 1-2/1. Special attacks: rear claw rakes; surprise 3 in 6. Special defenses: only surprised 1 in 6.
 
 ### 8-44: Water Hole
 
-This cave is dominated by a pool of clear water in its southern projection. It is visited frequently by the cats of the feral colony; at any given moment 8-15 cats are present here.
+* This cave is dominated by a pool of clear water in its southern projection.
+	* It is visited frequently by the cats of the feral colony; 8-15 cats are usually  present.
 
 8-15 domestic cats: SZ S; AL N; AC 6; MV 150’; HD 1-5 HP; HP 5(x3), 4(x3), 3(x3), 2 (x3), 1(x3); #AT 2; Dmg 1-2/1. Special attacks: rear claw rakes; surprise 3 in 6. Special defenses: only surprised 1 in 6.
 
 ### 8-45: Cat Colony, Redux
 
-This large cave is home to the majority of the feral cat colony that occupies the area. A strip of sand runs through the center of the cave, on which are the skeletons of scores of small rodents. At any given moment 21-30 cats are present in niches along the walls.
-
-Buried in the sand is the ancient corpse of an adventurer on which some loot may still be found.
+* This large cave is home to the majority of the feral cat colony that occupies the area. 
+	* A strip of sand runs through the center of the cave, littered with skeletons of scores of small rodents.
+		* Buried in the sand is the ancient corpse of an adventurer.
+			* Chain mail +2, a heavy crossbow of speed, a pouch with 15 pieces of jet (100 gp each), and a potion of healing.
+	* At any given moment 21-30 cats are present in niches along the walls.
 
 21-30 domestic cats: SZ S; AL N; AC 6; MV 150’; HD 1-5 HP; HP 5(x7), 4(x8), 3(x8), 2(x7); #AT 2; Dmg 1-2/1. Special attacks: rear claw rakes; surprise 3 in 6. Special defenses: only surprised 1 in 6.
-
-Treasure:
-A set of chain mail +2, a heavy crossbow of speed, a pouch with 15 pieces of jet (100 gp each), and a potion of healing.
 
 ## Level 8: 46 - 60
 
 ### 8-46: Rudishva Corridor Fragment
 
-Most of the black octagonal sheathing has fallen from the walls of this section of broken corridor, resulting in piles of dusty black granite on the floor. A sinkhole at the western edge of the fragment provides access to the tunnels of the feral cat colony. Next to the rudishva iris door to 8-47 someone has crudely painted an image of a figure dancing on one leg with the words (in Archontean): “Beware the Dancer Within.” 
+* Most of the black octagonal sheathing has fallen from the walls of this broken corridor, resulting in piles of dusty black granite on the floor.
+	* A sinkhole at the western edge provides access to the feral cat colony's tunnels. 
+	* Next to the rudishva iris door to 8-47 is crudely painted an image of a figure dancing on one leg and the words (Archontean): “Beware the Dancer Within.” 
 
 ### 8-47: Rudishva Security Station
 
@@ -1031,38 +1066,41 @@ Tactical suit (see new technological items).
 
 ### 8-48: Rudishva Corridor Fragment
 
-This fragment of ancient rudishva corridor is in bad shape. Most of the octagonal white wall sheathing has collapsed in piles on the floor, and the entire area is home to numerous rats. 
+* This fragment of ancient rudishva corridor is in bad shape; most of the octagonal white wall sheathing has collapsed in piles on the floor.
+	* The entire area is home to numerous rats. 
 
 7-18 ordinary rats: SZ S; AL N(E); AC 7; MV 150’; HD 1/4; HP 1 each; #AT 1; Dmg 1.
 
 ### 8-49: Reeking Cave
 
-Like area 8-43, this cave smells strongly of cat reek. Although none of the cats from the feral colony (see 8-42 to 8-45, 8-50) live here, they frequently travel through it on their way to hunt insects and rodents to the north. Typically 1-4 cats may be found here.
+* Like area 8-43, this cave smells strongly of cat reek.
+	* Cats from the feral colony (see 8-42 to 8-45, 8-50) frequently travel through on their way to hunt insects and rodents to the north. Typically 1-4 cats may be found here.
 
 1-4 domestic cats: SZ S; AL N; AC 6; MV 150’; HD 1-5 HP; HP 5, 4, 2, 2; #AT 2; Dmg 1-2/1. Special attacks: rear claw rakes; surprise 3 in 6. Special defenses: only surprised 1 in 6.
 
 ### 8-50: Still More Feral Cats
 
-As it provides direct access to the shrine of Bastet, this cave is a favorite one in which members of the feral cat colony prowl, play, and wait for the priestesses to offer them food. The opening to 8-39 is 3’ in diameter, and 15-20 cats are usually found here.
+* This cave is a favorite one in for members of the feral cat colony to prowl, play, and wait for the priestesses to offer them food, as it provides direct access to the shrine of Bastet.
+	* The opening to 8-39 is 3’ in diameter, and 15-20 cats are usually found here.
 
 15-20 feral domestic cats: SZ S; AL N; AC 6; MV 150’; HD 1-5 HP; HP 5(x5), 4(x5), 3(x5), 2(x5); #AT 2; Dmg 1-2/1. Special attacks: rear claw rakes; surprise 3 in 6. Special defenses: only 
 surprised 1 in 6.
 
 ### 8-51: Rudishva Hall
 
-The black granite octagonal sheathing has fared better in this antechamber to the detention block. The walls gleam with black, and offer no 90-degree angles. Stairs lead down to area 8-53. The stairs are littered with bits of broken bone. A rudishva iris door openable only with a silver or yellow rudishva identity plaque (see new technological items) occupies the south wall.
+* The black granite octagonal sheathing has fared better in this antechamber to the detention block.  The walls gleam black, and offer no 90-degree angles.
+	* Stairs lead down to 8-53, littered with bits of broken bone.
+	* South wall: a rudishva iris door (silver or yellow identity plaque).
 
 ### 8-52: Rudishva Teleporters
 
-The door from 8-51 is a rudishva iris door, and only opens when a silver or yellow rudishva identity plaque is presented (see new technological items). The t-shaped chamber possesses no 90-degree angles, is spotlessly clean, and is sheathed with beautiful black granite panels in the usual octagonal pattern. In each arm of the chamber a 5’-diameter circle of silvery material is inset in the floor, with a 10”x10” square of the same material affixed to the wall. 
-
-Each square has a different rune etched into the silvery material.
-
-The rudishva built these niches to be part of their teleportation network. To activate them, one stands on a silvery circle and touches the adjacent silvery square; teleportation to the appropriate location is instantaneous. 
+* The iris door from 8-51 opens to silver or yellow identity plaques.
+* The T-shaped chamber has no 90-degree angles, is spotlessly clean, and is sheathed with beautiful black granite panels in the usual octagonal pattern.
+* Each arm of the chamber has a 5’-diameter circle of silvery material is inset in the floor, with a 10”x10” square of the same material affixed to the wall (rudishva teleport pads). 
 
 Teleport Nodes:
-T18: access to Level 7 (7-110)
-T19: access to Level 9 (9-97)
+* T18: access to Level 7 (7-110)
+* T19: access to Level 9 (9-97)
 
 ### 8-53: Rudishva Detention Block
 
@@ -1098,8 +1136,11 @@ On the elven adventurer: a suit of elven chain mail +1, a rope of climbing, an e
 
 ### 8-54: Tunnel to SL12-21 (Workshops of Kerbog Khan)
 
-A 5’-diameter, spiral tunnel leads wends its way upwards some 1,050’ to the workshops of Kerbog Khan (SL12-21). The tunnel perfectly smooth and regular, as if it had been dug and smoothed by machinery. Although it slopes upward continuously, the gradient of the slope is just gentle enough to allow bipeds to climb it with some caution. This is one of the primary routes by which Kerbog Khan’s automatons leave his workshops in order to gain 
-access to the rest of the Halls. Note that there is a 20% chance of encountering one of Kerbog Khan’s automatons, the borer, in the tunnel: see text at SL12-21.
+* A 5’-diameter, spiral tunnel wends its way upwards 1,050’ to the workshops of Kerbog Khan (SL12-21).
+	* It is perfectly smooth and regular, dug and smoothed by machinery.
+	* The slope's gradient is just gentle enough to allow bipeds to climb with some caution.
+	* This is one of the primary routes by which Kerbog Khan’s automatons leave his workshops to access to the rest of the Halls.
+* 20% chance of encountering the borer, in the tunnel (see SL12-21).
 
 ### 8-55: Cave of Peabo
 
@@ -1119,27 +1160,29 @@ Two potions of invisibility, kept in the basin of water so they remain ‘fresh�
 
 ### 8-56: Rudishva Hall, Stairs Up to SL10a-1 
 
-This rudishva hall is similar in physical respects to area 8-51, with black octagonal sheathing and no 90-degree angles. The stairs, however, rise rather than descend, and lead eventually to SL10A-1, just outside the citadel of the Sun-Scarred Knights.
-
-The passage of some creatures through the hall and up the stairs is obvious; a good tracker might be able to detect that these creatures were armored.
+* This rudishva hall is similar to 8-51, with black octagonal sheathing and no 90-degree angles.
+	* The stairs rise to SL10A-1, just outside the citadel of the Sun-Scarred Knights.
+	* A tracker may note signs the passage of armored humanoids.
 
 ### 8-57: Cave, with Charred Spiders
 
-A clear path leads through this 8’-tall cave. In the southern niche are the roasted corpses of three huge spiders, who rather unwisely thought to make this cave their home and were incinerated by the first Sun-Scarred Knight (see new monsters) to pass this way.
+* A clear path leads through this 8’-tall cave.
+	* In the southern niche are the roasted corpses of 3 huge spiders, who unwisely made this cave their home and were incinerated by the first Sun-Scarred Knight to pass.
 
 ### 8-58: Cave
 
-The only noteworthy feature of this cave is the clear path leading from one exit to the other. 
+* A clear path leads from one exit to the other.
 
 ### 8-59: Ruined Corridor
 
-Once a portion of a rudishva corridor, this area is noticeable for major cave-ins along the west, south and east walls. Only along the north side is the original black granite octagonal sheathing still present. Someone has chalked the following words in Archontean along the remaining sheathing: “Seek the Khan to the west, near the prison. His contracts must be sealed with blood.”
+* Once a portion of a rudishva corridor, major cave-ins mar the west, south and east walls.
+	* Only along the north side is the original black granite octagonal sheathing intact.
+		* Someone has chalked (Archontean): “Seek the Khan to the west, near the prison. His contracts must be sealed with blood.”
 
 ### 8-60: Sandy Cave, with tunnel up to SL15-12
 
-This cave is covered in sand, within which lair 8 very hungry sand worms (see new monsters). 
-
-The tunnel to the northwest ascends over a half mile before intersecting another set of tunnels, namely SL15-12.
+* This cave is covered in sand.  Lairing within are 8 very hungry sand worms (new).
+	* The tunnel to the northwest ascends over a half mile before intersecting another set of tunnels, SL15-12.
 
 8 sand worms (see new monsters): SZ S; AL N; AC 7/2; MV 90’; HD 2; HP 15, 14, 14, 13(x3), 12, 12; #AT 1; Dmg 1-6. Special attack: slurp blood (1-4 HP/rd).
 
@@ -1147,36 +1190,42 @@ The tunnel to the northwest ascends over a half mile before intersecting another
 
 ### 8-61: Cave with Lantern
 
-A glowing lantern hangs from an iron shepherd’s crook stuck into the floor in the center of this large cave. The hooded lantern is lit by a continual light spell. The Sun-Scarred Knights (see new monsters) created the lantern, as this is one of their main routes into other areas of the Halls. 
+* A glowing lantern hangs from an iron shepherd’s crook stuck in the floor in the center of this large cave.
+	* The hooded lantern is lit by continual light.  The Sun-Scarred Knights placed it, as this is one of their main routes into other areas of the Halls. 
 
 ### 8-62: Ruined Rudishva Corridor
 
-This area still displays its origin as a rudishva corridor along its west wall: no 90-degree angles and black granite, octagonal sheathing, half of which has fallen to the floor. The east side, however, has been subject to a major cave-in, rendering it unstable and dangerous. The western extension shows signs of a recent battle, with scorch marks marring the remaining sheathing and a few pieces of broken metal on the floor. One of Kerbog Khan’s rare battle automatons (see new monsters) is investigating the scene; it attacks any so foolish as to interrupt it. 
+* This rudishva corridor is intact along its west wall, though half of its black granite, octagonal sheathing has fallen to the floor.
+	* The east side has suffered a major cave-in, rendering it unstable and dangerous.
+	* The western extension shows signs of a recent battle, with scorch marks marring the remaining sheathing and a few pieces of broken metal on the floor.
+		* Glif, varumani first adept (7-24) encountered one of Kerbog Khan’s exploration automatons and blasted it with lightning, then took itto her chamber for study.
 
-GM Note: The ‘battle’ took place between Glif, the varumani first adept (see 7-24), and one of Kerbog Khan’s exploration automatons; Glif blasted it with lightning, and then took it off to her chamber for study.
+* One of Kerbog Khan’s rare battle automatons is investigating the scene; it attacks any so foolish as to interrupt it. 
 
 1 battle automaton of Kerbog Khan (see new monsters): SZ S; AL N; AC 0; MV 150’; HD 8; HP 60; #AT 4; Dmg special; MR 50%. Special attacks: laser (3-12 damage); blade (3-12 damage); poison injector (death, or 3-12 damage on save); flamethrower (3-18 damage in arc). Special defenses: immune to cold and fire.
 
 ### 8-63: Pollen-Filled Cave 
 
-This cave marks the westernmost edge of the pollen effect given off 
-by the bliss flowers found in 8-67 (see description in level overview). 
-Any person entering the cave must save versus petrification with a 
--3 penalty or wander in random directions for 1-6 hours.
+* This cave marks the westernmost edge of the pollen given off by the bliss flowers in 8-67 (see description in level overview). 
+	* Anyone entering the cave must save vs petrification at -3 or wander in random directions for 1-6 hours.
 
 ### 8-64: Invisible Stalker 
 
-An invisible stalker, summoned by Juliana (8-37), is hunting in this otherwise nondescript wet cave. It has been ordered to circle the precincts of Bastet and eliminate any threats to the shrine for a period of twenty years, and it takes its orders quite literally. This means that if a party does not appear overt or hostile, it will ignore them. If they have entered the cave bearing unsheathed weapons, or have recently or loudly engaged in combat, then it will attack. If the stalker has been encountered as a wandering monster in the pollen-filled areas and defeated, it obviously won’t be present here.
+* An invisible stalker, summoned by Juliana (8-37), is hunting in this otherwise nondescript, wet cave.
+	* It was ordered to circle the precincts of Bastet and eliminate any threats to the shrine for a period of twenty years, and it takes its orders quite literally.
+		* If a party does not appear overt or hostile, it ignores them.
+		* If they enter bearing unsheathed weapons, or have recently or loudly engaged in combat, it attacks.
+	* If the stalker was encountered as a wandering monster in the pollen-filled areas and defeated, it obviously won’t be present here.
 
 1 invisible stalker: SZ L; AL N; AC 3; MV 120’; HD 8; HP 55; #AT 1; Dmg 4-16; MR 30%. Special attacks: surprise on 1-5. Special defenses: invisibility.
 
 ### 8-65: Bloodless Corpse
 
-A human-sized form crouches in the center of the room, facing the southeastern wall. A continual light rock in front of the corpse casts shadows throughout the chamber.
-
-Closer inspection reveals that the form is that of a human adventurer clutching the spear that pierced his chest and apparently killed him. Even closer inspection reveals a pair of bite marks on his neck. The corpse holds no valuables.
-
-GM Note: The adventurer is an Archontean fighter whose party became lost in the Nether Reaches. After a falling out, this poor fellow was attacked and left to die by his former colleagues. Ironically, it was not the spear thrust but the vampire, Cinna Minux (7-122), that killed him. 
+* A human form crouches in the center of the room, facing the southeastern wall.
+	* A continual light rock in front of the corpse casts shadows throughout the chamber.
+	* It is an Archontean fighter clutching the spear that pierced his chest and apparently killed him.
+		* Even closer inspection reveals a pair of bite marks on his neck. The corpse holds no valuables.
+		* His party became lost in the Nether Reaches. After a falling out, he was attacked and left to die by his former colleagues. Cinna Minux (7-122) encountered him and took advantage to drink him dry before be bled out.
 
 ### 8-66: Statue of Chibalba 
 
@@ -1209,7 +1258,8 @@ Note: Two other identical statues of Chibalba may be found, at 4-69 and 9-87.
 
 ##### 8-66a: Concealed Entrance
 
-A permanent illusion of a continuous cavern wall conceals the entrance to this tunnel. The tunnel is used by the Sun-Scarred Knights (see new monsters) to access 8-29 and from it, the upper levels of Arden Vul. 
+* A permanent illusion of cavern wall conceals the entrance to this tunnel.
+	* It is used by the Sun-Scarred Knights to access 8-29 and from it, the upper levels.
 
 ### 8-67: Cave of the Bliss Flowers
 
@@ -1360,19 +1410,19 @@ Honey, potentially 12,500 gp worth; royal jelly, enough for 50-100 potions of ex
 
 ### 8-71: Cave, with tunnel up to 6-44b
 
-Bare human footprints mark the pollen- and dust-covered floor of this otherwise nondescript cave. They lead to the northwest.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
-
-The southern tunnel leads upwards some 400’ via a number of corkscrew turns and steep cliffs before eventually reaching Level 6 (6-44B). The bliss pollen is gone after 50’ of travel. The tunnel is relatively untraveled, but difficult to traverse, and requires ropes or else three successful rolls of 4d6 under DEX to avoid taking a total of 3-18 damage from falls.
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* Bare human footprints leading lead to the northwest mark the pollen- and dust-covered floor of this otherwise nondescript cave.
+* The southern tunnel leads upwards 400’ via a number of corkscrew turns and steep cliffs before reaching 6-44b.
+	* The bliss pollen is gone after 50’ of travel.
+	* The tunnel is relatively untraveled, but difficult to traverse, and requires ropes or else three rolls of 4d6 under DEX to avoid taking a total of 3d6 damage from falls.
 
 ### 8-72: Trapped Cave
 
-Olaf the bee-whisperer (8-73) has arranged a trap in this cave as a way to protect his dwelling from unwanted visitors. A cage woven of reeds is attached to the ceiling above the tunnel leading to the northwest. In it are three angry giant soldier bees. A tripwire across the tunnel entrance is connected to a latch on the bee cage, such that anyone who breaks the wire causes the cage to open and the angry bees to burst forth.
-
-Despite the cleverness of this mechanism, the trapped bees make a fair amount of noise. PCs have a 50% chance of hearing the bees and, thus, of detecting the trap. If PCs stop to listen, the chance rises to 80%.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* Olaf the bee-whisperer (8-73) has arranged a trap in this cave to protect his dwelling from unwanted visitors.
+	* A cage woven of reeds hangs from the ceiling above the tunnel leading northwest, holding 3 angry giant soldier bees.
+		* The trapped bees make a fair amount of noise; 50% to hear them (80% if one is stopping to listen carefully).
+	* A tripwire across the tunnel entrance will open the cave, releasing the angry bees.
 
 3 angry giant soldier bees: SZ M; AL N; AC 5; MV 120’, 300’ flying (Class C); HD 4+2; HP 29, 28, 25; #AT 1; Dmg 1-4. Special attacks: sting once; poison (-1 to saves).
 
@@ -1400,18 +1450,19 @@ Olaf ’s periapt of proof against poison and his tripod of heating (see new mag
 
 ### 8-74: Mostly Empty Cave
 
-A broken clay urn lies on the floor of this cave, surrounded by a sticky mass of honey. Bare human footprints lead south.Note: This area is occluded by a thick cloud of bliss pollen (see 
-new flora).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* A broken clay urn lies on the floor of this cave, surrounded by a sticky mass of honey.
+* Bare human footprints lead south.
 
 ### 8-75: Large Cave with Pool
 
-The northern-most portion of this large cavern is filled with a 50’-deep pool of cold water. The surface of the water is coated with a thin layer of yellow pollen.
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* The northern-most portion of this large cavern is filled with a 50’-deep pool of cold water, the coated with a thin layer of yellow pollen.
+	* In addition to Olaf, giant worker bees regularly come here to gather water.
+* Bare human footprints lead to the east (Olaf ’s; see 8-73).
 
-Bare human footprints lead to the east (these are Olaf ’s feet; see 8-73). In addition to Olaf, giant worker bees regularly come here to gather water.
-
-More ominously, if the demonic sounding horn at 8-76 is winded without first ringing the tubular bells around it, the chaotic reverberations have a 50% chance of summoning a worm of Qok (see new monsters) into this pool. The horrible worm is attracted to sound, so once summoned it will begin to slither down the passage to 8-76 (as the horn’s sound resounds for a whole turn). Those present in 8-75 when it emerges from the pool may have difficulties of their own!
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* If the demonic sounding horn at 8-76 was winded without first ringing the tubular bells around it, the chaotic reverberations may (50%) have summoned a worm of Qok (new) into this pool.
+	* It is attracted to sound, so will begin to slither down the passage to 8-76 (as the horn’s sound resounds for a whole turn). 
 
 3-8 giant worker bees: SZ M; AL N; AC 6; MV 90’, 300’ flying (Class D); HD 3+1; 24(x4), 23 (x4), 21, 20, 19, 18, 17, 16, 15, 15; #AT 1; Dmg 1-3. Special attacks: sting once; poison.
 

@@ -199,18 +199,16 @@ Arden Vul system
 
 intended path
 * ready
-	* SL 6
-	* SL 5
 	* SL 7
 * bulletized
 	* SL 9
 	* Level 6
-* TBD
-	* Level 7 (underway)
+	* Level 7
 * ready
 	* SL 13
+		* redo some of the trials?
 * TBD
-	* Level 8
+	* Level 8 (underway)
 * bulletized
 	* SL 10
 * TBD
