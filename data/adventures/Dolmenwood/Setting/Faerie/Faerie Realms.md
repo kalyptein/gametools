@@ -56,8 +56,7 @@ Realms, Rulers, and Runes
 * Gloomhold / The Blind King - bleak and drear and dark
 * Frigia / The Cold Prince - frigid
 * Hypnagogia / The Duke Who Cherishes Dreams - dreamland
-* Goblinhold / The Goblin King - badlands and swamp, warrens, the market
-	* ??? rename, we already have Gloomhold: Goblinburg?  Goblinshire? Goblinton? Goblinwold/weald?
+* Goblintown / The Goblin King - badlands and swamp, warrens, the market
 	* give the Goblin King a name?
 * Baths of Astralon / The Hag Thorn-Rosy
 * The Gardens of Ynn / Lady Belladonna - hedge maze with countless nooks and courtyards, games of intrigue and courtly whispers, an opulent court overtaken by doom and a threat (just straight up use the Gardens of Ynn, including the Idea of Thorns)
@@ -124,6 +123,6 @@ The most important regions and personages of Fairy are described under Fairy Nob
 Fairies of Myriad Kinds
 The inhabitants of Fairy are endless in their variety. Many fairies are of a particular folk—elves, goblins, sprites, satyrs, hobs, pooks, redcaps, and bogeys, to name but a small number—each having their homeland in a particu-lar region of Fairy. Other fairies are unique individuals, sprung into existence without parent or kin.
 
-FAIRY DOMINIONS IN 
-DOLMENWOOD
+FAIRY DOMINIONS IN DOLMENWOOD
+
 Of old, all Dolmenwood was ruled by fairy nobles, who claimed sections of the forest as extensions of their domains in Fairy. Those days are long since past, and the Wood as a whole is now ruled by mortals. However, remnants of fairy rule abide to this day in certain corners of Dolmenwood, and a small number of fairy nobles retain a dominion in the mortal world. These are discussed under Fairy Nobles and Their Dominions, p30.

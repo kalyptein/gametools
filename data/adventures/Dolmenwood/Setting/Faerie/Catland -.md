@@ -27,15 +27,7 @@ Murquine Palace: The palace of Queen Abyssinia: a palazzo of some fantastic prop
 
 * Ruler(s)
 	* Queen Abyssinia
-		* Ruler of Catland, also known as the Queen of All Cats. The fearsome Queen Abyssinia is a fairy of odd heritage, half elfish, half grimalkin. She appears as a tall, slender woman dressed all in silver, with straight, silver hair, green, feline eyes, and needle-like claws as long as her fingers. She is volatile, reckless, spiteful, and whimsical.
-		* Queen Abyssinia was once an ally of the Cold Prince, but spurned him long ago.
-
 	* King Pusskin (formerly)
-		* A grimalkin king who has completely abandoned Fairy and “gone native” in his domain in the mortal world. As is the fate of any fairy noble who takes up permanent residence in the mortal world, King Pusskin has faded, over many centuries, into a dilute presence that pervades his dominion, no longer having a fixed, physical form. In time, he will fade entirely into folklore.
-		* Mortal Dominion—The High Wold
-		* King Pusskin’s presence is felt around the town of Lankshorn (hexes 0609, 0610, 0710, 0711, 0712, 0809, 0810, 0811, 0910, 0911), manifesting as a series of odd by-laws and taboos that, if not respected, bring down his wrath.
-		* 
-		* why did he leave? a spat w/ Abyssinia?
 
 
 * Notables
@@ -46,6 +38,7 @@ Murquine Palace: The palace of Queen Abyssinia: a palazzo of some fantastic prop
 * opportunities
 * developing crises / situations
 * diplomatic relations
+	* Queen Abyssinia was once an ally of the Cold Prince, but spurned him long ago.  He of course still bears a grudge, and wants to either punish her (via humiliation, of course) or force her back into unhappy alliance.  He may be aiding the rat-goblins as a means of pressing her?
 * ties to Dolmenwood
 
 ## Rune
@@ -55,17 +48,36 @@ Murquine Palace: The palace of Queen Abyssinia: a palazzo of some fantastic prop
 
 ## Inhabitants
 
+### Queen Abyssinia
+
+* Ruler of Catland, also known as the Queen of All Cats. The fearsome Queen Abyssinia is a fairy of odd heritage, half elfish, half grimalkin.
+	* She appears as a tall, slender woman dressed all in silver, with straight, silver hair, green, feline eyes, and needle-like claws as long as her fingers.
+	* She is volatile, reckless, spiteful, and whimsical.
+* Was once an ally of the Cold Prince, but spurned him long ago.
+* 
+* She enjoys flattery, even the most absurd and pandery.  But as you get more and more farfetched, she'll get more and more critical, so a slip up will annoy her.  Need to pace yourself, not just go full throttle right at the start
+
+### King Pusskin
+
+* former ruler
+* A grimalkin king who has completely abandoned Fairy and “gone native” in his domain in the mortal world. As is the fate of any fairy noble who takes up permanent residence in the mortal world, King Pusskin has faded, over many centuries, into a dilute presence that pervades his dominion, no longer having a fixed, physical form. In time, he will fade entirely into folklore.
+* Mortal Dominion—The High Wold
+* King Pusskin’s presence is felt around the town of Lankshorn (hexes 0609, 0610, 0710, 0711, 0712, 0809, 0810, 0811, 0910, 0911), manifesting as a series of odd by-laws and taboos that, if not respected, bring down his wrath.
+* 
+* why did he leave? a spat w/ Abyssinia?
+
+
 * faerie folk
 	* grimalkin
 	* giant "humans", some jolly, some cruel and hungry
 	* rat-goblins
 	* imperious bird-knights and sultry bird-damsels
+	* foolish and wealthy rabbits and the like, quavering merchants for dashing feline highwaymen to rob
 
 * monsters
 	* terrible ogre-hounds, kept by the human-giants
 	* bugs
-	* mice
-	* birds
+
 
 ## Depthcrawl
 

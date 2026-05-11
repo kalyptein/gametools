@@ -20,8 +20,11 @@ Wildcraft
 	* Plant and animal lore, foraging, hunting, fishing, animal handing and training
 
 Trophies
-* If you carry a trophy (1 slot item) from a dangerous beast or monster (mundane or magical), or display it in your home (house, hut, wagon, tent, etc), once per Long Rest, gain Inspiration when fighting, tracking, or otherwise dealing with that kind of creature, or gaining Resistance (5) to its attacks and abilities for 1 round.
-	* You can only take 1 trophy per kill.  Multiple trophies of a creature type don't grant multiple uses.
+* When you take a trophy from a new kind of creature, or a noteworthy exemplar, gain Luck.
+* When you have taken a trophy from from a dangerous beast or monster (mundane or magical) you slew, once per Long Rest, when dealing with that kind of creature, choose 1:
+	* Gain Inspiration to use against it (fighting, tracking, etc).
+	* Gain Resistance (5) to its attacks and abilities (Reaction, WIS DC 12 to Sustain each round).
+* Trophies must either be carried (1 slot) or displayed in your home (house, hut, wagon, tent, etc).
 
 Nocturnal
 * Your keen senses allow you to operate in darkness as if you could perceive Nearby.

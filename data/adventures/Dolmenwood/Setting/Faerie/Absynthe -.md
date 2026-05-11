@@ -1,3 +1,7 @@
+---
+aliases:
+  - Absynthe *
+---
 ## Overview
 
 * Accessible from:
@@ -16,6 +20,7 @@
 
 The Realm of Absynthe
 A great, phantasmagoric thorn-wood and a vast estate of frozen gardens and dark, cold lakes.
+
 Blackwood Manor: The Queen’s brooding manse, formed of a forest of shadows. Visitors frequently become lost for all eternity within its benighted halls.
 
 

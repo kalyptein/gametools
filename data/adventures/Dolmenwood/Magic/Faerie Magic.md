@@ -788,6 +788,7 @@ Padding Quietly
 * You become invisible to mortals and beasts.
 	* If you attack or use magic (other than self-only Glamours), the spell ends.
 	* While invisible, you weigh no more than a cat and have impeccable balance.  You take no harm from falling and always land on your feet.  You have +A to sneak, climb, and leap.  You benefit from the Moon Sight and Subtle Sight Glamours.
+* If you gain Frolicking Unseen, you can use this Lesser Rune on a Close creature.
 
 Frolicking Unseen
 
@@ -798,7 +799,7 @@ The Prowling Clowder
 
 * Mighty, until dawn, Self
 * You can cast Padding Quietly (with the improvements of Frolicking Unseen) on anyone Closeby.  While subjects are invisible, they can teleport Nearby when they move.
-	* (Sustain (round)) You can, to invisible subjects, make a Close-sized volume of mundane, solid matter intangible, or a Near-sized volume of liquid act as solid.
+	* (Sustain (round)) To invisible subjects, you can make a Close-sized volume of mundane, solid matter intangible, or a Near-sized volume of liquid act as solid.
 
 ---
 ### The Scented Rune

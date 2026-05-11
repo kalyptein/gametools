@@ -22,6 +22,7 @@ Choose a Path of Magic: Witch or Wizard.
 #### Witch
 
 A practitioner of the ancient ways of Gwyrae, a hidden religion that learned magical arts from the Old Powers of the world.
+* Witches are commonly but not exclusively women.  Male witches are often but not exclusively some flavor of queer or neurodivergent.  Gwyrae propagates among those who have to hide themselves from the mainstream.
 
 Herbalist
 * You have the Apothecary talent and know 3 random recipes.

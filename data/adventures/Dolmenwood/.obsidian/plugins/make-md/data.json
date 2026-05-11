@@ -59,9 +59,8 @@
     "//Characters",
     "//Magic",
     "//Rules",
-    "//Characters/Characters/Classes",
-    "//Characters/Characters/Races",
     "//PCG",
+    "//Characters/Characters/Classes",
     "//Setting/Setting/Faerie"
   ],
   "expandFolderOnClick": true,

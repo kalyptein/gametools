@@ -58,12 +58,6 @@ arcane: mishaps and crits
 
 
 
-magic item attunement
-* ??? many faerie items must be worn / possessed for at least a day before they are considered your by faerie law
-* fully magic weapons (+2) all have personalities / purposes), trying to wield more than one likely brings them into conflict / grumpiness with each other and/or you; one will depart
-* consumables don't require any attunement
-
-* maybe there is a tier of "major" magic items of which you can only have up to 3 before they get contentious with each other and you (curses, weird luck and phenomena, items leaving you, etc).
 
 
 potions

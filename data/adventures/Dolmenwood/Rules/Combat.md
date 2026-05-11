@@ -52,7 +52,27 @@
 
 ### Morale
 
-* morale checks
+* Common Triggers
+	* Taken half casaualties / individuals dropping to half HP
+	* Loss of leader
+	* For more cowardly types, the first few casualties
+	* Display of overwhelming force, savagery, or invicibility
+	* Caught in an ambush
+* Roll d20 vs DC based on enemy's training / psychology.
+	* Fearless: never breaks (golem, zombies, berserkers)
+	* Stalwart: DC 4
+	* Brave: DC 7
+	* Steady: DC 10
+	* Shaky: DC 13
+	* Cowardly: DC 17
+	* Bolstered: roll w/ +A
+		* Fighting for convictions, terrified of leader or consequences of failure, nowhere to run, strongly outnumber their foes, promise of great reward or fame
+	* Weakened: roll w/ +D
+		* Unprepared, battle's goals / purpose are weak or uncertain, not currently seeking battle (scouting, etc), greatly outnumbered, weak convictions, have endured privation
+* On failure, the side seeks to retreat in accordance with their training, circumstances, psychology, etc.
+	* e.g. fighting withdrawal, hasty retreat, rout, offer surrender or ransom, tripping each other to be first to escape, etc.
+	* A second failure probably means a rout, even for well trained enemies.
+	* Some monsters, instead of fleeing, may go berserk or display other extreme behaviors.
 
 ## Actions
 ---
@@ -78,11 +98,11 @@
 * Aim
 	* Gain +A to your next shot or throw before the end of your next turn.  Moving, being attacked, or being targeted with an effect spoils your aim.
 	* Aiming Provokes.
+* Aid Attack
+	* Grant 1 allied attack this round +2 attack and +1 damage (stacks up to 4x from multiple Aid Attack actions).
 * Use Item
 	* Use an item in hand (drink a potion, wave a wand, etc).
 	* Most item use Provokes.
-* Aid Attack
-	* Grant 1 allied attack this round +2 attack and +2 damage (stacks up to 4x from multiple Aid Attack actions).
 * Retrieve Stowed Item
 	* Make a DEX DC 15 check to pull out a Stowed item.  If you repeat this action after failing the prior round, take +A.  If you dump out your pack and paw through them, take +A.
 * Task
@@ -98,7 +118,7 @@
 * Advance
 	* Move up to Near throughout the round, interspersed with other actions.
 * Shift
-	* Shift Close.  Shifting does not Provoke.
+	* Shift Close.  Shifting does not Provoke.  You can't Shift while Prone.
 * Stand
 	* Rise from Prone.
 * Minor
@@ -147,7 +167,7 @@ Variable Actions
 
 
 
-
+????
 
 Gambit
 * do a Deed and an attack for the cost of a single attack.  Decide which is primary and which is the follow-up.
@@ -181,37 +201,64 @@ Gambit
 	* When multiple melee Threatening combatants flank or encircle a target, they gain +A to attack it.
 		* An attacker who is at risk of being flanked themselves cannot participate in flanking (no flanking conga lines).
 		* For each size above Medium, a target requires 1 extra enemy to achieve Flanking against it (e.g. a Large ogre requires 3 attackers to flank it, a Huge dragon requires 4).
-* 
-* Reach
-	* 
-	* 
-	* held at bay
-		* when an attacker with a light weapon (or many natural weapons) has restricted mobility (in a passage, Slowed, difficult terrain, etc), all movement into Close with an enemy with a Reach weapon Provokes (even shifting).  Getting hit disrupts, but doesn't damage.
-	* 
-	* strike from second rank
-	* 
-	* Set Against Charge
-		* if you have a piercing melee weapon and it is either Large, or you have readied an attack to set against charging
-		* you get an attack of opportunity as an enemy moves into reach.  If it charges, dashes, leaps, attacks recklessly or other moves rapidly, treat any hit as a Crit (halting them, preventing their attack, and dealing critical damage).
-* 
-* Force
-* 
-* 
-* Grapple
-	* 
-	* Grabbed -> Grappled -> Restrained -> Pinned
-	* on the inside w/ light piercing weapon, +A to attack, +A to damage
-* 
-* 
-* Inflict
+* Elevation
+	* Melee attacks against an elevated target (mounted, standing on significantly higher ground) from combatants below them take +D unless they are using Large or Reach weapons.
 
 
-Fighting Style
+* Fortification / Cover
+* 
 
-* Weapon and Free Hand) you have a spare hand to grapple, hold a torch, use items, half-sword, throw, etc.
-* Weapon and Shield) higher defense
-* Two-Handed) higher damage
-* Dual Wield) each round choose between +1 defense or rolling both damage dice and using the higher result
+
+* Dual Wielding
+	* With a DEX of at least +1, while fighting with a 1h weapon in each hand (offhand weapon must be Small, includes bucklers) or with a 2h Twin weapon, you are dual wielding.
+	* Choose either the offensive or defensive benefit.  You can change this once each round during your turn.
+		* Defensive: +1 defense and parry against melee attacks
+		* Offensive: when you make a melee attack, roll the damage die for both weapons (or the twin weapon base and offhand damage) and use the higher roll.
+* Hold at Bay
+	* With a Reach weapon, targets with restricted mobility Provoke when moving closer with a Shift.  A hit disrupts their movement, but doesn't deal damage.
+		* Restricted Mobility: approaching down a passageway, Slowed, difficult terrain
+* Set Against Charge
+	* Readied attacks and/or Attacks of Opportunity with piercing weapons deal +1d damage against a target charging, dashing, jumping, or otherwise moving rapidly toward you.
+
+* Deeds
+	* As an attack, declare what you are trying to do to your target, and how.
+		* Throw sand in the eyes to blind, fancy flourish to disarm, body check to knock prone, shatter a lamp on them to set them on fire, beat aside their guard to make them vulnerable to weapon attacks, lure them into position, force them back, grapple them, etc.
+		* The logic of the action may grant modifiers to the attempt, and can affect the efficacy, and duration of the result.
+				* Easier to stand after being tripped, than when heavy shelves have been pulled down on you.  Hard to knock down a larger creature.  A flying tackle makes it easier to drag the target down but leaves you Prone succeed or fail.
+			* Certain Deeds are just harder to inflict (Disarm, Daze) and suffer +D.
+	* The GM assigns a stat check vs DC, usually 11 + target's relevant MOD.
+		* Bonuses to attack from class features generally apply to Deed stat checks as well.
+		* (weapon attack): disarm, trip, beat / bind guard, feint
+		* STR: shove, grapple, body-check Prone, topple scenery onto foe, intimidate
+		* DEX: fling sand to Blind, acrobatically maneuver around a foe
+		* INT | WIS: lure
+		* CHA: intimidate
+	* 
+	* Force
+		* lure, maneuver, push
+	* 
+	* 
+	* Grapple
+		* As an attack, roll STR DC (11 + target's STR | DEX)
+			* If the target resists with STR, each size the attacker is larger than the target, -2 DC.
+			* If the target resists with DEX, each size the attacker is smaller than the target, +2 DC.
+			* If successful, the target is Grabbed.
+		* 
+		* Grabbed -> Immobilized -> Restrained -> Pinned
+		* on the inside w/ light piercing weapon, +A to attack, +A to damage
+	* 
+	* 
+	* Inflict
+		* As an attack, declare what status Condition you want to inflict on your target, and how.
+			* Throw sand in the eyes to blind, fancy flourish to disarm, body check to knock prone, shatter a lamp on them to set them on fire, beat aside their guard to make them vulnerable to weapon attacks, etc.
+			* The logic of the action may grant modifiers to the attempt, and can affect how long the Condition applies.
+				* Easier to stand after being tripped, than when heavy shelves have been pulled down on you.  Hard to knock down a larger creature.
+			* Certain Conditions are just harder to inflict (Disarm, Daze) and suffer +D.
+		* 
+		* 
+		* 
+		* roll STR DC (11 + target's STR | DEX)
+
 
 ### Ranged Attacks
 
@@ -233,15 +280,15 @@ Fighting Style
 
 
 ## Special Cases
-
+---
 ### Aquatic Combat
 
 * Medium and larger weapons take +D to attack underwater.
 * Bludgeoning weapons deal no damage.  Slashing weapons have +D to damage.  Piercing weapons deal normal damage.
 * Missile and thrown weapons don't function underwater.  Fired into water, they have +D to attack against those Close to the surface, and can't penetrated deeper.
 * Fire effects don't function.  Lightning effects become area of effect at the point they contact the water.
+### Mounted Combat
+
+* Combatants mounted on Large creatures are elevated in relation to Medium or smaller creatures on foot (no penalty to attack the mount).
 
 flying
-
-mounted
-* ??? those on foot w/ Light or Medium weapons have +D to attack a mounted rider (but no penalty to hit the mount).

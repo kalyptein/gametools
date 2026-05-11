@@ -55,7 +55,7 @@ Consume Reagent
 * You can weave a reagent into a spell (equal or higher Tier than the spell, with an aligned aspect), gaining +A on the casting.  The reagent turns to ash or is otherwise consumed.
 
 Wild Magic
-* If a spell is Exhausted, a casting fails, or the caster craves greater power, they may throw caution to the wind and call forth Wild Magic (once per casting).
+* If a spell is Exhausted, a casting fails, or the caster craves greater power, they may throw caution to the wind and Call Forth Wild Magic (once per casting).
 	* The spell becomes Dangerous until you take a Long Rest and refresh your spells.  If it was already Dangerous, it is now also Hindered.
 	* Exhausted Spell: cast the spell anyway.  The spell is still Exhausted.
 	* Failed Cast: reroll the casting and use the new result.  You can't do this with naturally Dangerous spells.
@@ -66,33 +66,14 @@ Refreshing Spells
 
 ## Arcane Research
 ---
-Spell Sources
-* A source contains information for one or more particular spells.
-	* Tomes containing arcane research notes and esoteric lore.
-	* Sites of power, such as rune-carved standing stones, petroglyphs, etc.  Taking sketches, samples, etc allows you to encapsulate one spell from the source in portable form (1 slot).
-* If you study a source as a downtime action, roll INT DC 15 to learn one of its spells.
-	* Reduce the DC a step each subsequent downtime spent studying it, until you learn a spell.
-* 
-* A magician can, with considerable time, materials, and paying twice the spell's insight cost, record their knowledge to create a new spell source.
-	* 
-	* ??? 2x insight cost, magic ink Tier = spell Tier, (spell Tier)^2 x 100 gp
-
-Tutelage
-* Arcane tutors, such as magicians and demons, can teach spells they know.
-* Learning from a tutor costs both you and the tutor a downtime action.
-	* Roll INT DC 18, adding the mentor's INT and CHA as well.  If successful, between you and the tutor, you may pay the spell's cost to learn it.
-
 Insights
-* An aspected, intangible bit of arcane lore used to learn spells.
+* Insight are aspected, intangible bits of arcane lore used to learn spells.
 	* Aspects: Fire, Water, Protection, Illusion, War, Waxing, Binding, Hell, Journeys, etc.
-		* A "general insight" cost can be paid with any insight.
+		* A "general insight" cost can be paid with any kind of insight.
 	 * Power: a special kind of insight needed to learn higher Tier spells.
-* Spell Cost
-	* Tier 1-2 (2 general insights)
-	* Tier 3-4 (4 general insights, 1 power insight)
-	* Tier 5 (6 general insights, 2 power insights)
 * Gaining Insights
-	* You gain insights by studying magical phenomena, fonts of power, magical beings, magic items, and similar things.  A given instance can only be studied once, but the same type can be studied repeatedly.
+	* You gain insights by studying magical phenomena, fonts of power, magical beings, magic items, and similar things.
+		* A given instance can be studied once, but the same type can be studied repeatedly.
 		* Consumable items (potions, rare fungi, reagents) are used up in studying them.
 		* You can study new sources of spells you already know to gain insight.
 		* Some subjects require a check to successfully study, some don't.
@@ -100,25 +81,61 @@ Insights
 		* Crits from using Wild Magic don't grant insight.
 		* A mishap must leave you capable of contemplating/studying it to make the roll.
 
+Learning a Spell
+* Roll INT against a DC based on how you are learning (source or tutor; experimentation doesn't involve a roll).
+	* Success: you learn the spell.
+	* Failure: you learn the spell but it is Dangerous to cast.
+		* The next time you try to study the spell (by any means), take -3 DC.
+		* If you successfully cast the spell under stressful conditions (i.e. adventuring), your next downtime action of study is automatically successful.
+* Spell Cost (for tutelage and arcane experimentation; sources don't cost insight)
+	* Tier 1-2 (2 general insights)
+	* Tier 3-4 (4 general insights, 1 power insight)
+	* Tier 5 (6 general insights, 2 power insights)
+
+Spell Sources
+* A source is an arcane object which conveys the esoteric insight a magician needs to gain access to one or more particular spells.
+	* Tomes containing arcane research notes and esoteric lore.
+	* Sites of power, such as rune-carved standing stones, petroglyphs, etc.
+* Learning a spell from a source is a DC 15 downtime action.
+	* To learn from a tome, you must have ready access to it.
+	* To learn from a site, you must personally have spent a few hours studying it, taking notes, sketches, and samples (1 slot) to work with later.
+	* Learning from a source does not cost insight.
+* 
+* ??? Sources can't easily be copied or duplicated.
+* 
+	* A magician can, with considerable time, materials, and paying twice the spell's insight cost, record their knowledge to create a new spell source.
+	* 
+	* ??? 2x insight cost, magic ink Tier = spell Tier, (spell Tier)^2 x 100 gp
+	* 
+	* copying a tome is a bit easier than creating a new tome from scratch?  or maybe not?
+	* you have to declare a theme the unites the spells in a tome; this can be a bit stretched, but has to make some kind of sense.
+
+Tutelage
+* Arcane tutors, such as magicians and demons, can teach spells they know.
+* Learning from a tutor is a DC 18 downtime action (for both you and the tutor).
+	* Adding the mentor's INT and CHA to the roll.
+	* When you first begin learning the spell, you must pay the the spell's insight cost (the tutor may also contribute insights).
+
 Arcane Experimentation
 * You can perform arcane experimentation as a downtime action.
-	* If you pay the usual monetary cost, you can gain XP as if carousing, as part of the same downtime action.
-* Roll 1d8 + modifier
-	* None Applicable Modifiers: Renown, most normal holidays and carousing facilities
-	* Applicable Modifiers: money paid, fonts, conjunctions, research partners, quality libraries and labs, unseasons, etc.
+	* You may experience boons or banes, similar to a Carousing action.
+	* You gain a chance to learn a spell from a random pool of possibilities by paying the insight cost.
+	* If you pay the usual monetary cost, you can also gain XP as if carousing.
+* Roll 1d8 + modifiers
+	* Do not apply Renown or modifiers for most normal holidays and carousing facilities.
+	* Do add modifiers for money paid, fonts of power, conjunctions, research partners, quality libraries and labs, unseasons, etc.
 		* You may spend 1 general insight to gain +1 to the roll.
 		* You may spend 1 reagent to gain +((Tier+1)/2, rounding up) to the roll.
 	* You gain benefits and mishaps as per the Carousing table, but the particulars come from the Arcane Experimentations tables.
-		* Benefits may include gaining insights, extra spells to choose from, crafting consumables as a byproduct, oracular knowledge, etc.  Mishaps can include rogue spells, accidental summonings, spoiled reagents, etc.
-	* In addition, you have a chance to learn 1 spell from a pool of 3 random spells.
-		* Spells you already know don't show up in the pool; reroll until all are unknown.
-		* The first spell rolled is available for its standard cost.
-		* To get either of the other spells, you must pay their cost and also an extra insight with an aligned aspect.
-			* If you are working with a font, conjunction, library, ley line, faerie realm, lunar phase, unseason, or other resource with aligned aspect to a spell, that can cover the extra aspect cost.
-			* You may also spend an aspected insight to "reserve" a spell you rolled but didn't select / couldn't afford.  It takes the place of a spell in your next research's pool (you may choose it to be the 1st spell, buyable at normal cost).
+		* Benefits may include gaining insights, extra spells to choose from, crafting consumables as a byproduct, oracular knowledge, etc.
+		* Mishaps can include rogue spells, accidental summonings, spoiled reagents, etc.
+* Roll a pool of 3 random, unknown spells.  You may choose 1 and pay its insight cost to learn it.
+	* The first spell of the 3 rolled is always available to choose.
+	* To choose either of the other spells, pay a suitably aspected insight.
+		* When working with a font, conjunction, library, ley line, faerie realm, lunar phase, unseason, or other resource with aligned aspect to a spell, this can cover the cost.
 * Determining a Random Spell
 	* Roll d6s for the spells' Tiers.  For each, the researcher may accept it, or reroll and take the new result.  A roll of 6 allows the researcher to choose the Tier.
-	* Roll a random spell for each Tier.
+	* Roll a random spell from the Tier (reroll any known spells).
 
 ## Arcane Crafting
 ---
@@ -180,9 +197,18 @@ Arcane Experimentation
 	* Failure: the spell is not activated, but the scroll / token isn't consumed.
 	* Botch: the scroll / token is consumed and a mishap occurs.
 
-### Crafting Wands *
+### Crafting Wands
 
-* from CS6: DC 20*, craft a wand of a spell you know of T3 or lower.  Can't make a new wand of this spell until the prior one breaks.
+* A magician can only have 3 wands (or similar spell-casting talismans) that they have crafted.  To make a new one, one of the old must be broken.
+	* One can have any number of wands obtained from elsewhere, the limit is only on the number a magician can have made.  Wands enter the world because when a magician dies, their wands remain.
+
+* Crafting a wand for a spell you know of (up to Tier 3) requires a suitably aspected reagent of the spell's Tier, (Tier x 100) gp, and a downtime action with access to tools.
+	* Roll to cast the spell with +A.
+		* Crit: the wand has an additional boon.
+		* Success: the wand is crafted.
+		* Failure: the wand has a flaw.
+		* Botch: the wand has 2 flaws.
+* Crafting wands for spells above Tier 3 requires rare and special means.
 
 ## Magic Items
 
@@ -193,6 +219,13 @@ Research and insight can also be used to invent formulae for magic items, after 
 
 * Eldritch Patrons are powerful magical beings a magician can form pacts with, providing offerings or services in return for arcane knowledge and boons.
 	* Demons, djinn, elementals, pagan gods, Old Powers, mighty undead, ascended magicians, faerie lords, etc.
+	* Some patrons accept clients who are non-magicians.
+		* If a patron accepts a Knight, the Knight must take them as their liege.
+		* Clerics, Friars and others of Pious nature can never take an Eldritch Patron without abandoning their faith.
+
+* Patrons vary in the process of forming the pact, and who the patron wishes to deal with.
+	* There is usually a prolonged ritual, including offerings, trials, or services performed for the patron.  The client ends up with a mark of some kind, indicating their bond.
+
 
 ## Spells
 ---

@@ -6,6 +6,37 @@
 * 500 or fewer coins fills 1 slot.
 
 
+## Magic Item Limits
+
+* ??? many faerie items must be worn / possessed for at least a day before they are considered yours by faerie law
+
+* no risk, can possess in unlimited quantities
+	* consumables (potions, tokens, scrolls, herbs, etc)
+	* spell sources (barring rare exceptions)
+	* wand-like items
+
+* fully magic weapons (+2) all have personalities / purposes
+	* using more than one for any significant length of time likely brings them into conflict / grumpiness with each other and/or you; at least one will likely depart
+		* you could store one away in your home and not touch it without problem, and you can carry it home and experiment with it, but if you start carrying both or swapping between them, trouble starts
+	* weapons with distinctly different purviews may tolerate each other unless their natures / purposes clash (melee weapons, ranged weapons, small weapons like daggers and hatchets)
+* fully magical armors (+2) are similarly possessive/jealous/proud, although they get along fine with shields
+* magical implements (staves, rods, etc) should be considered like weapons
+
+* apparatuses and features are separate from magic items, they don't generally clash
+	* machine of lum the mad, apparatus of kwalish, mirror of scrying (full sized), etc
+	* things you don't generally carry around
+
+* "puissant" items and minor items
+	* up to 10 minor items can be held at once, without trouble
+		* items with minor or limited effects
+	* up to 3 puissant items can be held at once, without trouble
+		* items with significant, often at-will, effects (ring of invisibility, cloak of the bat, etc)
+
+
+
+* maybe there is a tier of "major" magic items of which you can only have up to 3 before they get contentious with each other and you (curses, weird luck and phenomena, items leaving you, etc).
+
+
 
 ## Armour
 
@@ -46,7 +77,7 @@ Tags
 	* STR +2) 1d(STR)+1
 
 * Small Simple Melee (3 gp)
-	* Dagger: d4, Thrown (Near, 1h, Finesse, Piercing, Bundle (3x)
+	* Dagger: d4, Thrown (Near, 1h, Finesse, Slashing/Piercing, Bundle (3x)
 	* Hatchet: d4, Thrown (Near), 1h, Finesse, Slashing, Bundle (3x)
 	* Buckler: d4, Sacrificial (only melee & thrown hits), 1h, Finesse/Forceful, Crushing 
 	* Cudgel: d4, Very Cheap, 1h, Forceful/Finesse, Crushing
@@ -63,7 +94,7 @@ Tags
 	* War Hammer: d8+1, Impact, Versatile (d10), 1h, Forceful, Crushing
 	* Spear: d8, Thrown (Near), Versatile (d10, Reach), 1h, Forceful, Piercing
 * Large Martial Melee (15 gp)
-	* Greatsword: d12, Precise, 2h, Forceful, Slashing
+	* Greatsword: d12, Precise, 2h, Forceful, Slashing/Piercing
 	* Polearm, Longspear: d12, Reach, 2h, Forceful, Piercing
 	* Maul, d12+1, Impact, 2h, Forceful, Crushing
 	* Greataxe: d12+1, Impact, 2h, Forceful, Slashing
@@ -84,7 +115,7 @@ Tags
 Tags
 
 * Qualities
-	* Reach: can strike out to 2x Close, over a front rank, and up at mounted/elevated foes
+	* Reach: can strike and Threaten out to 2x Close, attack past a front rank, Hold at Bay, and strike at at elevated targets without penalty.
 	* Impact: +1 damage (included in weapon damage), can be used to smash through things
 	* Precise: +1 attack (also applies when parrying)
 	* Cheap / Very Cheap
@@ -103,6 +134,9 @@ Tags
 	* Melee
 	* Missile (Range): provokes when used
 	* Thrown (Range): does not provoke when used, Small weapons can be thrown off-handed
+	* Crushing
+	* Slashing
+	* Piercing: can Set Against Charge
 * Size
 	* Small: +2 init, Small (3x)
 	* Medium, 1 slot
@@ -189,7 +223,9 @@ Exploration Gear
 
 * Provisions
 	* Preserved Rations (2 gp / day, Bundle 3x)
+		* Last essentially indefinitely, though they can spoil from events.
 	* Fresh Rations (1 gp /day, Bundle 3x)
+		* Spoil over the course of a Downtime or any obviously lengthy span of time.
 * Waterskin (1 gp, 1 slot)
 * Travel Gear (5 gp, bedroll, mess kit, flint and tinder, twine, water bottle, 1 slot)
 	* Basic gear for travel.  Provides a bedroll for camping
@@ -199,7 +235,7 @@ Exploration Gear
 * Lighting
 	* Bundle of Torches (3 gp, 3 uses, 2 slots)
 		* While possessed, you have access to torchlight.
-		* Uses: lighting several torches to illuminate an area or equip people to fight with flame, torch illumination for many hours.
+		* Uses: lighting several torches to illuminate an area or equip people to fight with flame, torch illumination for many hours, bright light to speed/improve examining an area or disarming a trap.
 	* Lantern (hooded: 5 gp, bullseye: 10 gp, 1 slot)
 		* While fueled, you have many hours of lanternlight.
 	* Bundle of Candles (1 gp, 3 uses, 1 slot)

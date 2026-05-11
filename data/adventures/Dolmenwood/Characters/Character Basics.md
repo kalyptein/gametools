@@ -86,7 +86,7 @@ Talents & Bonuses
 
 ### Attack Bonus
 
-* Stat bonus portion of attack bonus max +4; class bonus is added after.
+* Stat bonus (max +4) + class bonus (if any).
 	* Forceful (including forceful thrown): STR + 1 if DEX >= +1
 	* Finesse (including finesse thrown): DEX + 1 if STR >= +1
 	* Missile (including finesse thrown): WIS + 1 if DEX >= +1

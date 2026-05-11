@@ -92,8 +92,23 @@ carousing
 * 10x coin values from what shadowdark normally requires (for carousing, etc; maybe not for gear)
 
 
-
-
+treasure maps
+* for broad values of "treasure"
+* give a single hexflower (1 hex and its surrounding 6) with some features indicated
+	* don't indicate where this actually is
+	* draw it by hand, so it's not a perfect match for the maps in use
+	* shows the destination, usually a secret site
+	* shows some but not all other features (water, roads, towns, individual dwellings, ruins, big natural landmarks, etc)
+* might include some written notes
+	* labels for certain features
+	* precise movement instructions (100 paces, etc)
+* rationales for hidden treasure
+	* faerie troves
+		* maybe some are stashes from ice elf lords about to be evicted back to Frigia, hiding their treasures
+	* bandit loot
+	* breggle caches from their days of rebellion against the Drune
+	* Drune and witch tombs / barrows
+	* barrows of the ancient human lords
 
 
 

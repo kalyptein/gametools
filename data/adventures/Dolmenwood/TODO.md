@@ -1,10 +1,4 @@
 
-* classes and advancement
-	* fighter talent / bonus review
-* equipment
-	* Impact tag needs more oomph
-		* maybe a haymaker option?  or power attack?
-* 
 * arcane magic (crafting wands, eldritch patrons, spell list, spell descriptions)
 	* making a spell source?
 	* arcane mishaps table(s)
