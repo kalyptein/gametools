@@ -20,6 +20,7 @@ Fishing
 * Requires Fishing Gear (1 slot).
 * Can be done in any hex with a lake or river.
 * Success: 2d6 rations.  Roll for type of catch.
+	* For each additional person with Fishing Gear who can participate, roll and extra d6, using the two highest d6 rolls for the result.
 
 Foraging
 * Success: 1d6 rations (1d4 in winter, 1d8 in autumn).  Roll for type of find (even odds of finding plants or fungi, roll type).
@@ -57,32 +58,8 @@ Hunting
 	* Bonuses (-3 DC each): soft ground, ideal surface (fresh snow, smooth dust, etc), large group (10+), large creature, leaving a trail (bleeding, etc)
 * You can't retry in the same location.  If you lose a trail, you may be able to intuit a spot further along and try again later.
 
-## Athletics
----
-Feats of Strength
-
-Jumping
-
-Climbing
-* STR or DEX to move at half speed.  Fall if you fail by 5 or more.
-	* Moving more than half speed gives disadvantage.
-	* 
-	* Rough climbing: auto-success if you have +A.
-	* Sheer if you lack training, take +D.
-	* 
-* 1d6 damage per 10' fallen.
-	* DEX resist for half damage if there are things to grab onto to slow yourself, or other ways to break your fall (e.g. landing gracefully on water)
-
-Swimming
-* Swim at half speed.  STR check if in rough waters.
-
-Breath
-* CON check each round to hold your breath, d6 damage on failure.
-
-
-
 ## Journeying
-
+---
 
 * daily action
 	* travel
@@ -199,7 +176,63 @@ getting sleep
 * particularly hard / damp ground w/o bedroll: +1 difficulty level
 * significant precipitation w/o tent: +1 difficulty level
 
-## Stealth
+## Athletics
+---
+Feats of Strength
+
+Jumping
+
+Climbing
+* STR or DEX to move at half speed.  Fall if you fail by 5 or more.
+	* Moving more than half speed gives disadvantage.
+	* 
+	* Rough climbing: auto-success if you have +A.
+	* Sheer if you lack training, take +D.
+	* 
+* 1d6 damage per 10' fallen.
+	* DEX resist for half damage if there are things to grab onto to slow yourself, or other ways to break your fall (e.g. landing gracefully on water)
+
+Swimming
+* Swim at half speed.  STR check if in rough waters.
+
+Breath
+* CON check each round to hold your breath, d6 damage on failure.
+
+## Skullduggery
+---
+### Lockpicking
+
+* Given time (and adequate lighting), training, and tools, picking an average lock is automatic and 10 minutes.
+	* For a rush job (1 round), roll with +D.
+		* You may retry once (still with +D) with 1 minute of work.  If you fail, retrying takes the full, normal time.
+	* With improvised tools or poor light, roll with +D.
+		* On a failure, improvised tools are ruined and must be replaced.
+	* Without training, you can only try once (until you improve, as for a Complex lock).
+* Complex locks are high quality, enchanted, or otherwise involved.
+	* With time, training, and tools, you can make a normal roll.
+		* Without all three, the lock cannot be picked.
+		* You can't retry until you gain a level, increase your DEX, or gain some other kind of advantage.
+* Difficult locks (which are usually also Complex) require a roll, with +D, unless you can work on them during a Respite (roll normally).
+
+### Disarming Traps
+
+* given time, training, and tools, auto-success on bypassing/disabling
+* 
+* finding
+* disarming
+	* a lot like lockpicking
+
+### Sleight of Hand
+
+Filch
+* pick a pocket, lift something from a table, plant something on someone, drop something in a drink
+* 
+* you need an opening (distraction, bump, etc)
+* +D if people around you are suspicious (even w/ an opening) or there are so many it's hard to get an opening with everyone
+
+Palming
+
+### Stealth
 
 stealthy scouting
 * single- or few- roll scouting missions, just roll and tell what they find and/or what kind of trouble they stir up
@@ -238,36 +271,9 @@ Scout Ahead
 		* If you Pushed, especially if you raised suspicion, you are already in "Push state", so a failure brings immediate trouble.
 
 
-Stealth
-
-
-
-
-
-## Skullduggery
-
-### Lockpicking
-
-* Given time, training, and tools, picking an average locks takes no roll and 10 minutes.
-	* For a rush job (1 round), roll with +D.  If you fail, retrying takes 1 minute.
-	* With improvised tools, roll with +D.  On a failure, the tools are damaged and you can't try again without replacing them.
-	* Without training, you can only try once (until you improve, as for a Complex lock).
-* Complex locks are high quality, enchanted, or otherwise involved.
-	* With time, training, and tools, you can make a normal roll.  You can't retry until you gain a level, increase your DEX, or gain some other kind of advantage.
-	* Without all three, the lock cannot be picked.
-* Difficult locks (which are usually also Complex) require a roll, with +D, unless you can work on them during a Respite.
-
-### Disarming Traps
-
-* given time, training, and tools, auto-success on bypassing/disabling
-
-### Sleight of Hand
-
-Pickpocketing
-
 
 ## Lore
-
+---
 ### Musing
 
 * Smoke a bowl of pipeweed over the course of a Brief or Short Rest while pondering a question, dilemma, or course of action.
@@ -295,7 +301,7 @@ Pickpocketing
 
 
 ## Perception & Searching
-
+---
 Site Searching
 
 

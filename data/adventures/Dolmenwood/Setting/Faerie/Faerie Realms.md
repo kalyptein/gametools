@@ -73,6 +73,18 @@ Realms, Rulers, and Runes
 
 ## depthcrawls / generators
 
+
+* Ideas
+	* you can only enter a given faerie realm once a moon
+		* or maybe any realm (not counting the Baths or the roads); you can only enter Faerie once a moon.
+		* you can stay as long as you want (time passes weird).
+		* the lunar timer starts when you leave faerie, so you can stay as long as you want, and you can't stay long enough to be able to reenter immediately
+		* keeps faerie excursions as a sometimes food, not a dungeon you can pursue endlessly.  encourages you to push as far as you can when you do go
+	* you can only stay X length time before the path behind you begins to break down (3 days maybe?)
+		* if you overstay, you'll need to find a new door back out of faerie.  also your previously discovered locations will become fluid again
+
+
+
 * Stygian Library
 * Gardens of Ynn
 * Let Us Build a Tower

@@ -83,7 +83,7 @@ Talents & Bonuses
 	* Gain a Bonus at even-numbered levels.
 
 ## Combat
-
+---
 ### Attack Bonus
 
 * Stat bonus (max +4) + class bonus (if any).
@@ -114,7 +114,7 @@ Casting Bonus
 	* Faerie: CHA + 1 if INT | WIS | CON >= +1
 
 ## Miscellaneous
-
+---
 ### Backgrounds
 
 * You are Trained in performing the various facets of your background(s).

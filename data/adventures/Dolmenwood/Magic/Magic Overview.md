@@ -2,17 +2,25 @@
 
 Tags
 
+
+* focus (round | minute | 10 min): make a focus check each interval to maintain it; can only focus on 1 spell at a time
+	* no crit fails for focus, spell just ends
+* focus (test X): duration is measured in tests, when the spell is "tested", offering its benefit.
+	* After each test, roll focus to keep it going.  Even if you fail, it remains active for X duration (round, minute, etc); if you succeed, you don't need to focus again until that duration has past (other tests are part of this same test).  If X is omitted, each instance of testing requires its own focus roll.
+
+
+
 * Safe
 	* Botched castings are treated as normal failures.
 * Dangerous
-	* Treat all failed castings as Botches.
+	* Treat all failed castings as Botches.  Treat an actual Botch as a two Botches.
 	* (minor) The mishap (except on a real Botch) is one Tier category weaker than normal.
 * Unstable
 	* Regardless of casting outcome, a mishap occurs (afterward, if successful).  May opt to negate the mishap as your Crit benefit.
 	* (minor) The mishap (except on a real Botch) is one Tier category weaker than normal.
 * Hindered
 	* Roll casting with +D.
-* Aided
+* Bolstered
 	* Roll casting with +A.
 * Focus
 	* (minor | move | main | total)
@@ -21,10 +29,11 @@ Tags
 	* Can only have one Focus spell going at a time.
 * Sustain (round | minute | 10 minutes | hour | day | etc | tested)
 	* Can have any number of Sustain and/or a Focus spell going at the same time.
-* Limit (time / condition)
+* Limit (attempt, time / condition)
 	* attempt: count attempted casting against the limit (not just successes as normal)
-	* time / condition: can't use this spell again until the time is passed or condition met or  resolved.
-* Refresh
+	* time / rest / condition: can't use this spell again until the time is passed or condition met or resolved.
+* Refresh (condition)
+	* The spell refresh if the condition is met (a rest, span of time, action, etc).
 * Casting (time)
 	* reaction | free | minor | move | quick | brief | short
 * Ritual (time / materials)
@@ -36,6 +45,11 @@ Tags
 	* The spell never fails, but roll the casting check to see if it becomes Exhausted and/or causes a mishap (if not Safe).
 * Subtle
 	* Does not require overt speech and gesturing to cast.
+* After X: Y
+	* The spell has additional effect Y if the spell lasts X intervals.
+		* rounds | tests | focuses
+		* e.g. after 3 rounds, petrification is permanent (the spell is probably focus (round), so if you can hold it long enough, it becomes permanent)
+
 
 Potency vs Resist
 
@@ -90,6 +104,7 @@ counterspelling
 * either have the action readied, or cost your next turn's action, or spend a Luck?
 * tier vs tier?  +A or +D for circumstance / oppositional logic?
 
+dispelling contests
 
 
 casters just advance their casting w/ level (start at +2, rise to +4 or +5?)
@@ -99,19 +114,6 @@ casters just advance their casting w/ level (start at +2, rise to +4 or +5?)
 * can cast non-dangerous spells w/o a roll during downtime/towntime
 * upcasting is an option for some spells
 
-
-* dangerous
-	* any failed cast = critical failure; actual critical fail = 2x crit fail
-* safe
-	* this casting can't critically fail (no mishaps, etc), treat it as a normal failure
-* limited (X)
-	* can only be cast X times per long rest; if X is omitted, X = 1
-	* (quick | brief | short | long) ritual: requires a (1 min | 10 min | 1 hour | 8 hour) ritual to cast
-* focus (round | minute | 10 min): make a focus check each interval to maintain it; can only focus on 1 spell at a time
-	* no crit fails for focus, spell just ends
-* focus (test X): duration is measured in tests, when the spell is "tested", offering its benefit.
-	* After each test, roll focus to keep it going.  Even if you fail, it remains active for X duration (round, minute, etc); if you succeed, you don't need to focus again until that duration has past (other tests are part of this same test).  If X is omitted, each instance of testing requires its own focus roll.
-* after X (rounds | test | focus) Y: the spell has an additional effect Y if the spell lasts X intervals.  e.g. after 3 rounds, petrification is permanent; the spell is probably focus (round), so if you can hold it long enough, it becomes permanent
 
 
 ### Holy

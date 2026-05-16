@@ -30,6 +30,10 @@
 
 ## Inhabitants
 
+### The Cold Prince
+
+* his agents may be particularly contacting old breggle families, tempting them back into his service, offering to return the wood to them (under him, of course).
+
 * faerie folk
 * monsters
 

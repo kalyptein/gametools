@@ -277,7 +277,7 @@ Creating Blessed Materials
 
 - The Courage of St Sedge
 - T2, 1 hour, A Close weapon or suit of armor
-- Silver light arcs from the caster’s hand and wreathes a single weapon or suit of armor.
+- Silver light arcs from your hand, wreathing a single weapon or suit of armor.
 	- Weapon: +1 attack and +1d4 damage (+1d6 vs unholy beings); treat as magical and silver.
 	- Armor: +2 defense, Resistance to fear and forced movement.
 - Ritual

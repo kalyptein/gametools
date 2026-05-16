@@ -172,3 +172,33 @@ shadowdark-derived system ???
 		- not just a cursory meeting, but acknowledgment, doing a favor for, make an enemy of, etc
 		- Cold Prince, Nag-Lord, named wizards, Hag, Queen of Witches, lords, wood gods?, etc
 		- also mayors, priests, merchants, artisans?
+
+
+
+
+* silver standard
+	* treasure
+		* treasure is as-listed in the Dolmenwood books
+		* pp -> gp
+		* gp -> sp
+		* sp -> cp
+		* cp -> cp / 10
+	* prices
+		* most prices stay the same but swap gp for sp
+			* where using shadowdark prices, 10x them
+		* armor, weapons, and luxuries swap sp for gp but are 10x the price
+			* e.g. a 2 gp dagger is now 20 sp, but a 2 gp lantern is 2 sp.
+			* resale of used weapons and armor = 50% max (might be less, maybe use a haggle roll?)
+			* same for mercenary salaries?
+			* luxuries might not need to be 10x if they're already priced high enough
+		* 
+		* shadowdark carousing
+			* 10x cost (but in sp, not gp), since you're finding hundreds and thousands of gp
+
+site discovery
+* to discover a site, you have to pay the "price" of a certain number of random encounter checks
+	* the first time you move through a hex, you always make a roll, even if you then move onward in the same day.  in return, you discover the landmark site, if any.
+		* except when following a road, then you can immediately go to full speed and normal check.
+		* you explore and find hidden sites, paying their price in both days and encounter checks
+		* in return, you don't have a "minimum interaction" with a site to get its xp reward; you spot it and have endured the encounter risk already.  you could spot it from afar and immediately run away.
+			* there does have to be an unknown site to discover; you can't just marinate in a hex enduring encounter checks and getting xp

@@ -50,31 +50,17 @@
             }
           },
           {
-            "id": "859aac53e5d2d28c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Faerie Magic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faerie Magic"
-            }
-          },
-          {
             "id": "e452a70ae2286e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Exploration.md",
+                "file": "Magic/Arcane Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploration"
+              "title": "Arcane Magic"
             }
           },
           {
@@ -118,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Everborne -"
             }
+          },
+          {
+            "id": "dbbadf65f453a5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Holy Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Holy Magic"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attune",
+                "query": "hindered",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,7 @@
             }
           },
           {
-            "id": "044f1686ec60ad58",
+            "id": "62b8654990f38efa",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Faerie/Everborne -.md",
+                "file": "Magic/Arcane Magic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Everborne -"
+              "title": "Outline of Arcane Magic"
             }
           }
         ],
@@ -277,34 +277,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdab0fa57aa15919",
+  "active": "e452a70ae2286e2f",
   "lastOpenFiles": [
+    "Magic/Holy Magic.md",
+    "Magic/Arcane Magic.md",
+    "Setting/The Eldritch.md",
+    "Magic/Faerie Magic.md",
+    "Magic/Magic Overview.md",
+    "Untitled.base",
+    "Characters/Character Basics.md",
+    "Setting/Faerie/Everborne -.md",
+    "Setting/Faerie/Faerie Realms.md",
+    "Setting/Magicians.md",
+    "Setting/The Witches.md",
+    "Setting/Faerie/Frigia -.md",
+    "Setting/History.md",
+    "Characters/Rewards.md",
     "Setting/Faerie/Diuthurnia - .md",
+    "Rules/Exploration.md",
     "Setting/Faerie/Catland -.md",
     "Setting/Arthuriana.md",
-    "Setting/The Witches.md",
-    "Setting/Magicians.md",
     "Setting/Lyonesse.md",
     "Setting/The Drune.md",
-    "Setting/Faerie/Everborne -.md",
     "Setting/Faerie/Gladding-Gloam -.md",
     "Setting/Faerie/Gloomhold -.md",
     "Setting/Faerie/Goblintown -.md",
     "Setting/Faerie/Lampwrack.md",
     "Setting/Faerie/Ravenwild -.md",
     "Setting/Faerie/Whyforth -.md",
-    "Setting/Faerie/Tallowspire -.md",
-    "Setting/Faerie/Hypnagogia -.md",
-    "Setting/Faerie/The Gardens of Ynn -.md",
-    "Setting/Faerie/Frigia -.md",
-    "Setting/Faerie/Blossom Fields -.md",
-    "Setting/Faerie/Absynthe -.md",
-    "Magic/Faerie Magic.md",
-    "Magic/Arcane Magic.md",
-    "Rules/Combat.md",
-    "Setting/Faerie/The Baths of Astralon.md",
-    "Setting/Faerie/Faerie Realms.md",
-    "Magic/Holy Magic.md",
     "Maps/Dolmenwood_Referee_Map_Pack/Dolmenwood VTT Hex Map Settlements.png",
     "Setting/Faerie",
     "Storage/Magic",
@@ -314,7 +314,6 @@
     "Rules",
     "Dolmendark Rules/Characters/Races1",
     "Characters/Races",
-    "Characters",
-    "Dolmendark Rules"
+    "Characters"
   ]
 }
