@@ -49,12 +49,13 @@
     "//World/World/Gazetteer/World/Gazetteer/Burdock's Valley ; Vale of Burgheat/World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Gosterwick ; Vetuaster",
     "//World/World/Culture",
     "//Level 3 - Halls of Thoth",
-    "//World",
-    "//World/World/Chronicle",
     "//_Notes_",
     "//SL7 - Flooded Vaults",
+    "//World",
+    "//World/World/Chronicle",
+    "//Level 8 - Nether Reaches",
     "/",
-    "//Level 8 - Nether Reaches"
+    "//Level 9 - Floor of the Great Chasm"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

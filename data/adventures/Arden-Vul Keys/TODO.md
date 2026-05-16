@@ -197,51 +197,29 @@ Arden Vul system
 >>> pad SL10 so that the inset map will over top of "background image", so the fog exploration works correctly
 
 
-intended path
-* ready
-	* SL 7
-* bulletized
-	* SL 9
-	* Level 6
-	* Level 7
-* ready
-	* SL 13
-		* redo some of the trials?
-* TBD
-	* Level 8 (underway)
-* bulletized
-	* SL 10
-* TBD
-	* Level 9
-* bulletized
-	* Level 10
-
-
-
-
 * Below Lower
 	* Level 6
 		* entities
 		* dressing
-	* 
 	* SL-9
 		* entities
 		* dressing
 
 * Below Depths
 	* Level 7
+		* entities
+		* dressing
+	* Level 8 (underway)
 		* bulletize
 		* entities
 		* dressing
-	* Level 8
-		* bulletize
-		* entities
-		* dressing
+	* SL 13
+		* redo some of the trials?
 	* SL-10 a & b
 		* entities
 		* dressing
 	* Level 9
-		* bulletize
+		* bulletize (underway)
 		* entities
 		* dressing
 	* Level 10

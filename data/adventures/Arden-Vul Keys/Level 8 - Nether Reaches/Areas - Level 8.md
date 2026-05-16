@@ -1620,23 +1620,22 @@ Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
 
 ### 8-81: More Shocking Moss
 
-Both this cave and the tunnel leading west and north to 8-80 is coated in the same shocking moss found at area 8-80. After 3 rounds in either the tunnel or the cave, a discharge worth 3-18 HP will be targeted at a PC wearing metallic armor. Touching the moss doubles the damage.
-
-Another inscription in Mithric lies under the moss in the tunnel that approaches 8-81. It reads: “This way to the citadel” with an arrow pointing towards 8-82.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* Both this cave and the tunnel leading west and north to 8-80 is coated in the shocking moss (8-80).
+	* After 3 rounds in either tunnel or cave, a 3d6 discharge targets someone wearing metallic armor (2x damage if touching the moss).
+* An inscription lies under the moss in the tunnel approaching 8-81 (Mithric): “This way to the citadel” (with an arrow pointing towards 8-82).
 
 ### 8-82: Tunnel up to SL10a-9 
 
-This tunnel leads upward at a gentle slope until it reaches area SL10A-9.
-
-Note: For about 50’ this tunnel is occluded by a thick cloud of bliss pollen given off by the bliss flowers in 8-67 (see description in level overview). Any person entering the tunnel must save versus petrification (-3 penalty) or wander randomly for 1-6 hours.
+* This tunnel leads upward at a gentle slope until it reaches SL10A-9.
+	* For about 50’ this tunnel is occluded by a thick cloud of bliss pollen given off by the bliss flowers in 8-67 (see level overview).
+	* Anyone entering the tunnel saves vs petrification at -3 or wander randomly for 1d6 hours.
 
 ### 8-83: Ruined Storage Room
 
-Once a storage chamber during the Archontean occupation, this chamber is bereft of anything interesting save some bare human footprints in the dust made by Olaf in 8-73; they lead west and south towards 8-74. The western wall of the chamber has collapsed, leaving piles of rubble on the floor.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* A storage chamber in the Archontean era, the western wall has collapsed, leaving piles of rubble on the floor.
+	* Bare human footprints in the dust lead west / south towards 8-74, from Olaf (8-73).
 
 ### 8-84: Hall of Columnar Heroes
 
@@ -1652,18 +1651,23 @@ Hamil the Southron, one of Caldornia’s ausculatoris (see new monsters): SZ S; 
 
 ### 8-85: Campsite
 
-The door to this chamber is stuck. The chamber within was once the office of an Archontean bureaucrat, and still features some recognizable painted frescoes showing the counting, storage, and exchange of coins by archaically-dressed officials. All furnishing are long gone, but a previous adventuring party created a convenient firepit here. The site would be a good place at which to camp.Secret Compartment: A secret compartment exists in the west wall. It is difficult to locate (1 in 8), and open by pressing the largest coin on the western fresco. Doing so reveals a 3’x3’ cubbyhole in which are stacked 25 ancient octagonal platinum coins (see Arden Vul items) and 450 ancient gold solidi (see Arden Vul items). 
+* The door to this chamber is stuck.
+* Once the office of an Archontean bureaucrat.
+	* Still features some recognizable painted frescoes of the counting, storage, and exchange of coins by archaically-dressed officials. 
+	* All furnishing are long gone, but a previous adventuring party created a firepit here.  
+		* The site would be a good place at which to camp.
+	* A secret compartment (west wall): difficult to locate (1 in 8), pressing the largest coin on the western fresco opens it. 
+		* 3’x3’ cubbyhole: 25 ancient octagonal platinum coins, 450 ancient gold solidi.
 
 ### 8-86: Boarded-Up Chamber
 
-Someone has attempted to prevent the door to this chamber from being opened from the south: boards run across it, hammered into the stone lintels with spikes. 
+* Someone has spiked boards across the door to this chamber.
+* Within are the ruins of an Archontean office.
+	* Amid the shattered desks, chairs, and scroll cabinets are 2 spell scrolls (water breathing, glassee).
 
-Within are the ruins of an Archontean office. The only items of value amid the shattered desks, chairs, and scroll cabinets are a pair of spell scrolls. A pack of wights lurks here, hungry and menacing. They attack ferociously. 
+* A pack of wights lurks here, hungry and menacing.
 
 13 wights: SZ M; AL LE; AC 5; MV 120’; HD 4+3; HP 35, 34, 33, 31, 30(x3), 29, 28, 27, 26(x3); #AT 1; Dmg 1-4. Special attacks: energy drain. Special defenses: silver or magic needed to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
-
-Treasure:
-Two scrolls, one with the druid spell water breathing and the other with the magic user spell glassee.
 
 ## Level 8: 94 - 104 (The Forge and Mines of Zhorak)
 
@@ -1691,92 +1695,110 @@ For every turn the PCs are present there is a non-cumulative 10% chance that the
 
 ### 8-88: Depleted Gallery
 
-This seam of iron and coal was mined to near exhaustion in antiquity. A pair of broken picks lies in the dust.
+* This seam of iron and coal was mined to near exhaustion in antiquity.
+	* A pair of broken picks lies in the dust.
 
 ### 8-89: Iron Deposits
 
-This cave contains a rich deposit of iron. Although none of Zhorak’s miners are found here, their labors are evident. A spiral path leads from the floor up the wall of the cavern, rising slowly but steadily and gradually carving out deeper rings in the walls. The path rises a good 35’ in height. 
+* This cave contains a rich deposit of iron, with signs of having been worked.
+	* A spiral path rises from the floor slowly but steadily up to 35', gradually carving out deeper rings in the walls.
+* The corpse of a female elven magic user lies on the floor, slain by the huldugritti.
+	* Linen pouch: 6 pearls (100 gp); a beautiful egg of solid gold, chased with silver in geometric patterns (775 gp); an elven cloak; a wand of cold (10 charges); a staff +2; a spell book.
 
-A pair of baindara (see new monsters), brought here by the dead adventurer on the floor of the cave, chatter nervously at the uppermost limit of the spiral path. More significantly, a huldugritti (see new monsters) lurks here, consuming the delicate iron dust and filings that still remain.
+* A pair of baindara (new), brought here by the dead mage, chatter nervously at the uppermost limit of the spiral path.
 
-The corpse of a female elven magic user lies on the floor, slain by the huldugritti. The corpse contains some treasure, as well as the magic user’s spell book.
+* A huldugritti (new) lurks here, consuming the delicate iron dust and filings that remain.
 
 2 baindara (see new monsters): SZ S; AL N; AC 8; MV 150’, 150’ gliding; HD 1-1; HP 3, 2; #AT 1; Dmg 1-2.
 
 1 huldugritti (see new monsters): SZ M; AL N; AC 0 or 2; MV 120’ or 60’; HD 8+8; HP 50; #AT 2 (in stone form); Dmg 2-16/2-16; MR 25%. Special attacks: hurl boulders (2-8 HP each). Special defenses: meld with stone (cure 3-24 HP); assume spirit form; +1 or better weapons to hit; immune to fire, electricity, and mind-affecting spells. 
 
-Treasure:
-
-A linen pouch with six 100 gp pearls; a beautiful egg made of solid gold, chased with silver in geometric patterns (775 gp); an elven cloak; a wand of cold (10 charges); a staff +2; a spell book.
-
 Spell Book: Alarm, charm person, detect magic, feather fall, floating disk, friends, hold portal, jump, magic missile, protection from evil; audible glamer; darkness 15’ radius, detect invisibility, flaming sphere, forget, invisibility, magic mouth, mirror image, rope trick, shatter; blink, clairvoyance, cloudburst, dispel magic, explosive runes, fireball, gust of wind, haste, phantasmal force, suggestion, water breathing; charm monster, dig, fire shield, ice storm, plant growth, remove curse, stoneskin.
 
 ### 8-90: Depleted Iron Deposits
 
-This side cave proved to contain a rich lode of iron, and Zhorak’s miners extracted nearly every ounce of it. 
+* This side cave contained a rich lode of iron, and Zhorak’s miners extracted nearly every ounce of it. 
 
-For every turn the PCs are present there is a non-cumulative 10% chance that the huldugritti from 8-92 (see new monsters) will have decided to visit this cave. When first encountered, huldugritti are always in spirit form. 
+* (10% / turn) the huldugritti from 8-92 (new) visits this cave.
+	* When first encountered, huldugritti are always in spirit form. 
 
 1 huldugritti (see new monsters) (10% chance): for stats see area 8-92.
 
 ### 8-91: Mining Supplies
 
-This wide spot in the mine holds two rickety wooden shelves, on which are a variety of mining implements: pick heads, shovels, wedges, mauls, canvas sacks for ore, and so forth. Inside one of the canvas sacks is a gold nugget worth 600 gp.
+* This wide spot holds two rickety wooden shelves.
+	* Various mining implements: pick heads, shovels, wedges, mauls, canvas sacks, etc.
+	* Inside one sacks is a gold nugget (600 gp).
 
-For every turn the PCs are present there is a non-cumulative 10% chance that the huldugritti from 8-92 (see new monsters) will have decided to visit this cave. When first encountered, huldugritti are always in spirit form. 
+* (10% / turn) the huldugritti from 8-92 (new) visits this cave.
+	* When first encountered, huldugritti are always in spirit form. 
 
 1 huldugritti (see new monsters) (10% chance): for stats see area 8-92.
 
 ### 8-92: Depleted Coal Seam
 
-A rich coal seam used to run through this cavern, but Zhorak’s miners extracted most of it in antiquity. The remaining dust makes for fine feeding grounds for a huldugritti (see new monsters); if the huldugritti has been encountered elsewhere (see chances at 8-87, 8-90, 8-91 and 8-93) it obviously will not be present here.
+* A rich coal seam  ran through this cavern, mostly extracted by Zhorak’s miners.
+	* The remaining dust makes for fine feeding for a huldugritti (new)
+
+* If the huldugritti may be encountered elsewhere (see 8-87, 8-90, 8-91 and 8-93).
 
 1 huldugritti (see new monsters): SZ M; AL N; AC 0 or 2; MV 120’ or 60’; HD 8+8; HP 56; #AT 2 (in stone form); Dmg 2-16/2-16; MR 25%. Special attacks: hurl boulders (2-8 HP each). Special defenses: meld with stone (cure 3-24 HP); assume spirit form; +1 or better weapons to hit; immune to fire, electricity, and mind-affecting spells. 
 
 ### 8-93: Active Coal Seam
 
-Two of Zhorak’s miners (see new monsters) are frozen in mid-swing of the pickaxe here, having shut down when their power supplies became depleted. A pile of mined coal lies in the center of the cave. As with area 8-87, the miners could be reactivated by replacing the depleted rudishva lesser power supplies that power them. For every turn the PCs are present there is a non-cumulative 10% chance that the huldugritti from 8-92 (see new monsters) will 
-have decided to visit this cave. When first encountered, huldugritti are always in spirit form.
+* A pile of mined coal lies in the center of the cave.
+	* Two of Zhorak’s miners (new) are frozen in mid-swing of the pickaxe here, having shut down when their power supplies became depleted.
+	* They could be reactivated by replacing their depleted rudishva lesser power supplies.
 
-2 Zhorak’s miners (see new monsters): SZ S; AL N; AC 2; MV 60’; HD 5; HP 35, 24; #AT 1; Dmg 2-8. Special defenses: immune to fire, cold, and mind-affecting spells. 
+* (10% / turn) the huldugritti from 8-92 (new) visits this cave.
+	* When first encountered, huldugritti are always in spirit form. 
+
+2 Zhorak’s miners (see new monsters): SZ S; AL N; AC 2; MV 60’; HD 5; HP 35, 24; #AT 1; Dmg 2-8. Special defenses: immune to fire, cold, and mind-affecting spells.
 
 1 huldugritti (see new monsters) (10% chance): for stats see area 8-92.
 
 ### 8-94: Mine Entrance
 
-This broad cave was the initial site of Zhorak’s mining endeavors. It is tall (40’), and ringed by a spiral pathway that allowed mining on all sides. At the top of the spiral path (on the west wall, above the passage to 8-95) is a coffer made of carved ivory plates; the carvings show exotic scenes of elephants being ridden into battle by distinctly non-Archontean humans. The coffer itself is worth 500 gp, but also contains a heqeti ring and an icon of Kauket (see new magic items for each).
+* This tall, broad cave was the initial site of Zhorak’s mining endeavors.
+	* It is ringed by a spiral pathway that allowed mining on all sides.
+	* At the top of the spiral (on the west wall, above the passage to 8-95) is a coffer of carved ivory plates (exotic scenes of elephants ridden into battle by non-Archontean humans) (500 gp).
+		* Contains a heqeti ring, icon of Kauket (new).
+	* The passage west turns to worked stone, and is blocked by a formidable steel portcullis (lever in 8-95, or bend bars/lift gates).
 
-A single huldugritti (see new monsters) inhabits this cave. The passage to the west turns into worked stone, but is blocked by a formidable steel portcullis, the lever for which is in area 8-95. A lift gates roll is needed to budge the portcullis from this side.
+* A single huldugritti (new) inhabits this cave.
 
 1 huldugritti (see new monsters): SZ M; AL N; AC 0 or 2; MV 120’ or 60’; HD 8+8; HP 52; #AT 2 (in stone form); Dmg 2-16/2-16; MR 25%. Special attacks: hurl boulders (2-8 HP each). Special defenses: meld with stone (cure 3-24 HP); assume spirit form; +1 or better weapons to hit; immune to fire, electricity, and mind-affecting spells. 
 
-Treasure:
-Carved ivory coffer (500 gp); icon of Kauket (see new magic items), and a heqeti ring (see new magic items)
-
 ### 8-95: Entrance Hall to the Forge
 
-This tall octagonal chamber was the main public hall for Archontean dignitaries eager to visit the famous forge of Zhorak and, perhaps, to acquire some of the legendary smith’s work. The ceiling here is 30’ tall, and several continual light spells cast on the ceiling provide bright light. 
-
-The walls of the diagonal sides of the chamber are carved as colossal statues of crouching dwarves. These statues are rendered out of huge 10’-thick slabs of black basalt, which Zhorak bolted to the native granite. The dwarves have too-large eyes and thin grins on their half-open mouths; they are depicted in floppy Phrygian caps and tight-fitting leather half-coats. Each holds a distinct tool across its chest: one a hammer, another a set of tongs, the third a fuller, and the last a swage. 
-
-An octagonal dais about 3’ tall occupies the center of the chamber. On the dais are three gleaming, silver, savonarola-style chairs in a row facing north. The chairs are carved with Dwarvish runes and images of dour-faced dwarves. Although the chairs appear to be solid silver, they are actually teak with a thick layer of silver gilt. As objects, they are worth 525 gp each; the silver gilt is worth a total of 175 gp.
+* This 30'-tall octagonal chamber was the public hall for dignitaries eager to visit the famous forge of Zhorak, and perhaps acquire some of the legendary smith’s work.
+	* Several continual lights glow brightly from the ceiling.
+	* The diagonal walls of the chamber are black basalt slabs, carved as colossal statues of crouching dwarves (Ptah priests).
+		* (bah-dum-tish) The dwarves have too-large eyes and thin grins on their half-open mouths; depicted in floppy Phrygian caps and tight-fitting leather half-coats.  Each holds a distinct tool across its chest (hammer, tongs, fuller, swage). 
+	* A 3'-high octagonal dais occupies the center of the chamber.
+		* On it are 3 gleaming, silver, savonarola-style chairs in a row, facing north.
+			* The chairs are carved with Dwarvish runes (hieroglyphs) and images of dour-faced dwarves.  Actually teak with a thick layer of silver gilt (525 gp, or 175 gp for just the silver)).
 
 ##### 8-95a: Tunnel down to 9-139
 
-Amid the wreckage that once connected the forge to area 8-84 is a tunnel delved out of the loose rock. It descends in swoops and whorls at a rather precipitous pitch all the way down to area 9-139.
+* Amid the wreckage that once connected the forge to 8-84 is a tunnel delved out of the loose rock.
+	* It descends in swoops and whorls at a precipitous pitch all the way down to 9-139.
 
 ### 8-96: Ruined Workshop
 
-This was Zhorak’s design workshop, where he planned and sketched the creations he would produce in the forge. It has two beautiful sloped writing desks made of teak (150 gp, but heavy), three teak cabinets for scrolls and paper (100 gp each), plus a pair of teak stools (50 gp). A whirlwind of parchment appears to have been unleashed in the chamber – the result of frantic efforts to pack and ‘loot’ as the Archonteans fled. Most of the parchment is useless, but there is a 1 in 6 chance per turn spent searching that something interesting might be unearthed. If an interesting result is indicated, roll on the following table to determine what is found (each may be found only once):
+* This was Zhorak’s design workshop, where he planned and sketched the creations he would produce in the forge.
+	* 2 beautiful sloped teak writing desks (150 gp, heavy)
+	* 3 teak scroll cabinets (100 gp each)
+	* A pair of teak stools (50 gp).
+* A whirlwind of parchment litters the chamber; result of frantic efforts to clear out as the city fell.
+	* Most is useless. 1 in 6 per turn of searching to make an interesting find. 
 
-D6 Parchment Notes
+D6 Parchment Notes (each once)
 
 1
-
 Magic user scroll of level 3-8,  determined randomly
 
 2
-
 Forge Instructions: detailed notes on how to operate the forge 
 
 A guide for future smiths produced by Zhorak; includes important details such as the need to use his seal (8-97) to activate the enhanced forge.
@@ -1784,7 +1806,6 @@ A guide for future smiths produced by Zhorak; includes important details such as
 See text at 8-100.
 
 3
-
 Charcoal sketch of a dwarf
 
 This is an accurate rendering of Zhorak himself, made by one of his apprentices. It could be 
@@ -1792,19 +1813,16 @@ sold to an Archontean collector for 75 gp, or presented to the dwarven kingdom o
 (see World of Archontos appendix) for favors.
 
 4
-
 Formula and sketches for creating a chime of opening
 
 The formula reduces the amount of arcanum required by 1/4, and the amount of additional costly materials and time by ½.
 
 5
-
 Formula and sketches for creating a set of golden bracers of archery
 
 The formula reduces the amount of arcanum required by 1/4, and the amount of additional costly materials and time by ½.
 
 6
-
 Formula and sketches for creating a set of leather and steel gauntlets of ogre power
 
 The formula reduces the amount of arcanum required by 1/4, and the amount of additional costly materials and time by ½.
@@ -1853,11 +1871,10 @@ Other than these features, the chamber is mundane. Furniture includes a bed fram
 
 ### 8-99: Gallery of Goods
 
-This 12’-tall, barrel-arched hallway was used to display Zhorak’s finished items for visiting dignitaries. The floor is red marble. The walls are lined with 4’-tall ledges sheathed in blue marble. The ceiling was painted yellow, but most of the paint is flaking off in large strips. For obvious reasons, none of Zhorak’s goods remain, with one exception: his enchanted blade, feather (see new magic items). It lies in a pile of paint flakes on the east ledge, waiting for 
-someone to speak the command word that activates it from super-heavy to ‘light as a feather’.
-
-Treasure:
-The magic sword, feather (see new magic items).
+* Zhorak’s finished works were displayed here for visiting dignitaries.
+	* This 12’-tall, barrel-arched hallway is floored in red marble, with 4'-tall ledges of blue marble around the edges.  The ceiling was painted yellow, but has mostly flaked away in large strips. 
+	* None works remain, except the enchanted blade, Feather (new).
+		* It lies in a pile of paint flakes on the east ledge, waiting for the command word that shifts it from super-heavy to ‘light as a feather’.
 
 ### 8-100: The Forge of Zhorak
 
@@ -1935,42 +1952,50 @@ Behind the northern wall of 8-100 stands a terrible iron golem, the creation of 
 
 ### 8-101: Forge Materials
 
-Zhorak used this chamber to store basic materials for the forge. Much remains: 40 5-lb ingots of iron (5 cp per bar), 25 5-lb ingots of steel (5 sp per bar), 20 5-lb ingots of silver (250 sp per bar), and 2 5-lb ingots of gold (250 gp per bar). There is also a large, but very heavy (100 lb), spool of silver thread (250 gp) and a similar spool of solder (250 cp).
+* Zhorak used this chamber to store basic materials for the forge.
+	* 40 5-lb ingots of iron (5 cp per bar), 25 5-lb ingots of steel (5 sp per bar), 20 5-lb ingots of silver (250 sp per bar), and 2 5-lb ingots of gold (250 gp per bar).
+	* Two large, 100 lb spools, one of silver thread (250 gp), one of solder (250 cp).
 
 ### 8-102: Teleport destination from 8-7c
 
-A 6’-diameter circle of shiny lapis tile is set into the western ell of this intersection; those using the teleporter at 8-7C arrive on the lapis circle.
+* A 6’-diameter circle of shiny lapis tile is set into the western ell of this intersection
+	* Those using the teleporter at 8-7C arrive on the circle.
 
 ### 8-103: Vats
 
-Two 4’-diameter, 4’-tall stone vats once used in metal preparations occupy this storage area. Two human skeletons are slumped against the vats, bereft of equipment. One of the vats contains 4” of water floating above oil; the other is filled with strong acid. A very large gray ooze waits on the ceiling for other victims; it (and not the acid) ate all of the equipment of these treasure hunters.
+* Two 4’-wide, 4’-tall stone vats stand, once used in metal preparations.
+	* Two human skeletons are slumped against the vats, bereft of equipment. 
+	* One vat contains 4” of water atop oil; the other is filled with strong acid.
+
+* A very large gray ooze waits on the ceiling; it (and not the acid) ate the equipment of these treasure hunters.
 
 1 gray ooze: SZ L; AL N; AC 8; MV 10’; HD 3+3; HP 23; #AT 1; Dmg 2-16. Special attacks: corrode metal. Special defenses: impervious to spells; immune to heat and cold. 
 
 ### 8-104: Arcanum Mother Lode
 
-This chamber holds one of the largest pieces of arcanum (see new magic items) discovered in Arden Vul, and is the reason why Zhorak built his forge in this location. The door to the chamber is locked, with the key lost long ago. The chamber within is hemispherical and approximately 40’ in diameter. The east end is dominated by an enormous pulsating orange rock, the arcanum source. A finely made set of chisels and hammers lie on the floor by the arcanum. Approximately 900 lb of usable arcanum may be harvested here. Of course, the usual side-effects for magic users are applicable.
+* The door to the chamber is locked, the key lost long ago. 
+* This 40' high, hemispherical chamber holds one of the largest pieces of arcanum (new) in Arden Vul, and is why Zhorak built his forge here.
+	* The east end is dominated by an enormous pulsating orange rock.
+	* A set of fine chisels and hammers lie on the floor beside the arcanum (900 lb can be harvested). 
 
 ## Level 8: 105 - 120
 
 ### 8-105: Trapped Cube
 
-Trapped within the corridor fragment is a large and very hungry gelatinous cube. It prefers to wait immediately behind the door frame, hoping that incautious prey will step through the door and into its body. A pile of gold coins lies on the floor beyond the cube.
+* Trapped within the corridor fragment is a large and very hungry gelatinous cube.
+	* It waits immediately behind the door frame, so incautious prey might step through the door and into its body.
+	* A pile of 33 ancient gold solidi lies on the floor beyond the cube.
 
 1 extra-large gelatinous cube: SZ L; AL N; AC 8; MV 60’; HD 6; HP 39; #AT 1; Dmg 2-8. Special attacks; paralysis; surprise on 1-3. Special defenses: partial immunity to cold; immune to electricity, fear, hold, paralyzation, polymorph, and sleep.
 
-Treasure:
-33 ancient gold solidi (see Arden Vul items).
-
 ### 8-106: Almost Empty Chamber
 
-The walls of this former guardroom are covered with poorly-executed images of Archontean legionaries marching, advancing in line, and carousing. A 3’ layer of trash litters the floor and rises against the walls on all sides, with the important exception of a 10’-diameter circle in the exact center of the chamber. This circle is completely clean of dust and debris, except for a dwarf-sized skeleton that appears to be reaching for the object in the center of the circle. 
-
-That object is a cylinder, about 6” in diameter and 18” tall, made of a yellow metallic substance. A red light blinks on the top face of the cylinder.
-
-Despite the ominous impressions given by the cylinder, it is nothing more than a rudishva dust ionizer (see new technological items), a device that keeps 10’-diameter areas clean of dust. How the dust ionizer came to be present here is unknown. The skeleton is without equipment.
-
-Secret Door (east): The door is normal to find and opens by pushing inwards with brute force.
+* The walls of this former guardroom are covered with poorly-executed images of Archontean legionaries marching, advancing in line, and carousing.
+	* A 3’ layer of trash covers the floor and rises against the walls on all sides, save for a 10’ circle in the exact center of the chamber.
+		* A cylinder (6” diameter, 18” tall) of yellow plasteel is at the circle's center.   A red light blinks froma top it.  The circle is completely clean of dust and debris.
+			* Despite the ominous impression, this is nothing but a rudishva dust ionizer (tech), keeping a 10’-diameter area clean.
+		* A dwarf-sized skeleton that appears to be reaching for the object in the center of the circle. 
+	* Secret Door (east): opens by pushing inwards with brute force.
 
 ### 8-107: Tomb of Sulla Bellator
 
@@ -2001,22 +2026,20 @@ The armor of Sulla (see new magic items); Sulla’s battle axe (see new magic it
 
 ### 8-108: Blue Haze Lichen
 
-This cavern is covered with a patch of psychotropic pale-blue lichen known as “blue haze” (see new flora). The lichen covers all the walls, floor and ceiling of this cave.
-
-Secret Door (to 8-106): The door is easy to spot from this side (1 in 4), but must be pulled inward to open.
+* This cavern (walls, floor, and ceiling) is covered with a psychotropic, pale-blue lichen known as “blue haze” (flora).
+* Secret Door (to 8-106): easy to spot from this side (1 in 4), pulled inward to open.
 
 ### 8-109: Cave with Pool
 
-The center 20’x20’ section of this cavern is filled with 15’ of crystal clear water that has dripped from the walls over the ages. A skeleton in rotted leather armor can be glimpsed at the bottom of the pool. A strange, translucent ochre jelly floats atop the pool, ready to devour any who swim for the skeleton.
+* The center 20’x20’ section of this cavern is filled with 15’ of crystal clear water that has dripped from the walls over the ages.
+	* A skeleton in rotted leather armor can be glimpsed at the bottom of the pool.  Next to it is  a battered steel box holding 4 pearls (100 gp).
+* A strange, translucent ochre jelly floats atop the pool.
 
 1 translucent ochre jelly: SZ M; AL N; AC 8; MV 30’; HD 6; HP 39; #AT 1; Dmg 3-12. Special defenses: lightning divides into half-sized creatures.
 
-Treasure:
-Next to the dead adventurer at the bottom of the pool is a battered steel box containing four 100 gp pearls.
-
 ### 8-110: Tunnel down to 9-150
 
-This tunnel corkscrews downward until it debouches at area 9-150.
+* This tunnel corkscrews downward until it debouches at 9-150.
 
 ### 8-111: Memory Trap
 
@@ -2030,6 +2053,8 @@ Secret Door (northeast): The door is normal to detect, and opens in one of two w
 GM Note: Most victims of the memory erasing trap end up as food for the rakshasas in 8-125, but a few manage to stumble away to other parts of Arden Vul. Four such victims are Hakreon (currently at 7-76), Kormak (currently at 8-132), Justine Two-Hands (currently at 9-130), and Niskim the goblin (8-114). The GM may wish to include other wanderers who have lost their memory. Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
 
 ### 8-112: Paranoid Adventurers
+
+* Put some known, friendly NPC adventurers here, to be freaked out about the party.
 
 This strange worked chamber is protected by two locked steel doors with closable eye-slits. Inside are two adventurers who have lost their minds in the bliss pollen. The pair has holed up inside the chamber, fearful of the imaginary threats they perceive without. They talk furtively to any visitor through the eye-slit in either door before inevitably freaking out in a loud and possibly violent tantrum. Any conversation prior to the freakout is likely to be 
 paranoid and weird. If the adventurers are somehow subdued and allowed to recuperate in a safe environment for 3-6 weeks, they are grateful to their rescuers and offer information about their route into the Halls. 
@@ -2049,27 +2074,34 @@ Laertes’s Spell book: Burning hands, charm person, detect magic, friends, grea
 
 ### 8-113: Ledge
 
-This ledge is 40’ above the floor of the cavern of the bliss flowers (8-67), and provides access to other parts of the level. It is littered with the husks of dead giant bees.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* This ledge is 40’ above the floor of the cavern of the bliss flowers (8-67).
+	* It is littered with the husks of dead giant bees.
 
 ### 8-114: Confused Goblin
 
-Niskim, the goblin commander of a failed expedition sent by Weskenim (SL4-22) to locate the fabled scepter of the goblins (see new magic items), wanders about here in a daze. In addition to having been affected by the bliss pollen, Niskim has had her memories erased by one of the figurines in 8-111. She is unable to provide any information about herself, her mission, or how/why she happens to be present in this cavern.
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* Niskim, goblin commander of a failed expedition sent by Weskenim (SL4-22) to locate the fabled scepter of the goblins (new), wanders about in a daze.
+	* In addition to the bliss pollen, Niskim has had her memories erased by one of the figurines in 8-111.
+	* She can't offer any information about herself, her mission, or how/why she happens to be present in this cavern.
 
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
-
-Niskim, goblin sub-chief (as a hobgoblin): SZ M; AL LE; AC 5; MV 60’; HD 1+1; HP 7; #AT 1; Dmg 1-8 (long sword). Possessions: long sword. She carries a pouch with six pieces of 
-jasper (50 gp each) and a piece of dried human skin on which is drawn a crude sketch of a scepter along with the words “Find this!” in goblin. The sketch reflects the goblin court’s best guess as to what the scepter looks like, and bears little resemblance to the actual object, which may currently be found at 8-69.
+Niskim, goblin sub-chief (as a hobgoblin): SZ M; AL LE; AC 5; MV 60’; HD 1+1; HP 7; #AT 1; Dmg 1-8 (long sword). 
+* Possessions:
+	* long sword
+	* a pouch with six pieces of jasper (50 gp each)
+	* A piece of dried human skin on which is drawn a crude sketch of a scepter along with the words “Find this!” in goblin. The sketch reflects the goblin court’s best guess as to what the scepter looks like, and bears little resemblance to the actual object, which may currently be found at 8-69.
 
 ### 8-115: Dead End with Skeleton
 
-The skeleton of a dwarf lies crushed under a large piece of stone in the northeast extension. This is Lozor Hornfels, 2nd Tapper under Zhorak the Smith (see 8-97). Lozor fled the forge area in antiquity but got lost in the pollen haze and was killed in a freak accident here. He carries the true ring of Zhorak (see new magic items), which he stole from Zhorak and which is necessary to open the secret door to 8-97.
+* GM Note: connect this to the doppelgangers somehow?  No lifestone.  Why would he have the ring?
+	* He had the ring and tried to keep it safe from those murdering the priests of Ptah.  He swallowed it when doppelgangers were about to find him.  They killed and looted him (not crushed by a boulder).  Now the ring lies within his bare bones.
+	* He's got a note implying the priesthood is beset and he is to "keep it safe".
 
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
-
-Treasure: 
-The ring of Zhorak (see new magic items); Lozor’s inert dwarven life-stone (see new magic items).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* The skeleton of a dwarf lies crushed under a large piece of stone in the northeast extension.
+	* This was Lozor Hornfels, 2nd Tapper under Zhorak the Smith (see 8-97), who fled the forge in antiquity, was lost in the pollen haze, and killed in a freak accident.
+		* The true ring of Zhorak (new), stolen from Zhorak, used to open the secret door to 8-97.
+		* Lozor’s inert dwarven life-stone (see new magic items).
 
 ### 8-116: Knights’ Rest
 
@@ -2090,20 +2122,25 @@ Rorgo, varlet to Sir Discord, and a 5th-level male Thorcin fighter: SZ M; AL CN;
 
 ### 8-117: Wet Cave
 
-This cave drips with moisture. For every two turns spent here, there is a 20% (noncumulative) chance that Sir Discord and Rorgo will emerge into the cave from the secret door to 8-116. In such circumstances, Discord takes lethal action immediately in order to preserve the secret location of the knights’ rest hall. Discord will pursue to the death those who flee from him.
+* This cave drips with moisture.
+	* 20% every 2 turns that Sir Discord and Rorgo emerge into the cave from the secret door to 8-116.
+		* Discord will take immediate lethal action to preserve the secret location of the knights’ rest hall and will pursue to the death those who flee from him.
 
-20% chance every two turns for Sir Discord and Rorgo (see stats at 8-116).
+* 20% chance every two turns for Sir Discord and Rorgo (see stats at 8-116).
 
 ### 8-118: Table Rock Cave
 
-A 15’-diameter rock formation in the center of this cave is flattened and resembles a round table. On it rest three tarnished silver cups, upside down (20 gp each). One cup pins a note to the rock: “Discord – return to the Citadel at once. The Master needs you.” It is sealed with an image of a sunburst. 
-
-GM Note: The note refers to Sir Discord, currently in 8-116; the Master is Malachite, aka the leader of the Sun-Scarred Knights SL10A-32).
+* A 15’-wide, flat rock formation in the center of this cave resembles a round table.
+	* On it rest 3 tarnished silver cups, upside down (20 gp each).
+		* One cup pins down a note: “Discord – return to the Citadel at once. The Master needs you.” It is sealed with an image of a sunburst.
+			* GM Note: refers to Sir Discord, currently in 8-116; the Master is Malachite, aka the leader of the Sun-Scarred Knights SL10A-32).
 
 ### 8-118a: Trap! Hole in the Floor
 
-To the east of the large cave at 8-118 is a jagged, 6’-diameter hole in the tunnel floor. It leads through 3’ of rock, through the ceiling of area 8-124, and then drops 10’ to the floor. Due to the light and uneven conditions of the tunnel, the hole should be treated as a pit 
-trap, albeit with a bonus for discovery (+10% to detect traps). Those falling through the hole take 2-7 HP damage, and are immediately confronted by the denizens of 8-124.
+* To the east of the large cave at 8-118 is a jagged, 6’-diameter hole in the tunnel floor.
+	* It leads through 3’ of rock, through the ceiling of 8-124, and drops 10’ to the floor.
+		* Due to the light and uneven conditions of the tunnel, the hole should be treated as a pit trap, with a +10% to detect traps.
+		* Those falling take 1d6+1, and are confronted by the denizens of 8-124.
 
 ### 8-119: Temple of Besa: Entrance
 
@@ -2141,25 +2178,23 @@ when the blessed person encounters those he/she finds attractive. The direct cha
 D4 Gift Side Effect
 
 1
-
 Magical Protection: petitioner receives spell immunity for 1-4 hours
 
 Increased libido; petitioner must save vs. spells each time he/she encounters an attractive person. The side effect lasts for 1 month.
 
 2
-
 Information: Besa truthfully and fully answers three questions posed by the petitioner
 
 Increased bloodthirstiness: petitioner must save vs spells or actively seek to bloodily dismember all enemies, regardless of risk. Effect lasts for a month.
 
 3
-
 Beauty: petitioner’s CHA is increased. For those with CHA 15 or above, the increase is +1; for 
 those with CHA less than 15, the increase is +2. 
 
 Loss of wisdom: petitioner’s WIS is reduced by two for a month.
 
-4 A pure gift: Besa grants a wish to the petitioner
+4
+A pure gift: Besa grants a wish to the petitioner
 
 Geas: Besa imposes a geas on the petitioner, either to restore one of her temples here or elsewhere, to achieve 20 sexual conquests in two months, or to slaughter bloodily and publicly ten powerful foes (at GM’s wish) within four months. 
 
@@ -2175,7 +2210,10 @@ The statue of Besa (20,000 gp), removal of which bears heavy consequences as des
 
 ### 8-121: Temple of Besa: Cubicles
 
-The entrance to each of these five cubicles appears to be covered by a thick, luxurious black-velvet drape. Inside each cubicle is a 3’-tall stone platform strewn with red, yellow, and black silk pillows. In antiquity these cubicles served as private rooms for the depravities of the followers of Besa. The luxurious appearance of these cubicles is the product of an illusion cast and maintained by the rakshasas (see 8-120, 8-124, and 8-125). In reality, the drapes and pillows are rotting and tattered. 
+* The entrance to each of these 5 cubicles is covered by a thick, luxurious black-velvet drape.
+	* Inside each is a 3’-tall stone platform strewn with red, yellow, and black silk pillows.
+	* In antiquity, these served as private rooms for the frolicks of the followers of Hathor.
+* The luxurious appearance of these cubicles is an illusion cast by the rakshasas (see 8-120, 8-124, and 8-125).  In reality, the drapes and pillows are rotting and tattered. 
 
 ### 8-122: Temple of Besa: Inner Fane
 
@@ -2203,7 +2241,8 @@ A djed amulet (see new magic items), in the left hand of the statue of Besa. The
 
 ### 8-123: Temple of Besa: Cubicles
 
-These five cubicles are identical to those at 8-121, with drapes, pillows and low platforms. The furnishings appear luxurious, but are in fact the product of illusions produced by the rakshasas.
+* These five cubicles are identical to 8-121, with drapes, pillows and low platforms.
+	* The furnishings appear luxurious, but are really of illusions from the rakshasas.
 
 ### 8-124: Temple of Besa: Common Room
 
@@ -2258,44 +2297,44 @@ On one of the shelves among the clay heads is a platinum key to the Obsidian Gat
 
 ### 8-127: Goat Pen
 
-The rakshasas (8-125) keep a small herd of six goats penned up in this crumbling corridor fragment. They use the goats for meat if they are unable to acquire other victims, but might also use the goats as part of a longer term plan to trick unwary PCs who accept the premise of their habitation. Half of a wine cask filled with musty water sits at the south end of the fragment.
+* The rakshasas (8-125) keep a herd of 6 goats penned up in this crumbling corridor fragment.
+	* The goats are meat, if they are unable to acquire victims, but also help convince visitors into accepting the premise of their habitation.
+* Half of a wine cask filled with musty water sits at the south end of the fragment.
 
 ### 8-128: Empty Cave 
 
-This cave contains nothing of note save the bliss pollen. The tunnel connecting it to 8-68 is blocked by creepers; it takes 1-2 rounds to force one’s way through the creepers.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* This cave contains nothing.
+	* The tunnel connecting it to 8-68 is blocked by creepers (1-2 rounds to force one’s way through).
 
 ### 8-129: Cave with Tunnel up to 6-60
 
-This nondescript cave connects to a thoqqua tunnel that leads up to the Arena area of Level 6 (area 6-60). The tunnel is steep and quite smooth, and reduces movement by half. Two extremely large thoqqua are still rooting around in the rock surrounding this cave. 
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* This nondescript cave connects to a thoqqua tunnel leading to the Arena area (6-60).
+	* The tunnel is steep and quite smooth, halving movement.
+	* The tunnel connecting it to 8-68 is blocked by creepers (1-2 rounds to force one’s way through).
 
-The tunnel connecting it to 8-68 is blocked by creepers; it takes 1-2 rounds to force one’s way through the creepers.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* 2 extremely large thoqqua are still rooting around in the rock around this cave. 
 
 2 large thoqqua: SZ M; AL N; AC 2; MV 120’, 30’ burrowing through rock; HD 4; HP 28, 24; #AT 1 and 1; Dmg 4-32/2-12. Special attacks: heat. Special defenses: healed by fire.
 
 ### 8-130: Cave with Glyph
 
-This cave features several impressive bits of flowstone in beautiful caramel colors. One of the flows emerges from the northern niche, which is naturally quite damp. The source of this flow has almost (but not quite) obscured a glowing green wizard mark featuring the entwined letters “K” and “B” (for Kel Bormol; see SL3-2A). The glyph is a wizard’s cache (see new spells), place here by Kel Bormol as a way to secure the key to his secret lair (8-133). 
-
-The password to the cache is, unsurprisingly, “Kel Bormol”; only by reciting this password or casting dispel magic at level 19 or above can the cache be opened.
-
-The cache contains a very large, cartoonish key that fits the lock on the door to 8-133. It also contains a bag of powdered platinum (1,000 gp) and a scroll of passwall.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* This cave features several impressive bits of flowstone in beautiful caramel colors.
+	* One flow emerges from the northern niche, which is naturally quite damp.
+		* The flow has not quite obscured a glowing green wizard mark featuring the entwined letters “K” and “B” (for Kel Bormol; see SL3-2A).
+			* It marks a wizard’s cache (new spells), placed by Kel Bormol to secure the key to his secret lair (8-133). 
+				* The password to the cache is, unsurprisingly, “Kel Bormol” (can also cast Dispel Magic at 19th level).
+			* The cache contains a very large, cartoonish key that fits the lock on the door to 8-133, as well as a bag of powdered platinum (1,000 gp) and a scroll (passwall).
 
 ### 8-131: Cave with Pit
 
-In the center of this crossroads cave is a 15’-diameter, 40’-deep shaft, bored in the distant past by Kel Bormol (SL3-2A) as part of his failed initial effort to construct a hidden sanctum. More recently some cruel adventurers have covered the opening with a mat of reeds sprinkled with rock dust and sand. 
-
-Trap: Pit trap with obscured reed-mat cover. Anyone crossing the mat has a 75% chance of falling through into the pit, thus taking 4-24 HP damage. 
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
-
-Treasure:
-At the bottom of the pit is a sack holding three doses of varumani knock-out juice (see Arden Vul items).
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* In the center of this crossroads cave is a 15’-diameter, 40’-deep shaft, recently covered with a reed mat sprinkled with rock dust and sand by cruel adventurers.
+	* It was bored in the distant past by Kel Bormol (SL3-2A) as part of a failed initial effort to construct a hidden sanctum.
+	* (75%) a person crossing the mat falls through into the pit, for 4d6 damage.
+	* At the pit's bottom is a sack holding 3 doses of varumani knock-out juice (av items).
 
 ### 8-132: Cave with a Weeping Warrior
 
@@ -2335,15 +2374,20 @@ spells); clenched fist, incendiary cloud, irresistible dance, mass charm, mind b
 
 ### 8-134: Concealed Cave with Rock Formations 
 
-The entrance to this cave is concealed behind the mat of vines and creepers that fills area 8-68; it takes 1-3 rounds to push through the creepers. The cave is 25’ tall and is surprisingly devoid of bliss pollen; it is cool and damp. Three large rock formations stand in the center of the sandy floor; the northern two extend all the way to the ceiling, but the southern formation is only 20’ tall. Atop the southern formation is a fire ring besides which lies the skeleton of a long-dead dwarven adventurer, still wearing equipment. Also atop the southern formation is a small patch of aqua vitae mushrooms, enough for 6 doses (see new flora).
-
-Treasure:
-Six doses of aqua vitae mushrooms (see new flora), and on the skeleton: a dwarf-sized suit of banded mail +3; an inert dwarven life-stone (see new magic items) bearing the name in Dwarven Runic of Gypsum Hornfels; a fine but non-magical war hammer inscribed with the clan ‘Hornfels’ insignia; a silver belt (250 gp); and a backpack with a coil of rope, six spikes, a hammer, two flasks of oil, and a bag of carefully polished marbles.
+* The entrance to this cave is concealed behind the mat of vines and creepers that fills 8-68 (1d3 rounds to push through).
+* The cave is 25’ tall, cool and damp, and surprisingly devoid of bliss pollen.
+	* Three large rock formations stand in the center of the sandy floor, the northern two reaching the ceiling, but the southern only 20’ tall.
+		* Atop the southern formation is a fire ring; beside it lies the skeleton of a long-dead dwarven adventurer.
+			* Dwarf-sized banded mail +3; an inert dwarven life-stone (bears the name of Gypsum Hornfels in Dwarven); a fine war hammer (inscribed to clan ‘Hornfels’); a silver belt (250 gp); and a backpack (coil of rope, 6 spikes, a hammer, 2 flasks of oil, and a bag of carefully polished marbles).
+		* Also atop the southern formation is a small patch of aqua vitae mushrooms (6 doses, flora).
 
 ### 8-135: Cave with Warning Signs 
 
-Three thick spears are thrust into the sand that covers the floor of this cave; a varumani skull is perched atop each one. The skulls have been there for a long time (hundreds of years), and the purpose for their placement has been long forgotten. Jammed into one of the skulls is a piece of parchment that provides the following bit of advice in Archontean: “the tomb of Marius the Great is now inaccessible, save through the hidden door in the propagandistic 
-‘shrine’ to the archon. One must still placate the guardians.” [GM: the note refers to the shrine of Marius (6-145) with its ceiling exit that leads eventually to the tomb of Marius (6-154)].
+* Three thick spears are thrust into the sandy floor; a varumani skull perched atop each.
+	* They have been here for centuries, their purpose long forgotten.
+	* Jammed into one skull is a piece of parchment.
+		* (Archontean) “the tomb of Marius the Great is now inaccessible, save through the hidden door in the propagandistic ‘shrine’ to the archon. One must still placate the guardians.”
+			* Refers to the shrine of Marius (6-145) with its ceiling exit leading eventually to the tomb of Marius (6-154).
 
 ## Level 8: 136 - 150
 
@@ -2419,33 +2463,43 @@ Lonely: The bell ringer is teleported to a random location in Arden Vul. To dete
 
 ### 8-138: Caves with Iron Ore 
 
-A vein of iron ore runs east from this crossroads in the cave network. The rust monsters from 8-140 use the vein as a primary source of nutrition and, as a result, there is a 20% chance for the pair to be present here. A pair of pick handles lie in the intersection; the rust monsters corroded and ate the metal heads.
+* A vein of iron ore runs east from this crossroads in the cave network.
+	* A pair of pick handles lie in the intersection; the rust monsters ate the metal heads.
+
+* (20%) the 2 rust monsters from 8-140 chiefly are here.  The ore is their main food source.
 
 2 rust monsters (20%): see stats in 8-140.
 
 ### 8-139: Cave 
 
-A pile of wooden boards and two wooden wheels stand in the center of this chamber; formerly a cart, the rust monsters who live in 8-140 ate away the metal fittings that held it together. The circular knob to the east has a deep (30’) well of cold, clear spring water. There is a 20% chance that the rust monsters are here, poking around the cart remnants or drinking water. A beautifully carved, 3’-tall, jade statuette of a warrior turning to fire an arrow over his shoulder rests at the bottom of the well. The warrior wears his long hair in two topknots that drop down his back, has a long, droopy mustache, and wears lacquered armor; all of these features mark him as a Khumus nomad from the west, and not an Archontean.
+* A pile of wooden boards and two wooden wheels from a former cart stand in the center of this chamber (the rust monsters (8-140) ate away the metal fittings).
+* The circular knob to the east has a deep (30’) well of cold, clear spring water. 
+	* At the bottom is a beautifully carved, 3’-tall, jade statuette of a warrior turning to fire an arrow over his shoulder (4000 gp).
+		* The warrior has long hair in 2 topknots dropping down his back, a long, droopy mustache, and lacquered armor (a Khumus nomad from the west).
+
+* (20%) the rust monsters are here, poking around the cart remnants or drinking water. 
 
 2 rust monsters (20%): see stats in 8-140.
 
-Treasure:
-Jade statuette of a western nomad, worth 4,000 gp
-
 ### 8-140: Rust Monster Lair 
 
-A pair of mated rust monsters has made this cave their lair. It is scattered with broken stalagmites and small remnants of oxidized and digested metals. The rust monsters are quite agile, and are adept at jumping from the cave floor to the stalagmite fragments, and from there to any source of metal.
+* A pair of mated rust monsters makes this cave their lair.
+	* It is scattered with broken stalagmites and small remnants of oxidized and digested metals.
+	* The western niche has their nest.
+		* 3 rust monster eggs (450 gp). Tucked among them are 2 scrolls (hallow, harnessing the chaos).
 
-The western niche has their nest, in which are three rust monster eggs (worth 450 gp to a dealer in a large town). Tucked among the eggs are two spell scrolls.
+* The rust monsters are quite agile, adept at jumping from the cave floor to the stalagmite fragments, and then to any source of metal.
 
-The rust monsters are familiar with the varumani gang at 8-136, and occasionally visit that area seeking handouts of metal. 
-
-The sound of combat at 8-136 will eventually draw the rust monsters (15% for first three rounds of combat; chances rises by 5% per subsequent round). If not already encountered at 8-136, there is a 20% chance the pair will be scrounging in 8-138, a 20% chance they will be in 8-139, a 10% chance they will be in 8-141, and a 50% chance they will be present in this, their lair. Loud noise in any of the neighboring caves (8-138, 8-139, or 8-141) draws them in 1-4 rounds.
+* If not already encountered at 8-136
+	* (20%) the pair is scrounging in 8-138
+	* (20%) they are in 8-139
+	* (10%) they are in 8-141
+	* (50%) they are here in lair.
+* Loud noise in any neighboring caves (8-138, 8-139, or 8-141) draws them in 1d4 rounds.
+* The rust monsters are familiar with the varumani gang at 8-136, and occasionally visit seeking handouts of metal. 
+	* The sound of combat at 8-136 eventually draws them (15% for first 3 rounds, then increasing by 5% per round).
 
 2 rust monsters: SZ M; AL N; AC 2; MV 180’; HD 5; HP 36, 29; #AT 2; Dmg nil. Special attacks: corrode metal.
-
-Treasure:
-A clerical scroll with hallow on it, and a magic user scroll with the spell harnessing the chaos on it (see new spells for each). Also three rust monster eggs (450 gp each).
 
 ### 8-141: Lurker Cave
 
@@ -2535,25 +2589,27 @@ Treasure:
 
 ### 8-144: Phocion’s Dividers
 
-Phocion’s most valued item is hidden in this secret chamber. 
-
-The secret door that leads to the chamber can only be opened by solving the puzzle in 8-144 or by employing very powerful magic (passwall, etc.).
-
-The chamber within is simple and undecorated. A stone pedestal stands in the center of the chamber, surrounded by four simple stone benches. Atop the pedestal, wrapped in a piece of yellow silk, are Phocion’s dividers, a potent magical artifact (see new magic items).
-
-Treasure:
-Phocion’s dividers (see new magic items).
+* The secret door to this chamber can only be opened by solving the puzzle in 8-144 or employing very powerful magic (passwall, etc.).
+* Phocion’s most valued item is hidden in this secret chamber, simple and undecorated.
+	* A stone pedestal stands in the center, surrounded by 4 simple stone benches.
+	* Atop the pedestal, wrapped in yellow silk, are Phocion’s dividers (new).
 
 ### 8-145: Broken Hall 
 
-This worked chamber has suffered badly from the deprivations of time. Two corridor fragments end in cave-ins. Strands of plaster hang from the ceiling, and mounds of broken tiling dot the floor. In the northeast corner stands a striking statue in basalt, with ivory accents (hair, clothing, sandals). The pediment reads “Eustachius the cantor, who located the Singing Grotto.” Strangely, Eustachius appears in this guise without ornate Thothian decoration, merely as a handsome man of middle age dressed in a tunic. He points to the south with one arm, and holds a cithara in the other. The statue is of high quality, and despite weighing 550 lb, could bring 900 gp if sold. [GM Note: one of Eustachius’s personal books may be found at 3-57].
+* This worked chamber has suffered badly from the deprivations of time.
+	* Two corridor fragments end in cave-ins.
+	* Strands of plaster hang from the ceiling, and mounds of broken tiling dot the floor.
+	* Northeast corner: a striking statue in basalt, with ivory accents (hair, clothing, sandals).  It lacks ornate decoration; merely a handsome man of middle age in a tunic.  He points south with one arm, and holds a cithara in the other.
+		* The pediment reads “Eustachius the cantor, who located the Singing Grotto.”
+		* The statue is high quality (900 gp, 550 lbs).
+		* GM Note: one of Eustachius’s personal books may be found at 3-57.
 
 ### 8-146: Entrance to the Singing Grotto
 
-Amid the collapsed stonework of this ruined hallway sits the still-functional destination for the teleporter at 8-7E. That destination is marked by a 5’-diameter circle of rose quartz set in the floor. Next to the circle are three backpacks containing some functional adventuring items.
-
-Treasure:
-The backpacks contain three 50’ coils of rope; a dozen caltrops; a hammer and chisel; a sack with 549 sp; a fish-shaped control rod for the eggs at 4-85; a functional rudishva lesser power supply (see new technological items); four wax candles; a small silver mirror; and six days of still-edible iron rations.
+* Amid the collapsed stonework of this ruined hallway is a 5’-diameter circle of rose quartz set in the floor.
+	* Next to the circle are three backpacks containing some functional adventuring items.
+		* Three 50’ coils of rope; a dozen caltrops; a hammer and chisel; 549 sp; a fish-shaped control rod (see) 4-85); a lesser power supply (tech); 4 wax candles; a small silver mirror; and 6 days of still-edible iron rations.
+	* This is the still-functional destination for the teleporter at 8-7E.
 
 ### 8-147: Antechamber to Singing Grotto 
 
@@ -2582,42 +2638,45 @@ Next to one of the corpses: a shattered antique black-ware vase. If reassembled 
 
 ##### 8-147a: A is for Aerodis
 
-When this door is opened, 1-3 hostile aerodes (see new monsters) are released. 
+* When this door is opened, 1-3 hostile aerodes (new) are released. 
 
 1-3 aerodes (see new monsters): SZ M; AC 0 or 6; MV 350’ flying (Class A); HD 6; HP 42, 41, 34; #AT 1; Dmg 3-12. Special attacks: beneficial or detrimental songs. Special defenses: +2 or better weapons to hit; healed by fire; immune to magic missile, charm, confusion, hold, and mind-affecting spells.
 
 ##### 8-147b: B is for Baboons
 
-When opened, this door releases a greater guardian of Thoth. The guardian allows those it confronts here or in 8-148 three rounds to recite the Litany of Light (see Arden Vul books) or else it attacks.
+* When opened, this door releases a greater guardian of Thoth.
+	* It allows those it confronts here or in 8-148 three rounds to recite the Litany of Light (books), else it attacks.
 
 1 greater guardian of Thoth (see new monsters): SZ L; AL LN; AC 0; MV 120’; HD 8; HP 55; #AT 4 or 1; Dmg 1-8/1-8/1-8/1-8 or 1-12; MR 20%. Special attacks: fear, stun. Special defenses: +1 or better weapons to hit; teleport without error 2/day.
 
 ##### 8-147c: C is for Care
 
-Opening the door causes a helpful manifestation of Thoth to appear in the guise of a cleric of Thoth, complete with full ceremonial garb. The ‘cleric’ offers healing and succor to any who invoke Thoth: it can cast cure light wounds x3; cure serious wounds x2; cure deafness (reverse of the illusionist spell deafness); cure blindness; neutralize poison; and remove curse.
-
-“Cleric” manifestation of Thoth, immune to attacks.
+* Opening the door causes a helpful manifestation of Thoth to appear as a cleric of Thoth in full ceremonial garb.
+	* It offers healing and succor to any who invoke Thoth (cure light wounds x3; cure serious wounds x2; cure blindness/deafness 2x; neutralize poison; remove curse).
 
 ##### 8-147d: D is for Delight
 
-Opening this door causes a flight of some 500 starlings to burst down the hallway to 8-148, where they circle, form a murmuration in the shape of an ibis, and then dart through the sinkhole at 8-148G and thence into the far reaches of Arden Vul. If summoned again, the flock may take other forms at the GM’s wish.
+* Opening this door causes a flight of 500 starlings to burst down the hallway to 8-148, where they circle, form a murmuration in the shape of an ibis, then dart through the sinkhole at 8-148G and into the far reaches of Arden Vul.
+	* If summoned again, the flock may take other forms at the GM’s wish.
 
 ##### 8-147e: E is for Entertainment
 
-Opening this door releases a peaceful aerodis (see new monsters). Unless attacked, the aerodis spends 1-4 turns singing beautiful, six-part melodies. In this period it runs through 1-2 of its ‘good’ songs. If attacked it functions as a hostile aerodis.
+* Opening this door releases a peaceful aerodis (new).
+	* Unless attacked, it spends 1-4 turns singing beautiful, six-part melodies (running through 1 or 2 of its ‘good’ songs).
 
 1 aerodis (see new monsters): SZ M; AC 0 or 6; MV 350’ flying (Class A); HD 6; HP 39; #AT 1; Dmg 3-12. Special attacks: beneficial or detrimental songs. Special defenses: +2 or better 
 weapons to hit; healed by fire; immune to magic missile, charm, confusion, hold, and mind-affecting spells.
 
 ##### 8-147f: F is for Fire
 
-Opening this door releases a pack of hell hounds.
+* Opening this door releases a pack of hell hounds.
 
 8 hell hounds: SZ M; AL LE; AC 4; MV 120’; HD 5; HP 37, 35, 34, 33, 33, 32, 32, 30; #AT 1; Dmg 1-10. Special attacks: breathe fire; surprise on 1-4 in 6. Special defenses: surprised only on 1 in 2. Special: 50% to spot hidden or invisible.
 
 ##### 8-147g: G is for Guardians 
 
-When opened, this door releases an imperial stone guardian. Since Eustachius is not present, the guardian immediately attacks. Once one guardian has been summoned, subsequent results for this chamber produce nothing (that is, only 1 imperial stone guardian may be summoned).
+* When opened, this door releases an imperial stone guardian (only 1 ever).
+	* With Eustachius is not present, the guardian immediately attacks.
 
 1 imperial stone guardian (see new monsters): SZ L; AL N; AC -2; MV 90’; HD 8+3; HP 58; #AT 2; Dmg 3-18/3-18; MR 50%. Special defenses: +2 or better weapons to hit; immune to 
 missiles (including magic missile), fire, cold, mind-affecting spells (e.g. charm), and most immobilizing spells (immune to entangle, hold monster, web).
@@ -2761,10 +2820,12 @@ lies in the center of the chamber. The west wall boasts a rack with several musi
 
 ### 8-150: Leather-Making Cave
 
-This cave smells strongly of decaying animal tissue. Four natural pools are found along its walls. In its center are four frames made of bone and wood. Muq (8-151) stretches animal skins on the frames after working them over in the pools. As a result the pools are rather filthy and smell quite badly. At the far end of the cave is a pile of bones and rotting viscera; most of the bones are those of small animals like goats, lizards, and snakes.
-
-Treasure:
-One of the skins stretching on the rack is a basilisk skin that Muq is preparing for Cinna Minux (7-122); that skin is worth 325 gp. The other three skins are more mundane, and might fetch 25-75 gp each.
+* This cave smells strongly of decaying animal tissue.
+	* Along its walls are 4 natural pools, murky and smelly.
+	* In its center are 4 frames of bone and wood with skins tanning on them.
+		* Muq (8-151) stretches animal skins on the frames after working them over in the pools, leaving them filthy.
+		* One skins on the rack is a basilisk skin (Muq is preparing it for Cinna Minux (7-122), 325 gp). The other 3 skins are mundane (25-75 gp each).
+	* At the far end of the cave is a pile of bones and rotting viscera; mostly of goats, lizards, and snakes.
 
 ## Level 8: 151 - 171
 
@@ -2787,15 +2848,24 @@ In Muq’s sealed box are the following: a choker made of gold inset with onyx (
 
 ### 8-152: Destroyed Weapons Stash
 
-The northwest lobe of this cave contains two rickety wooden racks, each of which was once filled with spears. The spears, which are not uniform but vary in size and material, lie broken in pieces about the cave. Graffiti in Mithric is scrawled across the western wall of the cave: “Let the enemy take notice! They won’t be able to use this stuff now!” and “Marcus, optio X-S”. Any Archonteans would recognize the ‘X-S’ abbreviation as meaning the Xth legion of heavy infantry (scutarii); Marcus was an optio (minor officer) in this legion in antiquity. Beneath the spears are the bones of a heqeti hopper (see new monsters).
+* The northwest lobe of this cave holds 2 rickety wooden racks, once filled with spears.
+	* The spears varying in size and material, lie broken in pieces about the cave.
+	* Graffiti is scrawled across the western wall of the cave (Mithric) “Let the enemy take notice! They won’t be able to use this stuff now!” and “Marcus, optio X-S”.
+		* Any Archonteans would recognize the ‘X-S’ abbreviation as meaning the Xth legion of heavy infantry (scutarii).
+		* Marcus was an optio (minor officer) in this legion in antiquity.
+	* Beneath the spears are the bones of a heqeti hopper.
 
 ### 8-153: Headless Statue
 
-A rather lumpish, headless statue stands near the entrance to this small, muddy cave. It depicts a being with a squat torso, thick thighs, and human-esque arms that each hold a spear. It is, of course, a heqeti hopper. The head was struck off in antiquity and is lost. As a curiosity the statue might bring 200 gp to the statue brokers (AV-22). Buried in the muck at the foot of the statue, however, is a heqeti spore bomb (see Arden Vul items), wrapped carefully in a piece of lizard hide.
+* A lumpish, headless statue stands near the entrance to this small, muddy cave.
+	* It is a heqeti hopper (squat torso, thick thighs, and human-esque arms, each holding a spear).  The head was struck off in antiquity and is lost.
+	* As a curiosity the statue might bring 200 gp to the statue brokers (AV-22).
+	* Buried in the muck at the statue's foot, is a heqeti spore bomb (av items), wrapped carefully in lizard hide.
 
 ### 8-154: Cave with Small Cliff
 
-This cave is relatively flat and dry. A small cliff (30’ high) looks down from the southern corridor into area 8-156 (although a descending passage also allows access to that location). Signs of a recent feast are present: two skeletons of subterranean lizards that have been stripped of all edible meat and marrow, and a litter of empty stoneware jugs and bottles surround a small campfire. The fire is warm, but no longer active. The debris is a warning of the presence of the spriggans to the north.
+* This cave is relatively flat and dry, with a small cliff (30’ high) looking down from the southern corridor into 8-156.
+	* The remains of a still-warm campfire, 2 gnawed subterranean lizard skeletons, and a litter of empty stoneware jugs and bottles mark a former spriggan (svartalfar) feast.
 
 ### 8-155: Spriggan Trouble
 
@@ -2817,7 +2887,11 @@ The alcohol is usable, or could be sold for 275 gp. The scrolls are a scroll of 
 
 ### 8-156: Spider Cave
 
-A phase spider makes its home in this tall (20’) cave. The spider’s web runs across the upper register of the cave, allowing it to drop down on unsuspecting prey as they cross below. A number of dead starlings (6-13) lie on the cave floor; inspection reveals they have been drained of their bodily fluids. The spider has no treasure. Occasionally it visits area 8-148 through the sinkhole, but is intimidated by the music of the Great Head; only if the sounds of prey moving in 8-148 persist for 6 rounds without any music might the spider move to investigate (25% chance).
+* A phase spider makes its home in this tall (20’) cave.
+	* Its web runs across the upper register of the cave, allowing it to drop down on unsuspecting prey below.
+	* A number of dead starlings (6-13) lie on the cave floor; drained of bodily fluids.
+
+* Occasionally the spider visits  8-148 through the sinkhole, but is intimidated by the music of the Great Head.  Only sounds of prey in 8-148 persisting for 6 rounds without any music might bring it to investigate (25%).
 
 1 phase spider: SZ L; AL N; AC 7; MV 60’, 150’ in web; HD 5+5; HP 38; #AT 1; Dmg 1-6. Special attacks: poison (-2 to saves). Special defenses: phasing.
 
@@ -2860,25 +2934,29 @@ In the unfinished southern corridor: a mobile stone cutter with a greater rudish
 
 ### 8-158: Heqeti Sign Mold
 
-A patch of vermillion mold covers the southern half of this cavern. Motion with 10’ of the mold causes the mold to adjust its hyphae to reveal a pictographic message: a crude heqeti hopper with an arrow pointing east. The mold is, in fact, a heqeti sign-mold (see new flora), placed here ages ago to direct lost heqeti to the staging ground at 8-162
+* A patch of vermillion heqeti sign-mold (flora) covers the southern half of this cavern.
+	* Motion with 10’ of the mold causes it to adjust its hyphae to reveal a pictographic message: a crude heqeti hopper with an arrow pointing east.
+	* It was placed here ages ago to direct lost heqeti to the staging ground at 8-162.
 
 ### 8-159: Crossroads Cave with Pukel-mander
 
-This deserted cave seems to have been partly worked in antiquity, and several broken bits of primitive mining equipment are scattered around (shovels, picks, etc.). The southern extension contains the remains of a heqeti pukel-mander (see new magic items). The head of the pukel-mander has been hacked off and lies on the sandy floor; excrement has been shoved into its eye holes, and crude graffiti in Mithric covers its torso (sample: ‘back to the 
-swamp, hoppers!’ and ‘teleport this!’). Needless to say the teleport function of the ‘mander no longer functions. A piece of dirty linen thread runs across the floor of the chamber, leading towards both 8-160 and 8-161.
+* This deserted cave was partly worked in antiquity, with broken bits of primitive mining equipment scattered around (shovels, picks, etc.).
+	* The southern extension holds remains of a heqeti pukel-mander (new).
+		* The head of the pukel-mander has been hacked off and lies on the sandy floor; excrement shoved into its eye holes, and crude graffiti covers its torso (Mithric) ‘back to the swamp, hoppers!’ and ‘teleport this!’).
+	* A piece of dirty linen thread runs across the floor, leading towards 8-160 and 8-161.
 
 ### 8-160: Deserted Cave
 
-A whiff of a breeze from the west may be felt in this cave. The desiccated bodies of a dozen starlings summoned in antiquity from 8-147D lie on the floor. A dirty linen thread snakes towards the east (8-159); it eventually leads to 8-161.
+* There is a whiff of a breeze from the west.
+	* The desiccated bodies of a dozen starlings (summoned in antiquity from 8-147D) lie on the floor.
+	* A dirty linen thread snakes towards the east (8-159); eventually leading to 8-161.
 
 ### 8-161: Cave with Secret Door 
 
-One end of the linen thread found in 8-159 ends here, next to the corpse of an adventurer. The cave floor is sandy and shows much evidence of traffic, albeit very old traffic: drag marks, the footprints of heqeti hoppers, small bits of broken bone and stone, etc. A ranger notices this immediately; others have a 1 in 4 chance to spot the signs.
-
-Secret Door (east): This rare heqeti secret door is normal to detect. Presenting a tear of Kauket (see new magic items) causes the door to swing open easily; otherwise, the door must be pried open using brute strength. 
-
-Treasure:
-The corpse of the human adventurer holds a flask of oil, a bandoleer of throwing knives, a broken staff, a bulls-eye lantern, and a backpack with 537 ancient silver pennies (see Arden Vul items), a pair of silver earrings shaped like heqeti hoppers (125 gp), four red spinel gems (100 gp each), and a scroll with the following magic user spells: wall of fire, extension II, and enchant an item.
+* One end of the linen thread in 8-159 ends here, next to the corpse of an adventurer.
+	* Flask of oil, bandoleer of throwing knives, a broken staff, a bulls-eye lantern, and a backpack (537 ancient silver pennies), a pair of silver earrings shaped like heqeti hoppers (125 gp), 4 red spinel gems (100 gp each), a scroll (wall of fire, extension II, enchant an item).
+* The cave floor is sandy and with much evidence of very old traffic (drag marks, the footprints of heqeti hoppers, small bits of broken bone and stone, etc).
+* Secret Door (east): a rare heqeti secret doo. Swings opens when presented a tear of Kauket (new).  Can be pried open with brute strength. 
 
 ### 8-162: Hidden Heqeti Staging Area
 
@@ -2901,9 +2979,10 @@ Amid the litter: three intact heqeti spears, an intact stone club, a pair of fin
 
 ### 8-163: Cave with Concealed Door
 
-This empty cave has a moist, muddy floor. The south wall is covered with another patch of vermillion heqeti sign mold (see new flora). Approaching it causes the mold to form two pictographs: a crude spear pointing west, and an image of a heqeti hopper.
-
-The mold also covers a small (3’-diameter) hole in the south wall. The hole is a concealed entrance to the tunnel leading to 8-159.
+* This empty cave has a moist, muddy floor.
+	* The south wall is covered with a patch of vermillion heqeti sign-mold (flora). 
+		* Approaching causes it to form two pictographs: a crude spear pointing west, and an image of a heqeti hopper.
+		* The mold also covers a small (3’-diameter) hole in the south wall, a concealed entrance to the tunnel to 8-159.
 
 ### 8-164: Watery Cave
 
@@ -2947,24 +3026,27 @@ The cave is also home to a large and very hungry giant snapping turtle that alte
 
 ##### 8-166a: Hidden Spring
 
-Down the submerged tunnel is a spring that feeds fresh water into the caves at 8-164 and 8-166. The spring takes the form of a slow leak through a narrow crack, and is not traversable. 
+* Down the submerged tunnel is a spring (a slow leak through a narrow crack, not traversable) that feeds fresh water into the caves at 8-164 and 8-166.
 
 ### 8-167: Deep Cave 
 
-The entrance ledge drops 20’ to the cave floor below. On the floor of the cave are the corpses of several animals who fell into this pit. Beneath them, and invisible to casual sight, is the skeletal corpse of an Archontean scholar who, having overindulged in wine, also fell 
-into the pit and died of his injuries. The scholar still wears a ring of fire resistance and carries a small wooden coffer carved with scenes of Archontean justice. The coffer contains two rudishva breathers (see new technological items) and a slate tablet with the following notes, in Mithric: “The crystal guardians completely ignore us, save when we attempt to harvest the giant crystal columns. We need more resources, better defenses, and stronger protection 
-against the environment within.” 
-
-Treasure:
-Two rudishva breathers (see new technological items).
+* The entrance ledge drops 20’ to the cave floor below.
+	* On the floor of the cave are corpses of several animals who fell into this pit.
+	* Beneath them, and invisible to casual sight, is the skeleton of an Archontean scholar.
+		* Having overindulged in wine he also fell into the pit and died.
+		* Ring of fire resistance, small wooden coffer carved with scenes of Archontean justice (holds 2 rudishva breathers (tech and a slate tablet marked with a note).
+			* (Mithric): “The crystal guardians completely ignore us, save when we attempt to harvest the giant crystal columns. We need more resources, better defenses, and stronger protection against the environment within.” 
 
 ### 8-168: Archontean Corridor Fragment
 
-This worked section of hallway is palpably warm and humid. A plaque hammered to the wall reads, in Mithric: “Do not proceed past the environment veil without proper protection. Their language remains elusive. Those without authorization may be trapped.” Scholars in the late Archontean period began to finish this section of tunnel in preparation to a full-scale exploitation of area 8-169.
-
-The northern niche contains a 5’-diameter circle of rose quartz set in the floor: the destination point for the teleporter at 8-7F. 
-
-The southern passage is blocked by a special, permanent wall of force; it allows passage into area 8-169, but only allows passage back to 8-168 to those who know the password (“open”, in Mithric).
+* This worked section of hallway is palpably warm and humid.
+	* Scholars in the late Archontean period began to finish this section of tunnel in preparation to a full-scale exploitation of 8-169.
+	* A plaque is hammered to the wall.
+		* (Mithric): “Do not proceed past the environment veil without proper protection. Their language remains elusive. Those without authorization may be trapped.”
+	* The northern niche contains a 5’-diameter circle of rose quartz set in the floor
+		* It is the destination point for the teleporter at 8-7F. 
+	* The southern passage is blocked by a special wall of force.
+		* It allows passage to those who speak the password (“open”, in Mithric).
 
 ### 8-169: Crystalline Cave 
 
@@ -2985,8 +3067,13 @@ The corpses of any slain selenite guardians produce 6-600 gp worth of selenite c
 
 ### 8-170: Tunnel to Unmapped Area
 
-The destination of this tunnel is left to the GM to devise. It most certainly leads, at least indirectly, to a dwelling of the selenite guardians, deep below the earth. Perhaps it also leads to the subterranean realms of dwarves, gnomes, and dark elves? Of course, the tunnel can simply be a dead end if preferred.
+* The destination of this tunnel is left to the GM to devise.
+	* It most certainly leads, at least indirectly, to a dwelling of the selenite guardians, deep below the earth.
+	* Perhaps it also leads to the subterranean realms of dwarves, gnomes, and dark elves?
+	* Of course, the tunnel can simply be a dead end if preferred.
 
 ### 8-171: Tunnel to Nowhere
 
-Currently this tunnel ends in a cave-in. It does, however, provide the GM with an opportunity for expansion, should such expansion be desired. In such cases, the tunnel could lead to other, unexplored areas of the Halls, or even directly to the Underearth.
+* Currently this tunnel ends in a cave-in.
+	* It could provide the GM with an opportunity for expansion, if desired.
+	* In such cases, the tunnel could lead to other, unexplored areas of the Halls, or even directly to the Underearth.
