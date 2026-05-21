@@ -1125,6 +1125,11 @@ Asbjorn, 2nd-level male Wiskin thief and cousin of Birgir: SZ M; AL LN; AC 5; MV
 
 Fine Liquors
 * Proprietor: Skellan Skindros
+* 
+	* Gunnar the doppelganger has kidnapped and replaced Skellan Skindros (see 6-95a)
+		* He knows him from the Forum of Set.  Skellan is also chained up here for questioning.  He was new to the Peddler's corner and Hal's Corner, so less well known and easier to replace.
+		* Birgir and Asbjorn, also from the Forum and now in the Peddler's area, feel like Skellan is acting a little weird.  They used to drink in the Inn of the Lost, but he always passes now, goes off to Hal's.
+* 
 * Personality: Snobby; would like to discuss and sell fine wines, but most of his sales come from lichen ale. Will warm to anyone who buys fine alcohol and engages in discussion of the same. See also 4-33 (wines, alchemy supplies).
 * Secret? None
 	* Not secret, but he visits Hal the varumani's bar in 6-64 fairly often to supply his finer wares.

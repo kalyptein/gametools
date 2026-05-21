@@ -201,6 +201,7 @@ Arden Vul system
 	* Level 6
 		* entities
 		* dressing
+		* Goblin artist's treasure map to Callista
 	* SL-9
 		* entities
 		* dressing

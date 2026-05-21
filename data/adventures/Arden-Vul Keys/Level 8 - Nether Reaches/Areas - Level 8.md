@@ -124,8 +124,34 @@ Ecath has two cauldrons on tripods. One is a tripod of heating (see new magic it
 
 Secret Compartment (north wall): Ecath has also used his down time to carve a small secret hole in the wall behind a loose stone. The compartment is detected as a secret door. Here he keeps the loot delivered to him by Nicetas per their arrangement. There is a 1 in 6 chance that another other group is present in this chamber. Roll on the following table to determine its composition:
 
-5
+D8 Traveler Statistics
 
+1
+Ten goblins who have heard a rumor that the long-lost and fabled (to goblins) scepter of 
+the goblins (see new magic items) is located on Level 8. Although they don’t really know where they are going, they are talking with Ecath, and trying to screw up their courage to head into area 8-7. The scepter is found at 8-69.
+
+10 goblins: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 7, 7, 6, 5(x3), 4, 4, 3, 3; #AT 1; Dmg 1-6
+
+2
+A rare deserter from the Children of Deino, or beastmen (see new monsters), Karol thought 
+he could start over on Level 8, but has become deterred by its obvious dangers. He tries to glom on to a party as a scout, but will betray his new friends at the earliest opportunity, hopefully after he has stolen some of their gear. He carries only 25 sp but is an adept pick-pocket (66%). 
+
+Karol the beastman trooper (see new monsters): SZ S; AL LN; AC 6; MV 90’; HD 1+1; HP 7; #AT 1; Dmg 1-6. Special attacks: tactics. Possessions: spear, short sword, short bow
+
+3
+Adventurers returning from an expedition into the Nether Reaches. They were ambushed by 
+Nicetas and Co. (8-5) and are badly wounded. They have 1-3 treasures they might sell, and 
+some knowledge about areas 8-3 to 8-5 and 8-7 to 8-8. They plan to hole up in the Inn of the Lost (6-7 to 6-20).
+
+Party of NPC adventurers (select from NPC appendix)
+
+4
+A party just arrived in 8-1. They are overconfident because they possess a (false) map 
+and  testament purporting to show an easy route into the Nether Reaches through the route 8-7 to 8-8 to 8-11.
+
+Party of NPC adventurers (select from NPC appendix)
+
+5
 One (or more) of the varumani hunters (see new monsters) bearing monster parts from the 
 Nether Reaches to sell at the Troll Market (7-76). 
 
@@ -136,7 +162,6 @@ Roll d4 to determine which hunter:
 4. Several of the above. Roll d6: 1-3= 2 of the above; 4-6: all 3 of the above
 
 6
-
 A magic user with a hot rumor about a location in the Nether Reaches and who even possesses a map to that area (only 25% the map is accurate). 
 
 Roll d4:
@@ -148,7 +173,6 @@ Roll d4:
 NPC magic user and flunkies (select from NPC appendix)
 
 7
-
 A mixed party of varumani (see new monsters), goblins and humans bearing a captive monster to area 6-91 in the Arena. They carry 10-100 gp in coins and/or gems and have a 10% chance of bearing 1-4 potions as well. 
 
 Roll d8 for creature: 
@@ -162,7 +186,6 @@ Roll d8 for creature:
 3. 1-6 human arena wranglers: SZ M; AL N; AC 8; MV 120’; HD 1-1; HP 7, 6, 5, 5, 4, 4; #AT 1; Dmg 1-6 (spear). Possessions: leather armor; spear
 
 8
-
 A Sun-Scarred Knight (see new monsters). GM should select one from the new monsters entry list.
 
 The knight is on his way to the Troll Market (7-76) to consult with Sir Prudence (7-76A). He is also hot on the trail of one of his personal interests. He/she will attempt to mediate in the case of impending hostilities, but refuses to join the fighting on either side.

@@ -225,16 +225,23 @@ D8 Noise/Effect
 
 ### 9-2: The Dread Risers (up to 7-2)
 
-The 3,666 steps of this staircase commence at the small hillock (9-3) on the chasm floor. From there, they circle a stone ridge through a series of switchbacks before joining the chasm wall; they then climb the chasm wall until they reach area 7-2. The Dread Risers 
-average about 3’ in width and climb a total of about 300’. Those using light on the Risers, and especially on the ridge, are likely to alert the quicklings (see 9-14 to 9-15), the huntsmen (9-50) and other denizens of the giant cavern. 
+* The 3,666 steps of this staircase commence at the small hillock (9-3) on the chasm floor.
+	* They circle a stone ridge through a series of switchbacks before joining the chasm wall, then climb the until they reach 7-2. 
+	* The Dread Risers average about 3’ in width and climb a total of 300’. 
+	* A fragment of an ancient heqeti bridge protrudes from the ridge around which the Risers circle, originally connected to 9-31.
+		* The gap in the broken segments is 15’ wide, and could be jumped.
 
-A small fragment of the broken end of an ancient heqeti bridge protrudes from the ridge around which the Risers circle. The fragment originally connected to area 9-31; the gap in the broken segments of the bridge is 15’ wide, and thus could be jumped.
+* Light on the Risers, and especially on the ridge, likely alerts the quicklings (see 9-14 to 9-15), the huntsmen (9-50) and other denizens of the giant cavern. 
 
 ### 9-3: Hillock with Statue
 
-A small hillock of stone rises offers a commanding view of the mushroom groves that surround it (9-4). The hillock lies 15’ above the floor of the grove, and also serves as the starting point for the Dread Risers (9-2). 
-
-A battered, 8’-tall statue of Wadjet, the ancient Archontean deity of protection, stands on the hillock just where it adjoins the chasm wall. Wadjet appears as a young woman clothed in a simple tunic, albeit with the head of a cobra. Despite missing both arms, and possessing numerous gouges along its torso, the statue retains its beautiful polychromed head. An aura of calm and peace is palpable, since, indeed, the protective spirit of Wadjet is still present here. Should anyone beseech Wadjet orally and by name, the entire hillock will immediately be covered with the equivalent of a protection from evil spell; the radius of the protection is the entire hillock, and it lasts for 6 turns. If the statue is beheaded, the protection function disappears forever.
+* A small hillock of stone offers a commanding view, 15' above the mushroom groves surrounding it (9-4), and is the starting point for the Dread Risers (9-2).
+	* A battered, 8’-tall statue of Wadjet, ancient Archontean deity of protection, stands on the hillock just where it adjoins the chasm wall.
+		* Wadjet appears as a young woman in a simple tunic, with the head of a cobra.
+		* Damaged (missing both arms, gouges in it torso), it still retains its beautiful polychromed head.
+		* An aura of calm and peace is palpable.
+			* If Wadjet is beseeched by name, the entire hillock is placed under Protection from Evil for 6 turns.
+			* If the statue is beheaded, the idol's power is ended.
 
 ### 9-4: Southern Mushroom Groves 
 
@@ -365,70 +372,88 @@ A strike force of 4 quicklings: SZ S; AL CE; AC -3; MV 960’; HD 1 ½; HP 11, 1
 
 ### 9-5: Effluent Canals
 
-Generations of inhabitants of Arden Vul have tossed their human and other waste into the chasm, where much of it ends up floating in the lake. The quicklings have capitalized on this pungent but useful resource. They skim waste from the lake, and direct it into a network of small canals that run through the mushroom groves and end up in the cesspit (9-16). The canals are typically about 2.5’ wide and just as deep. Most of the time the canals are filled with a sludgy, brown, foul-smelling liquid that flows slowly towards the southeast. The quicklings can alter the viscosity of the canals through use of the sluice gate (for details on its operation, see 9-10). Given the contents of the canals, those stepping into them or otherwise coming into contact with the effluent have a 5% chance of catching a disease. Searching among the effluent is generally fruitless, as the quicklings take pains to keep the canals raked clean. Still there is a 10% chance per turn of locating a gemstone (roll randomly for type) or 1-4 randomly-determined coins.
+* Generations of inhabitants of Arden Vul have tossed their human and other waste into the chasm, where much of it ends up floating in the lake.
+	* The quicklings capitalize on this pungent but useful resource, skimming waste from the lake, and directing it into a network of small canals that run through the mushroom groves and end in the cesspit (9-16).
+* The canals are typically about 2.5’ wide and as deep.
+	* Most of the time the canals are filled with a sludgy, brown, foul-smelling liquid that flows slowly towards the southeast.  The quicklings can alter the viscosity using the sluice gate (see 9-10 for details).
+	* Coming into contact with the effluent has a 5% chance of inflicting a disease.
+	* Searching the effluent is generally fruitless, as 
+	* The quicklings take pains to keep the canals raked clean of anything valuable.
+		* 10% / turn of searching: a random gemstone or 1d4 random coins.
 
 ### 9-6: Mushroom Market
 
-A small fire burns merrily in the center of this clearing in the midst of the mushroom forest. Around it stand three wooden racks from which hang specimens of dried mushrooms. Two 
-quicklings are always present here, and there is a 33% chance that a true varumani is also present to trade for mushrooms. All of the usual residents of this marketplace are willing to talk first, but if visitors prove threatening a full complement of quicklings will arrive within 2 rounds (see 9-15), and the varumani will join in on the quicklings’s side. Visitors are welcome to participate in the trading: the quicklings prefer gemstones, exotic alcohol, or amulets 
-made of precious metals (and/or magic) in trade. The quicklings sometimes have varumani knock-out juice (see Arden Vul items) for sale, although they would never admit this to the varumani. One has to ask specifically. 
+* A small fire burns merrily in the center of this clearing amid the mushroom forest.
+	* Around it stand three wooden racks, drying specimens of mushrooms.
+		* There are always be at least 3 bundles available for sale or trade.
 
-The following chart indicates the likelihood that a given variety is available for sale, as well as the asking price for a standard six-specimen bundle of any given variety. There will always be at least three bundles available for sale or trade.
+* Two quicklings are always present here.
+* (33%) a true varumani is here to trade for mushrooms.
 
-Varietal Chance of Bundle
+* The usual residents of the marketplace are willing to talk first.
+	* If visitors prove threatening, a full complement of quicklings arrives in 2 rounds (see 9-15), and the varumani will join in on the quicklings’s side.
+* The quicklings prefer gemstones, exotic alcohol, or amulets of precious metals (and/or magic) in trade.
 
-Asking 
-Price
-White ribs 90% 15 gp
-White bulbs 50% 25 gp
-Blue trumpets 50% 20 gp
-Orange lamps 25% 10 gp
-Eye openers 20% 35 gp
-Cloud caps 15% 40 gp
-Aqua vitae 15% 60 gp
-Mind eaters 15% 30 gp
-Red veil 15% 50 gp
-Slow steppers 15% 75 gp
-New Variety of GM’s creation 5% N.A.
-Varumani knock-out juice (see Arden Vul items)
-
-20% (one dose) 250 gp
+Varietal, Chance of Bundle (6 doses), Asking Price
+* White ribs 90% 15 gp
+* White bulbs 50% 25 gp
+* Blue trumpets 50% 20 gp
+* Orange lamps 25% 10 gp
+* Eye openers 20% 35 gp
+* Cloud caps 15% 40 gp
+* Aqua vitae 15% 60 gp
+* Mind eaters 15% 30 gp
+* Red veil 15% 50 gp
+* Slow steppers 15% 75 gp
+* New Variety of GM’s creation 5% N.A.
+* Varumani knock-out juice (av items), 20% (one dose) 250 gp
+	* The quicklings won't admit having this to the varumani. One has to ask specifically. 
 
 2 quicklings: SZ S; AL CE; AC -3; MV 960’; HD 1 ½; HP 10, 9; #AT 3; Dmg 1-4/1-4/1-4. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. There is a 33% chance that any given quickling has coated his/her dagger with spider venom. One has 2-4 skulls filled with acid (2-8 HP, 1 HP splash) 
 attached to his/her belt.
 
 1 true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail.
 
-Treasure:
-Bundles of mushrooms (6 doses per bundle).
-
 ### 9-7: Muck Field
 
-A band of thick, viscous muck runs between the lake (9-65) and the southern mushroom groves (9-4). This muck is the product of centuries of effluent being tossed down the chasm and washing up on the shore of the lake. Delimited by the berm (9-9) for most of its length, the entire field is malodorous and quite slippery. It is also potentially dangerous; spending time in it has a 5% cumulative chance per turn of causing a disease. Because the muck is about 3’ deep in most places, movement by creatures weighing 50 lb or more is difficult: movement is halved, and combat penalties apply (-1 to initiative and -2 to ‘to hit’ rolls). A band of hungry bestial varumani hunts in the northeastern portion of the field (see 9-8 for details); they are inured to the disease-effect of the muck field. Should the dam on Sub-Level 6 (SL6-25) be destroyed, the muck fields will be swept clear of anything that is not stone. After 7-10 hours, this area will drain, leaving a fresh layer of sticky muck.
+* A band of thick, viscous muck has accumulated from centuries of effluent tossed down the chasm and washing up on the shore of the lake.
+	* It runs between the lake (9-65) and southern mushroom groves (9-4), delimited by the berm (9-9) for most of its length.
+	* The entire field is malodorous and quite slippery.
+		* 5% cumulative chance per turn of causing a disease.
+		* 3’ deep in most places; +1x difficult terrain and -1 ish and -2 attack for creatures weighing 50+ lb.
+
+* A band of hungry bestial varumani hunts in the northeastern portion of the field (see 9-8), they are inured to the diseases of the muck field. 
+
+* If the dam on Sub-Level 6 (SL6-25) be destroyed, the muck fields are swept clear of anything other than stone.
+	* After 7-10 hours, the area drains, leaving a fresh layer of sticky muck.
 
 ### 9-8: Varumani Cave
 
-Six renegade bestial varumani (see new monsters) dwell in the northeastern portion of the muck field, below the escarpment leading up to the plateau (9-49). They have dug a cave into that escarpment, in which they store their small supply of treasure.
+* Six renegade bestial varumani (new) dwell in the northeastern portion of the muck field, below the escarpment leading up to the plateau (9-49).
+	* They have dug a cave into that escarpment, where they store their small treasures.
+	* In a smelly sack: 5,972 cp, 4,119 sp, 1,956 gp; an ever-full inkwell, a glass sphere of arcane assistance – dispelling (new).
 
-The renegades are adept at combat in the muck. They have developed a number of clever combat tactics, including waiting until foes are mired in the muck, running and sliding into battle, and attempting to grapple and then drown foes in the slime. 
+* The renegades are adept at combat in the muck, with tactics such as:
+	* Waiting until foes are mired in the muck, running and sliding into battle, and attempting to grapple and then drown foes in the slime. 
+* The bestial varumani are afraid of their true and lesser varumani cousins.  They cower in their cave whenever such beings are sighted (e.g. the hunters, see 7-14).
+* Members of this band slain as wandering monsters can be replaced in 2-5 weeks.
+	* If the band be wiped out, however, the cave remains empty. 
 
-The bestial varumani are afraid of their true and lesser varumani cousins, however, and cower in their cave whenever such beings are sighted (e.g. the hunters – see 7-14). Members of this band slain as wandering monsters can be replaced in 2-5 weeks; should the band be wiped out, however, the cave remains empty. Should the dam on Sub-Level 6 (SL6-25) be destroyed, the cave will fill almost completely with water. After 7-10 hours, the 
-cave will drain, leaving a layer of sticky muck but taking with it all 
-the varumani’s treasure.
+* If the dam at SL6-25 is destroyed, the cave will fill almost completely with water, sweeping away all the varumani’s treasure.
+	* After 7-10 hours, the cave drains, leaving a layer of sticky muck.
 
 6 bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 58, 55, 53, 52, 50, 49; #AT 3; Dmg 3-6/3-6/3-10 Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
 
-Treasure:
-In a smelly sack the renegades have accumulated: 5,972 cp, 4,119 sp, 1,956 gp; in addition there is an ever-full inkwell and a glass sphere of arcane assistance – dispelling (see new magic items for each).
-
 ### 9-9: Berm and Bridge
 
-A 6’-tall, 4’-wide berm runs in an arc along the northern edge of the mushroom groves before climbing the escarpment to the plateau (9-49). The top of the berm is flat and well-trodden, exhibiting the signs of many feet, both bare and booted. It crosses the inlet of the 
-lake on a shaky bridge of rope and planks affixed by iron rods to the berm. The berm serves to protect the mushrooms from being inundated with too much effluent and water, and serves as a rough barrier to the trolls living at 9-8. It also allows both quicklings and larger creatures to move more swiftly through the muck field. 
+* A 6’-tall, 4’-wide berm runs in an arc along the northern edge of the mushroom groves before climbing the escarpment to the plateau (9-49).
+	* The top is flat and well-trodden, exhibiting signs of many feet, bare and booted.
+	* At the lake's inlet is a shaky rope-and-plank bridge, affixed by iron rods to the berm.
+	* The berm protects the mushrooms from being inundated with too much effluent and water.
+	* Resting on the southernmost tip of the berm is a crude wicker cage containing 3 baindara. They are hungry and will bond easily with rescuers.
 
-Resting on the southernmost tip of the berm is a crude wicker cage containing 3 baindara. They are hungry and will bond easily with rescuers.
-
-Should the dam on Sub-Level 6 (SL6-25) be destroyed, the berm will be inundated by the water that is released from the drowned canyon. After 7-10 hours, this area will drain, leaving a layer of sticky muck on a much-weakened berm.
+* If the dam at SL6-25 be destroyed, the berm is inundated by the water released from the drowned canyon.
+	* After 7-10 hours, the area drains, leaving a layer of sticky muck on a much-weakened berm.
 
 3 baindara (see new monsters): SZ S; AL N; AC 8; MV 150’, 150’ gliding; HD 1-1; HP 3, 3, 2; #AT 1; Dmg 1-2.
 
@@ -468,19 +493,16 @@ The founder’s mattock (see new magic items).
 
 ### 9-13: Mushroom Drying Cave 
 
-A network of ropes crisscrosses the ceiling of this two-lobed cave. From the ropes hang scores of colossal mushrooms harvested by the quicklings in the groves (9-4). Five bundles of every species found in the groves are drying here (each bundle contains 6 doses of that variety).
+* A network of ropes crisscrosses the ceiling of this two-lobed cave.
+	* From them hang scores of colossal mushrooms harvested by the quicklings.  Five bundles (6 doses each) of every species found in the groves (9-4) are drying.
+	* The entry to 9-13a is a 3’-diameter hole in the ground, in the north lobe.
+	* Barred Door (north): small (3’x4’) and barred on the other side (9-14) (bend bars to break).
 
-Two quicklings are always present here, buzzing about to ensure their operation is working smoothly. Should combat break out, all inhabitants of 9-14 will arrive within 2 rounds.
-
-The entry to 9-13A is a 3’-diameter hole in the ground of the north lobe of this cave.
-
-Barred Door (north): The door to the north is small (3’x4’) and barred on the other side (9-14). A successful bend bars/lift gates roll can force the door from this side. 
+* Two quicklings are always present, buzzing about to ensure things are working smoothly.
+	* Should combat break out, all inhabitants of 9-14 will arrive within 2 rounds.
 
 2 quicklings: SZ S; AL CE; AC -3; MV 960’; HD 1 ½; HP 10, 9; #AT 3; Dmg 1-4/1-4/1-4. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. There is a 33% chance that any given quickling has coated his/her dagger with spider venom. One has 2-4 skulls filled with acid (2-8 HP, 1 HP splash) 
 attached to his/her belt.
-
-Treasure:
-50 bundles of dried mushrooms (6 doses per bundle).
 
 ##### 9-13a: Quickling Ossuary
 
@@ -495,8 +517,9 @@ The quicklings make use of the acid to give them a fighting chance against the v
 
 ### 9-14: Hall of the Quicklings
 
-* the quicklings are mutated grimalkin, estranged from the temple of Bast, who they feel could not protect them during the fall of the city, now worshipping Atlach-Nacha, the spider god, who has granted them magics and the ability to speak to his children the giant spiders.  I return they give him sacrifices.
-	* They have grown spindly and stunted (even smaller than normal grimalkin) and look emaciated
+* the quicklings are mutated grimalkin, estranged from the temple of Bast, who they feel could not protect them during the fall of the city, now worshipping Atlach-Nacha, the spider god, who has granted them magics and the ability to speak to his children the giant spiders.  In return they give him sacrifices.
+	* They have grown spindly and stunted (even smaller than normal grimalkin) and look emaciated.  Some have additional eyes, a mark of blessing (maybe even vestigial arms).
+	* They can speak to spiders, spider silk doesn't trap them (including web spells), and they can work well with it.  They are immune to spider venom.  Superb climbers and leapers.
 
 Rí Mear, lord of the quicklings, presides over his tribe from this hidden chamber. Only accessible from the network of tunnels that riddle the loam under the mushroom groves, the 8’-tall chamber offers a gruesome prospect to those who make it through the tunnels. A pile of dried mushrooms burns continuously in the center of the hall, shedding dim light on the splashes of blood that coat the walls. 
 
@@ -542,69 +565,81 @@ Up to 16 quicklings in strike teams of 4-6 individuals: AL CE; SZ S (2’), AC -
 
 ### 9-16: Cesspool
 
-The more liquid parts of the effluent that falls to the bottom of the chasm and is channeled through the quicklings’s canals (9-5) collect here in a foetid pool. The odor is palpable from 50’ away. Two quicklings, long inured to the stench, flit about the pool, using long bamboo skimmers to rescue anything small and interesting-looking. If bothered, one quickling zooms away to bring help while the other harasses the violators.
+* The more liquid parts of the effluent that falls to the bottom of the chasm is channeled through the quicklings’s canals (9-5) to collect here in a foetid pool.
+	* The odor is palpable from 50’ away.
+	* Entering the pool has a 20% chance of causing a disease.  One m ay also may discover a submerged tunnel leading to 9-24.
+* Vertical spider webs span the mouth of the southern lobe of the cavern leading to the cesspool (see 9-4) and horizontal webs cover the space above the grove and pit. 
 
-Their meager cache of valuables is deposited under a fallen mushroom cap.
+* Two quicklings, long inured to the stench, flit about the pool, using long bamboo skimmers to rescue anything small and interesting-looking.
+	* If bothered, one quickling zooms away to bring help while the other harasses the violators.
+	* Their meager cache of valuables is deposited under a fallen mushroom cap.
+		* 13 sp, 7 gp, a silver fibula studded with onyx (35 gp), and a single pearl earring (125 gp).
 
-Entering the pool provokes a 20% chance of catching a disease, although those doing so may discover a submerged tunnel leading to area 9-24.
-
-GM Note: Vertical spider webs span the mouth of the southern lobe of the cavern leading to the cesspool (see 9-4) and horizontal webs cover the space above the grove and pit. For every turn spent near the pit there is a cumulative 10% chance of attracting the attention of 2-4 giant spiders. The spiders do not bother the quicklings.
+* Every turn near the pit there is a cumulative 10% chance of notice by 1d3+1 giant spiders. They do not bother the quicklings.
 
 2 quicklings: SZ S; AL CE; AC -3; MV 960’; HD 1 ½; HP 8, 7; #AT 3; Dmg 1-4/1-4/1-4. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% 
 when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. There is a 33% chance that any given quickling has coated his/her dagger with spider venom. One has 2-4 skulls filled with acid (2-8 HP, 1 HP splash) attached to his/her belt.
 
 2-4 giant spiders (possibly): see stats at 9-17.
 
-Treasure:
-13 sp, 7 gp, a silver fibula studded with onyx (35 gp), and a single pearl earring (125 gp).
-
 ### 9-17: Spider Cave
 
-The two entrances to this cave lie 15’ above the floor of the mushroom forest. A tribe of eight giant spiders lives here and in the webs in the surrounding areas of the great cavern (see 9-4). The leader of the tribe goes by the name ‘Fang’ and is a bit larger than her fellows. The cave is filled with webs and the dried up husks of the spiders’ prey. In the southern tip of the cave is a partly-concealed opening, only 3’ in diameter, to another cave (9-18) that the spiders do not visit.
+* The two entrances to this cave lie 15’ above the floor of the mushroom forest.
+* A tribe of eight giant spiders lives here and in the webs in the surrounding areas of the great cavern (see 9-4).
+	* The cave is filled with webs and the dried husks of the spiders’ prey.
+		* 473 sp, 299 gp, two suits of human-sized chain mail, a medium metal shield +1, and an illusionist’s spell book. 
+	* In the southern tip of the cave is a partly-concealed opening, only 3’ in diameter, to another cave (9-18) that the spiders do not visit.
 
-The spiders prefer to hunt in the chasm, but do not object if prey comes to them. They are aggressive until confronted with overwhelming force, at which point they flee into the webs, the mushroom groves, or their cave-lair.
+* The leader of the tribe goes by the name ‘Fang’ and is a bit larger than her fellows.
+* The spiders prefer to hunt in the chasm, but do not object if prey comes to them. 
+	* They are aggressive until confronted with overwhelming force, at which point they flee into the webs, the mushroom groves, or their cave-lair.
+	* If members of the tribe may be encountered and slain elsewhere (9-4, 9-16).
 
-If members of the tribe are encountered and slain elsewhere (c.f. 9-4 or 9-16), they should be subtracted from the total here.
-
-Inhabitants:
 ‘Fang’, larger leader of the giant spiders: SZ L; AL CE; AC 2 MV 60’, 120’ in web; HD 6+6; HP 47; #AT 1; Dmg 3-12. Special attacks: poison (save at -2).
 
 7 giant spiders: SZ L; AL CE; AC 4; MV 30’, 120’ in web; HD 4+4; HP 35, 34, 33, 29, 27, 25, 24; #AT 1; Dmg 2-8. Special attacks: poison.
 
-Treasure:
-473 sp, 299 gp, two suits of human-sized chain mail, a medium metal shield +1, and an illusionist’s spell book. Spell Book: Audible glamer, color spray, dancing lights, darkness, gaze reflection, hypnotism, light, phantasmal force; blur, deafness, detect magic, hypnotic pattern, improved phantasmal force, mirror image, misdirection; continual light, dispel illusion, fear, paralysation, spectral force, suggestion; confusion, dispel exhaustion, emotion, 
-massmorph, phantasmal killer; chaos, major creation, maze, shadow door, shadow magic.
+Spell Book: Audible glamer, color spray, dancing lights, darkness, gaze reflection, hypnotism, light, phantasmal force; blur, deafness, detect magic, hypnotic pattern, improved phantasmal force, mirror image, misdirection; continual light, dispel illusion, fear, paralysation, spectral force, suggestion; confusion, dispel exhaustion, emotion, massmorph, phantasmal killer; chaos, major creation, maze, shadow door, shadow magic.
 
 ### 9-18: Hidden Cave
 
-Accessible only via a 3’-diameter opening in the southernmost portion of 9-17, this cave is unremarkable save for the corpse of Ketra Jiran, a dead human illusionist. She was the companion and lover of Erist Ellagelsson, princeling of the elven kingdom of Gallador (see SL6-5). She was overwhelmed by the spiders while looking for way to help Erist escape from his current fate. She managed to crawl into this cave before dying from the spider venom. By her corpse are two battered backpacks and other gear.
-
-Treasure:
-3 Arden Vul cakes (see Arden Vul items), 2 fully-charged rudishva lesser power supplies (see new technological items), a pair of boots of insulation, three darts of sleeping, a lover’s token (keyed to Erist Ellagelsson – see SL6-5), a potion of dispelling (see new magic items for the last four), and a rod of absorption (with 33 spell levels in it).
+* Accessible only via a 3’-diameter opening in the southernmost portion of 9-17, this cave is unremarkable save for the corpse of Ketra Jiran, a dead human illusionist.
+	* She was companion and lover of Erist Ellagelsson, princeling of the elven kingdom of Gallador (see SL6-5).
+	* She was overwhelmed by the spiders while looking for way to help Erist escape from his current fate.
+	* She managed to crawl into this cave before dying from the spider venom. By her corpse are two battered backpacks and other gear.
+		* 3 Arden Vul cakes (av items), 2 fully-charged rudishva lesser power supplies (tech), a pair of boots of insulation, 3 darts of sleeping, a lover’s token (keyed to Erist Ellagelsson, SL6-5), a potion of dispelling (new), and a rod of absorption (with 33 spell levels in it).
 
 ### 9-19: Warning Cave
 
-The cave is damp, with dripping water, numerous stalactites and stalagmites, and a healthy growth of furry green lichen. Two ‘scarecrows’ stand in the center of the cave, facing the exit into the chasm. One is a human adventurer, stripped of all gear save a loincloth, and tied to a triangular frame of wood. The other is a goblin, tied to a similar but smaller frame. Around the neck of each is hung a wooden shingle with the phrase “No Entry!” in Varumani. The human is dead, but only recently so, as the chasm insects are still feasting on his body. The goblin is still alive, but only barely so. His name is Baradim, and he is neither powerful nor significant. Still, King Weskenim (SL4-22) will be grateful for his return to the Goblin Warrens (to the tune of offering a reward of 500 sp); alternately, Baradim might volunteer his services as a guide and general dogsbody to his new friends. 
-
-The varumani miners placed the poor individuals here in the hopes they would deter the curious or hungry from moving into the silver mine area (9-21 to 9-28). 
-
-GM Note: The opening to the chasm lies 5’ above the layer of humus on which the mushrooms grow.
+* The cave is damp, with dripping water, numerous stalactites and stalagmites, and a healthy growth of furry green lichen.
+	* The opening to the chasm lies 5’ above the layer of humus on which the mushrooms grow.
+	* Two ‘scarecrows’ stand in the center of the cave, facing the exit into the chasm.
+		* One is a human adventurer, stripped save for a loincloth, and tied to a triangular frame of wood.  Recently dead, the chasm insects are still feasting.
+		* The other is a goblin (Baradim), tied to a similar frame.
+			* Baradim is still alive, but only barely so.  He is neither powerful nor significant; still, King Weskenim (SL4-22) will be grateful for his return to the Goblin Warrens (offering a 500 sp reward).  Baradim might volunteer his services as a guide and general dogsbody to his new friends. 
+		* Around the neck of each is hung a wooden shingle with the phrase (Varumani) “No Entry!”.
+		* The varumani miners placed them here to deter the curious or hungry from moving into the silver mine area (9-21 to 9-28). 
 
 Baradim the goblin: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 5; #AT 1; Dmg 1-6..
 
 ### 9-20: Empty Cave
 
-This cave contains nothing of interest save the desiccated husk of a giant spider.
+* This cave contains only the desiccated husk of a giant spider.
 
 ### 9-21: Varumani Guard Post
 
-An 8’-tall masonry wall bisects this 20’-tall cave; it runs from the north to south side. Six true varumani warriors (see new monsters) stand on a firing ledge on the east side of the wall. Armed with heavy crossbows, spears, and battle axes, they are tasked with preventing unwanted visitors from entering the silver mine area (areas 9-22 to 9-28). Although bored, the varumani refuse to negotiate with anyone; indeed, they are eager to fight. They have a keg of Hak’s ale (7-94), a rickety wooden ladder, two sides of smoked goat meat, as well as a low table with a set of seventeen dice of mixed origin; among the dice is a silver set of Banion’s dice (see new magic items). Should combat break out, the inhabitants of area 9-22 will arrive in 3-6 rounds to aid them; the miners in area 9-21 also have a 33% chance of hearing the sounds of combat and arriving within 6-8 rounds. 
+An 8’-tall masonry wall bisects this 20’-tall cave; it runs from the north to south side. 
+
+* 6 true varumani warriors (new) stand on a firing ledge on the east side of the wall. 
+	* Armed with heavy crossbows, spears, and battle axes, they are to prevent unwanted visitors from entering the silver mine area (9-22 to 9-28). 
+	* Bored, they are eager to fight, and refuse to negotiate with anyone.
+* They have a keg of Hak’s ale (7-94, 50 gp), a rickety wooden ladder, 2 sides of smoked goat meat, a low table, and 17 dice of mixed origin (including a silver set of Banion’s dice (new, renamed Loki's Dice). 
+
+* If combat breaks out, the inhabitants of 9-22 arrive in 1d4+2 rounds to aid them.
+	* The miners in 9-21 may (33%) hear combat and arrive in 1d3+5 rounds.
 
 6 true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 62, 60, 59, 56, 53, 50; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed axe, 2-20+4). Special defenses: 
 surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: two-handed axes; heavy crossbows; ring mail.
-
-Treasure:
-A keg of ale (50 gp), and a silver set of Banion’s dice (see new magic items).
 
 ### 9-22: Mine Boss
 
@@ -647,57 +682,69 @@ The miners have collected 36 lb of un-smelted raw ore.
 
 ### 9-24: Smelly Cave 
 
-A foul smell emerges from the pool located in the center of this cave. The water in the pool is strangely colored (brownish) and contains little bits of biological material. This fact is explained by the existence of a subterranean tunnel that connects the pool to the effluent pit (9-16). Entering the submerged tunnel provokes a chance for catching disease (20% chance). A tarnished silver statuette depicting Rimmaq-Isfet (see new monsters) may be found inside the tunnel.
-
-Treasure:
-Silver statuette of Rimmaq-Isfet (250 gp).
+* A foul smell emerges from the pool in the center of this cave.
+	* The water is strangely colored (brownish) and contains bits of biological material.
+		* This is due to a subterranean tunnel connecting the pool and effluent pit (9-16).
+		* Entering the submerged tunnel gives a 20% chance to catching a disease.
+			* A tarnished silver statuette depicting Rimmaq-Isfet (250 gp) lies inside the tunnel.
 
 ### 9-25: Cave with Hole
 
-The silver in this extension from the main seam has played out. A 5’-diameter hole drops down 15’ to a tunnel leading to area 9-19. The varumani are aware of the hole, but don’t consider it a threat.
+* The silver in this extension from the main seam has played out.
+	* A 5’-diameter hole drops 15’ to a tunnel leading to 9-19.
+	* The varumani are aware of the hole, but don’t consider it a threat.
 
 ### 9-26: Smelting Operation
 
-This cave is where the varumani smelt their silver ore into pure silver. The smelting is accomplished via an ancient rudishva relic: a CRUD-Ore 7500 ore processing machine (see new technological items). This piece of technology is powered by a greater rudishva power supply (see new technological items), and can distil 1 lb of pure metal from 6 lb of ore in about a turn. The power supply is good for another month of operation before becoming fully drained. Originally several other dials existed which allowed an operator to fine-tune the production and consistency of the metallic output; at the moment, the output consists of rock slag and a soft, amorphous mass of raw silver. Once smelted, the miners lug the silver up the tunnels to be smithed in the forge (7-68).
+* This cave is where the varumani smelt their silver ore into pure silver.
+	* The smelting is done via an ancient rudishva relic: a CRUD-Ore 7500 ore processing machine (tech), powered by a greater rudishva power supply (tech).
+	* Once smelted, the miners lug the silver up to be smithed in the forge (7-68).
+		* At a given time, 50% chance for 50 lb of smelted silver to be present; otherwise the stocks have been emptied.
 
-Geldaka, a mute lesser varumani, works the smelter under the direction of Prayaska (9-22).
+* Geldaka, a mute lesser varumani, works the smelter under the direction of Prayaska (9-22).
+	* Prayaska and Lithiric have been skimming smelted silver from the operation. Geldaka is aware of their thievery, but has chosen to do nothing about it, mainly because he is unable to speak.
 
-GM Note: Prayaska and Lithiric have been skimming smelted silver from the operation. Geldaka is aware of their thievery, but has chosen to do nothing about it, mainly because he is unable to speak. 
+The Ore Processor
+	* It can distil 1 lb of pure metal from 6 lb of ore in a turn.
+		* The power supply has another month of operation before becoming fully drained.
+		* Originally several other dials existed, to fine-tune production and consistency of the metallic output.  Currently the output consists of rock slag and a soft, amorphous mass of raw silver.
 
 Geldaka, mute lesser varumani smelter (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 58; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
 
-Treasure:
-At any given time there is a 50% chance for 50 lb of smelted silver to be present here; otherwise the stocks are empty.
-
 ### 9-27: Tunnel up to 7-52
 
-This tunnel is narrow and cramped. Its size is a sore point for the varumani miners, who must crouch and scramble to return to the thegn’s court (Level 7). The tunnel wends its way upwards before debouching at area 7-52. 
+* This tunnel is narrow and cramped, a sore point for the varumani miners, who must crouch and scramble to return to the thegn’s court (Level 7).
+	* The tunnel wends its way upwards before debouching at 7-52. 
 
 ### 9-28: Narrow Silver Vein
 
-This narrow tunnel follows the most promising silver vein branching off the main seam. At its northern end the tunnel is 7’ tall and 4’ wide, but it tapers to 4’ tall and 3’ wide at its southern end. The silver seam is quite rich here, and the varumani will develop it as the new source of their silver mining operations. At the moment, Prayaska is using this location to store the proceeds of her graft.
-
-Treasure:
-Prayaska has stored 150 lb of smelted silver under a rock-colored tarp at the end of this tunnel. Unless PCs physically search the end of the tunnel, the tarp must be detected as a secret door.
+* This narrow tunnel follows the most promising silver vein branching off the main seam.
+	* At its northern end, the tunnel is 7’ tall and 4’ wide, but tapers to 4’ tall and 3’ wide at its southern end.
+	* The silver seam is quite rich here, and the varumani will develop it as the new source of their silver mining operations.
+	* Currently, Prayaska is using this location to store the proceeds of her graft.
+		* 150 lb of smelted silver under a rock-colored tarp at the end of the tunnel (detect as secret door unless the tunnel end is physically searched.
 
 ### 9-29: Rudishva Doors and Hallway
 
-The door to the chasm floor (9-1) is a rudishva iris door, and can only be opened if a silver or yellow rudishva identity plaque (see new technological items) is held against a yellow rectangle inset into the doors. The door is also buried under 20’ of accumulated humus from the mushroom groves. 
-
-The rudishva iris door leading to the Great Pillar (9-30) is of an unusual sort; it is not opened in the usual manner, by presenting a colored rudishva identity plaque. Instead, it requires a special key to unlock. The lock is extremely complex (-40% to pick). The troll thegn (7-30) and the Arena Lord (6-85) each possess a key. The keys are 1’-long, 3”-diameter, grey plasteel rods with a notched, 1”-tall flange on each end. The door is also enchanted with the 
-equivalent of a wizard lock cast at 12th level.
-
-Lying in the hallway are two desiccated corpses of varuda, still dressed in their orange jumpsuits. Bronze and pale-green rudishva identity plaques may be found on the corpses.
+* The iris door to the chasm floor (9-1) is buried under 20’ of accumulated humus from the mushroom groves. 
+	* It opens to a silver or yellow rudishva identity plaque (tech) held against a yellow rectangle inset into the doors.
+* The iris door leading to the Great Pillar (9-30) is not opened by rudishva identity plaque.
+	* It requires a special key to unlock (-40% to pick, also 12th level wizard locked), a 1’-long, 3”-diameter, grey plasteel rod with a notched, 1”-tall flange on each end.
+		* The troll thegn (7-30) and the Arena Lord (6-85) each possess a key.
+* Lying in the hallway are two desiccated varuda corpses, still in orange jumpsuits.
+	* Bronze and pale-green rudishva identity plaques.
 
 ### 9-30: Great Pillar
 
-From this location, the rudishva great pillar may be used to ascend to Levels 5, 6, and 7 (areas 5-138, 6-103 and 7-37). The walls of the shaft, as well as the 30’-diameter pillar itself, are formed of perfectly smooth black granite. The walls of the shaft were treated by kaliyani techno-sorcerers with a unique form of anti-magic resistance, largely to protect unwanted burrowing into this important site. Although magic will work within the shaft, magical breaches of the shaft walls are almost impossible.
+* For a general overview of the pillar, see 5-138. 
 
-Inset into the floor of the shaft are four 6’-diameter circular fans made of plasteel. These marvels are still working several thousand years after their installation, and serve to pump fresh air from a hidden cave system into the pillar shaft. The cave system is unmapped, and provides an opportunity for expansion should the GM wish it.
-
-A set of hand- and footholds are cut into the Pillar; this precarious ‘ladder’ ascends the Pillar in a clockwise spiral. It is thus possible, although highly impractical, to climb the Pillar by hand and foot. Several rolls of 5d6 under STR and/or DEX are necessary for anyone so foolhardy as to climb all the way to the top of the Pillar (5-138).
-
-For a general overview of the pillar, see area 5-138. 
+* From this location, the rudishva great pillar ascends to 5-138, 6-103 and 7-37.
+	* The walls of the shaft, and the 30’-diameter pillar itself, are perfectly smooth black granite.  The walls were treated by kaliyani techno-sorcerers with a unique form of anti-magic resistance.  Magic works within the shaft, but the walls are impervious.
+	* Hand- and footholds are cut into the Pillar; precariously ascending the Pillar in a clockwise spiral.
+		* Several rolls (5d6 under STR and/or DEX) are needed to climb all the way to the top of the Pillar (5-138).
+* Inset into the floor of the shaft are four 6’-diameter circular plasteel fans.
+	* These marvels still work, several thousand years after their installation, and pump fresh air from a hidden cave system into the pillar shaft.
+		* The cave system is unmapped; an opportunity for expansion, if desired.
 
 ## Level 9: 31 - 45
 
@@ -760,16 +807,23 @@ Chest #4: 2 lb of silver dust (5 gp); a pair of solid gold finials shaped like s
 
 ### 9-32: Bone Slope
 
-This corner of the great cavern slopes downward precipitously, losing 10’ in elevation before merging with area 9-33. The slope is littered with bones from all manner of creature: human (ancient Archontean), heqeti, varumani, varuda, small animals, and even a few kaliyani. Although the presence of these bones may suggest the nearby lair of a fearsome predator, their presence here is actually due to the quicklings, who toss any bones that they discover while digging their tunnels (9-15) onto this slope. The bones do make traversing the slope rather difficult; characters other than thieves must roll 3d6 under DEX or slide down the slope, taking 1-2 HP damage in the process. Those employing light or making noise (such as that caused by sliding down the slope) automatically alert the Priscians at area 9-31.
+* This corner of the great cavern slopes downward precipitously, dropping 10’ to 9-33.
+	* The slope is littered with bones from all manner of creature: human (ancient Archontean), heqeti, varumani, varuda, small animals, and even a few kaliyani.
+		* These are due to the quicklings, who toss any bones uncover while digging their tunnels (9-15) here.
+		* The bones make footing bad (3d6 under DEX or take 1d2 sliding down).
+		* Light or noise automatically alerts the Priscians at 9-31.
 
 ### 9-33: Deep Cave beneath the Causeway
 
-The floor of this cave lies 50’ beneath the ancient heqeti causeway (9-31). It is littered with piles of broken stone, some of which still contain recognizable shapes – like shattered column drums, bits of broken pediment, and the headless, limbless torsos of three heqeti 
-statues. Amid the debris are numerous skeletons, most of which are ancient and appear to be heqeti or human in origin. To the west end of the cave are two corpses of more modern vintage, still wearing some equipment: these corpses are riddled with strange bone arrows (heqeti arrows) and appear to have been scorched rather badly.
+* The floor of this cave lies 50’ beneath the ancient heqeti causeway (9-31).
+	* It is littered with broken stone: ruble, shattered column drums, bits of broken pediment, and the headless, limbless torsos of 3 heqeti statues).
+	* Amid the debris are numerous skeletons, mostly ancient heqeti and human.
+	* At the west end of the cave are 2 corpses of modern adventurers, riddled with strange bone arrows (heqeti arrows) and badly scorched.
+		* A lovely yellow silk wizard’s robe embroidered with coiled dragons; battered but usable banded mail; a 2h sword; a backpack (rope, lantern, 4 flasks of oil, 352 sp, 125 gp), a potion of superheroism; a 40' coiled rope ladder; and a scroll in a wooden scroll case (harnessing the chaos, Pol’s recall (new)).
+	* Each turn searching the debris, roll an item (max 6) items.
+* The tunnel to 9-37 is 10’ above the floor of the eastern edge of the cavern.
 
-Searching among the debris may turn up some item of interest. For every turn spent searching, roll on the following chart. Up to six items may be found. Creating noise in the western portion of the cave (by, say, searching) brings Tashiblis from 9-34 and awakens the undead heqeti at 9-36 (see new monsters for both).
-
-The tunnel to 9-37 is located 10’ above the floor of the eastern edge of the cavern.
+* Noise in the western portion of the cave brings Tashiblis from 9-34 and awakens the undead heqeti at 9-36 (new).
 
 D100 Result Notes
 
@@ -780,64 +834,60 @@ Nothing
 A pair of Archontean greaves, inscribed “Junius” Worth 15 gp as a curio
 
 31-35
-
 An amethyst brooch with an intaglio of an Archontean noble woman
 
 340 gp
-
 36-46 A bone arrow with black fletching 5 sp. A heqeti arrow
 
 47-50
-
 The head to one of the heqeti statues. Roll d6:
-1-2: weaver
-3-4: hopper
-5-6: builder
+* 1-2: weaver
+* 3-4: hopper
+* 5-6: builder
 
 The head could be sold to a statuary dealer for 100-600 gp
 
-50-53 A hand of glory made from a heqeti paw See new magic items
+50-53
+A hand of glory made from a heqeti paw See new magic items
 
 54-70
-
 Some scattered ancient coins. Roll d6
-1-2: 2-12 ancient silver pennies
-3-4: 3-24 ancient copper bits
-5-6: 2-8 ancient gold solidi
-7-8: 1-3 ancient octagonal platinum coins
+* 1-2: 2-12 ancient silver pennies
+* 3-4: 3-24 ancient copper bits
+* 5-6: 2-8 ancient gold solidi
+* 7-8: 1-3 ancient octagonal platinum coins
 
 71-73
-
 A shattered Archontean blackware vase showing a human greeting a dragon, with the inscription (in Mithric) “Ennius Signs the Compact”
 
 An important clue concerning ancient Archontean history, as few modern Archonteans remember the identity of the ancient allies with whom Ennius signed his famous compact
 (see World of Archontos appendix). Worth 850 gp.
 
-74-78 A metal rod
+74-78
+A metal rod
 
 One of the fish-shaped control rods for the egg-shaped vessels in 4-85
 
-79-83 A leather pouch with 3 Arden Vul cakes See Arden Vul items
+79-83
+A leather pouch with 3 Arden Vul cakes See Arden Vul items
 
 84-88
-
 A silk pouch with three doses of red veil mushrooms
 
 See new flora
 
 89-91
-
 A gold sunburst symbol mounted on a 2”-long gold rod; the center of the sunburst contains the Archontean numeral I
 
 Intended to be inserted into an archon’s command helmet in the ancient Archontean legions. From the legendary “Originals”, the now-defunct I scutarii legion. Worth 575 gp
 
 91-92
-
 A 3”-tall hand with a third eye and touching thumb and forefinger
 
 A rudishva useful palm (palm of cancellation – see new magic items)
 
-93-94 A flute made of a thigh bone
+93-94
+A flute made of a thigh bone
 
 An insidious bone flute (see new magic items)
 
@@ -850,13 +900,9 @@ The bottom has an inscription in Mithric “home of Kauket. Beware”. A represe
 A heqeti jagged club Worth 25 gp
 
 99-100
-
 A copper heqeti ritual bowl, incised with images of hoppers spearing humans
 
 Worth 150 gp
-
-Treasure:
-On the bodies of two adventurers: a lovely yellow silk wizard’s robe embroidered with coiled dragons; a suit of battered but usable banded mail; a two-handed sword; a backpack with a coil of rope, a lantern, four flasks of oil, a sack with 352 sp and 125 gp, a potion of superheroism; a coiled rope ladder (40’ long); and a wooden scroll case with a scroll containing harnessing the chaos and Pol’s recall (see new spells for both).
 
 ### 9-34: Cave of Tashiblis
 
@@ -868,25 +914,32 @@ Tashiblis (see new monsters): SZ L; AL N; AC 1; MV 120’; HD 8+8; HP 62; #AT 1;
 
 ### 9-35: Tunnel Up to 5-52b
 
-This tunnel climbs a very long way through the rock (some 1,100’) before ending up on Level 5, at area 5-52B. Although mostly natural, the tunnel does contain sections of worked corridors and stair segments, all of which have the familiar pebbled and slightly oily texture of heqeti construction.
+* This tunnel climbs a very long way through the rock (1,100’) before ending at  5-52B.
+	* Mostly natural, the tunnel does contain sections of worked corridors and stair segments, all with the pebbled and slightly oily texture of heqeti construction.
 
-Note: If the keqemander demon (see new monsters) has been summoned at area 5-52 and has not been defeated, there is a chance it may be present here or in one of the surrounding caves. See area 5-52 for details.
+* Note: If the keqemander demon (new) has been summoned at 5-52, it may be present here or in one of the surrounding caves.
 
 ### 9-36: Heqeti Bridge Fragment and Stairs
 
-Looming 50’ above the floor of area 9-34, this bridge fragment used to extend east to area 9-31. A set of stairs commences on the bridge and leads west. Originally this staircase climbed all the way to area 5-52, but it was destroyed in antiquity, leaving only the current 60’ fragment. The construction of the bridge and stairs is heqeti (pebbled and oily), and the stairs’ tread-to-rise ratio is uncomfortable for humans. 
+* Looming 50’ above the floor of 9-34, this bridge fragment used to extend east to 9-31.
+	* A set of stairs commences on the bridge and leads west, originally climbing all the way to 5-52.  It was destroyed in antiquity, leaving only the current 60’ fragment.
+	* The bridge and stairs is heqeti (pebbled and oily), and the stairs’ tread-to-rise ratio is uncomfortable for humans. 
 
-Seven undead heqeti salamander warriors (see new monsters) lie in wait atop the bridge fragment. They are armed with short bows and poisoned arrows, and will employ their ranged weapons until out of ammunition, at which point they leap down to confront intruders. Very loud noise in area 9-33 might rouse them to action (33%), but they are certain to react if Tashiblis (9-34) enters melee.
+* Seven undead heqeti salamander warriors (new) lie in wait atop the bridge fragment.
+	* They employ their poisoned arrows until out of ammunition, then leap down to confront intruders.
+	* Very loud noise in 9-33 might rouse them to action (33%), but they are certain to react if Tashiblis (9-34) enters melee.
 
 7 heqeti hopping dead (see new monsters): SZ M; AL CE; AC 5; MV 90’; HD 3; HP 22, 21, 20, 19, 17, 16, 15; #AT 1; Dmg 1-8. Special attacks: leap; cursed tongue. Special defenses: turned as ghasts; half damage from piercing and edged weapons; immune to sleep, charm, hold, and cold-based spells. They are armed with short bows and 15 poisoned arrows each. The poison is known to the heqeti as Kauket’s Vision, and is of a psychotropic sort that causes severe hallucinations to those who fail a save (see Arden Vul items).
 
 ### 9-37: Cave below the Heqeti Causeway
 
-The floor of this large cave is 40’ below the edge of the heqeti causeway (9-38 and 9-40). The eastern edge of the cave has suffered numerous collapses and cave-ins; loose rubble and scree runs along that wall. The floor of the cave is uneven, dotted with piles of rubble including both worked and natural stone.
+* The floor of this large cave is 40’ below the edge of the heqeti causeway (9-38 and 9-40).
+	* The eastern edge of the cave has suffered numerous collapses; loose rubble and scree runs along that wall.
+	* The floor of the cave is uneven, dotted with piles of rubble, including both worked and natural stone.
+	* Faint signs of recent passage through the rubble fields lead towards 9-41.
 
-Given the geological instability here, any destructive magic (like fireball) cast in the area of 9-37 to 9-40 have a 75% chance of causing a pile of rocks to fall from the ceiling. The rockfall strikes an area that covers 3-6 10’x10’ squares. Those within the affected zone take 6-36 HP damage; thieves who save vs breath weapons take no damage, but others still take half damage.
-
-Dwarves or rangers will notice signs of recent passage through the rubble fields, leading towards 9-41.
+* The area is geologically unstable and likely (75%) to suffer rockfalls if destructive magic (e.g. fireballs) is used the area of 9-37 to 9-40.
+	* Rockfall: hits 3-6 10’x10’ squares dealing 6d6 (save vs breath for half, thieves save for none).
 
 ### 9-38: Rubble-Strewn Heqeti Causeway
 
@@ -900,7 +953,10 @@ Secret Door (west): This door is difficult to locate (1 in 8 chance). It is unus
 
 ### 9-39: Secret Staircase Leading Up to 6-112a
 
-The very long staircase behind the secret door leads up to area 6-112A. It was one of the main routes used by the heqeti in their secret – and successful – strike against the rudishva. The steps are worn, pebbled and oily. The staircase is filled with cobwebs, insect husks, and random bits of leather and metal for most of its length.Secret Door (to 9-38): The door is easy to locate (1 in 4 chance). From this side it can only be opened by locating and depressing a small knob. 
+* Secret Door (to 9-38): easy to locate (1 in 4 chance), from this side it is opened by pressing a small knob. 
+* The long staircase (worn, pebbled and oily) behind the secret door leads up to 6-112A.
+	* This was a main route of the heqeti in their secret strike against the rudishva.
+	* The staircase is filled with cobwebs, insect husks, and random bits of leather and metal for most of its length.
 
 ### 9-40: The Great Pukel
 
@@ -925,10 +981,12 @@ teleport without error; 50% chance to gate in either another keqemander or a Typ
 
 ### 9-41: Tunnel up to 7-64
 
-This tunnel snakes upward to join Level 7 at area 7-64. The Priscians recently discovered it and have dispatched a war mage triad up it (see areas 7-39 and 7-44). If lights are employed at the entrance of this tunnel, the Priscians at 9-31 will be alerted and will arrive within a turn to protect their colleagues on Level 7.
+* This tunnel snakes upward to 7-64.
+	* A smiley face is painted on the tunnel wall 50’ where the tunnel arrives in 7-44, the anchor for a Frigg's flatulence (new) placed by the Priscians.
 
-Trap (noise trap): A smiley face is painted on the tunnel wall 50’ below the point at which the tunnel arrives in area 7-44. The face is the trigger for a Frigg’s flatulence spell (see new spells) that the Priscians have installed there as a warning. If the spell is triggered by motion, the Priscians in 7-44 will be ready.
-
+* The Priscians recently discovered this tunnel and have dispatched a war mage triad to explore up it (see 7-39 and 7-44).
+	* Lights here attract the Priscians at 9-31 within a turn, to protect their colleagues on Level 7.
+	* If the Frigg's flatulence is triggered, the Priscians in 7-44 will be ready.
 ### 9-42: Debris-Strewn Cave
 
 The same geological instability present in 9-37 is found here (see above for chances of collapse). The temperature is noticeably warmer, and the air moister. Although the cave surfaces are rough and natural, obvious bits of ancient worked stone protrude crazily from the floor and walls. These include bits of stairs, flattened pieces of pediment, and an occasional broken plinth. 
@@ -944,17 +1002,23 @@ Stuffed into a pouch on the web-belts is a 1-lb sack of gold flakes (50 gp), a 1
 
 ### 9-43: Stalactite Cave
 
-This cave and the surrounding tunnels are very humid and warm. Scores of stalactites and stalagmites dot the area, many in beautiful shades of blue and green. Movement is slowed to half, and unless explorers look carefully, they might overlook the tunnel leading to 9-45. A ranger may be able to locate and track a subtle blood trail that leads south towards 9-45. The chance is 50% plus 5% for every level of experience over 3.
+* Scores of stalactites and stalagmites dot the area in beautiful shades of blue and green.
+	* This cave and the surrounding tunnels are very humid and warm.
+	* The area is difficult terrain.
+	* The tunnel to 9-45 is easy to overlook if not checking carefully.
+	* A subtle blood trail leads south towards 9-45.
 
 ### 9-44: Tunnel Leading to SL13-32
 
-This tunnel rises steeply before reaching the Lost Chambers of Arden at SL13-32.
+* This tunnel rises steeply before reaching the Lost Chambers of Arden at SL13-32.
 
 ### 9-45: Unstable, Wet Cave
 
-This wet, humid cavern is also covered with stalagmites and stalactites. The cave exhibits the same geological instability as areas 9-37 and 9-42 (see 9-37 for chances of collapse). It will be clear to any casual observer that the cave once housed an area of worked stone, perhaps with a staircase. That worked area has been completely destroyed, however, and the cavern floor is now 30’ below the nearest worked area (9-46). Piles of debris litter the floor, and bits of pediment and broken stair risers are embedded in the extant cave surfaces. 
-
-A ranger may be able to locate and track a subtle blood trail that leads east towards 9-47. The chance is 50% plus 5% for every level of experience over 3.
+* This wet, humid cavern is also covered with stalagmites and stalactites.
+	* It has the same geological instability as 9-37 and 9-42 (see 9-37 for details).
+	* It is clear the cave once housed an area of worked stone, perhaps with a staircase, but it has been completely destroyed, and the cavern floor is now 30’ below the nearest worked area (9-46).
+	* Piles of debris litter the floor, and bits of pediment and broken stair risers are embedded in the extant cave surfaces. 
+* A subtle blood trail leads east towards 9-47.
 
 ## Level 9: 46 - 57
 
@@ -977,9 +1041,11 @@ days); corrosive to wood. Special defenses: healed by electricity, lasers; slowe
 
 ### 9-47: Ancient Heqeti Brood Pools
 
-A low (3’-tall) pool runs down the center of this pebbled, greasy-surfaced chamber. It is fed by a gently-burbling fountain shaped like a trio of giant tusks (5’ tall). The side niches once held pools as well, but only a salty precipitate remains in them. The liquid in the central pool is clear, but briny. Its continued operation is a mystery of Kauket, and a source of wonder to the modern heqeti who occasionally visit it.
-
-In the distant past, this chamber was used for mating and the raising of heqeti efts. 
+* A low (3’-tall) pool runs down the center of this pebbled, greasy-surfaced chamber, fed by a gently-burbling fountain shaped like a trio of giant tusks (5’ tall).
+	* The side niches once held pools as well, but only a salty precipitate remains.
+	* The liquid in the central pool is clear, but briny.
+	* Its continued operation is a mystery of Kauket, and a source of wonder to the modern heqeti who occasionally visit it.
+	* In the distant past, this chamber was used for mating and the raising of heqeti efts. 
 
 ### 9-48: Heqeti Chamber 
 
@@ -996,8 +1062,12 @@ Two signet rings made of steel (one his, one Harjot’s), each worth 15 gp as a 
 
 ### 9-49: Eastern Plateau
 
-This relatively flat bit of rock looms 20’ above the mushroom groves and 25’ above the lake. Here the ceiling of the great cavern is only 30’ above the plateau floor. An ancient stone bridge, 5’ wide and without rails, crosses the Rimpled Run (9-71) at the northwest side 
-of the plateau. To the southwest, a ramp of beaten earth leads down to the berm (9-9). Since the huntsmen established their camp on the plateau, other creatures have given it a wide berth.
+* This relatively flat bit of rock looms 20’ above the mushroom groves (25’ above the lake).
+	* The ceiling of the great cavern is only 30’ above the plateau floor.
+	* An ancient stone bridge, 5’ wide and without rails, crosses the Rimpled Run (9-71) at the northwest side of the plateau.
+	* To the southwest, a ramp of beaten earth leads down to the berm (9-9).
+
+* Since the huntsmen established their camp on the plateau, other creatures give it wide berth.
 
 ### 9-50: Camp of the Huntsmen
 
@@ -1029,15 +1099,20 @@ tulwar, a niravairi astral crossbow of accuracy, and a niravairi astral staff of
 
 ### 9-51: Gate to Astral Plane
 
-A ledge has been carved into the northeast side of a pillar that rises from floor to ceiling. The ledge is 20’ above the level of the northern plateau, and only 10’ below the ceiling of the cavern. The ledge appears empty, but in fact is the location of a dimensional portal connecting the Prime Material and Astral Planes. The portal is almost invisible on the prime material side, appearing only as a slight silver shimmer in the air.
+* A ledge has been carved into the northeast side of a pillar that rises from floor to ceiling, 20’ above the northern plateau, and only 10’ below the ceiling of the cavern.
+	* The ledge appears empty, but holds a dimensional portal connecting the Prime Material and Astral Planes, near-invisible, only a slight silver shimmer, from this side.
 
 ### 9-52: Abattoir Cave
 
-A strong smell of rotting flesh comes from this cave. Inside are the insect-infested remains of numerous small animals and lesser monsters, slain by the aroksachaul (see 9-50) in their hunts. As these creatures weren’t impressive enough to keep as trophies, the huntsmen tossed the mangled corpses here.
+* A strong smell of rotting flesh comes from this cave.
+* Inside are the insect-infested remains of numerous small animals and lesser monsters, slain by the aroksachaul (see 9-50) in their hunts.
+	* Considered too unimpressive to keep as trophies, they were discarded here.
 
 ### 9-53: Cave with Statue
 
-This cave is noteworthy for two respects. The first is the fact that a statue of a human stands in the northwest corner of the cave. The second is that the statue is surrounded by a circle containing the desiccated corpses of small creatures – albino monkeys, baindara, chasm cephalopods, etc. Unlike the abattoir in 9-52, the bodies show no sign of physical harm – it is as if they simply dropped dead.Statue of Syagria Aitón: The statue is 7’ tall, weighs 525 lb, and depicts a severe Archontean woman of advancing years. She wears a wizard’s robe and a circlet, and carries a wand in her crossed arms. The pediment bears an inscription in Mithric: “Syagria the Rhetor, Disciple of Vul the Sorcerer”. The statue is in excellent condition despite being close to 2,000 years old; it is still painted and lifelike, and has no chips or breaks. It also detects as magic. 
+This cave is noteworthy for two respects. The first is the fact that a statue of a human stands in the northwest corner of the cave. The second is that the statue is surrounded by a circle containing the desiccated corpses of small creatures – albino monkeys, baindara, chasm cephalopods, etc. Unlike the abattoir in 9-52, the bodies show no sign of physical harm – it is as if they simply dropped dead.
+
+Statue of Syagria Aitón: The statue is 7’ tall, weighs 525 lb, and depicts a severe Archontean woman of advancing years. She wears a wizard’s robe and a circlet, and carries a wand in her crossed arms. The pediment bears an inscription in Mithric: “Syagria the Rhetor, Disciple of Vul the Sorcerer”. The statue is in excellent condition despite being close to 2,000 years old; it is still painted and lifelike, and has no chips or breaks. It also detects as magic. 
 
 The reason for its pristine condition is that it is enchanted in several ways. First, it carries a necromantic protection such that any being with less than 3HD that approaches within 15’ 
 must immediately save vs. death or be slain. Second, the statue is enchanted with the 5th-level magic user spell, avoidance (for purposes of dispelling, the avoidance spell was cast at 19th level of experience). Should it be possible to approach the statue, careful inspection (as detecting secret doors) will reveal a small catch on its back heel. This catch opens the concealed door that leads to area 9-55.
@@ -1046,7 +1121,9 @@ Concealed Door: The door to 9-55 is 3’x3’ in size. It is only visible to tho
 
 ### 9-54: Skeleton Cave
 
-Seven human skeletons are scattered across the floor of this large cave. Most are centuries old, although a pair are of more recent vintage. The one-way door from 9-56 exits into the slightly flattened southern wall of this cave.
+* Seven human skeletons are scattered across the floor of this large cave. 
+	* Most are centuries old, although a pair are of more recent vintage. 
+	* The one-way door from 9-56 exits into the slightly flattened southern wall here.
 
 ### 9-55: Lich Hall
 
@@ -1108,7 +1185,11 @@ Sub-Level 11.
 
 ### 9-58: Concealed Balcony
 
-This balcony looms 10’ above the floor of the plateau. A reinforced wooden door down a short corridor leads to the Priscian outpost. The ledge and door are concealed by a hallucinatory terrain spell, which make them look like a regular rock wall. The wooden door is locked (-15% chance to pick). Keys are held by Jaracondus the Sprightly (9-63), Nerub Null (9-64), Laegel the Forsworn (7-143), Cenwulf the Unseen (9-31), Jellicos (7-44), Lukor (SL4-44), Jillia One-Ear (6-49), Justinian (6-48 and elsewhere), Ellergast Half-Elven (9-62); another key lost in antiquity may be found by searching at 9-4. A classic sliding peephole allows those within to determine who is without.
+* This balcony looms 10’ above the floor of the plateau, concealed by a hallucinatory terrain spell to look like a regular rock wall.
+	* A reinforced wooden door (locked, -15% to pick) down a short corridor leads to the Priscian outpost.
+		* A classic sliding peephole allows those within to determine who is without.
+		* Keys are held by Jaracondus the Sprightly (9-63), Nerub Null (9-64), Laegel the Forsworn (7-143), Cenwulf the Unseen (9-31), Jellicos (7-44), Lukor (SL4-44), Jillia One-Ear (6-49), Justinian (6-48 and elsewhere), Ellergast Half-Elven (9-62)
+		* Another key lost in antiquity may be found by searching at 9-4.
 
 ### 9-59: Sortian Face
 
@@ -1132,13 +1213,14 @@ arcanum forge is located at 9-60. The mage who recorded this message was none ot
 
 ### 9-59a: Guard Post and Lever
 
-A bored Priscian conversus (see new monsters) sits in this niche, watching to ensure that no unauthorized visitors arrive via teleport in 9-59 or attempt to force the door at 9-58. In the niche is a stool, a low table, and a 3’-diameter bronze gong. The conversus is casting a set of silver dice compulsively, but will sound the gong instantly if she hears anything suspicious. Attached to the wall is the lever used to raise the portcullis across the hall.
+* A bored Priscian conversus (new) sits in this niche, watching to ensure that no unauthorized visitors arrive via teleport in 9-59 or attempt to force the door at 9-58.
+	* In the niche is a stool, low table, and 3’-diameter bronze gong.
+	* Attached to the wall is the lever to raise the portcullis across the hall.
+
+* The conversus is casting a set of silver (225 sp) dice compulsively, but sounds the gong instantly if she hears anything suspicious.
 
 1 Priscian conversus (see new monsters), as a 3rd-level female Archontean fighter: SZ M; AL LE; AC 4; MV 90’; HD 3; HP 26; #AT 1; Dmg 2-7 (spear) or 2-9 (long sword). Special: she has 
 STR 16 and CON 16. Possessions: chain mail and shield; spear; long sword.
-
-Treasure:
-Set of six silver dice (225 sp).
 
 ### 9-60: The Arcanum Forge
 
@@ -1321,196 +1403,60 @@ Jaracondus the Sprightly, Priscian war mage (see new monsters) and member of Non
 1; Dmg 4-7 (dagger +3). Abilities: STR 9, INT 18, WIS 13, DEX 17, CON 9, CHA 9. Possessions: dagger +3; a key to 9-58; robe of eyes; bracers of defense (AC 3); Priscian ring infused with blink and dispel magic (see new magic items); rod of absorption (23 levels absorbed); wand of fire (23 charges), key to 9-63. Spells memorized: enlarge, light, magic missile, spider climb; continual light, ESP, invisibility, mirror image; blink, fly, haste, suggestion; fear, ice storm, wall of ice; cone of cold, conjure elemental, interposing hand.  
 
 Treasure:
-Atop the desk are sketch maps of the obvious portions of Level 9, 
-plus a tattered treasure map leading to area 5-19. The desk 
-drawer contains three vials of hydra blood (100 gp each), 
-an orange jacinth (4,500 gp), and several magical scrolls: 
-protection from earth elementals, protection from 
-magic, and mass charm.
+Atop the desk are sketch maps of the obvious portions of Level 9, plus a tattered treasure map leading to area 5-19. The desk drawer contains three vials of hydra blood (100 gp each), 
+an orange jacinth (4,500 gp), and several magical scrolls: protection from earth elementals, protection from magic, and mass charm.
 
-The armoire contains practical clothing, including several sets of 
-robes and slippers. The armor rack holds a suit of Priscian 
-chain mail (see new magic items). Atop the coffee table are 
-two bottles of rudishva aquavit (see Arden Vul items) and six 
-silver cups (50 gp total).
+The armoire contains practical clothing, including several sets of robes and slippers. The armor rack holds a suit of Priscian chain mail (see new magic items). Atop the coffee table are two bottles of rudishva aquavit (see Arden Vul items) and six silver cups (50 gp total).
 
-The chest holds 4,731 sp and 3,499 gp, a complete set of Sortian 
-eyes (see new magic items), a dagger +2, longtooth, all six 
-of Jacondus’s spell books, plus a pair of fully charged rudishva 
+The chest holds 4,731 sp and 3,499 gp, a complete set of Sortian eyes (see new magic items), a dagger +2, longtooth, all six of Jacondus’s spell books, plus a pair of fully charged rudishva 
 lesser power supplies (see new technological items).
-Jaracondus’s Spell Books (in six large volumes): All 1st-level spells; 
-all 2nd-level spells; blink, clairaudience, clairvoyance, dispel 
-magic, explosive runes, fireball, fly, gust of wind, haste, hold 
-person, invisibility 10’ radius, lightning bolt, phantasmal 
-force, protection from normal missiles, slow, tongues; 
-charm monster, confusion, fear, fire shield, ice storm, 
-minor globe of invulnerability, polymorph other, remove 
-curse, wall of ice; airy water, interposing hand, cloudkill, 
-conjure elemental, cone of cold, hold monster, magic jar, 
-passwall, telekinesis, teleport, wall of stone; enchant an 
-item, ensnarement, legend lore.
+
+Jaracondus’s Spell Books (in six large volumes): All 1st-level spells; all 2nd-level spells; blink, clairaudience, clairvoyance, dispel magic, explosive runes, fireball, fly, gust of wind, haste, hold person, invisibility 10’ radius, lightning bolt, phantasmal force, protection from normal missiles, slow, tongues; charm monster, confusion, fear, fire shield, ice storm, minor globe of invulnerability, polymorph other, remove curse, wall of ice; airy water, interposing hand, cloudkill, conjure elemental, cone of cold, hold monster, magic jar, passwall, telekinesis, teleport, wall of stone; enchant an item, ensnarement, legend lore.
 
 ##### 9-63a: Chamber of Inlevris Half-Elven
 
-This small chamber serves as the office and dwelling of Inlevris 
-Half-Elven, the bonded defender of Jaracondus and one of the two 
-leaders of the Priscian conversi in Arden Vul.
+This small chamber serves as the office and dwelling of Inlevris Half-Elven, the bonded defender of Jaracondus and one of the two leaders of the Priscian conversi in Arden Vul.
 
-Inlevris has a desk, a bed, an equipment rack, and a locked 
-chest. The floor is covered with a thin, sky-blue carpet (55 gp), and 
-the walls are painted with frescoes of flying dragons.
+Inlevris has a desk, a bed, an equipment rack, and a locked chest. The floor is covered with a thin, sky-blue carpet (55 gp), and the walls are painted with frescoes of flying dragons.
 
-Inlevris is an aspiring artist. Near the bed he keeps an easel, 
-two canvases, seven large pieces of parchment, and a set of brushes 
-and paints. He would desperately like to complete an image of 
-the Whispering Glen (a famous location within the elven Realm 
-of Lord Gallador and Lady Ellagel – see World of Archontos 
-appendix). Despite filling the parchments with sketches, and 
-attempting a formal painting numerous times, Inelvris’s work is 
-just not very good (45 gp for the canvas). 
+Inlevris is an aspiring artist. Near the bed he keeps an easel, two canvases, seven large pieces of parchment, and a set of brushes and paints. He would desperately like to complete an image of the Whispering Glen (a famous location within the elven Realm of Lord Gallador and Lady Ellagel – see World of Archontos appendix). Despite filling the parchments with sketches, and attempting a formal painting numerous times, Inelvris’s work is just not very good (45 gp for the canvas). 
 
-As a member of the Priscian Order, Inlevris is a superb leader 
-and loyal friend to the ruling magi. He firmly believes in the need 
-to advance knowledge and power in secret ways. If the outpost is 
-alerted, Inlevris rushes to join Jaracondus to plan their response; 
-he is then likely to slip into the outpost under an invisibility 
-spell to scout and then cause havoc. If encountered in peaceful 
-situations, Inlevris is an erudite, learned, polite half-elf with a taste 
+As a member of the Priscian Order, Inlevris is a superb leader and loyal friend to the ruling magi. He firmly believes in the need to advance knowledge and power in secret ways. If the outpost is alerted, Inlevris rushes to join Jaracondus to plan their response; he is then likely to slip into the outpost under an invisibility spell to scout and then cause havoc. If encountered in peaceful situations, Inlevris is an erudite, learned, polite half-elf with a taste 
 for discussing art, philosophy, and literature.
 
 Inhabitants:
-2. Inlevris Half-Elven, Priscian conversus (see new monsters) 
-and bonded defender to Jaracondus the Sprightly, as a 7th/9th-
-level male half-elf fighter/thief: SZ M; AL LN; AC 1; MV 120’; 
-HD 9; HP 43; #AT 3/2; Dmg 4-10 (Priscian gladius +2) or 
-4-7 (dagger +2). Abilities: STR 17, INT 14, WIS 12, DEX 18, 
-CON 14, CHA 10. Thief skills: PP 90%, OL 77%, F/RT 65%, 
-MS 80%, HS 71%, HN 30%, CW 98%, RL 45%. Possessions: 
-leather armor +3; Priscian gladius +2; dagger +2; dust of 
-appearance; ring of free action; 2 potions of invisibility. 
+
+Inlevris Half-Elven, Priscian conversus (see new monsters) and bonded defender to Jaracondus the Sprightly, as a 7th/9th-level male half-elf fighter/thief: SZ M; AL LN; AC 1; MV 120’; HD 9; HP 43; #AT 3/2; Dmg 4-10 (Priscian gladius +2) or 4-7 (dagger +2). Abilities: STR 17, INT 14, WIS 12, DEX 18, CON 14, CHA 10. Thief skills: PP 90%, OL 77%, F/RT 65%, MS 80%, HS 71%, HN 30%, CW 98%, RL 45%. Possessions: leather armor +3; Priscian gladius +2; dagger +2; dust of appearance; ring of free action; 2 potions of invisibility. 
 
 Treasure: 
-When Inlevris is present in his chamber, the equipment rack holds 
-his leather armor and weapons. The desk holds a roster of all the 
-conversi present in Arden Vul, as well as a petition to Liesbet (9-
-64A) asking her to bring additional personnel to Arden Vul. In the 
-drawer of the desk are some scrunched-up pieces of parchment 
-with attempts at poetry, and a surprisingly good pencil sketch of 
-Jaracondus (25 gp). His chest holds clothing, a piece of ironwood 
-from the elven realm (see World of Archontos appendix) that has 
-been shaped and sanded to resemble a moonflower (55 gp), an iron 
-flask filled with two uses of oil of sharpness (+5), a silver necklace 
-studded with three deep blue spinels (2,250 gp), and a scroll of 
-poetry, Inellador’s Imagining in Rounds (see Arden Vul books). 
+When Inlevris is present in his chamber, the equipment rack holds his leather armor and weapons. The desk holds a roster of all the conversi present in Arden Vul, as well as a petition to Liesbet (9-64A) asking her to bring additional personnel to Arden Vul. In the drawer of the desk are some scrunched-up pieces of parchment with attempts at poetry, and a surprisingly good pencil sketch of Jaracondus (25 gp). His chest holds clothing, a piece of ironwood from the elven realm (see World of Archontos appendix) that has been shaped and sanded to resemble a moonflower (55 gp), an iron flask filled with two uses of oil of sharpness (+5), a silver necklace studded with three deep blue spinels (2,250 gp), and a scroll of poetry, Inellador’s Imagining in Rounds (see Arden Vul books). 
 
 ### 9-64: Chamber of Nerub Null
 
-The door to this chamber is almost always locked. Within dwells 
-the powerful but cryptic leader of the Priscians in Arden Vul, the 
-archmage, Nerub Null. 
+The door to this chamber is almost always locked. Within dwells the powerful but cryptic leader of the Priscians in Arden Vul, the archmage, Nerub Null. 
 
- Nerub Null’s furnishings include the following: a bed, an 
-armoire, a writing desk, two comfortable leather chairs, an em-
-broidered silk carpet featuring an Archontean man standing next 
-to a gold dragon (450 gp), a teak coffee table (250 gp), and a locked 
-iron chest. The walls are painted white, but Nerub Null has entirely 
-covered them with mystical symbols, including long sequences of 
-numbers and a seven bizarre words (the names of devils – GM’s 
-choice as to which). 
+ Nerub Null’s furnishings include the following: a bed, an armoire, a writing desk, two comfortable leather chairs, an em-broidered silk carpet featuring an Archontean man standing next to a gold dragon (450 gp), a teak coffee table (250 gp), and a locked iron chest. The walls are painted white, but Nerub Null has entirely covered them with mystical symbols, including long sequences of numbers and a seven bizarre words (the names of devils – GM’s choice as to which). 
 
-A 10’-diameter magic circle occupies the northwest corner of 
-the chamber. There is a 25% chance that Nerub Null has summoned 
-a devil and is conversing with it.
+A 10’-diameter magic circle occupies the northwest corner of the chamber. There is a 25% chance that Nerub Null has summoned a devil and is conversing with it.
 
-The desk drawer contains three vials of devil’s ichor (100 gp 
-each), a clear red ruby (5,000 gp), and several magical scrolls: 
-protection from evil 10’ radius (x2), ensnarement, and 
-banishment. Atop the desk are parchment sketches of six var-
-ieties of devil, a rudishva head preserved in a jar, a 2-lb lump of 
-arcanum, a full set of the ultra-rare Priscian texts (the Canticle of 
-Arcane Knowledge, the Gesta Isadorae, the Hidden Codex, and the 
-Fragment [see Arden Vul books for all]), and a torn and stained 
-parchment writ addressed to Gordion, archon of Arden Vul. The 
-writ reads: “To Gordion, archon, from his devoted proedros, Hasibel. 
-You will be interested to know that I assigned a full kentarch to watch 
-the villa of that Sortian sympathizer, Lady Isadora. My men swear 
-that she never departed from the villa, and our combat mages confirm 
-that nothing invisible snuck past them. And yet, when three weeks of 
-observations produced no sign of the accursed agitator, my men broke 
-down the door to her villa to find it completely empty! No servants, 
-no guards, and – what is worse! – no Lady Isadora. We naturally 
-searched the villa from top to bottom but were able to find neither 
-hide nor hair of her. It was as if she disappeared by teleportation – 
-but, as you know, the Archon’s wards were supposed to render that 
-impossible. It is my great displeasure, therefore, to announce our 
-failure. Lady Isadora, consort of the arch-traitor Priscus Pulcher, 
-has utterly disappeared. I would offer my resignation if I felt that her 
-disappearance had occurred through my negligence, but this is not the 
-case. I smell sorcery of the worst and most dire kind. No doubt our 
-other agents will pick up her trail. At that point, may I recommend 
-that she be introduced to the impalement stake? She deserves to suffer 
-the same fate as her treacherous lover.” The date is AEP 1713. 
+The desk drawer contains three vials of devil’s ichor (100 gp each), a clear red ruby (5,000 gp), and several magical scrolls: protection from evil 10’ radius (x2), ensnarement, and banishment. Atop the desk are parchment sketches of six varieties of devil, a rudishva head preserved in a jar, a 2-lb lump of arcanum, a full set of the ultra-rare Priscian texts (the Canticle of Arcane Knowledge, the Gesta Isadorae, the Hidden Codex, and the Fragment [see Arden Vul books for all]), and a torn and stained parchment writ addressed to Gordion, archon of Arden Vul. The writ reads: “To Gordion, archon, from his devoted proedros, Hasibel. You will be interested to know that I assigned a full kentarch to watch the villa of that Sortian sympathizer, Lady Isadora. My men swear that she never departed from the villa, and our combat mages confirm that nothing invisible snuck past them. And yet, when three weeks of observations produced no sign of the accursed agitator, my men broke down the door to her villa to find it completely empty! No servants, no guards, and – what is worse! – no Lady Isadora. We naturally searched the villa from top to bottom but were able to find neither hide nor hair of her. It was as if she disappeared by teleportation – but, as you know, the Archon’s wards were supposed to render that impossible. It is my great displeasure, therefore, to announce our failure. Lady Isadora, consort of the arch-traitor Priscus Pulcher, 
+has utterly disappeared. I would offer my resignation if I felt that her disappearance had occurred through my negligence, but this is not the case. I smell sorcery of the worst and most dire kind. No doubt our other agents will pick up her trail. At that point, may I recommend that she be introduced to the impalement stake? She deserves to suffer the same fate as her treacherous lover.” The date is AEP 1713. 
 
-GM Note: The writ is a hint that Isadora, the faithful partner of 
-Priscus Pulcher, eluded the imperial authorities and thus that 
-it might still be possible to locate her or her refuge. It is the 
-primary reason why Nerub Null pushed the Priscians to attempt 
-an expedition to Arden Vul, for he (rightly) believes that secret 
-Sortian knowledge and treasure is still to be located here. The 
-resting place of Isadora is SL11-19, although access to her tomb is 
-also possible through her ruined estate (AV-20).
+GM Note: The writ is a hint that Isadora, the faithful partner of Priscus Pulcher, eluded the imperial authorities and thus that it might still be possible to locate her or her refuge. It is the primary reason why Nerub Null pushed the Priscians to attempt an expedition to Arden Vul, for he (rightly) believes that secret Sortian knowledge and treasure is still to be located here. The resting place of Isadora is SL11-19, although access to her tomb is also possible through her ruined estate (AV-20).
 
-The armoire contains practical clothing, including several sets of 
-robes and slippers. Atop the coffee table are two bottles of strong 
-Archontean brandy (and six silver cups (50 gp total).
+The armoire contains practical clothing, including several sets of robes and slippers. Atop the coffee table are two bottles of strong Archontean brandy (and six silver cups (50 gp total).
 
-The chest holds 2,171 sp and 13,275 gp, a full set of Sortian 
-eyes (see new magic items), Nerub Null’s eight spell books, and 
-several codices: The Nine Hells: a Catalogue with descriptions and 
-summoning notes; The Founder and His Deeds; Great Villains of 
-Archontos, part V: Priscus the Traitor; Pandects of Thaumaturgical 
-Visitation; Planar Dwellers and their Powers; Summoning from the 
-Beyond; A True History of Isadora, companion of Priscus Pulcher, 
-(see Arden Vul books for all).
+The chest holds 2,171 sp and 13,275 gp, a full set of Sortian eyes (see new magic items), Nerub Null’s eight spell books, and several codices: The Nine Hells: a Catalogue with descriptions and summoning notes; The Founder and His Deeds; Great Villains of Archontos, part V: Priscus the Traitor; Pandects of Thaumaturgical Visitation; Planar Dwellers and their Powers; Summoning from the Beyond; A True History of Isadora, companion of Priscus Pulcher, (see Arden Vul books for all).
 
 Inhabitant:
-1. Nerub Null, Priscian war mage (see new monsters) and 
-member of Decimus, as an 18th-level male Archontean magic 
-user: SZ M; AL LE; AC 2; MV 120’; HD 18; HP 40; #AT 1; Dmg 
-2-7 (Sortian baculus) or 1-6 (staff of the magi). Abilities: STR 
-7, INT 19, WIS 17, DEX 9, CON 8, CHA 15. Possessions: a key to 
-9-58; Sortian baculus infused with suggestion; Priscian ring 
-infused with blink and dispel magic (see new magic items for 
-both); staff of the magi (18 charges); bracers of defense (AC 
-2). Memorized spells: alarm, friends, identify, magic missile, 
-wizard mark; acid arrow, detect invisibility, ESP, knock, 
-mirror image; dispel magic, fireball, slow, suggestion, 
-tongues; dimension door, extension I, polymorph other, 
-remove curse, shout; contact other plane, dismissal, dolor, 
-hold monster, teleport; chain lightning, ensnarement, 
-spiritwrack; banishment, forcecage, power word stun; 
-binding, maze; time stop. 
+1. Nerub Null, Priscian war mage (see new monsters) and member of Decimus, as an 18th-level male Archontean magic user: SZ M; AL LE; AC 2; MV 120’; HD 18; HP 40; #AT 1; Dmg 2-7 (Sortian baculus) or 1-6 (staff of the magi). Abilities: STR 7, INT 19, WIS 17, DEX 9, CON 8, CHA 15. Possessions: a key to 9-58; Sortian baculus infused with suggestion; Priscian ring infused with blink and dispel magic (see new magic items for both); staff of the magi (18 charges); bracers of defense (AC 2). Memorized spells: alarm, friends, identify, magic missile, wizard mark; acid arrow, detect invisibility, ESP, knock, mirror image; dispel magic, fireball, slow, suggestion, tongues; dimension door, extension I, polymorph other, remove curse, shout; contact other plane, dismissal, dolor, hold monster, teleport; chain lightning, ensnarement, spiritwrack; banishment, forcecage, power word stun; binding, maze; time stop. 
 
 Treasure:
 See text.
 
-Nerub Null’s Spell Books (in eight large volumes): All 1st-level 
-spells; all 2nd-level spells; all 3rd-level spells; charm monster, 
-confusion, dig, dimension door, extension I, fear, fire shield, 
-hallucinatory terrain, ice storm, massmorph, polymorph 
-other, polymorph self, remove curse, shout, stoneskin, wall 
-of fire, wizard eye; avoidance, conjure elemental, contact 
-other plane, dismissal, dolor, extension II, feeblemind, hold 
-monster, interposing hand, magic jar, monster summoning 
-III, sending, telekinesis, teleport, transmute rock to mud, 
-wall of force; chain lightning, contingency, disintegrate, 
-enchant an item, ensnarement, extension III, geas, invisible 
-stalker, legend lore, project image, reincarnation, repulsion, 
-spiritwrack; banishment, cacodemon, forcecage, instant 
-summons, limited wish, monster summoning V, phase door, 
-power word stun, teleport without error, torment, truename; 
-binding, demand, maze, permanency, spell immunity, 
-symbol, trap the soul; astral spell, gate, succor, time stop.
+Nerub Null’s Spell Books (in eight large volumes): All 1st-level spells; all 2nd-level spells; all 3rd-level spells; charm monster, confusion, dig, dimension door, extension I, fear, fire shield, 
+hallucinatory terrain, ice storm, massmorph, polymorph other, polymorph self, remove curse, shout, stoneskin, wall of fire, wizard eye; avoidance, conjure elemental, contact other plane, dismissal, dolor, extension II, feeblemind, hold monster, interposing hand, magic jar, monster summoning III, sending, telekinesis, teleport, transmute rock to mud, wall of force; chain lightning, contingency, disintegrate, enchant an item, ensnarement, extension III, geas, invisible stalker, legend lore, project image, reincarnation, repulsion, spiritwrack; banishment, cacodemon, forcecage, instant summons, limited wish, monster summoning V, phase door, 
+power word stun, teleport without error, torment, truename; binding, demand, maze, permanency, spell immunity, symbol, trap the soul; astral spell, gate, succor, time stop.
 
 ##### 9-64A: Chamber of Liesbet the Reptile
 
@@ -1543,73 +1489,77 @@ A bronze statue of Odin, badly corroded but still worth 3,500 gp; a beautifully 
 
 ### 9-66: Base of Waterfall (from 6-6a)
 
-The waterfall produced by the spillway (6-143) lands here in a thunderous downpour. An area 50’ around the base of the falls is cloaked in spume and mist. 
+* The waterfall produced by the spillway (6-143) lands here in a thunderous downpour.
+	* An area 50’ around the base of the falls is cloaked in spume and mist. 
 
 ### 9-67: Base of Waterfall (from 5-2a)
 
-The second waterfall of the Great Chasm finds its base here. An area 50’ in diameter around it is clouded with mist and spray.
+* The second waterfall of the Great Chasm finds its base here.
+	* An area 50’ in diameter around it is clouded with mist and spray.
 
 ### 9-68: Mist-obscured Cave 
 
-The entrance to this cave sits 30’ above the surface of the lake (9-65). It is also obscured by the mist and spray produced by the waterfalls. Once discovered, it appears to be a relatively benign place, save for being extremely damp and slightly cold. In fact it is highly dangerous, for it leads to the lair of a trio of mihstu that have made their home in this cave network; there is a 25% chance that one of the three mihstu is present here, blending into the mist. Due to the conditions, a mihstu present here has an enhanced chance to surprise (1 better pip on the dice).
+* The entrance to this cave sits 30’ above the surface of the lake (9-65), obscured by the mist and spray of the waterfalls.
+* It appears relatively benign, only extremely damp and slightly cold.
+	* The tunnels to 9-69 are small (6’ wide) and damp with moisture (difficult terrain).
+	* Halfway through the tunnel network are the corpses of an ogre (ogre mage) and a Priscian conversus (new), both recently slain by the mihstu.
+		* The conversus’s Priscian chain mail and gladius are no longer enchanted, but he has a potion of growth and a purse (45 sp, 23 gp).
 
-The tunnels that lead to 9-69 are relatively small (6’ in diameter) and damp with moisture; movement is halved. Noise or light in the tunnels is sure to alert the mihstu, who will be sure to use the opportunity of the terrain to ambush intruders from behind. Only cautious and quiet parties have a chance to arrive at 9-69 without alerting the mihstu. Halfway through the tunnel network are the corpses of an ogre (actually an ogre mage) and a Priscian conversus (see new monsters), both recently slain by the mihstu.
+* The cave leads to the lair of a trio of mihstu.
+	* (25%) one of the three mihstu is present here, blending into the mist (+1 to surprise).
+	* Noise or light in the tunnels is sure to alert the mihstu, who will seek to ambush intruders from behind.
+	* Only cautious and quiet parties might arrive at 9-69 without alerting the mihstu.
 
 1 mihstu (25% in cave; greater chance in tunnels): see stats at 9-69.
 
-Treasure:
-The conversus’s Priscian chain mail is no longer enchanted, nor is his Priscian gladius (see new magic items for both). He does have a potion of growth and a purse with 45 sp and 23 gp.
-
 ### 9-69: Lair of the Mihstu
 
-This large, damp cave is the lair of three mihstu. Because the tunnels that feed it are slightly higher than the floor of the cave, the moisture in this entire area has condensed into a shallow (5”-deep) pool of water that covers the floor. 
-
-To the south is a relatively dry ledge 10’ above the pool, on which is the badly rotted and encrusted corpse of a pair of ancient heroes. The pair fought an unauthorized duel in antiquity over a shared love interest. The duel led them all over Level 9 until they mortally wounded each other in this chamber. The seconds elected to lay them to rest together in secret. One is Brehmn the Scout, and the other is Sixtus Cornelius the praetor (c.f. 6-130). 
+* This large, damp cave is the lair of three mihstu.
+	* The tunnels leading in are slightly higher than the cave floor, so drainage has created a shallow (5”-deep) pool of water that covers the floor.
+	* South is a relatively dry ledge, 10’ above the pool.
+		* On it are a pair of stone burial-cairn of a pair of ancient heroes.
+			* They fought an unauthorized duel in antiquity over a shared love interest, leading them all over Level 9 until they mortally wounded each other in this chamber.  Their seconds laid them to rest together in secret.
+		* One is Brehmn the Scout, the other is Sixtus Cornelius the praetor (6-130). 
+			* Brehmn the Scout: buckler +2, battle axe, 2 javelins of lightning.
+			* Sixtus Cornelius: medium shield -1, missile attractor, long sword +1, flame tongue, potion of healing.
+		* A rotted purse: 53 ancient silver pennies, 33 ancient gold solidi, and 2 ancient octagonal platinum coins.
 
 3 mihstu (unless previously encountered): SZ M; AL NE; AC -2; MV 60’, 60’ flying (Class B); HD 8+2; HP 61, 57, 51; #AT 4; Dmg 2-7/2-7/2-7/2-7; MR 10%. Special attacks: drain CON. Special defenses: +2 or better weapons to hit; immune to electricity and all missiles (including magic missiles); stunned for 2-12 rounds by cold atacks.
 
-Treasure
-On the body of Brehmn the Scout: a buckler +2, a battle axe, and a pair of javelins of lightning.
-
-On the body of Sixtus Cornelius: a medium shield -1, missile attractor, a long sword +1, flame tongue, and a potion of healing.
-
-In addition to the bodies, a rotted purse contains 53 ancient silver pennies (see Arden Vul items), 33 ancient gold solidi (see Arden Vul items), and two ancient octagonal platinum coins (see Arden Vul items).
-
 ### 9-70: Tower of Walid
 
-A large rock formation rises from the lake bed in this location. The formation is 100’ tall, with 50’ extending below the surface of the lake and the rest towering over it. At a point 25’ above the surface of the lake a secret door leads to a hidden ‘tower’ constructed here by a long-forgotten Archontean sorcerer.
+* A 50'-tall rock formation rises from the lake (another 50’ extends below the surface).
+	* Within the rock is a hidden ‘tower’ constructed by a long-forgotten Archontean sorcerer.
+	* Secret Door (north side, 25’ above the lake): opens to a key (held by Walid the ogre mage (9-70), can picked or broken down.  Enters the middle level of the tower.
+* The tower consists of three identical levels, each 30’x20’ and 15’ tall, connected by a stone spiral staircase.
 
-Secret Door (north side): The door is normal to notice, and opens to a key. At the moment the only key is held by Walid the ogre mage (9-70). The lock could be picked or the door broken down.
+* Currently the tower is home to a band of five ogre magi (oni) led by the clever and fearsome Walid.
+	* They are afraid of the aroksachaul (9-50), and Walid has ordered them to limit their movement outside the tower until they depart.
+	* They are served by 7 goblin slaves.  They are terrified of being eaten, and initially fight for their masters. Should the tide appear to turn, they will betray the ogre magi and throw them-selves on the mercy of any intruders.
 
-The Tower
-The tower consists of three identical levels, each 30’x20’ and 15’ tall; the three are connected by a stone spiral staircase. The entrance level is the middle level. Currently the tower is home to a band of ogre magi led by the clever and fearsome Walid. The band is, however, afraid of the aroksachaul (9-50); Walid has ordered them to limit their movement outside the tower until they depart.
+Default locations
+* Entrance level: two ogre magi and three goblins
+* Upper Level: two ogre magi and three goblins
+* Lower level: Walid and one goblin
 
-Five ogre magi constitute Walid’s band; they are served by seven goblin slaves. Assuming they have not been defeated elsewhere, the initial locations of the band are as follows:
+##### Entrance Level: Living Space
 
-Entrance level: two ogre magi and three goblins
-
-Upper Level: two ogre magi and three goblins
-
-Lower level: Walid and one goblin
-Because the goblin slaves are terrified that they will be eaten, they will initially fight for their masters. Should the tide appear to be turning, however, they will betray the ogre magi and throw them-selves on the mercy of any intruders.
-
-Entrance Level: Living Space
 The chamber is lit by a pair of continual light spells and is finely decorated in antique Archontean style. There are four leather chairs, a settee, two low tables, a pair of tripods of heating (see new magic items), a cloak rack, a wine rack with a dozen bottles of liquor (2-20 gp each), and a fine carpet depicting a flying dragon (350 gp). Four leather-bound codices are scattered about the room: a copy of the Pandects of Thaumaturgical Visitation; Planar Dwellers and their Powers; Travels in the Astral Plane; and Great Villains of Archontos, part V: Priscus the Traitor (see Arden Vul books for all).
 
 Two ogre magi and three goblin slaves are present here. The ogre magi appear as humans in casual dress and attempt to engage any intruders in conversation and negotiation, posing as scholars trapped here by the arrival of the demonic huntsmen (9-50). Their conversation is meant to buy time to draw their compatriots from the other levels of the tower.
 
-Upper Level: Study and Bedroom
+##### Upper Level: Study and Bedroom
+
 Here is found a collapsed wooden bedframe, another pair of leather chairs, a tripod of heating (see new magic items), a beautiful teak desk (250 gp), another carpet (125 gp ), a bookshelf, and an armoire. The floor is covered with bone fragments and bits of gristle, as this is where the ogre magi sometimes consume their victims. Two ogre magi are busily devouring a bestial varumani, while three goblin slaves look on in terror. If combat breaks out in the entrance level, all inhabitants rush to join the fray.
 
 The armoire holds seventeen silken robes of various colors and styles, from formal robes to evening gowns (10-100 gp each). The desk is empty save for a scroll of protection against 
 possession. Atop the desk, however, are two, 18”-tall solid gold bookends carved as dragons (2,000 gp the pair) and a set of keys (both gold and platinum) to the Obsidian Gates (5-6D). On the bookshelves are the following: Thoth in All His Forms; the Trifold Tome of Theodore the Wise; the Eighth Collegium – Fact or Fiction?; On Friends and Enemies; Great Villains of Archontos, part II: Kegfiller the Proedros; Lexicon of Mithric; The Lives of the Noble Founders; On the Errors of the Sortians; and Plotina’s Recipe Book (see Arden Vul books for all).
 
-Lower Level: Laboratory and Charnel House
+##### Lower Level: Laboratory and Charnel House
+
 The base of the tower contains a wizard’s laboratory, with two work tables, alchemical equipment, and supplies. It is also where the ogre magi torment their victims before carving them up. The floor is stained with blood, and a pile of cleaned bones lies in one corner. The glassware, retorts, mortars, and so forth are of fine quality, and worth 2,500 gp. A crate stuck under the workbench holds a small fortune in platinum: a 2-lb bag of platinum shavings worth 500 gp, and 2 20-lb bars each worth 5,000 gp. Also in the box is a codex entitled Platinum Portals: an Improvement on the Standard Silver Models; the author is one Cornelius of Arden Vul, the former resident of the tower (whose bones are in the pile). Amid the alchemical supplies are 5 potions: potions of plant control, treasure finding, oil of impact, oil of etherealness, and a philter of love.
 
 Currently Walid and one goblin slave are here, carving up a dead human adventurer whom he charmed and slew elsewhere in the Halls. The adventurer’s gear includes a suit of chain mail, a ring of clumsiness, 77 gp, and five pink pearls (100 gp).
-
-Inhabitants:
 
 Walid, chief of the ogre magi: SZ L; AL LE; AC 4; MV 90’, 150’ flying (Class B); HD 7+2; HP 55; #AT 1; Dmg 3-14. Special attacks: charm person 1/day; sleep 1/day; ray of cold 1/day. Special defenses: fly (12 turns); become invisible; darkness 10’ radius; polymorph to human form; regenerate 1 HP/rd; assume gaseous form. Walid attacks and saves as a 9 HD monster. He wears a periapt of proof against poison and a ring of higher purpose (see new magic items), and wields a wand of illusion and a crossbow of accuracy +3 (with 12 bolts +2). He is 
 unaware of the purpose of the ring, but knows it is magical.
@@ -1621,38 +1571,48 @@ Seven goblin slaves: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 7, 6, 5, 5, 4, 4, 3
 
 ### 9-71: The Rimpled Run
 
-This river flows from the lake (9-65) towards the north and east. The current is noticeable if not particularly strong, as the river bed has a gradual declination. 
+* This river flows from the lake (9-65) towards the north and east.
+	* The current is noticeable, but not particularly strong, with a gradual declination. 
 
 ### 9-72: Northeastern Plateau
 
-This narrow plateau is the companion to area 9-49, albeit on the north side of the Rimpled Run (9-71). It is a bit less tall than 9-49, standing only 15’ above the level of the lake and 10’ above area 9-73. A set of stone stairs cut into an outcropping leads down to 9-73.
-
-The stumps of six basalt columns that once reached to the cavern ceiling stand alongside the river. Atop one of them is the flayed corpse of a quickling; atop another is the charred and flayed corpse of a lesser varumani.
+* This narrow plateau matches 9-49, but on the north side of the Rimpled Run (9-71).
+	* It stands 15’ above the level of the lake and 10’ above 9-73.
+	* A set of stone stairs cut into an outcropping leads down to 9-73.
+* Stumps of 6 basalt columns that once reached the cavern ceiling stand by the river.
+	* Atop one is the flayed corpse of a quickling; atop another is the charred and flayed corpse of a lesser varumani.
 
 ### 9-73: Northeastern Mushroom Grove
 
-The small area between the heqeti causeway (9-75) and the Rimpled Run (9-71) is filled with more colossal mushrooms. The grove here is dark, as it is composed primarily of blue trumpets and cloud caps (see new flora). Four shriekers also wander slowly through the area. Triggering the shriekers’s noise causes the heqeti in areas 9-78 to 9-81 to be on high alert for 3-8 turns, and provokes an immediate roll on the appropriate random encounters chart.
+* The small area between the heqeti causeway (9-75) and the Rimpled Run (9-71) is filled with more colossal mushrooms.
+	* The grove is dark, composed mostly of blue trumpets and cloud caps (flora).
+	* Four shriekers also wander slowly through the area.
 
-Should the dam on Sub-Level 6 (SL6-25) be destroyed, a portion of the groves in a zone extending from 9-65 to 9-6 will be swept clear of anything that is not stone (including mushrooms and shriekers). After 7-10 hours, this area will drain, leaving a layer of sticky muck.
+* The shriekers’s noise causes the heqeti in 9-78 to 9-81 to be on high alert for 3-8 turns, and calls for an encounter roll.
+
+* If the dam at SL6-25 is destroyed, a portion of the groves extending from 9-65 to 9-6 is swept clear of anything besides not stone (including mushrooms and shriekers).
+	* After 7-10 hours, the area drains, leaving a layer of sticky muck.
 
 4 shriekers: SZ L; AL N; AC 7; MV 10’; HD 3; HP 19, 17, 16, 13; #AT 0; Dmg nil. Special attacks: noise.
 
 ### 9-74: Stone Faces
 
-The ancient heqeti carved two monstrous, 15’ faces onto the flattened walls of this corner of the cavern. 
-
-One face is a depiction of Kauket (see new monsters): an ovoid face, with saucer-like empty eyes, and a quarter-moon-like, toothless maw. The stone of the face is old, pitted, and slowly exudes a light yellowish, oily substance; it is the same material as the tears of Kauket, but appears in too small a quantity to coalesce into an actual tear. If tasted, however, the liquid acts as a tear of Kauket (see new magic items). 
-
-The other face depicts Rimmaq-Isfet (see new monsters): a circular face, three lidless eyes, and an enormous maw that occupies 2/3 of the face. The maw is fanged with impossibly narrow, sharp teeth, and is surrounded by a forest of feelers/tentacles. Like Kauket’s, this face also oozes imperceptibly; the ooze is viscous but clear, and acts like the sweat of Rimmaq-Isfet (see new magic items) if tasted.
-
-Surrounding the two giant faces are 337 smaller faces, only 2’ high. These are far cruder than the two major ones, and represent all of the heqeti builders (see new monsters) that have governed the heqeti in Arden Vul over the millennia. The smaller faces are all slightly different.
+* The ancient heqeti carved two monstrous, 15’ faces onto the flattened walls of this corner of the cavern.
+	* Kauket: an ovoid face, with saucer-like empty eyes, and a quarter-moon-like, toothless maw.
+		* Old, pitted stone, slowly exuding a light yellowish, oily substance (tears of Kauket: but too scanty to coalesce into an actual tear, but acts as one if tasted).
+	* Rimmaq-Isfet: a circular face, three lidless eyes, and an enormous maw occupying 2/3 of the face, ringed with impossibly narrow, sharp teeth, and surrounded by a forest of feelers/tentacles.
+		* Seeps a clear, viscous ooze (sweat of Rimmaq-Isfet (new)).
+	* Surrounding the two giant faces are 337 smaller faces, only 2’ high. 
+		* Far cruder than the 2 major ones,e ach slightly different, representing all the heqeti builders that have governed in Arden Vul over the millennia.
 
 ### 9-75: Heqeti Causeway
 
-This ancient, pitted stone causeway offers the primary entrance to the heqeti dwellings and ziggurat on Level 10. It stands 10’ above the level of the mushroom groves and is pebbled and greasy like all heqeti construction. Short, steep staircases lead down from the causeway to the groves on either side, while a third leads downward into the waters of the lake (9-65). 
-
-Six pairs of carved granite pillars once stood along the causeway. Those pillars were all broken in antiquity, leaving stumps between 6”-18” high. The modern heqeti have driven 5’-
-tall, black iron rods into each of the stumps. The ends of these rods are curved into sharpened hooks, from each of which depends a moldering and flayed corpse. The naked corpses include three (scorched) bestial varumani, five humans, a dwarf, two goblins, and a halfling. These horrific remains attract numerous insects.
+* This ancient, pitted stone causeway is the primary entrance to the heqeti dwellings and ziggurat on Level 10.
+	* It stands 10’ above the mushroom groves, pebbled and greasy like all heqeti construction.
+	* Short, steep staircases lead down from the causeway to the groves on either side.  A third stair leads downward to the waters of the lake (9-65). 
+	* Six pairs of carved granite pillars once stood along the causeway, all broken in antiquity, leaving shin-high stumps.
+	* The modern heqeti drove 5’-tall, black iron rods into each stump, the ends curved into sharpened hooks, with a moldering and flayed corpse on each, swarming with insects.
+		* 3 (scorched) bestial varumani, 5 humans, a dwarf, 2 goblins, and a grimalkin. 
 
 ## Level 9: 76 - 90
 
@@ -1677,9 +1637,10 @@ A mute goblin victim: SZ S; AL LE; AC 6; MV 60’; HD 1-1; HP 4; #AT 1; Dmg 1-6.
 
 ### 9-77: Abandoned Heqeti Chamber
 
-Due to the cave-in to the east, this ancient heqeti chamber is unoccupied. The doorway leading to the collapsed eastern corridor is trapped.
-
-Trapped Stone Door (glyphs of warding): Two glyphs of warding have been cast here by heqeti weavers. One is a glyph of lightning (doing 20 hp damage to those who do not save) and the other is a glyph of energy drain. The glyphs are placed so that opening the door triggers both. The noise of the glyph of lightning is likely (75% chance) to alert the heqeti at 9-78.
+* Due to the cave-in to the east, this ancient heqeti chamber is unoccupied.
+	* The doorway leading to the collapsed eastern corridor has 2 glyphs of warding.
+		* Glyph of lightning (save or 20 damage, 75% the noise alerts the heqeti at 9-78)
+		* Glyph of energy drain
 
 ### 9-78: Bone Portcullis and Heqeti Guardpost 
 
@@ -1705,34 +1666,55 @@ The builder wears a copper torc chased with platinum (550 gp) and assorted rings
 
 ### 9-79: Heqeti Chamber
 
-This darkened chamber has all the usual features of heqeti construction. A heqeti riding salamander is tied to an iron ring set in the floor. In case of serious assault, one of the chosen from 9-78 will mount the riding salamander and flee down area 9-82 to warn the Great Tongue (see Level 10 introduction and 10-47).
+* This darkened chamber has all the usual features of heqeti construction. 
+	* A heqeti riding salamander is tied to an iron ring set in the floor. 
+	* In case of serious assault, a chosen from 9-78 mounts the riding salamander and flees down 9-82 to warn the Great Tongue (see Level 10 introduction and 10-47).
 
 1 riding salamander (see new monsters): SZ L; AL N; AC 6; MV 60’, 90’ swimming; HD 6; HP 35; #AT 1; Dmg 2-12.
 
 ### 9-80: The Exsanguinator
 
-This side chamber holds a sinister, 4’-tall and 7’-long contraption made of wood, bone, and leather. It is roughly man sized, with strong, iron-reinforced extensions for arms, legs and head and a pair of jointed, wood-mounted, razor-sharp bone daggers attached near the head. This is the heqeti exsanguinator, used for rituals in 9-76. It can be pushed there by 2 chosen, or 3 if it contains a victim. It works by strapping the victim onto the contraption, 
-then adjusting the jointed ‘arms’ with the bone daggers until the sharpened bone begins to slice the jugular vein of the victim. The heqeti are masters of doing this slowly, such that the blood flows below into the copper vessels they use to collect it. The exsanguinator detects strongly of evil, and any paladin would feel it her duty to destroy the device.
+* This side chamber holds a sinister, 4’-tall, 7’-long contraption of wood, bone, and leather.
+	* It has strong, iron-reinforced extensions for arms, legs and head and a pair of jointed, wood-mounted, razor-sharp bone daggers attached near the head. 
+	* The exsanguinator detects strongly of evil.
+
+* The heqeti exsanguinator is dragged to 9-76 for rituals.
+	* A victim is strapped into it and the jointed ‘arms’ with the bone daggers are adjusted until the sharpened bone begins to slice the jugular vein of the victim.
+	* The heqeti are masters of doing this slowly, letting blood flows into the copper vessels they use to collect it. 
 
 ### 9-81: Heqeti Barracks
 
-This chamber serves as a living quarters for the heqeti assigned to guard the gate at 9-78. To the south end of the room is a 10’-deep pool running across the width of the chamber. The east and west walls are lined with eight stone sleeping benches (4’x4’x6’). To the north are a pair of decapitated and charred varumani hanging from hooks on the wall; the heqeti use them for target practice. The walls and ceiling are painted an unsettling mauve color; the floor is black, with numerous white teardrops.
+* This chamber is the living quarters for the heqeti assigned to guard the gate at 9-78.
+	* The walls and ceiling are painted an unsettling mauve color; the floor is black, with numerous white teardrops.
+	* Running across the width at the south end of the chamber is a 10’-deep pool.
+	* The east and west walls are lined with 8 stone sleeping benches (4’x4’x6’).
+	* North is a pair of decapitated and charred varumani hanging from wall hooks.
+		* The heqeti use them for target practice.
 
 1 heqeti weaver (see new monsters), as a 7th/7th-level magic user/cleric of Kauket: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 7; HP 34; #AT 1; Dmg 5-10 (footman’s mace +2). 
-Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); staff of healing (4 charges); copper-headed footman’s mace +2; two glass spheres of arcane assistance (one 
-of arcane warding, one of protection) (see new magic items); potion of gaseous form. Magic user spells: enlarge, jump, magic missile, shield; continual light, levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other. Cleric spells: bless, command (x2), create water, cure light wounds; chant, hold person (x2), resist fire, silence 15’ radius; animate dead, blindness; sticks to snakes. Spell book: dancing lights, detect magic, enlarge, 
-jump, magic missile, protection from good, read magic, shield, sleep; darkness 15’ radius, invisibility, knock, mirror image, ray of enfeeblement, strength; blink, dispel magic, gust of wind, lightning bolt, slow.
+Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
+* Possessions:
+	* amulet of natural armor +2 (new)
+	* staff of healing (4 charges)
+	* copper-headed footman’s mace +2
+	* two glass spheres of arcane assistance (1x arcane warding, 1x protection) (new)
+	* potion of gaseous form
+	* Assorted jewelry and amulets (750 gp)
+* Magic user spells: enlarge, jump, magic missile, shield; continual light, levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other. 
+* Cleric spells: bless, command (x2), create water, cure light wounds; chant, hold person (x2), resist fire, silence 15’ radius; animate dead, blindness; sticks to snakes. 
+* Spell book: dancing lights, detect magic, enlarge, jump, magic missile, protection from good, read magic, shield, sleep; darkness 15’ radius, invisibility, knock, mirror image, ray of enfeeblement, strength; blink, dispel magic, gust of wind, lightning bolt, slow.
 
-3 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 42, 40, 37; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice. The javelins of these chosen are smeared with Kauket’s vision (see Arden Vul items).
+3 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 42, 40, 37; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice.
+* The javelins of these chosen are smeared with Kauket’s vision (see Arden Vul items).
+* Gewgaws (225 gp each).
 
 3 heqeti hoppers (see new monsters), as 5th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 5; HP 38, 34, 33; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
 
-Treasure:
-The weaver wears assorted jewelry and amulets worth 750 gp, while the chosen wear gewgaws worth 225 gp each.
-
 ### 9-82: Broad Corridor to Level 10-1
 
-This 20’-wide corridor slopes downward about 300’ to the heqeti complex on Level 10 (10-1). Every 20’ a green-luminescent fungal pod has been affixed to the oily walls. Every 60’ the corridor descends down a flight of stairs built for non-human feet.
+* This 20’-wide corridor slopes downward 300’ to the heqeti complex (10-1).
+	* Every 20’ a green-luminescent fungal pod has been affixed to the oily walls. 
+	* Every 60’ the corridor descends a flight of steps built for non-human feet.
 
 ### 9-83: Northern Mushroom Groves
 
@@ -1761,19 +1743,26 @@ per round; crush aattack (4-24 damage) Special defenses: tendrils take 10 HP dam
 
 ### 9-84: Stagnant Pool 
 
-A stagnant pool of smelly liquid sits in the center of the northern mushroom groves. The pool varies in depth, but is typically only 1-3’ deep. It is fed by channels from the west and north; those channels are often dry, but occasionally channel liquids hurled into the chasm from above. The pool cannot sustain life, but is nonetheless an attraction for the shambling mounds and the fungal render, which may often be found near its shores. See 9-83 for details.
+* A smelly, stagnant pool sits in the center of the northern mushroom groves.
+	* The pool varies in depth, averaging only 1-3’ deep, fed by channels from the west and north.  The channels are often dry, but occasionally channel liquids hurled into the chasm from above. 
+	* Buried in the muck: 2 deep green spinels (100 gp each), a deep blue spinel (500 gp), a blue star sapphire (1,000 gp), and a silver and emerald necklace (2,000 gp).
+		* 10% / turn of searching to find one.  After 3 are found, the chance drops to 5%.
 
-Treasure:
-Four gems and a bejeweled necklace are buried in the muck of the pool: two deep green spinels (100 gp each), a deep blue spinel (500 gp), a blue star sapphire (1,000 gp), and a silver and emerald necklace (2,000 gp). Searchers have a 10% chance per turn of finding one of the six valuable items. After three valuable items are found, the chance decreases to 5%. 
+* The pool cannot sustain life, but is nonetheless an attraction for the shambling mounds and the fungal render, which may often be found near its shores (see 9-83).
 
 ### 9-85: Western Plateau
 
-This rocky plateau sits 10’ above the northern mushroom groves (9-83) and the lake (9-65). Sloping gently from the chasm wall to its eastern and southern edges, the plateau is usually slick with moisture and liquids tossed into the chasm from above. Movement here is halved. Those using light and noise are sure to alert the shambling mounds (9-83) and other chasm denizens to their presence.
+* This rocky plateau sits 10’ above the northern mushroom groves (9-83) and lake (9-65).
+	* Sloping gently from the chasm wall to its eastern and southern edges, the plateau is usually slick with moisture and liquids tossed into the chasm from above (difficult terrain). 
+
+* Light and noise are sure to alert the shambling mounds (9-83) and other chasm denizens.
 
 ### 9-86: Dangerous Path to 7-147
 
-A dangerous path to Level 7 commences here at the edge of the mushroom grove. This path is narrow, slippery, and fraught with danger, as it is nothing more than a set of occasional ‘steps’ inter-spersed with hand-holds, foot-holds, and cracks. The bestial varumani use it to access the chasm floor without the knowledge of the troll thegn (7-30). The path rises 300’ to area 7-147. Given its primitive nature, this route is extremely dangerous. Those climbing 
-or descending it must roll 3d6 under DEX every 100’ or fall off. Thieves, or others with special climbing skills, only need roll 2d6 under DEX.
+* A dangerous path to Level 7 commences here at the edge of the mushroom grove.
+	* Narrow, slippery, and fraught with danger, it is nothing but a set of occasional ‘steps’ inter-spersed with hand-holds, foot-holds, and cracks, rising 300' to 7-147.
+		* The bestial varumani use it to access the chasm floor without the knowledge of the troll thegn (7-30).
+		* Climbers roll 3d6 (2d6 w/ skill, e.g. thieves) under DEX every 100’ or fall.
 
 ### 9-87: Midden with Buried Statue
 
@@ -1862,27 +1851,38 @@ items); a ring of protection +3; a scroll of protection from petrification; a sc
 
 ### 9-92: Basin Full of Opalescent Liquid
 
-This side chamber holds a softly gurgling basin of black granite that is 15’ diameter and 3’ deep. The basin is filled with opalescent, sparkly liquid. Anything coated in the liquid will levitate in the shaft (9-91). The coating lasts for an hour, but can, strangely enough, be brushed off easily.
+* This side chamber holds a softly gurgling black granite basin, 15’ diameter and 3’ deep.
+	* It is filled with opalescent, sparkly liquid.
+		* Anything coated in the liquid levitates in the shaft (9-91).  The coating lasts for an hour, but can, strangely enough, be brushed off easily.
 
 ### 9-93: Rudishva Bastion: Supply Closet
 
-The walls of this chamber are set with wire shelves made of white plasteel. The shelves are mostly empty, save for some waxy, crumpled paper-like substances, each with a set of Rudishva glyphs on one side. Among the scattered wrappers is also a lone rudishva ballistic baton and three empty data crystals for use in GnuCoder-series devices (see new technological items). 
+* The walls of this chamber are set with wire shelves of white plasteel.
+	* They are mostly empty, save for some waxy, crumpled paper-like wrappers with Rudishva glyphs them.
+	* Among the wrappers is a rudishva ballistic baton and 3 empty data crystals for GnuCoder-series devices (tech).
 
 ##### 9-93a: Empty Niche
 
-When PCs first enter the bastion, an automated rudishva dust ionizer (see new technological items) is found here, partly through its six-hour cleaning routine. The routine takes it on a clockwise circuit through the open areas of the bastion, a fact which may surprise and/or alarm jumpy PCs. Of course the ionizer is completely harmless. It has kept the bastion dust-free for many centuries and could be easily removed and transported elsewhere where it will happily perform the same service.
+* An automated rudishva dust ionizer (tech) here, part-way through its 6-hour cleaning routine; a clockwise circuit through the open areas of the bastion.
+	* The ionizer is completely harmless and has kept the bastion dust-free for many centuries.  It can be moved elsewhere where it will happily perform the same service.
 
 ### 9-94: Rudishva Bastion: Captain’s Quarters
 
-The door to this private chamber is a rudishva iris door; it opens only to a silver or yellow rudishva identity plaque (see new technological items).
+* The iris door opens only to a silver or yellow rudishva identity plaque.
+* Within are the quarters of Leil-Jor, captain of the Beacon. 
+	* Furnishings include a wall-mounted bed, a wrap-around desk, and a wardrobe, all of white plasteel. 
+		* Wardrobe: 2 light blue jumpsuits, footwear (desert boots, for large feet). 
+		* Desk:
+			* A pair of keys (gold and platinum) to the Obsidian Gates (5-6D)
+			* A GnuCoder 3000 data recorder with a data crystal loaded (tech)
+				* crystal: Solutions to the Propulsion Problem (books).  Describes the compounds needed to fuel the LOAV-291 Shuttle (see SL13-37). 
+			* An operator card to the console in 9-89. 
+	* A 5’-tall table of orange plasteel is set into the floor just inside the doorway.
+	* Mounted on the south wall is a holographic display screen that alternates pictures of nebulae and random locations within Arden Vul.
+		* Cycles through 550 unique images once every ten minutes. 
 
-Within are the quarters of Leil-Jor, captain of the Beacon. 
-
-Furnishings include a wall-mounted bed, a wrap-around desk, and a wardrobe. All are made of white plasteel. In addition, a 5’-tall table made of orange plasteel is set into the floor just inside the doorway. Mounted on the south wall is a holographic display screen that alternates pictures of nebulae and random locations within Arden Vul, cycling through 550 unique images once every ten minutes. The wardrobe contains two light blue jumpsuits and 
-some strange footwear (desert boots, but for large feet). On the desk are some rare items: a set of keys (one gold and one platinum) to the Obsidian Gates (5-6D), a GnuCoder 3000 data recorder with a data crystal inserted into it (see new technological items for both), and one of the operator cards to the console in 9-89. The data crystal carries the somewhat unappealing title Solutions to the Propulsion Problem (see Arden Vul books), but is in fact a rather important object for those interested in employing the LOAV-291 Shuttle (see SL13-37B); indeed, it describes the compounds necessary to fly the shuttle (see SL13-37). 
-
-Treasure:
-GnuCoder 3000; data crystal; operator card to 9-89; command tablet, aka tablet of the Beacon (see new technological items for all).
+GM NOTE: 
+* There's a command tablet (Tablet of the Beacon) just sitting here in the treasure description, but not even mentioned in the room contents.  Skip this and let the one in Marius' rebout be THE table.
 
 ### 9-95: Rudishva Bastion: First Officer’s Quarters 
 
@@ -1976,13 +1976,17 @@ Each spriggan carries a pouch with 75 gp, 15 gp and a potion; one of the sprigga
 
 ##### 9-99a: Narrow Tunnel up to SL10a-8
 
-This 5’-wide passage winds upward until it reaches the cavern outside the citadel of the Sun-Scarred Knights (SL10A-8). Periodic steps have been hewn out of the rock along this tunnel.
-
-Secret Door (south): The door is easy to find (1 in 3), mostly because five faded musical notes have been painted on it in red. It opens by singing or playing a bar of music with at least five different notes.
+* This 5’-wide passage winds upward to the cavern outside the citadel of the Sun-Scarred Knights (SL10A-8).
+	* Periodic steps have been hewn out of the rock along this tunnel.
+	* Secret Door (south): easy to find (1 in 3), 5 faded musical notes have been painted on it in red. It opens when they are sung/played.
 
 ## Level 9: 100 - 107 (The Archontean Praitorion)
 
-This small complex was built in the aftermath of Archon Marius’s conquest of the heqeti. He ordered a command center to be built here, to watch against heqeti recrudescence. By tradition, the complex – which came to be known at the Praitorion – was the home to an elite tagma of guardsmen and the resting place of one of the great treasures of Arden Vul, the tablet of the Beacon (see 9-107). When the Archonteans retreated some 1,200 years ago, the Praitorion was abandoned. Over the intervening twelve centuries, it has suffered structurally from seismic activity, particularly around the spot where area 9-100 connected to area 9-98. And yet the tablet still rests in its reliquary, thanks mostly to the efforts of a vengeance aspect of Sekhmet (9-104), whose fearsome powers have kept the Praitorion clear of looters.
+* This small complex was built in the aftermath of Archon Marius’s conquest of the heqeti to watch against heqeti recrudescence.
+	* By tradition, the complex – which came to be known at the Praitorion – was the home to an elite tagma of guardsmen and resting place of one of the great treasures of Arden Vul, the tablet of the Beacon (see 9-107).
+	* When the Archonteans retreated 1,200 years ago, the Praitorion was abandoned.
+	* Over the centuries, it has suffered from seismic activity, particularly where 9-100 connected to 9-98.
+	* The tablet still rests in its reliquary, thanks mostly to a vengeance aspect of Sekhmet (9-104), whose fearsome powers have kept the Praitorion clear of looters.
 
 ### 9-100: The Praitorion: Central Hall
 
@@ -2002,7 +2006,10 @@ scroll case with a scroll of transmute rock to mud, and a set of Priscian chain 
 
 ### 9-101: The Praitorion: Route to 7-136
 
-This broad corridor leads upward to Level 7 (area 7-136). It is mostly untraveled, with two exceptions. One is the vampire, Cinna Minux (7-122), who regularly travels this way in gaseous form. The other is a bold band of Priscians from the outpost (areas 9-58 to 9-64), who made their way past Celsus Torquatius (9-104) and are now engaged in a desperate battle in area 7-143. Signs of this party’s passage are evident in the dust and general debris. 
+* This broad corridor leads upward to 7-136 and is mostly untraveled, with two exceptions.
+	* Cinna Minux (7-122) regularly travels this way in gaseous form.
+	* A bold band of Priscians from the outpost (9-58 to 9-64).  Signs of their passage are evident in the dust and general debris. 
+		* They made their way past Celsus Torquatius (9-104) and are now engaged in a desperate battle in 7-143.
 
 ### 9-102: The Praitorion: Barracks of the Elite Guards
 
@@ -2016,17 +2023,14 @@ To the west of the divider are the ruins of eight wooden bunkbeds, all collapsed
 D6 Item GM Notes
 
 1
-
 6 ballista bolts for the machines found at 9-98, wrapped in a decrepit woolen cloak 
 
 Five are normal bolts, but oneis an incendiary bolt (explodes for an additional 2-16 HP damage on a hit)
 
 2
-
 603 ancient silver pennies (see Arden Vul items) inside a rusted legionary’s helmet
 
 3
-
 A bronze plaque, 3”x6”, with an enameled image of a lion-headed goddess carrying a spear and an ankh, plus an inscription
 
 The plaque shows Sekhmet (see 9-104), the aspect of Wadjet, in her guise as goddess of war
@@ -2034,13 +2038,11 @@ and avenging fire. The inscription reads (in Mithric) “Sekhmet, whose fire cle
 defends the fortress”. The plaque is worth 50 gp.
 
 4
-
 5 javelins tied up with a long rope
 
 The rope is an elven rope (see new magic items)
 
 5
-
 A writing tablet made of bronze with a wax interior; a draft letter is still visible in the wax
 
 The letter reads: “Dearest Manlia: the situation continues to deteriorate. The priests have fled 
@@ -2049,7 +2051,6 @@ from the administrative precincts, and yet we are required to maintain our posit
 The draft letter reveals some of the rationale behind the murder of Celsus Torquatius by his men (see 9-104)
 
 6
-
 Three enormous black freshwater pearls, strung together on a piece of rawhide
 
 The pearls are worth 5,000 gp each; the ‘rawhide’ is cured human skin.
@@ -2063,35 +2064,29 @@ Searching is also possible, with the same chances for success as in 9-102. Roll 
 D6 Item GM Notes
 
 1
-
 4 ballista bolts suitable for the machines in 9-98
 
 2
-
 A large plug of aromatic leaves, lightly bound together with oil and wrapped in silk
 
 The leaves are a mild narcotic. If chewed they provide a +2 defense vs fear and mental attacks for a period of up to 6 turns, but cause a temporary loss of 1 point of WIS. The plug contains 9-12 doses
 
 3
-
 A polished ceremonial shield made of wood with substantial silver adornments, including a grinning troll’s head carved into the silver boss
 
 The shield provides no bonus to AC, but does provide a +5% to reaction rolls to all but varumani, with whom it provides a -15% modifier to reaction rolls (since the varumani resent the caricature)
 
 4
-
 A gladius in a wooden sheath; it glows brightly upon examination
 
 The sword is a cursed short sword -2.
 
-5 A 
-
-bag with 37 pieces of turquoise in it
+5
+A bag with 37 pieces of turquoise in it
 
 The turquoise is worth 10 gp per piece; amid the lesser gems is afine emerald worth 1,250 gp.
 
 6
-
 A folded parchment rescript from Archon Pellas the Last to a certain Jovianus Rubeus
 
 The rescript has been folded and unfolded several times. It reads: “To Jovianus Rubeus, dekarch in I Legio, from Pellas Idreonus, archon. You are hereby and immediately reassigned to the Guards Tagma stationed to the Praitorion within the mountain. Report immediately to the chiliarch of the tagma, Celsus Torquatius, for further instructions. Obey him as you would your own scutarion. May the emperor lend you strength. [dated 1803 AEP]” 
@@ -2173,9 +2168,11 @@ Secret Door (south): The door is difficult to spot (1 in 8 chance) due to its th
 
 ##### 9-108a: Door Mechanism
 
-This small cave contains the second mechanism by which the secret door to 9-108 can be opened. The mechanism takes the form of a stone cap placed over a metal rod rising out of the ground. Holes (3” in diameter) are set into the cap, allowing objects to be placed into the cap like spokes from the hub of a wheel. With these ‘spokes’, the cap can be turned slowly, causing the secret door to 9-108 to rise.
-
-Two 3’ iron bars are found on the ground near the mechanism. They clearly fit into the stone cap.
+* This small cave contains the second mechanism for the secret door to 9-108.
+	* A stone cap placed over a metal rod rises from the ground.
+	* Holes (3” in diameter) in the cap, allow objects to be placed into the cap like spokes from the hub of a wheel.
+		* The cap can be turned with these 'spokes', raising the secret door to 9-108.
+	* Two 3’ iron bars are on the ground near the mechanism, clearly fitting the stone cap.
 
 ### 9-109: Silent Canyon
 
@@ -2214,7 +2211,14 @@ Soapstone Kauket idol (250 gp).
 
 ##### 9-111b: West Cave and Ledge
 
-Although this cave and ledge are initially unoccupied, the old ones from 9-111A will arrive here 3-4 rounds after initiating combat with those on the canyon floor. In addition, those who did not previously alert the old ones but spend time (with light and noise) investigating the colossus (9-110) will cause the old ones from 9-111A to move here and begin hurling stones at the intruders. The floor is worked, even if the walls show signs of cave-ins. A rough worked corridor extends west, but ends in a cave-in. One of Kerbog Khan’s dragonfly automatons (see new monsters) has been smashed into inoperative status here; if returned to Kerbog Khan (see SL12-25), the Khan will be grateful to the tune of four 300-gp gems or four pieces of useful Arden Vul related information. 
+This cave and ledge are initially unoccupied, but the old ones from 9-111a arrive here 3-4 rounds after initiating combat with those on the canyon floor.
+
+In addition, those who did not previously alert the old ones but spend time (with light and noise) investigating the colossus (9-110) will cause the old ones from 9-111A to move here and begin hurling stones at the intruders.
+
+The floor is worked, even if the walls show signs of cave-ins. 
+A rough worked corridor extends west, but ends in a cave-in. 
+
+One of Kerbog Khan’s dragonfly automatons (see new monsters) has been smashed into inoperative status here; if returned to Kerbog Khan (see SL12-25), the Khan will be grateful to the tune of four 300-gp gems or four pieces of useful Arden Vul related information. 
 
 ### 9-112: Ancient Heqeti Ruin
 
@@ -2228,47 +2232,63 @@ invisible; silver, or +1 or better weapons to hit. Turned as spectres.
 
 ##### 9-112a: Ledge with Old Ones
 
-Four more heqeti old ones wait patiently on this ledge, which sits 20’ above the chasm floor. They are armed with spears and rocks; after 2-3 rounds of hurling rocks, they leap down on their foes to engage hand-to-hand.
+* 4 heqeti old ones wait patiently on this ledge, 20’ above the chasm floor.
+	* They hurl rocks for 2-3 rounds of hurling rocks, they leap down to engage foes.
 
 4 heqeti old ones (see new monsters): SZ M; AL CE; AC 3; MV 90’; HD 6+6; HP 45, 40, 39, 38; #AT 1 Dmg 3-12. Special attacks: leap; cursed tongue. Special defenses: turned as spectres; half damage from piercing and edged weapons; immune to sleep, charm, hold, and cold-based spells.
 
 ### 9-113: Ancient Heqeti Ruin with Shaky Roof
 
-Like area 9-112, this structure is partly free-standing within the canyon, and partly embedded in the canyon wall. The external walls are the same drystone construction, and, miraculously, its wood-and-slate roof is still in place. The wooden door, too, is still present, although it is badly stuck. It can easily be broken down (add one pip to the chance for any open doors roll), but doing so causes the roof to collapse within 3 rounds. The collapsing roof does 2-8 HP damage to any within the structure, and causes a great deal of noise. 
-
-No furnishings remain, although a pair of fired ceramic tiles may be found after 1-2 turns of sifting through the rubble. One tile shows tiny heqeti figures surrounding a ziggurat on top of which sits an enormous salamander thing (Kauket, see new monsters). The other has some indecipherable tally marks (a primitive accounting system). Two corridor fragments lead to ancient cave-ins. A silver ritual club (250 gp) lies amid the debris.
+* Like 9-112, this structure is partly free-standing within the canyon, partly embedded in the canyon wall.
+	* The external walls are drystone construction; its wood-and-slate roof is still in place. 
+	* The wooden door is intact, fragile, and badly stuck.  If broken down (+1 to open doors), the roof collapses within 3 rounds (2d8 to any within, and very noisy).
+* No furnishings remain.
+	* With 1d2 turns of searching the rubble, a pair of fired ceramic tiles may be found.
+		* Tile 1: shows tiny heqeti figures surrounding a ziggurat atop which sits an enormous salamander thing (Kauket).
+		* Tile 2: indecipherable tally marks (a primitive accounting system). 
+* 2 corridor fragments lead to ancient cave-ins.
+	* A silver ritual club (250 gp) lies amid the debris.
 
 ### 9-114: Ancient Heqeti Tomb
 
-This ancient heqeti tomb is set entirely into the canyon wall; its wooden door is battered and would open easily were it not for the pile of rocks that has been placed before it. 
+* This ancient heqeti tomb is set entirely into the canyon wall.
+	* Its wooden door is battered and opens, except fora pile of rocks placed before it.
+	* Shattered crockery and a pair of unadorned stone vases fill the floor. 
+	* The east wall is largely collapsed. 
+		* Stuck horizontally into the collapsed east wall is an 8’ pole beautifully carved with geometric and floral patterns (a staff of the frog (new)).
+			* The staff is enchanted to concealed it from detecting as magic.
 
-The east wall of the tomb has largely collapsed. Shattered crockery and a pair of unadorned stone vases fill the floor. Two heqeti mummies inhabit the chamber and will pursue any who 
-release them from their long entombment.
-
-Stuck horizontally into the collapsed east wall is a beautifully carved 8’ pole; the carvings are all geometric and floral. The pole is actually the staff of the frog (see new magic items); this potent item is concealed under a dweomer that prevents it from registering as magic to detect magic spells. Dispel magic will remove the dweomer; identify cast on the staff will reveal its abilities as normal. 
+* 2 heqeti mummies lurk here and pursue any who release them from their long entombment.
 
 2 mummies (heqeti): SZ M; AL LE; AC 3; MV 60’; HD 8+3; HP 62, 58; #AT 1; Dmg 2-16. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, and paralysis; turned as vampires.
 
-Treasure:
-Staff of the frog (see new magic items).
-
 ### 9-115: Cave and Ledges
 
-This cave is located 30’ above the floor of the canyon. Six more heqeti old ones are present here. They hurl rocks at any causing noise at areas 9-113 or 9-114. Should a fight with the mummies at 9-113 spill into the canyon proper, half of the old ones will leap downward to confront intruders in melee. The southeast wall of the cave contains another ledge that stands 15’ above the tunnel leading to 9-117. 
+* This cave is located 30’ above the floor of the canyon. 
+	* The southeast wall contains another ledge which is 15’ above the tunnel to 9-117. 
+
+* 6 heqeti old ones are present here.
+	* They hurl rocks at any causing noise at 9-113 or 9-114.
+	* If a fight the mummies at 9-113 spills into the canyon, half of the old ones leap down to join the melee. 
 
 6 heqeti old ones (see new monsters): SZ M; AL CE; AC 3; MV 90’; HD 6+6; HP 47, 45, 40, 39, 38, 37; #AT 1 Dmg 3-12. Special attacks: leap; cursed tongue. Special defenses: turned as spectres; half damage from piercing and edged weapons; immune to sleep, charm, hold, and cold-based spells.
 
 ### 9-116: Ledge
 
-This ledge sits 15’ above the canyon floor. The inanimate remains of four heqeti old ones are stacked like cordwood against the east edge of the cave leading south. Two new coils of rope are attached to heavy iron staples set into the edge of the cave; the ropes are coiled (not hanging over the edge). Signs of the passage of a group of six-legged creatures (kaliyani) are evident in the sand and dust.
+* This ledge sits 15’ above the canyon floor.
+	* The inanimate remains of four heqeti old ones are stacked like cordwood against the east edge of the cave leading south.
+	* 2 coils of rope (not hanging down) are attached to heavy iron staples set in the edge of the cave.
+	* Signs of the passage of a group kaliyani are evident in the sand and dust.
 
-An invisible kaliyani scout (see new monsters) is posted here to watch for traffic in the canyon. If detected, or if intruders show extended interest in this ledge, the scout hastens to 9-118 to warn his comrades.
+* An invisible kaliyani scout (new) is posted here to watch for traffic in the canyon.
+	* If detected, intruders show extended interest in this ledge, the scout hastens to 9-118 to warn his comrades.
 
 1 invisible kaliyani scout (see new monsters): for stats see 9-118.
 
 ### 9-117: Crossroads Cave
 
-This cave features many exits. It is empty of inhabitants, despite the nearby presence of a kaliyani encampment (see 9-118).
+* This empty cave features many exits.
+	* It is uninhabited, despite the nearby kaliyani encampment (9-118).
 
 ### 9-118: Kaliyani Camp
 
@@ -2310,17 +2330,18 @@ defenses: immune to poison and mind-affecting spells. Special: infravision. Poss
 
 ### 9-119: Tunnel to SL9-37
 
-This newly-dug tunnel wends its way steeply upward through a series of corkscrew turns. It debouches at SL9-37.
+* This newly-dug tunnel wends steeply up through a series of corkscrew turns to SL9-37.
 
 ### 9-120: Cave with Debris 
 
-The floor of this cave is an uneven mishmash of bits of pavement, broken segments of pillars, and fragments of broken statuary. The debris is covered with scorch marks and, due to its fragmentary and unstable nature, it is difficult to traverse. Amid the rubble two mostly intact statues remain, leaning in 30-degree angles to the floor. One is of a heqeti builder, pointing in front of itself, and the other is of a muscled heqeti hopper wielding a stone spear. The carving of each is primitive but impressive, with small touches of realism and well-articulated accent clothing and jewelry. If transported out of Arden Vul, each could be sold for 5,000 gp. 
+* The cave floor is an uneven mishmash of bits of pavement, broken segments of pillars, and fragments of broken statuary, all covered with scorch marks and unstable to traverse.
+	* Amid the rubble, 2 mostly-intact statues lean at 30-degree angles to the floor: a heqeti builder, pointing forward, and a muscled heqeti hopper with a stone spear.
+		* The carving is primitive but impressive, with small touches of realism and well-articulated accent clothing and jewelry (5000 gp each).
+	* One piece of debris is a 6’-diameter stone basin.
+		* It still holds several inches of clear, odorless, viscous liquid (sweat of Rimmaq-Isfet, can be used in the mouths of the stone heads at 9-121).
+	* The ledge leading to 9-123 is 20’ above the floor, the lip jagged and broken.
 
-One of the pieces of debris is a 6’-diameter stone basin that, despite its awkward placement among the debris, still holds several inches of odorless, viscous, clear liquid. This ‘sweat’ can be placed inside the mouths of the stone heads at 9-121.
-
-The ledge leading to area 9-123 is 20’ above the floor; the lip is jagged and broken. 
-
-GM Note: This area was once a finished hallway that connected 9-123 to 9-121. It was destroyed by the rudishva, and then suffered further damage due to seismic collapse.
+* GM Note: This area was once a finished hallway connecting 9-123 to 9-121. It was destroyed by the rudishva, and suffered further damage due to seismic collapse.
 
 ## Level 9: 121 - 135
 
@@ -2371,31 +2392,38 @@ eye; Pol’s recall (see new spells).
 
 ### 9-122: Sweating Side Chamber
 
-This chamber is sheathed in white marble squares (5’ square) on all sides, floor and ceiling. The floor is slightly convex, dipping towards a 10’-diameter basin placed in the middle of the floor (much like area 3-117). Each square of marble has a symbol incised in its center and filled with gold inlay. The symbols are identical: an open, toothless mouth, from which extends a thick tongue. All of the marble tiles are slick with dripping moisture; close examination will determine that the moisture beads up on each incised tongue, only to drip off or down, eventually collecting in the basin. Not surprisingly, the chamber is quite slippery. All movement is halved, and the incautious should roll 3d6 under DEX to keep their footing. Anyone slipping has a chance to end up in the basin, where he or she will be affected by multiple doses of the sweat of Rimmaq-Isfet (see new magic items). 
+* This chamber is entirely sheathed in white marble squares (5’ square).
+	* The floor is slightly convex, dipping towards a 10’ basin in the middle (like 3-117). 
+	* Each square has a symbol (an open, toothless mouth, extending a thick tongue) incised in its center, filled with gold inlay.
+	* All tiles are slick with dripping moisture.
+		* The moisture beads on each incised tongue, then drips down, eventually collecting in the basin. 
+	* The chamber is quite slippery (difficult terrain, hasty movement requires 3d6 under DEX or fall).
+		* Slipping into the basin applies multiple doses of the sweat of Rimmaq-Isfet (new). 
 
 ### 9-123: The Hall of Thirty-Six Pillars
 
-A ledge some 20’ above the floor of area 9-120 leads to this tee-shaped hall. Thirty-six heavy stone pillars 4’ in diameter define the hall. The ceiling is 15’ tall between the pillars and the walls, but rises to 30’ in a barrel arch in the center of the hall. The walls and pillars are formed of pebbled stone, and seem worn and even a little greasy. The eastern and western edges of the hall end in serious cave-ins.
+* A ledge 20’ above the floor of 9-120 leads to this T-shaped hall. 
+	* 36 heavy, 4'-thick stone (pebbled, worn, a little greasy) pillars line the hall.  The ceiling arches from 15' along the walls to 30' in the center of the hall.
+		* The pillars emanate an aura of dread (-3 morale, -1 to saves for 1d4 hours).
+	* The eastern and western edges of the hall end in serious cave-ins.
+* Scattered about the hall are the skeletons of 24 ice toads. 
+	* They are  inert until the Old Father (9-126) engages in combat, when they animate (8 / round) to aid him.
 
-The pillars radiate so strongly of magic that it need not be detected; the effect is of dread (-3 morale rolls for retainers, -1 to all saves to everyone for 1-4 hours). 
-
-Scattered about the hall are the skeletons of twenty-four ice toads. The skeletons are inert until the Old Father (see 9-126) engages in combat, at which point they animate (eight per round) to aid him against interlopers.
-
-Excessive noise in this area has a 20% chance of drawing the Old Father from 9-126 to investigate.
+* (20%) Excessive noise here draws the Old Father from 9-126 to investigate.
 
 24 ice toad skeletons (see new monsters): SZ M; AL CE; AC 5; MV 60’ plus 60’ hop; HD 3; HP 22(x4), 20(x4), 18(x6), 16(x6), 14(x4); #AT 1; Dmg 3-12. Special attacks: cold blast (2-12 
 damage every other round). Special defenses: edged weapons do half damage; turned as spectres, or wights if the Old Father has been destroyed.
 
 ### 9-124: Preparation Chamber
 
-The door to this oddly-shaped chamber has been blasted open by a powerful source of energy. Within are four stone tables and the remains of a half dozen heqeti. The yellowed bones show signs of charring (from rudishva energy weapons). The remains are inert.Secret Door (south): The secret door is normal to locate. It opens by applying brute force (open doors check) to cause the stone door to swing inward on a pin.
-
-Treasure:
-Amid the detritus are three jade ceremonial knives (575 gp each), two small jade bowls (325 gp each), and seven black pearls (500 gp each).
+* The door to this oddly-shaped chamber has been blasted open by rudishva energy weapons.
+	* Within are 4 stone tables and the inert, charred, yellow bones of a half dozen heqeti.
+		* Amid the detritus: 3 jade ceremonial knives (575 gp each), 2 small jade bowls (325 gp each), and 7 black pearls (500 gp each).
+* Secret Door (south): opens by force (open doors), swinging inward on a pin.
 
 ### 9-125: Stairs Up to SL6-4a
 
-These narrow, primitive stairs wend their way upward in a pattern of squarish rises until they reach the tiny, forgotten heqeti observation post at SL6-4A.
+* These narrow, primitive stairs wend upward in a series of squarish rises until they reach the tiny, forgotten heqeti observation post at SL6-4A.
 
 ### 9-126: Lair of the Heqeti Old Father 
 
@@ -2420,10 +2448,12 @@ With the Old Father’s remains: a carved jade necklace worth 5,000 gp; an incis
 
 ### 9-127: Sand Bar in the Rimpled Run
 
-A rocky outcrop located in the midst of the Rimpled Run has acquired a thin layer of soil and sand. A few interesting items have washed up on the sandbar over the years, including the head of an ancient Archontean general lost from a marble statue (50 gp); a clever teak puzzle box with a petrified egg inside it (50 gp; successful roll of 4d6 under INT to open); a tarnished silver ewer (25 gp); a soggy quire from a spell book with the magic user spells 
-phase door and simulacrum; and the battered remains of a basic exploration automaton of Kerbog Khan (see new monsters), which was destroyed by the demonic hunters at 9-50 and tossed into the river. Returning the automaton’s remains to the Khan delivers a reward, namely four 300-gp gems or four pieces of useful Arden Vul related information.
+* A rocky outcrop in the midst of the Rimpled Run with a thin layer of soil and sand.
+	* A few items have washed up over the years: the marble statue head of an ancient Archontean general (50 gp); a clever teak puzzle box with a petrified egg inside (50 gp; 4d6 under INT to open); a tarnished silver ewer (25 gp); a soggy quire from a spell book (phase door, simulacrum); the battered remains of a basic exploration automaton of Kerbog Khan (destroyed by the demonic hunters at 9-50).
+		* Returning the automaton’s remains to the Khan: four 300-gp gems or four pieces of useful Arden Vul related information.
 
-Should the dam on Sub-Level 6 (SL6-25) be destroyed, the sand bar will be swept clear. After 7-10 hours, the river will recede to normal level, leaving a thin layer of muck covering the sand.
+* If the dam at SL6-25 is destroyed, the sand bar will be swept clear. 
+	* After 7-10 hours, the river recedes to normal, leaving a thin layer of muck.
 
 ### 9-128: Tomb of Agaperion Martel
 
@@ -2439,25 +2469,32 @@ GM Note: Agaperion was the archon of Arden Vul about 1,370 years ago. He was a w
 
 ### 9-129: Ledge
 
-This 5’-wide opening in the cave wall lies 20’ above the surface of the Rimpled Run. It is easy to miss unless explorers search carefully.
+* This 5’-wide opening in the cave wall lies 20’ above the surface of the Rimpled Run, and is easy to overlook.
 
 ### 9-130: Broken Heqeti Hallway
 
-A lost, frightened, and unlucky adventurer crouches in this hallway, sobbing quietly. The adventurer, Justine Two-Hands, is the sole survivor of a party that grew lost in the Nether Reaches (Level 8). After her comrades perished, Justine fell victim to the memory trap at 8-111; she eventually found her way down the tunnel at 8-110 to 9-150, where she fled the hydras and worked her way upriver. She is wounded and terrified, and will gratefully accept 
-assistance. In addition to lacking her memory, Justine has also fallen victim to the cursed door at 9-136; as a result her alignment currently detects as NE despite the fact that she is really NG. Given her memory loss, general inability to explain herself, and this curse, she may well appear as an evil NPC trying to insinuate herself into the party.
+* A lost, frightened, and unlucky adventurer crouches in this hallway, sobbing quietly.
+	* Justine Two-Hands, is the sole survivor of a party lost in the Nether Reaches  After her comrades perished, Justine fell victim to the memory trap (8-111).  She eventually found her way down the tunnel from 8-110 to 9-150, fled the hydras and worked her way upriver.
+	* She is wounded and terrified, and will gratefully accept assistance. 
+	* Justine has also fallen victim to the cursed door at 9-136; thus her alignment detects as NE (she is really NG).  Given her memory loss, general inability to explain herself, and this curse, she may well appear as an evil NPC trying to insinuate herself.
 
 Justine Two-Hands, 6th-level female Archontean fighter: SZ M; AL “NE” (really NG); AC 4; MV 120’; HD 6; HP 27 (max 60); #AT 1; Dmg 5-14 (two-handed sword +1) or 2-5 (heavy 
 crossbow). Abilities: STR 18/25, INT 10, WIS 16, DEX 9, CON 16, CHA 7. Possessions: chainmail +1; two-handed sword +1; heavy crossbow with 11 bolts; two days of rations; a purse with 37 sp and 15 gp; and a 3-lb chunk of arcanum (see new magic items).
 
 ### 9-131: Tunnel Up to SL2-6
 
-This long tunnel climbs steeply through some ascending loops and mini-cliffs before extending north for several hundred feet to connect with SL2-6. 
+* This long tunnel climbs steeply through ascending loops and mini-cliffs before extending north for several hundred feet to connect with SL2-6.
 
 ### 9-132: Tomb of Marcion Aoratus: Entrance
 
-This tomb seems comparable to that of Agaperion (9-128). A set of stairs rises from the river to a battered stone door stuck in a partly-opened position. Within are two plain granite sarcophagi, the lids of which are broken on the floor. The walls are covered with mildewed and barely-visible frescoes of imperial administrators and military scenes. The central scene on the north wall seems to depict an archon wearing the robes of a sorcerer, gesturing with a wand. An inscription in Mithric on the base of one of the sarcophagi reads: “Marcion the archon, called Aoratus for his ability to appear and disappear at will. Per his request, this tomb was created for him.” Amid the litter on the floor are numerous bones, bits of worked stone, rotted leather, and rotted wood. In addition, 47 ancient silver pennies (see Arden Vul items) can be found among the detritus. Close examination of the bones might reveal that none are from a human; rather, they come from animals.
-
-Secret Door (south): The door would be easy to detect, were it not concealed with a permanent illusion. Only by dispelling the illusion can the door be properly found. Once found, it opens easily by pushing it inward. The corridor beyond is narrow (5’) and climbs steeply up a long flight of stairs.
+* This tomb seems comparable to that of Agaperion (9-128).
+* A set of stairs rises from the river to a battered stone door stuck partly-open.
+* Within are two plain granite sarcophagi, the lids broken on the floor. 
+	* The walls are covered with mildewed, barely-visible frescoes of imperial administrators and military scenes.  The central scene on the north wall depicts an archon wearing the robes of a sorcerer, gesturing with a wand.
+	* Numerous animal bones, bits of worked stone, rotted leather, and rotted wood litter the floor, as well as 47 ancient silver pennies. 
+	* Inscribed on base of one sarcophagus (Mithric): “Marcion the archon, called Aoratus for his ability to appear and disappear at will. Per his request, this tomb was created for him.” 
+* Secret Door (south): concealed by a permanent illusion.  Opens easily by pushing inward. 
+	* The corridor beyond is narrow (5’) and climbs steeply up a long flight of stairs.
 
 ### 9-133: Tomb of Marcion Aoratus: False Tomb
 
@@ -2502,24 +2539,20 @@ potentially stiff price.
 Should any being not of chaotic evil alignment or otherwise girded with an appropriate token – e.g., a heqeti ring (see new magic items) – touch the pillar, a keqemander demon gates in to confront the intruders (see new monsters). Simply examining the pillar will cause dizziness, and possibly confusion (save vs. spells to avoid). Any able to keep their eyes on the pillar might learn one of the following bits of information:
 
 D10 Result
-1-2
 
+1-2
 A colossal salamander fills the top of the pillar. It has multiple legs, and an enormous mouth filled with teeth and circled with a ‘beard’ of feelers/tentacles. Three lidless eyes span its massive brow.
 
 3-4
-
 Hopping salamander-headed bipeds wreak destruction on lizards
 
 5-6
-
 Humans in chains are driven into the maw of a giant amphibian
 
 7-8
-
 The boundary separating the spiraling narratives is in fact a tongue
 
 9-10
-
 The heqeti and their slaves seem to be moving towards a ziggurat in a cave.
 
 It will take an hour of scrutiny to learn all of this information. Anyone who successfully gleans even one piece of information from the column has a flat 50% chance of recognizing the origin of Kauket artifacts and structures found elsewhere in Halls (e.g. pukel-manders, tears of Kauket, etc.), and a flat 33% chance of intuiting a relationship between Rimmaq-Isfet and Kauket. Such an ability does not allow one to intuit specific uses or functions of such objects, but does allow one to state with authority something along the lines of “That [whatever] is part of the demonic fishy-amphibian cult. I saw something similar on that blasted pillar!” Forewarned is forearmed, after all.
@@ -2574,46 +2607,51 @@ Three 25-lb knobs of arcanum (see new magic items).
 
 ### 9-139: Tunnel up to 8-95a
 
-This tunnel rises in swoops and whorls at a rather precipitous pitch before joining the collapsed tunnel at 8-95A, near Zhorak’s forge. 
+* This tunnel rises in swoops and whorls at a precipitous pitch before joining the collapsed tunnel at 8-95A, near Zhorak’s forge. 
 
 ### 9-140: Croaking Pool, with Rock Fingers
 
-The Rimpled Run forms a wide pool in this location. The pool is 60’ deep and filled with leafy, fronded pigment-less pondweeds. A large school of blind fish lives among the weeds. This microclimate is made possible by the geyser in 9-143, which makes both the air and the water here much warmer than normal. 
+* Here the Rimpled Run forms a wide, 60'-deep pool.
+	* It is filled with leafy, fronded pallid pondweeds and a large school of blind fish.
+	* The geyser in 9-143 makes both the air and water here much warmer than normal.
+	* 4 irregularly-shaped columns of pitted granite rise from floor to ceiling.
+		* The ancient heqeti bored dozens of holes (3”-7”) into the ‘fingers.  In them live a vociferous breed of small white frogs who fill the air with a cacophony of croaking and peeping.
+	* In the northeast, where the Rimpled Run leaves the pool, is a short (5’) waterfall.  The current is swift and dangerous from this point onwards (see 9-141).
 
-Four irregularly-shaped columns of pitted granite rise from floor to ceiling here. The ancient heqeti bored dozens of holes into the ‘fingers’, each 3”-7” in diameter; in them live a vociferous breed of small white frogs. They fill the air with a cacophony of croaking and peeping. 
-
-Where the Rimpled Run leaves the pool in the northeast there is a short (5’) waterfall; the current is swift and dangerous from this point onwards (see 9-141).
-
-There’s a 25% chance that the adolescent hydra from 9-143 is present here, swimming and feeding.
+* (25%) the adolescent hydra from 9-143 is present, swimming and feeding.
 
 1 six-headed hydra (25%): see statistics at 9-143.
 
 ### 9-141: Rimpled Run, Lower Reaches
 
-The Rimpled Run enters a narrower passage here, only 8’ in diameter. It also drops in elevation quickly and severely as it swings towards the south. These facts mean that navigation of the river past this point is much more difficult, as the current is swift and there is little head room above the water. An unprotected swimmer will take 10-60 HP damage from general buffeting before washing up at Level 10-31. Magical breathing assistance reduces the damage to 4-24 HP. Magical protection of the body eliminates all damage.
+* The Rimpled Run enters a narrower passage here, only 8’ in diameter.
+	* It drops rapidly in elevation as it swings towards the south.  Navigation of the river past this point is much more difficult, the current swift, with little head room.
+		* Unprotected swimmers take 1d6 x 10 damage from buffeting before washing up at 10-31.  Magical breathing assistance reduces the damage to 4d6.  Magical protection of the body eliminates all damage.
 
 ### 9-142: Beach with Stream
 
-The overflow from the geyser in 9-143 runs down a gently-sloping, pebbled beach to join the Rimpled Run at 9-140. Scattered about the beach are a number of pieces of semi-valuable debris. There is a 10% chance that the six-headed hydra from 9-143 will be here. 
+* The overflow from the geyser (9-143) runs down a gently-sloping, pebbled beach to join the Rimpled Run at 9-140.
+	* Scattered about the beach: a teak desktop (75 gp); 2 old helmets (5 gp); a Wiskin battle axe, a gold incense burner (35 gp), and a scroll case (treasure map).
 
-Should the dam on Sub-Level 6 (SL6-25) be destroyed, the beach will be inundated, and anything on it will have been swept away. After 7-10 hours, the river will recede to normal level, leaving a thin layer of sticky muck on the beach.
+* (10%) the six-headed hydra from 9-143 is here. 
+
+* If the dam at SL6-25 is destroyed, the beach is swept clear.
+	* After 7-10 hours, the river recedes to normal, leaving a thin layer of sticky muck.
 
 1 six-headed hydra (10%): see stats at 9-143.
 
-Treasure:
-Teak desktop (75 gp); two old helmets (5 gp); a Wiskin battle axe, a gold incense burner (35 gp), and a scroll case with a treasure map.
-
 ### 9-143: Hydra Cave, with Geyser
 
-This large, 35’-tall cave is hot and steamy. A depression about 6’ deep occupies most of its eastern half. Within the depression a geyser of hot water erupts every turn; over the centuries this has filled the depression with warm, nitrogen rich water. 
+* This 35’-tall cave is hot and steamy.
+	* A geyser of hot water erupts every turn from a 6' depression occupying most of the eastern half of the cave, filled with warm, nitrogen rich water.
+		* Anyone w/in 30' of the erupting geyser takes 4d6 (save vs breath for half).
+		* The hydras are immune to the geyser.
+	* Beneath the hot water is a carpet of splintered and crunched bones, and some treasure: 5,119 ancient silver pennies, 2 aquamarines (500 gp each), an emerald (1,000 gp).
+* In the western, relatively dry portion of the cave is a nest-pile of sand, bones, pond-weed.
+	* Within are 4 hydra eggs (about 3’ long); two will produce males and two will produce females (10% of each being a lernaean hydra).
+		* The eggs are valuable (10,000 gp each).  King Weskenim (SL4-22) and the goblins will surrender their three flawless diamonds (total of 15,000 gp) in return for a female egg.
 
-The steamy water (along with feeding grounds in the surrounding caves and the pool at 9-140) has proven hospitable to a family of hydras, two adults with 11 and 9 heads respectively, and an adolescent with 6 heads.
-
-Anyone within 30’ of the geyser when it erupts takes 4-24 HP of scalding damage (save vs breath weapons for half damage). The hydras are immune to the geyser.
-
-Beneath the hot water is a carpet of mostly splintered and crunched bones, as well as some treasure. 
-
-Within the western, relatively dry portion of the cave is a pile of sand strengthened by bones and bits of pond-weed. Within the pile are four hydra eggs (about 3’ long); two will produce males and two will produce females. There is a 10% chance that one of the eggs produces a lernaean hydra. While the eggs are valuable generally (10,000 gp each), King Weskenim (SL4-22) and the goblins will surrender their three flawless diamonds (total of 15,000 gp) in return for a female egg. 
+* The steamy water and feeding grounds in the surrounding caves and the pool at 9-140) has proven hospitable to a family of hydras (2 adults w/ 11 and 9 heads respectively, and an adolescent w/ 6 heads).
 
 1 11-headed hydra: SZ L; AL N; AC 5; MV 90’; HD 11; HP 88; #AT 11; Dmg 1-10(x11).
 
@@ -2621,58 +2659,57 @@ Within the western, relatively dry portion of the cave is a pile of sand strengt
 
 1 6-headed hydra: SZ L; AL N; AC 5; MV 90’; HD 6; HP 48; #AT 6; Dmg 1-6(x6).
 
-Treasure:
-Under the water: 5,119 ancient silver pennies (see Arden Vul items), 2 aquamarines (500 gp each), an emerald (1,000 gp).
-
-In the nest: four hydra eggs (10,000-15,000 gp each).
-
 ### 9-144: Skinks’s Cave
 
-A large population of cave skinks lives in this and the surrounding caves. Their quickness allows them to get past the hydras most of the time, and the hydras’ size prevents them from squeezing into the narrower tunnels such as those between 9-143 and 9-144 and 9-149 and 9-148. 
+* A large population of cave skinks lives here and in the surrounding caves.
+	* Their quickness allows them to get past the hydras most of the time.
+	* The hydras’ size prevents them squeezing into the narrower tunnels (such as between 9-143 and 9-144 and 9-149 and 9-148). 
 
-Although the entire population numbers 35, only 15 will be encountered here. The skinks are always voracious and are likely to swarm foes.
+* There are 35, with 15 present at a time.  They are always voracious and are likely to swarm foes.
 
 15 cave skinks (see new monsters): SZ S; AL N; AC 7; MV 120’; HD 2; HP 16, 15, 14, 14, 13(x3), 12(x3), 11(x3), 10, 9; #AT 1; Dmg 1-6. Special attacks: toxic mucus.
 
 ### 9-145: Wet Cave with More Skinks
 
-The floor of this cave is unusually cracked and uneven, and glistens with moisture. The air is humid and warm. Every five rounds two blasts of superheated steam from the same underground source as the geyser spray upwards from one of the cracks in the floor. Those 
-in the cave take 3-18 HP damage, or half if a save versus breath weapons is successful. Ten more skinks inhabit this cave; they are adept at dodging the effects of the steam sprays.
+* The floor of this cave is unusually cracked and uneven, and glistens with moisture.
+	* The air is humid and warm.
+	* Every 5 rounds superheated steam (from the same underground source as the geyser) blasts from one of the cracks, dealing 3d6 (save vs breath for half).
+
+* 10 skinks inhabit this cave, adept at dodging the effects of the steam sprays.
 
 10 cave skinks (see new monsters): SZ S; AL N; AC 7; MV 120’; HD 2; HP 15, 14, 13, 13 12(x3), 11, 11, 10; #AT 1; Dmg 1-6. Special attacks: toxic mucus.
 
 ### 9-146: Ancient Garbage Heap
 
-The floor of this hot and humid cave is covered by a layer of ancient trash derived from the old temple of Besa (8-119). The biological components of the trash heap mostly ossified centuries ago into hard and crunchy bits, which are mixed in with broken iron candelabra, badly bent bronze plates and ewers, soiled clothing, and so forth. The heap looks inviting, but in fact contains nothing of value save a silver and ebony statuette which takes 4-6 turns 
-to locate. The cave skinks have found lots of routes through and under the heap, and are able to use the heap to gain surprise on the unsuspecting; they have a 1 in 3 chance to surprise. 
+* The floor of this hot, humid cave is covered by a layer of ancient trash from the old temple of Besa (8-119).
+	* The biological components ossified centuries ago into hard, crunchy bits, which are mixed in with broken iron candelabra, badly bent bronze plates and ewers, soiled clothing, and so forth.
+	* The heap looks inviting, but with worthless save for a silver and ebony statuette of Besa in her squat, hermaphroditic manifestation (275 gp, 4-6 turns to locate).
+
+* The cave skinks have found lots of routes through and under the heap (+1 to surprise).
 
 10 cave skinks (see new monsters): SZ S; AL N; AC 7; MV 120’; HD 2; HP 15, 14, 13, 13 12(x3), 11, 11, 10; #AT 1; Dmg 1-6. Special attacks: toxic mucus.
 
-Treasure:
-A silver-and-ebony statuette of Besa in her squat, hermaphroditic manifestation (275 gp).
-
 ### 9-147: Tunnel up to 8-119
 
-This tunnel spirals upward to join the ruined corridor near the temple of Besa at 8-119.
+* This tunnel spirals upward to join the ruined corridor near the temple of Besa (8-119).
 
 ### 9-148: Cave with Dead Sortian
 
-The skeletal corpse of a Sortian killed in antiquity lies in the center of this cave, still wearing its inert Sortian chain mail (see new magic items). The corpse’s hands still clutch a lesser salt lamp of protection (see new magic items). In an ancient leather satchel that has been gnawed upon by the cave skinks are four packets of essence for the lamp. 
-
-Treasure:
-Sortian chain mail (see new magic items); a short sword, a mace, a lesser salt lamp of protection (See new magic items) with four packets of essence (see new magic items), a bag of marbles, and a packet of chalk.
+* The skeleton of a Sortian killed in antiquity lies in the center of this cave, still wearing inert Sortian chain mail (new), and a a short sword and a mace.
+	* The corpse’s hands still clutch a lesser salt lamp of protection (new).
+	* In an ancient leather satchel, gnawed upon by the cave skinks, are 4 packets of essence for the lamp, a bag of marbles, and a packet of chalk
 
 ### 9-149: Cave of Carnage
 
-This cave is warm and humid due to the geyser in 9-143. The corpses of six goblins are strewn about the cave, badly rent and torn. Five cave skinks (see new monsters) are feeding on the corpses. Producing noise or light here has a 33% chance of bringing 1-3 of the hydras from 9-143 to investigate.
+* This cave is warm and humid due to the geyser in 9-143.
+	* 6 goblin corpses are strewn about, badly rent and torn, being fed on by 5 cave skinks (new).
+		* Corpses: 43 sp, 22 gp, a single ancient octagonal platinum coin, six spears, and a fine helmet.
+	* (33%) noise or light here brings 1d3 of the hydras from 9-143 to investigate.
 
-The goblins discovered the path from 8-110 to 9-150, and were delighted to find hydras, as they would have loved to steal a hydra egg. Unfortunately they were slaughtered easily by the two adult hydras.
+* The goblins discovered the path from 8-110 to 9-150, and were delighted to find hydras, hoping to steal a hydra egg. Unfortunately, they were slaughtered by the 2 adult hydras.
 
 5 cave skinks (see new monsters): SZ S; AL N; AC 7; MV 120’; HD 2; HP 15, 14, 13, 12, 10; #AT 1; Dmg 1-6. Special attacks: toxic mucus.
 
-Treasure:
-Among the corpses may be found 43 sp, 22 gp, a single ancient octagonal platinum coin (see Arden Vul items), six spears, and a fine helmet.
-
 ### 9-150: Tunnel up to 8-110
 
-This tunnel rises through a series of switchbacks to join area 8-110
+* This tunnel rises through a series of switchbacks to 8-110.

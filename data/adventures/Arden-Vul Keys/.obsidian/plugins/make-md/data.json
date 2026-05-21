@@ -50,12 +50,13 @@
     "//World/World/Culture",
     "//Level 3 - Halls of Thoth",
     "//_Notes_",
-    "//SL7 - Flooded Vaults",
     "//World",
     "//World/World/Chronicle",
-    "//Level 8 - Nether Reaches",
+    "//SL7 - Flooded Vaults",
+    "//Level 6 - Troll Lifts & Arena",
+    "//Level 9 - Floor of the Great Chasm",
     "/",
-    "//Level 9 - Floor of the Great Chasm"
+    "//Level 8 - Nether Reaches"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

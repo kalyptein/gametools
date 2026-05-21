@@ -89,8 +89,13 @@ Access and Egress
 10 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 24, 22, 21, 20, 19, 18, 17, 17, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
 * One fishmen carries a rudishva useful palm (palm of repelling) in a pouch, but doesn’t know its powers.
 
+give everyone 18 hp
+
+
 1 fishman chief (see new monsters): SZ M; AL CE; AC 3; MV 60’, 150’ swimming; HD 5; HP 35; #AT 2 or 1; Dmg 2-7/2-7 or 3-9 (trident); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
-* Possessions: trident, 3 javelins of the raptor
+* Possessions: trident, 3 javelins of the raptor (of piercing, not sure what raptor does)
+
+0 / 35
 
 2 coral generating fish (see new monsters): SZ S; AL N; AC 4; MV 150’ swimming; HD 2; HP 13, 10; #AT 1; Dmg none. Special attacks: chitin spray degrades armor.
 
@@ -152,8 +157,12 @@ Spirit of Kassandra Tricotor
 			* GM: a clue that the shrine of Marius lies to the east, at 6-154.
 	* The eastern corridor descends 225’ down numerous short staircases to 6-153.
 
+* The constructs permit those to pass who offer honor to Marius Tricotor.
+
 2 Archontean animated constructs - spearmen (see new monsters): SZ M; AL N; AC 2; MV 60’; HD 6; HP 38, 33; #AT 1; Dmg 5-10; MR 25%. Special defenses: immune to elemental magic, poison, and mind-affecting spells; +1 or better weapons to hit; half damage from slashing or piercing weapons.
 
+0 / 38
+0 / 33
 ### SL7-7: Floating Bodies (Partly-Submerged)
 
 * The door to this chamber is stuck narrowly open, a tight 20” crack.
@@ -184,6 +193,9 @@ Spirit of Kassandra Tricotor
 * Barileon has returned as a spectre and floats near the ceiling, waiting to attack any who venture within.
 
 Barileon the spectre: SZ M; AL LE; AC 2; MV 150’, 300’ flying (Class B); HD 7+3; HP 49; #AT 1; Dmg 1-8. Special attacks: energy drain. Special defenses: +1 or better weapons to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
+
+atk 20, def 18
+X / 49
 
 ##### SL7-9a: Tunnel to Level 7 and the Great Chasm (7-148)
 
@@ -423,6 +435,12 @@ X / 13
 
 5 kopoacinth (water gargoyles): SZ M; AL CE; AC 5; MV 90’, 150’ swimming; HD 4+4; HP 31, 28, 26, 25, 21; #AT 4; Dmg 1-3/1-3/1-6/1-4. Special defenses: Special defenses: +1 or better weapons to hit.
 
+X / 31
+X / 28
+X / 26
+X / 25
+X / 21
+
 1 in 6 chance for 1-3 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 18, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
 
 ### SL7-21: Well Chamber (Partly-Submerged)
@@ -445,7 +463,7 @@ X / 13
 		* Manipulation of the statues is a puzzle, which can lead to treasure (see below).
 		* Three prisoners are tied to the statues by ropes, awaiting transfer to Reiv-Tor’s lab for transformation into fishmen.
 	* Three coral wells: two along the eastern wall, one in the center of the chamber.
-		* The tunnel beneath the south-eastern well is unfinished. 
+		* The tunnel beneath the south-eastern well is unfinished.
 * Ten fishmen and assorted fish dwell here, guarding the approaches to Reiv-Tor’s lair.
 
 Statues
@@ -463,13 +481,26 @@ Statues
 	* If the wand/arrow is nocked in Alcibiades’s bow, it activates a hidden catch (on Alcibiades’s leg, where the arrow/wand rests while nocked), that opens a hidden compartment concealed behind Phocion’s belt pouch.
 		* Within: 10 alexandrites (500 gp each), a ring of water breathing (new).
 
+2 fishman chiefs (see new monsters): SZ M; AL CE; AC 3; MV 60’, 150’ swimming; HD 
+5; HP 35, 29; #AT 2 or 1; Dmg 2-7/2-7 or 3-9 (trident); MR 10%. Special attacks: paralyzing 
+mucus. Special defenses: immune to cold and poison. Possessions: trident.
+
 10 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 24, 22, 21, 20, 19, 18, 17, 16, 15, 13; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
 
+X / 20
+X / 20
+
+gwelf blind 0 / 2
+
 1 lantern fish (see new monsters): SZ S; AL N; AC 8 or 4; MV 120’ swimming; HD 2; HP 12; #AT 1; Dmg 2-5. Special attacks: blind.
+
+0 / 12
 
 2 coral generating fish (see new monsters): SZ S; AL N; AC 4; MV 150’ swimming; HD 2; HP 12, 9; #AT 1; Dmg none. Special attacks: chitin spray degrades armor.
 
 1 giant grouper fish (see new monsters): SZ L; AL N; AC 7; MV 60’ swimming; HD 5; HP 37; #AT 1; Dmg 2-8. Special attacks: surprise on 3 in 6; swallow prey.
+
+X / 37 + WW
 
 Hall, male Wiskin: SZ M; AL LN; AC 10; MV 120’; HD 1-6 HP; HP 2 (max 5); #AT 1; Dmg by weapon.
 * Hall was a torch-bearer captured by the fishmen in SL6. He is roped to the statue of Phocion.
@@ -530,9 +561,37 @@ Reiv-Tor
 	* 20% chance he negotiates with visitors.  He can offer explanations for the transformation of SL7 and might provide directions to the main public areas of Levels 3, 4, 5 and 6 (he knows nothing of tombs or secret chambers, though).
 	* Reiv-Tor is utterly unstable.  50% chance per turn of negotiation that he decides to add visitors to his growing band of fishmen.
 
+* What's going on in Reiv-Tor's brain?
+	* The rudishva ran out of resources: plasteed, components, etc.  Self-replicating biotech is the answer, the sea provides, as it always does.  The birthplace of life both here and on Rudish.
+	* See what biotech has done for us?  Hybrid elves!  Varumani supersoldiers!  None of us would have survived the heqeti or the long ages without biotech.
+	* The improved varumani genemods are slowly breaking down, without the presence of arcanum, they will degenerate into trolls even faster.  New bioscientific / techno-sorcerous ground must be broken to answer this challenge!
+	* 
+	* 
+
+
 Reiv-Tor, transformed rudishva (see new monsters): SZ L; AL CE; AC 2; MV 60’, 150’ swimming; HD 9; HP 61; #AT 1; Dmg 5-10 (trident of Reiv-Tor), 3-8 (spear gun); MR 20%. Special attacks: attacks as a 9th-level fighter.
 * Implants: medical (regenerate 2 hp/round, 50% immunity to disease and poison); microprocessor (INT 18, +25% to reaction rolls); shield (AC 2; hit only by magic); metabolism (reduced aging, reduced need for food).
-* Possessions: trident of Reiv-Tor (new); rudishva spear gun w/ special modifications (tech); 3 potions of watery form (new); 2 potions of speed; silver rudishva identity plaque; control card for neuroderm basin; keys to the great pillar (c.f., 6-103; 1’-long, 3”-diameter, grey plasteel rods with a notched, 1”-tall flange on each end).
+* Possessions: 
+	* trident of Reiv-Tor (new)
+		* +3 trident-shaped creation of plasteel, coral, and arcanum
+		* fueled by Reiv-Tor's bioengineered blood (once he's dead, 20 days of function remain within it, any day powers are used counts)
+		* shoots 3 coral spines (1d4+1), save vs doom at +2 or paralyzed 1d3 turns
+		* 3/day, summon a water weird
+		* freeze water in a 10' sphere, save vs doom or imprisoned and suffocate in 1d3+1 rounds (crack open w/ 15 damage)
+	* rudishva spear gun w/ special modifications (tech), 2 or each spear type
+		* 6 shot clip, 1d6+2, RoF 2, 40' range, works in water
+		* special spears: explosion (2d6 on hit, 1d4+1 w/ 10' radius), blinding gas (save vs doom w/in 10', -2 save to the one hit, +1 for others nearby), submission (1d3 dmg, as charm person w/ -1 save)
+	* 3 potions of watery form (new) in a arm-band injector
+		* turn to fluid, speed 2 on land, 4 in  water, immune to most magic, lightning and cold do normal damage, water purifying effects harm
+	* 2 potions of speed
+	* implants
+		* speed (hast 1/day, 2x attack, AC 4, +2 move)
+		* optics (darkvision, see invisible)
+		* metabolism (reduce food / drink intake by 90%, slow aging 90%)
+	* silver rudishva identity plaque
+	* control card for neuroderm basin
+	* keys to the great pillar (6-103; 1’-long, 3”-diameter, grey plasteel rods with a notched, 1”-tall flange on each end).
+	* comm bracelet
 
 2 fishman chiefs (see new monsters): SZ M; AL CE; AC 3; MV 60’, 150’ swimming; HD 
 5; HP 35, 29; #AT 2 or 1; Dmg 2-7/2-7 or 3-9 (trident); MR 10%. Special attacks: paralyzing 
@@ -552,11 +611,14 @@ mucus. Special defenses: immune to cold and poison. Possessions: trident.
 * Reiv-Tor's private refuge for resting, experimenting with chemicals, and keeping his important treasure.
 	* Reiv-Tor’s hammock hangs in the southeast corner, next to a tripod of warmth (new) over which a pot of fish stew burbles.
 		* Underneath the hammock is a troll chest (tech) keyed to Reiv-Tor.
-			* 6 platinum figures of the nataraja dancer (6” tall, studded with small precious stones, 650 gp each, 5,000 gp for the set); a small ivory coffer (175 gp) filled with 25 tourmalines (100 gp each); a large iron box (771 ancient silver pennies, 311 ancient gold solidi, 1,912 sp and 291 gp); a set of silver Banion’s dice (new); a heqeti amulet of swimming (new); 1d3 samples of each rudishva implants; 6 empty and 2 full rudishva lesser power supplies; a pair of communications bracelets; a laser pistol (tech).
+			* 6 platinum figures of the nataraja dancer (6” tall, studded with small precious stones, 650 gp each, 5,000 gp for the set); a small ivory coffer (175 gp) filled with 25 tourmalines (100 gp each); a large iron box (771 ancient silver pennies, 311 ancient gold solidi, 1,912 sp and 291 gp); a set of silver Banion’s dice (new, call them Loki's dice); a heqeti amulet of swimming (new); 1d3 samples of each rudishva implants; 6 empty and 2 full rudishva lesser power supplies; a communications bracelet; a laser pistol (tech).
 	* The west wall is occupied by a full alchemical apparatus (3,000 gp).
 		* A rudishva fire extinguisher (tech) sits on the bench top.
 		* 24 rare specimens of monster parts and plants (1-100 gp each), a dozen white pearls (100 gp each), potions (sweetwater, polymorph, animal control, 3x watery form (new), 3x water-breathing (new), human control).
 		* Six rudishva implants (see monster entry for rudishva) and a laser pistol (tech) have been opened up on the workbench, with tiny colored bits of plasteel and small wires scattered nearby.
+
+Banion's (Loki's) Dice (silver)
+* 1-6: jormungandr biting its tail (1), hel's bicolored face (2), Fenrir bound with 3 fetters  (3), sleipnir w/ 4 pairs of legs (4), a mistletoe arrow w/ 5 fletchings (5), a leaping six-tongued flame (6)
 
 ### SL7-25: Chamber of Bones (Partly-Submerged)
 

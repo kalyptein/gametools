@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             }
           },
           {
-            "id": "d71cbf4ed43a6b7b",
+            "id": "7c9cc82c9eac57bd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
+                "file": "Level 8 - Nether Reaches/Areas - Level 8.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Areas - Level 9"
+              "title": "Outline of Areas - Level 8"
             }
           }
         ],
@@ -277,27 +277,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e88c9add748eedc7",
+  "active": "9be03ccf5bf21c46",
   "lastOpenFiles": [
-    "Level 9 - Floor of the Great Chasm/Encounters - Level 9.md",
     "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
     "Level 8 - Nether Reaches/Areas - Level 8.md",
-    "Level 8 - Nether Reaches/Encounters - Level 8.md",
+    "Level 6 - Troll Lifts & Arena/Areas - Level 6.md",
+    "SL7 - Flooded Vaults/Areas - SL7.md",
     "TODO.md",
+    "SL7 - Flooded Vaults/Encounters - SL7.md",
+    "Level 9 - Floor of the Great Chasm/Encounters - Level 9.md",
+    "Level 8 - Nether Reaches/Encounters - Level 8.md",
     "World/Chronicle/Plot Threads.md",
     "Level 7 - Court of the Troll Thegn/Areas - Level 7.md",
-    "SL7 - Flooded Vaults/Areas - SL7.md",
     "_Notes_/Factions & Notables.md",
     "SL12 - Workshops of Kerbog Khan/Areas - SL12.md",
     "Level 5 - Obsidian Gates & Midnight Road/Areas - Level 5.md",
     "SL6 - Drowned Canyon/Areas - SL6.md",
-    "SL7 - Flooded Vaults/Encounters - SL7.md",
     "SL6 - Drowned Canyon/Encounters - SL6.md",
     "SL5 - Lizardman Caves/Areas - SL5.md",
     "Level 3 - Halls of Thoth/Areas - Level 3.md",
     "SL3 - Lesser Baboon Caves/Areas - SL3.md",
     "SL3 - Lesser Baboon Caves/Encounters - SL3.md",
-    "Level 6 - Troll Lifts & Arena/Areas - Level 6.md",
     "Level 4 - Forum of Set/Areas - Level 4.md",
     "SL4 - Goblin Warrens/Areas - SL4.md",
     "World/Culture/Religion.md",
