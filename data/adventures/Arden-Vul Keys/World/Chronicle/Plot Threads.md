@@ -858,18 +858,16 @@ Sgraal has agreed to let the Savage Heart kill Kusok and Yurtil by secret means.
 * Erist mentions another companion, his half-brother (same mom, different human dad)
 	* Hallar Ellagelsson, fighter-mage (merchanting in the Troll Market, hoping to find a cure); Ketra and he went into the depths searching for stone salve or something like it.  Separated from Ketra, eventually forced to fall back, without allies he's stayed at the market, rather than venture out again.
 
-
-### ==--- PRESENT DAY ---==
-
-
-
 * Naik-Lir has been freed and taken away by Tresti to see Akla-Chah
 	* He is remarkably psychologically healthy.  Akla-Chah is a bit puzzled by how well undead can endure centuries of captivity without going nuts.  Once she's had some time with him, she'll pronounce him well and in need of worthwhile pursuits to sustain him.
 	* She can talk him out of vengeance, assuring him that the Savage Heart will see justice and the greater good done.
 	* What will the party do with him?
-		* He could take over guarding the Bridge area, and serving Akla-Chah.
-		* Offer advice and insight.
-		* Etc.
+		* He has taken over guarding the Bridge area, and serving Akla-Chah.
+
+* Reiv-Tor is slain
+
+
+### ==--- PRESENT DAY ---==
 
 
 * Why did Ketra and Hallar go deeper?  what rumor led Ketra to level 9?  Why did they think this might save Erist?
@@ -880,6 +878,8 @@ Sgraal has agreed to let the Savage Heart kill Kusok and Yurtil by secret means.
 TODO
 * Give J the creation mold recipes
 * post 'On the Terrible Old Gods' text to J
+
+
 
 The party owes Psalor-Ki valuable slime and bio-samples in  return for the Ring of Jagri-Naz
 * Took samples from Leil-Jor and varuda slime zombies for Psalor-Ki 
@@ -916,9 +916,14 @@ Varboka sends the hunters to scout out the heqeti.
 		* Prudence confides in the Savage Heart.
 	* When Cinna learns of the Priscian captive, he'll try to get access to get his mesmeric claws into a Priscian (not easy, with Glif and Ashoka holding her).
 
-* ??? The Priscians come back to deal with the Savage Heart, hoping Astrid can return their prisoner?
+* ??? The Priscians come back to deal with the Savage Heart, hoping Astrid can return their prisoner from the hands of the Varumani?
 	* Or they try to magic them out?
-	* Maybe it's a small group of Priscians willing to take a risk to save their comrade, when Nerub and the bulk of the group.
+	* Maybe it's a small group of Priscians willing to take a risk to save their comrade, when Nerub and the bulk of the group is willing to abandon them.
+		* A crack in the cult.
+		* Three Priscians, at least one mid- to higher- tier and Ebba, who told them about the Savage Heart.  They send a message, hoping to speak to just Astrid, upright by reputation, without Tresti or Aelia around, as they fear their power.
+    
+* Seed some rumors about Nicetas's gang of robbers in Level 8.
+	* At the Inn of the Lost, Gosterwick, Troll Market, etc
 
 
 

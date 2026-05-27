@@ -568,6 +568,7 @@ Reiv-Tor
 	* 
 	* 
 
+0 / 61
 
 Reiv-Tor, transformed rudishva (see new monsters): SZ L; AL CE; AC 2; MV 60’, 150’ swimming; HD 9; HP 61; #AT 1; Dmg 5-10 (trident of Reiv-Tor), 3-8 (spear gun); MR 20%. Special attacks: attacks as a 9th-level fighter.
 * Implants: medical (regenerate 2 hp/round, 50% immunity to disease and poison); microprocessor (INT 18, +25% to reaction rolls); shield (AC 2; hit only by magic); metabolism (reduced aging, reduced need for food).
@@ -597,13 +598,27 @@ Reiv-Tor, transformed rudishva (see new monsters): SZ L; AL CE; AC 2; MV 60’, 
 5; HP 35, 29; #AT 2 or 1; Dmg 2-7/2-7 or 3-9 (trident); MR 10%. Special attacks: paralyzing 
 mucus. Special defenses: immune to cold and poison. Possessions: trident.
 
+0 / 35
+
 4 fishmen (see new monsters): SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 3+1; HP 
 20, 18, 16, 15; #AT 2 or 1; Dmg 1-3/1-3 or 2-7 (bone club, spear or javelin); MR 10%. Special attacks: paralyzing mucus. Special defenses: immune to cold and poison.
 
- 4 electric eels: SZ M; AL N; AC 9; MV 720’ swimming; HD 2; HP 15, 12, 11, 10; #AT 1; Dmg 
+0 / 20
+
+
+4 electric eels: SZ M; AL N; AC 9; MV 720’ swimming; HD 2; HP 15, 12, 11, 10; #AT 1; Dmg 
 1-3. Special attacks: jolt.
 
+0 / 12
+
 4 blood eels (see new monsters): SZ S; AL N; AC 7; MV 120’ swimming; HD 3; HP 21, 19, 18, 17; #AT 1; Dmg 2-8. Special attacks: drain blood; 5% chance for disease.
+
+0 / 18
+
+
+theo paralyzed 3 / 3
+jost paralyzed 1 / 2
+gwelf paralyzed 1 / 2
 
 ### SL7-24: Reiv-Tor’s Chamber and Laboratory (Dry)
 
@@ -611,7 +626,15 @@ mucus. Special defenses: immune to cold and poison. Possessions: trident.
 * Reiv-Tor's private refuge for resting, experimenting with chemicals, and keeping his important treasure.
 	* Reiv-Tor’s hammock hangs in the southeast corner, next to a tripod of warmth (new) over which a pot of fish stew burbles.
 		* Underneath the hammock is a troll chest (tech) keyed to Reiv-Tor.
-			* 6 platinum figures of the nataraja dancer (6” tall, studded with small precious stones, 650 gp each, 5,000 gp for the set); a small ivory coffer (175 gp) filled with 25 tourmalines (100 gp each); a large iron box (771 ancient silver pennies, 311 ancient gold solidi, 1,912 sp and 291 gp); a set of silver Banion’s dice (new, call them Loki's dice); a heqeti amulet of swimming (new); 1d3 samples of each rudishva implants; 6 empty and 2 full rudishva lesser power supplies; a communications bracelet; a laser pistol (tech).
+			* 6 platinum figures of the nataraja dancer (6” tall, studded with small precious stones, 650 gp each, 5,000 gp for the set); 
+			* a small ivory coffer (175 gp) filled with 25 tourmalines (100 gp each); 
+			* a large iron box (771 ancient silver pennies, 311 ancient gold solidi, 1,912 sp and 291 gp); 
+			* a set of silver Banion’s dice (new, call them Loki's dice); 
+			* a heqeti amulet of swimming (new); 
+			* 1d3 samples of each rudishva implants; 
+			* 6 empty and 2 full rudishva lesser power supplies; 
+			* a communications bracelet; 
+			* a laser pistol (tech).
 	* The west wall is occupied by a full alchemical apparatus (3,000 gp).
 		* A rudishva fire extinguisher (tech) sits on the bench top.
 		* 24 rare specimens of monster parts and plants (1-100 gp each), a dozen white pearls (100 gp each), potions (sweetwater, polymorph, animal control, 3x watery form (new), 3x water-breathing (new), human control).
@@ -680,7 +703,7 @@ Banion's (Loki's) Dice (silver)
 			* A genealogy of the lineage of Arden from Arden’s grandparents to Erdenion (fifteen generations) (2,500 gp to a courtier in Archontos or Narsileon)
 			* 1,774 ancient silver pennies; 863 ancient gold solidi
 			* The horn of Arden (new)
-			* 6 potions (of the berserk, deafening light, 2x extra healing, hostile levitation, and molasses; new for all but the potions of extra healing).
+			* 6 potions (of the berserk, deafening light, 2x extra healing, hostile levitation, molasses).
 
 * GM Note: despite the heroic imagery, Erdenion was a woman of little accomplishment, who traded on her famous ancestry to secure an appointment in the administrative hierarchy of Arden Vul.
 

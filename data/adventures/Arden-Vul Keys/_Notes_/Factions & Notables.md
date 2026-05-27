@@ -620,7 +620,9 @@ Mages
 	* Jellicos (male archontean war mage, mage 7)
 	* Ellergast Half-Elven (male half-elf war mage, mage 8)
 	* Raeda Vyksdottir (female half-elf mage 7)
-		* Captive
+		* Captive of the varumani
+	* Juliana
+		* Has abandoned the Priscians to join the Cult of Bast.  The Pricians aren't sure what's happened to her, and have her down as MIA.
 * Sextus
 * Quintus
 	* Pretius Octavus (male archontean war mage, mage 7)

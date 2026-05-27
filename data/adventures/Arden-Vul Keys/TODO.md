@@ -197,14 +197,19 @@ Arden Vul system
 >>> pad SL10 so that the inset map will over top of "background image", so the fog exploration works correctly
 
 
+* Develop
+	* Some new goals for the Priscians to be working toward (Isadora's tomb is looted) in the lower levels.
+		* Also, a threat they pose?  Some larger goal they're working towards within the empire?
+
+
 * Below Lower
+	* SL-9
+		* entities
+		* dressing
 	* Level 6
 		* entities
 		* dressing
 		* Goblin artist's treasure map to Callista
-	* SL-9
-		* entities
-		* dressing
 
 * Below Depths
 	* Level 7

@@ -112,17 +112,35 @@ Access and Egress
 
 ### 8-1: Troll Lift, Up to 6-1
 
-This hall is the debarkation site for the eastern Troll Lift (6-1). Passengers descending the 400’ from Level 6 reach this location after a descent taking 11-20 minutes and costing 10 sp per leg.
+* This hall, like others opening into the Great Chasm (8-2), was carved by the heqeti millennia ago, with pebbled, slightly oily walls that detect faintly of evil.
+	* The floor is paved with blue granite.
 
-Like other halls opening into the Great Chasm (8-2), this chamber was carved by the heqeti millennia ago, and as a result the pebbled walls are slightly oily to the touch and detect faintly of evil. The floor is paved with blue granite. Here the lift appears solely as a set of ropes looped around a pulley set into the floor; to secure passage up the chasm, one must shout to get the attention of Reith (6-1) or get Ecath to sound his horn. After 11-20 minutes the basket will appear and travelers step aboard. A return trip of the same duration is necessary to travel the 400’ up to Level 6, at which point Reith collects the tariff for passage (10 sp per leg).
+* This hall is the debarkation site for the eastern Troll Lift (6-1), just a set of ropes looped around a pulley set into the floor.
+	* Passengers from Level 6 reach this location after an 11-20 minute, 400’ descent.
+	* Ecath, a true varumani, is overseer of this site.
+		* The charge is 10 sp per leg.
+		* To secure passage up, one shouts to get the attention of Reith (6-1) or get Ecath to sound his horn.
+			* The horn is impressive, taken from some devil (3100 gp).
 
-Ecath, a true varumani (see new monsters), is the lone representative of the troll thegn (7-30) in this location. His title is ‘apprentice overseer of the Troll Lifts’, but even Ecath recognizes a dead-end posting when he sees it. Dismayed at his prospects, Ecath has struck a secret bargain with Nicetas and his gang of robbers (8-5). Nicetas forks over 10% of all proceeds, and in return Ecath guides suitable marks towards area 8-5. Ecath hopes to use his growing stash of valuables to buy his way into the favor of the troll thegn (7-30). 
+* Ecath has two cauldrons on tripods.
+	* One is a tripod of heating (new)
+	* The other holds revenues from the troll lift (2,936 sp, 328 ancient silver pennies). 
+* Secret Compartment (north wall): Ecath carved a small secret hole in the wall behind a loose stone (detect as a secret door).
+	* Here he keeps the loot delivered to him by Nicetas, per their arrangement.
+	* 403 sp, 279 gp, 17 ancient gold solidi, 3 ancient octagonal platinum pieces, 4 deep-green spinels (100 gp each), a 6”-tall ivory statuette of a scantily clad female human dancer (375 gp), a potion of healing, and a scroll of lightning bolt. 
 
-Ecath would also love to take credit for some discovery or new source of wealth, as he hopes this might be his ticket out of the tedium he faces here. As a result, Ecath appears curious and engaging, hoping to elicit something valuable from any visitors.  Ecath knows a bit about the closer areas of the Nether Reaches. For instance, he knows that there is an old temple to the north (Temple of Bastet, areas 8-30 to 8-41); he also knows that those venturing east into area 8-7 had better have good sources of light. He claims to know nothing about robbers nearby (8-5), since he is on Nicetas’s payroll.
+* 1-in-6 chance another other group is present in this chamber (roll below).
 
-Ecath has two cauldrons on tripods. One is a tripod of heating (see new magic items); the other holds the revenues from the troll lift (2,936 sp, and 328 ancient silver pennies (see Arden Vul items). Ecath has an impressive horn taken from some devil that he uses to alert Reith (6-1) to lower the basket. The horn is not magical, but is worth 3,100 gp. 
-
-Secret Compartment (north wall): Ecath has also used his down time to carve a small secret hole in the wall behind a loose stone. The compartment is detected as a secret door. Here he keeps the loot delivered to him by Nicetas per their arrangement. There is a 1 in 6 chance that another other group is present in this chamber. Roll on the following table to determine its composition:
+Ecath
+* Ecath, a true varumani, is the lone representative of the troll thegn here (7-30).
+	* His title is ‘apprentice overseer of the Troll Lifts’, but even Ecath recognizes a dead-end posting when he sees it.
+	* Dismayed at his prospects, Ecath has struck a secret bargain with Nicetas and his gang of robbers (8-5). They fork over 10% of all proceeds, and Ecath guides suitable marks towards 8-5. Ecath hopes to use his growing nest egg to buy his way into the favor of the troll thegn (7-30). 
+	* Ecath would also love to take credit for some discovery or new source of wealth.
+		* He appears curious and engaging, hoping to elicit something valuable from any visitors.
+		* Ecath knows a bit about the closer areas of the Nether Reaches. 
+			* There is an old temple to the north (Temple of Bastet, 8-30 to 8-41)
+			* Those venturing east into 8-7 had better have good sources of light.
+			* He claims to know nothing about robbers nearby (8-5).
 
 D8 Traveler Statistics
 
@@ -192,14 +210,14 @@ The knight is on his way to the Troll Market (7-76) to consult with Sir Prudence
 
 Ecath, a true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail.
 
-Treasure:
-In the open: a tripod of heating (see new magic items); sounding horn from a devil (3,100 gp); 2,936 sp, and 328 ancient silver pennies (see Arden Vul items).
-
-In the hidden cache: 403 sp, 279 gp, 17 ancient gold solidi (see Arden Vul items), 3 ancient octagonal platinum pieces (see Arden Vul items), 4 deep-green spinels (100 gp each), a 6”-tall ivory statuette of a scantily clad female human dancer (375 gp), a potion of healing, and a scroll of lightning bolt. 
-
 ### 8-2: Great Chasm
 
-One of the iconic features of the Halls, this massive fissure extends through most of the dungeon levels and provides a sure, if difficult, means of vertical navigation of the Halls. The fissure is generally shaped like a triangular prism, with its apex about 50’ above Level 2. The prism extends downward 1,600’ through the Halls until it levels out at the floor of the chasm (9-1) hundreds of feet below. The chasm is slightly wider on this level than it was on Level 7. Other than the troll lift (8-1) and the spur (8-27) that separates 8-3 from 8-28, the chasm is not a major feature of the Nether Reaches.  Random encounters use the following table; roll every three turns, with a 1 in 6 chance for an encounter.
+* One of the iconic features of the Halls, this massive fissure extends through most of the dungeon levels and provides a sure, if difficult, means of vertical navigation of the Halls.
+	* The fissure is generally shaped like a triangular prism, with its apex about 50’ above Level 2, and extending downward 1,600’ through the Halls until it levels out at the floor of the chasm (9-1) hundreds of feet below.
+* The chasm is slightly wider on this level than it was on Level 7.
+	* Other than the troll lift (8-1) and the spur (8-27) that separates 8-3 from 8-28, the chasm is not a major feature of the Nether Reaches.
+
+* Random encounters: 1-in-6 every 3 turns.
 
 D100 Encounter
 
@@ -289,34 +307,36 @@ Chasm Color:
 The GM might decide to play up the creepy and mysterious nature of the chasm. Roll every 3 turns, with a 1 in 6 chance for a chasm sound effect.
 
 D8 Noise/Effect
-1 Loud hissing
-2 Moaning (of the wind?)
-3 A roar
-4 A shriek
-5 A loud clap (a sharp, brief noise)
-6 An echoing voice (undecipherable)
-7 A flash of bright light for 3 second
-8 Fluting, of a tuneless sort
+* 1 Loud hissing
+* 2 Moaning (of the wind?)
+* 3 A roar
+* 4 A shriek
+* 5 A loud clap (a sharp, brief noise)
+* 6 An echoing voice (undecipherable)
+* 7 A flash of bright light for 3 second
+* 8 Fluting, of a tuneless sort
 
 ### 8-3: Southern Landing
 
-Originally nothing more than a widening of Archontean-era tunnels, this chamber is now more significant as the last ‘safe’ area on the south side of the east-west ‘spur’ of the Great Chasm (8-27). The room’s original decorations are gone, effaced by time, dirt, and considerable graffiti. Some of the graffiti has been painted over with black paint, but much is still visible (Nicetas’s men paint over any references to their gang – see 8-5). The northern lip of this area, by the edge of the spur has six spikes set into the floor; to these spikes are attached ropes of various length (used by previous explorers to cross the spur).
+* Originally a widening of Archontean-era tunnels, the original decorations are gone, effaced by time, dirt, and considerable graffiti.
+	* This chamber is the last ‘safe’ area on the south side of the east-west ‘spur’ of the Great Chasm (8-27).
+	* The northern lip, by the edge of the spur, has 6 spikes set into the floor; with attached ropes (used by previous explorers to cross the spur).
+	* Some of the graffiti has been painted over with black paint, but much is still visible.
+		* Nicetas’s men paint over any references to their gang – see 8-5.
+
 D20 Graffiti (Language) Notes
 
 1
-
 Big Reward for News of Muq. Tell Gog. (Varumani)
 
 A reference to the intrigue that caused Gog (5-2) to be exiled from the court of the troll thegn (7-75). Muq is located at 8-151. The thegn (7-30) will also pay a reward for incriminating information on Muq.
 
 2
-
 Image of a cat-headed woman. Below, in black paint is scrawled “Ipwet" (Elvish).
 
 A reference to Ipwet, priestess of Bastet (8-32). Also a hint about her nature as a maubaste
 
 3
-
 Oh that green silken robe,
 So tight and so trim,
 As soon as I glimpsed it,
@@ -326,106 +346,89 @@ My heart went a-swim
 Part of the chorus from the song, The Green Silken Robe, beloved of Arden Vul Spriggans (c.f. 7-62)
 
 4
-
 Gislu – I have a lead on the item. Follow the bees. (Goblin)
 
 A reference to Gislu the goblin mystic (4-2), and his search for the scepter of the goblins (found in 8-69)
 
 5
-
 Reith is a big ape who steals all the money! Tell the thegn! 
 (Varumani)
 
 Vitriol directed at Reith (6-1), who controls the lift to 8-1. Accusations of his corruption are unfounded.
 
 6
-
 We saw Philippous lurking around here. What’s he doing away from the trading hall? (Thorcin)
 
 A reference to Philippous the trader (6-28), and a hint as to his status as a fence.
 
 7
-
 The thegn pays for fangs from the six-legged ones. (Varumani)
 
 It is true that the troll thegn, Varboka (7-30), pays 100 gp apiece for kaliyani fangs.
 
 8
-
 We came, we saw the six legged-ones, and we slew them. The Broom Sweeps all Before it! 
 (Archontean)
 
 Boasting from Harold Good-Ears and the other members of the adventuring party called the Broom (now at 7-75). Refers to their defeat of kaliyani at 8-8.
 
 9
-
 Don’t mess with Nolgi. That is one bad dude. (Thorcin)
 
 A reference to Nolgi the hunter (7-14).
 
 10
-
 200 solidi reward for the head of Lugo the Renegade. Apply to Lishna at court. (Varumani)
 
 A reference to the renegade lesser varumani, Lugo (8-136). Reward will be paid by Lishna (7-75).
 
 11
-
 Discord – return to the citadel. The Master requires your presence. (Archontean)
 
 A reference to Sir Discord (8-116) and the citadel of the sun-scarred knights (SL10A-14)
 
 12
-
 There’s a crazy Wiskin out there who lives with the bees. Watch out! (Wiskin)
 
 A reference to Olaf the bee-whisperer (8-73)
 
 13
-
 Where did all these damned cats come from? (Archontean)
 
 An oblique reference to the feral cat colonies (8-42 to 8-44) living around the temple of Bastet (8-38)
 
 14
-
 Proceed past the entry hall at your own risk, and be sure to bring plenty of light. The darkness is ... dangerous (Archontean)
 
 A warning about the dangers of the shadow-infested halls (8-8 to 8-21)
 
 15
-
 The flowers are poison. Try not to breathe. (Mithric)
 
 A reference to bliss flowers (8-67) and the pollen they emit.
 
 16
-
 The Snake Was Here! 
 Let all Flee! (Wiskin)
 
 Boasting from Kormak the Snake (8-132)
 
 17
-
 We lost Justine to the clouds. We’ll await her here for a day. (Archontean)
 
 A reference to Justine Two-Hands (9-130)
 
 18
-
 The First Adept will pay for specimens of plants and animals. (Varumani)
 
 A reference to Glif, the First Adept of the varumani (7-24).
 
 19
-
 Kallion – we need you. Your contract with Set’s Bankers is expiring. Come home fast. (Archontean)
 
 A reference to Kallion the White, now dead (8-15), and his lockbox in the vaults of Set (4-24)
 
 20
-
 Those dwarves we encountered were surly. Only one would speak with us. Damned dwarves. (Archontean)
 
 An oblique reference to the false dwarves at 8-100(really doppelgangers)
@@ -442,14 +445,25 @@ An oblique reference to the false dwarves at 8-100(really doppelgangers)
 
 ### 8-5: Nicetas and Co., Robbers
 
-A band of robbers led by Nicetas the Aesthete makes its home in this well-protected chamber. A sturdy iron portcullis separates the lair from area 8-4; the lever operating the portcullis is on the floor next to the portcullis. The door leading north is brand new and in good repair. It is also locked and barred from this side; Nicetas holds the key.
+* This well-protected chamber is home to a band of robbers led by Nicetas the Aesthete.
+	* A sturdy iron portcullis separates the lair from 8-4; its operating lever is on the floor next to it.
+	* The door (locked, barred from this side) leading north is brand new and in good repair.  Nicetas holds the key.
+* The walls are stained with smoke and debris.
+	* A fresco on the north wall of the main chamber could be revealed with cleaning.
+		* A pair of human-cat hybrids standing before an enormous black, seated cat, who extends its paws to touch the heads of the ‘cat-women’.  Underneath (Mithric): “Lady Bastet bestows her gift on the faithful.” (a hint of the maubaste at 8-38).
+* Nicetas keeps the main part of the chamber dark, to better accomplish ambushes in 8-4.
+* The eastern ell of the chamber, where the gang camps, is lit by torches and a tripod of heating (new).  The gang keeps its loot here, amid bedrolls and cookpots.
+	* A 5’ marble statue of a dancing girl (2,750 gp) they intend to sell in Newmarket.
+	* A chest (locked, key held by Nicetas)
+		* Gold ewer (125 gp); burlap sack (3,757 sp, 2,498 gp); a silk purse (10 ancient octagonal platinum coins); a silver, ceremonial helmet (375 gp); three troll thegn’s passports (av items); 2 rudishva lesser power supplies (empty, tech); a rudishva useful palm of correction (new); a sapphire Sortian eye (new).
+		* Several codices: the Twelve Labors of Arden, On Profit, Moralia in Teracleon, the Kauketiad, and the Genealogy of the Deities of Archontos (books).
+* The western ell holds supplies (barrels of smoked fish, a keg of ale, sacks of potatoes and leeks, a pail of black paint for painting over graffiti in 8-3, etc).
+	* It has a narrow window onto the chasm spur (8-27).
 
-Typically Nicetas keeps the main part of the chamber dark, so as to better accomplish ambushes in 8-4; the eastern ell of the chamber, where the gang sleeps and rests, is lit by torches and a tripod of heating (see new magic items). The western ell holds supplies – several barrels of smoked fish, a keg of ale, sacks of potatoes and leeks, a pail of black paint (for painting over graffiti in 8-3), etc. – and provides a narrow window onto the chasm spur (8-27). The walls of all three parts of the chamber are stained with smoke and debris, but a fresco on the north wall of the main chamber could be revealed with a bit of cleaning; it shows a pair of human-cat hybrids standing before an enormous black, seated cat. The seated cat is extending its paws to touch the heads of the ‘cat-women’. Underneath the image are the faded words in Mithric: “Lady Bastet bestows her gift on the faithful.” [GM: this is a hint as to the existence of maubaste at area 8-38]
-
-The robbers have worked out a set of relationships to maximize their potential gains. Their junior (but glib) partner, Philippous, is ensconced in the traders’ area of Level 6 (6-28), 
-where he sells objects stolen by the gang and communicates with Nicetas via his half of a pair of amulets of telepathy (see new magic items). Philippous often steers naive groups to Level 8 and then alerts Nicetas as to the potential pickings. Nicetas also has an arrangement with Ecath (8-1) whereby the gang surrenders 10% of its profits to Ecath in return for the varumani directing suitable prey their way.
-
-The gang keeps its loot in the eastern ell, amid their bedrolls and cookpots. They have a 5’ marble statue of a dancing girl that they intend to sell in Newmarket, plus a locked chest whose key is held by Nicetas.
+Gang Allies
+* Their junior (but glib) partner, Philippous, is ensconced in the traders’ area (6-28), where he sells stolen loot.  He communicates with Nicetas via his half of a pair of amulets of telepathy (new).
+	* He  often steers naive groups to Level 8, alerting Nicetas to the potential pickings.
+* Ecath (8-1), the varumani lift overseer, receives 10% of the gang's profits in return for directing suitable prey their way.
 
 Nicetas the Aesthete, 8th-level male Archontean magic user: SZ M; AL CE; AC 2; MV 120’; HD 8; HP 25; #AT 1; Dmg 2-5 (dagger +1). Abilities: STR 10, INT 17, WIS 15, DEX 16, CON 9, CHA 14. Possessions: one half of a set of amulets of telepathy (see new magic items); keys to the door leading to 8-66, to the secret door in 8-4 and to the treasure chest in 8-6; wand of lightning (18 charges); wand of enemy detection (33 charges); bracers of defense (AC 4); dagger +1; scroll with fear, fumble and monster summoning I; his spell book (see Treasure below); purse with 31 gp and seven pieces of amber (100 gp each). Memorized spells: charm person, comprehend languages, hold portal, magic missile; continual light, darkness 15’ radius, web; dispel magic, fireball, haste; confusion, dimension door.
 
@@ -463,129 +477,127 @@ Thorir, 7th-level male Wiskin cleric of Loki: SZ M; AL CE; AC 2; MV 120’; HD 7
 4 2nd-level Wiskin fighters (2 male, 2 female): SZ M; AL NE; AC 5; MV 90’; HD 2; HP 18, 17, 15, 15; #AT 1; Dmg 2-9 (long sword), 3-6 (light crossbow and bolts +2). Special: each has 
 STR 17 and CON 16. Possessions: chain mail; long sword; light crossbows, with 4 bolts +2 and 20 regular bolts; a pouch with 27 sp and 33 gp.
 
-Treasure:
-
-Statue: marble statue of a classical dancing girl, 5’ tall (2,750 gp).
-
-Chest: gold ewer (125 gp); a burlap sack with 3,757 sp and 2,498 gp; a silk purse with 10 ancient octagonal platinum coins (see Arden Vul items); a ceremonial helmet made of silver (375 gp); three troll thegn’s passports (see Arden Vul items); a pair of empty rudishva lesser power supplies (see new technological items); a rudishva useful palm of correction (see new 
-magic items); a sapphire Sortian eye (see new magic items); and several codices, including the Twelve Labors of Arden, On Profit, Moralia in Teracleon, the Kauketiad, and the Genealogy of the Deities of Archontos (see Arden Vul books for all).
-
 Nicetas’s Spell Book: Affect normal fires, burning hands, charm person, comprehend languages, enlarge, find familiar, friends, hold portal, identify, light, magic missile, push, read magic, shield, spider climb, write; continual light, darkness 15’ radius, ESP, knock, levitate, magic mouth, rope trick, shatter, web; blink, dispel magic, fireball, gust of wind, infravision, monster summoning I, slow, tongues, water breathing; charm monster, confusion, dimension door, fire shield, minor globe of invulnerability, monster summoning II; airy water, dismissal, dolor.
 
 ### 8-6: Closet and Teleporter Destination
 
-The ancient Sortians constructed this secret closet under the noses of the imperial authorities in order to provide a link in their chain of teleport faces (see 6-48). The chamber is long and narrow, and is roughly delved without the usual finishing touches. A trio of hooks are set into the north wall; on one of them hangs a cloak of poisonousness, which Nicetas (8-5) hopes may thin the ranks of anyone appearing from this direction. 
+* The ancient Sortians constructed this secret closet under the noses of the imperial authorities to provide a link in their chain of teleport faces (see 6-48).
+* The chamber is long and narrow, roughly delved without the usual finishing touches.
+	* 3 hooks are set in the north wall.
+		* On one hangs a cloak of poisonousness (left by Nicetas (8-5) in hopes it will thin the ranks of anyone appearing from this direction).
+	* Against the east wall is a ==Sortian face== (new).
+	* This closet is also the destination for the Sortian face at 6-48.
+	* Secret Door (west): easy to find (1 in 4). From the east side, it opens by raising a simple latch. 
 
-Against the east wall is a Sortian face (see new magic items). It can be activated by inserting Sortian eyes (see new magic items) into the empty eye sockets. Only a few combinations of eyes are unique to an individual face; the rest are standard (and are detailed in the new magic items appendix).
-
-Gold-Gold: Teleportation. All within 5’ are teleported to area 6-48
-
-Gold-Sapphire: A permanent magic mouth speaks in Mithric from the face: No time for the usual maxims. Take notice! Zhorak the smith has departed suddenly. His workshop is apparently unguarded. Let the next member of the League to visit these halls go swiftly to the hall of apparition and employ the third rose circle along the northern side. Else it is a long walk of 265 cubits to the north. Make haste! The smith’s treasures will aid Macrinus in the Sortian cause.
-
-GM Notes: The magic mouth refers to the forge of Zhorak (8-100), to the appropriate rose quartz circle in the Entrance Hall (8-7C), and to Macrinus, the most militaristic of the Sortian leaders (see World of Archontos appendix). This closet is also the destination for a Sortian face found at area 6-48. 
-
-Secret Door (west): The secret door is easy to find (1 in 4). From the east side, it opens by raising a simple latch. 
+Sortian Face
+* Gold-Gold: Teleportation. All within 5’ are teleported to area 6-48
+* Gold-Sapphire: magic mouth speaks (Mithric) "No time for the usual maxims. Take notice! Zhorak the smith has departed suddenly. His workshop is apparently unguarded. Let the next member of the League to visit these halls go swiftly to the hall of apparition and employ the third rose circle along the northern side. Else it is a long walk of 265 cubits to the north. Make haste! The smith’s treasures will aid Macrinus in the Sortian cause."
+	* GM Notes: refers to the forge of Zhorak (8-100), to the appropriate rose quartz circle in the Entrance Hall (8-7C), and to Macrinus, the most militaristic of the Sortian leaders.
 
 ### 8-7: Entrance Hall to the Nether Reaches
 
-This substantial hall serves an important role as the jumping-off point for expeditions to most parts of the Nether Reaches. It provides direct – albeit highly dangerous – access to the Cave of the Bliss Flowers (8-67) via the Hall of Shadows (8-8). But it also provides one-way teleportal access to all of the key areas of the level via a set of specially built teleporters.
+* This substantial hall serves an important jumping-off point for expeditions to most parts of the Nether Reaches.
+	* It provides direct (highly dangerous) access to the Cave of the Bliss Flowers (8-67) via the Hall of Shadows (8-8).
+	* It also has one-way access to all key areas of the level via a set of special teleporters.
 
-The hall is 30’ tall and brightly lit by continual light spells. The ceiling is supported by six pairs of 5’-diameter basalt columns, which form an avenue down the center of the room. To the north and south of the pillars are wide stone shelves that rise 5’ above the floor. Four 5’-diameter circles of rose quartz are inset into each shelf; these quartz circles are permanent teleporters providing direct, one-way access to various parts of the Nether Reaches. One activates a teleporter by standing or sitting within the rose quartz circle for one segment. Although the destinations of each circle are not officially indicated, in a few cases graffiti has been scratched into the rock next to the teleportal.
+* The hall is 30’ tall, brightly lit by continual light.
+	* The ceiling is supported an avenue of 6 pairs of 5’-diameter basalt columns down the center of the room.
+	* North and south of the pillars are wide stone shelves 5’ above the floor.  Four 5’-diameter circles of rose quartz are inset into each shelf
+		* These circles are teleporters providing one-way access to various parts of the Nether Reaches.  Staying within a circle for a few seconds activates it.
+		* Some graffiti has been scratched into the rock next to some circles.
 
 Teleporter Destination Graffiti (if any)
-
-8-7a The Face of Bastet (8-30)
-
-‘Cats!’ ‘That was a big mouse!’ (Archontean)
-
-8-7B The Feasting Hall (area 8-77)
-
-“Meat”, “Avoid the Wine” (Thorcin)
-
-8-7C The Forge of Zhorak (8-102)
-
-‘Music Room’ [incorrect]; 
-‘Beware the [effaced]’ 
-(Archontean)
-
-8-7D The Temple of Besa (8-119)
-
-‘To gold’ (Wiskin)
-
-8-7E The Singing Grotto (8-146)
-
-‘To Forge’ [incorrect]; 
-‘Find Eustachius’s Book’ 
-(Mithric)
-
-8-7F The Crystalline Cave (8-169)
-
-‘Hot and humid’, 
-‘Bring suitable gear’ 
-(Archontean)
-
-8-7G Inoperable (or to an area of the GM’s creation)
-
-8-7H Inoperable (or to an area of the GM’s creation)
+* 8-7a The Face of Bastet (8-30)
+	* ‘Cats!’ ‘That was a big mouse!’ (Archontean)
+* 8-7B The Feasting Hall (area 8-77)
+	* “Meat”, “Avoid the Wine” (Thorcin)
+* 8-7C The Forge of Zhorak (8-102)
+	* ‘Music Room’ [incorrect]; 
+	* ‘Beware the [effaced]’ 
+	* (Archontean)
+* 8-7D The Temple of Besa (8-119)
+	* ‘To gold’ (Wiskin)
+* 8-7E The Singing Grotto (8-146)
+	* ‘To Forge’ [incorrect]; 
+	* ‘Find Eustachius’s Book’ 
+	* (Mithric)
+* 8-7F The Crystalline Cave (8-169)
+	* ‘Hot and humid’, 
+	* ‘Bring suitable gear’ 
+	* (Archontean)
+* 8-7G Inoperable (or to an area of the GM’s creation)
+* 8-7H Inoperable (or to an area of the GM’s creation)
 
 ### 8-8: Hall of Shadows
 
-This dangerous hall is cloaked in darkness courtesy of several permanent darkness spells. The only break in the darkness comes from the torch held by the statue of Anubis that looms over the hall from the west. Anubis’s torch imparts a 20’-radius sphere of bright, yellow, true sunlight, and is an important protective device against the shadow creatures and other undead (see below).
+* This dangerous hall is cloaked in darkness by several permanent darkness spells.
+	* A 10'-tall, obsidian statue of jackal-headed Anubis, atop a 10' pedestal, looms over the hall from the west, at the foot of the stairs descending from 8-7.
+		* He holds a traveler’s staff in his left hand and an ==upraised torch== in his right.  The torch sheds a 20’-radius of bright, yellow, true sunlight.
+		* ==Anubis’s eyes== are star rubies (10,000 gp each), the staff is ebony, and the torch appears to be solid gold.
+			* The staff (staff of Anubis, new) is removable w/ 5d6 under STR and 4d6 under DEX rolled by a single person.  The torch is readily removable. 
+* The hall is 30’ tall. Its walls are covered with still-vivid (though hidden in darkness) ancient Archontean frescoes.
+	* (west) Laborers shaping stone
+	* (north) A field of bright flowers growing amid stones
+	* (east) Sarcophagi, both open and closed
+	* (south) Varumani and heqeti, with the inscription (Mithric) “our enemies” (south). 
 
-The hall is 30’ tall. Its walls are covered with still-vivid ancient Archontean frescoes. The frescoes depict the following: laborers shaping stone (west wall), a field of bright flowers growing amid stones (north), sarcophagi, both open and closed (east), and varumani and heqeti, with the inscription (in Mithric) “our enemies” (south). Of course, these frescoes are invisible until the darkness is dispelled.
+* The hacked corpses of 4 kaliyani (new) lie on the stairs leading up to 8-7.
+	* An adventuring party (see 7-75) slew and looted the kaliyani.
+	* They didn't know the troll thegn (7-30) offer 100 gp / kaliyani fang (16 fangs present).
 
-The hacked corpses of four kaliyani (see new monsters) lie on the stairs leading up to 8-7. An NPC adventuring party (see 7-75) slew the kaliyani and looted the bodies of all apparent 
-valuables. That said, they did not know that the troll thegn (7-30) pays a bounty of 100 gp for every kaliyani fang; sixteen fangs are recoverable from the corpses.
+Cursed Eyes
+* It take 1d4+2 rounds to remove the eyes.  They deal 2d6 electrical damage each round.
+* The thief, and any person who touches a stolen gem, suffers a curse, losing 1 CON / day (per eye).  Returning an eye to its proper place lifts the curse (regain 1 CON / week).
+* Anyone drained of all CON rises as a juju zombie which immediately returns the gem to its rightful place, then wanders away to attack the closest living thing. 
 
-Statue of Anubis: Anubis stands on a 10’-tall pedestal at the foot of the stairs descending from 8-7. His image is 9’ tall, and he is depicted in jackal-headed form, holding a traveler’s staff in his left hand and an upraised torch in his right. Yellow light streams from the torch. The statue is made of obsidian, with a few exceptions: Anubis’s eyes are star rubies (10,000 gp each), the staff is ebony, and the torch appears to be a formed of solid gold. The staff is 
-theoretically removable, but only if rolls of 5d6 under STR and 4d6 under DEX are successfully made by a single person. The torch is removable (see below). Efforts to remove the eyes take 3-6 rounds and cause several negative effects: 2-12 HP electrical damage per 
-round of prying, plus a curse. The gem thief loses one point of CON per day while a gem is not in its proper place, as does any person who even touches a stolen gem. The two effects are additive, so a thief that steals both gems suffers a loss of two points of CON per day. The curse can only be broken by returning a gem to its rightful place. Any person drained of all CON by a gem rises as a juju zombie which immediately returns the gem to its rightful 
-location before wandering away to attack the closest living thing. Lost CON is regained at the rate of one point per week. 
+Torch of Anubis
+* The torch appears to be solid gold (actually fool's gold, 5 gp) and detects of magic and lawfulness (but not good or evil).
+* It provides sunlight and a powerful magical protection against evil, preventing undead, demons, devils, and other evil extra-planar entities from entering its 20’ radius.
+	* Such creatures are unable to cross into 8-7, and those on the stairs and in the torch’s light are immune from their attack. 
+* Removing the torch causes another identical torch to instantly appear in the hand of Anubis; the protective sunlight never falters. 
+	* The removed torch transforms into a cursed blacklight torch (new).  Each time the torch of Anubis is removed, a new cursed blacklight torch is created.
 
-Torch of Anubis: The torch appears to be solid gold and detects of magic and lawfulness (but not good or evil). In fact, it is fool’s gold (5 gp). It provides sunlight as well as a powerful magical protection against evil, preventing undead, demons, devils, and other evil extra-planar entities from entering its 20’ radius. Such creatures are thus effectively unable to cross into area 8-7; those standing on the stairs (and in the torch’s light) are also immune from attack by these creatures. The torch may be removed, albeit with serious consequences for any such thief. Removing the torch causes another identical torch to instantly appear in the hand of Anubis, so that the protective sunlight never disappears. The removed torch, however, equally instantly transforms into a cursed blacklight torch (see new magic items). Each time the torch of Anubis is removed, a new cursed blacklight torch is created.
-
-A pack of greater shadows (see new monsters) under the control of Laocoon the shadow lord (8-15) inhabits the chamber. They are kept at bay by the sunlight emitted by the torch of Anubis, but move swiftly to attack those who step outside its light. Noise or combat in the chamber (such as combat against the shadows) will draw other minions of the shadow lord (see 8-15) on the following schedule after combat commences:
+Shadows
+* A pack of greater shadows (see new monsters) under the control of Laocoon the shadow lord (8-15) inhabits the chamber, kept at bay by the sunlight of the torch of Anubis.
+* They move swiftly to attack those who step outside its light.
+	* Noise or combat in the chamber draws other minions of the shadow lord (see 8-15) on the following schedule after combat commences:
 
 Round New arrival(s)
-
-2 6 greater shadows (from 8-9 and 8-14)
-3 4 vorantes demons (from 8-20; seenew monsters), and 3 skeletal wights (from 8-16)
-4 Laocoon the Shadow Lord, plus 3 greater shadows (from 8-15)
-5 4 vorantes demons (see new monsters) and a greater vorantes demon (from 8-21) 
+* 2) 6 greater shadows (from 8-9 and 8-14)
+* 3) 4 vorantes demons (from 8-20; seenew monsters), and 3 skeletal wights (from 8-16)
+* 4) Laocoon the Shadow Lord, plus 3 greater shadows (from 8-15)
+* 5) 4 vorantes demons (see new monsters) and a greater vorantes demon (from 8-21) 
 
 8 greater shadows (see new monsters): SZ M; AL CE; AC 5; MV 120’; HD 5+1; HP 41, 39, 37, 36, 36, 35, 33, 31; #AT 1; Dmg 2-12. Special attacks: ability drain. Special defenses: +1 or better weapons to hit; immune to cold, poison, paralysis, sleep, charm, and hold; turned as a wraith.
-
-Treasure:
-Staff of Anubis (see new magic items); sixteen kaliyani fangs (100 gp each to the troll thegn, 7-30); cursed blacklight torch (see new magic items)
-
  
 ### 8-9: Shadows
 
-This former administrative chamber is crammed with debris and broken furniture. Movement is difficult before the ruined desks, chairs, racks, etc. are cleared out. For every turn searching the rubble, there is a 10% cumulative chance of finding a small item of value (each item may be found once):
+* This former administrative chamber is crammed with debris and broken furniture (difficult terrain or worse).
+	* 10% / turn of searching the rubble of finding a small item of value (once per item).
+	* Secret Door (west): opens by sliding a panel of stone to the right.
+	* Secret Door (east): opens by a key (among the debris).
 
 D6 Item of value
-1 A pouch with 23 ancient gold solidi (see Arden Vul items)
-2 A scroll with the 7th-level magic user spell, limited wish
-3 A feline ushabti figurine, made of solid silver (125 gp)
-4 Two unbreakable bolts +2
-5 A gold and platinum torc, inscribed with the name ‘Paratus the Logothete’ (775 gp) [see also SL12-23]
-6 Key to secret door leading to 8-12
+* 1) A pouch with 23 ancient gold solidi
+* 2) A scroll with the 7th-level magic user spell, limited wish
+* 3) A feline ushabti figurine, made of solid silver (125 gp)
+* 4) Two unbreakable bolts +2
+* 5) A gold and platinum torc, inscribed with the name ‘Paratus the Logothete’ (775 gp) (see SL12-23)
+* 6) Key to secret door leading to 8-12
 
-Three greater shadows inhabit the chamber, but they are likely to be encountered in area 8-8 first (see chart at that location). Secret Door (west): The door is normal to find. It opens by sliding a panel of stone to the right.
-
-Secret Door (east): The door is normal to find and opens either by a key (found by searching the debris) or by force. 
+* Three greater shadows inhabit the chamber, but are likely encountered in 8-8 first (see chart).
 
 3 greater shadows (see new monsters): SZ M; AL CE; AC 5; MV 120’; HD 5+1; HP 36, 34, 30; #AT 1; Dmg 2-12. Special attacks: ability drain. Special defenses: +1 or better weapons to 
 hit; immune to cold, poison, paralysis, sleep, charm, and hold; turned as a wraith.
 
 ### 8-10: Secret Closet
 
-The corpse of a human adventurer is slumped on the floor, next to the dead body of a vorantes demon (see new monsters). The adventurer’s legs are broken, but she still wears leather armor +2 and an ankh of protection (see new magic items) on a copper chain around her neck. Her light crossbow of speed lies by her body; its string is broken, and can only be replaced with spider silk from a giant spider or with hair from the mane of a unicorn. 
-
-The adventurer wrote a short note on the wall before she died of blood loss; it reads “The shadows seem to be controlled by some evil intelligence, but we could not locate it. We pushed south but encountered the strange rollers. Then more shadows ... everywhere! Kallion ran to the east, but Jadon and the bearers fled north towards the light. I was overcome but managed to crawl to this closet. Perhaps I can make it to the light.” GM Notes: the body of Kallion is in 8-15, while that of Jadon is in 8-67; the ‘evil intelligence’ is Laocoon (8-15); the rollers are vorantes demons (areas 8-18 to 8-21); the light could refer to Anubis’s torch (8-7) or the Cave of Flowers (8-67). 
-
-Treasure:
-Leather armor +2; damaged light crossbow of speed; ankh of protection (see new magic items). 
+* The corpse of a human adventurer is slumped on the floor with broke legs, beside the corpse of a vorantes demon (new).
+	* Leather armor +2, an ankh of protection (new) on a copper chain around her neck.
+	* Her light crossbow of speed lies by her body; its string is broken (restrung only with spider silk from a giant spider or with hair from the mane of a unicorn).
+	* She wrote a short note (Archontean) on the wall before bleeding out.
+		* “The shadows are controlled by some evil intelligence, but we could not find it. Pushed south but encountered the strange rollers. More shadows... everywhere! Kallion ran east, but Jadon and bearers fled north to the light. I found this closet. Will try to make it to the light.”
+		* GM Notes: the body of Kallion is in 8-15, that of Jadon is in 8-67; the ‘evil intelligence’ is Laocoon (8-15); the rollers are vorantes demons (8-18 to 8-21); the light could refer to Anubis’s torch (8-7) or the Cave of Flowers (8-67).
 
 ### 8-11: The Landing of Flowers
 
@@ -621,22 +633,24 @@ Leather armor +2; damaged light crossbow of speed; ankh of protection (see new m
 
 ### 8-15: Lair of Laocoon the Shadow Lord
 
-Four thick (5’-diameter) columns support the ceiling of this oddly shaped hall. A huge oak throne sits against the south wall. The columns were painted cerulean blue in antiquity, and still bear splashes of color. A patch of living mosaic (see new magic items) is set in the east wall at eye level; it shows the landing of flowers (8-11) and part of the cave of flowers (8-67), and is filled with movement due to the bees that are active in 8-67. 
+* Four thick (5’-diameter) columns support the ceiling of this oddly shaped hall, painted cerulean blue in antiquity, still bearing splashes of color. 
+	* A huge oak throne sits against the south wall. 
+		* Treasure is piled by the throne: 4,199 gp; 3 pieces of chalcedony (50 gp each); 3 amethysts (100 gp each); 3 black pearls (500 gp each).
+	* The body of notorious adventurer Kallion the White lies amid the columns, still in his white-painted banded mail.  He has joined the troupe of shadows that killed him.
+		* White banded mail +2; the intelligent long sword Narses (new); a pair of silver armbands chased with gold (500 gp each); a gold ring with a ruby (1,500 gp); a purse with 275 sp and 439 gp; and the key to his lockbox in 4-24.
+		* For more on Kallion, see 4-24, 4-58, and 8-10.
+	* A patch of living mosaic (new) is set in the east wall at eye level.
+		* It shows the landing of flowers (8-11) and part of the cave of flowers (8-67).  It is filled with the movement of busy bees. 
 
-A vile shadow lord (see new monsters) named Laocoon has taken this hall for his lair. Laocoon dominates the shadows that occupy the chambers around 8-8, and even is able to bend the vorantes (see new monsters) to his will (see 8-18 to 8-21). He typically sits in the throne, nearly invisible in the darkness, where his shadow minions whisper placatingly in his ears. Of course, Laocoon may also be encountered in 8-8 (q.v.). His treasure is piled against the wall next to the throne. 
-
-The body of a notorious adventurer, Kallion the White, lies amid the columns. Although the remains still bear his white-painted banded mail, Kallion’s soul has joined the troupe of 
-shadows that killed him. For more on Kallion, see 4-24, 4-58, and 8-10.
+* A vile shadow lord (see new monsters) named Laocoon has taken this hall for his lair. 
+	* Laocoon dominates the shadows occupying the chambers around 8-8, and can bend the vorantes (new) to his will (see 8-18 to 8-21). 
+	* He typically sits in the throne, nearly invisible in the darkness, where his shadow minions whisper placatingly in his ears.
+		* He may be encountered in 8-8.
 
 Laocoon the shadow lord (see new monsters): SZ M; AL CE; AC 4; MV 150’, 240’ flying (Class A); HD 9+3; HP 65; #AT 2; Dmg 2-5/2-5. Special attacks: evil aura, 20’ radius (regenerate 1 HP/rd, reduce turning by 2, drains STR of living); command lesser undead. Special defenses: +1 or better weapons to hit; immune to cold, poison, paralysis, sleep, charm and hold; turned as vampires. Spell use: augury, cause critical wounds, detect magic, dispel magic, locate object, stone tell, symbol of pain.
 
 3 greater shadows (see new monsters): SZ M; AL CE; AC 5; MV 120’; HD 5+1; HP 36, 35, 30; #AT 1; Dmg 2-12. Special attacks: ability drain. Special defenses: +1 or better weapons to 
 hit; immune to cold, poison, paralysis, sleep, charm, and hold; turned as a wraith.
-
-Treasure:
-On Kallion’s body: white banded mail +2; the intelligent long sword Narses (see new magic items); a pair of silver armbands chased with gold (500 gp each); a gold ring with a ruby (1,500 gp); a purse with 275 sp and 439 gp; and the key to his lockbox in 4-24 (q.v.).
-
-Laocoon’s treasure: 4,199 gp; 3 pieces of chalcedony (50 gp each); 3 amethysts (100 gp each); and 3 black pearls (500 gp each).
 
 ## Level 8: 16 - 30
 
@@ -655,9 +669,10 @@ Laocoon’s treasure: 4,199 gp; 3 pieces of chalcedony (50 gp each); 3 amethysts
 
 ### 8-17: Chamber of Several Uses
 
-This utilitarian chamber is largely undecorated, although flecks of sky-blue paint remain on the wall. To the south is a well, 4’ in diameter and rising 4’ from the floor. It sinks 60’ to a large waterfilled cavern. The rusted winch mechanism for the well is, however, broken.
-
- To the north is a set of 2”-tall paving stones arranged in a 6’-diameter ring. Inset into the floor next to the ring is a rectangle 48” long by 8” tall; the rectangle is divided into six interior compartments, each 8” square. Together these elements form a Thothian teleportation ring (see new magic items). To activate the ring, one must place six colored glass activation squares into the inset according to a sequence that matches the ‘address’ of the ring to which one wishes to travel. Once the squares are placed, a brief shimmer of energy is visible over the ring. At this point the user has 1 round to collect the squares and enter the ring, after which anyone in the ring is teleported without error to address indicated by that sequence of squares. If the glass activation squares are not collected and/or if the travelers do not possess a second set of them, they are likely to be stranded in the location to which they have just teleported. The address of this ring is as follows: RE-BK-BL-GR-YE-WH (see new magic items for explanation). None of the glass activation squares necessary to operate the circle are present.
+* This utilitarian chamber is largely undecorated, though flecks of sky-blue paint remain.
+	* South: a well, 4’ wide and 4’ high, with a rusted-out winch. It drops 60’ to a large waterfilled cavern.
+	* North: a Thothian teleportation ring set in the floor.
+		* Address: RE-BK-BL-GR-YE-WH (no squares present).
 
 ### 8-18: Audience Hall
 
@@ -721,15 +736,17 @@ per die versus fire and cold. Special: demonic telepathy; can see in absolute da
 
 ### 8-22: Crossroads Cave
 
-This large, 25’-tall cave sits at the nexus of several tunnels linking various levels of Arden Vul. Numerous stalactites and stalagmites dot the cavern. A ranger will have little difficulty in noticing the signs of recent traffic between 8-23 and 8-24; the tracks suggest a six-legged creature. 
+* This large, 25’-tall cave is the nexus of several tunnels linking various levels of Arden Vul.
+	* Numerous stalactites and stalagmites dot the cavern.
+	* Subtle signs of recent traffic between 8-23 and 8-24 (kaliyani tracks).
+	* West: a ledge rises 20’ above the floor. On it, hidden behind a rock fall is the tunnel to 8-25 (treat as concealed door).  1d3+1 Turns to clear the rocks.
+	* North: a ledge 15’ above the floor, occupies a niche in the wall.
 
-To the west of the cavern is a ledge rising some 20’ above the floor. Hidden behind a rock fall is the tunnel to 8-25. The tunnel mouth should be considered as a concealed door. 
-
-A second ledge, some 15’ above the floor, occupies the niche on the north wall. Three kaliyani scouts wait on the ledge. They serve as guardians for the expedition that rose from 9-57 to 8-23, crossed the chasm between 8-24 and 7-34, and then ascended to 5-125. 
-
-The scouts have drunk potions of invisibility and will exercise caution when confronting any intruders. Indeed, if they are obviously outmatched, one of the scouts slips down the tunnel at 8-23 to warn the kaliyani at 9-57, a second attempts to slip past the PCs and swarm up the ropes at 8-24 to alert its fellows at 5-125, and the third waits quietly, observing and taking careful notes of intruders strengths and capabilities. If intruders appear weak or foolish, however, the scouts attack from their perch.
-
-Concealed Door (west): The tunnel to the west is concealed behind a rock fall. The tunnel can be detected normally; it takes 2-4 turns to clear the opening.
+* 3 invisible kaliyani scouts wait on the north ledge, guardians for their expedition.
+	* It rose from 9-57 to 8-23, crossed the chasm between 8-24 and 7-34, then ascended to 5-125. 
+	* The scouts have drunk potions of invisibility and exercise caution when confronting any intruders.
+		* If obviously outmatched, one scout slips down the tunnel at 8-23 to warn the kaliyani at 9-57, a second attempts to slip past the PCs and swarm up the ropes at 8-24 to alert its fellows at 5-125, and the third waits quietly, observing and taking careful notes of intruders strengths and capabilities.
+	* If intruders appear weak or foolish, the scouts attack from their perch.
 
 3 invisible, 5th-level kaliyani scouts (see new monsters), as 5th-level thieves: SZ M; AL LE; AC 4; MV 150’ on six legs, 60’ upright; HD 6; HP 43, 41, 38, 36; #AT 2; Dmg 3-8/3-8 (scimitars) 
 or 2-7/2-7 (javelins). Special defenses: immune to poison and mind-affecting spells. Special: infravision; DEX 16. Thief skills: PP 50%, OL 47%, F/RT 40%, MS 40%, HS 31%, HN 20%, CW 
@@ -750,14 +767,24 @@ or 2-7/2-7 (javelins). Special defenses: immune to poison and mind-affecting spe
 
 ### 8-25: Heqeti Transport Hall, with Stairs Up to 6-106
 
-The heqeti (see new monsters) built this hall as a connection site between their (now-destroyed) halls on Level 8 and their shrine on Level 6 (i.e., 6-104, 6-106). With the resurgence of the heqeti, and their re-occupation of the shrine at 6-104, this hall has also been partially restored. The walls have been coated with fresh slime, the passage to the pukel-mander (8-26) was re-opened, and an effort has been made to bring the teleport wells back into operation.  A statue of a heqeti warrior thrusting with a spear stands by the west wall, partly concealing the secret door to 8-26. The statue is old and very worn, and carved out of the local granite. Its eyes are empty sockets; should a gem of 500 gp (or greater) value be placed in either socket, the statue will partially animate, piping out a query in heqeti. Those who understand that language have an opportunity to ask three questions of the statue, which responds truthfully to the best of its knowledge (which, sadly, is thousands 
-of years out of date).
+* The heqeti built this hall as a connection site between their (now-destroyed) halls on Level 8 and their shrine on Level 6 (i.e., 6-104, 6-106). 
+	* With the resurgence of the heqeti, and their re-occupation of the shrine at 6-104, this hall has also been partially restored.
+* The walls have been coated with fresh slime, the passage to the pukel-mander (8-26) was re-opened, and an effort has been made to bring the teleport wells back into operation.
+	* West wall: a statue of a heqeti warrior thrusting with a spear stands, partly concealing the secret door to 8-26.
+		* Old and very worn, carved of the local granite.
+		* Its eyes are empty sockets.
+			* Placing a gem (500+ gp) in either socket, makes the statue piping a query (heqeti) for 3 questions.  Its knowledge is thousands of years out of date.
+	* The niches to the north contain heqeti teleport wells.
+		* Each is a 7’-wide circle of stone, rising 3’ above the floor.
+		* Both wells contain nothing but inky blackness.  Objects entering are simply vaporized, failing to teleport to their destination.
+	* The stairs climb steeply in a tight spiral to 6-106.
+	* The eastern corridor is blocked by a rockfall.
+		* A natural tunnel branches off to 8-22.
+	* Secret Doors (west): the 4’-wide door hangs on a central, horizontal pin, pushing causes it to rotate.
+		* Within the tunnel to 8-26 is a second secret door, obvious from this side.  It opens with a simple pull for those of chaotic evil alignment.
 
-The niches to the north contain heqeti teleport wells. Each well takes the form of a 7’-diameter circle of stone rising 3’ above the floor. Both wells appear to contain nothing but inky blackness; objects tossed into either make no sound. Neither well is operative at the moment, however, a fact that is currently proving vexing to the heqeti. Those jumping into either well are instantly vaporized.  Currently a small party of heqeti are stationed here, puzzling over their failure to get the teleport wells to operate correctly. One of their number is stationed at the mouth of the tunnel to 8-22; the vigilance of this guard makes it unlikely that the heqeti will be surprised from this direction.
-
-The stairs climb steeply in a tight spiral to 6-106.
- 
-A natural tunnel to 8-22 departs from the western corridor, but it is concealed behind the rockfall that blocks the corridor.Secret Doors (west): The 4’-wide door is normal to find. It hangs on a horizontal pin; one needs merely push on the upper or lower panel to swing the door open. Within the tunnel leading to 8-26 is a second secret door, which is clearly visible from this side; the second secret door opens only by force or to a simple pulling motion by those of chaotic evil alignment.
+* The malfunctioning teleporters are vexing a small party of heqeti, trying to puzzle out what is wrong with them.
+	* One is stationed at the mouth of the tunnel to 8-22; making it unlikely they will be surprised from this direction.
 
 1 heqeti weaver (see new monsters), as a 7th/7th-level magic user/cleric of Kauket: SZ M; AL CE; AC 3; MV 120’, 90’ swimming; HD 7; HP 34; #AT 1; Dmg 5-10 (footman’s mace +2). Constant abilities: infravision. Special attacks: +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice. Possessions: amulet of natural armor +2 (see new magic items); staff of healing (12 charges); copper-headed footman’s mace +2; two glass spheres of arcane assistance (one of arcane warding, one of protection) (see new magic items); potion of gaseous form. Magic user spells: enlarge, jump, magic missile, shield; continual light, levitate, ray of enfeeblement; fireball, protection from normal missiles; polymorph other. Cleric spells: bless, 
 command (x2), create water, cure light wounds; chant, hold person (x2), resist fire, silence 15’ radius; animate dead, blindness; sticks to snakes.
@@ -798,13 +825,17 @@ command (x2), create water, cure light wounds; chant, hold person (x2), resist f
 
 ### 8-30: Face of Bastet
 
-An enormous alabaster screen carved in the form of an open cat’s mouth serves as a sign that one is approaching the domain of Bastet. The screen is thick (5’) and tall (15’), and is carved to show a cat with alert ears, open eyes, bared fangs, and a slightly extended tongue. The face is coated with fresh paint: the ‘fur’ is black, the eyes are yellow, the teeth are white, and the tongue is pink. One traverses the screen by climbing up a slight incline on the cat’s tongue and then entering the corridor to the north. 
+* This enormous alabaster screen, 5' thick and 15' tall, is carved to show a cat with alert ears, open eyes, bared fangs, open mouth, and a slightly extended tongue.  It marks the approach to the domain of Bastet.
+	* It is freshly painted: the ‘fur’ black, eyes yellow, teeth white, and tongue is pink.
+	* One must climb the slight incline of the tongue to enter the corridor to the north.
+	* It bears two enchantments.
+		* The passage of any creature who is not of chaotic alignment causes a loud caterwauling to echo throughout the region, alerting the priestesses.
+		* If Oubaste, the high priestess of Bastet (8-37), is slain, the cat’s fangs will slam down on the one who delivered the killing blow if they pass the mouth (6d6).  The mouth remains shut, blocking traffic between 8-28 and 8-38 until a new high priestess is installed and commands it to open again. 
+* Set in the floor of the niche west of the screen is a 5’-diameter circle of rose quartz.
+	* It is the destination for the teleporter at 8-7A.
 
-There are always 2-5 cats of various shapes and sizes climbing on and around the face of Bastet. One of these felines will always be a large golden-furred tabby that purrs loudly and near-constantly; it is, in fact, a luck eater. The priestesses know of the luck eater and tolerate its presence here as a sign of Bastet’s mysterious ways.
-
-Although it detects of magic, the stone screen is inert except in two circumstances. First, if Oubaste, the high priestess of Bastet (8-37), is slain, then the cat’s fangs will slam down on the person who delivered the killing blow when next that person traverses the mouth, inflicting 6-36 HP damage. The mouth remains shut, blocking traffic between 8-28 and 8-38. Only when a new high priestess is installed will the mouth open again. Second, the passage of any creature who is not primarily chaotic in alignment (i.e., all save those of alignments CE, CN and CG) through the mouth causes a loud caterwauling sound to echo throughout the region. This sound serves to alert the priestesses of the arrival of potential trouble.
-
-Set into the floor of the niche to the west of the screen is a 5’-diameter circle of rose quartz; this is the destination for the teleporter at 8-7A.
+* 1d4+1 cats of various shapes and sizes always linger here, climbing on and around the face of Bastet.
+	* One is always a large golden-furred tabby that purrs loudly and near-constantly (actually a luck eater).   The priestesses know of and tolerate its presence here as a sign of Bastet’s mysterious ways.
 
 1 luck eater: SZ S; AL N; AC 7; MV 150’; HD 4; HP 26; #AT 0; Dmg 0. Special attacks: surprise 1-4 in 6; purr effects 30’ radius (effect varies).
 
@@ -814,17 +845,24 @@ Set into the floor of the niche to the west of the screen is a 5’-diameter cir
 
 ### 8-31: Acolytes of Bastet
 
-Twelve acolytes of Bastet occupy this unusual chamber. 
+* A 10’-diameter disk of pure silver is attached to the center of the ceiling (500 gp).
+	* The chamber is flooded with pure moonlight thanks to the nighteyes of Bastet spell (new) cast on it.
+* On the west wall is a huge fresco of a black cat’s head.
+* Twelve piles of soft linen and wool bedding line the walls of the chamber.
+	* Each acolyte’s ‘nest’ contains 3-60 gp and 1-3 fancy gems (100 gp each). 
+* In the center is a 10’x10’ pool of cool, clean water.
+* Studding the north, south and east walls are a score of wooden posts set into the stone.
+	* They are ledges for the semi-tame cats (and small maubaste) to jump and climb.
+* A ledge above the door is empty, but bears a note.
+	* (Mithric) “Rex, faithful guardian and friend to cats.”
+	* It refers to Rex, the whippet companion of Gennadius (see 3-158 and 8-41), whose mummified body rested on this ledge for several centuries until stolen and traded to Reith (6-50). The acolytes would be grateful for the return of their mascot.
 
-A 10’-diameter disk of pure silver is attached to the center of the ceiling (500 gp). The chamber is flooded with pure moonlight thanks to the nighteyes of Bastet (see new spells) spell that has been cast on the silver disk.
+* Twelve acolytes of Bastet occupy this unusual chamber. 
+	* If no alarm has been raised, 6 acolytes are present, lounging and bathing.  The other 6 are in 8-38.
+	* If the temple is alerted to a threat, al l12 acolytes are in 8-38.
 
-Twelve piles of soft linen and wool abut the walls of the chamber. In the center is a 10’x10’ pool of cool, clean water. On the west wall is a huge fresco of a black cat’s head. Studding the north, south and east walls are a score of wooden posts set horizontally into the stone; these allow the acolytes’ semi-tame pet cats (as well as small maubaste) to jump about and climb. Each acolyte’s ‘nest’ contains 3-60 gp and 1-3 fancy gems (100 gp each). 
-
-A ledge above the door is empty, but bears a note that reads, in Mithric, “Rex, faithful guardian and friend to cats.” It refers to Rex, the whippet companion of Gennadius (see 3-158 and 8-41). The mummified body of Rex rested on this ledge for several centuries until it was stolen and traded to Reith (6-50). The acolytes would be grateful to anyone who returns their mascot.
-
-If the temple has not been alerted to the presence of interlopers, then six of the acolytes are present here, lounging about and bathing; the other six are present in 8-38. If the temple has been alerted to a threat, then all twelve acolytes are present in 8-38.
-
-Acolytes are human females and 4th- or 5th-level clerics. Each wears a silver moon of Bastet (see new magic items) on a silver chain around her neck; these items allow acolytes to transform into small maubaste (see new monsters).
+* Acolytes are human females, and 4th- or 5th-level clerics.
+	* Each wears a silver moon of Bastet (new) on a silver chain around her neck, allowing them to transform into small maubaste (new).
 
 6 acolytes, 4th-level female Thorcin clerics of Bastet. In human form: SZ M; AL CN; AC 7; MV 120’; HD 4; HP 30, 30, 28, 28, 26, 25; #AT 1; Dmg 1-6 (jo-stick). Abilities: STR 11, INT 9, 
 WIS 15, DEX 16, CON 11, CHA 16. Possessions: a black silk robe; an earring of protection +1 (see new magic items); a moon of Bastet (see new magic items); and a polished black jo-stick. Prepared spells: command, cure light wounds, fear, protection from evil, sanctuary; hold person, silence 15’ radius, speak with animals. In maubaste form: SZ S; AL CN; AC 3; MV 150’; HD 4; HP as above; #AT 3 or 5; Dmg 1-3/1-3/2-7, plus 1-3/1-3; MR 20%.
@@ -833,37 +871,50 @@ WIS 15, DEX 16, CON 11, CHA 16. Possessions: a black silk robe; an earring of pr
 
 7 semi-tame domestic cats: SZ S; AL N; AC 6; MV 150’; HD 1-5 HP; HP 5, 4, 4, 3, 3, 2, 2; #AT 2; Dmg 1-2/1. Special attacks: rear claw rakes; surprise 3 in 6. Special defenses: only surprised 1 in 6.
 
-Treasure:
-12 ‘nests’, each with 3-60 gp and 1-3 fancy gems (100 gp each)
-
 ### 8-32: Priestesses of Bastet
 
-Four priestesses of Bastet dwell in this chamber. Should the temple be alerted to a threat, the chamber is empty; all four priestesses will be found in 8-38. If the temple has not been alerted, two priestesses may be found here. Typically the priestesses are found in human form in their chamber; each is an attractive, black-haired woman. The priestesses swiftly transform into medium maubaste if the circumstances require (see new monsters).
+* A 10’-diameter disk of pure silver is attached to the center of the ceiling (500 gp).
+	* The chamber is flooded with pure moonlight thanks to the nighteyes of Bastet spell (new) cast on it.
 
-A 10’-diameter disk of pure silver (500 gp) is attached to the center of the ceiling. On it has been cast nighteyes of Bastet (see new spells); this spell causes the entire chamber to be flooded with pure moonlight.
+* Two bunkbeds occupy the east wall; each appointed with black silk sheets (20 gp each).
+	* A treasure chest sits between the two bunkbeds (locked, each priestess holds a key).
+		* 4,352 ancient silver pennies, 2,411 ancient gold solidi; 25 carnelians (50 gp), 10 pieces of coral (100 gp each), 5 tourmalines (100 gp), 4 aquamarines (500 gp), and 1 jacinth (1,000 gp).
+* A half-dozen goats hang from hooks along the north wall.
+* A wooden table with five chairs sits in the center of the chamber.
+* A large wine rack (30 bottles of red wine, 25-125 gp each) is against the south wall.
+* A wardrobe by the door.
+	* Holds 20 black silk robes, each with a silver halfmoon on the chest and a silver cat’s head on the back (25 gp each).
 
-Two bunkbeds occupy the east wall; the beds are appointed with black silk sheets (four sets of sheets, 20 gp each). A half-dozen goats hang from hooks along the north wall. A wooden table with five chairs sits in the center of the chamber, while a large wine rack with 30 bottles of valuable red wine (25-125 gp per bottle) sits against the south wall. A wardrobe by the door holds 20 black silk robes, each with a silver halfmoon on the chest and a silver cat’s head on the back (25 gp each). A treasure chest sits between the two bunkbeds; it is locked, and each priestess holds a key.
+* Four priestesses of Bastet dwell in this chamber.
+	* If the temple is alert to a threat, the chamber is empty; all 4 priestesses are in 8-38.
+	* Else 2 priestesses are found here.
+	* Typically the priestesses in human form in their chamber; each is an attractive, black-haired woman.  They swiftly transform into medium maubaste if circumstances require (new).
 
 Atet, Hent, Ipwet, and Kiya, each a priestess of Bastet and a 7th-level female Archontean cleric of Bastet. In human form: SZ M; AL CN; AC 6; MV 120’; HD 7; HP 53, 52, 49, 47; #AT 1; 
 Dmg 2-7 (jo-stick +1). Abilities: STR 11, INT 9, WIS 16, DEX 16, CON 11, CHA 16. Possessions: a black silk robe; an earring of protection +2 (see new magic items); a moon of Bastet (see 
 new magic items); and a polished black jo-stick +1. Prepared spells: command, cure light wounds, fear, protection from evil, sanctuary; augury, chant, hold person, silence 15’ radius, speak with animals; dispel magic, prayer; cure serious wounds. In medium maubaste form: SZ M; AL CN; AC 4; MV 150’; HD 7; HP as above; #AT 3 or 5; Dmg 1-4/1-4/2-9, plus 1-4/1-4; MR 30%.
 
-Treasure:
-4 sets of black silk sheets (20 gp each); 30 bottles of red wine (25-125 gp per bottle); 20 black silk robes (25 gp each).In the treasure chest: 4,352 ancient silver pennies and 2,411 ancient gold solidi (see Arden Vul items for coins); 25 carnelians (50 gp), 10 pieces of coral (100 gp each), 5 tourmalines (100 gp), 4 aquamarines (500 gp), and 1 jacinth (1,000 gp).
-
 ### 8-33: Storage Chamber, with Hole up to 6-20
 
-The cult of Bastet stores its foodstuffs and other equipment in this plain chamber. Among the goods are three barrels of dried biscuits, a box of dried meat, two boxes of dried fruit, a large sack of salt, and a sack with twelve balls made of red rubber, each 2” in diameter. In addition, the corpses of several animals are curing on hooks set into the ceiling: these include a dozen rats threaded onto three strings, a small boar, two dogs, a wolverine, and a goat. The corpse of a halfling hangs curing as well.
-
-A hole in the ceiling leads up 400’ via several ledges and landings to area 6-20. There are no handholds or footholds between the ledges and landings. Climbing up or down the entire length requires five successful climb walls checks. Oubaste (8-37) knows of the hole and of the occasional visits of Thegan White-Mane (6-19); she tolerates his coming and going so long as he brings the occasional bag, box, or barrel of supplies.
-
-Secret Door (south): The door is difficult to locate (1 in 8). It takes the form of a 6’-wide, 3’-tall sliding panel of stone near the ceiling of the chamber. Once found it is easy to open by sliding the panel to the east.
+* The cult of Bastet stores its foodstuffs and other equipment in this plain chamber.
+	* 3 barrels of dried biscuits, a box of dried meat, 2 boxes of dried fruit, a large sack of salt, and a sack with 12 2", red rubber balls.
+	* Several animal corpses are curing on hooks set in the ceiling.
+		* A dozen rats on 3 strings, a small boar, 2 dogs, a wolverine, and a goat.
+	* A hole in the ceiling leads up 400’ via several ledges and landings to 6-20.
+		* There are no handholds or footholds between the ledges and landings.
+		* Climbing the entire length requires 5 climb walls checks.
+		* Oubaste (8-37) knows of the hole and the occasional visits of Thegan White-Mane (6-19); she tolerates his coming and going so long as he brings the occasional bag, box, or barrel of supplies.
+	* Secret Door (south): a 6’-wide, 3’-tall stone panel near the ceiling, difficult to locate (1 in 8).  Slides open to the east.
 
 ### 8-34: Secret Staircase up to 3-41a
 
-A very steep staircase climbs many hundreds of feet via numerous switchbacks before reaching the tomb of Menas the Logothete (3-41A); its upper reaches are coated with thin layer of fine sand. A pair of stone marbles rest on the penultimate stair from the bottom; their origin is a mystery. If 3-41A has never been accessed before, then opening the doors from this side causes an avalanche of sand to pour out from 3-41A and down the staircase. The force of the sand trap is likely to knock unwitting PCs down the stairs, causing 8-48 damage (half if a save versus petrification is made). At that point, the upper 40’ of the staircase will be buried under sand, and area 3-41A will only be accessible after substantial digging.
+* A very steep staircase climbs many hundreds of feet via numerous switchbacks before reaching the tomb of Menas the Logothete (3-41A).
+	* The upper reaches are coated with thin layer of fine sand.
+	* 2 stone marbles rest on the penultimate stair from the bottom; their origin a mystery.
+* Secret Door (north): easy to locate from this side (1 in 4), opens by sliding a panel east.
 
-Secret Door (north): The secret door on the north wall is easy to locate from this side (1 in 4). It opens by sliding a panel to the east.
+* If 3-41A has never been accessed before, opening the doors from this side causes an avalanche of sand to pour out from 3-41A and down the staircase.
+	* The force of the sand trap likely knocks unwitting PCs down the stairs (8d8, save vs doom for half).  The upper 40’ of the staircase will then be buried under sand, and area 3-41A will only be accessible after substantial digging.
 
 ### 8-35: Rudishva Hall, with Stairs Up to 5-63
 
@@ -889,16 +940,28 @@ Secret Door (north): The secret door on the north wall is easy to locate from th
 
 ### 8-37: Chamber of Oubaste, the High Priestess of Bastet
 
-Oubaste, the high priestess of Bastet, resides here. The ceiling is 20’ tall, and three enormous alabaster bas-reliefs of cat faces occupy the west, north and east walls. The alabaster tongues of these cats are extended into the center of the room, where they connect to an elevated platform (10’ above the floor). 
+* Oubaste, the high priestess of Bastet, resides here.
+* A 10’-diameter disk of pure silver is attached to the center of the 20' ceiling (500 gp).
+	* The chamber is flooded with pure moonlight thanks to the nighteyes of Bastet spell (new) cast on it.
+* 3 enormous alabaster bas-reliefs of cat faces occupy the west, north and east walls.
+	* The cat's alabaster tongues extend over to the center of the room, connecting to an elevated platform (10’ above the floor), under the silver disk.
+		* Oubaste's personal treasure is in an iron box (locked) inside the open mouth of the bas-relief on the west wall.
+			* 3 doses of incense of attraction (new); 1,391 ancient silver pennies; 569 ancient gold solidi; 2 heavy gold bracelets, set with a single emerald (1,500 gp each); a jade necklace set with jet (4,500 gp); a jade torc, set with jet (2,250 gp); a dose of varumani knock-out juice (av items); and a statuette of feline friendship (new).
+	* Oubaste’s bed is located on the raised platform.
+		* Numerous cushions and black silk sheets (20 gp).
+		* A silk rope ladder is coiled atop the platform. 
+	* An ebony writing desk (450 gp) stands against the north wall (below the tongue). 
 
-Above the interlocked tongues and attached to the ceiling is another 10’-diameter disk of pure silver (500 gp). The cult has cast nighteyes of Bastet (see new spells) on the disk, causing it to flood the chamber with pure moonlight.
+* (15%) Oubaste and Juliana are present; otherwise they are found in 8-38.
 
-Oubaste’s bed is located on the raised platform; it is comprised of numerous cushions and black silk sheets (20 gp). A silk rope ladder is coiled atop the platform. Her personal treasure is located in a locked iron box set inside the open mouth of the bas-relief on the west wall. In human form she appears as a beautiful woman with brown eyes, brown skin and waist-length, raven black hair. Oubaste shares her chamber and bed with her second-in-command, Juliana, a human magic user.
+Oubaste
+* In human form she is a beautiful woman with brown eyes, brown skin and waist-length, raven black hair.
+* Oubaste shares her chamber and bed with her second-in-command, Juliana, a human magic user.
 
-An ebony writing desk (450 gp) stands against the north wall (below the tongue). 
-
-There is only a 15% chance that Oubaste and Juliana are present; otherwise they are found in 8-38. Juliana is besotted with Oubaste, and has been begging her to grant her the right to 
-transform into a maubaste; Oubaste has not yet agreed, preferring to observe and gauge Juliana’s devotion to Bastet for a while.
+Juliana
+* She was a Septimus of the Priscians.  When she found herself here, she was overwhelmed by the free and open lives of the priestesses, and smitten with Oubaste.
+	* They have taken her in, and she struggles to fit in and become one of them.
+* Besotted with Oubaste.  She has been begging her to grant her for the right to transform into a maubaste; Oubaste has not yet agreed, preferring to observe and gauge Juliana’s devotion to Bastet for a while.
 
 Oubaste, high priestess, and 9th-level female Archontean cleric of Bastet. In human form: SZ M; AL CN; AC 4; MV 120’; HD 9; HP 62; #AT 1; Dmg 4-9 (sistrum of Bastet). Abilities: STR 
 12, INT 15, WIS 17, DEX 17, CON 11, CHA 18. Possessions: a low-cut black silk rob; an earring of protection +3 (see new magic items); a moon of Bastet (see new magic items); a rod of 
@@ -908,34 +971,42 @@ Juliana, 8th-level female Archontean magic user: SZ M; AL CN; AC 4; MV 120’; H
 Possessions: a diaphanous tunic of yellow silk (50 gp); wand of lightning (20 charges); bracers of defense (AC 4); dagger +1; scroll with fear, fumble and monster summoning I; a 
 platinum and emerald necklace (given to her by Oubaste), worth 5,500 gp. Memorized spells: charm person, comprehend languages, hold portal, magic missile; continual light, darkness 15’ radius, web; dispel magic, fireball, haste; confusion, dimension door.
 
-Treasure:
-Oubaste’s personal treasure: 3 doses of incense of attraction (see new magic items); 1,391 ancient silver pennies (see Arden Vul items); 569 ancient gold solidi (see Arden Vul items); a pair of heavy gold bracelets, each set with a single emerald (1,500 gp each); a jade necklace set with jet (4,500 gp); a jade torc, also set with jet (2,250 gp); a dose of varumani knock-out juice (see Arden Vul items); and a statuette of feline friendship (see new magic items).
-
-Juliana’s Spell Book (inside the drawer of the writing desk): Burning hands, charm person, comprehend languages, dancing lights, detect magic, enlarge, feather fall, floating disk, 
-hold portal, identify, light, magic missile, protection from good, sleep, spider climb; continual light, darkness 15’ radius, detect invisibility, ESP, knock, levitate, mirror image, ray of enfeeblement, rope trick, scare, web; blink, dispel magic, fireball, gust of wind, haste, hold person, monster summoning I, slow; confusion, dimension door, fear, fumble, minor globe of invulnerability, remove curse; animate dead, cloudkill.
+Juliana’s Spell Book (inside the drawer of the writing desk):
+Burning hands, charm person, comprehend languages, dancing lights, detect magic, enlarge, feather fall, floating disk, hold portal, identify, light, magic missile, protection from good, sleep, spider climb; continual light, darkness 15’ radius, detect invisibility, ESP, knock, levitate, mirror image, ray of enfeeblement, rope trick, scare, web; blink, dispel magic, fireball, gust of wind, haste, hold person, monster summoning I, slow; confusion, dimension door, fear, fumble, minor globe of invulnerability, remove curse; animate dead, cloudkill.
 
 ### 8-38: Outer Temple of Bastet
 
-This enormous, 25’-tall chamber serves as the entranceway to the shrine proper. Four 10’-diameter silver disks (500 gp each) hang from the ceiling; with nighteyes of Bastet (see new spells) cast on them, they flood the area with pure moonlight. A landing runs across the east end. Stairs lead down into a pool of placid water, from which half-columns rise in two rows to a height 10’ above the water. At the west end is the enormous alabaster inner temple (8-
-39), fronted by another landing and steps into the pool. A narrow, 6”-wide ledge runs along the north and south walls at a level 15’ above the floor. Also on the north and south walls, above the water line, are four 15’-tall niches, each holding a 12’-tall basalt statue of Bastet in cat-headed human form. Each statue wears a gold earring set with a sapphire (1,000 gp each). The statues themselves could be sold for 5,000 gp each to an appropriate statue merchant.
+* High Priestess Oubaste (8-37) has cast hallow (new) in the outer temple.
+	* Sanctified for those of chaotic neutral alignment (+2 to all rolls, -2 Sfor all others).
 
-The half-pillars are 5’ in diameter and rise 10’ above the water. In maubaste form, the priestesses can leap easily from pillar to pillar, and will use this tactic if combat breaks out in the temple. 
+* This enormous, 25’-tall chamber serves as the entranceway to the shrine proper.
+	* Four 10’-diameter silver disks (500 gp each) hang from the ceiling; flooding the area with pure moonlight thanks to nighteyes of Bastet (new).
+	* Most of the room is filled with a 10' deep placid pool, from which two rows of 5'-thick half-columns rise 10’ above the water.
+		* Landings run across the east and west ends of the room, each with stairs leading down into the water.
+		* A 6”-wide ledge runs along the north and south walls 15’ above the water, and allows access to the 4'-wide tunnels to 8-42 and 8-50.
+	* On the north and south walls, just above the water line, are four 15’-tall niches, each holding a 12’-tall basalt statue of Bastet in cat-headed human form (5000 gp).
+		* Each statue wears a gold earring set with a sapphire (1,000 gp each).
+	* The room's west end is the enormous alabaster facade of the inner temple (8-39).
+		* It is 25’ tall, and has 18 niches (each 3’ tall and 2’ wide) carved into it, nine on each side in three tiers (5', 11', and 17' up).
+			* All but one niche contains a 3’ statuette of a cat in various poses: crouching, batting with a paw, hissing, sleeping, curled with a kitten, etc.
+			* 16 statuettes are painted alabaster.
+				* The rightmost niche on the right side of the entry holds a solid gold statuette of Bastet (new)
+				* The matching leftmost niche on the left is empty.  It held a matching golden statuette of Bastet, stolen years ago, currently in 3-215.  It's return wins favor from the priesthood. 
+				* The middle statuette in the righthand top tier right is a classically posed cat, sitting on its haunches. Pulling it forward opens the secret doors on the west wall of 8-39 (leading to 8-40).
 
-The tunnels leading to 8-42 and 8-50 are narrow (4’ diameter) and placed 15’ above the water line.
+* The temple is regularly visited by two dozen feral cats who come and go throuigh the tunnels to 8-42 and 8-50.
 
-High Priestess Oubaste (8-37) has cast hallow (see new spells) in the outer temple; this effect means that the area is sanctified for those of chaotic neutral alignment (+2 to all rolls for those of alignment CN; -2 to all rolls for all others).
+* If the temple is entered peacefully or by surprise:
+	* Half the acolytes and priestesses (see 8-31 and 8-32) are lounging about, swimming, talking, and performing rituals in the inner temple.  (85%) Oubaste and Juliana (8-37) are also present.
+* If on alert:
+	* All the members of the cult (12 acolytes, 4 priestesses, Oubaste and Juliana) are present. 8 of the acolytes will be standing in human form on the half-pillars, the 4 priestesses crouch next to the statues of Bastet in the north and south wall niches.  The other 4 acolytes, Oubaste, and Juliana stand before the entrance to 8-39.
+* If combat ensues:
+	* Don't forget the Hallow spell (+2 for the cult, -2 for all other non-CN).
+	* The acolytes transform into maubaste and attempt to knock foes into the water.
+	* The priestesses open with spells before changing into maubaste form and leaping across the pillars to confront foes.
+	* Oubaste and Juliana maintain spell use for as long as necessary before Oubaste also transforms into a maubaste.
+	* In maubaste form, the priestesses can easily leap across the half-pillars to maneuver.
 
-The eastern wall of the inner temple (8-39) offers a commanding sight to those in outer temple. The wall is 25’ tall and made of alabaster; eighteen niches (each 3’ tall and 2’ wide) are carved into the facade. The niches are arranged such that there are nine niches on each side of the entrance to 8-39, in three tiers (at 5’, 11’, and 17’ above the floor). All but one of the niches contain a 3’-tall statuette of a cat in various poses: crouching, batting with a paw, hissing, sleeping, curled with a kitten, etc. Sixteen of the statuettes are painted alabaster, but two are different. The niche on the lowest register to the left of the opening to 8-39 is empty, while its counterpart to the right of the entrance contains a solid gold statuette of Bastet (see new magic items). The empty niche used to contain a second golden statuette of Bastet, but it was stolen years ago and may currently be found in area 3-215. Returning the missing statuette wins the friendship of the priesthood. 
-
-The middle statuette in the right upper register is also significant. It is of a classically posed cat, sitting on its haunches. Unlike all the others, it is partly attached to the floor via a spring 
-mechanism. Pulling it forward serves to unlock and open the secret doors on the west wall of 8-39 (leading to 8-40).
-
-In addition to the priesthood, the temple is regularly visited by two dozen feral cats who use the tunnels to 8-42 and 8-50 to come and go from their lairs.
-
-If the temple is entered by surprise, or by those allied with the cult of Bastet, PCs will find half the acolytes and priestesses (see 8-31 and 8-32) lounging about, swimming, talking, and performing rituals in the inner temple. On such occasions, Oubaste and Juliana (8-37) are also present 85% of the time.
-
-If the temple has been alerted, or the cult has reason to believe that enemies are near, then all the members of the cult (twelve acolytes, four priestesses, Oubaste and Juliana) will be present. In such cases, eight of the acolytes will be standing in human form on the half-pillars, while the four priestesses crouch next to the basalt statues of Bastet in the north and south niches; the remaining four acolytes, plus Oubaste and Juliana, stand before the entrance to 8-39. If combat ensues, the acolytes are quick to transform into maubaste and attempt to knock foes into the water. The priestesses open with spells before changing into maubaste form and leaping across the pillars to confront foes. Oubaste and Juliana maintain 
-spell use for as long as necessary before Oubaste also transforms into a maubaste.
 
 Oubaste, the high priestess (85%): see stats at 8-37
 
@@ -949,46 +1020,72 @@ Juliana (85%): see stats at 8-37
 
 ### 8-39: Inner Temple
 
-The inner temple takes the form of an enclosed cella some 30’ square. Its walls, floor and ceiling are enormous slabs of alabaster. The external facade of the east wall of the cella is set with niches (see description at 8-38). The dominant feature of the cella is the colossal statue of Bastet that stands against the west wall. Six iron torch brackets set into the floor provide a dramatic avenue towards the statue. In addition, a basalt stone altar table stands at Bastet’s 
-feet; typically incense is burning on the altar and small offerings (rats, mushrooms, locks of hair) are scattered about it. Three open basalt chests line the north wall. The walls are empty of decoration save for the south wall, on which is painted an enormous cat’s eye.
+* The inner temple takes the form of an enclosed cella, 30’ square, 
+	* Its walls, floor and ceiling are enormous slabs of alabaster.  They are bare, save for the south wall, which has an enormous, painted ==cat’s eye== (enchanted).
+		* A narrowed eye with yellow iris and black, vertical pupil that follows any visitor not wearing one of the moons of Bastet (new).
+	* A colossal, 20' basalt statue of cat-headed Bastet stands against the west wall.
+		* She cradles a sistrum (shaken rattle instrument) in her left hand and points outwards with her right.  She wears a modest gold hoop earring in one ear, and tramples a large serpent under her feet.
+	* A basalt altar table stands at the statue's feet, bearing incense censors and small offerings (rats, mushrooms, locks of hair).
+	* Six iron torch brackets set in the floor provide a dramatic avenue towards the statue.
+	* 3 open basalt chests line the north wall.
+		* They contain the accumulated wealth of the cult, mostly from offerings in antiquity (but some more recent).
+		* #1) 31,738 ancient copper bits
+		* #2) 11,349 ancient silver pennies, 3,577 sp
+		* #3) 6,721 ancient gold solidi, 2,811 gp
+	* Secret Doors: easy to locate (1 in 4), but impossible to open without pulling the right niche statuette on the inner temple facade (8-38).
 
-Statue of Bastet: The 20’-tall statue is formed of black basalt, and takes the form of a standing, cat-headed woman. Bastet cradles her sistrum in her left hand and points outwards with her right. She wears a modest gold hoop earring in one ear. The statue is carved such that Bastet is trampling a large serpent under her feet. 
-
-Basalt Chests: The three chests contain the accumulated wealth of the cult, mostly in the form of offerings made to Bastet in antiquity (but including some of more recent vintage). One chest contains 31,738 ancient copper bits (see Arden Vul items). The second has 11,349 ancient silver pennies (see Arden Vul items) mixed with 3,577 sp. The third contains 6,721 ancient gold solidi (see Arden Vul items) and 2,811 gp.
-
-Cat’s Eye: The eye painted on the south wall is enchanted. It initially appears as a narrowed eye with yellow iris and black, vertical pupil. The pupil moves to follow any visitor to the inner temple who is not wearing one of the moons of Bastet (see new magic items). Should the cult statue be molested or any of the temple treasure be stolen, Bastet will curse the malefactor. The curse takes the form of a permanent eye blazoned on the victim’s forehead; in addition to this unusual ornament, the cursed person(s) will be considered inimical to all felines. Larger felines may attack, while smaller species will avoid the malefactor and hiss appropriately.
-
-Secret Doors: The two doors are easy to locate (1 in 4), but impossible to open unless the trigger is known. The trigger is the seated cat statuette in the middle of the upper right register on the outer wall of the inner temple (see description at 8-38). If the statuette is pulled forward, both secret doors open instantly. It is easy, of course, for a maubaste to climb to this statuette and trigger the doors.
-
-Treasure:
-See temple treasury contents above.
+Cat’s Eye Curse
+* Any theft or molestation of the temple brings Bastet's curse upon the malefactor.
+* A permanent feline eye is blazoned on their forehead, and they are inimical to all felines. Larger felines may attack; smaller species hiss and sabotage them (gnawing gear, pooping in shoes, leading enemies to them, stealing trinkets, etc).
 
 ### 8-40: Tomb of the Founder
 
-The sarcophagus of Berenib dominates this roughly-carved, 8’-tall, granite chamber. The walls are painted with simplistic images of cats being worshipped by stick-figure-like humans.
+* The walls of this roughly-carved, 8’-tall, granite chamber are painted with simplistic images of cats being worshipped by stick-figure-like humans.
+* The sarcophagus of Berenib dominates the center.
+	* Formed of shaped bluestone, and carved on all sides.
+		* The short sides show figures of a seated Bastet.
+		* The long sides are inscribed (Mithric): “Berenib, high priestess, who refused to bow to the archon // and who led the children of Bastet to a new home.”
+		* The lid has a gold-inlaid image (100 gp) of a woman with cat ears, dressed in a simple tunic.
+	* Inside: 
+		* Berenib, a mummy, appearing more as a mummified giant cat than a human. She only confronts intruders if her sarcophagus is violated.  She cannot be turned while in the environs of the shrine of Bastet.
+		* Grave goods: 4 jade cups and a jade ewer (500 gp total).  One cup is a jade cup of life restoration (4 charges, new).
 
-Sarcophagus: Formed of shaped bluestone, the sarcophagus is carved on all sides. The short sides show figures of a seated Bastet, while the long sides offer the following inscription in Mithric: “Berenib, high priestess, who refused to bow to the archon // and who led the children of Bastet to a new home.” The lid contains an image of a woman with cat ears, dressed in a simple tunic. The incised image on the lid is picked out by gold fill (100 gp). 
+* GM Note
+	* As the Sortians-Theosoph conflict accelerated, the archon, Alcibiades the Hunter (ruled 1717-1734 AEP), imperiously commanded that all the priesthoods join him in locating and arresting all those suspected of Sortian sympathy. 
+		* Alone among the high priests and priestesses, Berenib of Bastet refused.
+		* She and most of her followers absconded with the temple treasury, fleeing to the lower reaches of Arden Vul, where they hid for several decades.
+			* For her actions, she was deemed a traitor by the Basileus and the archon.
+		* With the Archontean hegemony collapsing above, Berenib and her priestesses constructed a new temple to Bastet here on Level 8.
+	* New priestesses are periodically guided by Bastet, or found by her disguised, traveling priestesses, to take up their destined roles.
 
-Within the sarcophagus is Berenib, now a mummy, albeit one who appears more as a mummified giant cat than as a human. She only confronts intruders if her sarcophagus is violated. Berenib cannot be turned while in the environs of the shrine of Bastet. 
-
-GM Note: As the conflicts between Sortians and Theosophs began to accelerate, the archon, Alcibiades the Hunter (ruled 1717-1734 AEP), imperiously commanded that all the priesthoods join him in locating and arresting all those suspected of Sortian sympathy. Alone among the high priests and priestesses, Berenib of Bastet refused. She and the majority of her followers absconded with the temple treasury and fled to the lower reaches of Arden Vul, where they hid for several decades. Then, as the Archontean hegemony collapsed above, Berenib and her priestesses constructed a new temple to Bastet here on Level 8. For her actions, she was deemed a traitor by the Basileus and the archon; official record of the Arden Vul temple of Bastet was expunged. The cult of Bastet has remained secret since that date, with new priestesses periodically guided by Bastet to her shrine where they take up their destined roles.
-
-Berenib the cat-mummy: SZ M; AL LE; AC 3; MV 60’; HD 6+3; HP 48; #AT 1; Dmg 1-12. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, and paralysis Berenib wears an amulet of fire resistance (see new magic items) and is, as noted above, immune to turning so long as she remains between areas 8-31 and 8-41.
-
-Treasure:
-Berenib wears an amulet of fire resistance (see new magic items) and a jade necklace with a jet representation of a seated cat (350 gp).
-
-Inside the sarcophagus is a set of four jade cups and a jade ewer (total 500 gp); one of the cups is actually a jade cup of life restoration with 4 charges (see new magic items).
+Berenib the cat-mummy: SZ M; AL LE; AC 3; MV 60’; HD 6+3; HP 48; #AT 1; Dmg 1-12. Special attacks: fear; rotting disease. Special defenses: +1 or better weapons to hit; half damage from magic weapons; immune to sleep, charm, hold, cold, poison, and paralysis; immune to turning while between 8-31 and 8-41.
+* Possessions
+	* Amulet of fire resistance (new)
+	* Jade necklace with a jet representation of a seated cat (350 gp)
 
 ### 8-41: Catacombs of the Cat Goddess
 
-The short flight of stairs from 8-40 leads to the burial chambers of previous priestesses of Bastet. The area is roughly carved out of the local granite, with niches for the mummified remains of centuries of priestesses. Over seventy five bodies are present in the niches, all carefully mummified. In addition, the western extension of the catacombs contains a mountain of mummified cats, each representing the favorite cat of one of the high priestesses. A small (3’-diameter) hole leads to one of the cat tunnels to the south.
+* The short stairs from 8-40 lead to the burial chambers of prior priestesses of Bastet.
+* The area is roughly carved from the local granite, with niches for the mummified remains of centuries of priestesses (over 75 present, all carefully mummified).
+	* The western extension of the catacombs contains a mountain of mummified cats, each the favorite cat of one of the high priestesses.
+	* A small, 3’-wide hole leads south to one of the cat tunnels.
+	* One mummy in the northwestern alcove is different from the others: ==Gennadius==, leader of the kentarchia of the 3rd Tagmata.
+		* Linen-wrapped, as usual, but with a gold death mask (450 gp) of a male face with a military haircut; inscribed inside the mask “Gennadius, protector.”
+			* If the death mask is removed, the benign ghost of Gennadius materializes.
 
-There is a 15% chance that any mummified human has either a jade amulet (150 gp), a jet figurine of Bastet (175 gp), or a silver and enamel necklace (75 gp). It takes one turn to search a mummy.
+* Searching a human mummy takes 1 Turn and has a 15% of finding a jade amulet (150 gp), a jet figurine of Bastet (175 gp), or a silver and enamel necklace (75 gp).
 
-One of the mummified corpses in the northwestern alcove is different from the others: it is that of Gennadius, leader of the kentarchia of the 3rd Tagmata that fled the military disaster of the Cave of Blood (7-76) only to become ensorcelled by Deino (3-158). Kentarch Gennadius, and his faithful whippet, Rex, managed to escape Deino and wandered. They came to the Inn of the Lost (6-8), where Gennadius recognized Thegan’s true identity; Thegan ambushed the pair and threw them down the hole at 6-20/8-33. Badly wounded, Gennadius and his dog were, strangely enough, taken in by the cult of Bastet. In return for their service to the high priestess, she accorded them full rights of mummification. Gennadius’s mummy is wrapped in linen as usual, but has a gold death mask (450 gp) that clearly reveals a male face with a military haircut; inscribed on the reverse of the mask are the words, “Gennadius, protector.” Should the death mask be removed, the benign ghost of Gennadius materializes.
+Kentarch Gennadius
+* On fleeing the military disaster of the Cave of Blood (7-76), the tagmata became ensorcelled by Deino (3-158).  Kentarch Gennadius, and his faithful whippet, Rex, managed to escape.
+* Wandering, they came to the Inn of the Lost (6-8), where Gennadius recognized Thegan’s true identity.  Thegan ambushed the pair and threw them down the hole at 6-20 / 8-33.
+* Badly wounded, Gennadius and his dog were, taken in by the cult of Bastet.
+	* In return for their service to the high priestess, she accorded them full rights of mummification. 
 
-Gennadius’s ghost speaks in an old-fashioned dialect of Archontean, and is blunt and crude, like the old soldier that he was. Gennadius pleads with PCs to let his body rest, and, in particular, to not disturb his mummy (including the mask). He also inquires about the fate of his men from the 3rd Tagmata, and begs interlocutors to rescue them from the clutches of ‘that witch, Deino’ (3-158). The ghost offers to provide important secrets and the possibility of great wealth if the PCs bring him proof of Deino’s demise (say, by producing her head). Should the PCs do this, Gennadius explains the identity of Thegan White-Mane (6-19) and describes how to access Thegan’s secret treasuries (6-20).
+* Gennadius’s ghost speaks an old-fashioned dialect of Archontean, and is blunt and crude, like the old soldier that he was.
+	* He pleads for his body to be left to rest, and to not disturb his mummy (including the mask).
+	* He inquires about the fate of his men from the 3rd Tagmata, and begs interlocutors to rescue them from the clutches of ‘that witch, Deino’ (3-158).
+	* He offers important secrets and the possibility of great wealth if the PCs bring him proof of Deino’s demise (say, by producing her head).
+		* He will reveal the identity of Thegan White-Mane (6-19) and describes how to access Thegan’s secret treasuries (6-20).
 
 Gennadius’s ghost: noncombatant.
 
@@ -1044,48 +1141,49 @@ surprised 1 in 6.
 
 ### 8-47: Rudishva Security Station
 
-One of the important rudishva security centers in antiquity, this chamber is clad in octagonal black-granite sheathing and has no 90-degree angles. A 10’x10’ table occupies the center of the chamber; its top is a piece of black glass. Several stools are parked around the table. The north and east walls contain consoles made of plasteel. A pedestal in the northeast corner holds a stone nataraja (see new monsters – rudishva animated constructs), still futilely guarding the otherwise empty chamber. 
+* An important rudishva security center, this chamber is clad in octagonal black-granite sheathing and has no 90-degree angles.
+	* A 10’x10’ ==table==, topped with a slab of black glass, occupies the center.
+		* Several stools are parked around the table.
+	* The north and east walls each contain an identical, orange plasteel ==console==.
+		* Wrapped in oilcloth under the eastern console is a tactical suit (tech).
+	* A pedestal in the northeast corner holds a stone nataraja (rudishva animated construct, new), still futilely guarding the empty chamber.
 
-Wall Consoles and Holographic Table: The two consoles are ident-ical, allowing a pair of operators to produce holographic and other effects on the table in the center of the chamber. Each console is made of orange plasteel, inset with a score of octagonal buttons 
-with glyphs on them, plus several knobs and ‘joysticks’. The northern console is in poor repair, however, and will explode in a cascade of sparks after being manipulated thrice (e.g., pushing three buttons, or operating the joystick three times, etc.). The eastern console may be operated without danger.
-
-Wrapped in oilcloth under the eastern console is a tactical suit (see new technological items).
-
-Using the Console: The Rudishva glyphs were specially created to describe the locations to which they connect. This means that even someone with a limited knowledge of Rudishva is unlikely to be able to simply ‘read’ the glyph. When a glyph is punched, the GM should roll randomly to determine which location is connected to that glyph. Once a location is connected to a glyph, PCs will be able to select a given location to view. 
+Consoles & Table
+* The two consoles allow a pair of operators to produce holographic and other effects on the table in the center of the chamber.
+	* The northern console is damaged and will explode after being manipulated 3 times.
+	* The eastern console may be operated without danger.
+* They are covered with glyphic buttons and joystick knobs.
+	* The joysticks allow holographic images to rotate 360-degrees.
+	* Each button connects to a specific viewpoint.  With limited glyphic literacy, it's hard to parse them.  Roll a random location when trying out new buttons.
 
 2d12 Function of Selected Glyph
 
-2 Opens a communication channel to the RAJ-750 artificial intelligence in 6-27, while also providing a holographic live feed of area 6-27
-3 Opens a communication channel to the Aklah-Chah artificial intelligence in SL14-13, while also providing a holographic live feed of area 6-27
-4 Calls up a holographic live feed of area 5-92
-5 Calls up a holographic live feed of area 5-107
-6 Calls up a holographic live feed of area 5-131
-7 Calls up a holographic live feed of area 5-94
-8 Calls up a holographic live feed of area 5-18
-9 Calls up a holographic live feed of area 5-25
-10 Calls up a holographic live feed of area 6-39
-11 Calls up a holographic live feed of area 6-113
-12 Calls up a holographic live feed of area 6-121
-13 Calls up a holographic live feed of area 6-122
-14 Calls up a holographic live feed of area 7-4
-15 Calls up a holographic live feed of area 7-143
-16 Calls up a holographic live feed of area 7-109
-17 Calls up a holographic live feed of areas 8-53A through 8-53H (six seconds per area)
-18 Calls up a holographic live feed of area 9-96
-19 Calls up a holographic live feed of area 9-91
-20 Calls up a holographic live feed of area 9-89
-21 Calls up a holographic live feed of area SL2-2
-22 Calls up a holographic live feed of SL6-27
-23 Calls up a holographic live feed of SL9-46
-24 Calls up a holographic live feed of SL14-10
-
-Note: The joysticks allow holographic images to rotate through a 360-degrees vantage point.
+* 2 Opens a communication channel to the RAJ-750 artificial intelligence in 6-27, while also providing a holographic live feed of 6-27
+* 3 Opens a communication channel to the Aklah-Chah artificial intelligence in SL14-13, while also providing a holographic live feed of 6-27
+* 4 Calls up a holographic live feed of area 5-92
+* 5 Calls up a holographic live feed of area 5-107
+* 6 Calls up a holographic live feed of area 5-131
+* 7 Calls up a holographic live feed of area 5-94
+* 8 Calls up a holographic live feed of area 5-18
+* 9 Calls up a holographic live feed of area 5-25
+* 10 Calls up a holographic live feed of area 6-39
+* 11 Calls up a holographic live feed of area 6-113
+* 12 Calls up a holographic live feed of area 6-121
+* 13 Calls up a holographic live feed of area 6-122
+* 14 Calls up a holographic live feed of area 7-4
+* 15 Calls up a holographic live feed of area 7-143
+* 16 Calls up a holographic live feed of area 7-109
+* 17 Calls up a holographic live feed of areas 8-53A to 8-53H (six seconds per area)
+* 18 Calls up a holographic live feed of area 9-96
+* 19 Calls up a holographic live feed of area 9-91
+* 20 Calls up a holographic live feed of area 9-89
+* 21 Calls up a holographic live feed of area SL2-2
+* 22 Calls up a holographic live feed of SL6-27
+* 23 Calls up a holographic live feed of SL9-46
+* 24 Calls up a holographic live feed of SL14-10
 
 1 rudishva animated constructs - stone nataraja (see new monsters): SZ L; AL N; AC 2; MV 90’; HD 8; HP 56; #AT 1; Dmg 4-11; MR 25%. Special attacks: sonic or fire attack. Special 
 defenses: +1 or better weapons to hit; immune to cold, fire, electricity, poison, and mind-affecting spells.
-
-Treasure:
-Tactical suit (see new technological items).
 
 ### 8-48: Rudishva Corridor Fragment
 
@@ -1127,35 +1225,38 @@ Teleport Nodes:
 
 ### 8-53: Rudishva Detention Block
 
-This area served as a detention center for members of the rudishva hegemony. The entire area is sheathed in octagonal black granite tiles, and no 90-degree angles are present. The cells proper are labeled A through H; the western portion features an oval console surrounded by plasteel stools. Lockers line the north and south walls. The west wall once held a huge black glassteel view screen, but it was shattered in antiquity and its shards now litter the floor under the wall. 
+* This area served as a detention center for members of the rudishva hegemony.
+	* The area is sheathed in octagonal black granite tiles, with no 90-degree angles.
+	* In the western portion, a 10’-diameter black disk of pulsating energy that floats above an oval console (damaged and inoperable), surrounded by plasteel stools.
+		* A permanent gate to the Abyss, conjured over a millennium ago by a long forgotten wizard. 
+	* The cells are labeled A through H.
+	* Empty lockers line the north and south walls, their doors twisted and blasted pieces of plasteel.
+	* The west wall holds a huge black viewscreen, shattered in antiquity, its shards littering the floor below.
 
-A pile of corpses lines the hallway to 8-51. Some of these corpses are human, both ancient Archonteans and more recent adventurers, some are varumani (see new monsters), three are 
-kaliyani (see new monsters), and two are large horned and taloned creatures (demons).
+* A pile of corpses lines the hallway to 8-51.
+	* Human, both ancient Archonteans and more recent adventurers, some varumani, 3 kaliyani, and 2 large horned and taloned creatures (demons).
+	* A scattering of 201 cp, 177 sp, 149 gp, six 100 gp pearls; a robe of the archmagi (white); a war hammer +3; a wooden shield +2; 6 crossbow bolts of fire (new); a suit of chain mail; a slim codex (the Cantor’s Lament, see 8-148); a gold key to the Obsidian Gates (5-6D); and a carved ivory puzzle box depicting elephants and other animals (3,500 gp).
 
-The oval console has been subject to much damage and is inoperable. The lockers, which used to store weapons and equipment, are empty, and their doors are merely twisted and blasted pieces of plasteel.
+* A type IV demon waits behind the disk, sent by the master of its layer of the abyss to investigate through gate.
+	* It has enjoyed lurking here for years, ambushing those foolish enough to investigate the gate. 
+* 15% The demon has returned to the abyss to report and is not present.  Otherwise it waits in ambush, striking once the western chamber is fully entered. to add to its pile of corpses.
+	* Strangely, it does not bother Kerbog Khan’s automatons as they pass from 8-54 to other areas of the Halls.
+	* Since it's not always present, explorers have mostly managed to loot the bodies.
 
-As the type IV demon (see below) is not always present, and only attacks once the western chamber is fully entered, most of the corpses in the hallway have been looted pretty thoroughly. A few bits of treasure do remain.
-
-Gate: The most imposing sight in the room is a 10’-diameter black disk of pulsating energy that floats above the oval console. This disk detects of magic and of evil; it is, in fact, a permanent one-way gate to the Abyss that was conjured over a millennium ago by a long forgotten wizard. A type IV demon waits behind the disk, sent here by the master of its layer of the abyss in order to investigate the gate and possibly close it. This demon has enjoyed lurking here for years at a time so as to ambush those foolish enough to investigate the gate. At times it returns to the abyss, though; there is a 15% chance that when the chamber is entered, the demon will be gone. Otherwise it waits in ambush so as to add to the pile of corpses. 
-
-Strangely, the demon does not bother Kerbog Khan’s automatons as they pass from 8-54 to other areas of the Halls.
-
-Cells: Each cell is carved from the bare granite, and features a plasteel cot and bucket. Originally force screens prevented the incarcerated from leaving, but the power supply (operated at the console in the west of the area) failed, and all the cells are open. Most of the cells are empty, save for the following:
-
-Cell A: A perfectly circular, highly polished, 6’-diameter tunnel leads west from the back wall of this cell (see 8-54).
-
-Cell C: The desiccated corpse of a rudishva crewman, still wearing her orange jumpsuit, lies on the floor of the cell. Forgotten by her jailors, she died of dehydration after the complex was abandoned during the collapse. In her boot is a bronze rudishva identity plaque (See new technological items).
-
-Cell G: The body of an elven adventurer rests here. He was wounded badly by the demon and crawled here to die. 
+Cells
+* Each cell is carved from the bare granite, with a plasteel cot and bucket. 
+* Force screens once sealed them, but the power supply (operated at the console in the west of the area) failed, and all the cells are open.
+* Most are empty, save for the following:
+	* Cell A
+		* A perfectly circular, highly polished, 6’-diameter tunnel leads west from the back wall of this cell (see 8-54).
+	* Cell C
+		* The desiccated corpse of a rudishva, still in orange jumpsuit, lies on the floor. She died of dehydration in the aftermath of the collapse. In her boot is a bronze rudishva identity plaque.
+	* Cell G
+		* The body of an elven adventurer rests here. He was wounded badly by the demon and crawled here to die. 
+			* A suit of elven chain mail +1, a rope of climbing, an elixir of youth, of 2 fire opals (1,000 gp each) and 4 peridots (500 gp each).
 
 1 type IV demon: SZ L; AL CE; AC -1; MV 90’, 120’ flying (Class E); HD 11; HP 81; #AT 3; Dmg 1-4/1-4/2-8; MR 65%. Constant abilities: infravision. Special attacks: +2 to hit; cause 
 fear; darkness 10’ radius; use symbol (fear or discord). Special defenses: half damage from cold, electricity, fire, gas; +1 or better weapons to hit. Special: teleport without error; detect magic; read languages; telekinesis (5,000 gp); project image; create illusion; levitate; polymorph self; dispel magic; gate in demon of type I to IV (60%).
-
-Treasure:
-Amid the corpses: a scattering of 201 cp, 177 sp, 149 gp, and six 100 gp pearls; a robe of the archmagi (white); a war hammer +3; a wooden shield +2; 6 crossbow bolts of fire (see new 
-magic items); a suit of chain mail; a slim codex containing the Cantor’s Lament (see 8-148); a gold key to the Obsidian Gates (5-6D); and a carved ivory puzzle box depicting elephants and other animals (3,500 gp).
-
-On the elven adventurer: a suit of elven chain mail +1, a rope of climbing, an elixir of youth, of two fire opals (1,000 gp each) and four peridots (500 gp each).
 
 ### 8-54: Tunnel to SL12-21 (Workshops of Kerbog Khan)
 
@@ -1167,19 +1268,26 @@ On the elven adventurer: a suit of elven chain mail +1, a rope of climbing, an e
 
 ### 8-55: Cave of Peabo
 
-An exiled lesser varumani named Peabo inhabits this cave. The cave is 15’ tall and has a small natural basin with fresh water. Peabo otherwise survives on rats and small vermin. His security is ensured by the relative proximity of the citadel of the Sun-Scarred Knights (see new monsters), whose members come and go via 8-56; the knights, on the other hand, tolerate Peabo as a vermin remover and as a sort of canary in the coalmine, alerting them to 
-potential dangers. 
+* The cave is 15’ tall and has a small natural basin of fresh water.
+	* Peabo has hidden 2 potions of invisibility in the basin so they remain ‘fresh’.
+	* A pouch with 8 pearls (100 gp each) is hidden under a rock.
 
-Peabo was exiled from the court of the troll thegn (7-74) for refusing to support the thegn’s recent expansionist policies. He would be interested in any intrigues designed to bring down 
-the thegn, and might be able to put those he considers friendly into touch with other varumani of similar sympathies. Peabo has occasionally crept up the stairs at 8-56 and can describe the outer precincts of the citadel of the Sun-Scarred Knights (SL10A-1 to SL10A-7, and SL10A-14); he knows several of the knights by name and interest.
+Peabo
+* An exiled lesser varumani named Peabo dwells here., surviving on rats and small vermin.
+* The proximity of the citadel of the Sun-Scarred Knights, whose members come and go via 8-56, helps keep away danger.
+	* The knights tolerate Peabo as a vermin remover and a canary in the coalmine, alerting them to potential dangers.
+	* Peabo has occasionally crept up the stairs (8-56) and seen the outer precincts of the citadel of the Sun-Scarred Knights (SL10A-1 to SL10A-7, and SL10A-14).
+	* He knows several of the knights by name and interest.
 
-If a noticeably hostile and powerful party enters his chamber, Peabo quickly drinks his potion of invisibility and tries to escape. Otherwise he is happy to negotiate, trading information for food and small valuables.
+* Peabo was exiled from the court of the troll thegn (7-74) for refusing to support the thegn’s recent expansionist policies.
+	* He would be interested in intrigues to bring down the thegn, and might be able to put friends in touch with other varumani of similar sympathies. 
+
+* If a noticeably hostile and powerful party enters his chamber, Peabo quickly drinks his potion of invisibility and tries to escape.
+* Otherwise he is happy to negotiate, trading information for food and small valuables.
 
 Peabo, a lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 55; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (mattock, 3-18+4). Special defenses: 33% resistant to mind-
-affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: mattock, one dose of varumani knock-out juice (see Arden Vul items).
-
-Treasure:
-Two potions of invisibility, kept in the basin of water so they remain ‘fresh’, as well as a pouch with 8 pearls (100 gp each) hidden under a rock.
+affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision.
+* Possessions: mattock, one dose of varumani knock-out juice (av items).
 
 ### 8-56: Rudishva Hall, Stairs Up to SL10a-1 
 
@@ -1250,34 +1358,32 @@ Two potions of invisibility, kept in the basin of water so they remain ‘fresh�
 		* Even closer inspection reveals a pair of bite marks on his neck. The corpse holds no valuables.
 		* His party became lost in the Nether Reaches. After a falling out, he was attacked and left to die by his former colleagues. Cinna Minux (7-122) encountered him and took advantage to drink him dry before be bled out.
 
-### 8-66: Statue of Chibalba 
+### 8-66: Statue of Anubis (Chibalba)
 
-An 8’-tall statue of the Archontean deity Chibalba occupies the center of this partly ruined, 15’-tall hall. The eastern side retains its worked features – typical Archontean stonework, with frescoes that have run into smears of unrecognizable color. The western side has collapsed, leaving piles of broken masonry and rough rock. 
+* This 15'-tall hall is partly ruined.
+	* An 8’-tall, statue of badly corroded blue granite, depicting the Archontean deity Anubis (Chibalba) occupies the center, its head knocked off and long gone.
+		* A 10’-wide mosaic surrounds the statue, depicting Underworld scenes.
+			* pastoral subterranean scenes (lizards, mushrooms, sarcophagi, bats, altars, etc).
+		* The figure is cloaked, holding a staff in one hand and a lantern in the other.
+			* Anyone familiar with the cult of Chibalba will have no problems recognizing these as the iconic images associated with this protector of subterranean regions and travelers.
+		* The base reads (Mithric): “(Anubis) Chibalba, lord of the Deeps, watches over these halls. Summon him if thy need is great.”
+	* The eastern of the hall side retains its typical Archontean stonework, with smeared and faced frescoes.
+	* The western side has collapsed, leaving piles of broken masonry and rough rock.
+	* The door to 8-5 is obviously new and in good repair; it is locked and barred from the south.
 
-A 10’-diameter mosaic surrounds the statue; it depicts pastoral subterranean scenes, including lizards, mushrooms, sarcophagi, bats, altars, etc. The door to 8-5 is obviously new and in good repair; it is locked and barred from the south.
-
-Statue: The blue granite statue of Chibalba is in bad shape. The head has been knocked off, and is nowhere to be found. From the badly corroded remains of the statue, it appears that the statue depicted a cloaked figure holding a staff in one hand and a lantern in the other. Anyone familiar with the cult of Chibalba will have no problems recognizing these as the iconic images associated with this protector of subterranean regions and travelers.
-
-The base of the statue reads, in Mithric: “Chibalba, lord of the Deeps, watches over these halls. Summon him if thy need is great.” Should anyone standing on the mosaic either 1) state Chibalba’s name three times in a row, or 2) declaim “I summon thee, Chibalba!”, an avatar of the deity will arrive to lend temporary aid and protection to the invokers. The aid imparted by the avatar will depend on the needs of those making the invocation; the GM should use his/her best judgment in determining which situation is most appropriate based upon the table below.
+Anubis' Blessing
+* Once per month, stating his name three times while standing on the mosaic, or specifically calling upon the god, manifests an avatar to aid travelers in the underworld.
+	* It gives the aid it judge best, informing the recipients of what it offers in Mithric.
+* If invoked by a cleric of Anubis, all 4 forms of aid will be proffered to the cleric and his friends (the combat avatar serving the cleric for a whole day, or until destroyed).
 
 Situation Aid offered
+* In combat) Avatar fights for duration of one combat:
+	* AC 0, HD 8, HP 58, #AT 1, damage 1-10
+* Badly wounded) Cure critical wounds x2
+* Lightly wounded) Cure serious wounds x2
+* Uninjured) Detect traps, infravision, and locate place (new), for 10 turns 
 
-In combat Avatar fights for duration of one combat: AC 
-
-0, HD 8, HP 58, #AT 1, damage 1-10
-Badly wounded Cure critical wounds x2
-Lightly wounded Cure serious wounds x2
-Uninjured plaDetect traps, infravision, and locate 
-
-ce (see new spells), all good for 10 turns
-
-Speaking in the Mithric language, the avatar describes in a solemn, deep voice what aid it will impart. This advice takes one round to describe, after which the avatar will not communicate in any way.
-
-Summoning the avatar is only possible once per month. 
-
-Should a cleric of Chibalba invoke the deity, then all four types of aid will be proffered to the cleric and his friends (with the combat avatar serving the cleric for one whole day, or until it is destroyed, whichever comes first).
-
-Note: Two other identical statues of Chibalba may be found, at 4-69 and 9-87.
+* Note: Two identical statues of Chibalba may be found, at 4-69 and 9-87.
 
 ##### 8-66a: Concealed Entrance
 
@@ -1286,150 +1392,144 @@ Note: Two other identical statues of Chibalba may be found, at 4-69 and 9-87.
 
 ### 8-67: Cave of the Bliss Flowers
 
-This warm, brightly-lit cavern hums with the buzz of insects moving amid field of 6’-tall flowers. The cavern is over 100’ tall in places, and features some worked areas on the south and north walls. The ledge at 8-11 is 60’ above the floor, and the entrances to 8-69 and 8-70 are 30’ above the floor. The floor is relatively flat, and is covered in a thick layer of humus. The walls drip with water, making the environment a bit humid.
+* This warm, brightly-lit cavern hums with the buzz of insects moving amid field of flowers.
+	* The cavern is over 100’ tall in places, worked in parts of the south and north walls, and lit by bright, warm sunlight, comparable to a summer day.
+		* Sun’s gift (new) is the source of the light and heat, cast over a dozen times all over the ceiling and walls (could be dispelled individually, 12th-level).
+	* The floor is relatively flat, and is covered in a thick layer of humus.  The air is humid and the walls drip with water.
+		* 5 steam vents across the cavern floor provide the heat and moisture.  They discharge once every 3 Turns (1d8 if standing near one).
+		* ==Digging in the humus== readily turns up various objects of interest. 
+	* A vast field of 6'-tall, beautiful yellow bliss flowers (flora) thrives.
+		* Along the cavern's edge grow a few other plants (small alders, crepe myrtles, and chaste trees, plus numerous wild flowers; none particularly vigorous). 
+	* Ledges on the wall of the cavern lead to other parts of the level. 
+		* Ledge: to 8-68 (20’ up), to the bee hives (8-69 and 8-70) (30’ up), to 8-113 (40’ up), to 8-11 (60' up).
 
-The cavern has a long history. It was known to the rudishva as the ‘Cave of Tears’, since a majority of the varuda flyers were wiped out here in a heqeti ambush during the early years of the struggle between these two peoples. After centuries of desuetude the cavern became the site of a series of botanical and entomological experiments by a pair of Archontean eccentrics, the functionary Valens the proedros and his magic user accomplice, Houlios (see 
-8-21). The results of their extensive experiments, which they called the Golden Nectar Project, persist, and have produced a strange mini-ecosystem.
+* A haze of bliss-flower pollen fills the cavern (and many surrounding chambers).
+	* The giant bees (8-69 and 8-70) collect much of it, but the plants are so prolific the pollen is literally everywhere.
+	* Exploring save vs doom at -3 or wander in random directions, blissfully unaware of their surroundings, for 1-6 hours.
 
-The cave is lit by bright, warm sunlight, comparable to the light of a warm summer day. Houlios’s unique spell, sun’s gift (see new spells), is the source of the light and heat. He cast over a dozen instances of the spell all over the ceiling and walls of the area; these could be dispelled individually, but only by a magic user of at least 12th-level.
+* Giant bees from 8-69 and 8-70 flit among the flowers nearly continuously, producing an audible hum throughout the cavern.
+	* Most are workers, but if disturbed, soldier bees will emerge from the hives.
+* (10%) Olaf the bee whisperer is wandering among the flowers (see 8-73).
 
-Five steam vents scattered across the cavern floor provide the heat and moisture necessary for the plant life that occupies it. If standing directly over a vent when it discharges (once every 3 turns), a PC takes 1-8 HP scalding damage.
+* The cavern has a long history.
+	* It was known to the rudishva as the ‘Cave of Tears’, since a majority of the varuda flyers were wiped out here in a heqeti ambush during the early years of the war.
+	* After centuries of desuetude the cavern became the site of a series of botanical and entomological experiments by a pair of Archontean eccentrics.
+		* The functionary Valens the proedros and his mage accomplice, Houlios (8-21) set up extensive experiments, which they called the Golden Nectar Project, producing this strange mini-ecosystem.
+		* The flowers have a rapid sexual cycle thanks to Houlios’s experiments.  After releasing their pollen, dying, and decaying, new plants spring up within days. 
 
-A vast field of bliss flowers (see new flora) thrives in the light and warmth. These flowers are about 6’ tall and boast beautiful yellow flowers. The flowers have a rapid sexual cycle thanks to Houlios’s experiments. This means that even after they release their pollen and decay, new plants spring up from the decayed remains within days. 
+Digging in the Humus
+* (75%) reveals the bones of a medium-sized, winged biped (varuda bones from the great massacre during the rudishva-heqeti wars). 
+* Directly under the ledge at 8-11: the skeleton of several humans, with some gear. 
+	* These are the remains of Jadon and the linkboys of his party, who ran in terror to 8-11 and fell to their doom, for Jadon, see 8-10). 
+		* banded mail +1, a metal shield, a battle axe, an amulet of courage (new), an Alexia’s useful pole (new), and a purse with 79 sp, 43 gp.
+* Also (25%) of finding an object (d8).
 
-Along the edge of the cavern grow some other plants, albeit in smaller numbers: some small alders, crepe myrtles, and chaste trees, plus numerous wild flowers. None of these additional plants are particularly healthy or vigorous specimens, but they do add biodiversity to the cavern.
-
-A haze of bliss-flower pollen fills the cavern (and many surrounding chambers). While the giant bees (8-69 and 8-70) collect much of the pollen, the plants are so prolific that their 
-pollen is literally everywhere. This means that those exploring the cavern must make a save versus petrification at -3 or wander in random directions, blissfully unaware of their surroundings, for 1-6 hours.
-
-Giant bees from 8-69 and 8-70 flit among the flowers nearly continuously, producing an audible hum throughout the cavern. Most of these bees are workers, but if the workers are disturbed soldier bees will emerge from the hives to lend assistance
-
-There is a 10% chance that Olaf the bee whisperer is wandering among the flowers (see 8-73).
-
-Ledges on the wall of the cavern lead to other parts of the level. The ledge to 8-68 is 20’ above the floor, the ledges to the bee hives (8-69 and 8-70) is 30’ above the floor, and the ledge to 8-113 is 40’ above the floor.
-
-Those who dig in the humus of the cave floor have no difficulty in turning up various objects of interest. Almost any place one digs (i.e., 75% chance) reveals the bones of a medium-sized, winged biped; these are varuda bones (see new monsters), and the product of a great massacre during the rudishva-heqeti wars. The area directly under the ledge at 8-11 also bears interest: the skeleton of several humans, with some gear. (GM Note: these are the remains of Jadon and the linkboys of his party, who ran in terror to 8-11 and fell to their doom in the cavern – for Jadon, see 8-10). In addition to these results, each turn of searching in the humus has a 1 in 4 chance of turning up one item from the following table (the first three items may be found up to 3 times each):
-
-D8 Item found Notes
+D8 Item found Notes (first 3 items can be found 3 times each)
 
 1-3
-
-Piece of broken rudishva equipment (see new technological items for all). 
-Roll d6:
-1. empty lesser power supply
-2. laser rifle
-3. spear gun
-4. dart thrower and clip containing 3 ordinary darts
-5. sonic fence
-6. battle helmet
+Piece of broken rudishva equipment (see new technological items for all):
+* 1) empty lesser power supply
+* 2) laser rifle
+* 3) spear gun
+* 4) dart thrower and clip containing 3 ordinary darts
+* 5) sonic fence
+* 6) battle helmet
 
 Detritus from the battle in which the heqeti destroyed 2/3 of the varuda flyers
 
 4
-
-Piece of still operative rudishva equipment (see new technological items for all): 
-Roll d4
-1. clip of ordinary darts for a dart thrower
-2. lesser power supply
-3. laser deflector shield
-4. sonic fence
+Piece of still operative rudishva equipment (see new technological items for all):
+* 1) clip of ordinary darts for a dart thrower
+* 2) lesser power supply
+* 3) laser deflector shield
+* 4) sonic fence
 
 Also detritus from the battle
 
 5
-
 Rust, brown, sky blue or pale green rudishva identity plaque (25% chance for each)
 
 Dropped by a varuda slain here
 
 6
-
 A cracked leather potion belt still holding potions of extra healing, fly, and animal control
 
 Dropped by Houlios the mage (see 8-21)
 
 7
-
 A crude basalt statuette of Rimmaq-Isfet (see new monsters)
 
 Worth 50 gp
 
 8
-
 A wand of fireballs 3-18 charges remaining
 
 40 giant worker bees: SZ M; AL N; AC 6; MV 90’, 300’ flying (Class D); HD 3+1; 24(x4), 23 (x4), 22(x4), 21(x4), 20(x4), 19(x4), 18(x4), 17(x4), 16(x4), 15(x4); #AT 1; Dmg 1-3. Special attacks: sting once; poison.
 
 1-4 giant soldier bees, (33% chance when the cavern is first entered. But if combat breaks out, 20 or more soldier bees arrive in 1-3 rounds): SZ M; AL N; AC 5; MV 120’, 300’ flying (Class C); HD 4+2; HP 32, 31, 30, 30, 29, 29, 28(x3), 27, 27, 26(x4), 25(x4), 23; #AT 1; Dmg 1-4. Special attacks: sting once; poison (-1 to saves).
 
-Treasure:
-On Jadon’s body: banded mail +1, a metal shield, a battle axe, an amulet of courage (see new magic items), an Alexia’s useful pole (see new magic items), and a purse with 79 sp and 43 gp.
-
 ### 8-68: Darkened Cave with Roper
 
-This section of the larger cavern rises 20’ above the floor of 8-67, up a scree of loose rock. It is dark, and its floor is uneven rock, with lumps, boulders, and small stalagmites. While no bliss flowers grow here, their pollen floats throughout the area in a thick haze. Those breathing the pollen must save versus petrification at -3 or wander in a random direction for 1-6 hours. 
+* No bliss flowers grow here, but their pollen floats throughout the area in a thick haze. 
+	* Breathing the pollen: save vs doom at -3 or wander randomly direction for d6 hours. 
 
-The cave is well-suited to climbing vines of a number of species. The walls and eastern section of floor are covered with a mat of vines with pale, whitish leaves. The vines conceal the entrance to areas 8-128, 8-129 and 8-134 (the latter of which is located 10’ up the south wall of this cavern).
-
-A stone table overlooks the drop-off to 8-67; Houlios used it while preparing the bliss flower and bee experiments for the Golden Nectar Project. The long-decayed skeletal remains of 
-Houlios lie next to the table, still wearing the prototype ‘bee-suit’ that he used when collecting honey from the bee hives (see Arden Vul items). A slash in the back of the suit shows how Houlios died (a dagger from a deranged apprentice). If the slash is fixed, the suit 
-would provide excellent protection against giant bee stings.
-
-A clever and extremely hungry roper lurks in this darkened chamber, feeding off the occasional lost bee and hoping for better prey. It prefers to take the form of a low boulder lying just behind Houlios’s corpse. It waits until visitors are inspecting the corpse before striking with a 3 in 6 chance of surprise. The roper is daunted by the bright light and swarms of bees, and so does not typically visit 8-67.
+* This section of the larger cavern rises 20’ above the floor of 8-67, up a scree of loose rock.
+	* It is dark, and its floor is uneven rock, with lumps, boulders, and small stalagmites. 
+	* The walls and eastern floor are covered with a mat of vines with pale, whitish leaves. 
+		* The vines conceal the entrance to 8-128, 8-129 and 8-134 (the latter is 10’ up the south wall).
+	* A stone table overlooks the drop-off to 8-67.
+		* Houlios used it while preparing the bliss flower and bee experiments for the Golden Nectar Project.
+		* The ancient skeleton of Houlios lies next to the table, still wearing the prototype ‘bee-suit’ he used to collect honey from the bee hives (av items).
+			* A slash in the back of the suit is from being knifed to death by a deranged apprentice.
+		* A clever and extremely hungry roper lurks in the form of a low boulder just behind the corpse.
+			* It waits until visitors are inspecting the corpse, +1 to surprise.
+			* It is daunted by the bright light and swarms of bees, and so does not typically visit 8-67.
 
 1 roper: SZ L; AL CE; AC 0; MV 30’; HD 11; HP 78; #AT 1; Dmg 5-20; MR 80%. Special attacks: six poisonous strands (20’-50’ range; reduce STR by 50% in 1-3 rds). Special defenses: immune to lightning; take half damage from cold.
-
-Treasure:
-
-Houlios’s bee suit (see Arden Vul items).
-
-Inside the roper’s gut: four golden topaz gems (500 gp each), plus a pink diamond (5,000 gp)
+* Inside the roper’s gut: 4 golden topaz (500 gp each), a pink diamond (5,000 gp)
 
 ### 8-69: Hive of Golden Nectar 
 
-This chamber was specially built by Valens and Houlios to house one of the hives of giant bees that formed part of the Golden Nectar 
+* The air is thick with bliss flower pollen and the drone of scores of bees.
 
-Project (see 8-67). The ceiling is 40’ above the floor, and the entire chamber plus the entrance from the south are of neatly worked, but undecorated, stone. The northern exit is unfinished, and turns swiftly into a natural tunnel.
+* This chamber was specially built by Valens and Houlios to house one of the hives of giant bees as part of the Golden Nectar Project (see 8-67).
+	* The chamber rises 40', and the entire area is neatly worked, undecorated, stone. 
+	* The northern exit is unfinished, and turns swiftly into a natural tunnel.
 
-The air is thick with bliss flower pollen and the drone of scores of bees.
+* The hive is enormous, composed of three huge combs attached to the ceiling and walls.
+	* Each comb is 50’ wide, 10' wide, and 30’ tall.  They are 10' above the floor, and separated from neighbors / the wall by a 5’-wide space, allowing the bees to move about the hive.
+	* The upper 20’ of each comb is devoted to honey storage.  The lower 10’ has cells for larval production.
+		* 50 cells on each side of each comb (300 total).
+			* 250 hold honey (50 gp / cell).
+			* 50 hold royal jelly (1d3 extra healing potions worth).
+		* Lodged in the topmost row of cells in the middle comb is the scepter of the goblins (new; see Gislu the goblin mystic at 4-2, and King Weskenim at SL4-22).
 
-The hive is enormous, and is composed of three huge combs attached to the ceiling and walls. Each comb is 50’ wide and 30’ tall, and has 5’-deep cells on each side. Thus each comb is 10’ wide. Each comb is separated from its neighbor (or the north or south wall) by a 5’-wide space, which allows the bees to move about the hive. In addition, 10’ of space separates the floor from the bottom of the combs. The upper 20’ of each comb is devoted to honey storage, while lower 10’ has cells for larval production. The queen typically moves about in the lower third of the combs, attended by her drones. 
+* The bees are initially unconcerned about man-sized visitors on the floor.
+	* The queen typically moves about the lower third, attended by her drones.
+	* (25% / turn) a bee blunders into one someone, potentially leading to combat.
+	* Intruders climbing or flying among the combs, bring bees to defend their turf.
 
-The bees are initially unconcerned by the arrival of man-sized visitors on the floor of their hive, although there is a 25% chance per turn that a bee may blunder into one of the PCs, potentially leading to combat. Should the PCs try to climb or fly among the combs, however, the bees rally to defend their turf.
+* (25%) Olaf the bee-whisperer (8-73) is here
+	* Observing the bees (33%), or climbing the comb to collect honey (66%).
 
-There are approximately 50 cells filled with the bees’ special honey on each side of each comb (a total of 300 cells). Most cells (250 of them) contains regular honey (50 gp worth per cell), but 50 of the cells contain royal jelly. Each of the royal jelly cells contains sufficient special honey to make 1-3 potions of extra healing, although it will take quite a lot of containers to transport the stuff to a suitable alchemist. In addition, lodged in the topmost row of cells in the middle comb is the scepter of the goblins (see new magic items; also see Gislu the goblin mystic at 4-2, and King Weskenim at SL4-22).
+Total Population for First Hive
+* As long as the queen lives, losses are replaced within a week
 
-Olaf the bee-whisperer (8-73) has a 25% chance to be present in the hive, either observing the bees (33%) or climbing the comb to collect some honey for his meal (66%). 
+* Queen bee: noncombatant, SZ L; AL N; AC 7; MV 0’; HD 10; HP 74; #AT 0.
+* 4 drone bees: noncombatant, SZ M; AL N; AC 8; MV 90’; HD 5; HP 34, 33, 22, 20; #AT 0.
+* 15 giant soldier bees: SZ M; AL N; AC 5; MV 120’, 300’ flying (Class C); HD 4+2; HP 32, 31, 31, 30, 29, 28(x3), 27, 26(x3), 25(x3); #AT 1; Dmg 1-4. Special attacks: sting once; poison (-1 to saves).
+* 99 giant worker bees: SZ M; AL N; AC 6; MV 90’, 300’ flying (Class D); HD 3+1; 24(x9), 23 (x10), 22(x10), 21(x10), 20(x10), 19(x10), 18(x10), 17(x10), 16(x10), 15(x10); #AT 1; Dmg 1-3. Special attacks: sting once; poison.
 
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
-
-Listed here are the total population numbers for the first hive. Bees encountered and destroyed elsewhere (e.g., 8-67 or as wandering monsters) should be deleted from the roster. So long as the queen lives, losses can be replaced within a week.
-
-1. Queen bee: noncombatant, SZ L; AL N; AC 7; MV 0’; HD 10; HP 74; #AT 0.
-2. 4 drone bees: noncombatant, SZ M; AL N; AC 8; MV 90’; HD 5; HP 34, 33, 22, 20; #AT 0.
-3. 15 giant soldier bees: SZ M; AL N; AC 5; MV 120’, 300’ flying (Class C); HD 4+2; HP 32, 31, 31, 30, 29, 28(x3), 27, 26(x3), 25(x3); #AT 1; Dmg 1-4. Special attacks: sting once; poison (-1 to saves).
-4. 99 giant worker bees: SZ M; AL N; AC 6; MV 90’, 300’ flying (Class D); HD 3+1; 24(x9), 23 (x10), 22(x10), 21(x10), 20(x10), 19(x10), 18(x10), 17(x10), 16(x10), 15(x10); #AT 1; Dmg 1-3. Special attacks: sting once; poison.
-5. Olaf the bee-whisperer (25%): see 8-73
-
-Treasure:
-Honey, potentially 12,500 gp worth; royal jelly, enough for 50-100 potions of extra healing; The scepter of the goblins (see new magic items).
+* Olaf the bee-whisperer (25%): see 8-73
 
 ### 8-70: Second Hive of Golden Nectar
 
-The second hive of giant bees is identical in almost every way to the hive at 8-69, complete with three massive combs spaced in the same way. Of course there is no scepter of the goblins here. 
+* The air is thick with bliss flower pollen and the drone of scores of bees.
 
-As with the first hive, Olaf the bee-whisperer (8-73) has a 25% chance to be present here, either observing the bees (33%) or climbing the comb to collect some honey for his meal (66%). Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* The second hive of giant bees is identical in almost every way to the hive at 8-69, complete with three massive combs and a similar compliment of bees.
 
-Listed here are the total population numbers for the second hive. Bees encountered and destroyed elsewhere (e.g., 8-67 or as wandering monsters) should be deleted from the roster.
-
-1. Queen bee: noncombatant, SZ L; AL N; AC 7; MV 0’; HD 10; HP 74; #AT 0.
-2. 4 drone bees: noncombatant, SZ M; AL N; AC 8; MV 90’; HD 5; HP 34, 33, 22, 20; #AT 0.
-3. 12 giant soldier bees: SZ M; AL N; AC 5; MV 120’, 300’ flying (Class C); HD 4+2; HP 32, 31, 30, 29, 28, 28, 27, 26, 26, 25(x3); #AT 1; Dmg 1-4. Special attacks: sting once; poison (-1 to saves).
-4. 107 giant worker bees: SZ M; AL N; AC 6; MV 90’, 300’ flying (Class D); HD 3+1; 24(x9), 23 (x10), 22(x11), 21(x11), 20(x11), 19(x11), 18(x11), 17(x11), 16(x11), 15(x11); #AT 1; Dmg 1-3. Special attacks: sting once; poison.
-5. Olaf the bee-whisperer (25%): see 8-73
-
-Treasure:
-Honey, potentially 12,500 gp worth; royal jelly, enough for 50-100 potions of extra healing.
+* (25%) Olaf the bee-whisperer (8-73) is here
+	* Observing the bees (33%), or climbing the comb to collect honey (66%).
 
 ### 8-71: Cave, with tunnel up to 6-44b
 
@@ -1451,25 +1551,40 @@ Honey, potentially 12,500 gp worth; royal jelly, enough for 50-100 potions of ex
 
 ### 8-73: Olaf the Bee-Whisperer
 
-This cave is home to an eccentric, possibly-insane Wiskin adventurer named Olaf. A hammock is slung in the corner, and a tripod of heating (see new magic items) provides warmth. Two dried bee husks are gently pinned to the wall. A striped cat that Olaf has named Lucia pads around the cave; it is immune to the pollen, but wise enough to not stray far from Olaf ’s dwelling. Two decrepit clay urns hold honey harvested from areas 8-69 and 
-8-70. Finally, he has rigged a deadfall trap over the entrance. Olaf is home 40% of the time.
+* This area is occluded by a thick cloud of bliss pollen (flora).
 
-Olaf appears as a tall, thin human with black hair and a handsome face. He wears only a loincloth, and his flesh is dirty and pocked with the result of bee stings. His eyes wander constantly, and he has some difficulty maintaining a conversation due to his long residence among bees and bliss pollen. Still, in return for food, Olaf might help a friendly party with directions to other locations in the Nether Reaches. Olaf is familiar with 8-67, 8-68 (and he 
-knows of the roper there), 8-69 to 8-76, 8-83 to 8-84, 8-87 to 8-94, and 8-113. Although in some ways starved for conversation, he is loath to abandon his cave. Olaf has been charmed by the vampire, Cinna Minux (7-122); Cinna only rarely visits him, since Olaf ’s information is often garbled.
+* This cave is home to an eccentric, possibly-insane Wiskin adventurer named Olaf.
+	* A hammock is slung in the corner.
+	* A tripod of heating (new) provides warmth.
+	* Two dried bee husks are gently pinned to the wall.
+	* 2 decrepit clay urns hold honey harvested from  8-69 and 8-70.
+	* Olaf has rigged a deadfall trap over the entrance.
+		* (75%) breaking a thin tripwire 3” above the floor drops the deadfall (2d6 on up to 3 people near the entry, makes lots of noise to alert Olaf).
 
-Trap (deadfall): Those breaking a thin tripwire running 3” above the floor of the entrance (75% chance for any visitor) causes the deadfall to activate. The deadfall inflicts 2-12 HP damage on up to 3 persons near the entrance. More significantly, it causes a loud noise that is likely to bring Olaf running.
+* A striped cat that Olaf has named Lucia pads around the cave; she is immune to the pollen, but wise enough to not stray far from Olaf ’s dwelling.
 
-GM Note: Olaf was the magic user in an adventuring party that became lost in the Nether Reaches, with each member slowly succumbing to deprivation amid the pollen clouds. Olaf was transformed by long exposure to bee pollen, but did not die. Indeed, after many years of breathing the pollen, he has become immune to its confusion effect. Eventually Olaf discovered the great bee hives (8-69, 8-70) and has been living in symbiosis with them for years, surviving primarily on honey. Although he is regularly stung by the bees, his periapt of proof against poison has protected him from their poison. Over the years he has become grudgingly accepted by the hives.
+* (40%) Olaf is here.
 
- Although once a magic user, Olaf lost his spell book and all his equipment. At this point his mind has been so transformed by pollen and bee-honey that even were he escorted to safety, it is unlikely that he would want to practice magic ever again. Still, he once had numerous friends in the College of Macrina (see World of Archontos appendix); they might be willing to assist him if he were brought to the collegium in Narsileon.
+Olaf the Bee-whisperer
+* A tall, thin human with black hair and a handsome face.  He wears only a loincloth, and his flesh is dirty and pocked with bee stings.
+* His eyes wander constantly, and he has difficulty maintaining a conversation due to his long residence among bliss pollen.
+* In return for food, Olaf might help a friendly party with directions to other locations in the Nether Reaches.
+	* Olaf is familiar with 8-67, 8-68 (and he knows of the roper there), 8-69 to 8-76, 8-83 to 8-84, 8-87 to 8-94, and 8-113.
+* Starved for conversation, but loath to abandon his cave.
+* Olaf has been charmed by the vampire, Cinna Minux (7-122).
+	* Cinna visits rarely, since Olaf ’s information is often garbled.
 
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* Olaf was the mage in an adventuring party that became lost in the Nether Reaches, with each member slowly succumbing to deprivation amid the pollen clouds.
+* Eventually Olaf discovered the great bee hives (8-69, 8-70) and has been living in symbiosis with them for years, surviving primarily on honey.
+	* He is regularly stung by the bees, his periapt of proof against poison has protected him.  Over the years he has become grudgingly accepted by the hives.
+* Olaf has transformed by long exposure to bliss pollen, becoming immune to its confusion.
+	* Olaf has lost his spell book, and his mind is so altered by pollen and honey, it is unlikely that he could ever practice magic again.
+* He once had numerous friends in the College of Macrina.
+	* They might be willing to assist him if he were brought to the collegium in Narsileon.
 
 Olaf the bee-whisperer (40%), 7th-level Wiskin magic user: SZ M; AC 7; MV 120’; HD 7; HP 19; #AT 1; Dmg 2-5 (dagger +1). Abilities: STR 13, INT 8 (formerly 17), WIS 13, DEX 17, 
-CON 10, CHA 15. Possessions: dirty linen clothing; 3 doses of varumani knock-out juice (see Arden Vul items); periapt of proof against poison; dagger +1. 
-
-Treasure:
-Olaf ’s periapt of proof against poison and his tripod of heating (see new magic items)
+CON 10, CHA 15. 
+* Possessions: dirty linen clothing; 3 doses of varumani knock-out juice (av items); periapt of proof against poison; dagger +1. 
 
 ### 8-74: Mostly Empty Cave
 
@@ -1495,155 +1610,185 @@ Olaf ’s periapt of proof against poison and his tripod of heating (see new mag
 
 ### 8-76: The Feasting Hall
 
-This enormous cave is referred to as the Feasting Hall to those few who know of its existence. It is the site of an interdimensional singularity, whereby the abyssal plane on which Rimmaq-Isfet continuously writhes comes into direct contact with the Prime Material plane. 
+* This enormous, ancient cave is called the Feasting Hall by those few who know of it.
+	* An interdimensional singularity directly links to the abyssal plane on which Rimmaq-Isfet continuously writhes.
+	* The 30' tall cave has rough walls covered with an oily sheen, and a flat, sandy floor.
+	* The center of the chamber holds 3 stone tables with heavy stone benches. 
+		* 15 filthy, long-haired, ==chaotic feasters==, wild-eyed humans and humanoids, are seated, ravenously devouring thick, juicy steaks.
+		* A pair of boxes under one table contains a mixture of ==treasure==.
+	* Two ledges are built into the east wall:
+		* The northern niche has with a cistern of clear water behind a 5' retaining wall.
+			* Water drips from the walls, collecting here.  2 copper dippers sit beside.
+			* A 12’-tall rickety ladder leans against the wall, allowing access from the cavern floor.
+			* At the cistern's bottom is a human skeleton with a stone of passage (new); it is so limed-over it can only be found by a swimmer.
+		* The southern niche holds a large pile of whitened bones.
+			* All are humanoid, remains of prior generations of chaotic feasters.  No skulls are present, and many bones have been gnawed.
+			* Beneath the bones are the plinth and shattered remains of a heqeti-era statue of a crouching heqeti hopper.
+	* To the south are 5 pedestals.
+		* The central one holds a 10’-tall ==demonic sounding horn==.
+		* The 4 surrounding ones hold ==tubular gongs== of various sizes.
+	* To the west is a 10’-tall stone ledge running alongside the wall.  Here the portal will open and the feasters can directly contact Rimmaq-Isfet.
+		* Two 3’-long, curved copper daggers rest here, used to carve meat from Rimmaq-Isfet.
 
-The cave is very old, with rough walls covered with an oily sheen, and a flat, sanded floor. The ceiling is 30’ tall. Two ledges are built into the east wall; one features a cistern with clear water, while the other holds a large pile of bones. To the south are five pedestals: the central one is home to a 10’-tall demonic sounding horn, while the four surrounding ones hold tubular gongs of various sizes. To the west is a 10’-tall stone ledge running alongside the wall; this is the point where cultists are able to directly contact Rimmaq-Isfet. The center of the chamber holds three stone tables with heavy stone benches. 
+Treasure
+* Two 10-lb gold bars (500 gp each), 567 gp, 911 sp, a gold brooch with a quartz starbust (1,150 gp), a fine-crystal ewer (150 gp), a set of 5 copper flasks inscribed with Archontean names (40 gp each), a set of 3 platinum-tipped ivory rods (reading aids, 75 gp each)
+* A tarnished silver censer with a dose of incense of relaxation (new)
+* 12 arrows +2, an arrow of slaying devils, a military pick +4, a war hammer +3, and a helm of brilliance.
 
-Fifteen filthy, long-haired, wild-eyed humans and humanoids are seated at the tables, ravenously devouring thick, juicy steaks. They wear scraps of clothing and boast long, greasy, untended hair. Their bodies are lean, but well-muscled, and their eyes are bright and inquisitive. They greet visitors cheerfully, inviting them in Archontean to join the feast. If questioned, they are unable to recall their own names, or the circumstances of their presence here.
+Tubular Bells
+* Copper tubular bells hang from aged iron racks on the four lesser pedestals.
+	* Each bell is artfully etched with unsettling images and strange glyphs (abyssal)
+	* A wooden mallet hangs from each rack by an ancient, cracked leather cord.  Striking a bell with its mallet produces a deep, echoing tone. 
+	* To collectors of antiquities and exotica: Tairon (1,000 gp), Peqar (2,000 gp), Ivlik (4,000 gp, bulky), Ristik (8,000, bulky) gp.
 
-Niches on the Eastern Wall: The northern niche has a 5’-tall retain-ing wall between it and the rest of the cave. The wall forms a kind of cistern, with water dripping from the walls and ceiling collecting here. Two copper dippers sit atop the retaining wall, and a 12’-tall rickety ladder leans against the wall, allowing access to the cistern from the cavern floor. At the bottom of the cistern is a limed-over skeleton of a human with a stone of passage (see new magic items) resting amid the bones; only by swimming in the pool will this item be found.
+From the northeast pedestal clockwise to the northwest pedestal: 
+* Bell 1
+	* 2’ tall, 6” in diameter, C
+	* Glyphs: “Tairon [the name of this bell] speaks, and the dread lord Rimmaq wakes.”
+	* Images: A thick serpent-like creature snakes around the bell; it is squeezing bipedal creatures with anguished faces 
+* Bell 2
+	* 3’ tall, 1’ in diameter, E
+	* Glyphs: “Peqar [the name of the bell] speaks, and the ears of dread Rimmaq open”
+	* Images: Heqeti striking a tubular bell similar to this one
+* Bell 3
+	* 4’ tall, 2’ in diameter, G
+	* Glyphs: “Ivlik [the name of the bell] speaks and the dread lord Rimmaq begins to writhe”
+	* Images: Heqeti carrying human and rudishva heads on spears while leering demonic faces
+* Bell 4
+	* 6’ tall, 3’ in diameter, B
+	* Glyphs: “Ristik [the name of the bell] speaks, and lord Rimmaq approaches the veil. Bring him home!”
+	* Images: A large heqeti sounds a curved horn of such size that it surrounds his body
 
-The southern niche is filled with whitened bones. All are human or humanoid, the remains of previous generations of chaotic feasters. Close inspection of the remains shows that no skulls are present and that many of the long bones have been gnawed. Beneath the bones are the plinth and shattered remains of a heqeti-era statue; the statue depicted a crouching heqeti hopper, but only the head is recognizable.
-
-Lesser Pedestals: Tubular Bells: Five pedestals dominate the south-ern approaches of the cave. Copper tubular bells hang from aged iron racks on the four lesser pedestals. Each bell is artfully etched, albeit with unsettling images and strange glyphs. The glyphs are in an obscure abyssal tongue; in most circumstances, the services of a sage will be necessary to decode them. A wooden mallet is attached to each rack with an ancient, cracked leather cord. 
-
-Striking a bell with its mallet produces a deep, echoing tone. The tubular bells vary as follows, from the northeast pedestal clockwise to the northwest pedestal: 
-
-Size and Musical Note Glyphs and Images
-
-Bell 1: 2’ tall, 6” in diameter, C
-
-Glyphs: “Tairon [the name of this bell] speaks, and the dread lord Rimmaq wakes.”
-Images: A thick serpent-like creature snakes around the bell; it is squeezing bipedal crea-
-tures with anguished faces 
-
-Bell 2: 3’ tall, 1’ in diameter, E
-
-Glyphs: “Peqar [the name of the bell] speaks, and the ears of dread Rimmaq open”
-
-Images: Heqeti striking a tubular bell similar to this one
-
-Bell 3: 4’ tall, 2’ in diameter, G
-
-Glyphs: “Ivlik [the name of the bell] speaks and the dread lord Rimmaq begins to writhe”
-Images: Heqeti carrying human and rudishva heads on spears while leering demonic faces
-
-Bell 4: 6’ tall, 3’ in diameter, B
-
-Glyphs: “Ristik [the name of the bell] speaks, and lord Rimmaq approaches the veil. Bring him home!”
-
-Images: A large heqeti sounds a curved horn of such size that it surrounds his body
-
-The bells could be detached from their mounts and sold to collectors of antiquities and exotica: Tairon would bring 1,000 gp, Peqar 2,000 gp, Ivlik 4,000 gp, and Ristik 8,000 gp. The two larger bells are quite heavy and bulky.
-
-Central Pedestal: the Demonic Sounding Horn: The central pedestal, around which the lesser pedestals of the bells are arranged, contains a huge, spiral horn that rises 10’ above the floor of the pedestal. The horn is supported by three copper rods thrust into the corners of the pedestal. It is possible for a man-sized creature to stand in the center of the pedestal, partly surrounded by the coils of the horn, and sound it. The horn is carved with blasphemous 
-images of a large, slug-like creatures feeding continuously on bipedal creatures; the creature is surrounded by salamander-seeming creatures with sharp teeth. A set of glyphs near the mouth of the horn reads (to those able to read abyssal tongues): “Lord Rimmaq-Isfet and his spawn feed on the sacrifices. Summon him at your peril!”
-
-The horn is quite dangerous if used carelessly. Sounding it while the tubular bells are still ringing (see below) produces a potent blast of cacophony that serves to open the rift to the abyss, where Rimmaq-Isfet writhes. Sounding it without first properly ringing the bells, however, has a 50% chance to summon a worm of Qok (see new monsters) at 8-75, and produces a chaotic effect from the following table. If summoned, the worm of Qok arrives 
-here within 5 rounds. An individual may only sound the horn once per week. It has no uses outside this chamber (although it might bring 3,500 gp).
+The Demonic Sounding Horn
+* The central pedestal contains a huge, spiral horn (3500 gp) rising 10’ above the floor of the pedestal, supported by 3 copper rods set into the corners of the pedestal. 
+	* A Medium creature standing in the center of the pedestal, surrounded by the coils of the horn, can sound it (once per week per individual).  It has no power outside this chamber.
+* The horn is carved with blasphemous images of a large, slug-like creatures feeding on bipedal creatures,  surrounded by salamander-creatures with sharp teeth.
+	* Glyphs near the mouth of the horn (abyssal): “Lord Rimmaq-Isfet and his spawn feed on the sacrifices. Summon him at your peril!”
+* Sounding the horn:
+	* Without first properly ringing the bells:
+		* 50% chance to summon a worm of Qok (new) at 8-75 (it arrives within 5 rounds), and causes a chaotic effect (d6). 
+	* After ringing the tubular bells in order (C, E, G, and B) and while they still resonate:
+		* The tones combine in cacophony, and all hearing save vs doom or are stunned for 1d2 rounds.
+		* The portal opens, providing access to the flank of Rimmaq-Isfet, while the horn echoes (a full turn).  One can harvest ‘meat’ from the ==flank of Rimmaq-Isfet==.
 
 D6 Effect
 
 1
-
 Berserk: all within hearing must save vs paralysis or immediately attack a random ‘opponent’. Those of lawful alignments save at +1. The berserk status lasts for 3-6 round per individual.
 
 2
-
 Demonic Assault: a keqemander (see new monsters) appears and attacks savagely until reduced to 1/3 HP, at which point it teleports away. 
 
 3
-
 Abyssal Environment: the temperature of the cavern rises to 110F and an acidic rain drips down from the ceiling. Those in armor have ½ movement, and all take 1-3 HP damage per round from the acid. Effect lasts for a turn.
 
 4
-
 Mark of the Abyss: a tentacular eye appears from the west wall, zooms in on the PC who sounded the horn, scans him/her slowly, and departs. The PC now has a purple tattoo of an eye on his/her forehead, and all creatures associated with the abyss have +1 to hit and damage versus that PC. The mark may only be removed with a remove curse spell.
 
 5
-
 Gravity Reversal: gravity is temporarily reversed in the cavern, such that all unattached items and beings will fall ‘upward’ towards the ceiling, which is the new focus of gravity. Living beings take 3-18 damage, or half damage if a save versus spells is made. The effect lasts for 1-3 turns, at which point a similar ‘falling’ back to the floor occurs (with another chance for damage). 
 
 6
-
 Summoning: a series of heqeti hopping dead (see new monsters) are summoned to the platform along the west wall. Two warriors are summoned per round for 5-8 rounds. The warriors attack PCs first, ignoring the chaotic feasters until/unless the PCs flee.
 
-Accessing the Flank of Rimmaq-Isfet Proper manipulation of the bells and the sounding horn opens a dimensional portal that provides access to the flank of Rimmaq-Isfet. To open the portal, one must first strike each of the tubular bells in turn, starting with C, and proceeding through E, G, and B. While the tones of the tubular bells are still ringing, one then sounds the enormous demonic sounding horn. The combination of the tones is cacophonous, and requires all within hearing to save vs. paralyzation or be stunned for 1-2 rounds. The sounding horn echoes for a full turn, during which time it is possible to harvest ‘meat’ from the flank of Rimmaq-Isfet. 
 
-The Flank of Rimmaq-Isfet: Access to the flank of Rimmaq-Isfet is obtained from the platform that runs across the western side of the cavern. When the tubular bells and sounding horn have been properly employed, anyone standing on the platform will feel 
-a light breeze emanating from the wall, bringing with it an array of strong, and mostly unpleasant odors: burnt sugar, ammonia, spoiled eggs, and so forth. A 10’x5’ rectangle of the wall will be seen to ripple gently with motion, and it will be apparent that the section of wall is no longer stone, but rather a mottled grey-green hide. For the turn that the sounding horn echoes, it is possible to carve pieces of this flank as one might a piece of beef. Two 3’-long, curved copper daggers rest on the platform; the chaotic feasters use the daggers to carve meat from Rimmaq-Isfet.
+The Flank of Rimmaq-Isfet
+* The portal opens on the ledge running across the western side of the cavern.
+	* A light breeze emanates from the wall, bringing an array of strong, and mostly unpleasant odors: burnt sugar, ammonia, spoiled eggs, and so forth.
+	* A 10’x5’ rectangle of the wall ripples gently and is no longer stone, but a wall of mottled grey-green hide.
+		* It is possible to carve pieces of this flank as one might a piece of beef.
+* The meat of Rimmaq-Isfet is nutritious and tasty.
+	* For each serving consumed, 5% cumulative chance the diner turns into a chaotic feaster (+25% if chaotic evil, +15% for chaotic but not evil). 
+* As Rimmaq-Isfet is an extremely powerful greater deity with regenerative powers.
+	* It absorbs the carving of meat from its flank without truly noticing.
+	* If 50 hp were done in short order, Rimmaq-Isfet notices and moves away from the portal (now it's a portal to the abyss, but the meat is inaccessible).
+	* If a potent enough "poison" could be made (10 flasks of holy water, 2 oz of unicorn hairs, and a pair of brownie eyes, etc), Rimmaq-Isfet could be weakened (see introduction for Level 10).
 
-The meat of Rimmaq-Isfet is nutritious and tasty, but consuming it is risky. For each serving consumed, there is a 5% cumulative chance of the diner turning into a chaotic feaster; this 
-chance is modified by +25% for those of chaotic evil alignment and +15% for those of chaotic (but not evil) alignments. 
-
-Effects on Rimmaq-Isfet: As Rimmaq-Isfet is an extremely powerful greater deity, one with regenerative powers, it is able to absorb the carving of meat from its flank without truly noticing such actions. Clever PCs might realize, however, that it would be possible to inflict greater harm on Rimmaq-Isfet through the open dimensional portal. Simply hacking at its flesh is easy enough; should 50 HP damage be inflicted in this way, Rimmaq-Isfet will 
-notice and move away from the portal. The portal stays open, and foolish PCs could enter the abyss through it if so desired. It is also possible to poison, and hence weaken, Rimmaq-Isfet through the portal. The GM should determine the composition of a suitable ‘poison’; one possibility might be ten flasks of holy water, mixed with 2 oz of unicorn hairs and a pair of brownie eyes. The benefit to PCs of weakening Rimmaq-Isfet through poison will be felt if 
-the PCs confront the heqeti on Level 10 (see level introduction for Level 10).
-
-The Chaotic Feasters: An elaborate set of entirely false beliefs has grown up among the society of the feasters, one that seeks to explain in limited ways the situation in which they find themselves. What is most surprising is the fact that the feasters do not realize they are consuming the flesh of a greater god of intense chaotic evil, but instead have come to attribute their bounty to the existence of a vast planar creature they call the throom. The throom, they think, may be singular, or there may be ‘herds’ of them moving through interdimensional space; either way, the throom are so vast and placid that careful harvesting of the throom flesh goes largely unnoticed. It is the good fortune of the feasters, they think, 
-to have located a nexus point where they can harvest the throom’s flesh. Beyond their rituals with the throom, the feasters have been known to engage in cannibalism to supplement the regular harvesting of the throom; this is particular true for feasters who have grown old, sick, and/or feeble, but might also apply to nosy visitors. The feasters refer to the western platform as the ‘throom Platform’, and the copper knives as ‘throom knives’, and their meat 
-as ‘throom steaks’.
-
-The feasters are welcoming, if slightly suspicious, of newcomers. They invite PCs to share in the throom-bounty, and may (33%) grow enraged if their offer is rejected. If visitors are cautious and respectful, it is possible to inspect the cavern without provoking the feasters. Should PCs seek to remove items (including the bells, the ‘throom-knives’, or anything else), the feasters immediately attack. Should careless PCs sound the demonic sounding horn 
-without following the correct procedure with the bells, the feasters turn sullen and uncommunicative; after 4 rounds they attack. 
-
-Finally, if PCs question the feasters too aggressively about their past lives or the meaning of this cavern, they will also grow sullen and uncommunicative and will attack within a turn.
+The Chaotic Feasters
+* Filthy, long-haired, wild-eyed humans and humanoids with scraps of clothing and long, greasy, untended hair.  They are lean, but well-muscled, their eyes are bright and inquisitive.
+* They greet visitors cheerfully, if slightly suspiciously, inviting them (Archontean) to join the feast ("the throom-bounty").
+	* (33%) enraged if their offer is rejected bluntly.  Cautious and respectful visitors can talk their way into inspecting the cavern without provoking the feasters.
+	* Seeking to remove the bells, ‘throom-knives’, etc brings immediate attack.
+	* If the horn is sounded incorrectly, the feasters turn sullen and uncommunicative; after 4 rounds they attack.
+* If questioned, they cannot recall their own names, or the how they came to be here.
+	* Questioning them too aggressively about their past lives or the meaning of this cavern, also makes them sullen and uncommunicative, and they soon attack.
+* An elaborate set of entirely false beliefs has grown up among the feasters to explain the situation in which they find themselves.
+	* The do not realize they are consuming the flesh of a vile greater god, but attribute their bounty to the existence of a vast planar creature they call the throom.
+		* The throom may be singular, or there may be ‘herds’ of them moving through interdimensional space.  The throom are so vast and placid that careful harvesting goes largely unnoticed.
+	* It is their good fortune to have located a nexus point where they can harvest the throom’s flesh.
+		* Beyond their rituals with the throom, the feasters sometimes engage in cannibalism, particularly of feasters grown old, sick, or feeble (but also nosy visitors).
+	* The feasters call the western ledge the ‘throom Platform’, the copper knives ‘throom knives’, and their meat ‘throom steaks’.
 
 The alpha chaotic feaster: SZ M; AL CE; AC 3; MV 90’; HD 8; HP 57; #AT 3; Dmg 3-14/2-5/1-3; MR 10%. Special attacks: flying feet (an additional attack sequence doing 2-5 damage), extra-crazy (additional attack sequence doing 1-3 damage with chance for disease). Special defenses: magic immunity, immune to fire.
 
-14 chaotic feasters: SZ M; AL CE; AC 10 or 6; MV 90’; HD 4; HP 30(x3), 29(x3), 25 (x5), 21(x3); #AT 1; Dmg 3-10; MR 10%. Of the fourteen, five have nails of iron (2-9 plus 1-3 bleeding for 3 rounds) and tough skin (AC 4); three have corpse breath (foes save vs poison or spend 2 round retching) and immunity to fire; two have flying feet (an additional attack sequence doing 2-5 damage) and immunity to cold; two have extra crazy (additional attack sequence doing 1-3 damage with chance for disease) and magic immunity (to 1st-level spells); one has mesmerizing eyes (foe saves vs petrification or be charmed) and tough skin (AC 4); and one has extra crazy (see above) and immunity to fire.
+14 chaotic feasters: SZ M; AL CE; AC 10 or 6; MV 90’; HD 4; HP 30(x3), 29(x3), 25 (x5), 21(x3); #AT 1; Dmg 3-10; MR 10%.
+* five have nails of iron (2-9 plus 1-3 bleeding for 3 rounds) and tough skin (AC 4)
+* three have corpse breath (foes save vs poison or spend 2 round retching) and immunity to fire
+* two have flying feet (an additional attack sequence doing 2-5 damage) and immunity to cold
+* two have extra crazy (additional attack sequence doing 1-3 damage with chance for disease) and magic immunity (to 1st-level spells)
+* one has mesmerizing eyes (foe saves vs petrification or be charmed) and tough skin (AC 4)
+* one has extra crazy (see above) and immunity to fire.
 
 1 worm of Qok (see new monsters): see stats at 8-75 (50% chance to arrive 5 rounds after the horn is sounded).
 
-Treasure:
-A pair of boxes under one of the tables contains a mixture of treasure: two 10-lb gold bars (500 gp each), 567 gp, 911 sp, a gold brooch with a quartz starbust (1,150 gp), a fine-crystal ewer (150 gp), a set of five copper flasks inscribed with Archontean names (40 gp each), a set of 3 platinum-tipped ivory rods, suitable for using as reading aids (75 gp each), a tarnished silver censer with a dose of incense of relaxation (see new magic items), a set of 12 
-arrows +2, an arrow of slaying devils, a military pick +4, a war hammer +3, and a helm of brilliance.
-
 ### 8-77: Antechamber
 
-Those using the teleporter at 8-7B appear in a 6’-diameter circle of lapis tile set into the northeast corner of this chamber. 
+* Those teleporting from 8-7B appear in a 6’ circle of lapis tile in the northeast corner.
 
-An Archontean-era construction, the chamber has neatly worked granite surfaces, all of which are blackened by smoke from a large fire that crackles in the center of the chamber. A 10’-square iron grill is hung from the ceiling above the fire; on the grill roast a dozen thick steaks. Two dirty humans crouch near the fire, tending to the meat.
+* An Archontean-era chamber of neatly worked granite surfaces, all blackened by smoke from a large fire crackling in the center.
+	* A 10’-square iron grill hangs from the ceiling above the fire.  On it roast a dozen thick steaks.
+	* The fire burns more brightly and hotly than the fuel of charcoal and bones would seem to allow.
+		* The rendering fat from the steaks is highly flammable (collected, it could produce liquid comparable to a flask of oil). 
+	* Almost completely concealed behind soot on the walls is an ancient inscription above the stairs down to 8-76 (Mithric): “Caveat Comestor”
+		* GM Note: “Let the diner beware”
+	* Secret Door (south): stuck (open doors). It slams shut after one turn open.
 
-The fire burns more brightly and more hotly than the fuel – some charcoal and some bones – would seem to allow. This is because the rendered fat from the special steaks is highly flammable (indeed, if collected somehow, the fat of three steaks could produce liquid comparable to a flask of oil). 
+* Two dirty humans (chaotic feasters) crouch near the fire, tending the meat.
+	* They greet visitors cheerfully (Archontean), inviting them to join the feast taking place just down the stairs in the main hall.
+	* If questioned, they cannot recall their own names or how they came here, instead raving about the great food and drink, and companionship of like-minded friends.
+	* If treated roughly or aggressively, they flee to 8-76 to warn their colleagues.
 
-The cooks are chaotic feasters (see new monsters). They greet visitors cheerfully, inviting them in Archontean to join the feast, which is taking place just down the stairs in the main hall. If questioned, they are also unable to recall their own names, or the circumstances of their presence here. Instead, they rave only about the great food and drink, and the companionship of like-minded friends. Should they be treated roughly or aggressively, they flee to 8-76 to warn their colleagues.
-
-Almost completely concealed behind the soot on the walls is an ancient inscription in Mithric, located above the stairs leading down to 8-76. It reads: “Caveat Comestor” [GM Note: “Let the diner beware”] 
-
-Secret Door (south): The door is standard sized and normal to locate. It is very difficult to open from this side, requiring an open-doors roll to pull it open. It slams shut after one turn in the open position.
-
-2 chaotic feasters (see new monsters): SZ M; AL CE; AC 10 or 6; MV 90’; HD 4; HP 26, 21; #AT 1; Dmg 3-10; MR 10%. On has nails of iron (2-9 plus 1-3 bleeding for 3 rounds) and 
-immunity to cold; the other has mesmerizing eyes (foe saves vs petrification or be charmed) and tough skin (AC 4).
+2 chaotic feasters (see new monsters): SZ M; AL CE; AC 10 or 6; MV 90’; HD 4; HP 26, 21; #AT 1; Dmg 3-10; MR 10%.
+* On has nails of iron (2-9 plus 1-3 bleeding for 3 rounds) and immunity to cold
+* the other has mesmerizing eyes (foe saves vs spells or charmed) and tough skin (AC 4).
 
 ### 8-78: Feasters’ Lair
 
-This chamber is dark and reeks of waste and bodily fluids. The floor is covered with a noxious 2” layer of dirt, filth, and worse. A shelf is set into the walls at a level 6’ above the floor; the shelf contains over a hundred skulls that have been stripped of flesh but are still stained brown and red. These are the remains of previous generations of feasters. 
-
-Hidden among the skulls is an ivory cylinder that can be twisted open to reveal an inner compartment. The cylinder is carved with an image of the emperor Arthuinus the Mighty; the 
-emperor is dressed as a scholar, wears a philosopher’s long beard, and is depicted writing at a scribe’s desk. Inside the cylinder is a bit of parchment with the following text: “The cavern below was used by the hoppers to summon their god, and to consume its flesh in debauched rituals. Might it be possible to weaken their slimy lord by making use of the opened portal?” The cylinder is worth 225 gp.
+* This chamber is dark and reeks of waste and bodily fluids.
+* The floor is covered with a noxious 2” layer of dirt, filth, and worse.
+	* A shelf at head-height contains over a hundred skulls, stripped of flesh but still stained brown and red (the remains of previous generations of feasters).
+		* Hidden among the skulls is an ivory cylinder (225 gp).
+			* It is carved with emperor Arthuinus the Mighty dressed as a scholar, wearing a philosopher’s long beard, and writing at a scribe’s desk.
+			* Twisting it open reveals an inner compartment with a note (Mithric) “The cavern below was used by the hoppers to summon their god, and to consume its flesh in debauched rituals.  Might it be possible to weaken their slimy lord by making use of the opened portal?”
 
 ### 8-79: A Second Feasters’ Lair
 
-This chamber is similar in most respects to 8-78, complete with layer of filth and shelf with skulls. An ancient human skeleton is nailed to the east wall, though. 
-
-The skeleton is that of Helibar of Archontos, the last Archontean administrator of this site before the collapse. Helibar’s men grew hungry as supplies from the surface failed, and they began to consume the meat of Rimmaq-Isfet over his objections. Transformed into chaotic feasters, they eventually crucified him on the wall, where he died a slow death. Given the nature of his demise, Helibar’s soul is still close to his body. A speak with dead spell cast by a cleric of at least 13th level will be efficacious, despite the usual restrictions (Helibar has been dead more than 1,200 years). Such a cleric will be able to ask 3 questions of Helibar, thus allowing the PCs to learn something about the nature of area 8-76 (or whatever else they find of interest). If Helibar’s remains are taken down and given a respectful burial, his soul departs and the normal parameters for speak with dead apply.
+* This chamber is similar in most respects to 8-78, complete with layer of filth and shelf with skulls.
+	* An ancient human skeleton is nailed to the east wall. 
+		* This was Helibar of Archontos, the last Archontean administrator of this site before the collapse.  Helibar’s men grew starving as supplies from the surface failed, and they consumed the meat of Rimmaq-Isfet over his objections.
+		* Transformed into chaotic feasters, they eventually crucified him on the wall.
+			* Helibar’s soul is still close to his body; Speak with Dead cast by a cleric of at least 13th level is efficacious, despite being dead more than 1,200 years) and the cleric can ask 3 questions of Helibar.
+			* If the remains are given a respectful burial, his soul departs.
 
 2 chaotic feasters (see new monsters): SZ M; AL CE; AC 10 or 6; MV 90’; HD 4; HP 26, 21; #AT 1; Dmg 3-10; MR 10%. 
-
-On has nails of iron (2-9 plus 1-3 bleeding for 3 rounds) and immunity to cold; the other has mesmerizing eyes (foe saves vs petrification or be charmed) and tough skin (AC 4).
+* One has nails of iron (2-9 plus 1-3 bleeding for 3 rounds) and immunity to cold
+* The other has mesmerizing eyes (foe saves vs spells or be charmed) and tough skin (AC 4).
 
 ### 8-80: Shocking Moss
 
-A rare form of moss, known as shocking moss (see new flora), covers the surfaces of this cave. In the presence of substantial quantities of metal (e.g., metal armor), the moss discharges electric blasts every 3 rounds. These shocks do 3-18 HP damage to anyone bearing metal (save for half damage). Touching (or walking on) the moss doubles the damage. The shocking moss is highly susceptible to fire, and can be burned off with ease. Should it be removed, a crude inscription in Varumani Semi-glyphik will be revealed in the stone of the north wall: it reads “This way to the citadel of the knights”. An arrow points towards area 8-81.
+* This area is occluded by a thick cloud of bliss pollen (flora).
 
-The corridor between 8-80 and 8-81 is covered with more of the moss.
-
-Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* A rare plant, shocking moss (flora), covers the surfaces of this cave.
+	* The presence of substantial quantities of metal (e.g. metal armor) causes an electric blasts every 3 rounds (3d6 to anyone bearing metal, save for half).
+		* Touching (or walking on) the moss doubles the damage.
+	* The moss is highly susceptible to fire, and can be burned off with ease.
+		* This reveals a crude inscription in the stone of the north wall (Varumani Semi-glyphik) “This way to the citadel of the knights”, with an arrow pointing towards 8-81.
+* The corridor between 8-80 and 8-81 is covered with more moss.
 
 ### 8-81: More Shocking Moss
 
 * This area is occluded by a thick cloud of bliss pollen (flora).
+
 * Both this cave and the tunnel leading west and north to 8-80 is coated in the shocking moss (8-80).
 	* After 3 rounds in either tunnel or cave, a 3d6 discharge targets someone wearing metallic armor (2x damage if touching the moss).
 * An inscription lies under the moss in the tunnel approaching 8-81 (Mithric): “This way to the citadel” (with an arrow pointing towards 8-82).
@@ -1662,13 +1807,20 @@ Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
 
 ### 8-84: Hall of Columnar Heroes
 
-This long hallway served as an important connecting link for the Archontean areas of Level 8. While seismic activity over the past millennium has broken many of the connections, the hall itself is still in good shape.
+This long hallway was an important connecting link for the Archontean areas of Level 8.
+
+Despite seismic activity over the past millennium the hall itself is still in good shape.
 
 The hallway is 15’ tall, with sixteen 3’-diameter columns supporting the roof. Each column is carved in the form of an Archontean legionary, complete with banded mail, hoplite helmet, 
 spear and gladius. The legionaries face different ways (north, south, etc.). Remnants of paint are visible here and there. The floor is dusty, but bare human footprints come and go towards area 8-83 (these were made by Olaf in 8-73).
 
-One of the legionary columns (marked ‘A’ on the map) is not like the others. A compartment in its helmet opens, revealing an 8”-tall cavity. Inside the cavity is an extremely rare artifact of ancient Archontean sorcery, one of Caldornia’s ausculatoris (see new monsters). This ausculator has the personality of Hamil the Southron, and was one of the main spies of the Archontean forces in Arden Vul more than 1,500 years ago. Hamil has grown insane from his long imprisonment, and proves a dangerous temporary ‘ally’. He greets any rescuer with respect, referring to him/her as ‘guv’nor’ in heavily accented Archontean and offering his services. After 2-12 days, however, Hamil attempts to flee after stabbing his primary ‘guv’nor’ in the eyes while he/she sleeps. Behind the doorway on the western edge of the south wall 
-lies a collapsed corridor. Amid the rubble is a forgotten sack of adventuring gear: two coils of rope, six flasks of oil, a set of caltrops, and a potion of healing. The other broken hallways behind the doors on the north and south walls contain nothing of interest.
+One of the legionary columns (marked ‘A’ on the map) is not like the others. A compartment in its helmet opens, revealing an 8”-tall cavity. Inside the cavity is an extremely rare artifact of ancient Archontean sorcery, one of Caldornia’s ausculatoris (see new monsters). This ausculator has the personality of Hamil the Southron, and was 
+
+Behind the doorway on the western edge of the south wall lies a collapsed corridor. Amid the rubble is a forgotten sack of adventuring gear: two coils of rope, six flasks of oil, a set of caltrops, and a potion of healing. The other broken hallways behind the doors on the north and south walls contain nothing of interest.
+
+Hamil the Southron (as an ausculator)
+one of the main spies of the Archontean forces in Arden Vul more than 1,500 years ago. 
+Hamil has grown insane from his long imprisonment, and proves a dangerous temporary ‘ally’. He greets any rescuer with respect, referring to him/her as ‘guv’nor’ in heavily accented Archontean and offering his services. After 2-12 days, however, Hamil attempts to flee after stabbing his primary ‘guv’nor’ in the eyes while he/she sleeps. 
 
 Hamil the Southron, one of Caldornia’s ausculatoris (see new monsters): SZ S; AL LE; AC -1; MV 60’; HD 3; HP 18; #AT 3/2; Dmg 1-4/1-4; MR 25%. Special attacks: attack as 7th-level fighter. Special defenses: permanent silence; immune to fire, cold, lightning, hold, charm, and mind-affecting spells.
 
