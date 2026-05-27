@@ -47,7 +47,8 @@
 * Chainmail
 	* 100 gp, 13+DEX defense, Medium, Iron
 * Plate Armor
-	* 200 gp, 15 defense (+1 w/ Dexterity 14+), Heavy, Iron
+	* 200 gp, 15 defense (+1 w/ Dexterity 14+), +4 Guard, Heavy, Iron
+		* Bonus Guard recovers after a Quick Rest.                                     
 * Shield
 	* 10 gp, +2 defense, 1h, 1 slot, Sacrificial (including ranged, blasts, beams)
 
@@ -63,9 +64,9 @@ Craftsmanship
 Tags
 
 * Weight
-	* Light: 1 slot
-	* Medium: 2 slots
-	* Heavy: 3 slots, can't swim or sheer climb, +D to move silently, acrobatics
+	* Light: 1 slot when carried
+	* Medium: 2 slots when carried , requires STR | CON +0 or higher, +D to swim
+	* Heavy: 4 slots when carried, requires STR | CON +1 or higher, can't swim or sheer climb, +D to move silently and acrobatics, you can't have less than a Medium Load.
 * Sacrificial: can shatter to negate all damage from a single hit.
 
 ## Weapons

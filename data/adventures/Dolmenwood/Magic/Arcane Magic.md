@@ -144,9 +144,9 @@ Arcane Experimentation
 * Reagents have a Tier and usually take up 1 slot (including secure packing, preservation, etc).
 	* Reagents can be broken into parts, dividing their Tier (a Tier 3 could become 3x Tier 1 or a Tier 1 and Tier 2), but can't usually be combined.
 * Extracting
-	* Reagents can be obtained by dissecting cadavers of magical beings and collecting samples from fonts of power or magical phenomena.
+	* Reagents can be obtained by dissecting corpse of magical beings and collecting samples from fonts of power or magical phenomena.
 		* Dissection
-			* A cadaver yields a single, Tier (Level / 3, rounding down) reagent.  Some cadavers might offer a choice of multiple possible reagents (eyes, heart, etc) with different aspects and uses.
+			* A corpse yields a single reagent (Tier = ((Level / 2) - 1, rounding up).  Some corpses might offer a choice of multiple possible reagents (eyes, heart, etc) with different aspects and uses.
 			* Roll (INT+DEX) DC 18 to extract the reagent.  Reaching DC 13 gives a damaged reagent with half the full Tier (50% rounding up, 50% rounding down).
 				* The dissection can be performed by an ally (their DEX) under the magician's guidance (your INT).
 		* Samples
@@ -321,8 +321,8 @@ Eyebite
 Fairy Servant
 * T1, 1 hour, Near
 * You summon an invisible fairy sprite.  If given a small gift (a mug of booze, a ration, colorful flattery, an interesting pebble, a carved stick, etc) it performs tasks as bidden.
-	* It can cook, clean, fetch, sing passably, etc.  It ican lift and fly (Near speed) with an item of up to 1 slot.  It can be given standing orders and left to pursue them, or sent on tasks.
-	* It won't inflict harm, and is banished if harmed.
+	* It can cook, clean, fetch, transcribe, etc.  It can lift and fly (Near speed) with an item of up to 1 slot.  It can be given standing orders and left to pursue them, or sent on tasks.
+	* It is mute.  It won't inflict harm, and is banished if harmed.
 	* If gifted a a finer offering (a pretty trinket of 50 gp, a bit of fine food or drink, or a portion of magical herb or fungus), it will magically repair a mundane object, given the pieces.
 
 Fog
@@ -434,6 +434,10 @@ Arcane Cypher
 	* Dispelling the magic causes the ink to boil off the page.
 	* Viewing the page with magic able to perceive invisible things or pierce illusions allows a Dispelling contest, revealing the truth if successful (the magic remains, but you are now able to see through it as if you'd spoken the word).
 
+Cast Out
+* T2, Focus (round), A creature farther than Near and nearer than Far
+* The target cannot approach within Near of you.  It can still attack or use magic against you from outside this range.  If you move within Near of it, the spell ends.
+
 Cat's Eye
 * T2, Sustain (10 minutes), Self
 * You irises fill your eye and your pupils become black slits.  Nearby, you can see in total darkness as if it were Dim Light and can perceive invisible things and ethereal presences.
@@ -495,7 +499,7 @@ Web
 	* You spray a dense web of sticky spider-like silk over a Near area within Far.
 		* Those entering or beginning their turn in the area must resist with STR DC (your last casting check) or be immobilized.  Most missiles get caught in the sticky mass.
 	* You spin an object of steel-strong silk: rope (Far length), net, bridge, sack, cocoon, cloth, etc.
-* The magical silk is vulnerable to fire, burning away in a few rounds.
+* The magical silk is vulnerable to fire, burning away in a round.
 
 
 * ???En Croute (dol 2 unc)
@@ -528,7 +532,7 @@ Soul Seal
 - T2, Focus (10 minutes), Close creature
 - You place a glowing seal on the subject's forehead.  They are immune to possession, beguiling, and compulsion magic, and cannot be detected by arcane or faerie magic, or by occult senses (telepathy, smelling mortality, etc).
 - Any spell or magical power, including beneficial ones, used on them must overcome DC 18 magic resistance.  If one penetrates, this spell ends.
-	- If cast on someone under beneficial magics, those magics are suppressed while the seal lasts.  If  cast on someone under harmful magics, each spell immediately tests against the magic resistance.  If all fail, they are suppressed; if any pierces, this spell ends.
+	- If cast on someone under beneficial magics, those magics are suppressed.  If  cast on someone under harmful magics, each spell immediately tests against the magic resistance.  If all fail, they are suppressed; if any pierces, this spell ends.
 
 
 * silence
@@ -540,22 +544,15 @@ Duration: 12 Turns
 Range: 60′
 Attunes a gem or crystal (of at least 250gp value) to the subtly radiating energies of living minds, allowing the caster to detect the presence of creatures and perceive their thoughts.
 Focus for 1 Turn: To pick up thoughts, the caster must hold the crystal aloft and focus their concentration in a particular direction for 1 Turn without moving.
-After 1 Turn: The crystal projects the thoughts of all crea-tures within range in the chosen direction into the caster’s mind.
+After 1 Turn: The crystal projects the thoughts of all creatures within range in the chosen direction into the caster’s mind.
 Multiple creatures: If multiple creatures are within range in the direction being focused on, the caster perceives an incomprehensible mix of all their thoughts. If the caster focuses for an additional Turn, they can isolate a single creature’s thoughts.
 Obstructions: This spell is blocked by 2′ of rock or a thin layer of lead.
-* detect thoughts (sd)
-Tier 2, wizard
-Duration: Focus
-Range: Near
-You peer into the mind of one creature you can see within range. Each round, you learn the target’s immediate thoughts. 
-On its turn, the target makes a Wisdom check vs. your last spellcasting check. If the target succeeds, it notices your presence in its mind and the spell ends.
-* third gate (necro 3)
-Tier 3, necromancer
-Duration: Instant
-Range: Near
-You read the mind of a creature within range, learning one of its memories of your choosing. 
-In place of the above effect, you can permanently erase one memory of a creature within range.
 
+Detect Thoughts
+* T2, Focus (1 minute), A Near creature with a mind
+* You peer into the target's mind, sensing surface thoughts as glimpsed images, internal monologue, and emotional vibes (emotions only, for animal minds).
+	* On its turn, the target resists with WIS DC (your last casting check) to sense your intrusion and end the spell.
+	* If the target leaves your line of sight or moves away (but still within Far), the link persists until you next have to Focus.  You have a sense of their direction and distance.
 
 Levitate
 * T2, Focus (10 minutes), Self
@@ -575,18 +572,34 @@ Knock
 	* All mundane knots, bars, locks, and seals come undone, but permanent seals (welds, mortar, nails, sturdy adhesive, etc) are not broken.
 	* Sealing magic is subject to a Dispelling contest.
 
+Propel
+* T2, Instant, A Nearby Medium or smaller object or creature
+* You move the target a Near distance.  It comes to rest without harm or added momentum.
+	* You can use your casting check for a feat of strength to overcome anchors, grasp, etc that resist the movement.
+
+Phase Step
+* T2, 5 rounds, Self
+* You shift yourself slightly out of phase with the world.
+	* Halve all non-spirit damage.
+	* You phase through small obstacles and step lightly upon the world.
+		* You can't be grappled, netted, obstructed by branches, can walk over mud or snow without sinking, don't trigger pressure plates, etc.
+		* You can't escape bonds already on you, and can't pass through sizeable barriers (doors, trees, people, etc).  You also can't pick up small objects.
+
 
 * CS 4
 	* befriend
 	* truespeech / speak w/ animals
-* CS 6
-	* absorb (merge w/ shield? mage armor?  replace mage armor?)
-	* meld
-	* push/pull (rename Impel? Propel?)
+
 * custom
-	* misdirection?
 	* darkness?
 
+
+??? Liar's Crystal
+* T2, 1 day, Casting (1 minute), A Close crystal
+* You enchant a crystal (at least 250 gp) allowing it to absorbs mental, spiritual, and/or magical impressions of your choice from something in your environment.
+	* When in the possession of a person, or placed beside a thing, it masks those impressions with its own.  Detect spells will sense it instead (detect thoughts, detect evil, detect magic, locate object, etc), with either positive or negative results, depending on what impressions were captured.
+
+??? locate object, but give it a mage spin
 
 
 ### Tier 3
@@ -603,9 +616,37 @@ Broomstick
 	* e.g. Chair, cauldron, broomstick, carpet, etc.
 * While you touch it, you can cause it to hover and use your move to make it fly Near (and may Dash with your action).
 
+Crown of Merlin
+* T3, 10 minutes, Self
+* 4 crystal shards appear, orbiting your head.  As an action, you can discharge some or all of the shards, each one emitting a Magic Missile which can be independently aimed.
+	* When all shards are spent, the spell ends.  You can't cast it again while a prior casting is active.
+
 
 Dispel Magic
 
+
+
+Drain Life
+* T3, Instant, A Close living creature
+* You siphon life force from the target, dealing 2d6 necrotic and healing your Guard for half that amount.
+	* If cast on an undead creature, you take the damage and it is healed.
+
+Fabricate
+* T3, Sustain (1 hour), Nearby materials
+* You turn unattended, non-living raw materials (lumber, a pile of bricks or stones, cloth, plant fibers, metal ore, ingots, or scrap, sand, etc) into a finished good or structure (a sword, a cloak, a bridge, etc).  At spell's end, it turns back into its original materials.
+
+Fireball
+* T3, Instant, Far
+* You hurl a ball of flame which explodes on impact, engulfing a Near area and dealing 4d6 fire.
+
+Gaseous Form
+* T3, Focus (10 minutes), Self
+* You and your gear turn into a cloud of smoke.  You can fly and pass through any gap smoke could.  You can see, hear, and smell normally.  Strong wind can push you around, but doesn't harm or disperse you.  You can't cast spells in this form, but may end the spell at will.
+
+Howl
+* T3, Instant, All listeners within the area.
+* You utter an unearthly howl.  Listeners must immediately check morale.
+	* You can emit either an omnidirectional howl (a Near area, centered on you) or a Near-length cone.
 
 Illusion
 * T3, Focus (10 minutes), Far
@@ -614,102 +655,88 @@ Illusion
 	* A brief brush against the illusion won't immediately reveal it, but might be grounds to mistrust it.  More significant contact automatically reveals its intangibility.
 	* If a viewer knows the illusion is false, it takes on a translucent appearance and can be seen through.
 
-Drain Life
-* T3, Instant, A Close living creature
-* You siphon life force from the target, dealing 2d6 necrotic and healing your Guard for half that amount.
-	* If cast on an undead creature, you take the damage and it is healed.
-
-Crown of Merlin
-* T3, 10 minutes, Self
-* 4 crystal shards appear, orbiting your head.  As an action, you can discharge some or all of the shards, each one emitting a Magic Missile which can be independently aimed.
-	* When all shards are spent, the spell ends.  You can't cast it again while a prior casting is active.
-
-Fireball
-* T3, Instant, Far
-* You hurl a ball of flame which explodes on impact, engulfing a Near area and dealing 4d6 fire.
-
 Lightning Bolt
 * T3, Instant, Far
 * You shoot a blue-white ray of lightning, striking all creatures in a 5'-wide straight line out to Far and dealing 3d6 lightning.
 
-Swarm
-* T3, Focus (round), A Near area within Far
-* A dense swarm of biting bats, rats, or insects fills the area.  The swarm provides heavy obscuration.  All creatures that start their turn within the swarm take 2d6.
+Pin Doll
+* T3, Focus (round), On the same plane
+* You pin a piece of flesh or lock of hair from a creature to a simple doll or poppet.  Each round, you can drive a pin into the doll, and the target takes 2d6 piercing damage.  When the spell ends, the flesh/hair burns to ash.
 
+Purgative
+* T3, 1 hour, A Close vial
+* Enchants a simple brew of common herbs (easily gathered in any wood or market).  Consumed, it cleanses on poison or sickness, but causes weakness and nausea (+D to all actions until a Brief Rest is taken).
+	* Some afflictions are too strong to easily remove.  Additional conditions, reagents, etc might strengthen it enough to work (see holy Cure Affliction)
 
-
-* locusts (cs4)
-
-Howl
-* T3, Instant, All listeners within the area.
-* You utter an unearthly howl.  Listeners must immediately check morale.
-	* You can emit either an omnidirectional howl (a Near area, centered on you) or a Near-length cone.
-
-Stinking Cloud
-* T3, Focus (round), A Near area within Far
-* The area is filled with noxious fumes, providing light obscuration.  Living creatures entering or starting a turn within the cloud, must resist with CON DC (your last casting/focus check) or be unable to act due to nausea and choking (they may still move).  Those who succeed still take +D to rolls.
+Reap the Soul
+* T3, Instant, Near
+* You siphon life force from a living creature slain within the last round.  Heal Guard (excess becomes tHP) and gain a bonus to your next attack or casting roll equal to the target's Level.
 
 Sending
 * T3, Instant, A named recipient
 * You speak a brief message, then visualize a recipient and speak their name.  That person, anywhere in the same plane of existence, hears your words in their mind.
 
 Speak With Dead
-
 * T3, 10 minutes, Close remains
 * You enchant the remains of a person (must at least include a somewhat intact head) to speak of what it knew in life, in a distant, sepulchral voice.  It provides brief answers to questions.  After third answer, the spell ends.
 	* You cannot speak with the same remains again.  Further castings of Speak With Dead prior to a Long Rest are Dangerous.
+
+Stinking Cloud
+* T3, Focus (round), A Near area within Far
+* The area is filled with noxious fumes, providing light obscuration.  Living creatures entering or starting a turn within the cloud, must resist with CON DC (your last casting/focus check) or be unable to act due to nausea and choking (they may still move).  Those who succeed still take +D to rolls.
+
+Swarm
+* T3, Focus (round), A Near area within Far
+* A dense swarm of biting bats, rats, or insects fills the area.  The swarm provides heavy obscuration.  All creatures that start their turn within the swarm take 2d6.
+
+Wall of Wind
+* T3, Focus (round), A Near-width barrier within Near
+* You shape a barrier of churning wind, which can be flat, curved, a dome, etc.  Arrows, sling stones, javelins and similar projectiles passing through are scattered harmlessly.  Vapors and small creatures (insects, rats, etc) are blocked from passing.  Spells, heavy projectiles (boulders), and enchanted missiles are not affected.
+
+Whisper
+* T3, Instant, A Close person with a mind (who understands your language)
+* You whisper a short sentence in the target's ear, planting the seed of a false memory.  Their mind builds its own interpretation of your words, and they forget you just spoke to / enchanted them.
+	* If forced to question it by friends or circumstances, the spell ends.
+	* If anyone else hears your words, the spell fails.
+
+
+
+
+
 
 * Dol
 	* Circle of Invisibility
 	* Crystal Vision
 	* Haste
-	* Missile Ward
-		* revamp as Wall of Wind?
-		* wind wall
 	* Serpent Glyph
 	* Water Breathing
 * Dol uncommon
 	* Gingersnap
 * Shadowdark
 	* animate dead / animate dead 5
-	* fabricate / fabricate 5
-	* gaseous form
-	* magic circle
+	* magic circle / magic circle / prot evil 10'
 	* protection from energy
 * CS 1
 	* mistletoe
-	* pin doll
 	* void stare
-	* whisper
-* CS 3
-	* cast out
-	* wolfshape (could also be fox?) (merge w/ polymorph sd 4?)
-* CS 4
-	* anima
-	* treeshape
 * CS 5
 	* betrayal
 * CS 6
 	* banish
 	* forbid
 	* speak with object
-* necromancer
-	* reap the soul
+
 
 
 novel
-* antidote (inferior cure poison)
-	* leaves them weak / unsteady for a turn or more as they recover
-	* heals more too?
+* 
+* black tentacles
 * 
 * 
 * feign death
-* tiny hut
 * nondetection
 * phantom steed
-* magic circle / prot evil 10'
 * suggestion
-* black tentacles
 * 
 * contagion
 * detect scrying?
@@ -717,7 +744,6 @@ novel
 * enervation
 * fire trap? explosive runes? glyph of warding?
 * illusory wall
-* secure shelter
 * minor globe of invuln
 * 
 * meld into stone?
@@ -725,7 +751,6 @@ novel
 * free action?
 * plant door?
 * 
-* commune with nature?
 * control winds?
 
 
@@ -733,47 +758,123 @@ novel
 ### Tier 4
 ---
 
-* mycellium (cs4)
-	* brings you info from the land, basically commune with nature
+Arcane Eye
+* T4, Focus (10 minutes), Near
+* You conjure a floating, invisible eye; when you close your eyes, you can see through it.
+	* It can hover and fly a Near distance (up to any distance from you) according to your mental direction.
+	* It can see in pitch darkness up to Near as if the area was batched in moonlight.
+
+Cloak of Night
+* T4, 1 hour, Self
+* You are wrapped in swirling shadows, gaining defense 17 (20 on crit) and +A to sneak and hide.
+
+Cloudkill
+* T4, 5 rounds, A Near area within Far
+* A putrid cloud of yellow-green vapor fills the area, spreading around corners and sinking into holes, just slightly heavier than air.  It provides heavy obscuration.  Creatures within take 2d6 poison at the start of their turn.  Any Level 9 or lower creature who ends its turn fully within the cloud is slain by the poison.
+
+Control water
+* T4, Focus (1 minute), A Far area within Far.
+* You can move and shape water, causing it to move, defy gravity, or flow in different directions.  The process is not usually quick enough to harm, drown, etc creatures able to move freely.
 
 Dimension Door
 * T4, Instant, Self
 * You open a momentary portal through which you and up to one other creature (willing or dragged) can pass.  You appear at the other end, which is at any point you could see, or within Far by dead reckoning or homing on an arcane connection to yourself (a splash of your blood, lock of hair, etc).
 	* Appearing inside a solid object or too-small space causes you and any passenger 3d6 damage, and ejects you back at the origin.
 
+Dominate
+* T4, Near
+* Choose 1:
+	* All the creatures in a Near area are subject to the Charm spell (Tier 1).
+	* (Focus (round, or when the subject suffers harm)) A single target with a mind falls entirely under your command (requiring your action).
+		* P [9] vs R [Level+CHA]
 
-* Wall of Fire (dol)
-* Wall of Ice (dol)
-* wall of force (sd)
+Glassbones
+* T4, Focus (round), A Close creature or object
+* The target becomes more fragile, taking double damage.
+
+Hallucinatory Terrain
+* T4, Permanent, Up to a Far area
+* Choose 1:
+	* Some or all of the area is cloaked in illusory terrain (a copse of trees, a crag, a pond, a house, a wall), which can cover existing terrain to hide it (a house as a small hill, etc).
+		* Physical contact reveals the illusion to the toucher.
+	* Designated Medium or smaller creatures present in the area when you cast are concealed by plausible illusions of terrain while still, appearing as rocks, trees, furniture, etc.
+		* They appear while moving, but are concealed again when they stop.  If they leave the area, the spell ends for them.  Disguised individuals can see through the illusion.
+		* Physical contact temporarily reveals the disguised individual to the toucher.
+
+Hex Weaving
+* T4, Close
+* Breaks or bestows curses.  Choose 1:
+	* (Sustain (1 hour)) A cursed item or permanent harmful magic is suppressed.
+	- (Instant) make a dispelling contest to end an arcane or faerie spell.
+	- (Permanent) inflict a curse on the target:
+		- Hideous boils and warts
+		- All food tastes like ash
+		- Voice becomes shrill or otherwise strange / disturbing
+		- Plagued by nightmares (always roll to successfully rest)
+		- Terrible luck with matters of chance (gambling, etc)
+		- Suffer a phobia of something ordinary
+		- Another person's perception of the target's words and deeds is twisted to see them in the worst light (a named person, else a random close associate)
+- Some curses are more difficult to remove (see holy Remove Curse).  Worse curses can be laid, but require special reagents, conditions, prices paid, etc.
+
+Mycelium
+* T4, Casting (1 minute), Instant, Self
+* You connect your mind to the vast mycelial network woven through the Earth.  Ask one questions of up to 15 words and receive an answer of up to 15 words that the network could know or perceive.
+	* After casting, further castings within 24 hours are Dangerous, perhaps leading to intrusions of the fungal mind.
+	* The network grows thinner in barren places, and is absent in salt water.  It perceives the lower air and the weather, but is blind to the skies.  It interfaces with plants, fungi, animals, soil, stone, and rot.  It senses the presence of magical forces and beings, but does not extend to other planes.  It knows much of the lives, emotions, and activities of humans, but not their higher minds (thoughts, speech, knowledge, memories). 
+
+Nightmare
+* T4, Focus (1 minute), Limit (1 day), A sleeping creature (Level < your LVL) on the same plane
+* You send horrific nightmares to a victim to whom you have an arcane connection (blood, hair, etc), or who possesses a cursed token you fashioned.  If you Focus for 1 round, they get no benefit from their rest.  2 rounds and they gain 1 Fatigue.  3 rounds and they die of fright.
+	* The arcane connection burns to ash when the spell ends; a curse token does not.
+
+Passwall
+* T4, 10 minutes, Close
+* A Close-width, straight tunnel opens before you, up to Near length.  Mundane, inanimate matter in its path bends harmlessly out of the way into neighboring dimensions.  When the spell ends, everything is restored as it was.
+
+Polymorph
+* T4, Sustain (1 hour, dismiss), A Close animal or mortal (can be Self)
+* You transform the target (willing or overcome) into another natural animal or mortal of Size between Tiny and one larger than its own.
+	* P [LVL+1] vs R [Level+CON]
+	* Possessions worn are tucked into a pocket dimension; held items are dropped.
+	* They gain the physical stats and abilities for the new form, but retain their own mental faculties (perhaps colored by the new form).
+	* If they drop to 0 HP, the revert to their true form at half their prior HP.
+	* You cannot perfectly mimic the appearance of a specific individual.
+* This can instead by used in a dispelling contest to break an animal transformation.
+
+Stoneskin
+* T4, Focus (round), A Close creature or object
+* You sheath the target in an forcefield that halts all physical impacts harmlessly as they come in contact (weapons, projectiles).  It does not protect against magic, intangibles, energy, acidic substances, etc.  It does not prevent grabbing or grappling of the target.
+
+Telekinesis
+* T4, Focus (round), A creature or object up to 1000 lbs within Far
+* You lift the target and can move it within range a Near distance each round, or hold it in place.
+	* Battering a target against the wall / ground can deal 1d6 damage per round.
+	* An unwilling target can struggle, rolling STR DC (your last casting/focus check) to break free and end the spell.
+
+Wall of Fire
+* T4, Focus (1 minute), Near
+* A raging barrier of flame springs up, either a ring encircling up to a Close radius area, or a line of up to Near length, and about twice Close high.
+	* Touching the flame inflicts 4d6 fire.  Mundane objects (including missiles), and creatures of Level 6 or less, that pass fully into the flame are burned to ash.
+	* It arises slowly enough that mobile creatures can get clear of it.
+
+Wall of Ice
+* T4, Sustain (10 minutes), Near
+* A frozen barrier of up to Near dimensions (or a dome of twice Close), shaped as you desire, springs up.  Its crystal clear, magical ice is physically impervious.
+	* It arises slowly enough that mobile creatures can get clear of it.
+
+
+
 * wall of thorns?
 
+
+
 * Dol
-	* Acid Globe
-	* Dominate
-	* Hallucinatory Terrain
-	* Hex Weaving
 	* Plant Growth
-	* Woodland Veil
 * Dol Uncommon
 	* Drouge's Arcane Unravelling
 * Shadowdark
-	* arcane eye / arcane eye
-	* cloudkill / cloudkill 5
 	* confusion / confusion
-	* control water
-	* dimension door / dimension door
-	* passwall / passwall 5
-	* polymorph / polymorph
 	* resilient sphere
-	* stoneskin
-	* telekinesis / telekinesis 5
-* CS 1
-	* cloak of night
-	* curse
-	* glassbones
-	* nightmare
-* CS 3
-	* ??? loki's trickery
 * CS 4
 	* summon storm / control weather 6
 * CS 5
@@ -783,11 +884,7 @@ Dimension Door
 		* expand with some Symbol options?
 	* stasis
 * necromancer
-	* ashes to ashes (necro 4)
-	* excoriate
-	* fourth gate
 	* revenant
-	* vision
 
 
 
@@ -900,69 +997,13 @@ Contact Other Plane
 * CS 1
 	* anathema
 * CS 4
-	* * earthquake (cs 4)
+	* earthquake (cs 4)
 * CS 5
 	* subjugate
 * CS 6
 	* permanence (maybe apply a stat drain too?)
 * necromancer
 	* anchor in death
-
-
-
-
-
-* Dol 5
-	* Air Sphere
-	* Mire
-	* Wall of Stone
-* Dol 6
-	* Control Weather
-	* Dweomerfire
-	* Geas
-	* Move Terrain
-	* Oracle
-	* Petrification
-	* Project Image
-	* Wave of Force
-* Dol Uncommon 6
-	* Trap the Soul
-* Shadowdark
-	* antimagic shell / Anti-Magic Ward 6
-	* create undead
-	* disintegrate / disintegrate 6
-	* hold monster
-	* power word kill / word of doom 6
-	* prismatic orb
-	* scrying
-	* shapechange
-	* summon extraplanar / conjure elemental 5 / invisible stalker 6 / summon shadow 5 (unc)
-	* teleport / teleport
-	* wish
-* CS 1
-	* anathema
-	* dreamwalk
-	* enfeeble
-	* finger of death
-	* mother of night
-		* this is just flavorful wish, use this?  leave pure Wish to the Rune of As You Wish
-		* contact outer plane for reality alteration, this spell is Dangerous w/ interesting condition (basically a geas)
-	* soul jar
-* CS 3
-	* valkyrie
-	* ??? world serpent
-* CS 4
-	* earthquake
-* CS 5
-	* feeblemind / feeblemind 5
-	* subjugate
-* CS 6
-	* abjure
-	* permanence (maybe apply a stat drain too?)
-* necromancer
-	* anchor in death
-	* riverwalk
-	* summon soul
 
 
 consider using necromancer's Fifth Gate for the cleric Inviolable spell (based on World Tree)
@@ -971,13 +1012,17 @@ consider using necromancer's Fifth Gate for the cleric Inviolable spell (based o
 
 novel
 
+* providing shelter is an endgame thing, like food and water, not T3
+	* tiny hut
+	* secure shelter
+
 * bigby's hands
 * cone of cold
 * dismissal
 * secret chest
 * faithful hound
 * stone shape
-* rock to mud (merge / mire)
+* rock to mud (merge w/ mire? stoneshape?)
 * 
 * chain lightning?
 * contingency?
@@ -992,7 +1037,6 @@ novel
 * simulacrum
 * maze / imprisonment
 * mind blank
-* telekinetic sphere
 * 
 * time stop-ish? 
 * 

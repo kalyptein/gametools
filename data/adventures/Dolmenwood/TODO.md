@@ -1,3 +1,17 @@
+RedMage - Dolmendark bestiary conversion
+https://www.youtube.com/watch?v=KCxsmjIPDzc&list=PLM7pFwnjJQCdGGiyzPcok6pKsZZr7dMaN&index=2&t=4s
+
+other bestiaries suitable to Dolmenwood
+* into the wyrd and wild
+* bestiary of the rosewood highlands
+* rackham vale
+* unnatural selection
+* the monster overhaul
+* a book of beasts
+* letters from the dark (various issues)
+
+
+
 
 * arcane magic (crafting wands, eldritch patrons, spell list, spell descriptions)
 	* making a spell source?

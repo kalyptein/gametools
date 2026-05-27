@@ -14,6 +14,7 @@ Skullduggery
 	* Deciphering cryptic messages and documents, sketching maps
 	* Disguises, forgery
 * You have Resistance with DEX.
+* You can carry Thieves' Tools as a free item in your Personal inventory.
 
 Backstab
 * When a target is unaware of your incoming finesse, thrown, or missile attack, deal +2d damage.  If they are aware of you, but you have +A to attack or they are otherwise distracted (fighting an ally, etc), deal +2 damage.

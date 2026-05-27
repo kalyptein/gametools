@@ -18,3 +18,11 @@ Trade Goods
 	* to Lyonesse: english wool, goods from the European continent? steel.
 	* from Lyonesse:
 		* goods from the sea?  strange pearls, fish, narwhal horn, sea serpent scales, kraken ink
+
+Sorcerer-Lords (stolen from Jack Vance)
+* Shimrod: good-ish guy wizard
+* Tamurello: evil sorcerer, often opposes Shimrod
+	* Faude Carfilhiot: corrupt duke and lover of Tamurello
+* Melancthe: mysterious sorceress who tempts and destroys, associated with the "grey side" of magic
+* Visbhume: a sadistic and narcissitic warlock
+* Murgen: a powerful, reclusive wizard
