@@ -114,19 +114,30 @@ Access and Egress
 
 ### 9-1: Great Cavern at the Foot of the Great Chasm 
 
-One of the iconic features of the Halls, this massive fissure extends through most of the dungeon levels and provides a sure, if difficult, means of vertical navigation of the Halls. The fissure is generally shaped like a triangular prism, with its apex about 50’ above Level 2. The prism extends downward 1,600’ through the Halls until it levels out at the floor of the chasm (9-1) hundreds of feet below.
+* One of the iconic features of the Halls, this massive fissure extends through most of the dungeon levels and provides a sure, if difficult, means of vertical navigation of the Halls. 
+	* Shaped like a triangular prism, the fissure extends from its apex 50’ above Level 2 downward 1,600’ through the Halls to its floor (9-1) hundreds of feet below.
 
-The Great Chasm bottoms out here. The foot of the chasm is an enormous cavern, some 600’x 450’ in size, one that spreads out beyond the vertical part of the chasm to encompass surrounding caves and worked areas. Two waterfalls, one from 5-2A and the other from 6-6A, combine here to form a large lake, out of which a river flows to areas further underground. Given the presence of the waterfalls, the entire level is noisy and humid; indeed, it is difficult to hear or speak around the lake due to the noise. Phosphorescence from the mushroom groves provides a dim light to illuminate most of the central cavern. Individual features of the cavern, such as the two mushroom groves, the effluent canals, the plateaus, and the seeing chair, are described separately. 
+* The foot of the Great Chasm is an enormous cavern, 600’x 450’, spreading out beyond the vertical part of the chasm to encompass surrounding caves and worked areas.
+	* The western portions of the great cavern (west of the dotted line on the map) have no ceiling, as the chasm rises above them, all the way to Level 2. 
+	* East of the dotted line, the cavern's ceiling is roughly 50’ high (above the lake level).
 
-The western portions of the great cavern (west of the dotted line on the map) have no ceiling, as the chasm rises above them all the way to Level 2. East of the dotted line on the map, however, the cavern does have a ceiling; it is roughly 50’ tall, that is, 50’ above the level of the lake.
+* Two waterfalls, from 5-2A and 6-6A, combine here to form a large lake, from which a river flows to areas further underground. 
+	* The waterfalls render the entire level is noisy and humid.  It is difficult to hear or speak around the lake, due to the noise. 
+* Phosphorescence from the mushroom groves provides a dim light through the central cavern.
 
-GM Note: The floor of the chasm can be altered by destroying the dam at SL6-25. In this case, a massive amount of water will flow down the spillway and cause the waterfall from 6-6A to become a raging torrent for several hours. This influx of water will raise the water level by 15’ for a period of 7-10 hours. During this time period, the midden (9-87), the muck fields (9-7), the berm (9-9), the sluice gate (9-10), and a swathe of the mushroom fields (in area 
-9-4, a zone from the lake to area 9-6; in area 9-83, a zone from the lake to 9-76) will be swept clear of anything that is not stone. After the lake resumes its normal level, these areas will be covered with a layer of muck.
+GM Note:
+* The floor of the chasm can be altered by destroying the dam at SL6-25, unleashing a massive amount of water through the spillway and causing the waterfall from 6-6A to become a raging torrent for several hours.
+* This influx of water raises the water level by 15’ for 7-10 hours. 
+	* During this time period, the midden (9-87), the muck fields (9-7), the berm (9-9), the sluice gate (9-10), and a swathe of the mushroom fields (in 9-4, a zone from the lake to 9-6; in 9-83, a zone from the lake to 9-76) are swept clear of anything not stone. 
+* After the lake resumes its normal level, these areas will be covered with a layer of muck.
 
-Those who can fly or climb long distances can follow the chasm upwards to 8-2, 7-3, 6-108, 5-34, 3-38 and 2-63A. Such persons use the lower zone chart for random encounters while on Level 9, rolling every three turns with a 1 in 6 chance for an encounter:
+* 1-in-6 chance of encounter every 3 turns:
 
 D100 Encounter
-01-10 Party of NPC adventurers (select from NPC appendix)
+
+01-10
+
+Party of NPC adventurers (select from NPC appendix)
 
 11-15
 
@@ -211,17 +222,17 @@ Roll on Middle Zone table (see 5-34)
 
 
 Chasm Color:
-The GM might decide to play up the creepy and mysterious nature of the chasm. Roll every 3 turns, with a 1 in 6 chance for a chasm sound effect.
+Every 3 turns, 1 in 6 chance for a chasm sound effect.
 
 D8 Noise/Effect
-1 Loud hissing
-2 Moaning (of the wind?)
-3 A roar
-4 A shriek
-5 A loud clap (a sharp, brief noise)
-6 An echoing voice (undecipherable)
-7 A flash of bright light for 3 second
-8 Fluting, of a tuneless sort
+* 1 Loud hissing
+* 2 Moaning (of the wind?)
+* 3 A roar
+* 4 A shriek
+* 5 A loud clap (a sharp, brief noise)
+* 6 An echoing voice (undecipherable)
+* 7 A flash of bright light for 3 second
+* 8 Fluting, of a tuneless sort
 
 ### 9-2: The Dread Risers (up to 7-2)
 
@@ -459,24 +470,38 @@ attached to his/her belt.
 
 ### 9-10: Sluice Gate
 
-A small sluice gate rests here, where the inlet to the lake meets the quicklings’s main effluent canal. The gate is made a piece of repurposed rudishva plasteel set into grooves in two heavy wooden posts. Although the gate itself is not miniature, the apparatus that controls it is: a small crank some 1’ in diameter is used to raise or lower the gate. Closing the gate fully causes the effluent canals (see 9-5) to dry up, leaving stinking effluent to dry in place; the 
-process of drying up takes about 2 hours. Opening the gate fully, however, floods the canals with relatively clean water from the lake. Within 6 turns the canals are flushed fully, and the cesspool (9-16) has grown in size. Adjusting the gate (and thus affecting the canals) is considered a provocation to the quicklings, who treat such interference as a casus belli. 
+* A small sluice gate rests here, where the inlet to the lake meets the quicklings’s main effluent canal.
+	* The gate is a piece of repurposed plasteel set into grooves in 2 heavy wooden posts. 
+	* A small crank is used to raise or lower the gate. 
+		* Closing the gate fully causes the effluent canals (9-5) to dry up over ~2 hours, leaving stinking effluent to dry in place.
+		* Opening the gate fully floods the canals with relatively clean lake water.   In 6 turns the canals are fully flushed and the cesspool (9-16) has grown in size. 
 
-Four crocodiles lie patiently in wait for anyone who interacts with the sluice mechanism.
+* Four crocodiles lie patiently in wait for anyone who interacts with the sluice mechanism.
 
-Should the dam on Sub-Level 6 (SL6-25) be destroyed, the sluice gate will be swept away by the ensuing flood. After 7-10 hours, this area will drain, leaving a layer of sticky muck where the gate once stood. It will take the quicklings 5-7 days to replace the sluice, during which period they will be grumpy and hostile.
+* Adjusting the gate and affecting the canals is considered a provocation to the quicklings, who treat such interference as a casus belli.
+
+* If the dam at SL6-25 is destroyed, the sluice gate is swept away by the ensuing flood. 
+	* After 7-10 hours, this area drains, leaving a layer of sticky muck where the gate once stood.  It takes the quicklings 5-7 days to replace the sluice, during which period they will be grumpy and hostile.
 
 4 crocodiles: SZ L; AL N; AC 5; MV 60’, 120’ swimming; HD 3; HP 22, 18, 17, 16; #AT 2; Dmg 2-8/1-12. Special attacks: surprise on 1-3.
 
 ### 9-11: Greater Seat of Contemplation
 
-A rudishva seat of contemplation sits atop this levelled rock promontory that rises 25’ above the floor of the mushroom grove. The seat of the chair is 4’ tall and is 5’ wide and deep. The back of the chair rises another 6’ in height. The seat and arms of the chair are worn, as if by use. Incised into the chair are two large (2’) symbols or runes, one on the seat and one on the back. The sigil on the seat is the rune for Sight; that on the back is a rune of Communication. The runes are activated by the close proximity of living flesh. Anyone touching or sitting on the seat will thus activate both runes. It is possible to cover one or both of the runes with an appropriate object and then employ the chair normally. 
+* A rudishva seat of contemplation sits atop this levelled rock promontory, which rises 25’ above the floor of the mushroom grove.
+	* The seat of the chair is 4’ tall, 5’ wide and deep, and the back rises another 6’.  The seat and arms are worn, as if by use. 
+	* Incised into the chair are two large (2’) symbols, one on the seat (Sight), one on the back (Communication).  They are activated by proximity of living flesh (sitting or touching activates both).
 
-Rune of Sight: The rune allows the viewer perfect vision within the chasm and areas of Level 9 connected to the chasm. That is, one can thoroughly investigate most of the chasm by sitting in this seat. The effect of this vision takes some time to get used to, as it can be nausea-inducing to swoop virtually up and down the chasm; there is a 50% chance that a user will vomit within 3 rounds of activating the rune. The rune is also dangerously attractive to human minds, and users will find it difficult to relinquish the swooping vision it produces. After a turn of use, the user must save vs spells in order to voluntarily leave the seat. If the save is failed, another may be attempted in 6 hours. Someone so ensnared by the seat will feel a great compulsion to return to the seat and use it again. A few of the old rudishva regions of the chasm are cloaked from the sight of the Chair, including the Floating Gardens (6-4 and 7-4), area 6-99, and area 9-88; a user will see these areas as impenetrable clouds of 
-roiling darkness. Note that the chair provides perfect vision, as if the chasm was well lit. The chair does not, of course, reveal secret doors or hidden passageways. Complete scans of the chasm will take many days to accomplish.
+Rune of Sight
+* This rune allows the viewer to project their vision flying throughout the whole chasm.
+	* The view has perfect vision, as if the chasm was well lit.  It does not reveal secret doors.
+	* A few rudishva areas of the chasm are cloaked from the sight of the Chair:
+		* The Floating Gardens (6-4 and 7-4), 6-99, and 9-88.  The user sees these areas as impenetrable clouds of roiling darkness. 
+* This takes some time to get used to (50% chance of vomiting within 3 rounds of use).
+	* The experience is also dangerously attractive to human minds.  After a turn of us, save vs spells to relinquish the seat (repeat every 6 hours).  Someone ensnared will feel a great compulsion to return to the seat and use it again. 
 
-Rune of Communication:  This rune activates a three-dimensional, full-immersion communication channel to the control niche (9-89) in the rudishva bastion. The image of whoever sits in the chair appears on the control panel, and the sitter is able to speak directly 
-to any operator in the niche. The idea was that a rudishva who had been outside in the ‘wilds’ could request the opening of the door at 9-88 and the temporary disabling of the point defense arrays there. Of course, there needs to be someone present in 9-89 to actually accomplish this request. 
+Rune of Communication
+* This rune opens a 3D, full-immersion comm channel to the control niche (9-89) in the rudishva bastion. The image of the person in the chair appears on the control panel.
+	* Rudishva who had been in the ‘wilds’ could request access past the door at 9-88 and the point defense arrays there. 
 
 ### 9-12: Buried Colossal Statue 
 
