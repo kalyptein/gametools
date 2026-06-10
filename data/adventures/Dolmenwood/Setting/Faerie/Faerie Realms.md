@@ -53,22 +53,58 @@ Doors directly into Fairy: A few fairy doors lead directly into the domain of a 
 
 
 Realms, Rulers, and Runes
-* Gloomhold / The Blind King - bleak and drear and dark
-* Frigia / The Cold Prince - frigid
-* Hypnagogia / The Duke Who Cherishes Dreams - dreamland
-* Goblintown / The Goblin King - badlands and swamp, warrens, the market
-	* give the Goblin King a name?
-* Baths of Astralon / The Hag Thorn-Rosy
-* The Gardens of Ynn / Lady Belladonna - hedge maze with countless nooks and courtyards, games of intrigue and courtly whispers, an opulent court overtaken by doom and a threat (just straight up use the Gardens of Ynn, including the Idea of Thorns)
-* Everborne / The Lady of Midnight - dismal thorn-wastes and stony desert under an eternal moon
-* Gladdng-Gloam / Lord Gladhand - lush jungle garden
-* Ravenwild / Prince Mallowheart - misty haunted woods and cliffs
-* Blossom Fields / Princess Andromethia - tilled fields and endless pastoral beauty
-* Lampwrack / The Prince Who Is Seven - pools of illuminated civilization and languid decadence amidst desolate hungry darkness and echoes
-* Catland / Queen Abyssinia (and formerly King Pusskin) - cat's eye view of the world
-* Absynthe / The Queen of Blackbirds - endless dark manse (use adjusted Stygian Library?)
-* Tallowspire / The Regent Hador - endless baroque city and catacombs
 
+* Absynthe / The Queen of Blackbirds
+	- endless dark manse
+	- spooky gothic haunted house labyrinth, old Hag's curses and minions, weird stuff in the corners
+	* go there to provide service to the queen in return for rewards, seek the Hag's hidden magical lore or caches, obtain the wormwood waters (or shards of the star) for alchemy
+* Blossom Fields / Princess Andromethia
+	* tilled fields and endless pastoral beauty
+	* quaint challenges and roundabout ways, paths deeper are hard to find, risk you'll never want to leave; murderous minions of the Queen of Spring Unending
+	* go there to seek rare reagents, healing / cleansing / peace, or wholesome magical crafts
+* Catland / Queen Abyssinia (and formerly King Pusskin) - cat's eye view of the world
+	* 
+* Diuthurnia / Prince Mai-Fleur
+	* a wild hunter's paradise
+	* hunt beasts, face perils of the wild (weather, wild magics, etc)
+	* go there to hunt legendary beasts (for glory, for reagents, for favor with the prince), gather rare herbs/wood/etc, obtain magical hounds, steeds, or hunter's gear, the deep secrets of the hunt
+* Everborne / The Lady of Midnight
+	- dismal thorn-wastes and stony desert under an eternal moon
+	- brave the battleground against the lunar hordes
+	- go there to win glory and reward (treasure, poetry, blessing-boons, magical arms, etc) as a mercenary
+* Frigia / The Cold Prince - frigid
+	* 
+* Gardens of Ynn / Lady Belladonna
+	* hedge maze with countless nooks and courtyards, games of intrigue and courtly whispers, an opulent court overtaken by doom and a threat
+	* a dungeon: guards, traps, hazards
+	* go there to seek treasure, or labor for Lady Belladonna (or her courtiers) to reclaim her domain
+* Gladdng-Gloam / Lord Gladhand - lush jungle garden
+	* 
+* Gloomhold / The Blind King
+	* bleak and drear and dark
+	* a dungeon and vault: traps, guards, hazards
+	* go there to steal secrets and treasure, or rescue prisoners
+* Goblintown / The Goblin King - badlands and swamp, warrens, the market, a place you go to bargain for goods or services with the goblins and to seek their treasures
+	* 
+* Hypnagogia / The Duke Who Cherishes Dreams - dreamland
+	* 
+* Lampwrack / The Prince Who Is Seven
+	- pools of illuminated civilization and languid decadence amidst desolate hungry darkness and echoes
+	- challenges at the galas, shadowy threats and curses and despair in the ruins
+	- go there to seek the lore or expertise of the Prince's selves, win prizes in the galas, picks the ruins for treasures
+* Ravenwild / Prince Mallowheart
+	- misty haunted woods and cliffs
+	* misdirection, thieving gloams and ravens, cruel frost elf hunts, wild beasts, storms and chill
+	* go there to parley with Mallowheart (against his brother, to obtain magical lore) or seek the raven's wisdom or stolen trinkets
+* Tallowspire / The Regent Hador 
+	- endless baroque city and catacombs
+	* a puzzle of navigation: physical, law and intrigues.
+	* go there to seek patronage for art, or reward for service to the factions of heirs, to learn lore from the dead
+* Whyforth / The Earl of Yellow
+	* 
+
+* Baths of Astralon / The Hag Thorn-Rosy
+	* you go there to intrigue and relax
 
 
 ## depthcrawls / generators

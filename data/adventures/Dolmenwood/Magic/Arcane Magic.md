@@ -277,7 +277,7 @@ Burning Hands
 * You unleash an arc of flame, between a narrow jet and a full circle around yourself, dealing 1d6 fire and igniting flammables.
 
 Charm
-* T1, 1d8 days, A Nearby person
+* T1, 1d8 days, A Nearby creature with a mind
 * The subject is enchanted and regards you as a close friend, and forgets you just cast a spell on them.  This doesn't remove any other allegiances or attitudes.
 	* P [3] vs R [Level+WIS]
 	* The spell ends if the subject notices you or your allies harming or threatening it (physically, socially, emotionally, financially).
@@ -335,7 +335,7 @@ Glyph of Sealing
 * T1, Sustain (1 hour), Near
 * A door, chest, book, sack, etc (something that opens and closes) is sealed shut, slamming if open (not hard enough to deal harm).  Its parts hold as if fused together marked by a glowing symbol.  You can open and close it normally.
 * Ritual
-	* If the glyph is worked into the object (by craft, not just hastily carved), the duration becomes Permanent when cast on it (dispelling only suppresses it for 1 hour).  You may also enchant tokens that will allow others to open and close it as you can.
+	* If the glyph is carefully crafted into the object, spell is Permanent (dispelling only suppresses it for 1 hour).  You may also enchant tokens that allow a bearer to open and close it as you can.
 
 Gingerbread Charm
 * T1, 1 day, A Close baked figurine
@@ -406,26 +406,17 @@ Witchlight
 * Replaces Firelight (Dol)
 
 Yeast Growth
-* T1, Casting (reaction), Instant, Nearby
+* T1, Instant, Near
 * You enchant spores of yeast with a quick word of power.  Choose 1:
 	* A natural process of fermentation instantly completes (bread rises, wine ferments, etc).  The products of cooking and brewing are fine, but never of high quality.
-	* The omnipresent spores int he world swell into a great, foaming, slimy mass, coating a Near area.  Retaining one's footing requires a DEX DC 12 check when trying to move each round, as does picking up an item coated in the froth.  Those falling onto the pillowy mass reduce their fall distance by Far.
-		* Cleaning off an object (enough that it's no longer slippery) takes 1 round, and cleaning off a creatures takes 2 rounds.
-		* The mass gradually deflates after 10 minutes. 
+	* The omnipresent spores int he world swell into a great, foaming, slimy mass, coating a Near area.  It gradually deflates after 10 minutes. 
+		* Retaining one's footing requires a DEX DC 12 check when trying to move each round, as does picking up an item coated in the froth.
+		* Those falling onto the pillowy mass reduce their fall distance by Far.
+		* The foam can extinguish fires that aren't too large and intense.
+		* Cleaning off an object (to be no longer slippery) takes 1 round, and cleaning off a creatures takes 2 rounds.
 
-### Tier 2
+### Tier 2 *
 ---
-
-Second Skin
-* T2, 1 hour, Self
-* You transform your body, taking on one chosen quality from a mortal or natural animal that you have touched (animal changes are usually quite evident).
-	* Appearance: within the humanoid range (height, weight, species, sex, coloration, voice quality, etc).  You can't precisely duplicate a specific person's appearance or voice.
-	* Movement: Fish's gills and fins.  Spider climbing.  Gliding wings (but not true flight).  Stag's legs (double running and leaping ability).
-	* Senses: Hound's nose.  Cat's low-light vision.  Eagle sight.  Wolf's hearing.
-	* Weapons: claws / fangs (d6, Forceful/Finesse).  Gnawing teeth.  Snake fangs (+D to attack a ready target, bite delivers venom dealing 1d4 for 1d4 rounds).
-	* Voice: you gain the ability to speak to and understand one kind of animal, but can't produce human speech.
-	* Body: hide or shell (defense 15), camouflage (+A to stealth and you take on the animal's smell, perhaps confusing scent trackers), Serpent's contortion.  Stature (become Large, +A to feats of strength, but Slowed, or Small, +D to feats of strength).  Fur (resistance to frost).
-	* Other: other possibilities can be attempted (GM's discretion).
 
 Arcane Cypher
 * T2, Permanent, A Close page
@@ -433,6 +424,10 @@ Arcane Cypher
 	* You declare a command word upon casting.  While one who has spoken the word holds the page, its true appearance is revealed.  When released, it becomes obscured again.
 	* Dispelling the magic causes the ink to boil off the page.
 	* Viewing the page with magic able to perceive invisible things or pierce illusions allows a Dispelling contest, revealing the truth if successful (the magic remains, but you are now able to see through it as if you'd spoken the word).
+
+Bane
+* T2, 10 minutes, A Close weapon
+* The weapon is imbued with a thirst for blood.  It counts as a magic weapon and deals +1d6 damage to living creatures.  Any blood that gets on it is absorbed, tinting it reddish.
 
 Cast Out
 * T2, Focus (round), A creature farther than Near and nearer than Far
@@ -447,106 +442,11 @@ Cloud Breath
 * You exhale a plume of thick cloud which shapes into simple forms (walls, surfaces, domes, etc) of up to Near surface area.  These are as solid and can bear up to Medium weight, but can be battered through like wood.  Fire and magic burn holes rapidly.
 	* The spell requires Focus, but no rolls.  As long as you devote the attention and remain in range, it persists.
 
-Flaming Spirit
-* T2, Focus (round), A target within Far
-* A whirling streak of living flame leaps to the target, dealing 1d6 fire.  Each time you Focus, the spirit can leap to a new Nearby target, or continue to scorch the current one.
-
-Glyph of Locking
-* merge w/ Glyph of Sealing (ritual casting?)
-
-Bane
-* T2, 10 minutes, A Close weapon
-* The weapon is imbued with a thirst for blood.  It counts as a magic weapon and deals +1d6 damage to living creatures.  Any blood that gets on it is absorbed, tinting it reddish.
-
-
-
-??? Magic Head
-* T2, 
-* You conjure an invisible magical humanoid head.  It can speak and perceive like a human.
-* You can 
-
-
-
-Toxify
-* T2, 1 day / 5 rounds, A Close unattended object
-* The object becomes toxic.  Each round a living creature is in contact, it takes 1d6 poison.
-	* The spell lies dormant for up to a day, but once touched, it remains virulent for 5 rounds.
-
-Poison Chalice
-* T2, Instant, A Close measure of potable liquid
-* You transmute a cup of liquid into poison, though it seems the same.
-	* P [10] vs R [Level+CON]
-	* If drunk by a living creature, they must resist with CON DC 15 or drop to 0 hp.
-	* It denatures if diluted into a larger volume, cooked, or otherwise mistreated.
-
-Ghoul Touch
-* T2, Instant, A Close living creature
-* You deal 1d6 necrotic to the target.  If its resistance falls short, it is paralyzed for 1d4 rounds.
-	* P [4] vs R [3+CON]
-
-Frog Rain (cs1)
-* T2, Instant, A Near area within Far
-* A rain of indignant frogs pelts the area, dealing 1d6 crushing to all present.  Any surviving frogs hop away and disappear.
-
-Wrack
-- T2, Focus (round), A Nearby creature (Level 4 or lower)
-- The target is wracked and unable to move or act.  It can still defend itself, but with +D.
-	- Note: magicians have a variety of forms of this spell, learned independently but all forms of the same spell.  They may stun the subject with pain, sorrow, mad laughter, etc.
-
-Web
-* T2, 1 hour
-* Choose 1:
-	* You spray a dense web of sticky spider-like silk over a Near area within Far.
-		* Those entering or beginning their turn in the area must resist with STR DC (your last casting check) or be immobilized.  Most missiles get caught in the sticky mass.
-	* You spin an object of steel-strong silk: rope (Far length), net, bridge, sack, cocoon, cloth, etc.
-* The magical silk is vulnerable to fire, burning away in a round.
-
-
-* ???En Croute (dol 2 unc)
-
-* bogboil (cs1)
-
-
 Consult Oracle
 * T2, Ritual (1 minute), Self
 * You pose a question about your immediate situation, environment, or proposed course of action, then consult a simple oracle (toss runes, read cards, etc).  You receive an answer of yes, no, conflicted, or invalid.
 	* The oracle can't see beyond about an hour into the future or past.
 	* Further castings about the same area / topic, are Dangerous until after a Long Rest.
-
-Mirror Image
-* T2, 10 minutes, Self
-* You create (LVL) illusory duplicates of yourself, which swirl around and mimic you.
-	* While you Focus (action), you can cause one image to move Nearby as you wish.  You can think words and it will speak them.
-	* When attacked or targeted with a single target effect, an image near you is the actual target.
-	* Any damage or malign effect to an image causes it to evaporate.  With the last image gone, the spell ends.
-
-Misty Step
-* T2, Instant, Self
-* In a puff of vapour, you teleport to a Nearby visible place.
-
-Scare
-* T2, Instant, A Nearby creature (Level 3 or less)
-* A terrifying vision appears in the target's mind and they immediately check morale.
-
-Soul Seal
-- T2, Focus (10 minutes), Close creature
-- You place a glowing seal on the subject's forehead.  They are immune to possession, beguiling, and compulsion magic, and cannot be detected by arcane or faerie magic, or by occult senses (telepathy, smelling mortality, etc).
-- Any spell or magical power, including beneficial ones, used on them must overcome DC 18 magic resistance.  If one penetrates, this spell ends.
-	- If cast on someone under beneficial magics, those magics are suppressed.  If  cast on someone under harmful magics, each spell immediately tests against the magic resistance.  If all fail, they are suppressed; if any pierces, this spell ends.
-
-
-* silence
-* second gate (necro) (maybe replace silence with this?)
-
-
-* mind crystal (dol)
-Duration: 12 Turns
-Range: 60′
-Attunes a gem or crystal (of at least 250gp value) to the subtly radiating energies of living minds, allowing the caster to detect the presence of creatures and perceive their thoughts.
-Focus for 1 Turn: To pick up thoughts, the caster must hold the crystal aloft and focus their concentration in a particular direction for 1 Turn without moving.
-After 1 Turn: The crystal projects the thoughts of all creatures within range in the chosen direction into the caster’s mind.
-Multiple creatures: If multiple creatures are within range in the direction being focused on, the caster perceives an incomprehensible mix of all their thoughts. If the caster focuses for an additional Turn, they can isolate a single creature’s thoughts.
-Obstructions: This spell is blocked by 2′ of rock or a thin layer of lead.
 
 Detect Thoughts
 * T2, Focus (1 minute), A Near creature with a mind
@@ -554,13 +454,22 @@ Detect Thoughts
 	* On its turn, the target resists with WIS DC (your last casting check) to sense your intrusion and end the spell.
 	* If the target leaves your line of sight or moves away (but still within Far), the link persists until you next have to Focus.  You have a sense of their direction and distance.
 
-Levitate
-* T2, Focus (10 minutes), Self
-* You hover and can float vertically up or down a Near distance each round.
-
 Fixed Object
 * T2, 1 hour, A Close unattended object of up to Small size
 * The object becomes fixed in space, able to support up to 5000 lbs (assuming its material is strong enough).
+
+Flaming Spirit
+* T2, Focus (round), A target within Far
+* A whirling streak of living flame leaps to the target, dealing 1d6 fire.  Each time you Focus, the spirit can leap to a new Nearby target, or continue to scorch the current one.
+
+Frog Rain (cs1)
+* T2, Instant, A Near area within Far
+* A rain of indignant frogs pelts the area, dealing 1d6 crushing to all present.  Any surviving frogs hop away and disappear.
+
+Ghoul Touch
+* T2, Instant, A Close living creature
+* You deal 1d6 necrotic to the target.  If its resistance falls short, it is paralyzed for 1d4 rounds.
+	* P [4] vs R [3+CON]
 
 Invisibility
 * T2, Sustain (10 minutes), A Close creature or object, up to Medium size
@@ -572,10 +481,29 @@ Knock
 	* All mundane knots, bars, locks, and seals come undone, but permanent seals (welds, mortar, nails, sturdy adhesive, etc) are not broken.
 	* Sealing magic is subject to a Dispelling contest.
 
-Propel
-* T2, Instant, A Nearby Medium or smaller object or creature
-* You move the target a Near distance.  It comes to rest without harm or added momentum.
-	* You can use your casting check for a feat of strength to overcome anchors, grasp, etc that resist the movement.
+Levitate
+* T2, Focus (10 minutes), Self
+* You hover and can float vertically up or down a Near distance each round.
+
+Magic Face
+* T2, Until triggered (then 1 day), Close
+* You enchant an image, such as a statue, doll, carving, sketch, fresco, etc.
+	* If the image has eyes, ears, and/or a nose, it can see, hear, and/or smell.  If it has a mouth, it can speak, .  The image animates to a limited degree when looking, speaking, etc.
+	* It can exercise human-level judgement, memory, and senses (those it has).
+	* It can convey a message, converse, and observe (and later recount) according to the orders given by the caster.  It waits indefinitely, but once activated, lasts for a day.
+* Ritual (1 hour)
+	* Cast on a skillfully wrought image, made with the right arcane touches, the spell is Permanent.
+
+Mirror Image
+* T2, 10 minutes, Self
+* You create (LVL) illusory duplicates of yourself, which swirl around and mimic you.
+	* While you Focus (action), you can cause one image to move Nearby as you wish.  You can think words and it will speak them.
+	* When attacked or targeted with a single target effect, an image near you is the actual target.
+	* Any damage or malign effect to an image causes it to evaporate.  With the last image gone, the spell ends.
+
+Misty Step
+* T2, Instant, Self or a 1 slot object you hold
+* In a puff of vapour, you, or the item, teleport to a Nearby visible place.
 
 Phase Step
 * T2, 5 rounds, Self
@@ -585,30 +513,87 @@ Phase Step
 		* You can't be grappled, netted, obstructed by branches, can walk over mud or snow without sinking, don't trigger pressure plates, etc.
 		* You can't escape bonds already on you, and can't pass through sizeable barriers (doors, trees, people, etc).  You also can't pick up small objects.
 
+Poison Chalice
+* T2, Instant, A Close measure of potable liquid
+* You transmute a cup of liquid into poison, though it seems the same.
+	* P [10] vs R [Level+CON]
+	* If drunk by a living creature, they must resist with CON DC 15 or drop to 0 hp.
+	* It denatures if diluted into a larger volume, cooked, or otherwise mistreated.
+
+Propel
+* T2, Instant, A Nearby Medium or smaller object or creature
+* You move the target a Near distance.  It comes to rest without harm or added momentum.
+	* You can use your casting check for a feat of strength to overcome anchors, grasp, etc that resist the movement.
+
+Scare
+* T2, Instant, A Nearby creature (Level 3 or less)
+* A terrifying vision appears in the target's mind and they immediately check morale.
+* Ritual (1 minute)
+	* You paint an enchanted sigil.  If seen unexpectedly from Closeby (rounding a corner, pulling aside a curtain), the viewed is subjected to Scare.  If seen from afar and approached, it only gives a sad little pulse of anxiety.  In either case, the sigil fades away.
+
+Second Skin
+* T2, 1 hour, Self
+* You transform your body, taking on one chosen quality from a mortal or natural animal that you have touched (animal changes are usually quite evident).
+	* Appearance: within the humanoid range (height, weight, species, sex, coloration, voice quality, etc).  You can't precisely duplicate a specific person's appearance or voice.
+	* Movement: Fish's gills and fins.  Spider climbing.  Gliding wings (but not true flight).  Stag's legs (double running and leaping ability).
+	* Senses: Hound's nose.  Cat's low-light vision.  Eagle sight.  Wolf's hearing.
+	* Weapons: claws / fangs (d6, Forceful/Finesse).  Gnawing teeth.  Snake fangs (+D to attack a ready target, bite delivers venom dealing 1d4 for 1d4 rounds).
+	* Voice: you gain the ability to speak to and understand one kind of animal, but can't produce human speech.
+	* Body: hide or shell (defense 15), camouflage (+A to stealth and you take on the animal's smell, perhaps confusing scent trackers), Serpent's contortion.  Stature (become Large, +A to feats of strength, but Slowed, or Small, +D to feats of strength).  Fur (resistance to frost).
+	* Other: other possibilities can be attempted (GM's discretion).
+
+Soul Seal
+- T2, Focus (10 minutes), Close creature
+- You place a glowing seal on the subject's forehead.  They are immune to possession, beguiling, and compulsion magic, and cannot be detected by arcane or faerie magic, or by occult senses (telepathy, smelling mortality, etc).
+- Any spell or magical power, including beneficial ones, used on them must overcome DC 18 magic resistance.  If one penetrates, this spell ends.
+	- If cast on someone under beneficial magics, those magics are suppressed.  If  cast on someone under harmful magics, each spell immediately tests against the magic resistance.  If all fail, they are suppressed; if any pierces, this spell ends.
+
+Toxify
+* T2, 1 day / 5 rounds, A Close unattended object
+* The object becomes toxic.  Each round a living creature is in contact, it takes 1d6 poison.
+	* The spell lies dormant for up to a day, but once touched, it remains virulent for 5 rounds.
+
+Web
+* T2, 1 hour
+* Choose 1:
+	* You spray a dense web of sticky spider-like silk over a Near area within Far.
+		* Those entering or beginning their turn in the area must resist with STR DC (your last casting check) or be immobilized.  Most missiles get caught in the sticky mass.
+	* You spin an object of steel-strong silk: rope (Far length), net, bridge, sack, cocoon, cloth, etc.
+* The magical silk is vulnerable to fire, burning away in a round.
+
+Wrack
+- T2, Focus (round), A Nearby creature (Level 4 or lower)
+- The target is wracked and unable to move or act.  It can still defend itself, but with +D.
+	- Note: magicians have a variety of forms of this spell, each learned independently but all forms of the same spell.  They may stun the subject with pain, sorrow, mad laughter, etc.
+
 
 * CS 4
 	* befriend
 	* truespeech / speak w/ animals
-
-* custom
-	* darkness?
-
 
 ??? Liar's Crystal
 * T2, 1 day, Casting (1 minute), A Close crystal
 * You enchant a crystal (at least 250 gp) allowing it to absorbs mental, spiritual, and/or magical impressions of your choice from something in your environment.
 	* When in the possession of a person, or placed beside a thing, it masks those impressions with its own.  Detect spells will sense it instead (detect thoughts, detect evil, detect magic, locate object, etc), with either positive or negative results, depending on what impressions were captured.
 
-??? locate object, but give it a mage spin
 
-
-### Tier 3
+### Tier 3 *
 ---
 
 Alchemy
 * T3, Instant, A Close Medium-sized or smaller mundane object
 * The substance of the object is transmuted into a different material of equal or lesser value.
 	* Precious materials (platinum, gold, silver, and gems) can't be transmuted.
+
+Animate Dead
+* T3, Permanent / 1 day, A Close corpse
+* The corpse rises as a skeleton or zombie under your command, acting on your turns.  It crumbles to grave dust when the spell ends.
+	* You can assemble a vessel from multiple corpses, stitching or assembling disparate bones.  It must have a largely intact head or skull.
+	* Cast on an existing undead, it can absorb dead flesh and bone to regenerate HP over the course of an hour, up to its initial maximum.
+	* Undead left uncommanded for a long stretch of time may go feral.
+* Death's Domain
+	* The spell's duration is Permanent as long as the undead is within Death's Domain.  It can endure for 1 day if it leaves, resetting the count if it returns.
+	* Death's Domain is anywhere attuned to or saturated with death.  Graveyards, mortuaries, and morgues; the Day of the Dead / All's Hallow, under and eclipse, the unseason of Vague.  Recent battlefields (sites of epic slaughter last far longer), necromancer's sanctums, trods of the Underworld.
 
 Broomstick
 * T3, 10 minutes, A Close "vehicle"
@@ -713,7 +698,6 @@ Whisper
 * Dol uncommon
 	* Gingersnap
 * Shadowdark
-	* animate dead / animate dead 5
 	* magic circle / magic circle / prot evil 10'
 	* protection from energy
 * CS 1
@@ -723,7 +707,7 @@ Whisper
 	* betrayal
 * CS 6
 	* banish
-	* forbid
+	* forbid (also blocks scrying)
 	* speak with object
 
 
@@ -755,7 +739,7 @@ novel
 
 
 
-### Tier 4
+### Tier 4 *
 ---
 
 Arcane Eye
@@ -860,7 +844,7 @@ Wall of Fire
 Wall of Ice
 * T4, Sustain (10 minutes), Near
 * A frozen barrier of up to Near dimensions (or a dome of twice Close), shaped as you desire, springs up.  Its crystal clear, magical ice is physically impervious.
-	* It arises slowly enough that mobile creatures can get clear of it.
+	* It arises slowly enough that mobile creatures can get clear of it.  It melts rapidly when the spell ends.
 
 
 
@@ -883,53 +867,35 @@ Wall of Ice
 	* glyph (of warding)
 		* expand with some Symbol options?
 	* stasis
-* necromancer
-	* revenant
+
+ghast 4
+ghoul 2
+ghost 6
+bone naga 6
+skeleton 2
+vampire spawn 5
+wight 3
+wraith 8
+zombie 2
+
+mummy 10
+vampire 11
+lich 13
 
 
-
-
-
-### Tier 5
+### Tier 5 *
 ---
 
-Summoning
-* T5, Focus (10 min or when injured), Near
-* You call for an arcane being (elemental, demon) of Level 7 or lower (or multiple beings whose Levels sum to 7).  It obeys your commands, acting on your turn.
-	* If you lose Focus, your control is broken and the being is free to act, often becoming hostile to you and/or the general surroundings.
-	* While under control, you can dismiss it by making a casting check.
-* On a Crit, or if you may choose to make the casting Dangerous, you may summon a being of up to Level 9.
-* Ritual
-	* A ritual casting of the spell, requiring materials and reagents, can create an anchor to invest your Focus into.  The summoned being is given a set task when the ritual is cast, which can't be changed.  You must lay hands on the anchor to attempt dismissal.  If the anchor is damaged, the being is freed.
+Contact Other Plane
+* T5, Ritual (1d6 Turns, 1000 gp Ishwagrande dust), Limited (1 week), Self
+* Inhaling the smoke of the burning dust, your mind contacts the cosmic realms.
+	* Ask 3 questions and receive brief, true (and likely cryptic) answers or glimpses.
+	* You must have an arcane connection to the subject(s) of the questions (the blood of a person, a fragment from a person's tomb, being where a battle was fought with a famed sword, etc).
+	* After your questions are done, resist with CHA DC 12 or over a minute, you sink into a coma lasting 1d4 days.
 
-Disintegrate
-
-Prismatic Orb
-
-* finger of death (cs 1) / power word kill (sd)
-	* abjure (cs 6) - make this a special use of the death spell; Close range touch, no level cap, you die and they die
-	* replaces Word of Doom (dol 6)
-* petrification (dol 6)
-	* saved or die, lvl 9 or lower, basically finger of death
-* baleful polymorph
-	* saved or die, lvl 9 or lower, basically finger of death
-* soul jar (if I make it 1 action to cast, is also a save or die spell?)
-
-* with these insta-kill / banish / save or suck spells...
-	* a failed casting at a given target renders them immune to your casting of that spell for 1 day, even if you're able to keep casting (i.e. you haven't cast it successfully once this day yet).  in RAW, a failed cast would mean no further use, so you couldn't keep trying
-
-* Dweomerfire (dol) (suffer 1d6 dmg per tier of spells cast, Focus (round), subjects in Close, Near; magic items wreathed in fire, d6 to touch, casters take dmg = highest unexhausted spell tier each round)
-
-
-Edict
-* T5, Instant
-* You call upon a named being of great power (demigod, faerie lord, etc) to reshape the world as you command (as interpreted by the DM).  It must possess suitable power over the aspect of the world you wish to change.
-	* A failed casting causes the being to impose a geas upon you.  You cannot cast this spell again until you have fulfilled its demand.
-
-do I want either of these?
-* feeblemind / feeblemind 5 (cs 5)
-* enfeeble (cs 1)
-
+Create Undead
+* T5, 1 day, Close
+* Vengeful undead creature(s) appear before you, ready to do your bidding.  Choose 2 wights or 1 wraith.  It acts on your turn.  At the end of the day, it melts away into smoke. 
 
 Cross The Waters
 * T5, Instant, Self and Closeby willing people 
@@ -950,6 +916,64 @@ Cross The Waters
 	* Botches, instead of a normal mishap, reflect Atanuwe's corruption of the waters.
 		* Sends you wildly off course, leaves you buddled or cursed on arrival, attracts malign attention to you, etc.
 
+Disintegrate
+* T5, Instant, Far
+* A green ray shoots from your finger.  A corporeal creature whose resistance is overcome, or mundane matter up to Close radius, instantly turns to dust.  Targets that resist take 3d8.
+	* P [6] vs R [Level+CON]
+
+Edict
+* T5, Instant
+* You call upon a named being of great power (demigod, faerie lord, etc) to reshape the world as you command (as interpreted by the DM).  It must possess suitable power over the aspect of the world you wish to change.
+	* A failed casting causes the being to impose a geas upon you.  You cannot cast this spell again until you have fulfilled its demand.
+
+Permanence
+* T5, Casting (1000 gp of diamond dust), a year and a day, A Close object
+* You sprinkle the diamond dust on an object that is created by / under the effects of a spell you cast and its duration becomes a year and a day.
+	* You can no longer manipulate the spell's effects (e.g. you can't move an object lifted with Telekinesis, it is now fixed in place).
+
+Prismatic Orb
+* T5, Instant, Far
+* You send a strobing orb of energy streaking toward a target.  Choose an energy type: fire, cold, electricity, acid, thunder.  The orb deals 3d8 damage of that type.
+
+
+
+* finger of death (cs 1) / power word kill (sd)
+	* abjure (cs 6) - make this a special use of the death spell; Close range touch, no level cap, you die and they die
+	* replaces Word of Doom (dol 6)
+* petrification (dol 6)
+	* saved or die, lvl 9 or lower, basically finger of death
+* baleful polymorph
+	* saved or die, lvl 9 or lower, basically finger of death
+* soul jar (if I make it 1 action to cast, is also a save or die spell?)
+
+* with these insta-kill / banish / save or suck spells...
+	* a failed casting at a given target renders them immune to your casting of that spell for 1 day, even if you're able to keep casting (i.e. you haven't cast it successfully once this day yet).  in RAW, a failed cast would mean no further use, so you couldn't keep trying
+
+* Dweomerfire (dol) (suffer 1d6 dmg per tier of spells cast, Focus (round), subjects in Close, Near; magic items wreathed in fire, d6 to touch, casters take dmg = highest unexhausted spell tier each round)
+
+do I want either of these?
+* feeblemind / feeblemind 5 (cs 5)
+* enfeeble (cs 1)
+
+
+
+
+Scrying
+* T5, Focus (10 minutes), A Close reflecting surface (mirror, pool, crystal ball)
+* You conjure the living image of a distant place, anywhere within the same plane, into the reflecting surface.
+	* You can see and hear as if present at that location.
+
+can we zoom / move?
+
+For the spell's duration, you can see and hear a creature or location you choose that is on the same plane.
+
+This spell is DC 18 to cast if you try to scry on a creature or location that is unfamiliar to you.
+
+Each round, creatures you view may make a Wisdom check vs. your last spellcasting check. On 
+a success, they become aware of your magical observation.
+
+
+
 
 Soul Jar
 * T5, Casting (1 minute), Permanent, A Close creature with a soul.
@@ -967,17 +991,16 @@ Value: The receptacle must be worth at least 1,000gp per Level of the intended s
 Name: The subject’s name must be engraved on the receptacle. If the subject uses multiple names, their primary name (as judged by the Referee) must be used.
 Trapped soul: After Trap the Soul has been cast, an image of the trapped creature’s face flits across the surface of the receptacle. The trapped creature may be conversed with.
 
+Summoning
+* T5, Focus (10 min or when injured), Near
+* You call for an arcane being (elemental, demon) of Level 7 or lower (or multiple beings whose Levels sum to 7).  It obeys your commands, acting on your turn.
+	* If you lose Focus, your control is broken and the being is free to act, often becoming hostile to you and/or the general surroundings.
+	* While under control, you can dismiss it by making a casting check.
+* On a Crit, or if you may choose to make the casting Dangerous, you may summon a being of up to Level 9.
+* Ritual
+	* A ritual casting of the spell, requiring materials and reagents, can create an anchor to invest your Focus into.  The summoned being is given a set task when the ritual is cast, which can't be changed.  You must lay hands on the anchor to attempt dismissal.  If the anchor is damaged, the being is freed.
 
 
-Contact Other Plane
-* T5, Ritual (1d6 Turns, 1000 gp Ishwagrande dust), Limited (1 week), Self
-* Inhaling the smoke of the burning dust, your mind contacts the cosmic realms.
-	* Ask 3 questions and receive brief, true (and likely cryptic) answers or glimpses.
-	* You must have an arcane connection to the subject(s) of the questions (the blood of a person, a fragment from a person's tomb, being where a battle was fought with a famed sword, etc).
-	* After your questions are done, resist with CHA DC 12 or over a minute, you sink into a coma lasting 1d4 days.
-
-
-* scrying (sd)
 
 
 * Dol 5
@@ -992,16 +1015,11 @@ Contact Other Plane
 	* Wave of Force
 * Shadowdark
 	* antimagic shell / Anti-Magic Ward 6
-	* create undead
 	* hold monster
 * CS 1
 	* anathema
 * CS 4
 	* earthquake (cs 4)
-* CS 5
-	* subjugate
-* CS 6
-	* permanence (maybe apply a stat drain too?)
 * necromancer
 	* anchor in death
 
@@ -1016,34 +1034,42 @@ novel
 	* tiny hut
 	* secure shelter
 
-* bigby's hands
-* cone of cold
-* dismissal
-* secret chest
-* faithful hound
+* true seeing?
+
 * stone shape
 * rock to mud (merge w/ mire? stoneshape?)
+
+* cone of cold
+
+* simulacrum
+
+* mind blank
+
+
+OBE ???
+* forbiddance (forbid)
+* stone tell? (speak w/ object)
+* dismissal (banish)
+
+
+* bigby's hands
+* secret chest
+* faithful hound
 * 
 * chain lightning?
 * contingency?
 * globe of invuln
 * guards and ward?
-* mass suggestion?
 * permanent illusion
-* true seeing?
 * zero-gravity?
 * spell turning?
 * 
-* simulacrum
 * maze / imprisonment
-* mind blank
 * 
 * time stop-ish? 
 * 
 * blade barrier?
-* forbiddance
 * liveoak?
-* stone tell?
 * 
 * creeping doom?
 
@@ -1059,6 +1085,10 @@ coven (cs1 3)
 
 dreamwalk (cs 1)
 * a rare teleport-like spell that can be cast from the gate of Hypnagogia?  or deeper within?
+* granted by the likes of the Duke Who Cherishes Dreams
+
+subjugate (cs5 5)
+* a cruel spell of total domination bestowed by tyrannical or manipulative patrons
 
 
 ## Arcane Mishaps

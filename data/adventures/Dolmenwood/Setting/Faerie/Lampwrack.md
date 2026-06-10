@@ -69,8 +69,10 @@ what happened to this realm, to put it in its current state?
 
 ## Rune
 
+The Pallid Rune
 
-
+* Each part of TPWIS is able to act as ruler for crest purposes?  Or maybe you need a grant from more than one of them to count?  (2? 3? 4?)
+* The scholar prince and the shadow prince can each grant crests on their sole authority
 
 ## Inhabitants
 
@@ -127,6 +129,8 @@ The vanquished First King of Lampwrack
 		* there are six party "areas", each presided over by one of the Prince's bodies, each with its own focus and character
 	* more a radial layout than pure depth?  go out from the party into the ruins, then back?
 * with the right info and means, one can seek the Tower Isolate, the heart of the realm, where the last body of the Prince studies and the realm's power is most concentrated
+
+* could use Vast in the Dark's buildings and/or Let Us Build A Tower's floors to generate ruined buildings and neighborhoods.
 
 Wastes
 * Desolate lands, hungry wastes

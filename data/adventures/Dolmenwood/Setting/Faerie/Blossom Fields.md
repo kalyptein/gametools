@@ -5,14 +5,6 @@
 	* Ephemeral doors in Andromethia's domain in Dolmenwood (hexes 1212, 1311, 1312)
 
 * general environment
-* 
-* the perils are more about getting lost, mired in bliss and carefree existence, perhaps becoming flowers in the fields, taking root
-* 
-* challenges: dealing with those who know how to navigate its paths, merchants want to buy you memories, cares, and fears
-* 
-* folksy challenges to wrestling, drinking, races, puzzles, gambling, catching wayward trickstery livestock
-* 
-* tilled fields and endless pastoral beauty, hearty townships and steadings and bowers
 
 The ruler of the Blossom Fields is of half-elf, half-satyr heritage, with a single spiralling horn above her left ear and the hoof of a goat in place of her right foot. She is a kindly woman of ancient years, yet appears eternally young.
 
@@ -29,7 +21,7 @@ In the balmy days of high summer, mortals of light spirit and good intent may ch
 
 * Ruler(s)
 	* Princess Andromethia
-		* An eternally youthful, half-elfish / half-satyr lady with a single spiralling horn above her left ear and the hoof of a goat in place of her right foot (see p34 for details).  Kindly, tricksome, judicious.  Soft, languid speech.  Enjoys addressing people in fairy languages they cannot comprehend, before tiring of the game and switching to Woldish.
+		* An eternally youthful, half-elfish / half-satyr lady with a single spiraling horn above her left ear and the hoof of a goat in place of her right foot (see p34 for details).  Kindly, tricksome, judicious.  Soft, languid speech.  Enjoys addressing people in fairy languages they cannot comprehend, before tiring of the game and switching to Woldish.
 	* The Lady of Spring Unending
 		* Andromethia's wicked half-sister
 		* A cruel elf woman of eternally youthful complexion, clad in white, with golden hair falling to her feet. The Lady is the half-sister of Princess Andromethia (p34), banished from her native realm of the Blossom Fields after poisoning her own brother in an attempt to take the throne.  Some say that the Lady of Spring Unending is the most beautiful woman in Dolmenwood, and no small number of mortals have wandered into her dreaded lands wishing to catch a glimpse of her.
@@ -74,7 +66,20 @@ The Lady of Spring Unending
 * midpoint: an endless country festival at a crossroads
 * heart: a hidden dell and pond of nectar kept full by huge nodding flowers
 
+* tilled fields and endless pastoral beauty, hearty townships and steadings and bowers
+
+* the perils are more about getting lost, mired in bliss and carefree existence, perhaps becoming flowers in the fields, taking root
+* Andromethia can enjoy playing gentle tricks and misdirections
+
+* challenges
+	* dealing with those who know how to navigate its paths, merchants want to buy you memories, cares, and fears
+	* folksy challenges to wrestling, drinking, races, puzzles, gambling, catching wayward trickstery livestock
+
 * agents of the Lady of Spring Unending can pose an actual threat, deploying poison, curses, ambush, backstabs, snares and traps, etc.  They do not pose open threats, but might fight if discovered.
+
+* locations
+	* barrow / memorial garden of the poisoned brother
+
 
 ## Treasures
 
@@ -83,3 +88,4 @@ The Lady of Spring Unending
 * wealth
 
 * food stuffs (bread, beer, stews), livestock, simple enchanted goods (clothes, tools, pots, etc)
+* magical plants, waters, nectar

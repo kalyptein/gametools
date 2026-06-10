@@ -33,6 +33,8 @@
 	* All forms of legal tender are accepted: coin, gems, magic items, information, favors, promises of service, memories, dreams, emotions, magical reagents, secrets, faces, stolen children, True Names, etc.  Each merchant is the judge of what they are interested in.
 
 
+give the Goblin King a name?
+
 
 The Realm of Goblinhold
 A flat and barren plain of rocky wastelands and mazy swamps. The sun of Goblinhold is merciless and its moon is bewitching.
@@ -64,7 +66,7 @@ The true location of the Goblin Market is unknown, though some believe it to be 
 
 ## Rune
 
-
+The Jingling Rune
 
 
 ## Inhabitants

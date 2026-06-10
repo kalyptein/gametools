@@ -71,7 +71,10 @@ arcane: mishaps and crits
 ??? what is X in this cases?
 
 
-
+Dispelling & Countering
+* Roll d20 + (casting MOD + spell Tier) vs DC 11 + (casting MOD + spell Tier)
+	* If the dispelling / countering effect is not well suited to overcome its target, +D.
+	* If the dispelling / countering effect is ideally for overcoming its target, +A.
 
 
 potions

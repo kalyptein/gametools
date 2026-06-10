@@ -43,7 +43,7 @@ Murquine Palace: The palace of Queen Abyssinia: a palazzo of some fantastic prop
 
 ## Rune
 
-
+The Whiskered Rune
 
 
 ## Inhabitants

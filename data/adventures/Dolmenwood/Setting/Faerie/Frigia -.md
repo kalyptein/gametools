@@ -25,7 +25,7 @@
 
 ## Rune
 
-
+The Frigid Rune
 
 
 ## Inhabitants
