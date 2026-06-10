@@ -170,6 +170,10 @@ Deacon Intef
 * his influence is swaying Varboka toward conquering the goblins
 * has 5 guardsmen with him
 
+Lithiric the Talker
+* Male Thorcin mage 7.  Set worshipper, aid to Intef, but not publlically a Setite (like Cold Jordan).
+* Advisor to Prayaska, overseering of the Varumani silver mine (9-22).  Not directly pushing Set, but encouraging Praskaya's larceny and ambition, hoping to see his own stature rise with her.
+
 Cold Jordan
 * jeweler at the troll market, worshipper of set
 * her cave houses the Setite refugees in the thegn's court, and she bankrolls them

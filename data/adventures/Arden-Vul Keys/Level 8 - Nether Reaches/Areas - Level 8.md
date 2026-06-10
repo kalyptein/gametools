@@ -1807,20 +1807,21 @@ The alpha chaotic feaster: SZ M; AL CE; AC 3; MV 90’; HD 8; HP 57; #AT 3; Dmg 
 
 ### 8-84: Hall of Columnar Heroes
 
-This long hallway was an important connecting link for the Archontean areas of Level 8.
-
-Despite seismic activity over the past millennium the hall itself is still in good shape.
-
-The hallway is 15’ tall, with sixteen 3’-diameter columns supporting the roof. Each column is carved in the form of an Archontean legionary, complete with banded mail, hoplite helmet, 
-spear and gladius. The legionaries face different ways (north, south, etc.). Remnants of paint are visible here and there. The floor is dusty, but bare human footprints come and go towards area 8-83 (these were made by Olaf in 8-73).
-
-One of the legionary columns (marked ‘A’ on the map) is not like the others. A compartment in its helmet opens, revealing an 8”-tall cavity. Inside the cavity is an extremely rare artifact of ancient Archontean sorcery, one of Caldornia’s ausculatoris (see new monsters). This ausculator has the personality of Hamil the Southron, and was 
-
-Behind the doorway on the western edge of the south wall lies a collapsed corridor. Amid the rubble is a forgotten sack of adventuring gear: two coils of rope, six flasks of oil, a set of caltrops, and a potion of healing. The other broken hallways behind the doors on the north and south walls contain nothing of interest.
+* This long hallway was an important connecting link for the Archontean areas of Level 8.
+	* Despite seismic activity over the past millennium the hall itself is still in good shape.
+* The hallway is 15’ tall, with sixteen 3’-diameter columns supporting the roof. 
+	* Each is carved as an Archontean legionary (banded mail, hoplite helmet, spear, gladius), with remnants of paint are here and there.  They face different directions.
+	* One of legionary columns (‘A’ on the map) has a 8" compartment in its helmet.
+		* Inside is an extremely rare artifact of ancient Archontean sorcery, one of Caldornia’s ausculatoris (new monsters). This one has the personality of ==Hamil the Southron==.
+* Behind the doorway on the western edge of the south wall lies a collapsed corridor.
+	* Amid the rubble is a forgotten sack of adventuring gear: 2 coils of rope, 6 flasks of oil, a set of caltrops, and a potion of healing.
+* The floor is dusty, but bare human footprints come and go towards area 8-83 (made by Olaf in 8-73).
 
 Hamil the Southron (as an ausculator)
-one of the main spies of the Archontean forces in Arden Vul more than 1,500 years ago. 
-Hamil has grown insane from his long imprisonment, and proves a dangerous temporary ‘ally’. He greets any rescuer with respect, referring to him/her as ‘guv’nor’ in heavily accented Archontean and offering his services. After 2-12 days, however, Hamil attempts to flee after stabbing his primary ‘guv’nor’ in the eyes while he/she sleeps. 
+* One of the main spies of the Archontean forces in Arden Vul more than 1,500 years ago.
+* Hamil has gone insane from long imprisonment, proving a dangerous temporary ‘ally’.
+	* He greets any rescuer with respect, referring to him/her as ‘guv’nor’ in heavily accented Archontean and offering his services.
+	* After 2-12 days, however, Hamil attempts to flee after stabbing his primary ‘guv’nor’ in the eyes while they sleep. 
 
 Hamil the Southron, one of Caldornia’s ausculatoris (see new monsters): SZ S; AL LE; AC -1; MV 60’; HD 3; HP 18; #AT 3/2; Dmg 1-4/1-4; MR 25%. Special attacks: attack as 7th-level fighter. Special defenses: permanent silence; immune to fire, cold, lightning, hold, charm, and mind-affecting spells.
 
@@ -1856,13 +1857,21 @@ The Forge of Zhorak should reveal the origin and nature of the doppelgangers.
 
 ### 8-87: Coal Seam
 
-The rich seam of coal found here was mined by Zhorak in antiquity in order to fuel his forge (8-100). The walls are uneven, with indentations, multiple 3’ mini-tunnels, and so forth. A thick layer of coal dust coats everything, including two stone dwarves apparently frozen in the act of wielding mining picks. The two dwarves are perfect in every respect – enough so that viewers might assume they had been petrified by a basilisk. In fact, the dwarves are constructs, built by Zhorak in his forge and known as Zhorak’s miners (see new monsters).
+* The rich coal seam here was mined by Zhorak in antiquity to fuel his forge (8-100).
+	* The walls are uneven, with indentations, multiple 3’ mini-tunnels, and so forth.
+	* A thick layer of coal dust coats everything.
+		* The coal dust makes any use of fire extremely dangerous (25% per open flame per turn of an explosion for 6d6 to all in the chamber).
+	* Two ==stone dwarves== appear frozen in the act of wielding mining picks.
+		* They are perfect in every respect, enough that one might assume they had been petrified, but they are Zhorak’s miners (new).
 
-Close examination of the two dwarves reveals two hints as to their nature: a thin slot in their sides, under the left arm, and faces that are a bit too smooth and idealized to be real. Inside the slot of each is a depleted rudishva lesser power supply (see new technological items). Should a full lesser power be inserted into one of Zhorak’s miners, it will lurch into activity, attempting to complete its mining tasks. Interfering with a miner causes it to attack, at least until the nuisance(s) have retreated.
+* (10% / turn) the huldugritti from 8-92 (new) visits this cave.
+	* When first encountered, huldugritti are always in spirit form. 
 
-Given the coal dust on the floor, any use of fire in this chamber is extremely dangerous. Open flame (torches, etc.) has a 25% chance per turn to cause a coal explosion that inflicts 6-36 HP damage on any persons within the chamber. Fire spells produce similar effects.
-
-For every turn the PCs are present there is a non-cumulative 10% chance that the huldugritti from 8-92 (see new monsters) decide to visit this cave. When first encountered, huldugritti are always in spirit form. 
+Zhorak's Miners
+* Constructs built by Zhorak.  They are "dwarves" in imitation of the form of Ptah.
+* Close examination reveals: a thin slot in their sides, under the left arm, and faces that are a bit too smooth and idealized to be real.
+	* Inside the slot of each is a depleted lesser power supply (tech).  If replaced, it lurches back into mining activity.
+	* Interfering with their work causes it to attack, until the nuisance(s) have retreated (an order due to Sortian sabotage attempts; the construct grates out warnings to the effect and calls for guards "Sortian interference!" etc).
 
 2 Zhorak’s miners (see new monsters): SZ S; AL N; AC 2; MV 60’; HD 5; HP 35, 24; #AT 1; Dmg 2-8. Special defenses: immune to fire, cold, and mind-affecting spells. 
 
@@ -1968,6 +1977,9 @@ Spell Book: Alarm, charm person, detect magic, feather fall, floating disk, frie
 * A whirlwind of parchment litters the chamber; result of frantic efforts to clear out as the city fell.
 	* Most is useless. 1 in 6 per turn of searching to make an interesting find. 
 
+* There are numerous posters and pamphlet screeds (Mithric) denouncing the foul Sortians and exhorting Zhorak's apprentice-priests not to heed their blandishments the way some in other priesthoods have.
+
+
 D6 Parchment Notes (each once)
 
 1
@@ -2004,45 +2016,63 @@ The formula reduces the amount of arcanum required by 1/4, and the amount of add
 
 ### 8-97: Zhorak’s Retreat and Resting Place
 
-Secret Door: The door is difficult to locate (1 in 8) and opens only by inserting a rounded, 2”-diameter object into a hidden aperture near the floor. A suitable object would be a ring with a correctly-sized stone, such as Zhorak’s ring (see new magic items; currently in 8-115), although any similar object will work. Although the door can be propped open from the inside, it can only be opened from within if the true Zhorak’s ring (8-115) is used from within; otherwise, intruders will be trapped once the door closes in an hour.
+* Secret Door: difficult to locate (1 in 8), opens by inserting a (true) Ring of Zhorak into a rounded, 2”-diameter hidden aperture near the floor.
+	* The chamber is heavily warded against scrying, teleportation, and attempts to breach it by magic or might.
 
-The chamber is only 6’ tall and undecorated. Stone ledges 3’ tall run along the walls of the chamber. In the center is a sunken area, 10’ below the level of the floor. The sunken area contains a rope bed stretched across the west end of the area, plus a water barrel and a wooden chest. The ledges are scattered with scraps of metal, empty potion bottles, and unfinished projects. The true treasure of Zhorak, however, is Zhorak’s hammer (see new magic items); it rests on a special rack by the west wall.
+* The chamber is undecorated.
+	* Stone ledges run along the walls, scattered with scraps of metal, empty potion bottles, and unfinished projects.
+		* Slippers of stealth (new), bits of precious metals and gems (350 gp), a beautiful white and yellow gold ring with a 2” jade stone (1,750 gp).
+	* In the center is a sunken area, 10’ below the level of the floor.  It contains a drafting table, water barrel, and wooden chest.
+	* Zhorak’s hammer (new) rests in a special rack by the west wall.  The finely carved seal matrix (the Seal of Zhorak, 350 gp) rests in a special niche in the wall beside it.
+		* The seal can be used to activate advanced features of the forge (8-100).
 
-A dwarven corpse, desiccated but not visibly damaged, rests on the rope bed. On the wall by the bed, in Dwarven Runic, is scrawled the phrase “Burn me!”. The corpse wears a finely carved seal matrix on a silver chain (50 gp) around its neck, and an elaborate copper-and-silver bracelet on its left wrist. These objects are the seal of Zhorak, which may be used to activate advanced features of the forge (8-100), and Zhorak’s bracelet (see new magic items), which allowed him to control his miners. The corpse is Zhorak, who was deceived in the early years (1701 AEP) of the War of Sortians and Theosophs (see World of Archontos appendix) 
-by his assistant, Lozor Hornfels, and died slowly of starvation in his own sanctum. Zhorak’s spirit (see new monsters) haunts the place as a malign entity, eager to take vengeance on any of the living.
+* The desiccated human corpse of Zhorak, in the leather-aproned regalia of Ptah, leans against the wall.  An ancient slick of blood shows where he crawled there.
+	* He holds a roll of parchment in one hand, ==Zhorak's last testament==.
+	* An elaborate copper-and-silver bracelet encircles his left wrist (Zhorak’s bracelet, new), which allowed him to control his miners.
+	* A gold and platinum holy symbol of Ptah hangs around his neck (1000 gp).
 
-GM Note: Lozor Hornfels (see 8-115) smithed a replica of Zhorak’s ring in secrecy. He managed to switch the two rings, hoping to gain power or influence by possession of the ring. When Zhorak entered his sanctum using the false ring, he became trapped within. As no one else knew the location of the sanctum, Zhorak slowly died; Lozor, afraid of retribution, fled but was slain in the cavern of 8-115.
+* Zhorak died in the early years (1701 AEP) of the War of Sortians and Theosophs.
+	* The doppelgangers slipped from his control and began killing priests of Ptah and destroying his works.
+	* One replaced his chief assistant, and when his back was turned, stabbed him with a poisoned dagger.  He was able to kill the doppelganger when it tried to loot his ring and seal.
+	* The poison, made from doppelganger blood, nullified his Ptah magics, so he was unable to cure himself.  He crawled to the hidden retreat and sealed himself in so the seal, ring, and hammer could not be taken.
+
+* Zhorak’s spirit ( new) haunts the place as a malign entity, venting his rage and sorrow upon any who encounter it.
+
+Zhorak's Last Testament (Mithric)
+* I, Zhorak, master-artifex of Arden Vul and high priest of Ptah, have profaned the Maker's blood and his works.  I used the pa'ut to craft shapeshifting spies with whom I imagined I could root out the Sortians and restore order.  In my hubris, I imagined the Maker's craft was enough.  The homunculi (goblins) were given the wisdom of Thoth and the life-giving grace of Isis as well.  Without those, I have made only cunning, soulless abominations.  They deceived me into thinking I controlled them, and now they devour the essence of the Maker to breed more of themselves, hunting priests, desecrating temples, and destroying our glorious works.  I too am struck down, by the one who stole my chief apprentice's face.  A poison I cannot cure runs in my veins. I have come here to the Retreat to hide away my hammer, ring, and seal, so at least they will not have those.  I can only beg of Ptah, if he will still hear that much from me, that they do not obtain my forgemaster's copy of the ring.  This is a fitting punishment for my folly.  Ma'at will not welcome me.
 
 Zhorak, undead spirit (see new monsters): SZ M; AL NE; AC 1; MV 120’ flying (Class A); HD 9; HP 61; #AT 1; Dmg 3-12; MR 75%. Special attacks: energy drain; gaze instills hunger. Special defenses: +1 or better weapons to hit; immune to sleep, charm, hold and cold; cannot be turned while remains are intact.
 
-Treasure:
-Zhorak’s hammer (see new magic items); the seal of Zhorak (350 gp); Zhorak’s bracelet (see new magic items); a beautiful white and yellow gold ring with a 2” jade stone, i.e., the false ring of Zhorak (1,750 gp); assorted scraps of precious metal and stones (350 gp total); slippers of stealth (see new magic items); and Zhorak’s inert dwarven life-stone (see new magic items), which, due to his fame, would bring a reward of 10x its normal value if returned to Kazildor.
-
 ### 8-98: Zhorak’s Quarters
 
-This chamber served as Zhorak’s private sanctum and living space. A patch of living mosaic (see new magic items) is set into the north wall; it is covered by a tattered bit of hanging cloth. This particular specimen is unusual, as it can call up images of most of the Archontean locations in the halls, provided the speaker issues commands in Dwarvish. It is possible to ‘zoom’ in on the mosaic by saying ‘closer’ in Dwarvish. The following table summarizes areas that may be viewed: 
+* This chamber was Zhorak’s private sanctum and living space.
+	* A patch of living mosaic (new) set in the north wall is covered by a tattered bit of hanging cloth.
+		* It show images of most of the Archontean locations in the halls (see below), when ordered in the secret tongue of Ptah. It can ‘zoom’ by saying ‘closer’.
+	* The east wall features a fresco of an underground grotto with pools, stalagmites, stalactites, flowstone in various colors, and so forth.
+		* This is the famous Grotto of Contemplation in what is now the Forgehold of Kazildor.  Speaking "Home" in the secret tongue of Ptah opens a portal to the Grotto, a fact known only to Zhorak himself.
+	* Furniture includes a bed frame, an armoire, a scroll case, a table and three chairs, all exquisitely made out of teak (2,500 gp for the lot).
+		* Long strips of torn bedclothes litter the area; almost all personal items were looted in antiquity. 
+	* There is a hidden compartment cleverly concealed on the table's underside.
+		* Inside: parchments
+			* Some a reports from the Drome about the spread of Sortian sympathies given to the high council of Arden Vul, letters exhorting the archon and other priests to take more drastic measures to stamp this out.
+			* A number of working notes discuss complex bio-alchemy involving pa'ut, the blood of octopi, techniques from the creation of Thothian heads (and notes cursing Kel Bormol for not agreeing to cooperate on this project; maybe Hithra will be more ammenable?), botany of eye-openers (sense-enhancing), mind eaters (cause insanity), and whispering fungus (mildly sentient), infused with arcanum.
 
-Level Viewable Areas
-Level 1 All
-Level 2 All except areas 2-39 to 2-41 and 2-47 to 2-56
-Level 3 All except areas 3-51, 3-111 to 3-116, 3-166 to 3-171, 3-180 to 3-192, 3-196, and 3-198 to 3-220
-Level 4 All except areas 4-63 to 4-100, 4-112 to 4-118, 4-151, 4-165, 4-166, 4-172 to 4-176, 4-178, 4-179, 4-182 to 4-186, 4-1888 to 4-190
-Level 5 Only areas 5-2, 5-6 to 5-14, 5-18 to 5-31, 5-41, 5-42, 5-53 to 5-56, 5-63 to 5-72, and 5-76 to 5-83
-Level 6 Only areas 6-1 to 6-15, 6-18, 6-19, 6-41 to 6-44, 6-50, 6-52, 6-53, 6-55 to 6-59, 6-61 to 6-95, 6-136 to 6-145, 6-147 to 6-160
-Level 7 Only areas 7-119 to 7-133, and 7-136
-Level 8 Only areas 8-1 to 8-21
-Level 9 Only areas 9-98 and 9-100 to 9-107
-Sub-Level 2 Only area SL2-1
-Sub-Level 3 Only areas SL3-2 to SL3-11
-Sub-Level 4 All except areas SL4-1, SL4-2, SL4-4, SL4-21, SL4-28 to SL4-32, SL4-39, SL4-41, SL4-42, SL4-46, SL4-50, SL4-56, and SL4-61 to SL4-63
-Sub-Level 6 Only areas SL6-1, SL6-2, SL6-5 to SL6-11, SL6-24 to SL6-30, SL6-32 to SL6-37, SL6-39
-Sub-Level 7 All except SL7-9A, SL7-36, and SL7-37
-Sub-Level 8 Only areas SL8-16 to SL8-24
-
-The east wall features a fresco depicting an underground grotto – with pools, stalagmites, stalactites, flowstone in various colors, and so forth. An expert spelunker or dwarf will notice subtle touches of carving and shaping of the features of the grotto; in fact, the fresco is a scene from the famous (to dwarves) Grotto of Contemplation in Kazildor (see World of Archontos appendix). Dwarven PCs from that center of dwarven culture will recognize it immediately; others may just see the fresco as a dim, somewhat inert cavern-scape. Detect magic reveals that the fresco is enchanted. Those who know the command word (“Home” in Dwarvish) can use the fresco to travel directly to the Grotto by literally stepping into the 
-scene. Knowledge of the command word was limited to Zhorak himself; short of random guessing, the word can only be revealed by powerful planar or divine magic.
-
-Other than these features, the chamber is mundane. Furniture includes a bed frame, an armoire, a scroll case, a low table and three dwarf-sized chairs, all exquisitely made out of teak (2,500 gp for the lot). Long strips of torn bedclothes litter the area, and almost all personal items were looted in antiquity. Careful inspection of the table reveals a hidden compartment cleverly concealed on its underside. Inside the compartment is a square of parchment that reveals Zhorak’s doubts about his 2nd Tapper, Lozor Hornfels. It reads, in Dwarvish: “In case of my disappearance, Second Tapper Hornfels will undoubtedly be found to be responsible. He has been sniffing about my secrets for too long now. The color of his stone is off. As yet he does not know of my sanctum. Seek it to the southwest, and bring the true ring.” It is signed with the distinctive seal of Zhorak. The note refers to area 8-97, and to Zhorak’s (correct) suspicions that Lozor would betray him. Lozor’s body may be found at 8-115.
+Areas Viewable by Mosaic
+* Level 1 All
+* Level 2 All except areas 2-39 to 2-41 and 2-47 to 2-56
+* Level 3 All except areas 3-51, 3-111 to 3-116, 3-166 to 3-171, 3-180 to 3-192, 3-196, and 3-198 to 3-220
+* Level 4 All except areas 4-63 to 4-100, 4-112 to 4-118, 4-151, 4-165, 4-166, 4-172 to 4-176, 4-178, 4-179, 4-182 to 4-186, 4-1888 to 4-190
+* Level 5 Only areas 5-2, 5-6 to 5-14, 5-18 to 5-31, 5-41, 5-42, 5-53 to 5-56, 5-63 to 5-72, and 5-76 to 5-83
+* Level 6 Only areas 6-1 to 6-15, 6-18, 6-19, 6-41 to 6-44, 6-50, 6-52, 6-53, 6-55 to 6-59, 6-61 to 6-95, 6-136 to 6-145, 6-147 to 6-160
+* Level 7 Only areas 7-119 to 7-133, and 7-136
+* Level 8 Only areas 8-1 to 8-21
+* Level 9 Only areas 9-98 and 9-100 to 9-107
+* Sub-Level 2 Only area SL2-1
+* Sub-Level 3 Only areas SL3-2 to SL3-11
+* Sub-Level 4 All except areas SL4-1, SL4-2, SL4-4, SL4-21, SL4-28 to SL4-32, SL4-39, SL4-41, SL4-42, SL4-46, SL4-50, SL4-56, and SL4-61 to SL4-63
+* Sub-Level 6 Only areas SL6-1, SL6-2, SL6-5 to SL6-11, SL6-24 to SL6-30, SL6-32 to SL6-37, SL6-39
+* Sub-Level 7 All except SL7-9A, SL7-36, and SL7-37
+* Sub-Level 8 Only areas SL8-16 to SL8-24
 
 ### 8-99: Gallery of Goods
 
@@ -2053,75 +2083,94 @@ Other than these features, the chamber is mundane. Furniture includes a bed fram
 
 ### 8-100: The Forge of Zhorak
 
-The legendary forge of Zhorak is found in this tall (30’) chamber. The walls are sheathed in red granite up to 20’ in height, while the domed ceiling is covered in white marble tiles. A continual light spell cast at the peak of the dome provides light. Colossal (18’ tall) statues of dwarven smiths flank both the eastern and western exits. The dwarves carry the same tools as the statues in area 8-95 (hammer, tongs, fuller and swage) and are carved such that they stare at the forge proper. The north wall carries a colossal carved face of a dwarf, one that visitors always assumed to be in the likeness of Zhorak himself.
+* The legendary forge of Zhorak is found in this chamber.
+	* The walls are sheathed in red granite up to 20’ in height, while the domed ceiling is rises to 30', covered in white marble tiles, a Continual light shining from the peak.
+	* Colossal (18’ tall) statues of Ptah smith-priests flank the eastern and western exits.
+		* They carry the same tools as the statues in 8-95 (hammer, tongs, fuller and swage) and are carved to stare at the forge proper.
+	* The north wall carries a colossal carved face of Ptah.
+	* The center of the chamber holds an x-shaped stone basin with rancid water, two anvils, a bellows, a bin of pile of lava rocks, and a glowing, white-hot ==forge==.
+		* The basin and forge are constructed of blocks of red granite, 3’ tall and carved with geometric forms and hieroglyphs. 
+		* An eye of Ptah is carved on the north side of the forge, its pupil about 6" across and indented.
 
-The center of the chamber holds the elements of the forge: an x-shaped stone basin with rancid water, two anvils, a bellows, a bin containing a pile of lava rocks, and a glowing, white-hot forge. 
+* A pair of fresh corpses of human adventurers, slain by weapons, are piled against the northeast wall.
+	* Studded leather armor +1, a suit of chain mail, a spear +1, a two-handed sword +1 with the name ‘Rex’ inscribed on the blade, and a large shield +1, missile deflector.
 
-Ten dwarves currently occupy the chamber. They are dressed in chain mail and carry weapons, and are busy inspecting the forge apparatus (although they do not appear to be operating it). See below for their reactions to visitors. GM Note: the dwarves are actually doppelgangers, a strike-force of special operatives taking part in the Endless War between dwarves and doppelgangers.
+* Ten dwarves (actually ==doppelgangers==) are cautiously inspecting the forge apparatus.
+	* All wear inert lifestones.
+	* Their baggage is piled nearby.
+		* Various adventuring supplies (3 coils of silk rope, oil, rations, etc)
+		* 3,472 sp; 3,954 gp; a coral statuette of a cephalopod, with quartz eyes (350 gp)
+		* potions (2x poison; diminution), 6 vials of concentrated acid.
+		* The map to Zhorak’s Forge
+			* A rec-tangular piece of copper inscribed with an image (the map) and a set of hieroglyphs (tongue of Ptah): ‘Master Zhorak made his home near the bottom of the chasm. Find the hall with the six basalt columns, then use the appropriate red circle.’ The image shows two rows of four circles each; the third circle in the top row has an ‘x’ scratched through it.
+			* GM Note: this refers to 8-7, with its six pillars and eight teleportals. It correctly indicates the proper teleporter for Zhorak’s Forge (8-7C). 
 
-A pair of fresh corpses of human adventurers are piled against the northeast wall. They have been slain by weapons, and still bear some of their equipment.
+The Forge after Initial Encounters
+* If the doppelgangers have free reign in the forge, Ljots will eventually destroy it.
+* Subsequent visits find the forge wrecked and cold; scorched by the passage of the fire elemental.  Pa'ut splotches mark where the iron golem slew several doppelgangers.
+* The iron golem is ready and waiting to smite any new desecrators.
 
-Using the Forge: Basics
-
-The solid elements of the forge – the basin and forge itself – are constructed of blocks of red granite, 3’ tall and carved with geometric forms and Dwarven Runes. A helmeted dwarven face is carved on the north side of the forge, with its mouth open in a round ‘o’ about 6” in diameter. 
-
-The interior of the forge consists of a steel tray set into the granite. Scores of lava rocks litter the tray. Both tray and rocks are red hot with heat. Close inspection reveals that the tray is hinged, and could probably be opened downward once the mechanism were discovered. Inflicting 25 HP of damage on the tray will break it, spilling the rocks into the larger cavity below, a cavity in which a huge fire elemental has been imprisoned for millennia. Breaking 
-the tray releases the fire elemental, which will attack furiously for 3-6 rounds before departing to the elemental plane of fire. 
-
-In its base configuration (closed tray with lava rocks), the forge is eminently usable, provided suitable tools and materials are located (e.g., those in 8-101) and the water in the basin replaced. 
-
-But to achieve more potent effects such as those for which Zhorak was famous, it is necessary to access the inner workings of the forge. To do so, one must procure Zhorak’s seal (8-97) and place it in the open mouth carved on the north side of the forge. Doing so causes the metal grate to fall open, revealing a deeper forge fueled by the fire elemental. Placing any other object in the open mouth activates the iron golem at 8-100A, which crashes through the wall to defend the forge. 
-
-Using the Forge: Special Properties
-
-What follows are special rules that modify and in some cases replace the standard rules for enchanting objects. Regular metallic equipment and jewelry may be imbued with magical effects in one of two ways. The first is for a competent smith to locate Zhorak’s hammer (see new magic items; currently in 8-97), a potent magical item that allows the smith to impart certain spell effects into his craft. It should be noted that, while slightly more limiting in terms of possible magical effects, this method is far easier and was, in fact, how Zhorak himself operated. Method one requires the following: arcanum (see new magic items), Zhorak’s hammer, and the appropriate items to be enchanted. The time needed for enchanting is a minimum of a week per effect (or plus). Any effects created with Zhorak’s hammer are permanent. Each effect requires a certain amount of arcanum be added to the forge during the smithing process. Finally, the materials to be enchanted must be of the highest quality, and the smith must be above average in skill; those with no smithing experience will fail dismally. For the effects that may be enchanted, as well as the accompanying arcanum cost, see the write-up of Zhorak’s hammer in the new magic items section.
-
-The second method is more laborious, costly, and time-consuming, but allows a wider variety of magical effects to be enchanted. For method two, a smith and a magic user of at least 12th level (or a smith who is also a magic user of that level) must work together over the forge. The pair must possess the following: an object to be enchanted, arcanum, the spell enchant an item, the spell(s) appropriate to the effect to be created, and other 
-ingredients worth 250 gp per level of spell to be created. This method requires substantial amounts of arcanum: 10 lb per spell level or plus to be created (e.g., 10 lb for a dagger +1; 20 lb for a detect evil ring, etc.). The time required for enchantment is two weeks per plus or equivalent spell level. Of course, to create permanent items the magic user must be higher level and have access to the 8th-level spell, permanency. 
-
-It is possible to combine methods one and two, that is, for a smith to use Zhorak’s hammer in conjunction with a magic user of appropriate level. In so doing, one can create a wider array of effects than those native to the hammer itself, but at a faster and cheaper rate than if the hammer were not used. The cost and time for enchantment is halved when the hammer is used during method two.
+The Forge
+* The interior of the forge consists of a steel tray set into the granite, littered with lava rocks.  Both tray and rocks are red hot.
+	* The tray is hinged, and can swing downward.
+		* It can be forced (25 damage), breaking it, spilling the rocks into the cavity below and releasing the huge fire elemental bound there for millennia.  It roars out, attacks for 1d4+2 round, then departs to the elemental plane of fire.
+	* The forge can be used like a normal forge in this state.
+* Placing the seal of Zhorak in the pupil of the Eye of Ptah activates the forge's inner workings and ==special properties==.
+	* The metal grate falls open, revealing the deeper forge fueled by the fire elemental.
+	* Placing any other object in the open mouth activates the iron golem (8-100A), which crashes through the wall to defend the forge.
 
 The Doppelgangers
 
-Ljots, a doppelgangers of exceptional power and intelligence, leads the expedition. His mission was to locate the forge of Zhorak, loot it of any valuables and intelligence usable in the Endless War, and then destroy it. The team has been operating in Arden Vul for 
-many months, but only recently managed to ambush a dwarven party with a map to area 8-7; they have just used the teleportal there to access the forge. They have scouted areas 8-95 to 8-96 and 8-98 to 8-104, but have not (yet) entered the mines (8-94). Neither have they located areas 8-97 or 8-100A. While Ljots is content with his success in finding the forge, the other members of the team are growing restive, as they have become worried about how they will escape from the forge once their mission is completed. Ljots is unaware that other doppelgangers have infiltrated the Guild of Service (see 4-10).
+* Ljots, a doppelgangers of exceptional power and intelligence, leads the expedition.
+	* They are on the cusp of feeding upon the heart of Ptah's power in Arden Vul, but hesitate to tamper with the forge.
+	* Without the seal, they can't fully awaken its power to devour.  They hope to obtain the seal, but don't know where it is.
+	* They suspect tampering with the seal-receptacle will trigger some retribution, so they are not yet messing with it, trying to hack it.
 
-The shape-changers are not necessarily hostile when encountering PCs. Ljots introduces himself as Arkose Scoria, a member of the famous clan Scoria. He speaks good Dwarvish and the common trade argot, but little Archontean; he apologizes that his brothers are nervous around non-dwarfs and thus probably won’t reply to questions. His cover story is that he has been sent by the Pyrite Council of Kazildor to locate Zhorak’s old forge and, hopefully, 
-his remains; ‘Arkose’ is also to evaluate the risks and rewards for establishing a new dwarven colony in Arden Vul. He explains that the human corpses are of bandits who tried to prevent the ‘dwarves’ from reoccupying what should be dwarven property.
+* This group of doppelgangers recently managed to ambush a dwarven party with a map to 8-7, and have just used the teleportal there to access the forge.
+	* They have scouted 8-95 to 8-96 and 8-98 to 8-104, but have not (yet) entered the mines (8-94). Neither have they located 8-97 or 8-100A. 
 
-Ljots wears a silver chain around his neck of the sort typical for a dwarven life-stone (see new magic items), but if it were possible to look at the stone (and it is a serious cultural insult to ask to see a dwarf ’s life-stone), it would instantly be apparent that the stone is inert and thus not connected to the life force of Arkose/Ljots. Three of the other doppelgangers speak Dwarvish and wear similarly inert life-stones tucked into their shirts. The other six speak no Dwarvish and have no life-stones.
+* Ljots introduces himself as Arkose Scoria and they pretend to be dwarven explorers.  He plays up their taciturn insularity to shut down excessive inquisitiveness.
+	* These corpses were adventurers who did not respect dwarven claims upon the forge.
 
-If an adventuring party has no dwarves in it, Ljots and his companions will be much more at ease, as they feel confident their disguises are sufficient to fool non-dwarves. In such cases, the doppelgangers may share food and swap stories and maps with the PCs, hoping that the PCs will locate an exit from the area. Only if a non-dwarven party is aggressive or exceptionally stupid (like sleeping without guards) will the doppelgangers attack. If a party 
-contains dwarven PCs, however, Ljots and his band will become visibly nervous the longer the PCs stay in the area. A dwarven PC has a base 10% chance of noticing some incorrect detail of their speech or disguises; this chance rises by 5% for every hour the PCs spend with the shapeshifters. The base chance is also modified as follows: +25% to base if PCs somehow learn that a number of the ‘dwarves’ speak no Dwarvish; +75% to base if a PC manages to glimpse one of the inert life-stones; +50% to base if a PC is familiar with the Scoria clan, and +100% if a dwarven PC is a member of that clan. Once the doppelgangers think that the PCs 
-are beginning to grow suspicious, they attack viciously. If combat of any sort breaks out, Ljots uses his potions of rock melting (see new magic items) on the forge, thus unwittingly causing the iron golem (8-100A) to activate.
+* They seek to allay fears and get intruders to move on.
+	* If nosy or extremely vulnerable, they may eventually attack.
+	* If there are dwarves in the party, they will be far more on edge and likely to attack.
+* If combat breaks out, Ljots uses his potions of rock melting (new) on the forge, thus unwittingly causing the iron golem (8-100A) to activate.
 
-The Iron Golem (8-100A)
-Zhorak created the iron golem as the main defender of his forge. It waits behind the stone wall at 8-100A until circumstances cause it to activate and burst through the wall. See 8-100A for details.
+Using the Forge: Special Properties
 
-The Forge after Initial Encounters
-If the PCs never discover the nature of Ljots and his fellows and depart in peace, then Ljots will eventually accomplish his mission and destroy the forge. Subsequent visits will find the forge wrecked and cold; substantial scorch marks (from the fire elemental) will be visible all over the area, and the corpses of eight doppelgangers will be scattered about the floor (torn apart by the iron golem). In such cases the iron golem will be ready and waiting to smite any 
-new desecrators.
+* Regular metallic equipment and jewelry may be imbued with magical effects in two ways.
+	* A capable smith with Zhorak’s hammer (new; currently in 8-97), mundane materials of the highest quality, and a supply of arcanum can craft magical items (see hammer's writeup; min 1 week per effect or plus of enhancement bonus).
+	* A smith and 12th level mage/priest working together (or a smith who is also a caster) can also make use of the forge.
+		* The mage needs the spell Enchant an Item, the spell to be imbued, 250 gp and 10 lb of arcanum per level of spell (or plus) to imbue.  2 weeks per spell level / plus.  Permanency is needed to finish the item.
+			* Having Zhorak's Hammer halves the arcanum needed.
 
 1 fire elemental: SZ L; AL N; AC 2; MV 120’; HD 16; HP 114; #AT 1; Dmg 3-24. Special attacks: combustion. Special defenses: +2 weapons or better to hit.
 
+
 Ljots, aka Arkose Scoria, more powerful doppelganger: SZ M; AL N; AC 2; MV 90’; HD 8; HP 52; #AT 1; Dmg 7-14 (battle axe +2) or 3-6 (light crossbow +2). Special attacks: surprise 4 
-in 6. Special defenses: immune to charm and sleep; saves as a 10th-level fighter. Special: ESP. Possessions: dwarven-sized chain mail +2; helm of comprehend languages; a handy haversack; 4 potions of rock melting (see new magic items); a light crossbow +2 and 20 bolts; and a battle axe +2. Due to his natural doppelganger strength, he attacks with weapons like a human with STR 18/76 (i.e., +2 to hit, and +4 damage); these bonuses stack with the magic of his weapons.
+in 6. Special defenses: immune to charm and sleep; saves as a 10th-level fighter. Special: ESP.
+* Possessions: dwarven-sized chain mail +2
+* helm of comprehend languages
+* a handy haversack
+* 4 potions of rock melting (see new magic items)
+* a light crossbow +2 and 20 bolts
+* a battle axe +2
+	* Due to his natural doppelganger strength, he attacks with weapons like a human with STR 18/76 (i.e., +2 to hit, and +4 damage); these bonuses stack with the magic of his weapons.
 
-9 doppelgangers: SZ M; AL N; AC 5 or see below; MV 90’; HD 4; HP 25, 24, 23, 22; #AT 1; Dmg 1-12 or see below. Special attacks: surprise 4 in 6. Special defenses: immune to charm and sleep; saves as a 10th-level fighter. Special: ESP. The three toughest doppelgangers wear dwarven-sized chain mail, giving them AC 4; these three also carry war hammers +1 (6-9 damage). Due to their natural strength, they are +2 to hit and +3 to damage with weapons (bonuses stack with the magic of the weapons). The other doppelgangers fight as regular instances of their race.
-
-Treasure:
-On the human corpses: studded leather armor +1, a suit of chain mail, a spear +1, a two-handed sword +1 with the name ‘Rex’ inscribed on the blade, and a large shield +1, missile deflector.
-
-In a special pouch tied to Ljots’s belt: 4 potions of rock melting (see new magic items). He intends to use these four to destroy the forge.
-
-On the doppelgangers, in addition to the worn equipment listed above: four inert dwarven life-stones (see new magic items), which could be returned to Kazildor for important favors; 3,472 sp; 3,954 gp; a coral statuette of a cephalopod, with quartz eyes (275 gp); a square of platinum stamped on both sides with the name ‘Ljots’ and yin-yang symbol (75 gp); 3 coils of silk rope; rations suitable for feeding ten persons for a week; two potions of poison; a potion of diminution; and six vials of concentrated acid.
-
-They also have the map they used to locate Zhorak’s Forge: a rec-tangular piece of copper inscribed with an image (the map) and a set of Dwarven runes. The runes state: ‘Lord Zhorak 
-made his home near the bottom of the chasm. Find the hall with the six basalt columns, then use the appropriate red circle.’ The image shows two rows of four circles each; the third circle in the top row has an ‘x’ scratched through it. [GM Note: the map refers, of course, to area 8-7, with its six pillars and eight teleportals. It correctly indicates the proper teleporter for Zhorak’s Forge (8-7C)]. 
+9 doppelgangers: SZ M; AL N; AC 5 or see below; MV 90’; HD 4; HP 25, 24, 23, 22; #AT 1; Dmg 1-12 or see below. Special attacks: surprise 4 in 6. Special defenses: immune to charm and sleep; saves as a 10th-level fighter. Special: ESP.
+* The three toughest doppelgangers wear dwarven-sized chain mail, giving them AC 4; these three also carry war hammers +1 (6-9 damage).
+	* Due to their natural strength, they are +2 to hit and +3 to damage with weapons (bonuses stack with the magic of the weapons).
+	* inert dwarven life-stones (new), could be returned to Kazildor for important favors
 
 ### 8-100a: Iron Golem
 
-Behind the northern wall of 8-100 stands a terrible iron golem, the creation of Zhorak the smith. The golem is a bit smaller than the ‘usual’ golem (10’ instead of 12’), but if anything is better built than most. The golem appears as an armored, trim-bearded dwarf with runes incised on its back and a grim, unsmiling face. The runes read ‘Zhorak’ and ‘Vengeance’. The golem carries a huge, two-handed stone hammer. It is inert until one of two circumstances occur: 1) if anything other than Zhorak’s seal is inserted into the open mouth carved on the north side of the forge in 8-100; or 2) if damage is inflicted on any of the sculptural elements of area 8-100 (i.e., the carved dwarven statues) or the forge itself (including breaking the steel tray – see above), whether intentionally or not. In either case, the golem activates, bursting through the south wall to smite the intruders.
+* Behind the northern wall of 8-100 stands a terrible iron golem, the creation of Zhorak the smith.
+	* It appears as a grim aspect of Ptah, with hieroglyphs incised on its back ("Zhorak" and "Vengeance") and a grim, unsmiling face.  It is a bit smaller than the ‘usual’ golem (10’ instead of 12’), but superior.  It carries a huge, two-handed stone hammer.
+
+* It is inert until either condition below is met, at which point it bursts through the south wall to smite intruders.
+	* Anything other than Zhorak’s seal is inserted into the open mouth carved on the north side of the forge in 8-100
+	* Any of the sculptural elements of 8-100 are damaged (i.e., the carved dwarven statues) or the forge itself (including breaking the steel tray), intentionally or not.
 
 1 iron golem: SZ L; AL N; AC 3; MV 60’; HD 18; HP 80; #AT 1; Dmg 4-40. Special attacks: poison gas. Special defenses: +3 or better weapons to hit; immune to all magic except electricity, which slows it; healed by fire.
 
@@ -2174,30 +2223,37 @@ Behind the northern wall of 8-100 stands a terrible iron golem, the creation of 
 
 ### 8-107: Tomb of Sulla Bellator
 
-The door to this area is locked. Within is the tomb of Sulla, nicknamed ‘the Battler’ (or Bellator), a famous Archontean military commander from antiquity.
+* The door is locked.
+* This is the tomb of Sulla, nicknamed ‘the Battler’ (or Bellator), a famous Archontean military commander from antiquity.
 
-The entrance hallway is covered on wall and ceiling by quarter-round reliefs showing an Archontean polemarch personally leading legionaries against goblins, varumani, and heqeti. The commander wears an archaic hair style, with tight, neck-length ringlets. He wields a battle axe in one hand, and displays his baculus of authority in the other.
+* The entrance hallway is covered on wall and ceiling by quarter-round reliefs.
+	* An Archontean polemarch leads legionaries against goblins, varumani, and heqeti.
+	* He wears an archaic hair style, with tight, neck-length ringlets, and wields a battle axe in one hand, displaying his baculus of authority in the other.
+* The tomb proper is 20’ tall.
+	* A life-sized statue of Sulla Bellator stands against the west wall.
+		* Sulla stares with a half-smile and open eyes.
+		* His face and the bottom inch of his hair are finely carved, but the rest of his head is smooth, as if the sculptor did not finish. Same for the body, which aside from the hands and shoes lacks any detail. 
+	* Inscribed (Mithric) on the wall to right and left of the statue: “Sulla Bellator, fiercest of the fierce, bravest of the brave, who always led from the front. Beloved by his men, admired by the archons, he gave his image and spirit to the Myrmex.”
+		* GM: the inscription refers to the fact that Zhorak modelled the infamous Myrmex (SL6-22) on Sulla.
+	* The north and south walls feature more quarter-round sculptures.
+	* The center of the chamber is dominated by a 15’-square platform.
+		* Six 8’-tall stone legionaries (Archontean animated constructs) point their spears towards the center, where Sulla’s simple, basalt ==sarcophagus== rests.
+			* It is inscribed with ‘Sulla’ and an image of a battle axe.
+			* Resting on the sarcophagus are a finely-made polemarch’s helmet and cuirass, along with legionary greaves and arm guards. (the fabled armor of Sulla, new).
 
-The tomb proper is 20’ tall and dominated by impressive sculpture. A life-sized statue of Sulla Bellator stands against the west wall. Sulla stares with a half-smile and open eyes. Strangely, although his face and bottom inch of his hair are finely carved, the rest of his head is smooth, as if the sculptor did not finish his work or did not intend for it to be seen. The same is true of the body, which aside from the hands and shoes lacks any detail. 
-
-An inscription in Mithric is carved on the wall to the right and left of the statue; it reads: “Sulla Bellator, fiercest of the fierce, bravest of the brave, who always led from the front. Beloved by his men, admired by the archons, he gave his image and spirit to the Myrmex.” [GM: the inscription refers to the fact that Zhorak modelled the infamous Myrmex – see SL6-22 – on Sulla.]
-
-The north and south walls feature more of the quarter-round sculptures seen in the entrance hall.
-
-The center of the chamber is dominated by a 15’-square platform. Four 8’-tall stone legionaries point their spears towards the center, where Sulla’s sarcophagus rests. The spearmen are Archontean animated constructs (see new monsters), who animate only under the circumstances listed below. 
-
-The sarcophagus is simple black basalt, with the Mithric inscription ‘Sulla’ and an image of a battle axe. Resting on the sarcophagus are a polemarch’s helmet and cuirass, along with legionary greaves and arm guards. The workmanship of each piece is exceptional, and none of the set shows sign of rust or decay. In fact, the set is magical, the fabled armor of Sulla (see new magic items). Although a seam runs around the sarcophagus and thus appears to suggest that the lid is removable, this is a trick. Attempting to force open the ‘lid’ triggers the block trap and causes the animated spearmen to lurch into action. 
-
-The only way to access the actual interior of the sarcophagus is to adorn the statue of Sulla on the west wall with his armor. Indeed, it is immediately apparent to those who bring the armor to the statue that the ‘unfinished’ portions of the statue are designed for the armor. Should the armor be placed on Sulla, the sarcophagus will grind to the north, revealing a shallow compartment. Inside the compartment are Sulla’s bones, plus his baculus of authority, a sunburst medallion of gold and platinum, and Sulla’s battle axe (see new magic items). Unfortunately for looters, adorning the statue properly also causes the statue of Sulla to animate as an imperial stone guardian (see new monsters). Once “Sulla” has been defeated, the armor and other loot are free for the taking.
-
-Trap (stone block): Attempting to remove the lid of Sulla’s sarcophagus causes a rectangular stone block to drop from the ceiling in the entrance hallway. The block grinds downward, destroying the carvings on the walls and leaving only an 8” gap between the top of the block and the ceiling. The trap is normal to detect, but impossible to disarm.
+Sarcophagus
+* Although a seam runs around the sarcophagus, a trick to suggest that the lid is removable. Attempting to force open the ‘lid’ triggers the trap. 
+	* A rectangular stone block drops from the ceiling in the entrance hallway, grinding down, destroying the carvings and leaving only an 8” gap between the top of the block and the ceiling.
+	* The animated spearmen to lurch into action.
+* If the armor on the sacrophagus is placed on the statue of Sulla:
+	* It animates as an imperial stone guardian (new).
+	* The sarcophagus grinds north, revealing a shallow compartment.
+		* Inside: Sulla’s bones, Sulla’s battle axe (new), an archaic polemarch’s baculus, in ebony with silver chasings (1,550 gp), a sunburst medallion in gold and platinum with the Archontean numeral ‘5’ (a ‘V’) in small rubies (4,500 gp).
+			* The medallion was given to Sulla to commemorate his command of the V Scutarii legion.
 
 6 Archontean animated constructs - spearmen (see new monsters): SZ M; AL N; AC 2; MV 60’; HD 6; HP 45, 40, 38, 37, 35, 33; #AT 1; Dmg 5-10; MR 25%. Special defenses: immune to elemental magic, poison, and mind-affecting spells; +1 or better weapons to hit; half damage from slashing or piercing weapons.
 
 Sulla, the imperial stone guardian: (see new monsters): SZ L; AL N; AC -2; MV 90’; HD 8+3; HP 64; #AT 2; Dmg 3-18/3-18; MR 50%. Special defenses: +2 or better weapons to hit; immune to missiles (including magic missile), fire, cold, mind-affecting spells (e.g. charm), and most immobilizing spells (immune to entangle, hold monster, web).
-
-Treasure:
-The armor of Sulla (see new magic items); Sulla’s battle axe (see new magic items); an archaic polemarch’s baculus, in ebony with silver chasings (1,550 gp to a collector); and a sunburst medallion in gold and platinum with the Archontean numeral ‘5’ (a ‘V’) set out in small rubies (4,500 gp). The medallion was given to Sulla to commemorate his command of the V Scutarii legion.
 
 ### 8-108: Blue Haze Lichen
 
@@ -2218,26 +2274,48 @@ The armor of Sulla (see new magic items); Sulla’s battle axe (see new magic it
 
 ### 8-111: Memory Trap
 
-The floor of this large cavern is pitted with uneven dips and hummocks. Remnants of worked stone floor slabs are evident by the northwest exit. Seven stone figurines hang from strings in the northeastern section of the chamber; each figurine is about 18” tall, with arms and legs twined about an unrealistically-large, gaping mouth. They are painted bright primary colors. Approaching within 15’ of any of the figurines triggers a nasty magical trap (see below) that is set and maintained by the rakshasas nearby (see 8-125). 
+* This area is occluded by a thick cloud of bliss pollen (flora).
 
-Trap (memory loss): Anyone approaching within 15’ of any of the seven figurines must save vs. spells or have his/her memories erased. The trap is detectable as normal, but cannot be disarmed short of magical means (e.g., dispel magic by a 9th-level or greater spell caster). The trap causes the memories to be transferred to one of the empty vessels found in the rakshasas’ ‘trophy room’ (8-126). Each figurine can only erase one being’s memories before 
-becoming inert; six of the figurines are still ‘charged’. Memories that are erased include the victim’s name, life story, friends, recent events, and so forth; anything considered to be ‘passive’ memory, such as language and knowledge of skills (including) combat, is not affected. A magic user affected by this trap thus would be able to memorize spells as usual, provided someone explained the process to him/her. Should PCs attempt to destroy the figurines from a distance with missiles or spells, they find that the figurines are immune to most attacks; only dispel magic (as stated above) is effective. Memories erased by a figurine can be restored by destroying the appropriate vessel in the trophy room. After three weeks, the rakshasas will have recharged any ‘used’ figurines and/or replaced any that have gone missing.
+* The floor of this large cavern is pitted with uneven dips and hummocks.  Remnants of worked stone floor slabs are evident by the northwest exit.
+	* 7 stone ==figurines== hang from strings in the northeastern part of the chamber
+		* Each is ~18” tall, painted bright primary colors, with arms and legs twined about an unrealistically-large, gaping mouth. 
+		* Anyone approaching within 15’ of a figurine triggers its magic.
+	* Secret Door (northeast): opens when a rakshasa tooth is placed into a hidden hole (can bend bars to force).
 
-Secret Door (northeast): The door is normal to detect, and opens in one of two ways: either a rakshasa tooth must be inserted into a hidden hole, or a successful lift gates roll must be made to force it open.
+Figurines
+* When triggered, the victim must save vs spells or have their memories stolen and placed in one of the empty vessels in the rakshasas’ ‘trophy room’ (8-126).
+	* Memories erased include name, life story, friends, recent events, and so forth.  ‘Passive’ memory, such as language and skills (e.g. combat, casting, etc).
+	* Memories can be restored by breaking the appropriate vessel in the trophy room.
+* Can be dispelled as 9th level.
+	* Immune to most magic, and made of very hard, enchanted stone.
+* Each figurine becomes inert after delivering its magic.  Currently 6 are charged.
+	* Figurines will be replaced/replenished by the rakshasas (8-125) within 3 weeks.
 
-GM Note: Most victims of the memory erasing trap end up as food for the rakshasas in 8-125, but a few manage to stumble away to other parts of Arden Vul. Four such victims are Hakreon (currently at 7-76), Kormak (currently at 8-132), Justine Two-Hands (currently at 9-130), and Niskim the goblin (8-114). The GM may wish to include other wanderers who have lost their memory. Note: This area is occluded by a thick cloud of bliss pollen (see new flora).
+* GM Note
+	* Most victims of memory erasure end up as food for the rakshasas in 8-125.
+	* A few manage to stumble away to other parts of Arden Vul.
+		* Hakreon (currently at 7-76)
+		* Kormak (currently at 8-132)
+		* Justine Two-Hands (currently at 9-130)
+		* Niskim the goblin (8-114)
 
 ### 8-112: Paranoid Adventurers
 
-* Put some known, friendly NPC adventurers here, to be freaked out about the party.
+* This chamber is protected by two locked steel doors with closable eye-slits.
+	* Inside, it is foul-smelling. with only a waste bucket, small keg of water, cold fire pit and two bedrolls as furnishings.
+	* In his madness, Laertes has scrawled numerous cryptic phrases on the walls (Archontean): “They come! They come? Who are they? Latch the gate and do not let them in. Dwarves aren't real, they change their shape when you're not looking!”
 
-This strange worked chamber is protected by two locked steel doors with closable eye-slits. Inside are two adventurers who have lost their minds in the bliss pollen. The pair has holed up inside the chamber, fearful of the imaginary threats they perceive without. They talk furtively to any visitor through the eye-slit in either door before inevitably freaking out in a loud and possibly violent tantrum. Any conversation prior to the freakout is likely to be 
-paranoid and weird. If the adventurers are somehow subdued and allowed to recuperate in a safe environment for 3-6 weeks, they are grateful to their rescuers and offer information about their route into the Halls. 
+* Inside are two adventurers who have lost their minds in the bliss pollen.  Their comrades are gone.
+	* The pair has holed up here, fearful of the imaginary threats they perceive without.
+	* They talk furtively to any visitor through the eye-slit before inevitably freaking out in a loud and possibly violent tantrum.
+		* Any conversation prior to the freakout is likely to be paranoid and weird.
+	* If somehow subdued and able to recuperate in safety for 3-6 weeks, they are grateful to their rescuers and offer information about their route into the Halls.
+	* The pair might join an appropriately aligned party.
 
-They entered at the pyramid (3-1), descended via 3-7 to the goblin caves on Level 5 (3-44A to 3-48), passed across the sundered span (5-35), descended the troll lift at 5-54 to Level 6 
-(6-1), journeyed to the Arena (6-58 to 6-86) where they witnessed some bouts, descended to Level 7 (via 6-64 to 7-42), and located the tunnel at area 7-40 that led them to Level 8 (8-137). They can describe all these areas accurately, and can give useful advice on dealing with the neutral factions found en route. Their advice concerning Level 8 is a bit hazier: they descended the cliff at 8-137, paid tribute to the varumani at 8-136, and then wandered north, where the pollen took them. Their comrades are gone. In addition to this valuable information, the pair might be willing to join an appropriately aligned party.
-
-If and when the chamber is eventually accessed, PCs will find it foul-smelling and devoid of much interest. A waste bucket, a small keg of water, a cold fire pit and two bedrolls constitute the entirety of the furnishings. In his madness Laertes has scrawled numerous cryptic phrases on the walls in Archontean. A sampling include: “They come! They come? Who are they? Latch the gate and do not let them in. The dwarf changes his shape – do not trust it!”
+Their Path
+* They entered at the pyramid (3-1), descended via 3-7 to the goblin caves (3-44A to 3-48), passed across the sundered span (5-35), descended the troll lift (5-54 to 6-1), journeyed to the Arena (6-58 to 6-86), witnessed some bouts, descended via 6-64 to 7-42, and located the tunnel at 7-40, which led them to 8-137.
+	* They can describe all this accurately, and give useful advice on dealing with the neutral factions.
+* Their advice on Level 8 is hazier: they descended the cliff (8-137), paid tribute to the varumani at 8-136, and wandered north, where the pollen took them.
 
 Keller, nicknamed ‘Killer Keller’, 6th-level male Archontean fighter: SZ M; AL CN; AC 2; MV 120’; HD 6; HP 59; #AT 1; Dmg 3-8 (spear +1), 1-6 (long bow). Abilities: STR 16, INT 
 8, WIS 8, DEX 10, CON 16, CHA 14. Possessions: chain mail +1 and shield +1; spear +1; long bow with 20 arrows; a pouch with 339 sp and 128 gp; a potion of healing.
@@ -2262,16 +2340,23 @@ Laertes’s Spell book: Burning hands, charm person, detect magic, friends, grea
 
 Niskim, goblin sub-chief (as a hobgoblin): SZ M; AL LE; AC 5; MV 60’; HD 1+1; HP 7; #AT 1; Dmg 1-8 (long sword). 
 * Possessions:
-	* long sword
-	* a pouch with six pieces of jasper (50 gp each)
-	* A piece of dried human skin on which is drawn a crude sketch of a scepter along with the words “Find this!” in goblin. The sketch reflects the goblin court’s best guess as to what the scepter looks like, and bears little resemblance to the actual object, which may currently be found at 8-69.
+	* long sword, pouch with 6 pieces of jasper (50 gp each)
+	* A piece of dried human skin on which is drawn a crude sketch of a scepter labeled (goblin) “Find this!”.
+		* Reflects the goblin court’s best guess of what the scepter looks like; bears little resemblance to the actual thing (in 8-69).
 
 ### 8-115: Dead End with Skeleton
 
-* GM Note: connect this to the doppelgangers somehow?  No lifestone.  Why would he have the ring?
-	* He had the ring and tried to keep it safe from those murdering the priests of Ptah.  He swallowed it when doppelgangers were about to find him.  They killed and looted him (not crushed by a boulder).  Now the ring lies within his bare bones.
-	* He's got a note implying the priesthood is beset and he is to "keep it safe".
+* This area is occluded by a thick cloud of bliss pollen (flora).
+* The skeleton of a ancient priest of Ptah lies, skull cracked open, in the northeast extension.
+	* This was Lozor Hornfels, 2nd assistant to Zhorak the Smith (see 8-97).
+		* He was given the ring of Zhorak after the master vanished (trapped by doppel trickery) and sent away.  Doppels were on his track.  He swallowed the ring.
+		* To keep them from interrogating him, he fled into the pollen haze, hoping to lose them, and to addle his mind if caught.
+			* It worked.  He was caught and slain, but they never realized he carried a great secret, the true ring of Zhorak (new), used to open the secret door to 8-97.
+	* In his boot is a note (secret language of Ptah):
+		* "Master Zhorak has vanished, and now our brothers and sisters in Ptah are discovered slain at every turn, our relics and works plundered.  Can the Sortians really have turned so ruthless, after their protestations of unity?  I fear they will come for me soon.  Take this and keep it safe, lest they steal our greatest treasures too.  -- Forgemaster Ondis"
 
+
+OLD STUFF, IGNORE
 * This area is occluded by a thick cloud of bliss pollen (flora).
 * The skeleton of a dwarf lies crushed under a large piece of stone in the northeast extension.
 	* This was Lozor Hornfels, 2nd Tapper under Zhorak the Smith (see 8-97), who fled the forge in antiquity, was lost in the pollen haze, and killed in a freak accident.
@@ -2280,15 +2365,23 @@ Niskim, goblin sub-chief (as a hobgoblin): SZ M; AL LE; AC 5; MV 60’; HD 1+1; 
 
 ### 8-116: Knights’ Rest
 
-Secret Doors (north and east): The stone doors are identical. They are normal to find, but difficult to open. The doors only open after a 1”-diameter object is inserted into a small hole in the ceiling; the holes are perfectly sized for the tip of a sun lance carried by a Sun-Scarred Knight (see new monsters). Of course, destructive magic or a successful lift gates roll will also open either door.
+* Secret Doors (north and east): each opens when a 1”-diameter rod is inserted in a hole in the ceiling.
 
-The chamber was claimed by the Sun-Scarred Knights as a safe house in which wandering knights could rest, recuperate, and resupply. Two thick, plush carpets, one with geometric patterns and the other displaying an octagonal tower rising out of a cavern (a representation of SL10A-14), cover the floor. Two hammocks slung in the corners, two simple wooden chairs, a low table, a water keg, a tripod of heating (see new magic items), and an unlocked wooden chest complete the furnishings. 
+* The chamber was claimed by the Sun-Scarred Knights as a safe house where wandering knights could rest, recuperate, and resupply.
+	* Two thick, plush carpets, cover the floor (one with geometric patterns, the other an octagonal tower rising from a cavern (depicts SL10A-14).
+	* Two hammocks slung in the corners, two simple wooden chairs, a low table, a water keg, a tripod of heating (new) complete the furnishings.
+	* An unlocked wooden chest:
+		* 4 weeks dried rations, 500 gp (several hundred years old, but not yet ‘ancient’), 10 ancient octagonal platinum coins, a silk pouch with 7 carnelians (50 gp each), 20 flasks of oil, a tinder box, a hammer, a scribe’s case with ink and parchment
+		* 3 well-worn codices bound in blue leather: The Secret Courtship of Julius the Exarch, The Thirty-seven Quips of Balak the Sage, and the Lives of the Noble Founders, Arden and Vul (books).
+Sir Discord
+* The Sun-Scarred Knight, Sir Discord, and his varlet, Rorgo, are resting here (new).
+	* Sir Discord is one of the few knights who cares little for those he encounters while on his missions; he is as likely to attack those in his path as converse.
+	* If intruders penetrate this chamber while Discord is present, he will certainly take it as an offense and will attack.
+		* If Discord and Rorgo have already been encountered at 8-117 (see text), they are not be present here.
 
-The chest contains dried rations suitable for one person for four weeks, 500 gp (several hundred years old, but not yet ‘ancient’), 10 ancient octagonal platinum coins (see Arden Vul items), a silk pouch with seven carnelians (50 gp each), twenty flasks of oil, a tinder box, a hammer, a scribe’s case with ink and parchment, and three well-worn codices bound in blue leather. The titles of the codices are: the Secret Courtship of Julius the Exarch, The Thirty-seven Quips of Balak the Sage, and the Lives of the Noble Founders, Arden and Vul (see appendix of Arden Vul books).
-
-The Sun-Scarred Knight, Sir Discord, along with his varlet, Rorgo, are currently resting here (see new monsters). Sir Discord is one of the few knights who cares little for those he encounters while on his missions; he is just as likely to attack and overcome those in his path as he is to converse with them. Should PCs penetrate this chamber while Discord is still present, he will certainly take it as an offense and will attack with all his resources. If Discord and Rorgo have already been encountered at 8-117 (see text there), they will not be present here.
-
-Sir Discord’s mission is to locate the scepter of the goblins (see new magic items). To this end he has cultivated the fantasies of the goblin mystic, Gislu (4-2). In so doing he has annoyed his colleague, Sir Sorrow (SL4-19), who is attempting to prop up the powers of the goblin king. Discord and Rorgo are hunting for the scepter (found at 8-69), which they rightly believe to be in the Nether Reaches.
+* Sir Discord’s mission is to locate the scepter of the goblins (new).
+	* To this end, he has cultivated the fantasies of the goblin mystic, Gislu (4-2), to the annoyance of his colleague, Sir Sorrow (SL4-19), who is attempting to prop up the powers of the goblin king (now undermined by the uncertainy about the sceptre).
+	* Discord and Rorgo are hunting for the scepter (found at 8-69), which they rightly believe to be in the Nether Reaches.
 
 Sir Discord, the Sun-Scarred Knight (see new monsters), 11th-level male Wiskin fighter: SZ M; AL LE; AC -2; MV 120’; HD 11; HP 97; #AT 3/2; Dmg 7-13 (bastard sword +2), or 4-7 (dagger), or 3-6 (light crossbow and bolts +2). Abilities: STR 18/25, INT 9, WIS 11, DEX 10, CON 17, CHA 12. Possessions: key to SL10A-16, gothic armor and sun lance (see new technological items); solar ring, circlet of command, and backpack of capacity (see new magic items for all three); bastard sword +2; dagger, light crossbow and 20 bolts +2; a purse with 77 sp, 61 gp, and 111 ancient copper bits (see Arden Vul items). 
 
@@ -2317,38 +2410,65 @@ Rorgo, varlet to Sir Discord, and a 5th-level male Thorcin fighter: SZ M; AL CN;
 		* Due to the light and uneven conditions of the tunnel, the hole should be treated as a pit trap, with a +10% to detect traps.
 		* Those falling take 1d6+1, and are confronted by the denizens of 8-124.
 
-### 8-119: Temple of Besa: Entrance
+## Level 8: 119 - 127 (Temple of Hathor)
 
-The original entrance to the Archontean temple of Besa is found here. Although one of the Twelve and hence an official deity of the ancient Archonteans, Besa’s portfolio – potency, pleasure, violence and hedonism – ensured that worship of the Sloe-Eyed Lady would be relegated to hidden and often secret locations within the empire. In Arden Vul, her temple was located deep within the Nether Reaches, accessible to those who knew where to look but suitably removed from the more proper grand temples of Thoth and Set.
+* Taken over by rakshasa (khumusi tiger-demon tricksters) in the centuries since the fall.
+	* They pretend to be priestesses of Hathor, continuing her worship, like the cult of Bast.  They welcome people to feast and lie with them.
+	* They avoid the priestesses of Bast, hiding from them, afraid they will spot the deceptions.
+	* They were originally brought to Arden Vul as prisoners for sorcerous study, then freed in the years since the fall.  They have decided to make this their home, liking the hedonistic vibe.
 
-The entrance hall gives a taste of what is to come: three pillars carved with scenes of the grinning goddess alternating between acts of love and acts of violence, and walls featuring badly worn frescoes depict cavorting men and women, the women voluptuous and the men priapic. Their activities include both pleasure and pain. 
+### 8-119: Temple of Hathor: Entrance
 
-An invisible glyph is inscribed on the west wall; it is instantly apparent to illusionists, but invisible to all others. The glyph simply states, in Archontean, “Danger.” The existence of the glyph is revealed by detect magic, although non-illusionists who attempt to render it visible (by spells such as detect illusion or true seeing) must save vs spells or suffer confusion for 2-8 turns. 
+* The original entrance to the Archontean temple of Hathor is found here.
+	* This temple is dedicated to Hathor's aspect as the Sloe-Eyed Lady of potency, pleasure, and hedonism, and thus was placed out of the way to offer celebrants privacy and deniability.
 
-To the east is a niche containing a 5’-diameter circle of rose quartz set in the floor. This is the destination point for the teleporter at 8-7D.
+* The entrance's 3 pillars are carved with scenes of the dancing goddess, with walls covered with badly worn frescoes of cavorting priapic men and voluptuous women.
+	* The curved hallways leading downward to 8-120 feature more of the same frescoes.
+	* Despite the wear, the floor is clear or dust and debris.
 
-A tunnel carved out of the ruined corridor leads downward to Level 9 (9-147).
+* An invisible glyph (Archontean “Danger”) is inscribed on the west wall.
+	* It is instantly apparent to illusionists, but invisible to others.  It can be revealed by detect magic or true seeing, but the onlooker must save vs spells by confused for 2d4 turns. 
 
-The curved hallways leading downward to area 8-120 feature more of the same frescoes – voluptuous and priapic young men and women engaged in a variety of unusual acts. Despite the fading to the wall art, the floor is clear of dust and debris.
+* To the east is a niche with a 5’-wide circle of rose quartz set in the floor.
+	* This is the destination point for the teleporter at 8-7D.
+* A tunnel carved out of the ruined corridor leads downward to 9-147.
 
-### 8-120: Temple of Besa: Main Temple 
+### 8-120: Temple of Hathor: Main Temple 
 
-The site of many debaucheries in antiquity, the main temple of Besa is currently quiet, if remarkably well preserved. Soft red light emerges from sconces set into the walls, illuminating the boudoir-like qualities of the temple. Eight slim columns rise to the 20’ ceiling; they are carved like the pillars at 8-119, with erotic images. 
+* The site of many debaucheries in antiquity, the main temple of Hathor is currently quiet but remarkably well preserved.
+	* Soft red light emerges from sconces set into the walls, illuminating the boudoir-like qualities of the temple.
+	* 8 slim columns rise to the 20’ ceiling; carved like the pillars at 8-119.
+	* Between the pillars is a sunken area with thick, plush red carpeting, holding the 17'-tall cult statue of Hathor (20,000 gp).
+		* Composed of ivory with accents in colored stone. It depicts Hathor, the Sloe-Eyed Lady, naked, in the midst of her famous erotic dance with arms upraised, long black hair whirled around her body (actual human hair cleverly affixed).
+		* It still holds some power, and can invoke the ==Blessing of Hathor==.
+			* Removing the statue incurs Hathor’s wrath: permanent -2 CHA, loss of libido, and -20% to all reaction rolls.  Restoring the statue earns forgiveness.  Otherwise only wish-level magic can remove the curse.
+	* Low platforms covered with red silk sheets and pillows occupy the north, east and west points of the chamber.
+		* Tapestries hang behind the platforms showing erotic and festive scenes.
+		* Doors are concealed behind the east and west tapestries.
 
-Between the pillars is a sunken area, from which arises the cult statue of Besa. The floor around the pillars is covered with thick, plush red carpeting. Low platforms covered with red silk sheets and red pillows occupy the north, east and west points of the chamber. In these three locations, tapestries hang behind the platforms: one shows a surprisingly modest version of the well-known tale, the Ravishing of Besa; a second depicts Besa presiding over a scene of torture; and the third depicts a number of naked men writhing on imperial impaling spikes. The remainder of the walls display a mix of erotic and violent frescoes. Doors are concealed behind the east and west tapestries.
+Vatapi
+* A beautiful young woman in silks is idly twirling in the hall, looking at the images.
+	* She introduces herself as Vatapi, and is happy to chat and offer a meal.
+	* She says she and her companion Tataka, were adventurers who came her centuries ago.  They were moved by the love of Hathor to become priestesses and restore the temple.  Its power has sustained them ever since
+	* If treated in a hostile manner, she responds with ‘hurt’ and disappointment before drinking her invisibility potion and attempting to join her friends in 8-125.
+* Vatapi is actually the leader of a trio of rakshasas that has occupied this area for centuries.
+	* These khumusi tiger-demon tricksters were brought here for sorcerous examination, then freed some time after the fall.
+	* She uses her illusion powers to appear as as a young human woman, and to make the ancient temple appear to be fresh and clean.
+	* Her plan is to lower the PCs’ inhibitions, invite them to share a meal in area 8-124, or get them into bed if they're that direct, and then launch a surprise attack.
 
-A rudishva, clad in an orange jumpsuit, is busily taking rubbings of the pillar carvings on a large piece of parchment. He introduces himself casually in accented Archontean as “Vatapi, 
-one of the few survivors of the crash.” Vatapi is not aggressive, and seems content to negotiate and converse with visitors. If treated well, he chats happily and may invite visitors to meet his fellow survivor, Tataka, for a meal (in 8-124). If treated in a hostile manner, he responds with ‘hurt’ and disappointment before drinking his invisibility potion and attempting to join his friends in 8-125. 
+* Vatapi can provide the following information:
+	* The forge of Zhorak is nearby, to the northwest
+	* The bliss pollen and its effects (8-69), and might be willing to trade some rudishva breathing technology to the PCs in return for ‘stories of adventure’; 
+	* Several groups of goblins have come through, looking for a scepter, but Vatapi had to disappoint them.  They left via the tunnel at 8-119
+	* 2 rudishva survivors, the Lord of the Arena (6-85) and Psalor-Ki (5-75).
+	* The occasional wandering monster appears in their domain, unwittingly using the teleporter at 8-7.  Vatapi and her companions have been able to repel them all.
 
-Vatapi’s Story and Information: Vatapi reveals the following to friendly visitors: he and another rudishva lived throughout the Archontean era with the help of key technology that they had squirreled away. When the Archonteans abandoned Arden Vul, they sought a safe location far from the politics and warfare of the new factions. They found it here, in this ‘strange human temple dedicated to the pleasure/pain principles.’ Here they have lived 
-in harmony for millennia, waiting rescue from the stars. Vatapi can provide the following information: he knows the forge of Zhorak is nearby, to the northwest; he knows of the bliss pollen and its effects (8-69), and might be willing to trade some rudishva breathing technology to the PCs in return for ‘stories of adventure’; several groups of goblins have come through, looking for a scepter, but Vatapi had to disappoint them, and they left via the tunnel at 8-119; he knows of two other rudishva survivors, the Lord of the Arena (6-85) and Psalor-Ki (5-75), although Vatapi considers both of them to be insane criminals; the occasional wandering monster appears in their domain, having unwittingly used the teleporter at 8-7, but Vatapi and his companion have been able to defeat or repel them all. 
-
-Vatapi’s True Nature and Agenda: In fact, Vatapi is the leader of a trio of rakshasas that has occupied this area for many hundreds of years. He uses his illusion powers to appear as a rudishva and to make the ancient temple appear to be fresh and clean. Vatapi’s real plan, however, is to lower the PCs’ inhibitions, invite them to share a meal with him in area 8-124 (allegedly so the ‘rudishva’ can learn about the PCs’ adventures), and then launch a surprise attack.
-
-Statue of Besa: This impressive statue is 17’ tall and composed of ivory with accents in colored stone and other natural materials. It depicts Besa, the Sloe-Eyed Lady, in the midst of her famous erotic dance. She is naked, with arms upraised, and long black hair whirled around her body (the hair is actual human hair affixed cleverly to the ivory). Her face is strangely impersonal, almost like a kouros, with almond eyes and a fixed, grinning mouth. 
-
-Despite the long habitation of the rakshasas in this region, the spirit of Besa still inhabits her statue. Touching either of her breasts conveys a magical blessing, and those who engage in vigorous sexual or violent behavior in the statue’s presence have a 5% chance per day (and per act) to open a direct channel to Besa herself. The blessing takes the form of increased attractiveness to objects of desire for a month; practically, this adds +50% to reaction rolls 
-when the blessed person encounters those he/she finds attractive. The direct channel to Besa can result in one of four ‘gifts’. Each gift comes with a side-effect. Besa can only appear directly once per month, regardless of how many petitioners seek to summon her.
+Blessing of Hathor
+* Despite the long habitation of the rakshasas, the spirit of Besa still inhabits her statue.
+	* Touching either of her breasts conveys a magical blessing, and those who engage in vigorous sex or hedonism in the statue’s presence have a 5% chance per act to open a direct channel to Besa herself.
+* The blessing grants increased attractiveness to objects of desire for a month (+50% to reaction rolls with those found attractive).
+* The direct channel to Besa can result in one of four ‘gifts’, each with a side-effect.
+	* Besa can only appear directly once per month, regardless of how many petitioners seek to summon her.
 
 D4 Gift Side Effect
 
@@ -2373,64 +2493,73 @@ A pure gift: Besa grants a wish to the petitioner
 
 Geas: Besa imposes a geas on the petitioner, either to restore one of her temples here or elsewhere, to achieve 20 sexual conquests in two months, or to slaughter bloodily and publicly ten powerful foes (at GM’s wish) within four months. 
 
-The statue is immensely valuable (20,000 gp), both in terms of materials and historical significance, but removing it from her shrine incurs Besa’s wrath. Among the punishments meted out to desecrators include a permanent lowering of CHA by 2, the permanent disappearance of libido, and a permanent reduction of -20% to all reaction rolls. Should desecrators realize the errors of their ways and restore the statue, the curses will be lifted. Otherwise only the highest level divine intervention or high level magic (e.g., a wish spell) can remove the curses.
 
 Vatapi, the ‘rudishva’ (actually a rakshasa): SZ M; AL LE; AC -4; MV 150’; HD 7; HP 49; #AT 3; Dmg 1-3/1-3/2-5. Special defenses: ESP; affected only by 8th-level spells or greater; 
 immune to normal weapons; half damage from +1 and +2 weapons. Cleric spells: curse, light, fear. Magic user spells: charm person, jump, magic missile, sleep; audible glamer, darkness 15’ radius, mirror image; dispel magic, suggestion. Possessions: rudishva jump suit; rudishva breather (see new technological items); potion of invisibility; wand of frost (22 charges); and one half of a pair of amulets of return (see new magic items).
 
-Treasure:
-The statue of Besa (20,000 gp), removal of which bears heavy consequences as described above.
-
-## Level 8: 121 - 135
-
-### 8-121: Temple of Besa: Cubicles
+### 8-121: Temple of Hathor: Cubicles
 
 * The entrance to each of these 5 cubicles is covered by a thick, luxurious black-velvet drape.
 	* Inside each is a 3’-tall stone platform strewn with red, yellow, and black silk pillows.
 	* In antiquity, these served as private rooms for the frolicks of the followers of Hathor.
-* The luxurious appearance of these cubicles is an illusion cast by the rakshasas (see 8-120, 8-124, and 8-125).  In reality, the drapes and pillows are rotting and tattered. 
+* Their luxurious appearance is an illusion of the rakshasas (see 8-120, 8-124, and 8-125).
+	* In reality, the drapes and pillows are rotting and tattered. 
 
-### 8-122: Temple of Besa: Inner Fane
+### 8-122: Temple of Hathor: Inner Fane
 
-This area was the site of the most secret and perverse rituals of the inner cult of Besa. Five more cubicles line the north wall, each equipped with restraints, low beds, and luxurious black silken sheets and pillows. As with the neighboring cubicles, the luxurious appearance is the product of an illusion; in reality the sheets and pillows are tattered and decrepit.
+This area was the site of the most secret and perverse rituals of the inner cult of Besa. 
 
-Another invisible phrase is inscribed on the south wall; it is instantly apparent to illusionists, but invisible to all others. It states the following, in Archontean: ‘Flee now, lest the ghost of the priestess consume you!’ The existence of the glyph is revealed by detect magic, although non-illusionists who attempt to render it visible (by spells such as detect illusion or true seeing) must save vs spells or suffer confusion for 2-8 turns. 
+* Five more cubicles line the north wall, each with low beds and luxurious black silken sheets and pillows.
+	* As with the neighboring cubicles, the luxurious appearance is an illusion.  In reality the sheets and pillows are tattered and decrepit.
 
-A 70’-long freestanding wall runs across the center of the chamber, blocking sight of the cubicles. The floor south of the wall is sheathed in purple marble, while floor-length black velvet drapes conceal the niche containing the 10’-tall marble cult statue of Besa. The beauty of her naked body is slightly marred by the numerous cuts and bruises that cover her marble flesh, and by the fact that her left leg and right arm seem to have been carved as if they had been broken. Besa’s face shows a smile, but a grim, humorless smile. The whiteness of the marble has been marred by a strange glyph inscribed in a circle with black paint across her 
-chest and abdomen. In her left hand, Besa clutches a gold djed amulet (see new magic items); it could be removed by breaking the statue’s hand or through a slow (2-4 turns) and careful process of jimmying it free.
+* Another invisible phrase is inscribed on the south wall, instantly apparent to illusionists.
+	* (Archontean) ‘Flee now, lest the ghost of the priestess consume you!’
+	* Detect magic or true seeing reveals it, but save vs spells or confusion for 2d4 turns.
 
-The glyph is demonic in origin, and serves to deny spirits entrance to an object or location; the rakshasas have used it to prevent Besa from manifesting in her cult statue. Should the 
-glyph be erased, through the use of holy water, and a ceremony of hallowing performed, Besa’s spirit will return to the statue within 1-100 hours. Once she has returned, the same effects found at 8-120 can be produced through the same actions.
+* A 70’-long freestanding wall runs across the center of the chamber, blocking sight of the cubicles.
+	* The floor south of the wall is sheathed in purple marble.
+* Floor-length black velvet drapes (enchanted to prevent decay, 250 gp) conceal the niche containing the 10’-tall marble cult statue of Hathor.
+	* The marble flesh of the beautiful statue is marred by the numerous cuts and cracks, and the left leg and right arm seem to have been carved as if broken.
+	* A strange glyph is inscribed with black paint across her chest and abdomen.
+		* It is abyssal magic, keeping the idol free of Hathor's presence, and helping deceive the spirit of Bunefer.
+		* Can be erased with holy water and a hallow spell.  In 1d100 hours, Hathor's will return, and Bunefer can be talked down from her undead grief-rage.
+	* In her left hand, Besa clutches a gold djed amulet (new).
+		* It could be broken free or jimmied free with 2-4 turns of slow and careful work.
 
-The spirit of Besa’s last high priestess, a certain Bunefer, haunts the cubicles in the north part of the chamber as a spectre. The spectre attacks mortal intruders within 4-7 round of their arrival. It does not molest the rakshasas, however, for reasons explained below. Should the spirit of Besa be restored to her statue, Bunefer the spectre will be transformed into a wraith.
-
-Bunefer’s Story: As the Archontean hegemony crumbled, Bunefer attempted to maintain the usual ceremonies of the temple. But the demand for pleasure and pain waned in the face of more pressing issues, and both worshippers and lesser priestesses drained away. When Bunefer sought permission from Besa to close the temple, even temporarily, the goddess was irate, and punished Bunefer by slaying her and raising her as a wraith. She haunted the temple for hundreds of years until the rakshasas arrived. Vatapi convinced the wraith that they could help Bunefer repair her relationship with Besa, and even hinted that Bunefer could be restored to life. 
-
-The first step in this process, according to the duplicitous Vatapi, was to conduct rituals on the cult statue of Besa. This ritual, which banished Besa, increased Bunefer’s power by making her a spectre, but did not bring her back to life. The rakshasas have convinced 
-the rather dim Bunefer that the devouring of a certain number of souls is necessary to accomplish her goals. Although they are clearly using her to attract prey, Bunefer is not smart enough to realize it; she continues to aid the rakshasas in the vain hope that this will abet her condition.
-
+The Spirit of Bunefer
+* The spirit of Besa’s last high priestess, Bunefer, haunts the chamber as a spectre.
+* She attacks mortal intruders within 1d4+3 rounds of their arrival, but does not molest the rakshasas.
+* As the Archontean hegemony crumbled, Bunefer attempted to maintain the usual ceremonies of the temple as visitors and junior priests slipped away.  Then she simply huddled here, hiding from the chaos until she starved.
+* Her mournful, but peaceful, spirit haunted the temple until the rakshasas arrived.
+	* They twisted her mind with words and magic, making her think Hathor had cursed her, and that only renewed devotions could appease her.  She no longer realizes she is dead, but has become a spectre, seeking to embrace visitors to appease the angry goddess.
+* If conversed, before her hunger overtakes her, or after she's returned to ghosthood, she might idly mention "the cruel whisperers" or mention "burning eyes", referring to her limited awareness of the rakshasa.
+	
 Bunefer, a spectre: SZ M; AL LE; AC 2; MV 150’, 300’ flying (Class B); HD 7+3; HP 53; #AT 1; Dmg 1-8. Special attacks: energy drain. Special defenses: +1 or better weapons to hit; immune to sleep, charm, hold, cold, poison, and paralysis. In some circumstances, Bunefer will become a wraith: SZ M; AL LE; AC 4; MV 120’, 240’ flying (Class B); HD 5+3; HP 32; #AT 1; Dmg 1-6. Special attacks: energy drain. Special defenses: silver or magic weapons to hit; immune to sleep, charm, hold, cold, poison, and paralysis.
 
-Treasure:
-A djed amulet (see new magic items), in the left hand of the statue of Besa. The velvet curtain was ensorcelled in antiquity to prevent decay; it could be sold for 250 gp. 
-
-### 8-123: Temple of Besa: Cubicles
+### 8-123: Temple of Hathor: Cubicles
 
 * These five cubicles are identical to 8-121, with drapes, pillows and low platforms.
 	* The furnishings appear luxurious, but are really of illusions from the rakshasas.
 
-### 8-124: Temple of Besa: Common Room
+### 8-124: Temple of Hathor: Common Room
 
-A wooden trestle some 20’ in length table stands in the center of this chamber. Four 5’-long benches encircle it. The table groans with delicious, but exotic food set in simple wooden and copper serving vessels. There are spicy vegetable dishes, a succulent-smelling roast, cups of wine, and a quivering sweet pudding. The walls are decorated with ancient and faded frescoes showing naked diners at a feast enjoying both a variety of Archontean dishes and each other.
+* A 20’-long wooden trestle table and benches stands in the center of this chamber, groaning with delicious, exotic ==food== in simple wooden and copper serving vessels: spicy vegetable dishes, a succulent-smelling roast, cups of wine, and a quivering sweet pudding.
+	* The walls are decorated with ancient and faded frescoes showing naked diners at a feast enjoying both a variety of Archontean dishes and each other.
+* A ragged, 6’-wide hole in the ceiling leads to 8-118a in the tunnel network that snakes around the old Besa complex.
+	* The rakshasas know of the hole, but view it more as a potential source of food than a danger point.
 
-If Vatapi (8-120) has been encountered previously and the PCs are on neutral terms with him, then he will likely be present here, attempting to get the PCs to join him at the feast and trade stories. His cover story, as recounted at 8-120, is that he and his companion, Tataka, possess a rudishva food processor which allows them to live and dine well. If the PCs agree to dine with him and share stories, he begs a few rounds (1-6) to fetch his companion, Tataka, from their home. If the PCs somehow have not encountered Vatapi previously, have slain him, or have through their actions caused him to flee from 8-120, then the chamber appears empty of inhabitants (although the food is still present).
+* If Vatapi (8-120) has been encountered previously on reasonable terms, she will likely be here, urging the guests to join her at the feast and trade stories.
+	* If the visitors agree to dine, she begs a moment (1d6 rounds) to fetch her companion, Tataka.
+* Vatapi has been slain or driven off, the chamber is empty, although the food is still present.
 
-In fact, the food is far simpler than it appears, having been enhanced by the rakshasas’ illusion powers: the vegetable dishes are moldy mushrooms, the wine is water, and the desserts are lichen patched together with water and mud. 
-
-But the true horror of the meal is the roast, for the meat is actually the body of Ilvala, the third of the rakshasas dwelling here. The rakshasas’ evil plan is to get visitors to consume the 
-apparently innocuous meat, not knowing that it is in fact the temporarily dismembered body of their comrade. Once Ilvala has been consumed, Vatapi can magically reconstitute Ilvala’s body thanks to their possession of a pair of amulets of return (see new magic items). When Ilvala is reconstituted within a diner’s stomach, the reconstitution effectively kills the diner as the pieces of meat transform into a full-sized rakshasa. Death occurs in 1-4 rounds. Vatapi commences the reconstitution by introducing the concept of his long lost sister to the conversation, and then ritually summoning Ilvala by name. Ilvala can only be reconstituted in one diner’s stomach, so if more than one visitor consumes the meat, the GM should roll randomly to determine which diner suffers this horrible fate. There are a few ways to avoid the rakshasas’ foul trick: one is to slay Vatapi before he can summon his sister by name; another is to prevent him from uttering his sister’s name through the imposition of silence. Should Vatapi and Tataka (see 8-125) be slain before the meat is consumed, moreover, Ilvala will have no way to return and will effectively rot into nothingness.
-
-Hole in Ceiling: A ragged, 6’-diameter hole in the ceiling leads to area 8-118A in the tunnel network that snakes around the old Besa complex. The rakshasas are aware of the hole, but view it more as a potential source of food than as a danger point.
+The Food
+* The food is far simpler than it appears, being enhanced by the rakshasas’ illusions.
+	* The vegetables are moldy mushrooms, the wine is water, and the desserts are lichen patched together with water and mud.
+* The true horror is the roast, actually the body of Ilvala, the third of the rakshasas.
+	* Once Ilvala has been consumed, Vatapi can magically reconstitute them as each has half of a pair of amulets of return (new).  Ilvala reforms within a diner’s stomach, ripping her way clear in 1d4 rounds, killing them.
+		* If multiple diners eat the meat, she reconstitutes within only one of them, randomly.
+* Vatapi commences the reconstitution by telling a story of her long lost sister, finally ritually summoning Ilvala by name.
+	* The return fails if Vatapi is slain or silenced before she can summon her sister by name.
 
 Ilvala, a rakshasa initially disguised as cooked meat: SZ M; AL LE; AC -4; MV 150’; HD 7; HP 45; #AT 3; Dmg 1-3/1-3/2-5. Special defenses: ESP; affected only by 8th-level spells or greater; immune to normal weapons; half damage from +1 and +2 weapons. Cleric spells: curse, light, fear. Magic User spells: charm person, jump, magic missile, sleep; audible glamer, darkness 15’ radius, mirror image; dispel magic, suggestion. Possessions: rudishva jump suit; rudishva breather (see new technological items); potion of invisibility; half of a pair of amulets of return (see new magic items).
 
@@ -2438,23 +2567,41 @@ Vatapi (possibly present; see text): for stats, see 8-120.
 
 Tataka, also possibly present; for stats, see 8-125.
 
-Treasure:
-There is no treasure here save the personal equipment borne by the rakshasas.
+### 8-125: Temple of Hathor: Rakshasa Lair
 
-### 8-125: Temple of Besa: Rakshasa Lair
+* Unless already encountered in 8-124, Tataka the rakshasa is here.
+	* If Vatapi has been chased from 8-120 or 8-124, she will be here too.
+* Note: the rakshasa gathered the khumusi-flavored furnishings from around Arden Vul for a touch of home.
 
-The rakshasas have converted the ancient quarters of the high priestess of Besa into their sanctum. It is dimly lit by four smokeless torches (see new magic items), and includes a riot of exotic and sumptuous items. Unless he has already been encountered in 8-124, Tataka the rakshasa will be found here; if Vatapi has been chased from 8-120 or 8-124, he too will be present here.
-
-The chamber includes four elaborate day beds carved of teak (950 gp each) and set with brightly colored silk sheets and pillows. Six oriental carpets cover the floor, each a masterpiece of geometric and animal pattern (800 gp each). Four more carpets hang on the north and south walls, covering badly damaged frescoes that depict the debased rituals of Besa’s cult; these carpets are figural, and depict strangely-accoutered warriors with spears 
-and curved swords. One of the four is, in fact, a porter’s carpet (see new magic items). A welter of small tables occupies the rest of the floor space; there are ten, ranging from a pair of 4’-tall, 2’-diameter tables of solid ivory (1,800 gp each), to a set of five oval tea tables in teak and ivory, a pair of mahogany end tables (400 gp each), and a magnificent sandalwood gaming table inset with ivory and gold (2,250 gp), on which the rakshasas play endless 
-games of backgammon while awaiting victims (the ivory pieces are worth another 200 gp). A low bookcase holds the following tomes: Laelius Praetor’s the Ancient Ones; Archons of Arden Vul; the Book of Night Maneuvers; A Canticle of Arcane Knowledge; Elements of Animal Reproduction; Green are My Lover’s Eyes; the Highly Impressive Story of Frigg the Fabulous; Locomotion in Animals and Humanoids; Sorcerous Properties of Gems; and the Twelve Labors of Arden (see Arden Vul books for all). In the northeast corner is a 
-jumble of brightly colored plasteel equipment, which (if PCs ever were to peacefully enter this chamber) the rakshasas represent as their all-important rudishva technology; the equipment is indeed rudishva in origin, but it is broken and useless. 
-
-On either side of the secret door on the west wall stand two 6’-tall statues carved out of ironwood. Each depicts a grimacing demon warrior holding a glaive; the face of each warrior has tusks and wild eyes. Each statue is decorated with an Khumus-style bronze helmet (50 gp each), a set of four gold arm rings shaped like snakes (300 gp each), a steel breastplate, a pair of steel greaves, and four gold finger rings set with black pearls (800 gp each). 
-
-Each pair of breastplate and greaves is actually a set of abyssal armor (see new magic items). One of the glaives is normal, but the other is a powerful sentient magic item, named Bhima (see new magic items). The northern statue also bears an exotic silver necklace from which dangle thirteen 4”-long curved fangs; these are rakshasa fangs, which may be used to open the secret doors here and in 8-111. The necklace of fangs could be sold for 600 gp.
-
-Scattered among the tea tables are the following magical items: a set of eyes of Pol, a bag of efreeti sand, an insidious bone flute, and a set of predictive tokens (see new magic items for all).Secret Door (west): The door is normal to detect, and opens in one of two ways: either a rakshasa tooth must be inserted into a hidden hole, or a successful lift gates roll must be made to force it open.
+* The rakshasas have converted the ancient quarters of the high priestess into their sanctum, a riot of exotic and sumptuous furnishings.
+	* It is dimly lit by 4 smokeless torches (new).
+	* 4 elaborate, teak day beds (950 gp each) with brightly colored silk sheets and pillows.
+	* 6 oriental carpets, each a masterpiece of geometric and animal pattern (800 gp each).
+	* 4 tapestries hang on the north and south walls, covering badly damaged frescoes depicting rituals of thes cult.  They depict khumusi warriors with spears and curved swords.
+		* One of the four is a porter’s carpet (new). 
+	* A pair of 4’-tall, 2’-diameter tables of solid ivory (1,800 gp each)
+	* A set of five oval tea tables in teak and ivory
+		* Scattered: a set of eyes of Pol, a bag of efreeti sand, an insidious bone flute, and a set of predictive tokens (all new).
+	* A pair of mahogany end tables (400 gp each)
+	* A magnificent sandalwood gaming table inset with ivory and gold (2,250 gp)
+		* Here the rakshasas play endless games of backgammon while awaiting victims (the ivory pieces are another 200 gp).
+	* A low bookcase
+		* Laelius Praetor’s the Ancient Ones
+		* Archons of Arden Vul
+		* the Book of Night Maneuvers
+		* A Canticle of Arcane Knowledge
+		* Elements of Animal Reproduction
+		* Green are My Lover’s Eyes
+		* the Highly Impressive Story of Frigg the Fabulous
+		* Locomotion in Animals and Humanoids
+		* Sorcerous Properties of Gems
+		* the Twelve Labors of Arden
+	* On either side of the secret door on the west wall stand 6’-tall ironwood statues of grimacing demon warriors with tusks and wild eyes, holding glaives.
+		* Each wears a Khumus-style bronze helmet (50 gp each), 2 gold arm rings shaped like snakes (300 gp each), a steel breastplate andpair of steel greaves (abyssal armor), and 2 gold finger rings set with black pearls (800 gp each). 
+		* One glaive is a powerful sentient weapon, Bhima (new).
+			* Bhima was borne by the khumusi demon-hunter who captured and brought the rakshasa to Arden Vul as a gift for the empire.  The put it here so they could taunt it.  It knows their story.
+		* The northern statue wears an exotic silver necklace dangling thirteen 4”-long curved fangs (rakshasa fangs, 600 gp).
+	* Secret Door (west): open when a rakshasa tooth is inserted into a hidden hole (bend bars to force).
 
 Tataka the rakshasa SZ M; AL LE; AC -4; MV 150’; HD 7; HP 41; #AT 3; Dmg 1-3/1-3/2-5. Special defenses: ESP; affected only by 8th-level spells or greater; immune to normal weapons; half damage from +1 and +2 weapons. Cleric spells: curse, light, fear. Magic User spells: charm person, jump, magic missile, sleep; audible glamer, darkness 15’ radius, mirror image; dispel magic, suggestion. Possessions: rudishva jump suit; rudishva breather (see new technological items); potion of invisibility; wand of fire (11 charges).
 
@@ -2462,19 +2609,23 @@ Vatapi the rakshasa (see stats at 8-120)
 
 ### 8-126: Trophy Room
 
-If the rakshasas’ living quarters reflect a certain raffish opulence and civilization, their trophy room bears witness to their evil and their monstrous nature, for it is here that the rakshasas devour their victims. Gouts of dried blood stain the walls, while two piles of human and other bones occupy the northeastern and south-eastern corners. Two scorched varumani corpses hang from hooks, dripping blood onto the floor. 
-
-The west wall features shelves built into the stone; these shelves contain twenty-one life-sized heads made of clay, modeled to reflect different types of creatures (some human, some humanoid, some varumani, and some utterly exotic). These clay heads are connected to the memory trap in 8-111; the memories of those affected by the trap are transferred here, to one of the ‘empty’ heads appropriate to their race. Smashing a skull releases a trapped memory to its owner, regardless of where that being may be. A dull yellow glow in the eyes of a head reveals the fact that it is ‘occupied’ by a being’s memory. Currently six of the twenty-one heads are occupied. Four of those whose memories have been stolen are 
-Hakreon (7-76), Kormak (8-132), Justine Two-Hands (9-130), and Niskim the goblin (8-114). It is up to the GM to decide the nature of the other stored memories. 
-
-Treasure:
-On one of the shelves among the clay heads is a platinum key to the Obsidian Gates (5-6D). The rakshasas know it’s enchanted but never figured out what it is used for, and have forgotten about it.
+* The rakshasas’ living quarters reflect a certain raffish opulence and civilization, but their  trophy room bears witness to their evil.
+	* Here that they devour their victims: gouts of dried blood stain the walls, and two piles of human and other bones occupy the northeastern and south-eastern corners.
+	* Two scorched varumani corpses hang from hooks, dripping blood onto the floor.
+* The west wall features shelves built into the stone.
+	* 21 life-sized heads of clay, modeled on different types of creatures (human, humanoid, varumani, and some utterly exotic).
+		* Memories stolen by the memory trap (8-111) are transferred here, to one of the ‘empty’ heads appropriate to their race.  A dull yellow glow in the eyes reveals the fact that a head is ‘occupied’ (currently 6 are).
+		* Smashing a head releases its trapped memories to its owner, wherever they may be. 
+	* Among the clay heads is a platinum key to the Obsidian Gates (5-6D).
+		* The rakshasas know it’s enchanted but never figured out what it is for, and have forgotten about it.
 
 ### 8-127: Goat Pen
 
 * The rakshasas (8-125) keep a herd of 6 goats penned up in this crumbling corridor fragment.
 	* The goats are meat, if they are unable to acquire victims, but also help convince visitors into accepting the premise of their habitation.
 * Half of a wine cask filled with musty water sits at the south end of the fragment.
+
+## Level 8: 128 - 135
 
 ### 8-128: Empty Cave 
 
@@ -2513,32 +2664,58 @@ On one of the shelves among the clay heads is a platinum key to the Obsidian Gat
 
 ### 8-132: Cave with a Weeping Warrior
 
-In this pollen-free cave, a tough Wiskin warrior is slowly banging his head against the south wall, weeping uncontrollably. He wears a Norman helmet and a chain mail byrnie on which is painted a yellow snake, and bears a serrated long sword. He is Kormak the Snake, and he fell victim to the memory trap in 8-111. Desolate and lost, he is barely functional, and greets all visitors with suspicion (-10% to reaction rolls). If Kormak grows hostile, he shouts simple insults in Wiskin and, if the PCS respond with aggression, attacks.
+* This cave is pollen-free.
+	* A tough Wiskin warrior is slowly banging his head against the south wall, weeping uncontrollably.
+		* He is ==Kormak the Snake==, and fell victim to the memory trap in 8-111.
+	* The door on the south wall is wizard locked (18th level), but has an exaggeratedly-large keyhole (can be bypassed with the correct key, see 8-130).
 
-Should he somehow be befriended, and his memory restored (see 8-126), he will be grateful and will be able to pass on the following bits of information: he talked to Olaf the Bee-Whisperer (8-73) and learned that a strange scepter is lodged in one of the bee hives (see 8-69). This object is the lost scepter of the goblins (see new magic items) which is greatly desired by King Weskenim (SL4-22). Kormak has also visited the temple of Bastet (8-38) and 
-can give advice on how best to reach the temple and negotiate with the priestesses there. Finally, he also knows that the Forge of Zhorak (8-120) is quite close, only a few hours march to the west and north, even though he has never been there.
-
-The door on the south wall is wizard locked (18th level), but also boasts an exaggeratedly-large keyhole. The wizard lock can be bypassed by use of the correct key (see 8-130).
+Kormak the Snake
+* He wears a Norman helmet and a chain mail byrnie on which is painted a yellow snake, and bears a serrated long sword.
+* Desolate and lost, he is barely functional, greeting all visitors with suspicion (-10% to reaction rolls).  If he grows hostile, he shouts simple insults in Wiskin and, if met with aggression, attacks.
+* If befriended, and his memory restored (see 8-126), he will be grateful and able to pass on the following bits of information:
+	* He talked to Olaf the Bee-Whisperer (8-73) and learned that a strange scepter is lodged in one of the bee hives (see 8-69, the lost scepter of the goblins (new) greatly desired by King Weskenim, SL4-22).
+	* He visited the temple of Bastet (8-38) and can advise how reach it and negotiate with the priestesses there.
+	* He knows the Forge of Zhorak (8-120) is close, to the west and north, but has never been there.
 
 Kormak the Snake, 8th-level male Wiskin fighter: SZ M; AL N; AC 3; MV 120’; HD 8; HP 88; #AT 3/2; Dmg 4-11 (Lithast). Abilities: STR 17, INT 9, WIS 10, DEX 8, CON 17, CHA 14. 
-Possessions: the enchanted long sword, Lithast (see new magic items); a chain mail +2; a purse with 275 gp and 148 sp; and a potion of superheroism.
+* Possessions: the enchanted long sword, Lithast (see new magic items); a chain mail +2; a purse with 275 gp and 148 sp; and a potion of superheroism.
 
 ### 8-133: Kel Bormol’s Hidden Lair 
 
-The late-Archontean-era archmage, Kel Bormol (see SL3-2A), converted this tomb into one of the hidden refuges that he prepared in and around Arden Vul as he watched the city devolve into chaos. The door to the lair (in 8-132) is wizard locked (18th level), and can only be opened by magic or by locating the key (8-130).
+* The late-Archontean-era archmage, Kel Bormol (SL3-2A), converted this tomb into one of the hidden refuges that he prepared as the city devolve into chaos.
+	* The door (in 8-132) is wizard locked (18th level), the key is in 8-130.
 
-The tomb was that of Liskon the Mad, the 8th archon of Arden Vul, and a lesser figure in Archontean lore. Liskon was paranoid, and ordered his resting place built in this then-obscure location, far from the growing court. The walls are decorated with shallow carvings of imperial officials in archaic togas and costumes performing administrative and judicial functions. At the center of the scene is a bearded archon (Liskon). When he claimed the 
-tomb, Kel Bormol covered up the earlier art with a set of three large ‘modern’ tapestries; one showing the signing of the Compact of Ennius (see World of Archontos appendix), one depicting the great victory of the imperial legions at Trenner’s Rock (see World of Archontos appendix), and the third displaying the grim court held by Emperor Maurikios IV Sanguinator in the smoking rubble of Arden Vul after its sacking. Each tapestry is worth 750 gp.
+* The tomb was that of Liskon the Mad, 8th archon of Arden Vul, and a lesser figure in Archontean lore.
+	* Liskon was paranoid, ordering his resting place built in this then-obscure location, far from the growing court.
+* Kel Bormol covered the older wall carvings with 3 large ‘modern’ tapestries (750 gp each).
+	* The signing of the Compact of Ennius
+	* The great victory of the imperial legions at Trenner’s Rock (see World of Archontos)
+	* The grim court held by Emperor Maurikios IV Sanguinator in the smoking rubble of Arden Vul after its sacking.
+	* The walls beneath bear shallow carvings of imperial officials in archaic togas performing administrative and judicial functions, with a bearded archon (Liskon) at the center.
+* The northern section of the sanctum contains:
+	* A trio of leather easy chairs (65 gp each)
+	* A low oak table (25 gp)
+	* A wine rack (with six ultra-rare, still drinkable 1300 year-old, Archontean whites, 950 gp each)
+	* A daybed with satin sheets (covered in dust)
+	* An oak scroll cabinet
+		* 11 items, all well-thumbed, cheesy light fiction and soft-core pornography: Whispering Widow, Legionary Rex and the Celadon Shipment, Paulus and the Goblin King, The Night Urges, Euphronia’s Awakening, and Meson’s Guide to the Brothels of Archontos (books).
+		* A secret compartment in the base open when a quill-sized item is slid into a small hole on the left side.
+			* Copies of Kel Bormol’s eleven spell books are hidden inside.
+	* A staff rack with six walking staffs (two of polished oak, one of ebony, one of natural pine, and the last a staff of withering with 9 charges).
+* The southern portion of the chamber still holds Liskon’s tomb.
+	* A granite sarcophagus (10’x8’x4’) carved with an image of the archon (the bearded man with the cylindrical hat from the walls).
+		* Inside is his inert mummy, all grave goods long gone.
+	* Kel Bormol draped a now-rotted cotton tablecloth across the tomb.  A sixteen-piece set of silver tableware rests atop it (425 gp).
+		* A pair of the silver cups hold a map open on the tablecloth.
+			* The map shows a substantial section of the precincts of Set, in full detail (including secret doors): 4-1 to 4-58 and 4-101 to 4-105.   It has been annotated by Kel Bormol with the function and/or residents of each area.
+	* Along the south wall are 3 crates.
+		* They contain long spoiled foodstuffs.
 
-The northern section of the sanctum contains a trio of leather easy chairs (65 gp each), a low oak table (25 gp), a wine rack (with six ultra-rare, and still drinkable, Archontean whites that are 1,300 years old and worth 950 gp each), a daybed with satin sheets (covered in dust), an oak scroll cabinet, and a staff rack with six walking staffs (two of polished oak, one of ebony, one of natural pine, and the last a staff of withering with 9 charges).
+* 2 invisible stalkers wait patiently in the chamber, tasked a millennium ago to ensure that none but Kel Bormol enters the chamber.  They do not pursue outside the sanctum.
 
-The scroll cabinet contains eleven items, all cheesy light fiction and soft-core pornography, with titles like the Whispering Widow, Legionary Rex and the Celadon Shipment, Paulus and the Goblin King, The Night Urges, Euphronia’s Awakening, and Meson’s Guide to the Brothels of Archontos (see Arden Vul books for all). In addition to these well-thumbed items, copies of Kel Bormol’s eleven spell books are hidden in a secret compartment at the base of the cabinet. The compartment detects normally and opens by inserting a quill-sized item into a small hole on the left side of the cabinet.
 
-The southern portion of the chamber still holds Liskon’s tomb, a 10’x8’x4’ block of granite carved with an image of the archon (the bearded man with the cylindrical hat from the walls). Kel Bormol has draped a now-rotted cotton tablecloth across the tomb, and a sixteen-piece set of silver tableware rests atop it (425 gp for the set). A pair of the silver cups hold a map open on the tablecloth. The map shows a substantial section of the precincts of Set, in full detail (including secret doors): areas 4-1 to 4-58 and 4-101 to 4-105. The map was annotated by Kel Bormol, indicating the function and/or residents of each area. Along the south wall are three crates that contain long spoiled foodstuffs.
-
-If Kel Bormol has been released (see SL3-2A), then the entire area will be cleaned, the table-cloth replaced with a new one, and a fresh set of food items will be present. In such circumstances there is a 20% chance Kel Bormol himself will be present in the chamber.
-
-A pair of invisible stalkers wait patiently in the chamber, tasked a millennium ago to ensure that no one but Kel Bormol enters the chamber. Although their long servitude has rendered them insane, Kel Bormol’s binding still holds. They do not pursue outside the sanctum.
+* If Kel Bormol has been released (see SL3-2A), then the entire area will be cleaned, the table-cloth replaced with a new one, and a fresh set of food items will be present.
+	* (20%) Kel Bormol himself is present.
 
 2 invisible stalkers: SZ L; AL N; AC 3; MV 120’; HD 8; HP 61, 50; #AT 1; Dmg 4-16; MR 30%. Special attacks: surprise on 1-5. Special defenses: invisibility.
 
@@ -2568,15 +2745,27 @@ spells); clenched fist, incendiary cloud, irresistible dance, mass charm, mind b
 
 ### 8-136: Renegade Varumani
 
-A band of renegade lesser and bestial varumani have abandoned the domain of the thegn (see much of Level 7, including, e.g., 7-2 and 7-8 to 7-38) and set themselves up as robbers in this cave. 
+* A band of renegade lesser and bestial varumani have abandoned the domain of the thegn and set themselves up as robbers in this cave. 
+	* The gang built a low rock wall (4’ tall) across the mouth of the cave, giving them 50% cover (and detering the rust monsters in 8-140).
+	* They have placed torches in the passageway to 8-137.
+* Inside their cave are:
+	* 3 hammocks
+	* 2 kegs of Hak’s ale (see 7-94), 3 dead goats, 2 recently slain adventurers on hooks, a sack of dried edible mushrooms.
+	* 2 shields; 5 spears.
+	* A wooden chest with their loot.
+		* 793 sp; 174 gp; 101 ancient silver pennies; 3 citrines (55 gp each), 4 zircons (45 gp each), 2 peridots (500 gp each), and an orange jacinth (5,000 gp); a set of six throwing daggers +1; a set of Banion’s dice made of bone (new); and a pair of boots of the ogre (new).
 
-The gang is led by Lugo, and contains a total of eight members. The bestial varumani are growing restless with Lugo’s leadership, however, as they (rightly) blame him for failing to procure suitable meat. Familiar with stories of ‘civilized robbers’, however, Lugo has to date restrained his followers and convinced them that extortion is better than murder. He has them all wearing ‘stylish’ green berets.
+The Gang
+* The gang is led by Lugo, and has 8 members.
+	* Familiar with stories of ‘civilized robbers’, Lugo has so far convinced his followers that extortion is better than murder.  He has them all wearing ‘stylish’ green berets.
+	* The bestial varumani are growing restless with Lugo’s leadership, (rightly) blaming him for failing to procure suitable meat.
+	* The gang loudly demands ‘tribute’ of any who pass.
+		* Silver coins (50 sp per head) or pretty rocks (gemstones, of any sort).
+		* If paid, Lugo can likely restrain his fellows from attacking (75%).
+		* If targets don't pay, are too uppity, or the bestial varumani are simply bored, they attack.
 
-The gang has built a low rock wall (4’ tall) across the mouth of the cave, giving their members 50% cover (and serving to deter the rust monsters (see 8-140). They have also placed torches in the passageway to 8-137. They loudly demand ‘tribute’ of any who pass, in the form of silver coins (50 sp per head) or pretty rocks (gemstones, of any sort). If the tribute is paid, Lugo will most likely restrain his fellows from attacking (75%). The gang attacks if one of the following occurs: 1) the tribute is not paid; 2) the victims pay, but are not suitably humble; or 3) the bestial varumani simply decide to attack regardless of Lugo’s orders (25%).
-
-Inside their cave, the gang has accumulated three hammocks, two kegs of Hak’s ale (see 7-94), three dead goats, two recently slain adventurers hanging from hooks, a sack of dried edible mushrooms; two shields; five spears; and a wooden chest with their loot.
-
-The varumani feed all metal except coins (e.g., the armor of the dead adventurers) to the rust monsters in 8-140. There is a 15% chance that noisy combat here draws the rust monsters within three rounds; the chance rises by 5% for every round starting with the fourth.
+* (15%) noisy combat draws the rust monsters within 3 rounds; +5% each round after.
+	* The varumani feed all metal except coins (e.g., the armor of the dead adventurers) to the rust monsters in 8-140.
 
 Lugo, a lesser varumani (see new monsters): SZ L; AL LE; AC 3; MV 90’; HD 8; HP 57; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (mace, 3-18+4). Special defenses: 33% resistant to mind-
 affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-level magic user, whichever is better; regenerate 3 HP/rd; infravision. Possessions: stone club (as mace); shield.
@@ -2585,56 +2774,40 @@ affecting magic; immune to cold and poison; save as 8th-level fighter or 8th-lev
 
 5 bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 58, 57, 55, 53, 49; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
 
-Treasure:
-In addition to the mundane equipment, the loot chest contains: 793 sp; 174 gp; 101 ancient silver pennies (see Arden Vul items); 3 citrines (55 gp each), 4 zircons (45 gp each), 2 peridots (500 gp each), and an orange jacinth (5,000 gp); a set of six throwing daggers +1; a set of Banion’s dice made of bone (see new magic items); and a pair of boots of the ogre (see new magic items).
-
 ### 8-137: Cave with Cliff and Tunnel Up to 7-40
 
-This large, 60’-tall cavern has a particularly uneven floor, with lots of small holes and ridges. Movement is reduced by half, or else explorers risk a 25% chance per round of taking 1-4 damage from tripping on the terrain. The cavern is dominated by an imposing, 40’-tall cliff that runs along its southern edge. The cliff face is relatively smooth, and can be climbed with some difficulty by thieves (-10% to climb walls). A shelf extends along the south wall above the cliff, beyond which is a steeply rising tunnel that leads to area 7-40.
+* This large, 60’-tall cavern has a particularly uneven floor, with many small holes and ridges (moving faster than half: 25% / round of falling and taking 1d4).
+	* An imposing, 40’-tall cliff runs along its southern edge, dominating the cavern.
+		* The cliff face is relatively smooth (-10% to climb walls).
+	* A shelf extends along the south wall, above the cliff, beyond which is a steeply rising tunnel to 7-40.
+	* A 15' wide, flattened patch of floor lies at the bottom of the cliff by the eastern edge; a similar flat patch is at the top of the cliff in the same location.
+		* Embedded in the floor at each spot's center is a 10' tall oaken shepherd’s crook with a copper bell about 3’ in diameter hanging from it.
+		* A short piece of doggerel (Mithric) has been inscribed on the flattened rock.
+			* Five for the furious
+			* Four for some fun
+			* Three for trouble
+			* Two to be spun
+			* And One? One is for the lonely
 
-Two patches of worked stone exist, one at the bottom of the cliff by the eastern edge, and the other at the top of the cliff in the same location. At each location the rock floor has been smoothed flat in a 15’-diameter circle, and a short piece of doggerel has been inscribed on the flattened rock. An oaken shepherd’s crook some 10’ high is firmly inserted into the rock in the exact center of each location; from each crook hangs a copper bell about 3’ in diameter. 
+The Bells
+* Ringing a bell has a magical effect depending on the number of rings.  The doggeral is a clue to its effects (only twice is safe ‘to be spun’). 
 
-The doggerel is written in Mithric, and reads as follows:
+Number of Rings Effect
+* Five
+	* Fury: All within 20’ must save versus spells or attack someone nearby for 1-4 rounds
+* Four
+	* Fun: 3 imps dressed as clowns are summoned. They perform card tricks and sleight of hand for 1 turn. At the end of the show, one passes his bowler hat: if it collects at least 10 gp, they leave without incident. If less than 10 gp, or they are interrupted during the show, they attack for 4-5 rounds before returning to their home plane.
+* Three
+	* Trouble: An aerial servant is summoned and attacks immediately.  (50%) it seeks to grab victims, fly to the roof of the cave, and drop them (6d6).
+* Two
+	* To be Spun: The bell ringers is spun in a circle 3 times, and then teleported to the other crook (i.e., from the foot of the cliff to the top, or vice versa)
+* One
+	* Lonely: The bell ringer is teleported to a random location in Arden Vul (d8):
+		* AV-27 (1), 4-163 (2), 6-55 (3), 7-130 (4), 8-84 (5), SL3-5 (6), SL4-53 (7), SL7-39 (8)
 
-Five for the furious
-Four for some fun
-Three for trouble
-Two to be spun
-And One? One is for the lonely
+3 imps: SZ S; AL LE; AC 2; MV 60’, 180’ flying (Class C); HD 2+2; HP 16, 14, 13; #AT 1; Dmg 1-4; MR 25%. Special attacks: poison. Special defenses: silver, or +1 or better weapons to hit; immune to fire, cold and electricity; save vs magic as 7 HD creatures. Special: polymorph self (to animal form); detect magic; detect good; detect magic; invisibility; regenerate 1 hp/round, suggestion 1/day
 
-The doggerel provides a clue to using the bells. Each number in the verse refers to a number of rings of one of the bells, and provides a cryptic clue to the effects wrought by ringing the bell that many times. The only safe solution is to ring the bell twice (‘to be spun’). 
-
-All of the effects are summarized as follows:
-
-Num of Rings Effect
-Five
-
-Fury: All within 20’ must save versus spells or attack someone nearby for 1-4 rounds
-
-Four
-
-Fun: Three imps dressed as clowns are summoned. The imps perform card tricks and sleight of hand for one turn. At the end of the show, one passes his bowler hat: if at least 10 gp are placed in the hat, the imps leave without incident. If no tip is offered, or it is less than 10 gp, or if they are interrupted during the show, the imps attack for 4-5 rounds before returning 
-to their home plane. 3 imps: SZ S; AL LE; AC 2; MV 60’, 180’ flying (Class C); HD 2+2; HP 16, 14, 13; #AT 1; Dmg 1-4; MR 25%. Special attacks: poison. Special defenses: silver, or +1 or better weapons to hit; immune to fire, cold and electricity; save vs magic as 7 HD creatures. Special: polymorph self (to animal form); detect magic; detect good; detect magic; invisibility; regenerate 1 hp/round, suggestion 1/day
-
-Three
-
-Trouble: An aerial servant is summoned. It attacks immediately, with a 50% chance of seeking to grab victims, flying to the roof of the cave, and dropping them for 6d6 damage. Aerial servant: SZ L; AL N; AC 3; MV 240’; HD 16; HP 101; #AT 1; Dmg 8-32; surprise on 1-4; grab attack; surprise foes with4 in 6 chance.
-
-Two
-
-To be Spun: The bell ringers is spun in a circle three times, and then teleported to the flattened rock on the other side of the cliff (i.e., from the foot ofthe cliff to the top, or vice versa)
-
-One
-
-Lonely: The bell ringer is teleported to a random location in Arden Vul. To determine, roll d8:
-1= area AV-27
-2= area 4-163
-3= area 6-55
-4= area 7-130
-5= area 8-84
-6= SL3-5
-7= SL4-53
-8= SL7-39 
+Aerial servant: SZ L; AL N; AC 3; MV 240’; HD 16; HP 101; #AT 1; Dmg 8-32; surprise on 1-4; grab attack; surprise foes with4 in 6 chance.
 
 ### 8-138: Caves with Iron Ore 
 
@@ -2678,89 +2851,107 @@ Lonely: The bell ringer is teleported to a random location in Arden Vul. To dete
 
 ### 8-141: Lurker Cave
 
-This broad cave is 40’ tall at its northwestern, open end, but thanks to a large flowstone drift the southeastern end is only 15’ tall. The flowstone is a beautiful caramel color, and is slightly wet. Scattered about the flowstone are four piles of cleaned bones, including a recent pile that seems to have been a 5’-tall quadruped (a rust monster).
+* This broad cave is 40’ tall at its open, northwestern end.  A large, slightly wet flowstone drift, a beautiful caramel color, rises so the southeastern end is only 15’ tall.
+	* Scattered about the flowstone are four piles of cleaned bones.  One recent pile is from a 5’-tall quadruped (a rust monster).
+	* The south tunnel leads to a locked stone door, inscribed with an Archontean seal.
+		* With ancient history or architecture lore, 15% to recognize the seal as that of Phocion the Builder, the famous architect (see his statue at SL7-22).
+		* Before the door is a pile of bones from of a human adventurer.
+			* Banded mail +2; glaive-guisarme +1; a crossbow with 15 bolts; 1,741 gp scattered on the floor; and a gold ring (450 gp).
 
-The tunnel to the south leads to a locked stone door, on which is inscribed an Archontean seal. Only those with a previously-demonstrated dedication to ancient history or architecture have a chance (15%) to recognize the seal as that of Phocion the Builder, the famous architect (see his statue at SL7-22). Before the door is another pile of bones, this time of a human adventurer; thanks to the lurkers above, the rust monsters have not yet been able to 
-devour the adventurer’s gear.
+* Two lurkers above make the cave their home. 
+	* One typically in the large open area.
+	* The other lurks in the tunnel, just above the door to 8-142.
 
-Two lurkers above make the cave their home. One typically is found in the large open area, while the other lurks in the tunnel, just above the door to 8-142.
-
-As the lurkers have recently slain one of their number, the rust monsters are hesitant to visit this cave, even though they can smell the metallic treasure to the south. As a result, there is only a 10% chance for the rust monsters to be present here.
+* (10%) The rust monsters are seldom here, even though they can smell the metallic treasure to the south, as the lurkers recently slew one of them.
 
 2 lurkers above: SZ L; AL N; AC 6; MV 10’, 90’ flying (Class D); HD 10; HP 68, 64; #AT 1; Dmg 1-6. Special attacks: surprise 4 in 6; constriction; suffocation. Special defenses: 90% undetectable against stone.
 
 2 rust monsters (10%): see stats at 8-140.
 
-Treasure:
-Near the bones of the adventurer: banded mail +2; glaive-guisarme +1; a crossbow with 15 bolts; 1,741 gp scattered on the floor; and a gold ring (450 gp).
-
 ### 8-142: False Tomb of Phocion the Builder
 
-The tomb of the famed Arden Vul architect, Phocion the Builder, lies in this forgotten corner of Level 8. Responsible for designing most of the public spaces in the city, as well as the main temples of Thoth and Set, Phocion was a major figure in the glory days of Arden Vul. 
-
-The stone door to this false tomb is locked, and marked with the seal of Phocion (see 8-141). It can be opened by picking the lock (-15% chance) or breaking down the door (3-6 turns).
-
-The chamber within is 15’ tall, with walls simply decorated with a single word inscribed in Mithric. To the east, the word is ‘beauty’, to the south ‘strength, and to the west ‘utility’. The 
-inscriptions stand out from the bare granite because they are filled with silver (150 gp total). 
-
-Sarcophagus: The chamber is dominated by a 12’x5’x4’ sarcophagus made of stone. Atop the sarcophagus is a fine gisant of Phocion, dressed simply in a tunic with a belt pouch, and carrying a level and a set of architect’s dividers. The lid of the sarcophagus can be removed by making a successful bend bars roll. Within is a 6’x3’x2’ compartment, in which a set of human bones rest. A scattering of 53 ancient gold solidi (see Arden Vul items) and 157 ancient silver pennies (see Arden Vul items) carpets the inner compartment.
-
-In addition, a tightly rolled scroll rests within: it bears the title Testament of Phocion the Builder (see Arden Vul books). The scroll contains an acrostic that hints at the location of the secret door on the south wall; the door is located under the ‘S’ in the inscription (‘strength’) found on that wall.
-
-False Door: To the west is a small (only 4’x3’) stone door. Despite its inviting nature, it is impossible to open.
-
-Secret Door (south): This door is quite small (3’x3’) and difficult to detect (1 in 8). It can only be opened by sheer physical force (i.e., by succeeding at a bend bars roll, or by spending six turns noisily destroying it with suitable tools).
+* This forgotten corner of Level 8 holds the tomb of the famed Arden Vul architect, Phocion the Builder.
+	* Phocion designed most of the public spaces in Arden Vul in its glory days, as well as the main temples of Thoth and Set.
+* The stone door (locked, -15% to pick; 1d4+2 turns to break) to this false tomb is marked with Phocion's seal (see 8-141).
+* The chamber is 15’ tall.
+	* The granite walls are each decorated with a Mithric word filled with silver (150 gp).
+		* Beauty (east), Strength (south), Utility (west).
+	* The chamber is dominated by a 12’x5’x4’ sarcophagus of stone.
+		* A fine gisant on the lid shows of Phocion, dressed simply in a tunic with a belt pouch, and carrying a level and a set of architect’s dividers ()
+			* Bend bars to force open.
+		* Within is a 6’x3’x2’ compartment, holding a set of human bones.
+			* 53 ancient gold solidi, 157 ancient silver pennies.
+			* A tightly rolled scroll; the Testament of Phocion the Builder (books).
+				* The scroll contains an acrostic hinting at the location of the secret door on the south wall; located under the ‘S’ in ‘Strength’).
+		* False Door (west): a small (4’ x 3’) stone false door.
+		* Secret Door (south): quite small (3’x3’), difficult to detect (1 in 8).
+			* Opens only by force (bend bars, or 6 turns of noisily hammering).
 
 ### 8-143: Tomb of Phocion the Builder
 
-The tomb of Phocion is a striking epitome of the artistry of a gifted designer and his workmen. The ceiling is 15’ tall, and carved so as to suggest a wooden beamed ceiling. Two 10’x4’x4’ stone sarcophagi and two tall bronze statues provide a natural focus to those entering. Large, silver-filled inscriptions occupy the diagonal walls of the northern and southern niches. A 20’-diameter mosaic, surrounded by another silver inscription, occupies the floor in the center of the chamber. 
+* The tomb of Phocion is a striking epitome of the artistry of a gifted designer and his workmen.
+	* The ceiling is 15’ tall, carved to suggest a wooden beamed ceiling.
+	* Two stone blocks, the northern a sarcophagus, the southern a stone table.
+		* Sarcophagus
+			* Plain (12’x8’x4’) with “Phocion” on the lid.  Continuous mid-relief sculpture along the side shows the builder at work, directing men raising stone blocks, carving out caverns, and erecting a pyramid. 
+			* The lid is easily prized open
+				* Phocion's mummified remains, surrounded by desiccated flowers, pure white sand, a ring of fire resistance (actually a ring of delusion); a heavy signet ring with the letter ‘P’ (450 gp); a rod of beguiling (19 charges); a rudishva ==repli-cube== and a partly-full lesser power supply (tech); a platinum cloak pin set with lapis (850 gp).
+		* Stone Table
+			* Its side carvings matches the sarcophagus.  It detects strongly of magic.
+			* A grid of ½”-square holes and a rose compass is carved into the top of the table (19 holes in each row/column, 1” apart; each side of the grid is 26.5” from corner to corner, 361 total holes).
+			* Arranged around the grid are neat piles of different, appropriately-sized ==building materials==.
+	* Two 8'-tall bronze statues of Phocion in the eastern and western niches.
+		* Both show Phocion with closely trimmed beard and hair, and with a naturalistic face (large nose, several warts, and kind eyes).  Tarnished by age and humidity, but still great works of art (2,500 gp each).
+		* East: Phocion as a typical Archontean toga-ed aristocrat gesturing into the center of the room.
+		* West: Phocion as an architect, with simple tunic and belt pouch, holding forth his dividers and level.
+	* Large, silver-filled inscriptions (Mithric, 65 gp each) occupy the diagonal walls of the northern and southern niches.
+		* Northwest: "Theory and practice are the sires of art."
+		* Northeast:" Strength means locating a solid foundation and choosing proper materials."
+		* Southeast: "Utility requires a judicious distribution of the parts, with each in its proper place serving its proper purpose."
+		* Southwest: "Beauty derives from a proper sense of proportion and from the pleasing appearance and good taste of the whole."
+	* A 20’ mosaic, surrounded by another silver inscription, occupies the floor in the center of the chamber. 
+		* Beautiful, with tesserae of brightly-colored stone forming four quadrants, each with an image and with a silvered-inscribed word along the outer edge.
+			* The tesserae (500 gp) can be pried up, or if the whole mosaic is somehow excavated (600 lb, 10,500 gp).
+		* 1) ‘Proportion’; a rectangle of silver tesserae surrounded by azure blue tiles; if measured, the long side is twice as long as the short side [not quite the golden ratio, but close].
+		* 2) ‘Uniformity’; an elevation of a building front, in ivory tesserae with thin black onyx edges, with three columns on either side of a central door. 
+		* 3) ‘Consistency’; the front and side of a dwelling in one-point perspective, as well as a rose compass; the building is in ivory tesserae with edges marked out in thin pieces of black onyx. The columns at the front are simple (doric), and there is a window in the side wall. The rose compass indicates that the window is to the east. 
+		* 4) ‘Economy‘; a small person (in blue quartz) inspecting pieces of granite, silver and marble; he points to the granite piece.
+	* Secret Door (west): magically held, opens when the architectural puzzle is solved.
 
-Inscriptions: The letters are in Mithric and filled with silver. It takes a turn to scrape the silver out of each inscription, earning the thief 65 gp per inscription. Clockwise from the northwest, the inscriptions read:
+Repli-cube
+* Projects an image of Phocion as an old man; the aged architect speaks (Mithric) for 8 minutes about several matters.
+	* There is enough charge for the recording to play twice.
+* First, he speaks for 4 minutes about the principles of proper architectural design, emphasizing the four key components of proportion, uniformity, consistency, and economy. 
+* The second portion of the recording is more confessional; Phocion modestly describes his dividers (see 8-144), gliding quickly over their properties before lamenting the greed and deception he could see in his comrades’ eyes as Phocion himself grew closer to death. 
+* Phocion then becomes slightly opaque, noting that he devised one last ‘great work’ meant to keep the dividers secret until ‘one who was worthy’ proved capable of understanding Phocion’s life work and the ‘proper combination of beauty, function, and strength’ (a reference to the puzzle here in 8-143, and the hidden room where the dividers rest to this day).
 
-Northwest: Theory and practice are the sires of art.
+Building Materials (5000 gp to a collector)
+* 3 piles of 3 ½”-wide, 7”-tall wall segments, cut with ½”-square pegs spaced 1” apart on its base, and inset along its height allowing the insertion of up to 3 pillars along the front of the wall segment.
+	* Piles: 15 wall segments in silver, 15 in granite, and 15 in white marble.
+	* A fourth pile: wall segments with windows; 4 segments in silver, 4 in granite, and 4 in white marble.
+* 6 piles of pillars that can be inserted into wall segments.
+	* Piles of 48 pillars: oak, ebony, silver, gold, white marble, and granite.
+* 3 piles of gabled roof pieces, clearly suited to laying across the wall pieces.
+	* silver pieces: 2 ends and 4 interior pieces; each piece 3 ½” by 3 ½”.
+	* granite pieces: 2 end and 6 interior pieces; each piece 7” by 3 ½”.
+	* white marble: 2 end pieces and 8 interior pieces; each piece 10 ½” by 3 ½”.
+	* End pieces have a pediment on one side.  Interior pieces are just the roof.
 
-Northeast: Strength means locating a solid foundation and choosing proper materials. 
-
-Southeast: Utility requires a judicious distribution of the parts, with each in its proper place serving its proper purpose. 
-
-Southwest: Beauty derives from a proper sense of proportion and from the pleasing appearance and good taste of the whole.
-
-Mosaic: The mosaic is beautiful, with tesserae of brightly colored stone forming four quadrants. In a separate circular band around the mosaic proper are the word Proportion, Uniformity, Consistency, Economy. The quadrant by the word ‘proportion’ shows a rectangle made of silver tesserae surrounded by azure blue tiles; if measured, it appears that the long side is twice as long as the short side [this is not quite the golden ratio, but it comes close]. 
-
-The quadrant next to the word ‘uniformity’ shows an elevation of a building front, in ivory tesserae with thin black onyx edges, with three columns on either side of a central door. The third quadrant, next to the word ‘consistency’, features the front and side of a dwelling in one-point perspective, as well as a rose compass; the building is in ivory tesserae with edges marked out in thin pieces of black onyx. The columns at the front are simple (doric), and 
-there is a window in the side wall. The rose compass indicates that the window is to the east. The final quadrant has a small person (in blue quartz) inspecting pieces of granite, silver and marble; close inspection shows the figure is pointing to the granite piece. 
-
-If the mosaic is destroyed, the value of the tesserae is 500 gp; if the mosaic is somehow excavated and brought to civilization (it weighs 600 lb), it would be worth 10,500 gp. 
-
-Statues: The eastern and western niches contain 8’-tall bronze statues of Phocion. The eastern statue shows Phocion as a typical Archontean aristocrat, dressed in a toga and gesturing into the center of the room. The other statue depicts him as an architect, wearing a simple tunic and belt pouch and holding forth his dividers and level. Both show him with closely trimmed beard and hair, and with a naturalistic face (large nose, several warts, and 
-kind eyes). Although tarnished by age and humidity, the statues are great works of art and could fetch 2,500 gp each from an Archontean collector.
-
-Sarcophagi: The sarcophagus to the north is a plain rectangle some 12’x8’x4’ in dimensions. The word “Phocion” is inscribed on the lid and a continuous mid-relief sculpture runs along its side. The images represent the builder at work, directing men raising stone blocks, carving out caverns, and erecting a pyramid. The lid may easily be prised open; within are the mummified remains of Phocion, surrounded by desiccated flowers, pure white sand, and 
-several valuable objects: a ring of fire resistance (actually a ring of delusion); a heavy signet ring with the letter ‘P’ (450 gp); a rod of beguiling (19 charges); a rudishva repli-cube and a partly-full rudishva lesser power supply (see new technological items); and a platinum cloak pin set with lapis (850 gp). 
-
-If activated, the repli-cube immediately projects an image of Phocion as an old man; the aged architect speaks in Mithric for 8 minutes about several matters. First, he speaks for 4 minutes about the principles of proper architectural design, emphasizing the four key components of proportion, uniformity, consistency, and economy. The second portion of the recording is more confessional; Phocion modestly describes his dividers (see 8-144), gliding quickly over their properties before lamenting the greed and deception he could see in his comrades’ eyes as Phocion himself grew closer to death. Phocion then becomes slightly 
-opaque, noting that he devised one last ‘great work’ meant to keep the dividers secret until ‘one who was worthy’ proved capable of understanding Phocion’s life work and the ‘proper combination of beauty, function, and strength’ (a reference to the puzzle here in 8-143, and the hidden room where the dividers rest to this day). The charge on the power supply only allows the recording to be played twice before it is exhausted; of course those with their own 
-power supplies and knowledge of how to use them could easily replay the image (or even record over it).
-
-The second ‘sarcophagus’ is actually a stone table, carved on its side in the same scheme as the northern sarcophagus. It detects strongly of magic. A grid of ½”-square holes and a rose compass is carved into the top of the table; there are nineteen holes in each row/column, each 1” from its neighbor. This means that each side of the grid is 26.5” wide from corner to corner, and that there are a total of 361 holes. 
-
-Arranged around the grid are neat piles of appropriately sized building materials made of different substances. There are three piles of 3 ½”-wide, 7”-tall wall segments, each cut so as to have ½”-square pegs spaced 1” apart on its base and inset along its height so as to allow the insertion of up to three pillars along the front of the wall segment. The piles are divided by material: one of 15 wall segments in silver, one of 15 in granite, and one of 15 in white marble. A fourth pile contains wall segments with windows; there are four segments in silver, four in granite, and four in white marble. Another six piles contain pillars that can be inserted into wall segments. There are piles of oak, ebony, silver, gold, white marble, and granite pillars; each pile contains 48 pillars. Finally there are three piles of roof pieces, with each pile distinguished by size and material. One of the roof piles has six pieces, 2 ends and four interior pieces; each piece is 3 ½” by 3 ½”, and is made of silver. The second pile of roof pieces contains granite pieces 7” by x 3 ½” in size; there are two end pieces and six interior pieces. The last pile of roof pieces is in white marble, with pieces measuring 10 ½” by 3 ½”; there are two end pieces and eight interior pieces. All roof pieces are gabled roofs; end pieces have a pediment on one side, while interior pieces are just the roof itself. The roof pieces are clearly suited to laying across the wall pieces. Regardless of what explorers do with the building pieces, the entire set could be sold for 5,000 gp.
-
-Puzzle: Clearly the ‘building blocks’ are a puzzle. If a Greek-style building is constructed following the principles hinted at in the mosaic and inscriptions, the secret door to area 8-144 opens with an audible click. To activate this magical trigger, the following principles must be followed:
-
-1. A structure must be built, using the grid on the table top, using wall segments, pillars, and roof pieces
-2. The proportions of the structure must be 2:1 (per the mosaic hint). Although buildings of any size could be constructed in this proportion, the size of the roof pieces (either 3 ½”, 7”, or 10 ½”) functionally limits a builder’s choices to one of the following: a building with one wall segment on the short side and two on the long side, or a structure with two wall segments on the short side and four on the long side, or a building with three wall segments on the short side and six segments on the long side. Building in any of these ways satisfies Phocion’s requirement of ‘proportion’, although only one of the three choices satisfies the principle of ‘economy’ (see below).
-3. The eastern wall of the structure must contain at least one window; the rose compass determines which side is east. This satisfies the principle of ‘consistency’.
-4. The materials used must be uniform, that is, the entire building must be composed of granite, silver, or white marble (but see point 5). Adding pillars of any of the ‘odd’ materials is unacceptable. Building in this way satisfies the principle of ‘uniformity’.
-5. The building must be constructed using granite, not silver or white marble. This satisfies Phocion’s principle of ‘economy’. This requirement effectively limits the size of the structure to be built because only one of the three sizes of roofing comes in granite (the 7” x 3 ½” size). 
-
-By following all these principles, it will become evident that the only solution to the puzzle is as follows: use two granite wall segments on each short sides and four granite wall segments on each long side; on the eastern long side, include at least one window; use granite pillars throughout; and use the granite roof pieces.Secret Door (west wall): The door on the west wall is normal to detect, but is magically held. Only solving the architectural puzzle (see above) will cause the door to open with an audible click. Other than this method, only very powerful magic allows access to 8-144.
-
-Treasure:
-1. In Phocion’s sarcophagus: ring of fire resistance (actually ring of delusion), a signet ring (450 gp), rod of beguiling, a rudishva repli-cube and lesser power supply (see new technological items), and a platinum cloak pin (850 gp).
-2. Statues: 2,500 gp each, if a way to move them is found.
-3. Mosaic: 500 gp if destroyed, 10,500 gp if somehow transported intact.
-4. Building set: up to 5,000 gp to a collector of curiosities.
+Puzzle
+* If a Greek-style building is constructed following the principles hinted at in the mosaic and inscriptions, the secret door to 8-144 opens with an audible click.
+* The following principles must be followed:
+	1. A structure must be built, using the grid on the table top, using wall segments, pillars, and roof pieces.
+	2. The proportions of the structure must be 2:1 (per the mosaic hint).
+		* Buildings of any size could be constructed in this proportion, but the size of the roof pieces (either 3 ½”, 7”, or 10 ½”) functionally limits a builder to one of the following:
+			* A building with 1 wall segment on the short side and 2 on the long side, or a structure with 2 wall segments on the short side and 4 on the long side, or a building with 3 wall segments on the short side and 6 segments on the long side.
+			* Building in either way satisfies Phocion’s ‘proportion’, but only one choice satisfies the principle of ‘economy’ (see below).
+	3. The eastern wall of the structure (indicated by the rose compase) must contain at least one window to satisfy the principle of ‘consistency’.
+	4. To satisfy the principle of ‘uniformity’, the materials used must be uniform; i.e. the entire building must be granite, silver, or white marble (but see point 5).
+		* Adding pillars of any of the ‘odd’ materials is unacceptable. 
+	5. The building must be constructed of granite, not silver or white marble, satisfying Phocion’s principle of ‘economy’.
+		1. This limits the size of the structure to because only 1 of the 3 sizes of roofing comes in granite (the 7” x 3 ½” size). 
+* By following all these principles, the only solution is as follows:
+	* Use 2 granite wall segments on each short side and 4 granite wall segments on each long side; on the eastern long side, include at least 1 window; use granite pillars throughout; and use the granite roof pieces.
 
 ### 8-144: Phocion’s Dividers
 
@@ -2788,28 +2979,32 @@ Treasure:
 
 ### 8-147: Antechamber to Singing Grotto 
 
-A 20’-diameter mosaic sits in the center of this 15’-tall antechamber, and seven oversized (10’ tall) stone doors line the walls. Six relatively recent corpses are strewn about the floor. 
 
-Mosaic: The mosaic shows at its center a Thothian cleric, singing sweetly. In the first circular register around him are some unusual, tribal-looking heads with open mouths, each with a letter from A to G under it. The outer register shows various creatures, some recognizable but others alien. The clever may notice that a head and letter are associated with a particular figure in the outer register, in the manner indicated by this table (see areas 8-147A to 8-147G for explanations):
+* This 15’-tall antechamber.
+	* Seven 10’ x 4’ stone doors line the walls.
+		* Use of the horns at 8-148 opens them, otherwise they are magically held.
+		* Once opened, a door can be spiked open for 6 hours, and its chamber contents don't replenish.  Once a door shuts, the contents instantly replenish.
+	* A 20’-diameter mosaic sits in the center.
+		* A Thothian cleric, sings sweetly at the center.  The first circular register around him are unusual, tribal-looking heads with open mouths, lettered from A to G.
+		* The outer register shows various creatures, some recognizable, others alien.
+			* A head and its letter are associated with a particular figure in the outer register: (see 8-147A to 8-147G for explanations):
+				* A A butterfly-like creature with open mouth
+				* B A baboon-headed biped with four arms
+				* C A cleric of Thoth in formal, orange, ceremonial garb
+				* D A pair of black birds (starlings)
+				* E Another butterfly-like creature with open mouth
+				* F A fire-breathing dog
+				* G A blocky, golem-like entity
+		* 6 relatively recent corpses are strewn about the floor. 
+			* 2 appear scorched, 2 are badly cut up, and 2 have no visible wounds save for blood in their ears.
+				* leather armor +2, studded leather armor +1, banded mail +1, a shield +2, a two-handed sword, a long sword +1, a mace, six throwing axes, a guard cap (new), a pair of bracers of defenselessness, a bag of beans, two gold statuettes of Khumus warriors (450 gp each), an ebony and ivory lyre (800 gp), a scorched and useless spell book, a metal scroll case containing a protection from magic scroll, 479 gp and 563 sp.
+			* Next to one corpse is a shattered antique black-ware vase.
+				* Reassembled, it shows a Thothian priest standing next to the Great Head.  Inscribed (Mithric) “Eustachius sings his lament to open the door” below it.
 
-Head and Letter Creature
-A A butterfly-like creature with open mouth
-B A baboon-headed biped with four arms
-C A cleric of Thoth in formal, orange, ceremonial garb
-D A pair of black birds (starlings)
-E Another butterfly-like creature with open mouth
-F A fire-breathing dog
-G A blocky, golem-like entity
-
-Doors: The doors are 10’x4’ in size, and cannot be opened from 8-147 (they are magically held). Only by manipulation of the horns at 8-148 (q.v.) may a door be opened. Once opened, a door may be spiked or otherwise held open for up to 6 hours, during which time the contents of its chamber do not replenish. Otherwise, once a door opens and shuts, the contents of the room to which it leads are instantly replenished.
-
-Corpses: Two of the corpses appear to have been scorched, two more have been badly cut up, and the final two have no visible wounds save for blood in their ears. The equipment of some of the corpses is still usable (see below).
-
-Backstory: Eustachius designed these doors and the summoning chambers to which they lead both for security and as a way of delighting his visitors. They were linked to specific songs and melodic moods as played by the horns and heads in 8-148. Although he initially changed the contents of the magical chambers on a regular basis, as he grew closer to death he tended to favor security (i.e., summoned entities) over entertainments.
-
-On the corpses: leather armor +2, studded leather armor +1, banded mail +1, a shield +2, a two-handed sword, a long sword +1, a mace, six throwing axes, a guard cap (see new magic items), a pair of bracers of defenselessness, a bag of beans, two gold statuettes of Khumus warriors (450 gp each), an ebony and ivory lyre (800 gp), a scorched and useless spell book, a metal scroll case containing a protection from magic scroll, 479 gp and 563 sp. 
-
-Next to one of the corpses: a shattered antique black-ware vase. If reassembled it shows a scene of a Thothian priest standing next to the Great Head, with the inscription (in Mithric) “Eustachius sings his lament to open the door” below it.
+Backstory
+* Eustachius designed these doors and their summoning chambers for security and as a way of delighting his visitors.
+* They were linked to specific songs and melodic moods as played by the horns and heads in 8-148.
+* Though he initially changed the contents of the magical chambers on a regular basis, as he grew closer to death he tended to favor security (i.e., summoned entities) over entertainments.
 
 ##### 8-147a: A is for Aerodis
 
@@ -2858,140 +3053,118 @@ missiles (including magic missile), fire, cold, mind-affecting spells (e.g. char
 
 ### 8-148: The Singing Grotto 
 
-This large grotto was discovered by the cantor of the cult of Thoth, Eustachius. He developed it into one of the marvels of ancient Arden Vul, one known and appreciated by the elites whom Eustachius permitted to visit. The cave has a 35’ ceiling. Several pillars of rock extend from floor to ceiling (one also descends into a sinkhole). A light breeze circulates through the chamber in a counter-clockwise direction commencing from the natural pillar marked G. 
+* This large grotto was discovered by the cantor of the cult of Thoth, Eustachius, who developed it into one of the marvels of ancient Arden Vul, known and appreciated by the elites Eustachius permitted to visit.
+* The cave has a 35’ ceiling.
+	* The lightly sanded floor appears natural, but it has been subtly shaped.
+	* All natural (and no shaped) stone is covered with whispering fungus (flora), a pale yellow, phosphorescent, and slightly furry fungus that ripples in the breeze.
+		* It has a basic collective sentience in patches of 20 square feet or more; one of its acts of volition is to ripple the air to create the breeze. 
+	* Several pillars of rock extend from floor to ceiling, each with tiki-like ==stone head== carved into into one side.
+		* The ‘F-head’ is on an outcropping of the north wall of the cave (not a pillar).
+		* The 'G-head' pillar stands in a 15' wide, 10' deep sinkhole with sheer walls.
+			* The bottom opens into the tunnels between 8-145 and 8-156.  A breeze rises through the sinkhole and helps activate the whispering fungus.
+	* The southern niche contains a colossal boulder (15’x15’x15’) shaped to resemble a ==huge stone head==.
+		* Olmec-style: 2 oval eyes, a flattened nose, broad cheeks, thick lips open in an ‘o’, and a band around its head.  The top of the boulder is flat.
+	* A flattened 40’x10’ portion of the southeast wall is "==the wall of songs==".
+		* Eustachius used it as a blackboard to record the most successful of his compositions.  2 lumps of chalk and a a rotted step ladder sit nearby.
+		* Some remnants of his composing process are still legible.
+	* To the west are 7 looping horns with bronze mouthpieces carved into a carefully shaped ledge of rock circling the western portion of the cave.
+		* Each ‘horn’ is finely crafted, an actual tusk or horn in clever stone channels, each slightly different (apertures, materials, mouthpieces).
+		* Each horn ‘plays’ a distinct note, emerging from the appropriate lesser head.
+			* Counter-clockwise from the upper right, the notes are C, D, E, F, G, A, and B. Flatted or sharped tones made by varying the embouchure used when sounding a horn.
 
-All of the natural stone – but not the shaped areas - is covered with whispering fungus (see new flora), a pale yellow, phosphorescent, and slightly furry fungus that ripples in the 
-moving air. The fungus possesses a basic collective sentience in patches of 20 square feet or more, and one of its acts of volition is to ripple the air so as to create the breeze. 
+* (25%) the phase spider (8-156) comes to investigate sounds of human activity, but only if 6+ rounds have passed without music from the heads.
 
-The lightly sanded floor may appear to be natural, too, but dwarves will know immediately that it has been carefully shaped. 
+Lesser Heads
+* Each lesser head is carved into one side of a rock pillar in the main cave.
+	* They vary from 2’ (the G-head) to 5’ (the E-head) in height.
+	* Each has distinct facial features and expression, but share a few details:
+		* They don't resemble ‘normal’ Archontean sculpture, appearing more like Olmec Colossal Heads (flat noses, wide eyes, thick lips).
+		* Their lips are all slightly pursed, allowing sound to emanate from within
+		* All are 5’ above the cave floor.
+	* Each head is magically connected to a horn, and only sings a single note. 
 
-The wall to the southeast has been worked; it was known as the wall of songs, where Eustachius recorded the most successful of his compositions. To the west are seven looping horns carved into the stone and enhanced with bronze mouthpieces. Carved into one side of each of the seven main stone pillars is a 3’-tall, tiki-like stone head. The southern niche, moreover, contains an enormous boulder (15’x15’x15’) that has been entirely shaped to resemble a huge stone head. 
+The Wall of Songs: 
+* Some remnants of Eustachius’s composing process are still legible on the wall.
+	* 2 are notes in a spidery Mithric hand: “Compose swiftly, or face appropriate action!” and “Repetition does not equal music.”
+	* One tonal sequence, named ‘Restorative’, is also fully indicated: EEF+EAA-.
+	* The start of a second sequence, tantalizing entitled “Eustachius’s Lament” is also present, though most has been erased: B-D-.
+		* Full transcriptions of Eustachius’s Lament (aka the Cantor’s Lament) are in 3-57, 7-22, and 8-53.
 
-GM Note: This puzzle chamber allows the curious and clever to interact with Eustachius’s great creation, the Singing Grotto. The basic idea is that each of the seven horns is connected to one of the lesser stone heads; sounding a horn produces a distinct note, which echoes forth from the appropriate stone head (sounding the A horn produces an A note from the head marked A). If one sounds the horn in a certain sequence, certain effects may be triggered, including the release of the creatures bound in area 8-147A to 8-147G. Once one is done sounding individual notes through the horns (via a delay of 3 rounds after the last note played), the Great Head sings the sequence out in a beautiful, sonorous bass. 
-Replicating the sequence known as the Cantor’s Lament (see below, Table 1) not only causes the Great Head to sing its mournful lament, it also causes the Great Head to grind forward, revealing the staircase to 8-149. 
+The Great Head
+* Via Eustachius' sonic magic, sequences played by the horns and sounded by the lesser heads are sung forth in a melody by the Great Head in a deep but sonorous bass.
+	* The great head’s melodies vary slightly, but are typically mournful.
+* The Great Head encases a giant chunk of arcanum; 3d4 turns of serious excavation can get at it (11,000 lbs, 5' diameter).
+* If the Cantor’s Lament is ‘played’ on the horns, the Great Head grinds forward, revealing the stairs to 8-149. 
 
-The Horns: The sounding horns are built into a carefully shaped ledge of rock that circles the western portion of the cave. Each ‘horn’ is in fact a careful piece of craftsmanship that incorporates an actual tusk or horn into cleverly and magically carved stone channels in the cave wall. Each horn is slightly different, with apertures/mouthpieces of varying size and material. In addition, each horn ‘plays’ a distinct note, although the note sounds from 
-the appropriate lesser head. Working counter-clockwise from the upper right, the notes played by the horns are C, D, E, F, G, A, and B. For true music fans, it is possible to achieve a flatted or sharped tone by varying the embouchure used when sounding a horn.
-
-The Wall of Songs: A 40’x10’ portion of southeastern wall of the cave was flattened by Eustachius, who used it as a sort of blackboard on which to experiment with ‘compositions’ or note sequences. Two lumps of whitish chalk lie invitingly on the floor by the wall, and a long-decayed step ladder sits nearby. Some remnants of Eustachius’s composing process are still legible on the wall. Two are notes written in a spidery Mithric hand: “Compose swiftly, or 
-face appropriate action!” and “Repetition does not equal music.” One tonal sequence, named ‘Restorative’, is also fully indicated: EEF+EAA-. The start of a second sequence, tantalizing entitled “Eustachius’s Lament” is also present, although most has been erased: B-D-. For the effects of these sequences, see below. Full transcriptions of Eustachius’s Lament (aka the Cantor’s Lament) may be found at areas 3-57, 7-22, and 8-53.
-
-The Lesser Heads: Each of the lesser heads is carved into one side of a rock pillar in the main cave. The heads vary in size, from 2’ (the G-head) to 5’ (the E-head) in height. Each is distinct in its facial features and expression, but all share a few features: 1) they do not resemble ‘normal’ Archontean sculpture, but instead appear more like the Olmec Colossal Heads (flat noses, wide eyes, thick lips); 2) whatever their expression, the lips of each are slightly pursed, allowing sound to emanate from within; 3) all are placed at a level 5’ above the cave floor. Each head is connected by magic to one of the horns, and, as a result, each head only sings a single note. 
-
-Two of the lesser heads differ slightly from the others. The ‘F-head’ is not found on a free-standing pillar, but rather is carved onto an outcropping of the north wall of the cave. The ‘G-head’ is the most unusual, as it is carved into a pillar that rises from the center of a sinkhole extending 10’ below the level of the cavern floor (cf. the sinkhole below).
-
-The Great Head: This colossal boulder located in the southern portion of the cavern has been entirely shaped into another Olmec-style head. It has two oval eyes, a flattened nose, broad cheeks, and thick lips open in an ‘o’. A band of some sort surrounds its head. The 
-top of the boulder is flat. Via his sonic magic, Eustachius arranged it so that sequences of notes played by the horns and sounded by the lesser heads are sung forth in a melody by the Great Head. The great head’s melodies vary slightly, but are typically mournful. It sings in a deep but sonorous bass tone. Should the Cantor’s Lament be ‘played’ on the horns, the Great Head grinds forward, revealing the stairs to 8-149. The Great Head encases a giant chunk of arcanum (see new magic items); 3-12 turns of serious excavation on the head will reveal the arcanum.
-
-The Sinkhole: The sinkhole around the G-tone lesser head is about 15’ in diameter and 10’ deep. The walls of the sinkhole are fairly sheer. At its base it opens into the tunnel network leading between 8-145 and 8-156. A noticeable breeze may be felt on the sinkhole floor, one that rises into the main cavern and helps activate the whispering fungus.
-
-Effects Produced by Tone Sequences: As indicated above, sounding the horns in certain patterns produces ‘songs’ sung by the Great Head. As the possibilities for such composition are infinite, some guidelines for the GM are presented here. A few sequences are fixed, and produce the fixed effect noted below on Table 1. For all other note sequences, the GM must use some judgment. In general terms, Eustachius designed the system such that note sequences in major or ‘happy’ scales or modes produce positive effects, while those that are discordant or in minor keys/modes produce ‘negative’ effects. As players may not have much musical training or inclination, however, the GM has two ways to proceed when PCs produce a set of tones. If PCs hum a melody or even a specific song, the GM should judge whether that melody/song fragment is ‘positive’ or ‘negative’; the GM can then select whichever effect seems appropriate from Table 2. If the players don’t indicate a melody or song, or if they show little inclination to engage with the musical component, the GM can simply roll randomly to determine the effect produced by the PCs’ composition. 
-
-Note: In Archontean notation, F+ is the same as the modern western F-sharp, while A- is the same as our A-flat.
+The Singing Grotto
+* Eustachius’s great creation, the Singing Grotto.
+* Each of the 7 horns is connected to a lesser stone head.  Sounding a horn produces a distinct note, which echoes forth from the appropriate stone head.
+* 3 rounds after the last note is played, the Great Head sings the sequence in a beautiful, sonorous bass.
+	* Certain sounds can trigger magical effects.  Eustachius designed the system to magically express the emotions of the music; happy scales and modes produce positive effects, while discordant or minor ones cause negative effects.
+* In Archontean notation, F+ is the same as the modern western F-sharp, while A- is the same as our A-flat.
 
 Table 1: Fixed Effects of Certain Tone Sequences
 
-The following effects are fixed (i.e., playing any of these sequences only produces the associated effect). 
+* Playing any of these sequences only produces the associated effect. 
 
-Sequence of Tones Effect
-Any single note (without producing another tone within 3 rounds)
-
-The Great Head produces a loud raspberry sound
-
-AA (or any sequence of As without 
-other tones) Opens door A in 8-147
-BB Opens door B in 8-147
-CC Opens door C in 8-147
-DD Opens door D in 8-147
-EE Opens door E in 8-147
-FF Opens door F in 8-147
-GG Opens door G in 8-147
-Any combination of two or more 
-notes sounded simultaneously (by 
-several persons, of course)
-
-Cacophony from the various Heads, plus doors 8-147A and 8-147E open simultaneously 
-
-B-D-F-D-E
-
-The Cantor’s Lament; the Great Head sings a wordless lament (to Trane’s “Blue Train”) after 
-which the Great Head grinds forward, revealing the entry to 8-149
-
-The GM can assign a specific effect to other fixed sequences varies
+* Any single note (without producing another tone within 3 rounds)
+	* The Great Head produces a loud raspberry sound
+* NN (or any sequence of note N without other tones)
+	* Opens door N in 8-147
+* Any combination of 2+ sounded simultaneously (requires multiple persons, of course)
+	* Cacophony from the various Heads, plus doors 8-147A and 8-147E open simultaneously 
+* B-D-F-D-E (The Cantor’s Lament)
+	* The Great Head sings a wordless lament (to Trane’s “Blue Train”), after which the Great Head grinds forward, revealing the entry to 8-149
+	* This sequence may be discovered in 3-57, 7-22, and 8-53.
+* The GM can assign a specific effect to other fixed sequences
+	* Varies
 
 Table 2: Randomized Effects of Tone Sequences
 
-D20 Sequence of 
+D20 Sequence of Tones Effect
+* 1-4) Generic ‘happy song’
+	* Either door 8-147 C (33%), door 8-147D (33%), or door 8-147E (33%) opens
+* 5-8) Generic ‘sad’ song
+	* Either door 8-147A (25%), 8-147B (25%), 8-147F (25%), or 8-147G (25%) opens
+* 9-11) Intriguing song
+	* Summons 1-3 aerodes (see new monsters). 25% chance they are hostile.
+* 12) EEF+EAA- [Happy Birthday]
+	* The Great Head chants a pleasing simple melody; all in hearing have 1-8 HP restored
+* 13) CCDECED [Yankee doodle]
+	* The Great Head hums a fast jaunty melody; marching speed of all increased by 30’ (i.e., from 90’ to 120’, or 120’ to 150’) for 2-4 hours
+* 14) DE+EFGG+ AB+ [Blue Monk]
+	* Great Head sings a simple climbing harmonic sequence for 5 minutes; all in hearing are affected as if by a heroism potion.
+* 15) EEFGGFE [Ode to Joy]
+	* The Great Head sings a triumphant song for 10 minutes; all in hearing receive +2 to saves for 2-4 hours.
+* 16) BABCDEC [So What]
+	* The Great Head sings a repetitive loop that is highly syncopated. For the next 1-4 hours, whenever the PCs make a decision about which direction to take, the GM rolls it randomly as the characters ‘naturally’ don’t seem to care. No mapping is possible, either.
+* 17) CBAGGCBCGG [Don’t Fear the Reaper]
+	* The Great Head intones slow ominous tones. A pair of type III demons gate in to answer the summons!
+* 18) BDDEEGF+ [Iron Man]
+	* The Great Head breathes forth a cloud of poison gas that fills the grotto within 2 rounds and lasts for 2 turns. Save versus poison (at +1 bonus) or die; even those saving take 2-8 damage.
+* 19) EGABAGA [Stayin’ Alive]
+	* The Great Head chants a swift disco beat, and all must save or dance, imposing a -2 penalty to all rolls for 2-4 turns. Also, a randomly-determined door in 8-147 opens.
+* 20) Discordant overload
+	* All doors in 8-147 open simultaneously
 
-Tones Effect
-1-4 Generic ‘happy song’
-
-Either door 8-147 C (33%), door 8-147D (33%), or door 8-147E (33%) opens
-
-5-8 Generic ‘sad’ song
-
-Either door 8-147A (25%), 8-147B (25%), 8-147F (25%), or 8-147G (25%) opens
-
-9-11 Intriguing song
-
-Summons 1-3 aerodes (see new monsters). 25% chance they are hostile.
-
-12 [HaEEF+EAA-ppy Birthday]
-
-The Great Head chants a pleasing simple melody; all in hearing have 1-8 HP restored
-
-13 [YCCDECED ankee doodle]
-
-The Great Head hums a fast jaunty melody; marching speed of all increased by 30’ (i.e., from 90’ to 120’, or 120’ to 150’) for 2-4 hours
-
-14 DE+EFGG+ AB+ 
-
-[Blue Monk]
-
-Great Head sings a simple climbing harmonic sequence for 5 minutes; all in hearing are affected as if by a heroism potion.
-
-15 EEFGGFE [Ode to Joy]
-
-The Great Head sings a triumphant song for 10 minutes; all in hearing receive +2 to saves for 2-4 hours.
-
-16 BABCDEC [So What]
-
-The Great Head sings a repetitive loop that is highly syncopated. For the next 1-4 hours, whenever the PCs make a decision about which direction to take, the GM rolls it randomly as the characters ‘naturally’ don’t seem to care. No mapping is possible, either.
-
-17 CBAGGCBCGG [Don’t Fear the Reaper]
-
-The Great Head intones slow ominous tones. A pair of type III demons gate in to answer the 
-summons! Type III demons: SZ L; AC -4; MV 90’; HD 10; HP 70, 59; #AT 5; DMG 2-12/2-12/1-3/1-3/2-5; darkness; fear; levitate; cause pyrotechnics; polymorph self; telekinese; gate another demon (30%).
-
-18 BDDEEGF+ 
-
-[Iron Man]
-
-The Great Head breathes forth a cloud of poison gas that fills the grotto within 2 rounds and lasts for 2 turns. Save versus poison (at +1 bonus) or die; even those saving take 2-8 damage.
-
-19 [SEGABAGA 
-
-tayin’ Alive]
-
-The Great Head chants a swift disco beat, and all must save or dance, imposing a -2 penalty to all rolls for 2-4 turns. Also, a randomly-determined door in 8-147 opens.
-
-20 Discordant overload
-
-All doors in 8-147 open simultaneously
-
-GM Note: The sequence called the Cantor’s Lament may be discovered elsewhere, at areas 3-57, 7-22, and 8-53.
-
-There is a 25% chance that the phase spider in 8-156 comes to investigate sounds of human activity, but only if more than six rounds have passed without music from the heads. For stats, see 8-156.
-
-Treasure:
-The arcanum (see new magic items) within the Great Head is 5’ in diameter and weighs about 11,000 lb.
+Type III demons: SZ L; AC -4; MV 90’; HD 10; HP 70, 59; #AT 5; DMG 2-12/2-12/1-3/1-3/2-5; darkness; fear; levitate; cause pyrotechnics; polymorph self; telekinese; gate another demon (30%).
 
 ### 8-149: The Cantor’s Rest 
 
-This cavern may only be accessed by playing the Cantor’s Lament on the horns/heads in area 8-148; doing so causes the Great Head to grind forward, revealing the stairs down to this area.
+* This cavern may only be accessed by playing the Cantor’s Lament on the horns/heads in 8-148.  Doing so causes the Great Head to grind forward, revealing the stairs down to this area.
 
-The square cave within was Eustachius the cantor’s private study and retreat. The walls are decorated with frescoes showing representations of aerodes (see new monsters), largely as shim-mering butterflies in iridescent colors. An oak desk carved to make it look as if it were made of actual branches sits against the south wall; on it are sheaves of sheet music. A hammock has rotted in place along the east wall, and a set of simple pine chairs and tables 
-lies in the center of the chamber. The west wall boasts a rack with several musical instruments: three buccinae, a pair of cithara, three lyres, and two auloi. One of the cithara is Eustachius’s cithara (see new magic items), and one of the auloi is an aulos of frenzy (see new magic items). By the entrance hallway is a stone chest: inside the chest are the following: a pouch with eight golden yellow topaz gems (500 gp each); an unusual set of ebony Archontean chess pieces, in which each of the usual figures carries a tiny gold instrument (cithara, lyre, aulos, etc.) (the set is worth 4,000 gp); a stack of twelve ancient octagonal platinum coins (see Arden Vul items); and a set of erotic earrings made of ivory and platinum (450 gp).
+* The square cave within was Eustachius the cantor’s private study and retreat.
+	* The walls are decorated with frescoes of aerodes (new), largely as shimmering butterflies in iridescent colors.
+	* An oak desk, carved to look as if made of actual branches, sits against the south wall.
+		* On it are sheaves of sheet music.
+	* A hammock has rotted in place along the east wall
+	* A set of simple pine chairs and tables lies in the center of the chamber.
+	* The west wall boasts a rack with several musical instruments.
+		* Three buccinae, a pair of cithara, three lyres, and two auloi.
+			* One cithara is Eustachius’s cithara (new)
+			* One of the auloi is an aulos of frenzy (new).
+	* By the entrance hallway is a stone chest.
+		* A pouch with 8 golden yellow topaz gems (500 gp each); an unusual set of ebony Archontean chess pieces (each figure carries a tiny gold instrument: cithara, lyre, aulos, etc; 4,000 gp); a stack of 12 ancient octagonal platinum coins; and a set of dancers-in-motion earrings of ivory and platinum (450 gp).
 
 ### 8-150: Leather-Making Cave
 
@@ -3006,20 +3179,39 @@ lies in the center of the chamber. The west wall boasts a rack with several musi
 
 ### 8-151: Muq’s Cave
 
-The western corridor is blocked by a latticework of wooden sticks, vines, and bits of debris (so as to deny the rust monsters at 8-140 entrance to this cave). 
+* The western corridor is blocked by a latticework of wooden sticks, vines, and bits of debris, to keep out the rust monsters (8-140).
+* This cave is the home of an exiled lesser varumani (see new monsters) named Muq.
+	* More than 15 ledges and niches are set into the walls of the cave.
+		* Muq is adept at leaping between them (or from them!).
+	* 2 goats cure on hooks in the ceiling.
+	* A pool of clear water stands in the northern niche.
+		* Hidden beneath a rock at the bottom of the pool is an iron box sealed with wax holding Muq’s few valuables.
+			* A choker of gold inset with onyx (2,200 gp); a pair of white pearls (100 gp each)
+			* A map of 7-10 to 7-33 etched on a piece of leather, with 7-31 marked with an ‘X’ and noted as ‘treasure’
+			* A tightly-wrapped packet of documents that prove Gog’s innocence and Muq’s culpability.
+				* The documents would exculpate Gog in the eyes of Varboka, and are thus valuable: Gog has little money, but would prove a valuable and eternal friend, while the thegn would offer 2,500 gp for them.
 
-This cave is the home of an exiled lesser varumani (see new monsters) named Muq. More than fifteen ledges and niches are set into the walls of the cave, and Muq is adept at leaping between them (or from them!). He has two goats curing from hooks in the ceiling, and a pool of clear water in the northern niche. Hidden beneath a rock at the bottom of the pool is an iron box sealed with wax; in it are Muq’s few valuables. 
+Muq's Crime
+* Hraskaya wanted to cause trouble for Varboka's reign.
+* He used Muq to leak knowledge of Varumani trade, tribute, and alliances to the Setites, allowing them to undercut or woo away traders to the Forum.
+	* Muq was promised riches in return.  Some good
+* Muq decided to frame Gog, a rival of his.  He hid some of the notes and some Setite gold among Gog's possessions and denounced him.  When a search turned them up, Gog was exiled (a mercy by Varboka for his long years of service and personal fondness, which did cost Varboka politically)
+	* Hraskaya was annoyed with Muq.  The revelation of the intel smuggling made it too dangerous to keep doing with the "perpatrator" Gog now gone.  When friends of Gog started denouncing Muq for his own shifty dealings, Hraskaya didn't protect him; in fact he suggested he hide out until it blew over.  Muq feared Hraskaya would have him killed, so he found his own hiding spot and is trying to figure out what to do.
+* Muq has some reports he never had time to sell.  He's keeping them in case he needs to threaten Hraskaya.
+* He also has writs of access to accounts in the Silent Factor's vault; money he is owed by the Setites (they are numbered accounts, and thus never seized by Alexia / the Drome in the Setite roundup).  They are in the name of Cold Jordan?
 
-Muq lurks in the shadows on the wall, preferring to hide if visitors look dangerous. If discovered, he proves to be anxious and shifty, attempting to placate visitors with whatever information – even invented information – will get them to leave. He only fights if cornered.
+* Muq lurks in the shadows, preferring to hide if visitors look dangerous.
+	* If discovered, he is anxious and shifty, placating visitors with whatever information – even invented information – will get them to leave. 
+	* He only fights if cornered.
 
-Muq is a clan-brother and former friend of Gog (5-2); he provided false evidence to Varboka the thegn (7-30) implicating Gog in treason. Gog was duly exiled, but swiftly Muq was forced to flee as varumani public opinion turned against the snitch. Fearing for his life, Muq survives by spying for the vampire, Cinna Minux (7-122), who has charmed him and who brings him food and bits of information. Both Gog and Varboka would pay well for information about Muq’s location (or news of his death). 
-
-Muq is afraid of Lugo and company (8-136), and would like to avoid them if possible.
+Muq
+* Muq is a clan-brother and former friend of Gog (5-2); he provided false evidence to Varboka the thegn (7-30) implicating Gog in treason. 
+* Gog was duly exiled, but swiftly Muq was forced to flee as varumani public opinion turned against the snitch.
+	* Fearing for his life, Muq survives by spying for the vampire, Cinna Minux (7-122), who has charmed him and who brings him food and bits of information. 
+	* Both Gog and Varboka would pay well for information about Muq’s location (or news of his death). 
+* Muq is afraid of Lugo and company (8-136), and would like to avoid them if possible.
 
 Muq, the lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 56; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
-
-Treasure:
-In Muq’s sealed box are the following: a choker made of gold inset with onyx (2,200 gp); a pair of white pearls (100 gp each); a map of areas 7-10 to 7-33 etched on the back of a piece of leather, with area 7-31 marked with an ‘X’ and noted as ‘treasure’; a tightly-wrapped packet of documents that prove Gog’s innocence and Muq’s culpability. The documents would exculpate Gog in the eyes of Varboka, and are thus valuable: Gog has little money, but would prove a valuable and eternal friend, while the thegn would offer 2,500 gp for them.
 
 ### 8-152: Destroyed Weapons Stash
 
@@ -3044,21 +3236,33 @@ In Muq’s sealed box are the following: a choker made of gold inset with onyx (
 
 ### 8-155: Spriggan Trouble
 
-The cavern is relatively flat, with a sandy floor; it is brightly lit by six torches thrust into the sand around its edges. Amid the torchlight six Arden Vul spriggans (see new monsters) are playing bocce with an assortment of skulls. They tethered their trained subterranean 
-lizard to the floor while they play; the lizard carries thirty seven bottles of various sizes containing brandies, ales, and other liquors. The skulls are human, and one has two scrolls stuffed into it.
+* The cavern is relatively flat, with a sandy floor
+	* It is brightly lit by 6 torches thrust into the sand around its edges.
 
-The spriggans were sent by a faerie lord to discover the fate of their comrades (7-62), who have been missing for more than a millennium. Displeased with the assignment, they are easily distracted and quite content to dilly-dally, play games, sing songs, and chat with visitors. Eventually, after urging any visitors to drink and play with them, the spriggans will ask about the fate of their lost colleagues. Should the PCs have useful information (such as 
-their location), this group will part as great friends, promising to ‘put in a good word’ with all other spriggans; in this case, the spriggans can warn their new friends about the ‘demons who are not as they appear’ (8-119 to 8-120) and can suggest that the ‘shiny cave’ (8-157) has good pickings for non-spriggans. Should the PCs have killed the other spriggans and admit it, this group attacks immediately. If the PCs have no information to report, there is a 
-50% chance that this group grows angry and attacks; otherwise they continue their game, ignoring the PCs. Should the PCs mention and/or sing the Green Silken Robe (see 7-62), these spriggans are impressed. They immediately drop what they’re doing and join in, singing for 2-8 turns. The chance that they attack drops to 10%.
+* 6 Arden Vul spriggans (new) are playing bocce with an assortment of human skulls.
+	* One skull has two scrolls stuffed into it (protection from earth elementals, Kentillian’s abyssal ice (new).
+* Their subterranean pack-lizard is tethered nearby,
+	* It carries 37 bottles of various brandies, ales, and other liquors (275 gp).
 
-Half of their number has become radicalized. As a result, they left the search party and can be found at area 9-99.
+Spriggans (Svartalfar)
+* Sent by a faerie lord to discover the fate of their comrades (7-62), who have been missing for more than a millennium.
+	* The lord is Ivaldi (father of the Sons of Ivaldi, the dwarves who forged Freyr's flying ship, Odin's spear Gungnir, and Sif's replacement golden hair).
+	* They are from Niðavellir.
+* Displeased with the assignment, they are easily distracted and quite content to dilly-dally, play games, sing songs, and chat with visitors.
+	* Half of them became radicalized and left the search party to join the others at 9-99.
+
+* After drinking and playing with visitors, the spriggans ask about the fate of their lost colleagues.
+	* If given useful information (such as their location), they will part as great friends, promising to ‘put in a good word’ with all other spriggans.
+		* They warn their new friends about the ‘demons who are not as they appear’ (8-119 to 8-120), and suggest the ‘shiny cave’ (8-157) has good pickings.
+	* If visitors admit to killing the spriggans, this group attacks immediately.
+	* If no information is forthcoming, 50% chance this group grows angry and attacks.
+	* If the Green Silken Robe (see 7-62) is mentioned and/or sung, these spriggans are impressed and join in, singing for 2-8 turns.  Only 10% chance to attack after this.
 
 6 Arden Vul spriggans (see new monsters): SZ S or L; AL CN; AC 4 (5); MV 90’ (150’); HD 5 (8+3); HP 38 (63), 37 (62), 35 (60), 34 (61), 34 (59), 32 (57); #AT 1 (2); Dmg 2-5 (knife) or (2-12/2-12); MR 25%. Thief skills: PP 75%, OL 78%, FRT 70%, MS 77%, HS 64%, HN 35%, CW 81%, RL 40%. Special attacks: confusion 1/day. Special defenses: immune to poison, charm, and mind-affecting spells; healed by magic missiles. Special: grow to giant size; affect normal fires, faerie fire, trip, detect magic, shatter. 
+* Possessions (each)
+	* A pouch (25 sp, 75 gp, 15 pp), a potion (among all 6: fire resistance, undead control, treasure finding, the berserk, deafening light, hostile levitation).
 
 1 trained, smallish (15’-long), subterranean lizard: SZ L; AL N; AC 5; MV 120’; HD 6; HP 37; #AT 1; Dmg 2-12. Special attacks: double damage on a natural roll to hit of 20.
-
-Treasure:
-The alcohol is usable, or could be sold for 275 gp. The scrolls are a scroll of protection from earth elementals and a spell scroll containing Kentillian’s abyssal ice (see new magic items). Each spriggan carries a pouch with 25 sp, 75 gp, 15 pp, and a potion. The six potions are as follows: potions of fire resistance, undead control, treasure finding, the berserk, deafening light, and hostile levitation (for the last three, see new magic items). 
 
 ### 8-156: Spider Cave
 
@@ -3072,40 +3276,37 @@ The alcohol is usable, or could be sold for 275 gp. The scrolls are a scroll of 
 
 ### 8-157: Rudishva Retreat 
 
-This large chamber is constructed in the usual rudishva style: all edges rounded, octagonal black granite sheathing tiles, and a very clean, minimalist look. 
+* This large rudishvan chamber has rounded edges, octagonal black granite sheathing tiles, and a very clean, minimalist look.
+	* A long, oval console and 3 stools (all white plasteel) stand against the east wall.
+		* In one stool is the desiccated corpse of a rudishva, still in his jumpsuit, a heqeti stone spear protrudes from his back.
+			* Stun baton w/ lesser power supply.
+	* 3 hammocks of sturdy plastic fiber hang from posts along the curved northern wall.
+		* Another rudishvan corpse lies in one, violently slain. 
+	* 5 corpses of heqeti hoppers lie in the center of the chamber, apparently having died by ritual suicide.
+	* By the east wall:
+		* Several white plasteel racks holding smashed and useless rudishvan gear.
+		* A troll chest (keyed to the third rudishva corpse past the iris door, below)
+			* 2 rudishva breathers, a rudishva fire extinguisher, 3 rudishva stun grenades, a rudishva personal force shield, 2 full rudishva lesser power supplies, 30 Arden Vul cakes.
 
-A long, oval console and three stools stand against the east wall; all are made of white plasteel. In one of the stools is the desiccated corpse of a rudishva, still in his orange jumpsuit. The cause of his death is obvious, as a heqeti stone spear protrudes from his back. 
-Three hammocks of sturdy flexible plastic hang from posts set into the curved northern wall. In one of them is a second corpse, also in orange jumpsuit and also bearing signs of violent attack. Five corpses of heqeti hoppers lie in the center of the chamber; they appear to have killed each other. 
+* In the southern wall is an iris door (silver or yellow).  Beyond is a T-shaped area.
+	* Just inside is the corpse of a rudishva (holds a silver rudishva identity plaque).
+		* Its flesh, within the jumpsuit, is coated by rust colored, gluey, non-motile, flesh-animating heqeti slime (new).  It rises as a heqeti slime zombie (new) if warm-blooded life is detected within 10’.
+	* The southern corridor fragment ends in jagged rock.
+		* Lying on the rough floor is a mobile stone cutter (tech) with greater rudishva power supply (75% charged).
+	* To west and east are niches for rudishva teleport nodes.
+		* Both nodes are complete with disc and plaque, but their destinations are both buried in tons of rubble.
+		* T21: inoperable (once led to the now-destroyed kaliyani areas near 5-122)
+		* T22: inoperable (once led to an area with substantial arcanum and deuterium deposits being developed just prior the Fall)
+			* It suffered a cave-in in the intervening years.  The GM could use this as a point for expansion.
 
-By the east wall are several white plasteel racks holding numerous pieces of rudishva gear, all of it smashed and useless, as well as a closed and keyed troll chest (see new technological items). The troll chest is keyed to the hand of the third rudishva corpse (see below); were explorers able to open the rudishva iris door and slay the slime zombie, they could use the desiccated hand of the rudishva to open the chest. 
-
-The door in the southern wall is a rudishva iris door, and only opens when a silver or yellow rudishva identity plaque is presented (see new technological items). The t-shaped area beyond it is similar in appearance, although the southern corridor fragment ends in jagged rock. To the west and east are niches for rudishva teleport nodes. Lying inert in the southern extension is a valuable rudishva tool, a mobile stone cutter (see new technological items). 
-
-Just inside the southern side of the door is the corpse of a third rudishva in an orange jumpsuit. The corpse’s flesh within the jumpsuit is coated by a rust colored, gluey, non-motile, flesh-animating heqeti slime (see new monsters). The corpse rises as a heqeti slime zombie (see new monsters) if warm-blooded life is detected within 10’. 
-
-Backstory: Near the end of the period of rudishva hegemony, Captain Leil-Jor commanded three crewmembers of the Beacon to begin delving a new refuge here in the depths of the Nether Reaches. Those crewmen were overwhelmed and slain during the heqeti surprise attack, as the kaliyani let their heqeti allies use the teleporter near 5-122 (that once led to T21) to assault this region. 
-
-The leader of this three-man team was infected by the heqeti slime, but managed to shut the rudishva iris door after the hoppers, trapping them in the northern portion of the room as they slaughtered his comrades. The heqeti eventually took their own lives when they could not find an exit. A later heqeti rescue party dug the tunnel that now connects this chamber to the surrounding tunnel network, but they were too late to save their fellows.
-
-Teleport Nodes:
-The two nodes are not functional, even though both possess the standard 5’-diameter silvery circle on the floor and the companion 10”x10”, rune-incised wall plaque. Both lead to areas that are now buried under tons of rubble. The western node (T21) once led to the now-destroyed kaliyani areas (near 5-122). The eastern node (T22) once led to an area with substantial arcanum and deuterium deposits that Captain Leil-Jor had just begun to develop 
-in the months before the demise of the rudishva. Sadly, that new area suffered a cave-in in the intervening years, and the teleporter is thus currently inoperable. The new area provides a potential location for GM development; should the GM wish it, he/she could devise a new rudishva area to which T22 leads. T21: inoperable (once led to an area near 5-122)
-
-T22: inoperable
+Backstory
+* Near the Fall of the rudishva, Captain Leil-Jor sent 3 crew to delve a new refuge here in the depths of the Nether Reaches. They were overwhelmed during the heqeti surprise attack, as the kaliyani let their heqeti allies use the teleporter near 5-122 (that once led to T21) to assault this region. 
+* The team leader was infected by the heqeti slime, but managed to shut the iris door behind the hoppers, trapping them in the north as they slaughtered his comrades.  The heqeti eventually took their own lives when they could not find an exit.
+* A later heqeti party dug the tunnel that now connects this chamber to the surrounding tunnel network.
 
 1 heqeti slime zombie (see new monsters): SZ M; AL N; AC 6; MV 60’; HD 4; HP 24; #AT 1; Dmg 2-8. Special attacks: slime infestation. Special defenses: immune to electricity.
 
 1 rust colored, gluey heqeti slime (see new monsters): SZ S; AL N; AC 6; MV 0’; HD 2; HP 11; #AT 1; Dmg special. Special attacks: flesh-animating (covers flesh and kills victim in 4-7 rounds, then re-animates as a heqeti slime zombie - see new monsters); corrosive to leather. Special defenses: healed by electricity or lasers; slowed by cold.
-
-Treasure:
-
-Under the corpse and atop the console in the northern part of the chamber: a stun baton with rudishva lesser power supply (see new technological items).
-
-On the third rudishva corpse: a silver rudishva identity plaque (see new technological items).
-
-In the troll chest (keyed to the hand of the third rudishva): two rudishva breathers, a rudishva fire extinguisher, three rudishva stun grenades, a rudishva personal force shield, two full rudishva lesser power supplies, 30 Arden Vul cakes (see new technological items for all these items).
-
-In the unfinished southern corridor: a mobile stone cutter with a greater rudishva power supply (75% charged) (see new technological items for both).
 
 ### 8-158: Heqeti Sign Mold
 
@@ -3135,22 +3336,25 @@ In the unfinished southern corridor: a mobile stone cutter with a greater rudish
 
 ### 8-162: Hidden Heqeti Staging Area
 
-This chamber is roughly hewn from the rock. As with all heqeti areas, the walls are pebbled and slightly oily. On the east wall are three large pieces of graffiti in Mithric: “Death to the hoppers!”, “Life to the Xth!” [i.e., the Xth legion of heavy scutarii], and “We have disabled the damned wells. Let them try to flank us now!” The niches to the east hold heqeti teleport wells. A statue of a heqeti weaver stands at the north end, while several overturned equipment racks stand to the south. Broken equipment and the bones of numerous heqeti and humans line the floor. The bones come to life and attack once the room is entered.
+* This chamber is roughly hewn from the rock, its walls pebbled and slightly oily.
+	* On the east wall are 3 large pieces of graffiti (Mithric): “Death to the hoppers!”, “Life to the Xth!” [i.e., the Xth legion of heavy scutarii], and “We have disabled the damned wells. Let them try to flank us now!”
+	* The niches to the east hold (inactive) heqeti teleport wells.
+		* 7’-wide stone well, 3' high, dropping 10' inside.  A carven an amphibian head at the bottom has a 4” mouth hole.  Feeding it a tear of Kauket reactivates the well; they connect to 10-24).
+	* At the north end, a 6'-tall, granite statue of a heqeti weaver (Qisstep the Weaver) stands, gesturing with a wand toward the secret door.
+		* As a weaver, his features are close to human, with noticeable amphibian overtones: his legs are slightly thickened, his face is flattened face, and he has a slit-nose and slightly too-large mouth.
+		* Qisstep’s name is etched into the plinth in simple heqeti runes. 
+		* He was one of the architects of the heqeti ambush. 
+	* Several overturned equipment racks stand to the south, and broken equipment and the numerous, jumbled heqeti and humans bones line the floor. 
+		* Stone- and steel-tipped spears, stone clubs, Archontean gladii.
+		* Searching the debris for 2 turns produces several items:
+			* 3 intact heqeti spears, an intact stone club, 2 fine gladii, Qisstep’s spear (new), an enchanted gladius (short sword +3), 4 tears of Kauket (new)
+			* Also a heqeti spore bomb (new) in a backpack (20% it activates when the backpack is handled).
 
-Statue of Qisstep the Weaver:  Qisstep the Weaver was one of the architects of the heqeti defeat of the rudishva. The statue is 6’ tall and carved of granite, and shows Qisstep gesturing with a wand toward the secret door. As a weaver, Qisstep’s features are close to 
-human, albeit with noticeable amphibian overtones: his legs are slightly thickened, his face is flattened face, and he has a slit-nose and slightly too-large mouth. Qisstep’s name is etched into the plinth in simple heqeti runes. 
-
-Equipment and Bones: The shattered equipment mostly includes stone- or steel-tipped spears, with a smattering of wooden or stone clubs and Archontean gladii. The bones are jumbled, but come to life once the chamber is entered. Searching the debris for at least 
-two turns produces several intact mundane weapons as well as several enchanted items. 
-
-Heqeti Teleport Wells: Each well takes the form of a 7’-diameter circle of stone rising 3’ above the floor. Unlike other wells, which contain an inky blackness, these are void of magical effects and simply extend 10’ below the surface of the chamber floor. The bottom of each well, however, bears a carven image an amphibian head, with a 4”-diameter hole in the place of the mouth. The wells could be reactivated by dropping a tear of Kauket (see new magic items) into the appropriate mouth. If reactivated, the wells connect to 10-24.
+* The bones come to life and attack once the room is entered.
 
 10 skeletal wights (see new monsters): SZ M; AL CE; AC 3; MV 120’; HD 5+1; HP 38(x3), 35(x4), 29(x3); #AT 1; Dmg 3-9. Special attacks: energy drain. Special defenses: successful energy drain heals 3-9 HP; +1 or better weapons to hit; edged weapons do ½ damage; immune to sleep, charm, hold, poison, paralyzation and cold; turned as ghasts. 
 
 10 zhoul (see new monsters), from the legionaries’ corpses: SZ M; AL N; AC 6; MV 120’; HD 4; HP 30, 28, 28, 25, 25, 23, 23, 21, 21, 18; #AT 1; Dmg 3-12; MR 10%. Special defenses: immune to charm, hold, sleep, and cold; turned as ghasts.
-
-Treasure:
-Amid the litter: three intact heqeti spears, an intact stone club, a pair of fine gladii, Qisstep’s spear (see new magic items), an enchanted gladius (short sword +3), four tears of Kauket (see new magic items), and a heqeti spore bomb (see new magic items) concealed in a backpack (there is a 20% chance the spore bomb activates when/if the backpack is handled).
 
 ### 8-163: Cave with Concealed Door
 
@@ -3161,41 +3365,48 @@ Amid the litter: three intact heqeti spears, an intact stone club, a pair of fin
 
 ### 8-164: Watery Cave
 
-This 50’-tall cave is full of water up to a level 30’ above its floor. The tunnel to the south (towards 8-163) is found just at the water level. The tunnel to the north opens 10’ above the cave floor and is thus fully submerged; it slopes downward to 8-166.
+* This 50’-tall cave is full of slightly stagnant water up to 30’ deep.
+	* The tunnel to the south (towards 8-163) is just at water level.
+	* The tunnel to the north opens 10’ above the cave floor, fully submerged.  It slopes downward to 8-166.
+	* The pool is filled with the strange fungi, cave lilies (flora), whose spores cause motion-freezing euphoria.
+		* Swimmers must either move extremely carefully, consciously avoiding the bulbs, or roll 4d6 under DEX to avoid touching them.
+		* A burst bulb releases its spores in a 15’ radius (save vs poison catatonic, and thus probably drowning in 3-6 rounds).
+	* The floor of this cave holds a scattering of bones and treasure from previous victims of the lilies and the turtle.
+		* Two 5-lb bars of platinum (1,250 gp each); 2 darts of sleeping (new); and a jade cup of life restoration (2 charges, new).
 
-The water is not fully stagnant, but is also not running. The surface of the pool is dotted with cave lilies (see new flora). The spores of the cave lily, of course, cause intense euphoria, making swimming among the lilies highly dangerous. Those swimming must either consciously say they are avoiding the lilies’s bulbs or roll 4d6 under DEX to avoid them. If a lily releases its seeds, those within 15’ must save vs poison or fall into a soporific state; in such a state they will immediately sink and will drown in 3-6 rounds unless pulled out by comrades.
-
-This cave is part of the territory of the giant snapping turtle that resides in 8-166. There is a 25% chance that the turtle is present in 8-166 at any given moment. If not present, it will still arrive from 8-166 within 2-5 rounds if it hears noise (like swimming, or the bodies of anesthetized swimmers dropping to the cave floor). 
-
-The turtle is immune to the cave lilies.
-
-The floor of this cave holds a scattering of bones as well as some treasure from previous victims of the lilies and the turtle.
+* This cave is part of the territory of the giant snapping turtle residing in 8-166.
+	* (25%) it is here, otherwise in 8-166.  It will arrive from 8-166 within 2-5 rounds if it hears noise (swimming, the bodies of anesthetized swimmers sinking). 
+	* The turtle is immune to the cave lilies.
 
 Giant snapping turtle (25%): see stats at 8-166
 
-Treasure:
-Two 5-lb bars of platinum (1,250 gp each); 2 darts of sleeping (see new magic items); and a jade cup of life restoration with 2 charges remaining (see new magic items).
-
 ### 8-165: Looted Tomb of Qisstep the Weaver
 
-Secret Door (east): This door is normal to find. It hangs on a pivot and opens by pushing hard on its right side. 
-
-A second, normal stone door leads to the tomb of the heqeti weaver, Qisstep. Tomb robbers will be disappointed, however, as the interior door rests crazily on its hinges; it was clearly broken down in antiquity. 
-
-The original heqeti frescoes have been utterly destroyed, with images hacked out and various curses scribed (in Mithric) all over the wall (sample: “Lucius took a dump here!” and “May Osiris keep the slimy ones from passing the veil”).
-
-To the south is a mortuary altar in the heqeti style, formed of red obsidian and with a shallow basin in which the ashes of the deceased were placed. Although no ashes are present in the basin, it seems that Lucius was true to his word. To the north is a statue of Qisstep, looking much like that at 8-162: he stands on relatively human-looking legs, and was originally pointing a wand at the door. The head and both arms have been knocked off, however. 
-
-Amid the general debris and litter are several fittings marked with the Archontean numeral, ‘X’: it is a sign that a spathos of the Xth legion was quartered here briefly during the heqeti wars. 
-
-For all of their destruction, the legionaries did not locate a hidden compartment in the plinth to Qisstep’s statue. The compartment is protected by an ancient poison needle (50% chance it still works): those stuck must save vs poison or suffering a wasting disease (CON diminishes by 1, and HP by 10%, each week until death or until the disease is cured). Inside the compartment is Qisstep’s ring (see new magic items) and a necklace made of jade, coral, and shark teeth (550 gp). 
+* Secret Door (east): it hangs on a pivot and opens by pushing hard on its right side.
+* A second, normal stone door leads to the tomb of the heqeti weaver, Qisstep.  It rests crazily on its hinges; clearly broken down in antiquity.
+* The original heqeti frescoes have been utterly destroyed, images hacked out.
+	* Various curses (Mithric) palster the wall (“Lucius took a dump here!” and “May Osiris keep the slimy ones from passing the veil”).
+* Amid the general debris and litter are several fittings marked with the Archontean numeral, ‘X’.
+	* Shows a spathos of the Xth legion was quartered here briefly during the heqeti wars.
+* To the south is a heqeti mortuary altar of red obsidian, with a shallow basin holding the of the deceased.
+	* No ashes are present, but seems Lucius was true to his word.
+* To the north is a statue of Qisstep (like at 8-162)
+	* He was originally pointing a wand at the door, but head and arms have been knocked off. 
+	* There is an overlooked hidden compartment in the plinth (trapped).
+		* Poison needle (50% chance it still works), save vs poison or suffer a wasting disease (CON diminishes by 1, and HP by 10%, each week until death).
+		* Qisstep’s ring (new), a necklace of jade, coral, and shark teeth (550 gp).
 
 ### 8-166: Water-filled Chasm 
 
-A deep chasm filled with cold, slightly stagnant water bisects this large cavern. The water-filled chasm extends 50’ below the floor of the western ledge; the eastern ledge is 30’ taller than the western one. The pool is filled with the strange fungi known as cave lilies (see new flora), whose spores cause motion-freezing euphoria. Swimmers must either move extremely carefully while consciously avoiding the bulbs, or successfully roll 4d6 under DEX to avoid 
-touching a bulb. A burst bulb releases its spores in a 15’ radius, causing all within to save vs poison or sink into a catatonic state (and thereby probably drowning within 3-6 rounds).
+* A deep chasm filled with cold, slightly stagnant water bisects this large cavern.
+	* The chasm extends 50’ below the floor of the western ledge.
+	* The eastern ledge is 30’ taller than the western one.
+	* The pool is filled with the strange fungi, cave lilies (flora), whose spores cause motion-freezing euphoria.
+		* Swimmers must either move extremely carefully, consciously avoiding the bulbs, or roll 4d6 under DEX to avoid touching them.
+		* A burst bulb releases its spores in a 15’ radius (save vs poison catatonic, and thus probably drowning in 3-6 rounds).
 
-The cave is also home to a large and very hungry giant snapping turtle that alternates hibernation with feasting on incautious spelunkers. The turtle is 75% likely to be present here (otherwise it will be in 8-164); it is immune to the cave lilies.
+* The cave is also home to a large and very hungry giant snapping turtle that alternates hibernation with feasting on incautious spelunkers.  It is immune to the cave lilies.
+	* (75%) present here, otherwise in 8-164.
 
 1 giant snapping turtle: SZ L; AL N; AC 5 (0); MV 30’, 20’ swimming; HD 10; HP 62; #AT 1; Dmg 6-24. Special attacks: surprise on 1-4.
 
@@ -3225,20 +3436,25 @@ The cave is also home to a large and very hungry giant snapping turtle that alte
 
 ### 8-169: Crystalline Cave 
 
-This huge cave is 80’ tall; the entrance ledge protrudes at a point 60’ above the cavern floor. The cavern combines several unusual geological features. First, it is extremely hot and humid (~130F and close to 100% humidity), making exertion quite difficult (movement halved, all combat rolls at -2). Second, colossal columns of light-orange-colored gypsum imbued with arcanum (see new magic items) crisscross the bulk of the chamber. Third, the cavern is filled with bathtub-hot water up to a point 20’ below the ceiling; explorers will need to swim among the giant columns to explore the cave. Fourth, six large (8’- to 10’-diameter) pockets 
-of raw arcanum (indicated by capital As on the map,) are buried among the gypsum columns. And fifth, the infusion of arcanum in the gypsum causes the columns to give off a dull, orange glow. 
+* This huge cave is 80’ tall.
+	* The entrance ledge protrudes at a point 60’ above the cavern floor.
+	* It is extremely hot and humid (~130F and close to 100% humidity).
+		* Exertion is difficult (difficult terrain, -2 to combat rolls).
+	* Colossal columns of light-orange gypsum imbued with arcanum crisscross the bulk of the chamber.
+	* The cavern is filled with bathtub-hot water, rising to 20’ below the ceiling.
+		* Explorers will need to swim among the giant columns.
+	* 6 large (8’- to 10’-diameter) pockets of raw arcanum (capital As on the map,) are buried among the gypsum columns.
+	* The gypsum columns give off a dull, orange glow due to infusion with arcanum. 
 
-Amid the gypsum columns move four regular and two large selenite guardians. They politely request that intruders depart, although their language is utterly foreign and can only be deciphered by magic. Should intruders not depart within a turn, the selenite guardians move to defend their ‘garden’. 
+* Amid the gypsum columns move 4 regular and 2 large selenite guardians.
+	* They politely request that intruders depart, though their language is utterly foreign.
+	* If intruders not depart within a turn, the guardians move to defend their ‘garden’.
+	* The selenite guardian corpses produce 6-600 gp worth of selenite crystals. 
 
 4 selenite guardians (see new monsters): SZ M; AL N; AC 2; MV 30’ on dirt, 60’ on selenite; HD 6; HP 41, 37, 36, 34; #AT 2; Dmg 2-8/2-8. Special defenses: regenerate 2 HP/round near 
 selenite; immune to fire and water; take only 1 HP from edged weapons.
 
 2 large selenite guardians (see new monsters): SZ M; AL N; AC 2; MV 30’ on dirt, 60’ on selenite; HD 9; HP 65, 59; #AT 2; Dmg 2-16/2-16. Special defenses: regenerate 2 HP/round near selenite; immune to fire and water; take only 1 HP from edged weapons.
-
-Treasure:
-Six large pockets of raw arcanum (see new magic items).The arcanum-infused crystalline columns can be distilled at area SL13-37 to form more raw arcanum.
-
-The corpses of any slain selenite guardians produce 6-600 gp worth of selenite crystals. 
 
 ### 8-170: Tunnel to Unmapped Area
 

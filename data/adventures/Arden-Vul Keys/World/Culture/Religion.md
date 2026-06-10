@@ -102,8 +102,8 @@ Trollkin?
 * Anubis (Anput in their feminine form, Anubis in male) - psychopomp, burial, travelers
 * Hathor - sex, love, beauty, music, dance, pleasure (replaces Besa)
 * Horus - justice, sky
-* Isis - fertility, magic
-* Khonsu - moon, secrecy and lawlessness, and time? wild animals? (replaces Jael)
+* Isis - fertility, agriculture, magic
+* Khonsu - moon, lawlessness, and time (replaces Jael)
 * Osiris - ruler of the underworld, rebirth, immortality
 * Ptah - creator, craft
 * Ra (Raet-Tawy in feminine form, Ra in male) - sun, rulership

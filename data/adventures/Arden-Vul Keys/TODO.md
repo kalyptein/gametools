@@ -209,27 +209,31 @@ Arden Vul system
 	* Level 6
 		* entities
 		* dressing
-		* Goblin artist's treasure map to Callista
+		* Goblin artist's treasure map to Callista of Level 6
 
 * Below Depths
 	* Level 7
 		* entities
 		* dressing
-	* Level 8 (underway)
-		* bulletize
+	* Level 8
 		* entities
 		* dressing
 	* SL 13
 		* redo some of the trials?
 	* SL-10 a & b
+		* ensure the map area is entirely inside the map area (not overhanging into the border)
 		* entities
 		* dressing
 	* Level 9
 		* bulletize (underway)
+			* 9-14, 9-31, 9-40, 9-42, 9-48, 9-50
+				* new plotline for the niravairi / gith around 9-42 et al.
+			* 9-55
+				* yet another lich / archmage; come up with a different story / fate for her
 		* entities
 		* dressing
 	* Level 10
-		* redo (to scale) inset of ziggurat interior, walls
+		* redo (to scale) inset of ziggurat interior, walls; ensure the inset is entirely inside the map area (not overhanging into the border)
 		* entities
 		* dressing
 

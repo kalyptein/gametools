@@ -46,16 +46,13 @@
     "//World/World/Gazetteer/World/Gazetteer/Burdock's Valley ; Vale of Burgheat/World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Castle Burdock",
     "//World/World/Gazetteer",
     "//World/World/Gazetteer/World/Gazetteer/Burdock's Valley ; Vale of Burgheat",
-    "//World/World/Gazetteer/World/Gazetteer/Burdock's Valley ; Vale of Burgheat/World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Gosterwick ; Vetuaster",
     "//World/World/Culture",
-    "//Level 3 - Halls of Thoth",
-    "//Level 9 - Floor of the Great Chasm",
+    "//Level 5 - Obsidian Gates & Midnight Road",
     "//_Notes_",
-    "//Level 7 - Court of the Troll Thegn",
     "//World",
     "//World/World/Chronicle",
     "/",
-    "//Level 8 - Nether Reaches"
+    "//Level 9 - Floor of the Great Chasm"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

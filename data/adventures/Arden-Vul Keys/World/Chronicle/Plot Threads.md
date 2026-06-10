@@ -895,6 +895,9 @@ The Broom was able to spy out a lot of stuff in the aftermath of Astrid's visit 
 	* They (and heqeti demon spies) will be trying to scry out the cylinder around the 
 		* Eventually a spy will be noticed.  Cheren and Tresti's cat familiar capture or kill one?
 * Astrid proposed an alliance with the varumani to fight the heqeti and it seemed to go over well.
+* 
+* 
+* The Broom wants to unearth the statue of kauket (9-12) and retrieve the Founder's Mattock for the great reward the heqeti offer.  Quickling harrassment have so far made this too difficult.
 
 Heqeti start trying to scry and spy out the Doom Cylinder
 * Eventually a spy will be noticed  around the Savage Lodge.
@@ -915,12 +918,18 @@ Varboka sends the hunters to scout out the heqeti.
 	* Mistrust of all deep-downers has grown (priscians? etc), and Cinna seeks to spread mistrust about the Knights as well.  Sir Prudence is concerned and unsure where this is coming from.
 		* Prudence confides in the Savage Heart.
 	* When Cinna learns of the Priscian captive, he'll try to get access to get his mesmeric claws into a Priscian (not easy, with Glif and Ashoka holding her).
+* Nogli may mention the quicklings and their lack of cooperation in giving intel, though he knows they don't like heqeti either.
+	* They only put up with varumani because they trade booze for the quicklings' mushrooms.
 
-* ??? The Priscians come back to deal with the Savage Heart, hoping Astrid can return their prisoner from the hands of the Varumani?
-	* Or they try to magic them out?
-	* Maybe it's a small group of Priscians willing to take a risk to save their comrade, when Nerub and the bulk of the group is willing to abandon them.
-		* A crack in the cult.
-		* Three Priscians, at least one mid- to higher- tier and Ebba, who told them about the Savage Heart.  They send a message, hoping to speak to just Astrid, upright by reputation, without Tresti or Aelia around, as they fear their power.
+* A Priscian comes back to deal with the Savage Heart, hoping Astrid can return their prisoner from the hands of the Varumani?
+	* Nerub and the bulk of the group is willing to abandon them the captive.  In fact they are considering killing her to ensure she can't crack under questioning (or get too much extra-cult exposure, in Nerub's mind).
+	* Secundus Oskarina (female archontean war mage, mage 4), a friend of Ebba, but a little higher ranking.
+		* Both Ebba and she are students of the captured mage, and feel she's going to be abandoned as a matter of secrecy, or even killed.
+		* Ebba told her about the savage heart being good people, and she knows Ebba's misgivings about the ancient Sortian code not being what they're taught.
+		* Ebba is still under "house arrest" for risking exposure, can't leave the outpost on Level 9, but Oskarina still draws supply duty fairly often.
+	* Oskarina sends a message, hoping to speak to just Astrid, upright by reputation, without Tresti or Aelia around, as she fears their power.
+		* She thinks she can invisibility or dimension door away from a "mere fighter" if she has to run.
+		* She knows of Astrid's standing with the thegn as Priscian visitors to the troll market overheard her public meeting with the thegn, and much gossip about here among the adventurers after.
     
 * Seed some rumors about Nicetas's gang of robbers in Level 8.
 	* At the Inn of the Lost, Gosterwick, Troll Market, etc

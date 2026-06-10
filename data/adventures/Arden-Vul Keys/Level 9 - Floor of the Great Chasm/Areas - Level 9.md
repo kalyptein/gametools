@@ -256,126 +256,139 @@ D8 Noise/Effect
 
 ### 9-4: Southern Mushroom Groves 
 
-The southern third of the cavern slopes downward towards the southeast, that is, towards the cesspool at 9-16. Several millennia worth of effluent and debris has accumulated atop the cavern floor south of the lake, forming a rich bed of humus some 40’ deep and masking the steepness of the slope. Atop the humus grows a large forest of giant mushrooms, fed and watered by a network of small canals containing brown, sludgy liquid (see 9-5). As a result, the entire area smells a bit foul. As some of the mushroom species (e.g. orange lamps) are phosphorescent, the groves are relatively well lit. Amid the mushrooms are a few special areas of note, including a secluded mushroom market (9-6), a mostly-buried colossal statue (9-12), and a promontory boasting a rudishva seat of contemplation (9-11). 
+* Millennia of effluent and debris has accumulated on the cavern floor south of the lake, forming a rich bed of humus 40’ deep.
 
-The groves teem with life and sound thanks to the chittering of the numerous species of small insects, harmless bats, and baindara (see new monsters) that call the area home. 
+* The southern third of the cavern slopes downward towards the southeast (towards the cesspool at 9-16), the humus nourishing in a large ==forest of giant mushrooms==.
+	* The entire area smells a bit foul.
+	* Some mushroom species (e.g. orange lamps) are phosphorescent, so the groves are relatively well lit. 
+	* The mushrooms are fed and watered by a network of small canals containing brown, sludgy liquid (see 9-5).
+	* The groves teem with life and sound; the chittering of the numerous small insects, harmless bats, and baindara (new) that call the area home. 
+	* The groves are tended by ==quicklings==, who patrol and set traps.
+* Amid the mushrooms are a few special areas of note:
+	* A secluded mushroom market (9-6)
+	* A mostly-buried colossal statue (9-12)
+	* A promontory boasting a rudishva seat of contemplation (9-11).
 
-A thick net of spider webs cover the southern portion of the cave, roughly between areas 9-29 and 9-16. Aside for about 5’ of empty space above the tops of the largest mushrooms, the webs completely fill the space above the groves. In addition, vertical webs some 10’ wide crisscross the opening to the southern lobe of the cavern (leading to 9-16). A tribe of giant spiders lives in the webs, as well as in a side cave (9-17). Those blundering about under the webs are likely (75%) to attract the attention of 2-4 giant spiders; these monsters like nothing more than dropping on unsuspecting victims from above, although they may also wait in hopes that the prey snares itself in the vertical webs. Loud and sustained combat draws the rest of the tribe in 3-4 rounds, although if clearly outclassed the spiders will retreat to area 9-17.
+Spiders
+* A thick net of spider webs cover the southern portion of the cave, roughly between 9-29 and 9-16.
+	* Starting 5’ above the tops of the largest mushrooms, the webs completely fill the space above the groves.
+	* 10’ wide vertical webs crisscross the opening to the southern lobe of the cavern (leading to 9-16).
+	* A tribe of giant spiders lives in the webs, as well as in a side cave (9-17). 
 
-The groves are tended by quicklings (see 9-14 and 9-15), who carefully harvest and dry the fungi before trading the dried specimens to the varumani and other sentient beings (see 9-6). A bewildering network of small tunnels (9-15) runs through the humus underlying the grove; dozens of well-disguised holes allow the quicklings to appear almost anywhere within the grove at a moment’s notice. For every turn spent in the groves, there is a 25% chance that a quickling strike force emerges from the tunnels to harass the PCs. Unless they encounter easy pickings, the quicklings are only likely to spend 2 rounds attacking the PCs 
-before disappearing down one of the tunnels. For more on their tunnel-fighting methods, see 9-15.
+* (75%) Blundering about under the webs attract 2-4 giant spiders.
+	* They like to drop on unsuspecting victims from above, but may wait in hopes that the prey snares itself in the vertical webs.
+	* Loud and sustained combat draws the rest of the tribe in 3-4 rounds.  If clearly outclassed, the spiders retreat to 9-17.
 
-Mushroom Groves: Colossal mushrooms fill the cavern south of the lake (9-65) and the band of muck (9-7). The grove rises 10’ to 15’ in height, and includes all of the fungal species listed in the new flora appendix: orange lamps, white ribs, blue trumpets, eye-openers, cloud caps, white bulbs, aqua vitae, mind eaters, red veil and slow steppers. The groves are densely packed, since the quicklings who manage them (see 9-14) do not need wide trails. Movement is possible through the forest, but at half the normal rate. When moving on the floor of the grove, direction is hard to maintain; one must roll 6d4+2 under WIS (or possess tracking skills) to maintain the proper direction. 
+Mushroom Groves
+* Colossal mushrooms fill the cavern south of the lake (9-65) and the band of muck (9-7), rising 10’ to 15’, including all of the fungal species listed in the flora appendix:
+	* Orange lamps, white ribs, blue trumpets, eye-openers, cloud caps, white bulbs, aqua vitae, mind eaters, red veil and slow steppers. 
+* The groves are densely packed (difficult terrain).  The quicklings who manage them (see 9-14) don't need wide trails.
+* Navigation is hard within the grove (6d4+2 under WIS or tracking skills to maintain the proper direction). 
 
-Should the dam on Sub-Level 6 (SL6-25) be destroyed, a portion of the groves in a zone extending from 9-65 to 9-6 will be swept clear of anything that is not stone (including mushrooms). After 7-10 hours, this area will drain, leaving a layer of sticky muck.
+* If the dam on Sub-Level 6 (SL6-25) be destroyed, the zone of the groves from 9-65 to 9-6 is swept clear of anything that not stone (including mushrooms).
+	* After 7-10 hours, this area will drain, leaving a layer of sticky muck.
 
-The quicklings delight in laying traps among the groves. Their traps come in two forms, tripwires and small holes with punji sticks. Each turn of movement amid the fungi results in a 1 in 8 chance of stumbling upon a trap; the likelihood increases to 1 in 6 if one is following an effluent canal. Once a trap is indicated, there is a 66% chance it is a tripwire, and a 33% chance it is a hole with punji sticks.
+Quicklings
+* The groves are tended by quicklings (see 9-14 and 9-15), who harvest and dry the fungi for trade with the varumani and other sentients (see 9-6). 
+* A bewildering network of small tunnels (9-15) runs through the underlying humus.
+	* Dozens of well-disguised holes allow quicklings to appear almost anywhere within the grove at a moment’s notice. 
+	* (25% / turn) A quickling strike force emerges from the tunnels to harass intruders.
+		* Unless they encounter easy pickings, the quicklings only spend 2 rounds attacking before disappearing down one of the tunnels.
+		* See 9-15 for more on their tunnel-fighting methods.
+* (1-in-8 / turn) Stumbe upon a quickling trap (1-in-6 along the effluent canals).
+	* (66%) A tripwire with tiny bells
+		* 50% chance of drawing a band of 1d4+2 quicklings to harass / possibly attack the activator.
+	* (33%) A foot-trap hole (18” wide and deep) with down-angled punji sticks, covered with loose wood and mulch.
+		* Activated by 50 lb or more.  Deals 1d3, foot caught (3 rounds to remove carefully, +1d3 for each round hastier).  Movement halved until healed..
 
-Tripwires: The tripwires have tiny bells on them. Activating a tripwire has a 50% chance of drawing a band of 3-6 quicklings to harass and possibly attack the hapless victim(s).
-
-Holes with Punji Sticks: The holes are about 18” in diameter and just as deep, with punji sticks angled downward into the hole. The quicklings cover the holes with loose wood and mulch; they are only activated by a creature or object weighing more than 50 lb. Such a trap inflicts 1-3 HP damage, and halves the victim’s movement until that damage is healed. Releasing a foot from a hole takes three rounds of careful activity; more hasty removal inflicts another 1-3 HP damage.
-
-Searching the Fungal Forest: For each turn spent searching the for-est, it is possible (1 in 6 chance) that the PCs might come across something interesting:
+Searching the Fungal Forest: 
+* Each turn searching the forest, 1 in 6 chance of finding something interesting:
 
 D20 Fungal Forest Search Result GM Notes
 
 1-2
-
 A head from an ancient statue: heqeti (65%) or Archontean (35%) Nothing special
 
 3-4
-
 Relatively recent corpse, still decaying. Roll d8: 
-1-3: adventurer
-4-5: heqeti
-6-7: varumani
-8: Priscian 
+* 1-3: adventurer
+* 4-5: heqeti
+* 6-7: varumani
+* 8: Priscian 
 
 The corpse might still have a normal weapon (25%), a mundane object such as rope (25%), a bag of coins worth 1-100 gp (50%), and/or a minor magic item (5%)
 
 5-6
-
-3-6 ancient skeletons. There is a 50% chance theskeletons rise from the muck and attack. Roll d20:
-1-6: human (Archontean soldiers)
-7-13: heqeti
-14-16: varumani
-17: kaliyani
-18-19: varuda
-20: rudishva
+3-6 ancient skeletons.  50% chance they rise from the muck and attack. Roll d20:
+* 1-6: human (Archontean soldiers)
+* 7-13: heqeti
+* 14-16: varumani
+* 17: kaliyani
+* 18-19: varuda
+* 20: rudishva
 
 Human and varuda skeletons: SZ M; AL N; AC 7; MV 120’; HD 1; HP 8, 7, 6, 5, 5, 4; #AT 1; Dmg 1-6. Special defenses: immune to sleep, charm, hold, and cold; cutting and piercing weaponsdo half damage.
 
 All other skeletons: MV 120’; AC 6; HD 2; edged weapons do ½ damage
 
 7
-
 An oblong bit of bronze (8”x3”) with an image of a  leering trollish face engraved on it. One of the troll thegn’s passports (see Arden Vul items)
 
 8-10
-
 A holy symbol. Roll d12: 
-1-4: Ancient Archontean deity, such as Thoth, Set, Osiris.
-5-7: Modern Archontean deity, such as Ardenia Tessaeron, Debellaton, Mitra, or Tychias
-8-9: Modern Thorcin deity, such as Croul,Nitheral, Phreena, or Utar
-10: Wiskin deity, such as Gna, Loki, Odin or Thor
-11: Kauket
-12: Rimmaq-Isfet
+* 1-4: Ancient Archontean deity, such as Thoth, Set, Osiris.
+* 5-7: Modern Archontean deity, such as Ardenia Tessaeron, Debellaton, Mitra, or Tychias
+* 8-9: Modern Thorcin deity, such as Croul, Nitheral, Phreena, or Utar
+* 10: Wiskin deity, such as Gna, Loki, Odin or Thor
+* 11: Kauket
+* 12: Rimmaq-Isfet
 
 Each is worth 3-60 sp. For deities, see Gods of Magae section of the World of Archontos appendix
 
 11
-
 A shrunken head of a monkey dangling on a string. The head chatters incessantly in Archontean aboutthe basest of physical needs and/or about its immediate environment. 
 
 A shrunken head (see new magical items). If the GM wishes, the head knows how to get to one hidden tomb (e.g., 3-39, 3-66, 3-197, 5-36 or 5-57)
 
 12
-
 A key to 9-58 This key was lost in antiquity
 
 13-14
-
 A plaque depicting a warrior woman holding a dragon egg This is the Eleventh Labor of Arden (see SL13-10K)
 
 15-16
-
 A fibula (brooch) lost by an Archontean legionary Either silver (50%) and worth 10 gp, or gold and enamel (50%) and worth 125 gp
 
 17
-
 A broken fragment of grey plasteel From damaged rudishva equipment 
 
 18
-
 A soapstone idol of Kauket, lost by a heqeti hopper Worth 50 gp
 
 19
-
 Three doses of liquid in glass vials These are the hunter’s friend (see Arden Vul items)
 
 20
-
 A rescript sealed with the sign of Marius Tricotor. If opened it reads: To Horatius Jennius, commander of the Glorious Tenth. In answer to your query, I have brought the Tablet of the Beacon to my command post here at the foot of the chasm. The staff sorcerers believe it can be used to our advantage. Signed, Marius Tricotor, Archon. Note: this item may only be found once; if indicated again, reroll.
 
 A clue as to the location of the Tablet of the Beacon, still hidden in the Archon’s quarters at 9-107.
 
-Searching for Mushrooms: Use the following table to determine what species are nearby at any given moment. If PCs are familiar with colossal mushrooms and announce that they are looking for a specific species, it takes them 2-12 turns to locate a specimen of that species.
+
+Searching for Mushrooms
+* If searching for a familiar mushroom, 2d6 turns to locate a specimen of that species.
 
 D20 Mushroom Search Result GM Notes
-1-4 White ribs 15’ tall, 4’ caps, one specimen feeds a person for 3 days
-5-7 White bulbs 11’ tall, 2’ bulbs, poisonous
-8-10 Blue trumpets 14’ tall, 2’-diameter blue cup-shaped caps, 75% cap filled with water, one 
-specimen feeds a person for 3 days
-11-12 Orange lamps 10’ tall, 3’-diameter orange caps, emit phosphorescence; edible but 
-unappetizing, with one specimen feeding a person for 2 days
-13-14 Eye openers 9’ tall, 5’-diameter brown caps, psychedelic effects
-15 Cloud caps 9’ tall, with white and blue 2’ caps; edible, with one specimen feeding a person for 3 days; each dose cures 1d3 HP
-16 Aqua vitae Heavy white caps with brown stems and yellow ribs; one specimen feeds 
-a person for one day; if cooked, cure d8 HP
-17 Mind eaters Pale yellow with a red dot in center of cap; tasty and nutritious, with two specimens feeding a person fora day; but also cause insanity in those who fail save
-18 Red veil Blood red caps with pale yellow stems; violent madness (see description) if fail save
-19 Slow steppersCorpse white with black flecks; crushing or damaging the caps imposes slow on all in a 10’ radius
-20 A new variety of GM’s creation
+* 1-4 White ribs 15’ tall, 4’ caps, one specimen feeds a person for 3 days
+* 5-7 White bulbs 11’ tall, 2’ bulbs, poisonous
+* 8-10 Blue trumpets 14’ tall, 2’-diameter blue cup-shaped caps, 75% cap filled with water, one specimen feeds a person for 3 days
+* 11-12 Orange lamps 10’ tall, 3’-diameter orange caps, emit phosphorescence; edible but unappetizing, with one specimen feeding a person for 2 days
+* 13-14 Eye openers 9’ tall, 5’-diameter brown caps, psychedelic effects
+* 15 Cloud caps 9’ tall, with white and blue 2’ caps; edible, with one specimen feeding a person for 3 days; each dose cures 1d3 HP
+* 16 Aqua vitae Heavy white caps with brown stems and yellow ribs; one specimen feeds a person for one day; if cooked, cure d8 HP
+* 17 Mind eaters Pale yellow with a red dot in center of cap; tasty and nutritious, with two specimens feeding a person fora day; but also cause insanity in those who fail save
+* 18 Red veil Blood red caps with pale yellow stems; violent madness (see description) if fail save
+* 19 Slow steppersCorpse white with black flecks; crushing or damaging the caps imposes slow on all in a 10’ radius
+* 20 A new variety of GM’s creation
 
 A strike force of 4 quicklings: SZ S; AL CE; AC -3; MV 960’; HD 1 ½; HP 11, 10, 9, 7; #AT 3; Dmg 1-4/1-4/1-4. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. There is a 33% chance that any given quickling has coated his/her dagger with spider venom. One of the team has 2-4 skulls filled with acid (2-8 HP, 1 HP splash) attached to his/her belt.
 
@@ -505,16 +518,18 @@ Rune of Communication
 
 ### 9-12: Buried Colossal Statue 
 
-The top half of a buried stone head looms forth from the mushrooms and humus here. The head is flat and amphibian in features, with no ears, huge saucer-shaped eyes, and a slit nose. Only the upper lip of what must be a gaping maw is visible above the loam. If checked, the statue detects as evil.
+* The top half of a buried stone head looms from beneath the mushrooms and humus.
+	* Flat, with amphibian features, no ears, huge saucer-shaped eyes, and a slit nose.
+	* Only the upper lip of a gaping maw is visible above the loam.
+	* Detects as evil.
 
-The head is actually the tip of a colossal, 50’-tall statue that has been mostly buried by the accumulation of humus over the millennia. Carved by the heqeti into an enormous stone pillar (40’ in diameter at the base, 10’ in diameter at the top), the statue was the model for the Great Pukel (see 9-40) and the other, lesser pukel-manders (see new magic items) scattered throughout Arden Vul.  It would require massive labor or powerful spells to clear away the loam around the statue (an act which would also provoke total war with the quicklings – see 9-14). Should it be accomplished, however, the rest of the statue appears as a giant worm-like thing, albeit with the feet of an elephant and the arms and hands of a human. It is, in fact, a crude depiction of the demon lord Kauket (see new monsters). 
-
-Nestled in the statue’s arms (and buried 20’ down) is the founder’s mattock, (see new magic items), a lost heqeti artifact. It could be traded to the heqeti in return for 20,000 gp worth of gems and an assurance of neutrality (as the heqeti will never be true allies of any human). Doing so, however, should be considered an evil act, as possession of the mattock would greatly aid the heqeti.
-
-Destroying the statue, either physically with implements or magically via a spell or device (e.g., the spell stone to earth), weakens any incarnation of Kauket brought to this plane (see 10-37). Casting a hallow spell (see new spells) on the statue serves the same function.
-
-Treasure:
-The founder’s mattock (see new magic items).
+* The head is the tip of a colossal, 50’-tall statue, mostly buried by the accumulation of humus over the millennia.
+	* Carved by the heqeti into an enormous stone pillar (40’ in diameter at the base, 10’ in diameter at the top), the statue was the model for the Great Pukel (see 9-40) and the other, lesser pukel-manders (new) throughout Arden Vul.
+	* The full statue appears as a giant worm-like thing, with the feet of an elephant and the arms and hands of a human, a crude depiction of the demon lord Kauket. 
+		* Nestled in the statue’s arms (20’ down) is the founder’s mattock (new), a lost heqeti artifact. The It could be traded to the heqeti in return for 20,000 gp worth of gems and an assurance of neutrality (as the heqeti will never be true allies of any human). Doing so, however, should be considered an evil act, as possession of the mattock would greatly aid the heqeti.
+* The massive excavation to unearth it would provoke war with the quicklings (see 9-14).
+* Destroying the statue (physically or magically) weakens any incarnation of Kauket brought to this plane (see 10-37).
+	* Casting Hallow will do this.
 
 ### 9-13: Mushroom Drying Cave 
 
@@ -531,14 +546,13 @@ attached to his/her belt.
 
 ##### 9-13a: Quickling Ossuary
 
-The tunnel connecting this side cave to 9-13 is quite small, only 3’ in diameter.
-
-The cave is wide, but has a low (4’ ceiling). Carefully stacked throughout most of the cave are the tiny (2.5”-diameter) bleached skulls of hundreds of quicklings. The quickling tribe (9-14) preserves the skulls of its forebears and honors them with placement here.
-
-The east side of the cave contains a healthy colony of mucus-like snottites, which drip acid into a pool on the floor. The acid is strong, and those brushing against the snottites will take 2-8 HP damage (per round).
-
-The quicklings make use of the acid to give them a fighting chance against the varumani. They coat the insides of their forebears’ skulls with special concoction of mud and effluent 
-(derived from 9-7 and 9-16); then they fill the skulls with acid. Thrown against a target, these acid-skull bombs inflict 2-8 HP damage, with a 1 HP splash. The process of making the acid bombs is laborious, so not all quicklings possess them.
+* The tunnel connecting this side cave to 9-13 is quite small (3’ in diameter).
+* The cave is wide but low ceilinged (4’).
+* Carefully stacked throughout most of the cave are the tiny (2.5”-diameter) bleached skulls of hundreds of quicklings.
+	* Forebearrs preserved and honored by the tribe.
+* The east side of the cave has a colony of mucus-like snottites, which drip acid into a pool on the floor (touching it or the snottites deals 2d4 acid per round).
+	* The quicklings use this acid as a weapon against the varumani.  They coat the insides of their forebears’ skulls with a concoction of mud and effluent (derived from 9-7 and 9-16) and fill the skulls with acid.  The process is laborious.
+	* Thrown against a target, it deals 2d4 acid, 1 acid to those within 5'.
 
 ### 9-14: Hall of the Quicklings
 
@@ -546,43 +560,62 @@ The quicklings make use of the acid to give them a fighting chance against the v
 	* They have grown spindly and stunted (even smaller than normal grimalkin) and look emaciated.  Some have additional eyes, a mark of blessing (maybe even vestigial arms).
 	* They can speak to spiders, spider silk doesn't trap them (including web spells), and they can work well with it.  They are immune to spider venom.  Superb climbers and leapers.
 
-Rí Mear, lord of the quicklings, presides over his tribe from this hidden chamber. Only accessible from the network of tunnels that riddle the loam under the mushroom groves, the 8’-tall chamber offers a gruesome prospect to those who make it through the tunnels. A pile of dried mushrooms burns continuously in the center of the hall, shedding dim light on the splashes of blood that coat the walls. 
+Rí Mear, lord of the quicklings, presides over his tribe from this hidden chamber.
+Only accessible from the network of tunnels that riddle the loam under the mushroom groves, the 8’-tall chamber offers a gruesome prospect to those who make it through the tunnels.
+A pile of dried mushrooms burns continuously in the center of the hall, shedding dim light on the splashes of blood that coat the walls. 
 
 A ledge 2’ above the floor runs along the east and west walls of the chamber; it is here that quicklings perch for rest, relaxation, and drinking. 
 
-The north wall possesses a single 5’x5’ ledge. There sits Rí Mear’s throne of skulls, a dreadful thing made of ancient human and heqeti skulls bound together with strips of dried flesh. 
-Concealed in one of the skulls is the key to the secret door. This ledge also holds the quicklings’s stock of spider poison, which they use to coat their tiny daggers. Rí Mear doles it out sparingly.
+The north wall possesses a single 5’x5’ ledge.
+There sits Rí Mear’s throne of skulls, a dreadful thing made of ancient human and heqeti skulls bound together with strips of dried flesh.
+Concealed in one of the skulls is the key to the secret door.
+This ledge also holds the quicklings’s stock of spider poison, which they use to coat their tiny daggers. Rí Mear doles it out sparingly (20 doses of giant spider venom).
 
-To the south are some low tables crammed with bottles, small kegs, and wine flasks containing a bewildering assortment of liquors, ales, and other spirits. The floor around the liquor tables is littered with old bones, the remains of those unwary individuals who made it through the tunnels only to meet a sad fate in the quicklings’s hall.
+To the south are some low tables crammed with bottles, small kegs, and wine flasks containing a bewildering assortment of liquors, ales, and other spirits. 
+The floor around the liquor tables is littered with old bones, the remains of those unwary individuals who made it through the tunnels only to meet a sad fate in the quicklings’s hall.
 
-The Quicklings: This band numbers 30 individuals, of which only ten plus Rí Mear are typically found in this chamber (the rest are out in the tunnels). The band is confident and cocky, as their situation in the tunnels has allowed them to thrive in the shadow of putatively 
-stronger beings. They do value their small-scale but steady trade in mushrooms with the varumani, which provides them with liquors and other luxuries, but they treat all others with casual contempt. They are likely to torment and harass visitors to the mushroom groves in a regular fashion, although that harassment grows to open and total warfare if the groves are harmed in any way. Rí Mear has established an uneasy alliance with the giant spiders whose webs fill the space above much of the mushroom groves. In return for the quicklings informing the spiders of the arrival of juicy morsels, the giant spiders provide a limited quantity of venom.
-
-Rí Mear (“King Quick”): As the largest (2.5’ tall) and strongest of the quicklings, Rí Mear has ruled the band successfully for an amazing 15 years. He is ruthless and pitiless, preferring to direct his followers in guerilla warfare against any perceived threats rather than negotiate. Only if somehow confronted in his own hall by clearly superior forces will he agree to halt harassment, and then only grudgingly (although once given, his word is good). 
-
-Secret Door (north): A tiny (3’x3’), stone, secret door leads to a room in which the quicklings store their treasure. It is normal to detect (although all the quicklings know of it), and opens to the proper key (concealed in the throne) or to force. 
+Secret Door (north): A tiny (3’x3’), stone, secret door leads to a room in which the quicklings store their treasure.
+It is normal to detect (although all the quicklings know of it), and opens to the proper key (concealed in the throne) or to force. 
 
 Barred Door (south): This stone door is 3’x4’ in size and is barred with an oaken plank from this side.
+
+Alcohol: most of the liquor is of modest quality (20 containers, 5-500 sp each). There are 3 kegs of Hak’s mushroom ale (see 7-94, 15 gp each), 3 bottles of ancient Archontean brandy (225 gp each).
+
+Treasure chamber: the floor is littered with coins (17,492 sp, 3,451 gp) and precious stones. The stones are collectively worth 12,000 gp, and include 15 moss agates (10 gp each), 22 pieces of obsidian (10 gp each) 13 tiger eyes (10 gp each), 23 citrines (50 gp each), 6 iolites (50 gp each), 17 tourmalines (50 gp each), 7 pieces of jade (100 gp each), 2 aquamarines (500 gp each), 3 violet garnets (500 gp each), an emerald (1,000 gp), and a jacinth (5,000 gp). Scattered amid the coins and gems are the following (see new magic items for all): two glass spheres of arcane assistance (dispelling and martial warding), a pair of gauntlets of fire absorption, a heqeti ring, an icon of Kauket, and a jade cup of life restoration with 2 charges.
+
+
+* 10 quicklings, plus Rí Mear, are usually here.
+
+
+The Quicklings
+* 30 individuals, with 20 usually out in the tunnels.
+* The band is confident and cocky; their situation in the tunnels has allowed them to thrive in the shadow of putatively stronger beings.
+	* They value their small-scale but steady trade in mushrooms with the varumani, which provides them with liquors and other luxuries.
+	* They treat all others with casual contempt, regularly tormenting and harassing visitors to the mushroom groves.
+		* This grows to open and total warfare if the groves are harmed in any way.
+* Rí Mear has established an uneasy alliance with the giant spiders whose webs fill the space above much of the mushroom groves.
+	* In return being informed of the arrival of juicy morsels, the giant spiders provide a limited quantity of venom.
+
+Rí Mear (“King Quick”)
+* The largest (2.5’ tall) and strongest of the quicklings,
+* Rí Mear has ruled the band successfully for an amazing 15 years.
+* He is ruthless and pitiless, preferring to direct his followers in guerilla warfare against any perceived threats, rather than negotiate.
+* Only if confronted in his own hall by clearly superior forces will he agree to halt harassment, and then only grudgingly (though once given, his word is good).
 
 Rí Mear, quickling lord: SZ S; AL CE; AC -3; MV 960’; HD 4 ½; HP 30; #AT 3; Dmg 2-5/2-5/2-5. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. His dagger is coated with spider venom, and he carries 3 skulls filled with acid (2-8 HP, 1 HP splash).
 
 10 quicklings: AL CE; SZ S, AC -3; MV 960’; HD 3(x2), 1 ½(x8); HP 22, 19, 11, 10, 10, 9(x3), 8, 7; #AT 3; Dmg 1-4/1-4/1-3. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. At least three of the ten have weapons coated in 
 giant-spider venom; there is a 33% chance that each of the other seven have followed suit. Three have 2-4 skulls filled with acid (2-8 HP, 1 HP splash) attached to their belts.
 
-Treasure:
-Alcohol: most of the liquor is of modest quality (20 containers worth 5-500 sp each). There are three kegs of Hak’s mushroom ale (see 7-94) worth 15 gp each, as well as three bottles of ancient Archontean brandy worth 225 gp each.
-
-Spider venom: Rí Mear possesses 20 doses of giant spider venom.Treasure chamber: the floor is littered with coins (17,492 sp, 3,451 gp) and precious stones. The stones are collectively worth 12,000 gp, and include 15 moss agates (10 gp each), 22 pieces of obsidian (10 gp each) 13 tiger eyes (10 gp each), 23 citrines (50 gp each), 6 iolites (50 gp each), 17 tourmalines (50 gp each), 7 pieces of jade (100 gp each), 2 aquamarines (500 gp each), 
-3 violet garnets (500 gp each), an emerald (1,000 gp), and a jacinth (5,000 gp). Scattered amid the coins and gems are the following (see new magic items for all): two glass spheres of arcane assistance (dispelling and martial warding), a pair of gauntlets of fire absorption, a heqeti ring, an icon of Kauket, and a jade cup of life restoration with 2 charges.
-
 ### 9-15: Quickling Tunnels
 
-A bewildering network of small tunnels runs through the 40’-deep loam that forms the bed of the southern mushroom groves. The tunnels are only 3’ in diameter, and include vertical shifts in elevation, intersections, slight widenings, dead ends, and plenty of old bones sticking out the loam. The tunnels are present everywhere there are mushrooms, that is, between the berm (9-9) and the cesspool (9-16). Scores of tiny concealed holes (2’ diameter) lead from the floor of the groves to the tunnel network; these holes are typically concealed by fallen mushroom ribs, detrital mats woven of discarded giant spider silk, or something similar. The quicklings use their tremendous speed to dash through the tunnels, either to 
-access to a portion of the groves for fungi maintenance or to harass unwanted visitors (and most are unwanted!). 
-
-Several strike teams composed of 4-6 quicklings are present in the tunnels at all times, ready to burst forth from the nearest access hole. A strike team typically spends 2-3 rounds tormenting its foes before dashing back into an access hole. They then wait for the victims to move before repeating the procedure.
-
-Should appropriately-sized PCs enter the tunnels, they will find the strike teams equally willing to attack lead characters in turn, hoping to reduce the invaders’ strength by attrition (and, hopefully, by the successful use of the spider venom that some of the quicklings employ). Should small-sized PCs overcome these odds, it will still take 6-12 turns of claustrophobic crawling through the tunnels before the entrance to the quicklings’s hall (9-14) is discovered. 
+* A bewildering network of 3' wide tunnels runs through the 40’-deep loam bed of the southern mushroom groves.
+	* The tunnels include shifts in elevation, intersections, widenings, dead ends, and plenty of old bones sticking out the loam.  They are present everywhere there are mushrooms (between the berm (9-9) and cesspool (9-16)). 
+	* Scores of tiny, concealed holes (2’ diameter) lead from the surface into the tunnels, typically concealed by fallen mushroom ribs, mats of detrius and spider silk, etc. 
+* The quicklings use their tremendous speed to dash through the tunnels, accessing distant parts of the groves.
+	* Several strike teams (1d3+3 quicklings) are in the tunnels at all times, ready to burst forth from the nearest access hole.  They spend 2-3 rounds tormenting foes before dashing back into an access hole, then wait for the victims to move before repeating the procedure.
+* If Small foes enter the tunnels, the strike teams attack lead characters, hoping to block in foes.  They use of the spider venom as needed. 
+	* If tunnel intruders overcome these odds, it takes 2d4+4 turns of claustrophobic tunnel exploration to find the entrance of the quicklings’s hall (9-14). 
 
 Up to 16 quicklings in strike teams of 4-6 individuals: AL CE; SZ S (2’), AC -3; MV 960’; HD 3(x2), 1 ½ (x14); HP 22, 19, 11(x3), 10(x3), 9(x4), 8, 8, 7, 7; #AT 3; Dmg 1-4/1-4/1-4. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. There is a 33% chance that any given quickling has coated his/her dagger with spider venom. One member of each team has 2-4 skulls filled with acid (2-8 HP, 1 HP splash) attached to his/her belt.
 
@@ -668,42 +701,64 @@ surprised only on 1 in 6; save as 8th-level fighters or 8th-level magic users, w
 
 ### 9-22: Mine Boss
 
-This cave is brightly lit by four torches and serves as the headquarters of the varumani silver mining operation. Within are six hammocks, a rack containing picks, shovels, and wooden 
-buckets, four kegs of Hak’s ale (see 7-94), a dozen sides of smoked goat meat, and an unused rudishva greater power supply (see new technological items). Against the flattish south wall is a man-sized straw dummy, which the varumani use for target practice. Typically the true varumani overseer of the mining operation, Prayaska, hangs about here with her advisor, Lithiric the Talker, killing time and planning how to enrich herself. There is a 33% chance that two miners are also present, resting in their hammocks.
+* This cave, brightly lit by 4 torches, is the headquarters of the varumani silver mining operation.
+	* 6 hammocks, a rack of picks, shovels, and wooden buckets
+	* 4 kegs of Hak’s ale (7-94, 50 gp each)), a dozen sides of smoked goat meat
+	* An unused rudishva greater power supply (tech).
+	* Against the flattish south wall is a man-sized straw dummy for target practice.
 
-GM Notes: Prayaska is a proud and extremely venal member of clan Rudigaya. She is so proud, in fact, that she eschews actual mining, preferring to boss her fellows about. Her venality is well known to Varboka the thegn (7-30), but Varboka believed that her greed could be turned to the benefit of the People by ensuring maximum output from the silver mine. The thegn did not count on the evil influence of Lithiric, however. Lithiric insinuated himself into Prayaska’s favor and has been slowly playing up the latter’s greed; it was Lithiric who suggested that Prayaska begin holding back some portion of the smelted silver as her own ‘due’. Lithiric is, in fact, an agent of High Priestess Stephania of the cult of Set (4-51), sent to the thegn’s court to sow dissension; by playing on Prayaska’s greed, he hopes to be able to divert an increasing quantity of the mined silver to his mistress on Level 4. Lithiric has 
-also been charmed by Cinna Minux (7-122), and is unaware that the vampire is fully aware of the existence of the mine as well as Lithiric’s political machinations. Despite his treacherous plans, Lithiric fights bravely alongside his varumani ‘friends’ so as to preserve Set’s influence in this area.
+* Typically Prayaska, true varumani overseer of the mining operation, loiters here with her advisor, Lithiric the Talker, killing time and planning how to enrich herself.
+* (33%) 2 miners are present, resting in their hammocks.
+
+
+Prayaska
+* A proud and extremely venal member of clan Rudigaya.  She eschews actual mining, preferring to boss her fellows about.
+	* Her venality is well known to Varboka the thegn (7-30), but he believed her greed could benefit of the People by ensuring maximum output from the silver mine.
+	* The thegn did not count on the evil influence of Lithiric. 
+
+Lithiric the Talker
+* Lithiric insinuated himself into Prayaska’s favor and has been slowly playing up her greed.
+	* Lithiric suggested she begin skimming some portion of the silver as her ‘due’.
+* Lithiric is an agent of High Priestess Stephania of the cult of Set (4-51), sent to the thegn’s court to sow dissension.
+	* He hopes to be able to divert an increasing quantity of his own skim of the silver to his mistress on Level 4.
+* ithiric has been charmed by Cinna Minux (7-122).
+	* The vampire knows all about the mine and the skimming, as well as Lithiric’s political machinations.
+* Lithiric fights bravely alongside his varumani ‘friends’ to preserve Set’s influence here.
 
 Prayaska, female true varumani (see new monsters): SZ L; AL LN; AC 1; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (club, 2-20+4). Special defenses: surprised only on 1 
-in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: a huge, polished rosewood war club; six javelins; a torc of protection (see new magic items) worn as an arm band; and pouch of capacity (see new magic items). The pouch contains 25 lb of pure silver, skimmed from the smelting operation in 9-26.
+in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. 
+* Possessions: a huge, polished rosewood war club; 6 javelins
+* A torc of protection (new) worn as an arm band; pouch of capacity (new, 25 lb of pure silver, skimmed from the smelting operation in 9-26).
 
 Lithiric the Talker, 7th-level male Thorcin magic user: SZ M; AL CE; AC 7; MV 120’; HD 7; HP 21; #AT 1; Dmg 1-4 (dagger). Abilities: STR 9, INT 16, WIS 15, DEX 15, CON 9, CHA 10. 
-Possessions: a bandolier of daggers; a ring of protection +2; a scroll case of potency (see new magic items) in which he has placed one of his three scrolls of fireball; a bag of holding 
-(70 cubic feet variety) containing 500 sp and 155 lb of pure silver; and a wand of lightning (11 charges). Memorized spells: burning hands, charm person, friends, shield; continual 
-light, invisibility, mirror image; dispel magic, suggestion; wall of fire. 
+* Possessions: a bandolier of daggers; a ring of protection +2; a scroll case of potency (new) holding a scroll of fireball, 2 scrolls of fireball; a bag of holding (70 cubic feet variety, 500 sp, 155 lb of pure silver), a wand of lightning (11 charges).  His spellbook.
+* Memorized spells: burning hands, charm person, friends, shield; continual light, invisibility, mirror image; dispel magic, suggestion; wall of fire. 
 
 2 bestial varumani (see new monsters) (33%): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 53, 49; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
-
-Treasure:
-Three kegs of Hak’s ale (50 gp each); personal treasure on the two bosses; Lithiric’s spell book.
 
 Lithiric’s Spell Book: Burning hands, charm person, comprehend languages, detect magic, friends, identify, jump, light, magic missile, read magic, shield, sleep; audible glamer, continual light, detect invisibility, invisibility, mirror image; dispel magic, fireball, phantasmal force, protection from normal missiles, slow, suggestion; charm monster, fire shield, fumble, remove curse, wall of fire, wizard eye, distance distortion.
 
 ### 9-23: Silver Mine, Main Seam
 
-A rich seam of pure silver runs through the rock in this area. The sound of picks and mauls echoes throughout, as the varumani have seized the area and are mining it. The main seam averages 20’ in width and 15’-25’ in height; torches set into sconces every 25’ provide light. Numerous side tunnels (e.g. 9-28) have been dug off the main seam. Wooden scaffolding is erected here and there throughout the seam, on top of which 6-8 lesser and bestial varumani miners are always hard at work with pickaxes, mauls, shovels, and wooden buckets. 
+* A rich seam of pure silver runs through the rock here, and the varumani have claimed the area and are mining it.
+	* The picks and mauls echo throughout.  Torches are set in sconces every 25’.
+	* The main seam averages 20’ wide and 15’-25’ high.  Numerous side tunnels (e.g. 9-28) have been dug off the main seam.
+	* Wooden scaffolding is erected here and there throughout the seam.
+* The miners have collected 36 lb of un-smelted raw ore.
 
-While the main seam still produces ore (about 18 lb of raw ore and 3 lb of silver per day), it is clear that the easy days of mining in the wide main seam are nearing their end. Already the section of the seam nearest area 9-26 is played out, and the miners are piling up their tailings along the west wall there. Within three months the eastern arm of the main seam will also be played out, and the miners will need to start the more difficult work of delving new seams, in the direction of area 9-28 for instance. 
+* 6-8 lesser and bestial varumani miners are always hard at work with pickaxes, mauls, shovels, and wooden buckets.
 
-Unless visitors are obviously hostile, the miners ignore all those who appear to have legitimate business in the area. If a fight breaks out at area 9-21, there is only a 33% chance that the miners hear it and move to investigate.
+* The main seam still produces ore (~18 lb of raw ore (3 lb of silver) per day), it is clear the easy days of mining in the wide main seam are nearing their end.
+	* The section nearest 9-26 is played out, and the miners are piling up their tailings along the west wall there.
+	* Within 3 months, the eastern arm of the main seam will also be played out, and the miners will need to start the more difficult work of delving new seams (in the direction of 9-28 for instance).
+
+* Unless visitors are obviously hostile, the miners ignore those who appear to have legitimate business in the area.
+	* If a fight breaks out at 9-21, 33% chance the miners hear and move to investigate.
 
 4 lesser varumani (see new monsters): SZ L; AL LE; AC 4; MV 90’; HD 8; HP 59, 58, 53, 49; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 7-22 (club, 3-18+4). Special defenses: 33% resistant to mind-affecting magic; immune to cold and poison; save as 8th-level fighters or 8th-level magic users, whichever is better; regenerate 3 HP/rd; infravision. Possessions: club.
 
 2 or 4 bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 53, 50, 49, 48; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to 
 poison.
-
-Treasure:
-The miners have collected 36 lb of un-smelted raw ore.
 
 ### 9-24: Smelly Cave 
 
@@ -787,6 +842,19 @@ The camp is concealed by an hallucinatory terrain spell cast by Cenwulf, the lea
 If discovered, the Priscians first attempt to render any visitors helpless via backstabs and disabling magic. If the PCs offer negotiation or surrender, though, the Priscians are willing to listen, provided the PCs swear to depart from this section of Level 9. They might even offer a bribe of up to 200 gp/head to induce the PCs to depart. Should the PCs agree, the Priscians will appear pleased; but will soon shift their camp to area 9-38 and double the guard, since 
 they fully expect the PCs to return with a vengeance.
 
+Treasure:
+In addition to the personal items on the Priscians, the chests contain some valuables:
+
+Chest #1: this chest contains the spell books of the mages, plus 3 scrolls of detect magic, and 2 scrolls of knock.
+
+Chest #2: a pile of silver and copper coins to be used as bribes. 1,319 sp, 456 ancient silver pennies (see Arden Vul items), and 8,901 cp.
+
+Chest #3: enough dried meat, dried vegetables and dried fruit for a dozen people for a week. In addition, 10 Arden Vul cakes (see Arden Vul items), and a 3-lb bag of nuts.
+
+Chest #4: 2 lb of silver dust (5 gp); a pair of solid gold finials shaped like storks (330 gp each); an elaborate carved ivory box with scenes from Archontean military history (450 gp); 6 vials of sweet-smelling incense, a solid lead andiron shaped like a terrier (45 gp), a set of eight carved silver weights used in draftsmanship to hold parchment in place (35 gp each), and 3 10-lb bars of platinum (2,500 gp each). 
+
+
+
 Cenwulf the Unseen, Priscian war mage (see new monsters) and member of Septimus, as an 8th-level male Thorcin illusionist: SZ M; AL LE; AC 3; MV 120’; HD 8; HP 24; #AT 1; Dmg 2-7 (Sortian baculus). Abilities: STR 10, INT 17, WIS 15, DEX 16, CON 11, CHA 11. Possessions: a key to 9-58; bracers of defense (AC 5); robe of blending; brooch of shielding (43 HP left); wand of negation (37 charges); Sortian baculus infused with blink (9 charges) (see new magic items), and a Priscian ring infused with dispel magic and invisibility (17 charges) (see new magic items). He holds the key to all four chests. Memorized spells: color spray, darkness, phantasmal force, wall of fog; blur, brain full of small spiders (see new spells), invisibility; Frigg’s caustic kisses (see new spells), hallucinatory terrain; brain full of large spiders (see new spells). Spell book: audible glamer, the Bracteros Effect (see new spells), color spray, dancing lights, darkness, detect illusion, detect invisibility, light, phantasmal force, wall of 
 fog; blur, brain full of small spiders (see new spells), detect magic, hypnotic pattern, improved phantasmal force, invisibility, mirror image, misdirection; continual darkness, 
 dispel illusion, Frigg’s caustic kisses (see new spells), hallucinatory terrain, invisibility 10’ radius, paralyzation, spectral force, suggestion; brain full of large spiders (see new spells), confusion, minor creation, phantasmal killer.
@@ -818,17 +886,6 @@ Crinux the Wrinkled, Priscian conversus (see new monsters), as a 6th-level male 
 
 2 Priscian conversi (see new monsters), as 3rd-level female Thorcin fighters: SZ M; AL NE; AC 4; MV 90’; HD 3; HP 30, 28; #AT 1; Dmg 2-7 (spear) or 2-9 (long sword). Special: they have 
 STR 17 and CON 16. Possessions: chainmail and shield; spear; long sword.
-
-Treasure:
-In addition to the personal items on the Priscians, the chests contain some valuables:
-
-Chest #1: this chest contains the spell books of the mages, plus 3 scrolls of detect magic, and 2 scrolls of knock.
-
-Chest #2: a pile of silver and copper coins to be used as bribes. 1,319 sp, 456 ancient silver pennies (see Arden Vul items), and 8,901 cp.
-
-Chest #3: enough dried meat, dried vegetables and dried fruit for a dozen people for a week. In addition, 10 Arden Vul cakes (see Arden Vul items), and a 3-lb bag of nuts.
-
-Chest #4: 2 lb of silver dust (5 gp); a pair of solid gold finials shaped like storks (330 gp each); an elaborate carved ivory box with scenes from Archontean military history (450 gp); 6 vials of sweet-smelling incense, a solid lead andiron shaped like a terrier (45 gp), a set of eight carved silver weights used in draftsmanship to hold parchment in place (35 gp each), and 3 10-lb bars of platinum (2,500 gp each). 
 
 ### 9-32: Bone Slope
 
@@ -931,11 +988,23 @@ Worth 150 gp
 
 ### 9-34: Cave of Tashiblis
 
-This ‘cave’ is separated from area 9-33 by a narrow, 8’-wide opening between two huge piles of rubble. If examined, the rubble is easily shown to be the remains of the stone bridge that once connected 9-36 and 9-31. It is clear both that the rubble has been consciously piled up so as to close off 9-34 and that the extant entrance to 9-34 was formed by something pushing into 9-33 from within 9-34. That ‘something’ is a dreadful animated construct known to the heqeti as Tashiblis (see new monsters). Noise or light in the western areas of 9-33 brings Tashiblis stumping to the attack (and wakens the undead heqeti at 9-36).
+* This ‘cave’ is separated from 9-33 by a 8’-wide opening between two huge piles of rubble.
+	* The rubble is the remains of the stone bridge that once connected 9-36 and 9-31.
+	* It is clear the rubble was intentionally piled up to close off 9-34, and that the extant entrance to 9-34 was formed by something pushing into 9-33 from within 9-34. 
 
-Background: Tashiblis is a rudishva animated construct (stone nataraja) (see new monsters) that was abandoned during the rudishva collapse and ‘repurposed’ by the clever heqeti builder, Hossqip. Hossqip was a hero of the rudishva wars, and accomplished many impressive magical feats, including taking control of the animated construct and infusing it with some impressive offensive and defensive features. It guarded area 9-36 until the Archontean wars, when the stone bridge was destroyed and the Archontean magi barricaded it into area 9-34. Eventually it dug its way out of the rubble and now continues in its guard duties even in the absence of its heqeti masters. 
+* That ‘something’ is a dreadful animated construct known to the heqeti as Tashiblis (new).
+	* Noise or light in the western areas of 9-33 brings Tashiblis stumping to the attack (and wakens the undead heqeti at 9-36).
 
-Tashiblis (see new monsters): SZ L; AL N; AC 1; MV 120’; HD 8+8; HP 62; #AT 1; Dmg 4-11; MR 35%. Special attacks: sonic stun; small fireballs (4-24 damage); rainbow bolts (drain spells from target), breath weapon - fire (5-30 damage). Special defenses: +2 weapons or better weapons to hit.
+Tashiblis
+* A rudishva animated construct (stone nataraja) (new) abandoned during the rudishva collapse and ‘repurposed’ by the clever heqeti builder, Hossqip.
+	* Hossqip was a hero of the rudishva wars, and accomplished many impressive magical feats.
+	* He has taken control of the construct and infused it with some impressive offensive and defensive features.
+* It guarded 9-36 until the Archontean wars, when the stone bridge was destroyed and the Archontean magi barricaded it into 9-34.
+	* Eventually it dug its way out of the rubble and now continues in its guard duties even in the absence of its heqeti masters. 
+
+Tashiblis (see new monsters): SZ L; AL N; AC 1; MV 120’; HD 8+8; HP 62; #AT 1; Dmg 4-11; MR 35%.
+* Special attacks: sonic stun; small fireballs (4-24 damage); rainbow bolts (drain spells from target), breath weapon - fire (5-30 damage).
+* Special defenses: +2 weapons or better weapons to hit.
 
 ### 9-35: Tunnel Up to 5-52b
 
@@ -968,13 +1037,18 @@ Tashiblis (see new monsters): SZ L; AL N; AC 1; MV 120’; HD 8+8; HP 62; #AT 1;
 
 ### 9-38: Rubble-Strewn Heqeti Causeway
 
-This section of the long heqeti causeway that once linked 9-2 to 9-40 overlooks the cavern below (9-37). The way north is blocked by an impassable cave-in; the same appears to be the case to the south, although careful inspection reveals several narrow passages that lead through the debris to area 9-40. 
+* This section of the long heqeti causeway that once linked 9-2 to 9-40 overlooks the cavern below (9-37).
+	* The ways north and south are blocked by an impassable cave-ins.
+		* Careful inspection of the south reveals several narrow passages leading through the debris to 9-40.
+	* The west wall (running all the way to 9-40) boasts low relief carvings.
+		* Heqeti, salamanders, frogs, and amphibian-like entities writhing in an interlocking, chaotic mass of limbs, tongues, and stabbing weapons.  The eyes of all the carvings are all hollow depressions about the size of a fist
+		* Disturbing to look at.
+		* Some ancient graffiti (Mithric) mars the carvings towards the north end.
+			* Vulgar and coarse, with frequent mention of the hoppers and where they ought to hop.
+	* Secret Door (west): difficult to locate (1 in 8 chance), taking the form of a writhing salamander (3’ high and 7’ long).
+		* From this side, placing 2 tears of Kauket (new) in the salamander's eyeholes causes it to open inward. 
 
-The west wall (running all the way to 9-40) boasts low relief carvings of heqeti, salamanders, frogs, and amphibian-like entities writhing in an interlocking, chaotic mass of limbs, tongues, and stabbing weapons. The scene is disturbing to look at, especially as the eyes of all the carvings are all hollow depressions about the size of a fist. Some ancient Mithric graffiti mars the carvings towards the north end; this graffiti is vulgar and coarse, with frequent mention of the hoppers and where they ought to hop.
-
-At the moment this area is unoccupied. Should the Priscians at 9-31 be discovered, however, they will move their encampment to this area.
-
-Secret Door (west): This door is difficult to locate (1 in 8 chance). It is unusually sized, taking the form of a writhing salamander, and can only be opened from this side by placing two tears of Kauket (see new magic items) in the eyeholes of that salamander. If this is done, the salamander-shaped door (about 3’ high and 7’ long) opens inward. 
+* If the Priscians at 9-31 are discovered, they move their encampment here.
 
 ### 9-39: Secret Staircase Leading Up to 6-112a
 
@@ -1014,16 +1088,25 @@ teleport without error; 50% chance to gate in either another keqemander or a Typ
 	* If the Frigg's flatulence is triggered, the Priscians in 7-44 will be ready.
 ### 9-42: Debris-Strewn Cave
 
-The same geological instability present in 9-37 is found here (see above for chances of collapse). The temperature is noticeably warmer, and the air moister. Although the cave surfaces are rough and natural, obvious bits of ancient worked stone protrude crazily from the floor and walls. These include bits of stairs, flattened pieces of pediment, and an occasional broken plinth. 
+* The area is geologically unstable and likely (75%) to suffer rockfalls if destructive magic (e.g. fireballs) is used the area of 9-37 to 9-40.
+	* Rockfall: hits 3-6 10’x10’ squares dealing 6d6 (save vs breath for half, thieves save for none).
+* The cave surfaces are rough and natural, but obvious bits of ancient stonework protrude crazily from the floor and walls (bits of stairs, flattened pediment, broken plinths). 
+	* The temperature is noticeably warmer, and the air moister.
 
-Lying in a pool of dried blood halfway down the cave is the corpse of an unusual being: a man-sized biped dressed in bulbous, puffy, quilted, yellow pants and coat. Within is the body of a spindly biped with a smooth, hairless body. Its eyes are pupil-less and of indeterminate color. Within its cold-weather gear it wears only a loincloth and four web-belts that were once stuffed with gear. The corpse is that of Harjot, a niravairi and a rissaldar in the Order of Planar Explorers (see new monsters). His body has a nasty gut wound and has been stripped of nearly all of its special equipment.
+* In a pool of dried blood halfway down the cave is the corpse of a githyanki.
+	* It wears a harness, loincloth and four web-belts, partly looted. 
+		* 1-lb sack of gold flakes (50 gp), 1-lb sack of silver flakes (50 sp), and 7 cork-sized plugs of pure platinum (1 lb, 250 gp).
+		* A piece of crystal covered with spidery writing (Niravairi).
+	* This was Harjot, a niravairi and a rissaldar in the Order of Planar Explorers (new). 
+	* He has a fatal gut wound.
+* A tracker may follow a subtle blood trail south towards 9-43.
 
-A ranger may be able to locate and track a subtle blood trail that leads south towards 9-43. The chance is 50% plus 5% for every level of experience over 3.
+Crystal Message
+* ??? connects to the Tomb of Light.  Replace it with some kind of new plotline?
 
-GM Note: The demonic huntsmen at 9-50 hunted Harjot and his companions, Bahula (see 9-50) and Vingelok (see 9-48), through the Astral Plane. The three members of the Order fled through the gate at 9-51, but were trailed by the huntsmen. Bahula was slain first, while Harjot was mortally wounded and succumbed to his injuries here. Vingelok still lives, wounded and desperate, deeper within the ruins.
-
-Treasure:
-Stuffed into a pouch on the web-belts is a 1-lb sack of gold flakes (50 gp), a 1-lb sack of silver flakes (50 sp), and 7 cork-sized plugs of pure platinum (weighing about 1 lb in total and worth 250 gp). Within the corpse’s loincloth is a small piece of crystal covered with spidery writing in the niravairi language; if deciphered with magic, it reads “Rissaldar! We have reason to believe Veshlok, the hero of the ancient Order, still lives, trapped in a time anomaly within the Astral. Your mission is to provide tactical support to the Havildar. Together you are to locate the missing Veshlok, probably at the arcanum mine on the hawk-headed corpse, and rescue him. May your karma be sufficient to merit success.” [GM: the note refers to the other members of the Order of Planar Explorers whose fate is detailed at SL1-11].
+GM Note
+* The demonic huntsmen at 9-50 hunted Harjot and his companions, Bahula (9-50) and Vingelok (9-48), through the Astral Plane.
+* The 3 members of the Order fled through the gate at 9-51, but were followed by the demons.  Bahula was slain first, while Harjot was mortally wounded and died here.  Vingelok still lives, wounded and desperate, deeper within the ruins.
 
 ### 9-43: Stalactite Cave
 
@@ -1049,13 +1132,23 @@ Stuffed into a pouch on the web-belts is a 1-lb sack of gold flakes (50 gp), a 1
 
 ### 9-46: Ancient Slime Pits
 
-This worked area sits 30’ above the floor of 9-45 and features pebbled, oily surfaces like the rest of the heqeti architecture. Six pits, each 6’ in diameter and 3’ deep, are set into the floor of the chamber, while shattered stone benches rest against all the walls and piles of debris litter the floor. Amid the piles may be found stone chips, leather flasks, gourds, bits of unidentifiable dried mushroom, broken copper utensils, and small bits of flakey substances in a variety of colors. Two of the pits are coated with a long-dried precipitate, one of which is pale green and the other bright yellow. 
+* This worked area of pebbled, oily stone sits 30’ above the floor of 9-45.
+	* Six ==pits==, each 6’ wide and 3’ deep, are set into the floor.
+		* 2 pits are coated with long-dried precipitate; one pale green, one bright yellow.
+	* Shattered stone benches rest against all the walls.
+	* Piles of debris litter the floor.
+		* Stone chips, leather flasks, gourds, bits of unidentifiable dried mushroom, broken copper utensils, and small bits of flakey substances in various colors.
 
-This was one of the original locations in which the heqeti experimented with brewing slimes, relying on the chaotic influence of dread Rimmaq-Isfet (see new monsters), and on the ingenuity of their builders.
+* A foul ichor of Rimmaq-Isfet has been drawn here by the evil still permeating the area.
+	* It is plastered to the ceiling, appearing as a patch of black rock.
+	* Once living prey has come into range, it drops. 
 
-Since the site was destroyed twice, first by the rudishva and again by the Archonteans, little of use remains. Still, the precipitates that remain in the pits could be rehydrated, thus creating two heqeti slimes (see new monsters). If the slimes are rehydrated in a closed receptacle (bottle or flask), they might be usable as thrown weapons. If rehydrated in situ, they act as foes. The GM can roll randomly or choose an appropriate slime.
+Slime Pits
+* This was one of the original locations where heqeti experimented with brewing slimes, relying on the chaotic influence of dread Rimmaq-Isfet and the ingenuity of their builders.
+	* The site was destroyed twice, first by the rudishva and again by the Archonteans.
+	* Still, the precipitates that remain in the pits could be rehydrated, creating 2 heqeti slimes (new, GM rolls or chooses types).
+		* Rehydrated in a closed vessel (bottle or flask), they might serve as thrown weapons.  Rehydrated in situ, they attack.
 
-More significantly, a foul ichor of Rimmaq-Isfet has been drawn here by the evil that still permeates the area. It is plastered to the ceiling, where it appears as a patch of black rock. Once living prey has come into range, it drops from above in an effort to consume the living. The ichor has no treasure. 
 
 1 ichor of Rimmaq-Isfet (see new monsters): SZ L; AL CE; AC 5; MV 60’; HD 16 HD; HP 111; #AT 2; Dmg 1-6/1-6; MR 30%. Special attacks: caustic touch (1-4 HP acid damage); crush (1-10 HP/rd); obliterate organic matter. Special defenses: +1 or better weapons to hit; immune to cold and acid.
 
@@ -1074,16 +1167,20 @@ days); corrosive to wood. Special defenses: healed by electricity, lasers; slowe
 
 ### 9-48: Heqeti Chamber 
 
-This heqeti chamber, with its pebbled, greasy surfaces, was stripped of all interesting items over a millennium ago. It is now the hiding place of Vingelok, a niravairi and a havildar in the Order of Planar Explorers (see new monsters). Vingelok is dressed in puffy, quilted orange ‘cold weather’ outfit, and carries a fair amount of exotic gear.
+* This heqeti chamber, with its pebbled, greasy surfaces, was stripped bare over a millennium ago.
+
+* It is now the hiding place of Vingelok, a niravairi and a havildar in the Order of Planar Explorers (new). 
+	* 
+	* 
+	* ??? Vingelok is dressed in puffy, quilted orange ‘cold weather’ outfit, and carries a fair amount of exotic gear.
 
 Vingelok is on the run, having been chased through the gate at 9-51 by the demonic huntsmen now encamped at 9-50. His comrades, Bahula and Harjot, were slain (see 9-42 and 9-50), but Vingelok, despite his own injuries, managed to locate a temporary place of refuge in this chamber. Vingelok gratefully accepts medical aid from PCs, although what he would really like is for the PCs to eliminate the huntsmen. If the latter transpires, Vingelok returns 
 to 9-51 and rewards rescuers with up to three items from his stash. Those who aid Vingelok win the lasting gratitude of the Order, a fact which might prove useful in Astral or other planar adventuring. If PCs refuse to aid Vingelok, he will be dead within three days after the aroksachaul (9-50) finally get around to finishing the hunt. At that point, all that remains here is a pool of dried blood.
 
 Vingelok, niravairi (see new monsters) and havildar in the Order of Planar Explorers, as a 10th-level fighter: SZ M; AL LN; AC 1; MV 120’; HD 10; HP 27 (max 70); #AT 3/2; Dmg 3-10 
-(niravairi astral tulwar), or 3-6 (niravairi astral crossbow of accuracy and bolts +2). Abilities: STR 16, INT 16, WIS 11, DEX 15, CON 12, CHA 13. Continual abilities: infravision. Special attacks: surprise on 1-3 in 6. Special defenses: only surprised on 1 in 6. Possessions: niravairi astral tulwar (see new magic items); niravairi astral crossbow of accuracy with six bolts +2 (see new magic items); a niravairi personal shield (see new technological items); and other gear (see treasure).
-
-Treasure:
-Two signet rings made of steel (one his, one Harjot’s), each worth 15 gp as a curiosity; 12 platinum disks threaded on a steel rod (250 gp per disk); 100 chrysoberyls (100 gp each); a diplomat’s voice; two niravairi rebreathers; a niravairi molecular analyzer; and six packets of dehydrated rations (see new technological items for all).
+(niravairi astral tulwar), or 3-6 (niravairi astral crossbow of accuracy and bolts +2). Abilities: STR 16, INT 16, WIS 11, DEX 15, CON 12, CHA 13. Continual abilities: infravision. Special attacks: surprise on 1-3 in 6. Special defenses: only surprised on 1 in 6. 
+* Possessions: niravairi astral tulwar (new); niravairi astral crossbow of accuracy (new), 6 bolts +2 ; a niravairi personal shield (tech)
+* 2 signet rings of steel (one his, one Harjot’s) ( 15 gp); 12 platinum disks threaded on a steel rod (250 gp per disk); 100 chrysoberyls (100 gp each); a diplomat’s voice; 2 niravairi rebreathers; a niravairi molecular analyzer; and 6 packets of dehydrated rations (tech).
 
 ### 9-49: Eastern Plateau
 
@@ -1096,13 +1193,23 @@ Two signet rings made of steel (one his, one Harjot’s), each worth 15 gp as a 
 
 ### 9-50: Camp of the Huntsmen
 
-A band of eight aroksachaul, or demonic huntsmen (see new monsters), have established a temporary camp by the wall of the great cavern. The camp comprises a gaudy yurt about 20’ in diameter; it is made of black felt colored with yellow images of the trophies the band has acquired. Two huntsmen stand on guard outside at all times, while the other six relax within. Eight yeth hounds prowl about the perimeter of the camp; their extraordinary senses make it difficult for foes to sneak up on the camp. The hounds have a 75% chance to detect the smell of intruders (even invisible ones) within a 50’ radius. If they detect potential prey they immediately begin baying (those within range must save vs spells or flee in panic).
+A band of eight aroksachaul, or demonic huntsmen (see new monsters), have established a temporary camp by the wall of the great cavern.
+The camp comprises a gaudy yurt about 20’ in diameter; it is made of black felt colored with yellow images of the trophies the band has acquired. 
+Two huntsmen stand on guard outside at all times, while the other six relax within. 
+Eight yeth hounds prowl about the perimeter of the camp; their extraordinary senses make it difficult for foes to sneak up on the camp. 
+The hounds have a 75% chance to detect the smell of intruders (even invisible ones) within a 50’ radius. 
+If they detect potential prey they immediately begin baying (those within range must save vs spells or flee in panic).
 
-Twelve 8’-tall iron stakes have been pounded into the stone in a circle around the yurt. From six of them hang the draining corpses of the aroksachaul’s most recent catches: Bahula, a niravairi and a naik in the Order of Planar Explorers (see new monsters); two heqeti; a bestial varumani (from 9-8); an albino baboon (see new monsters); and a quickling. 
+Twelve 8’-tall iron stakes have been pounded into the stone in a circle around the yurt. 
+From six of them hang the draining corpses of the aroksachaul’s most recent catches: Bahula, a niravairi and a naik in the Order of Planar Explorers (see new monsters); two heqeti; a bestial varumani (from 9-8); an albino baboon (see new monsters); and a quickling. 
 
-Within the yurt are seven wooden stools, a keg of fiery demonic brandy (400 gp), a weapons rack, a large chest, and a dozen desiccated trophy heads hanging from the ceiling. The huntsmen are discussing the deliquescing ‘corpses’ of a couple of chasm cephalopods.
+Within the yurt are seven wooden stools, a keg of fiery demonic brandy (400 gp), a weapons rack, a large chest, and a dozen desiccated trophy heads hanging from the ceiling. 
+The huntsmen are discussing the deliquescing ‘corpses’ of a couple of chasm cephalopods.
 
-While traveling the Astral Plane, these ruthless and relentless fiends came upon an expedition formed of niravairi members of the Order of Planar Explorers (see new monsters), ambushed the expedition, and chased the survivors through the gate at 9-51 into Arden Vul. The lone survivor of that attack is wounded and hiding in area 9-48. The aroksachaul have a pretty good idea which way he went, but are delighting in the new environment and in letting their prey stew in a mixture of fear and hope. Within 1-3 days they will have tracked down Vingelok (9-48), slain him, and added his corpse to the hooks outside their yurt. His equipment will be added to their treasure.
+While traveling the Astral Plane, these ruthless and relentless fiends came upon an expedition formed of niravairi members of the Order of Planar Explorers (see new monsters), ambushed the expedition, and chased the survivors through the gate at 9-51 into Arden Vul.
+The lone survivor of that attack is wounded and hiding in area 9-48. 
+The aroksachaul have a pretty good idea which way he went, but are delighting in the new environment and in letting their prey stew in a mixture of fear and hope. 
+Within 1-3 days they will have tracked down Vingelok (9-48), slain him, and added his corpse to the hooks outside their yurt. His equipment will be added to their treasure.
 
 This band of aroksachaul have never been to the Prime Material Plane before, and are delighted by the hunting possibilities offered here. They are arrogant, cruel, and a bit careless. They will negotiate first with a party that appears strong, but will then lay plans to track and ambush that group. They know nothing about Arden Vul save for the following: they know amphibians are to the north; that there are weak, but fast, prey among the mushrooms; and that a powerful and dangerous foe lies within the ruins to the northwest (i.e., 9-104). In return for the specific location of Vingelok (9-48), they might agree to exclude the PCs from their hunt; of course, any such agreement would be abrogated if the PCs interfered with the huntsmen’s hunting of other beings.
 
@@ -1135,14 +1242,20 @@ tulwar, a niravairi astral crossbow of accuracy, and a niravairi astral staff of
 
 ### 9-53: Cave with Statue
 
-This cave is noteworthy for two respects. The first is the fact that a statue of a human stands in the northwest corner of the cave. The second is that the statue is surrounded by a circle containing the desiccated corpses of small creatures – albino monkeys, baindara, chasm cephalopods, etc. Unlike the abattoir in 9-52, the bodies show no sign of physical harm – it is as if they simply dropped dead.
+This cave is noteworthy for two respects. 
+* A statue of a robed woman stands in the northwest corner of this cave.
+	* The statue is 7’ tall, 525 lb, and colorfully painted.  It depicts a severe Archontean woman of advancing years wearing a wizard's robe and circlet, with a wand in her crossed arms.
+		* It is in excellent condition despite being 2,000 years old, still painted and lifelike, without chips or breaks.  It is ==enchanted==. 
+	* The pediment inscription (Mithric): “Syagria the Rhetor, Disciple of Vul the Sorcerer”. 
+	* The statue is surrounded by a circle of desiccated corpses of small creatures.
+		* Albino monkeys, baindara, chasm cephalopods, etc.  They show no sign of physical harm; it is as if they simply dropped dead.
+* Concealed Door (to 9-55): the door is 3’x3’ in size.
+	* To get close enough to spot it, one must approach and look behind the statue.  It opens via the catch on the statue.
 
-Statue of Syagria Aitón: The statue is 7’ tall, weighs 525 lb, and depicts a severe Archontean woman of advancing years. She wears a wizard’s robe and a circlet, and carries a wand in her crossed arms. The pediment bears an inscription in Mithric: “Syagria the Rhetor, Disciple of Vul the Sorcerer”. The statue is in excellent condition despite being close to 2,000 years old; it is still painted and lifelike, and has no chips or breaks. It also detects as magic. 
-
-The reason for its pristine condition is that it is enchanted in several ways. First, it carries a necromantic protection such that any being with less than 3HD that approaches within 15’ 
-must immediately save vs. death or be slain. Second, the statue is enchanted with the 5th-level magic user spell, avoidance (for purposes of dispelling, the avoidance spell was cast at 19th level of experience). Should it be possible to approach the statue, careful inspection (as detecting secret doors) will reveal a small catch on its back heel. This catch opens the concealed door that leads to area 9-55.
-
-Concealed Door: The door to 9-55 is 3’x3’ in size. It is only visible to those who are able to approach the statue and peer behind it, and only opens by locating the catch on the statue (as a secret door).
+Enchanted Statue of Syagria Aitón
+* Waning aura: any being 3 HD or less that approaches within 15’ must save vs doom or die.
+* The statue is enchanted with Avoidance (wizard 5, as 19th level) (only the caster can approach w/in 1').
+* A hidden catch is on the statue's back heel (as secret door).  It opens the concealed door to 9-55.
 
 ### 9-54: Skeleton Cave
 
@@ -1189,24 +1302,38 @@ summoning III, passwall, stone shape, telekinesis, teleport, wall of force, wall
 
 ### 9-57: Tunnel up to 8-23
 
-A tunnel leads upward to 8-23 at this point. The mouth of the tunnel is 10’ above the level of the mushroom groves. The tunnel is largely unknown to other sentients operating on Level 9 (e.g., the Priscians), due largely to the fact that the entrance is a squeeze shy of two feet in height. After 20’ of crawling, the passage grows steadily to about 7’ in height. The only group to discover it were the kaliyani, who recently used it to establish an outpost on Level 8. Two kaliyani scouts hidden by invisibility potions lurk here in order to protect the flanks of their comrades on Level 8. If this tunnel is discovered, one of the kaliyani skitters up to warn its comrades at 8-23; the other shadows the invaders, hoping to strike from behind if and when combat breaks out on Level 8.
+* A tunnel leads upward to 8-23 at this point.
+	* Its mouth is 10’ above the level of the mushroom groves, and only 2' high.
+	* After 20’ of crawling, the passage grows steadily to about 7’ in height. 
+
+* The tunnel is unknown to those on Level 9 (e.g., the Priscians).
+	* The kaliyani found and recently used it to establish an outpost on Level 8.
+
+* 2 invisible kaliyani scouts lurk here, protecting the path to their outpost on Level 8.
+	* If this tunnel is discovered, one scout skitters up to warn its comrades at 8-23.  The other shadows the invaders, hoping to strike from behind if and when combat breaks out on Level 8.
 
 2 invisible 5th-level kaliyani scouts (see new monsters), as 5th-level thieves: SZ M; AL LE; AC 4; MV 150’ on six legs, 60’ upright; HD 6; HP 43, 41, 38, 36; #AT 2; Dmg 3-8/3-8 (scimitars) 
 or 2-7/2-7 (javelins). Special defenses: immune to poison and mind-affecting spells. Special: infravision; DEX 16. Thief skills: PP 50%, OL 47%, F/RT 40%, MS 40%, HS 31%, HN 20%, CW 
 90%, RL 25%. Possessions: twin serrated scimitars; six javelins; a set of silver rings, worked glass and minor gemstones, and repurposed coins worth 200 gp. One has a vial of poison; the other has an extra potion of invisibility.
 
-
 ## Level 9: 58 - 64a (The Priscian Outpost)
 
-The modern order of the Priscians has reoccupied an outpost secretly constructed during the last centuries of the Archontean period by ‘sleeper’ Sortians embedded within the imperial 
-bureaucracy. Those Sortians diverted resources and workmen to build these chambers as a refuge to which they and their friends could retreat in the case of discovery. They linked this base to two other Sortian centers, the teleport nexus on Level 6 (areas 6-45 to 6-49A) and the guardpost on Level 3 (area 3-50). The Sortians who built these areas were also friends with Isadora, lover of the deceased Priscus Pulcher, and knew of her plans for retirement 
-(c.f. Sub-Level 11).
+* During the last centuries of the Archontean period, ‘sleeper’ Sortians embedded within the imperial bureaucracy had a secret outpost constructed here.
+	* They diverted resources and workmen to build these chambers as a refuge to which they and their friends could retreat in the case of discovery.
+	* They linked this base to 2 other Sortian centers, the teleport nexus on Level 6 (6-45 to 6-49A) and the guardpost on Level 3 (3-50).
+	* These Sortians were friends with Isadora, lover of the deceased Priscus Pulcher, and knew of her plans for retirement (c.f. Sub-Level 11).
 
-Some fifty years ago a Priscian adept from Archontos named Nerub Null (see 9-64) decided to see if he could locate the traces of the Sortians, as he and the other Priscians trace the lineage of their Order to the Sortians. He was successful in locating AV-19, which led him to 3-50 and then to 6-48. After several years of experimentation and continued exploration, Nerub Null finally figured out the secret to Sortian teleportation using Sortian eyes (see new magic items); this discovery led him to 9-59. Once established here, he sent for his comrades, and a contingent of circularii (magic users) and conversi arrived about six months ago. The team has restored the arcanum forge (9-60), which had allowed the ancient Sortians to create special and powerful magical items; having mastered some of the ancient Sortian magical practices, the Priscians are now equipped with Priscian rings, Priscian gladii, 
-Priscian chain mail, and so forth (see new magic items).
-
-Under the leadership of Nerub Null, the Priscians hope to plumb the secrets of Arden Vul. The leaders also have uncovered tantalizing hints about Isadora and her relationship with Priscus Pulcher (whom the Priscians revere as a ‘lord of magic’). Nerub Null and Jaracondus the Sprightly would like to follow up those hints, while reserving any possible rewards for themselves. Those hints, of course, pertain to Isadora’s ultra-secret refuge, located at 
-Sub-Level 11.
+* The modern order of the Priscians has reoccupied this outpost.
+	* Some fifty years ago a Priscian adept from Archontos, Nerub Null (see 9-64), decided to seek traces of the Sortians, as he and the other Priscians trace the lineage of their Order to the Sortians.
+		* He located AV-19, which led to 3-50 and then to 6-48.
+		* After several years of experimentation and continued exploration, Nerub Null finally figured out the secret to Sortian teleportation (Sortian eyes, new), which gave access to 9-59.
+	* Once established here, he sent for his comrades, and a contingent of circularii (magic users) and conversi arrived about 6 months ago.
+		* The team has restored the arcanum forge (9-60), which the ancient Sortians used to create special magical items.
+		* They have mastered some of the ancient Sortian practices, equipping themselves with Priscian rings, Priscian gladii, Priscian chain mail, and so forth (new).
+	* Under the leadership of Nerub Null, the Priscians hope to plumb the secrets of Arden Vul.
+		* They have uncovered tantalizing hints about Isadora and her relationship with Priscus Pulcher (whom the Priscians revere as a ‘lord of magic’).
+		* Nerub Null and Jaracondus the Sprightly would like to follow up those hints, while reserving any possible rewards for themselves.
+		* Those hints pertain to Isadora’s ultra-secret refuge, at Sub-Level 11.
 
 ### 9-58: Concealed Balcony
 
@@ -1218,23 +1345,24 @@ Sub-Level 11.
 
 ### 9-59: Sortian Face
 
-A heavy iron portcullis separates this chamber from the hallway. It may be raised by manipulating the lever at 9-59A. 
+* A heavy iron portcullis separates this chamber from the hallway (operated at 9-59A).
+* 
+* The chamber is dominated by a 10’-diameter mosaic of a knot on the floor
+* A ==Sortian face== (new) occupies on the south wall. 
+* Stacked in boxes along the east and west wall is an impressive array of dungeoneering equipment
+	* 3 coils of rope, 24 vials of oil, 2 bullseye lanterns, 16 torches, 6 backpacks, 15 sacks, 3 small ivory coffers (12”x18”) worth 55 gp each, 3 iron boxes (18”x24”), 6 leather scroll cases, 20 iron spikes, 2 bags of marbles, 16 pieces of chalk, and 8 weeks’ worth of iron rations. 
+	* Some less mundane items: 12 Arden Vul cakes (av items), a used rudishva lesser power supply (tech), and a lesser salt lamp of protection (new).
+* Pegs near the portcullis hold 7 rock-colored hooded cloaks
+* A nearby ceramic bucket holds 5 stout walking staves.
 
-The chamber is dominated by a 10’-diameter mosaic of a knot on the floor and by a Sortian face (see new magic items) on the south wall. 
+* This chamber is the destination for a Sortian face at 6-48.
 
-Stacked in boxes along the east and west wall is an impressive array of dungeoneering equipment, including: 3 coils of rope, 24 vials of oil, 2 bullseye lanterns, 16 torches, 6 backpacks, 15 sacks, 3 small ivory coffers (12”x18”) worth 55 gp each, 3 iron boxes (18”x24”), 6 leather scroll cases, 20 iron spikes, 2 bags of marbles, 16 pieces of chalk, and 8 weeks’ worth of iron rations. Scattered among these supplies are some less mundane items: 12 Arden Vul cakes (see Arden Vul items), a used rudishva lesser power supply (see new technological items), and a lesser salt lamp of protection (see new magic items). Pegs near the portcullis hold 7 rock-colored hooded cloaks, while a nearby ceramic bucket holds 5 stout walking staves.
-
-The Sortian face may be activated by placing appropriate Sortian eyes into the eye sockets of a carving. Only a few combinations of eyes are unique to an individual face; the rest are 
-standard (and are detailed in the new magic items appendix).
-
-Gold-Gold: Teleportation. All within 5’ are teleported to area 6-48
-
-Gold-Sapphire: A permanent magic mouth speaks in Mithric from the face: And so the war comes to an end. But at what cost? Death, destruction, and recrimination. We have sworn to uphold the peace, and so we shall. But listen! Lady Isadora, the Hekate’s dearest companion, has taken Priscus’s body from the stake. Now her estate is empty, the guards confounded. Whither Isadora and Priscus’s corpse? None know. Unwillingly, therefore, I abandon the arcanum forge and our sanctum. Our late enemies still know not its nature or location, and I will do nothing to reveal that secret. Should the need arise, future Sortians will find and restore it.
-
-Note: This chamber is also the destination for a Sortian face found at area 6-48. 
-
-GM Notes: The magic mouth refers to the Hekate, aka Priscus Pulcher, and to his lover, Lady Isadora, both of whom were prominent Sortians (see World of Archontos appendix). The 
-arcanum forge is located at 9-60. The mage who recorded this message was none other than Jace Far-Seer (see 9-60).
+Sortian Face
+* Gold-Gold
+	* Teleportation. All within 5’ are teleported to 6-48
+* Gold-Sapphire
+	* Magic mouth (Mithric): And so the war comes to an end. But at what cost? Death, destruction, and recrimination. We have sworn to uphold the peace, and so we shall. But listen! Lady Isadora, the Hekate’s dearest companion, has taken Priscus’s body from the stake. Now her estate is empty, the guards confounded. Whither Isadora and Priscus’s corpse? None know. Unwillingly, therefore, I abandon the arcanum forge and our sanctum. Our late enemies still know not its nature or location, and I will do nothing to reveal that secret. Should the need arise, future Sortians will find and restore it.
+		* The mage who recorded this was none other than Jace Far-Seer (see 9-60), creator of the arcanum forge.
 
 ### 9-59a: Guard Post and Lever
 
@@ -1257,13 +1385,17 @@ To the west, in the worked area, are a simple desk and numerous crates of suppli
 
 Big Theo is a former warrior who found a second calling as a gifted smith. He is big, strong, and dumb. Palestrina is a very powerful mage, but is by temperament more of a scholar than one who seeks power or influence. If confronted by seemingly hostile and powerful foes, she might try a sending spell to Nerub Null and then will try to teleport away.
 
+
+
 GM Note on Sortian and Priscian Magic Items: When Nerub Null rediscovered the arcanum forge, he also rediscovered Jace Fare-Seer’s manual. This manual offers general advice on how to use arcanum to power magic items, as well as specific ‘recipes’ for a few classes of item. The Priscian smith (Big Theo) and enchantress (Palestrina) have been able to master a few of the recipes. One of these is the recipe for enchanted chain mail, although their 
 results have been slightly limited. Whereas ancient Sortian chain mail was permanently enchanted, the modern Priscian version (Priscian chain mail) is temporary; the armor must be regularly bathed in the waters of the forge or the enchantment is lost. The Priscian team has also figured out how to use arcanum to produce Priscian rings and Priscian gladii. 
 
 They have been working with limited success to replicate Sortian eyes (due in part to a missing page in Jace Far-Seer’s manual). Their procedure is time-consuming (it requires a ritual lasting three months), costly (3,000 gp worth of materials), and morally suspect (a pair of fresh human eyes are required as material components). As a result, their stock of Sortian eyes is rather small, a fact which explains their rather limited use of the Sortian faces. 
 
-They have been unsuccessful, however, in repro-ducing Sortian faces, and Sortian baculi. Although Palestrina thinks their failure may be due to a lack of experience, Big Theo believes 
+They have been unsuccessful, however, in reproducing Sortian faces, and Sortian baculi. Although Palestrina thinks their failure may be due to a lack of experience, Big Theo believes 
 (correctly) that they are missing a crucial quire of Jace’s manual.
+
+
 
 Big Theo (80%), Priscian conversus (see new monsters) and smith, as a 4th-level male Archontean fighter: SZ M; AL LN; AC 10; MV 120’; HD 4; HP 31; #AT 1; Dmg 6-9 (warhammer). Abilities: STR 18/81, INT 11, WIS 9, DEX 12, CON 16, CHA 11. Possessions: war hammer; silver-chased belt (25 gp).
 
@@ -1287,6 +1419,8 @@ The southern half of the chamber features a dozen battered wooden straight-backe
 
 Behind the curtain in the northern half of the chamber are thirteen triple bunkbeds, thirteen chests, and three desks. The chests are filled with mundane clothes and personal objects. 
 
+
+
 Ulf No-brows, Priscian war mage (see new monsters) and member of Tertius, as a 4th-level male Wiskin magic user: SZ M; AL LN; AC 5; MV 120’; HD 4; HP 12; #AT 1; Dmg 2-7 (Sortian baculus). Abilities: STR 10, INT 16, WIS 13, DEX 18, CON 9, CHA 7. Possessions: Sortian baculus infused with detect magic; ring of protection +1; scroll of magic missile. Memorized spells: charm person, magic missile, sleep; Frigg’s jelly legs (see new spells), scare. Spell book: 
 charm person, dancing lights, detect magic, light, magic missile, magic aura, read magic, shield, sleep; darkness 15’ radius, detect invisibility, fools gold, Frigg’s jelly legs (see new spells), knock, magic mouth, rope trick, scare, wizard lock; blink.
 
@@ -1302,9 +1436,7 @@ Asdrusil the Swift, Priscian conversus (see new monsters), as a 4th-level female
 STR 16, INT 9, WIS 16, DEX 7, CON 12, CHA 17. Possessions: chainmail and shield; spear +1; purse with 22 sp and 21 gp.
 
 Cassie Top-Knot, Priscian conversus (see new monsters), as a 5th-level female Thorcin thief: SZ M; AL LE; AC 5; MV 120’; HD 5; HP 21; #AT 1; Dmg 3-9 (Priscian gladius +2) or 1-3 
-(darts). Abilities: STR 12, INT 14, WIS 15, DEX 17; CON 9, CHA 15. Thief skills: PP 55%, OL 52%, F/RT 40%, MS 45%, HS 36%, HN 20%, CW 90%, RL 25%. Possessions: leather armor; 
-
-Priscian gladius +2 (see new magic items); six darts; potion of invisibility, purse with 11 sp and 63 gp.
+(darts). Abilities: STR 12, INT 14, WIS 15, DEX 17; CON 9, CHA 15. Thief skills: PP 55%, OL 52%, F/RT 40%, MS 45%, HS 36%, HN 20%, CW 90%, RL 25%. Possessions: leather armor; Priscian gladius +2 (see new magic items); six darts; potion of invisibility, purse with 11 sp and 63 gp.
 
 ### 9-62: Priscian Hall of Trophies
 
