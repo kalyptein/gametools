@@ -143,6 +143,9 @@
 * Readied Action
 	* Invest available actions, attacks, and/or movement, and specify the trigger.
 	* Take a previously readied action when the stated trigger occurs.  This interrupts the triggering event.
+* Countermagic
+	* Invest an available action (as per Ready Action) with the trigger "a perceived target imposes an effect / casts a spell".
+	* If triggered, you can try to counter the impending spell with one of your own (the invested action must be sufficient to cast the spell).  See Arcane Magic for details.
 * Attack of Opportunity
 	* When a target you Threaten Provokes, make an attack against them.  If you hit, their action is disrupted.
 		* If the action was a move, they halt and can't move further until the start of their next turn, and take normal attack damage.

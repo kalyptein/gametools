@@ -1,6 +1,6 @@
 
 
-Tags
+## Spell Tags
 
 
 * focus (round | minute | 10 min): make a focus check each interval to maintain it; can only focus on 1 spell at a time
@@ -51,42 +51,7 @@ Tags
 		* e.g. after 3 rounds, petrification is permanent (the spell is probably focus (round), so if you can hold it long enough, it becomes permanent)
 
 
-Potency vs Resist
-
-
-
-
-holy: no crits and fumbles
-* X spell exhaustions per day shuts down your casting for the day
-	* so merciful casting that doesn't exhaust the spell until it's cast once per day doesn't count toward this
-	* only castings in your top 3 spell tiers count toward the X exhaustions.  So if you can cast Tier 1 - 4, exhaustions of 1st tier spells aren't counted
-* individual spells are still exhausted for failed castings as usual
-
-arcane: mishaps and crits
-* X spell exhaustions per day shuts down your casting for the day
-	* avoids the need for Maleficare as a spell grouping
-* individual spells are still exhausted for failed castings as usual
-* can "push it" ?
-
-??? what is X in this cases?
-
-
-Dispelling & Countering
-* Roll d20 + (casting MOD + spell Tier) vs DC 11 + (casting MOD + spell Tier)
-	* If the dispelling / countering effect is not well suited to overcome its target, +D.
-	* If the dispelling / countering effect is ideally for overcoming its target, +A.
-
-
-potions
-
-scrolls / tokens
-
-illuminated prayers
-
-
-talismans (scrolls) for all!
-* cast w/ the usual stat, but no class restriction?
-* some talismans don't even need to be specially invoked (potions, etc), just use them
+## Potency vs Resist
 
 
 * CL = character level of the ability user / caster
@@ -94,11 +59,42 @@ talismans (scrolls) for all!
 * TL/2 or CL/2 = halved, rounding down
 
 
-Casting Bonus
-* Stat bonus portion of attack bonus max +4; class bonus is added after.
-	* Holy: CHA + 1 if INT | WIS >= 1
-	* Arcane: INT + 1 if WIS | CHA >= 1
-	* Faerie: CHA + 1 if INT | WIS >= 1
+
+
+## Dispelling & Countering
+
+* Roll d20 + (casting bonus + spell Tier) vs DC 11 + (casting bonus + spell Tier)
+	* If the dispelling / countering effect is not well suited to overcome its target, +D.
+	* If the dispelling / countering effect is ideal for overcoming its target, +A.
+	* "Perfect counters" just work.
+		* e.g. Wall of Ice creates an invulnerable barrier; if successfully raised to block a fireball, it just works.
+	* 
+	* or should it be + casting bonus +LVL + (2 x Tier)?
+		* make Dispel / Remove Curse able to cast at higher tier?
+		* maybe dispelling has (2 x Tier) but countering doesn't?
+	* some spells are "fragile"
+		* easily dispelled.  anything that would be disrupted by attack / physical contact (illusions, scrying sensors, communion links) is automatically disrupted by a suitable dispelling effect
+* 
+* "ready to counter", you're able to cast, but have a readied action to respond to an enemy spell / effect.
+	* you don't have to specify what counter you'll throw, you choose as you see what they're doing
+	* if they fail to cast, your readied action isn't consumed, and you could counter a later spell
+	* you do have to successfully cast to counter; apply your roll vs theirs.
+		* your spell does fully take effect, so if you successfully counter a fireball with a wall of ice, the wall of ice is then in place (you may opt to have it be ephemeral, fading once it has performed the counter)
+	* the countered effect still happens to the degree it isn't nullified.  a fireball deflected by a gust of wind still explodes somewhere, just not on you.  a fireball blocked by a casting of shield still hits those nearby.
+* 
+* shield can counter any spell aimed at you with a physical component; then it fades?
+* dispel is only for effect removal, not countering
+* 
+* suitable counter-effects should be interpreted broadly
+	* counter Polymorph cast on your with Alter Self; but that couldn't counter if cast on someone else (single Alter Self is self only)
+
+
+
+
+
+
+
+
 
 
 
@@ -119,6 +115,14 @@ casters just advance their casting w/ level (start at +2, rise to +4 or +5?)
 
 
 
+
+Casting Bonus
+* Stat bonus portion of attack bonus max +4; class bonus is added after.
+	* Holy: CHA + 1 if INT | WIS >= 1
+	* Arcane: INT + 1 if WIS | CHA >= 1
+	* Faerie: CHA + 1 if INT | WIS >= 1
+
+
 ### Holy
 
 * gain access to spells via shrines / saint deeds or relics
@@ -127,6 +131,14 @@ casters just advance their casting w/ level (start at +2, rise to +4 or +5?)
 	* on a 1, the relic disappears soon after, needed elsewhere
 * rolling a 1 when casting doesn't mean penance is due, just a meta-expression of the need you feel to tithe and serve the church; tally up the gp value needed; you don't lose long-term access to the spell (except for the immediate failure), you just need to pay up at some point
 	* what penalty if you don't?
+
+holy: no crits and fumbles
+* 7 "significant" (>= max Tier-2) spell exhaustions per day shuts down your casting for the day
+	* so merciful casting that doesn't exhaust the spell until it's cast once per day doesn't count toward this
+	* only castings in your top 3 spell tiers count toward the X exhaustions.  So if you can cast Tier 1 - 4, exhaustions of 1st tier spells aren't counted
+* individual spells are still exhausted for failed castings as usual
+
+
 ### Arcane
 
 * arcane casting miscasts on a roll of 1
@@ -134,6 +146,12 @@ casters just advance their casting w/ level (start at +2, rise to +4 or +5?)
 * you learn spells from sources
 	* scrolls/talismans aren't sources, just stored castings (many are usable by anyone)
 	* sources include tomes, tutors, dolmens, research
+
+arcane: mishaps and crits
+* 7 "significant" (>= max Tier-2) spell exhaustions per day shuts down your casting for the day
+	* avoids the need for Maleficare as a spell grouping
+* individual spells are still exhausted for failed castings as usual
+* can "push it" ?
 
 ### Faerie
 
@@ -145,7 +163,9 @@ casters just advance their casting w/ level (start at +2, rise to +4 or +5?)
 
 
 
-
+talismans (scrolls) for all!
+* cast w/ the usual stat, but no class restriction?
+* some talismans don't even need to be specially invoked (potions, etc), just use them
 
 
 

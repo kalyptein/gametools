@@ -166,7 +166,7 @@ Arcane Experimentation
 	* Crit: choose 1
 		* High yield: make 1d3+1 doses of potion
 		* Develop a Recipe: +A when you make this potion with these ingredients and reagent.
-		* Discovery: gain an insight with an aspect from the reagent.  If it was T3-4, gain a power insight, if T5, gain 2 power insights.
+		* Discovery: gain an insight with an aspect from the reagent.  If it was T3-4, also gain a power insight, if T5, gain 2 power insights.
 	* Success: make 1 dose of the potion
 	* Failure: make 1 dose of the potion, but it has a side-effect.
 		* Side-effect possibilities: minor casting mishaps, magic item flaws/curses.
@@ -311,8 +311,8 @@ Detect Magic
 
 Elixir
 * T1, 1 hour, A Close vial
-* Enchants a simple brew of common herbs (easily gathered in any wood or market).  Consumed or poured on an injury, it heals 1d6 Guard.
-	* If the recipient immediately takes a Brief Rest, they heal an additional 1d6 Guard and remove a condition that would naturally end within a few hours.
+* Enchants a simple brew of common herbs (easily gathered in any wood or market).  Consumed or splashed on an injury, it heals 2d4+LVL Guard.
+	* If the recipient immediately takes a Brief Rest, they heal an additional 2d4+LVL Guard and remove a condition that would naturally end within a few hours.
 
 Eyebite
 * T1, Instant, A Nearby sighted creature
@@ -377,6 +377,8 @@ Shadowplay
 Shield
 * T1, 1 hour, Self
 * A field of arcane force surrounds you, granting you defense 14 (18 on a Crit) and immunity to Tier 1 spells (and the powers of creatures of Level 2 or lower) originating from beyond Close range.
+* Counter (Instant)
+	* Shield can be cast as a counter to any attack or effect with a physical component, a momentary flash of shield to deflect harm.  Against attacks, use the casting roll as defense if it is better than your normal defense. Against spells, roll a normal counter contest.
 
 Translate
 * T1, 1 hour, A Nearby person
@@ -415,7 +417,7 @@ Yeast Growth
 		* The foam can extinguish fires that aren't too large and intense.
 		* Cleaning off an object (to be no longer slippery) takes 1 round, and cleaning off a creatures takes 2 rounds.
 
-### Tier 2 *
+### Tier 2
 ---
 
 Arcane Cypher
@@ -428,6 +430,11 @@ Arcane Cypher
 Bane
 * T2, 10 minutes, A Close weapon
 * The weapon is imbued with a thirst for blood.  It counts as a magic weapon and deals +1d6 damage to living creatures.  Any blood that gets on it is absorbed, tinting it reddish.
+
+Beast Bond
+* T2, 1 hour, A Nearby natural animal (Small or smaller, Level 6 or lower)
+* You charm the creature to regard you as a friend.  It can understand your speech and tries to fulfill reasonable requests to the best of its ability.
+	* It can speak with other types of creatures familiar to it and can translate for you.
 
 Cast Out
 * T2, Focus (round), A creature farther than Near and nearer than Far
@@ -451,7 +458,7 @@ Consult Oracle
 Detect Thoughts
 * T2, Focus (1 minute), A Near creature with a mind
 * You peer into the target's mind, sensing surface thoughts as glimpsed images, internal monologue, and emotional vibes (emotions only, for animal minds).
-	* On its turn, the target resists with WIS DC (your last casting check) to sense your intrusion and end the spell.
+	* Each time you Focus, the target resists with WIS DC (your last casting check) to sense your intrusion and end the spell.
 	* If the target leaves your line of sight or moves away (but still within Far), the link persists until you next have to Focus.  You have a sense of their direction and distance.
 
 Fixed Object
@@ -484,6 +491,11 @@ Knock
 Levitate
 * T2, Focus (10 minutes), Self
 * You hover and can float vertically up or down a Near distance each round.
+
+Liar's Crystal
+* T2, 1 day, Casting (1 minute), A Close crystal
+* You enchant a crystal (at least 250 gp), allowing it to absorbs mental, spiritual, and/or magical impressions of your choice from its environment over the course of an hour.
+	* When the crystal is in the possession of a person, or placed beside a thing, it masks that subject's impressions with its own.  Detect spells will sense it instead (detect thoughts, detect evil, detect magic, locate object, etc), with either positive or negative results, depending on what impressions were captured.
 
 Magic Face
 * T2, Until triggered (then 1 day), Close
@@ -566,18 +578,7 @@ Wrack
 - The target is wracked and unable to move or act.  It can still defend itself, but with +D.
 	- Note: magicians have a variety of forms of this spell, each learned independently but all forms of the same spell.  They may stun the subject with pain, sorrow, mad laughter, etc.
 
-
-* CS 4
-	* befriend
-	* truespeech / speak w/ animals
-
-??? Liar's Crystal
-* T2, 1 day, Casting (1 minute), A Close crystal
-* You enchant a crystal (at least 250 gp) allowing it to absorbs mental, spiritual, and/or magical impressions of your choice from something in your environment.
-	* When in the possession of a person, or placed beside a thing, it masks those impressions with its own.  Detect spells will sense it instead (detect thoughts, detect evil, detect magic, locate object, etc), with either positive or negative results, depending on what impressions were captured.
-
-
-### Tier 3 *
+### Tier 3
 ---
 
 Alchemy
@@ -595,21 +596,49 @@ Animate Dead
 	* The spell's duration is Permanent as long as the undead is within Death's Domain.  It can endure for 1 day if it leaves, resetting the count if it returns.
 	* Death's Domain is anywhere attuned to or saturated with death.  Graveyards, mortuaries, and morgues; the Day of the Dead / All's Hallow, under and eclipse, the unseason of Vague.  Recent battlefields (sites of epic slaughter last far longer), necromancer's sanctums, trods of the Underworld.
 
+Banish
+* T3, Instant, a Nearby extraplanar, summoned, or magically created entity.
+* The subject is returned to the plane (extraplanar) or location (summoned) it was called from, or is dispersed and unmade (magical creations).
+	* P [6] vs R [Level]
+
+Black Tentacles
+* T3, Focus (round), A Near area Nearby
+* Grasping black tentacles sprout from the walls and ground within the area, reaching Closeby and trying to seize and crush anything they can grip.  Creatures that start their turn in the area take 1d10 damage.  Creatures that start in or enter the area must resist with STR | DEX DC (your last casting check) or be unable to move.  Even if able to move, the area is difficult terrain.
+
 Broomstick
 * T3, 10 minutes, A Close "vehicle"
 * A sturdy, man-made object up Medium size becomes a magical vehicle.
 	* e.g. Chair, cauldron, broomstick, carpet, etc.
 * While you touch it, you can cause it to hover and use your move to make it fly Near (and may Dash with your action).
 
+Celestial Ward
+* T3, Focus (round), A Close person or object
+* Choose a planetary influence:
+	* Mercury: the target is immune to transformation, decay, and necrotic forces.
+	* Venus: the target is immune to harm from falling and impact with stone.
+	* Mars: the target is immune to flame, heat, and smoke.
+	* Jupiter: the target is immune to wind, lightning, thunder, gases and suffocation.
+	* Saturn: the target is immune to cold, ice, force of water, and drowning.
+
 Crown of Merlin
 * T3, 10 minutes, Self
 * 4 crystal shards appear, orbiting your head.  As an action, you can discharge some or all of the shards, each one emitting a Magic Missile which can be independently aimed.
 	* When all shards are spent, the spell ends.  You can't cast it again while a prior casting is active.
 
+Crystal Vision
+* T3, Sustain (10 minutes), A sighted creature within Far
+* You link a crystal (at least 500 gp) to the target's vision.  A silent image of what they see appears within it.  The link persists if the subject moves out of range.
+	* Each time you Sustain, an unsuspecting / unwilling target may resist with WIS DC (your last casting check) to sense your intrusion and end the spell.
 
 Dispel Magic
-
-
+* T3, A Nearby being or enchantment
+- You disrupt magic.  Choose 1:
+	- (1 hour) A cursed item or permanent enchantment is suppressed.
+	- (Instant) A possessing spirit must resist your casting roll with (LVL+CHA) or be expelled.
+	- (Instant) end an arcane or faerie spell.
+- Dispel Magic can't be used for Countermagic except against itself, or similar magics.
+- Particularly dire afflictions may require additional measures, along with the miracle: sufficient invoker Level, a particular holy site/time, undertaking of a quest or pilgrimage, application of holy oil, a special herb, a series of repeat invocations and/or victim stat checks, etc.
+	* e.g. lycanthropy can only be cured within 3 moons of being cursed, while the victim is in animal form, and while touching them with a sprig of wolvesbane.
 
 Drain Life
 * T3, Instant, A Close living creature
@@ -623,6 +652,13 @@ Fabricate
 Fireball
 * T3, Instant, Far
 * You hurl a ball of flame which explodes on impact, engulfing a Near area and dealing 4d6 fire.
+
+Forbiddance
+* T3, Sustain (1 hour), Self or A Near radius area Nearby
+* Teleportation and scrying into, out of, or within the area is barred, and planar boundaries cannot be crossed (ethereal spirits manifesting or possessing, or gates opening).
+	* If cast on yourself, the area centers on and moves with you.
+* Ritual
+	* Cast on a fixed, ritually-prepared sigil sprinkled with gem dust (100 gp), the spell becomes Permanent while the sigil is intact.
 
 Gaseous Form
 * T3, Focus (10 minutes), Self
@@ -653,6 +689,13 @@ Purgative
 * Enchants a simple brew of common herbs (easily gathered in any wood or market).  Consumed, it cleanses on poison or sickness, but causes weakness and nausea (+D to all actions until a Brief Rest is taken).
 	* Some afflictions are too strong to easily remove.  Additional conditions, reagents, etc might strengthen it enough to work (see holy Cure Affliction)
 
+Quelling Word
+* T4, Focus (round), A Near area centered on you
+* Name a type of non-divine magical being (faerie, undead, demon, elemental, etc).  The burning rune of that Word hangs in the air.  You can choose for it to move with you, or remain where it was cast.
+	* Creatures of that type cannot attack or use hostile powers on those within the Word's influence, magically transport themselves within the area, nor perceive those within by supernatural means (smelling lifeforce, scrying, etc).  Powers already applied are suppressed while the spell lasts.
+* Ritual
+	* Cast upon the Word's rune carved or sketched on a surface, sprinkled with gem dust (100 gp), the spell lasts 1 day.  If challenged by a being's entry or power-use, it reverts to Focus (round).
+
 Reap the Soul
 * T3, Instant, Near
 * You siphon life force from a living creature slain within the last round.  Heal Guard (excess becomes tHP) and gain a bonus to your next attack or casting roll equal to the target's Level.
@@ -661,10 +704,21 @@ Sending
 * T3, Instant, A named recipient
 * You speak a brief message, then visualize a recipient and speak their name.  That person, anywhere in the same plane of existence, hears your words in their mind.
 
+Serpent Sigil
+* T3, Until triggered, A close surface or text
+* You trace a serpent-shaped glyph and sprinkle amber dust (100 gp).  The glyph remains, shimmering a faint amber.  Touching the surface or reading the text triggers the spell.
+	* A glowing serpent strikes at the one who triggered it; they must resist with DEX DC (11 + your casting bonus) or be frozen in time for 1d4 hours (you can dismiss the effect when Nearby).  While in stasis, the target can't be harmed, moved, etc.
+
 Speak With Dead
 * T3, 10 minutes, Close remains
-* You enchant the remains of a person (must at least include a somewhat intact head) to speak of what it knew in life, in a distant, sepulchral voice.  It provides brief answers to questions.  After third answer, the spell ends.
+* You enchant the remains of a person (must at least include a somewhat intact head) to speak of what it knew in life, in a distant, sepulchral voice.  It provides brief answers to questions.  After the third answer, the spell ends.
 	* You cannot speak with the same remains again.  Further castings of Speak With Dead prior to a Long Rest are Dangerous.
+
+Speak With Object
+* T3, 10 minutes, A Close inanimate, non-living object
+* The subject speaks audibly in a language you know, answering 3 questions truthfully.
+	* The clarity of mind and memory is greater for "nobler" objects than "baser" ones.  Finely crafted, precious, famed, or old objects tend to be nobler.  For natural materials, age and  grandeur are nobler.
+		* e.g. a diamond, heirloom sword, or ornate chest is nobler than a pebble, cheap dagger, or crate.  An old oak or mighty river is nobler than a sapling, shrub, or trickling stream.
 
 Stinking Cloud
 * T3, Focus (round), A Near area within Far
@@ -678,52 +732,25 @@ Wall of Wind
 * T3, Focus (round), A Near-width barrier within Near
 * You shape a barrier of churning wind, which can be flat, curved, a dome, etc.  Arrows, sling stones, javelins and similar projectiles passing through are scattered harmlessly.  Vapors and small creatures (insects, rats, etc) are blocked from passing.  Spells, heavy projectiles (boulders), and enchanted missiles are not affected.
 
-Whisper
+Writhing Whisper
 * T3, Instant, A Close person with a mind (who understands your language)
 * You whisper a short sentence in the target's ear, planting the seed of a false memory.  Their mind builds its own interpretation of your words, and they forget you just spoke to / enchanted them.
 	* If forced to question it by friends or circumstances, the spell ends.
 	* If anyone else hears your words, the spell fails.
 
 
-
-
-
-
-* Dol
-	* Circle of Invisibility
-	* Crystal Vision
-	* Haste
-	* Serpent Glyph
-	* Water Breathing
-* Dol uncommon
-	* Gingersnap
-* Shadowdark
-	* magic circle / magic circle / prot evil 10'
-	* protection from energy
-* CS 1
-	* mistletoe
-	* void stare
-* CS 5
-	* betrayal
-* CS 6
-	* banish
-	* forbid (also blocks scrying)
-	* speak with object
-
-
-
 novel
 * 
-* black tentacles
+* phantom steed
+* control winds?
+* 
 * 
 * 
 * feign death
 * nondetection
-* phantom steed
 * suggestion
 * 
 * contagion
-* detect scrying?
 * dig?
 * enervation
 * fire trap? explosive runes? glyph of warding?
@@ -735,18 +762,21 @@ novel
 * free action?
 * plant door?
 * 
-* control winds?
 
 
 
-### Tier 4 *
+### Tier 4
 ---
+
+Airy Water
+* T4, Sustain (1 hour), A Near area centered on (and moving with) you
+* The water within the area can be breathed as if it were air, and normal speech is possible.  It remains water for moving, fights, breathing of aquatic creatures, etc.
 
 Arcane Eye
 * T4, Focus (10 minutes), Near
 * You conjure a floating, invisible eye; when you close your eyes, you can see through it.
 	* It can hover and fly a Near distance (up to any distance from you) according to your mental direction.
-	* It can see in pitch darkness up to Near as if the area was batched in moonlight.
+	* It can see in pitch darkness up to Near as if the area was bathed in moonlight.
 
 Cloak of Night
 * T4, 1 hour, Self
@@ -756,7 +786,12 @@ Cloudkill
 * T4, 5 rounds, A Near area within Far
 * A putrid cloud of yellow-green vapor fills the area, spreading around corners and sinking into holes, just slightly heavier than air.  It provides heavy obscuration.  Creatures within take 2d6 poison at the start of their turn.  Any Level 9 or lower creature who ends its turn fully within the cloud is slain by the poison.
 
-Control water
+Confusion
+* T4, Focus (round), A Nearby creature with a mind
+* The target can't take coherent action, and moves (or doesn't) in a random direction.
+	* If the target's (Level+WIS) is 9+, at the end of its round, it may resist with WIS DC (your last casting chec) to try to end the spell.
+
+Control Water
 * T4, Focus (1 minute), A Far area within Far.
 * You can move and shape water, causing it to move, defy gravity, or flow in different directions.  The process is not usually quick enough to harm, drown, etc creatures able to move freely.
 
@@ -825,6 +860,10 @@ Polymorph
 	* You cannot perfectly mimic the appearance of a specific individual.
 * This can instead by used in a dispelling contest to break an animal transformation.
 
+Resilient Sphere
+* T4, 1 hour, A Close radius around you
+* You conjure a weightless, indestructible sphere of force around you.  You can roll it Near on your turn.  The air within remain fresh, and it blocks teleportation and extradimensional movement.
+
 Stoneskin
 * T4, Focus (round), A Close creature or object
 * You sheath the target in an forcefield that halts all physical impacts harmlessly as they come in contact (weapons, projectiles).  It does not protect against magic, intangibles, energy, acidic substances, etc.  It does not prevent grabbing or grappling of the target.
@@ -848,19 +887,14 @@ Wall of Ice
 
 
 
+
+
 * wall of thorns?
-
-
 
 * Dol
 	* Plant Growth
 * Dol Uncommon
 	* Drouge's Arcane Unravelling
-* Shadowdark
-	* confusion / confusion
-	* resilient sphere
-* CS 4
-	* summon storm / control weather 6
 * CS 5
 	* dismember
 * CS 6
@@ -892,6 +926,19 @@ Contact Other Plane
 	* Ask 3 questions and receive brief, true (and likely cryptic) answers or glimpses.
 	* You must have an arcane connection to the subject(s) of the questions (the blood of a person, a fragment from a person's tomb, being where a battle was fought with a famed sword, etc).
 	* After your questions are done, resist with CHA DC 12 or over a minute, you sink into a coma lasting 1d4 days.
+
+Control Weather
+* T4, 1 hour, Weather within 1 mile radius
+* Impose a form of weather you desire within the area.
+	* Wind: quell or raise winds (gusts to gales)
+		* +D to ranged attacks at full gale
+	* Rain: clear and dry, misty, or dark skies and rain (humid to sprinkle to downpour)
+		* Thick mist or heavy rain is Light Obscuration.  Muddy difficult terrain forms after 20 minutes of heavy rain.
+	* Temperature: as hot or as cold as the season and location ever reaches naturally.
+* If you call a full-fledged storm (rain, wind, dark clouds), while under open sky, you can invoke certain effects (they cast and become Exhausted like independent spells).
+	* Call Lightning (as Lightning Bolt, but striking from the sky)
+	* Wall of Wind
+	* Control Water (the storm's rainwater only)
 
 Create Undead
 * T5, 1 day, Close
@@ -1004,11 +1051,9 @@ Summoning
 
 
 * Dol 5
-	* Air Sphere
 	* Mire
 	* ??? Wall of Stone
 * Dol 6
-	* Control Weather
 	* Geas
 	* Move Terrain
 	* Project Image
@@ -1095,242 +1140,3 @@ subjugate (cs5 5)
 
 
 * merge the base list from Shadowdark + diabolical mishaps (CS1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Old list, retained for reference
-
-lesser
-
-common
-* Crystal Resonance
-* Decipher
-* Fairy Servant
-* Firelight
-* Floating Disc
-* Glyph of Sealing (glyph of adhesion)
-* Ignite / Extinguish
-* Ingratiate
-* Ioun Shard
-* Shield of Force
-* Vapours of Dream
-* Ventriloquism
-* 
-* Arcane Cypher
-* Dweomerlight
-* Flaming Spirit
-* Glyph of Locking
-* Invisibility
-* Knock
-* Levitate
-* Mind Crystal
-* Mirror Image
-* Perceive the Invisible (Unseen?)
-* Phantasm
-* Web
-
-uncommon
-* Decay
-* En Croute
-* Gingerbread Charm
-* Transparency
-* Yeast Growth
-
-novel
-* invigorate (cure d3 w/ touch, if a brief rest is taken (no strenuous activity), heal another d3 or remove temp condition)
-* alarm?
-* change self?
-* color spray
-* detect magic?
-* feather fall? levitate?
-* find familiar
-* mending?
-* message?
-* prot evil?
-* wizard mark
-* 
-* darkness?
-* esp?
-* forget?
-* glitterdust?
-* hypnotic pattern?
-* levitate?
-* magic mouth (head?) - merge w/ unseen servant for a minor servitor spell?
-* misdirection?
-* rope trick / astral chamber
-* stinking cloud
-* hideous laughter / paroxysm
-* whispering wind?
-* 
-* dust devil
-* enthrall
-* heat metal?
-* messenger?
-* warp wood
-* 
-* misty sighs spell from arden vul (breath out solid mist into shapes)
-
-greater
-
-common
-* Circle of Invisibility
-* Crystal Vision
-* Dark Sight
-* Dispel Magic
-* Fireball
-* Fly
-* Haste
-* Lightning Bolt (merge in call lightning?)
-* Missile Ward
-* Paralysation
-* Serpent Glyph
-* Water Breathing
-* 
-* Acid Globe
-* Arcane Eye
-* Confusion
-* Dimension Door
-* Dominate
-* Hallucinatory Terrain
-* Hex Weaving
-* Plant Growth
-* Polymorph
-* Wall of Fire
-* Wall of Ice
-* Woodland Veil
-
-uncommon
-* Cannibalise
-* Drouge's Arcane Unravelling
-* Fear
-* Gingersnap
-* Speak With Dead
-
-novel
-* antidote (inferior cure poison)
-	* leaves them weak / unsteady for a turn or more as they recover
-* 
-* wall of thorns?
-* 
-* feign death
-* tiny hut
-* nondetection
-* phantom steed
-* magic circle / prot evil 10'
-* secret page
-* suggestion
-* gaseous form
-* wind wall
-* 
-* confusion
-* contagion
-* detect scrying?
-* dig?
-* enervation
-* black tentacles
-* fire trap? explosive runes? glyph of warding?
-* illusory wall
-* secure shelter
-* minor globe of invuln
-* resilient sphere
-* stoneskin
-* 
-* meld into stone?
-* tree?
-* free action?
-* plant door?
-* 
-* commune with nature?
-* control winds?
-
-
-mighty
-
-common
-* Air Sphere
-* Animate Dead
-* Cloudkill
-* Conjure Elemental
-* Fabricate
-* Feeblemind
-* Mire
-* Passwall
-* Sending
-* Telekinesis
-* Teleport
-* Wall of Stone
-* 
-* Anti-Magic Ward
-* Control Weather
-* Distintigrate
-* Dweomerfire
-* Geas
-* Invisible Stalker
-* Move Terrain
-* Oracle
-* Petrification
-* Project Image
-* Wave of Force
-* Word of Doom
-
-uncommon
-* Summon Shadow
-* Trap the Soul
-
-novel
-* bigby's hands
-* cone of cold
-* contact other plane
-* dismissal
-* dream / nightmare (roll into sending?)
-* secret chest
-* magic jar
-* faithful hound
-* passwall / phase door
-* stone shape
-* rock to mud (merge / mire)
-* wall of force?
-* 
-* chain lightning?
-* contingency?
-* globe of invuln
-* guards and ward?
-* legend lore?
-* mass suggestion?
-* permanent illusion
-* true seeing?
-* zero-gravity?
-* spell turning?
-* 
-* simulacrum
-* maze / imprisonment
-* mind blank
-* telekinetic sphere
-* symbol
-* 
-* time stop-ish? 
-* 
-* spiritwalk / etherealness / astral spell
-* 
-* blade barrier?
-* forbiddance
-* liveoak?
-* stone tell?
-* 
-* creeping doom?
-* earthquake?
-* 

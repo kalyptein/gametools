@@ -60,7 +60,7 @@ Talents
 		* On a solstice or equinox, you can work a ritual to change its animal form.
 	* Spells with Close or Self range can be cast through the familiar, as if it were yourself.
 	* If it dies, you take 2d4 damage and suffer +D until after a Long Rest.  It can be called back with a ritual under a full or new moon.
-* * Mixology (choose 1)
+* Mixology (choose 1)
 	* Gain Apothecary and learn 2 recipes
 	* Training in poisons (with Apothecary, also learn 2 poison recipes).
 	* (with Apothecary) +A when making 2 recipes.
@@ -71,8 +71,11 @@ Talents
 * Shrewd
 	* You are trained in spotting danger and reading people, and have Resistance with WIS.
 * Arcane Sink
+	* Take +1 Resist against any magic's Potency.
 	* (INT) times per Long Rest, delay the onset of a magical effect (spell, power, casting mishap, etc) on yourself by up to 1d4 rounds.
 		* When doing this, you may pull the effect from a Nearby ally to yourself (if it targeted both of you, you take its effects twice).  You must pull the effect before determining any resistance rolls or outcomes.
+* Quick Counter
+	* Once a round, you can use Countermagic as a reaction, as if you had readied a Main Action, but you cast with +D.
 * Gain a metaphysical Talent (only 1 can be taken)
 * Gain a Racial Talent
 

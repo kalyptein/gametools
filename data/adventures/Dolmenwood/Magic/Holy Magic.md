@@ -337,7 +337,7 @@ Creating Blessed Materials
 	- Those within are immune to possession, beguiling, and compulsion magic, and cannot be detected by arcane or faerie magic, or by occult senses (telepathy, smelling mortality, etc).
 	- Arcane and faerie creatures are excluded from the circle, and can't attack or work magic on those within.  If within when it is cast, they can only move outward, never inward.
 	- Arcane or faerie magical travel (teleportation, ethereal, etc) is barred, in or out.
-	- If anyone within attacks or works magic on a target outside the circle, or if a person enters the circle, the duration of the spell becomes Focus (round).  
+	- If anyone within attacks or works magic on a target outside the circle, or if a person enters the circle, the duration of the spell becomes Focus (round).
 - Ritual (1 hour, 1000 gp materials)
 	- Cast upon a specially prepared circle, usually carved into wood or stone and inlaid, the spell is permanent as long as the circle remains intact.
 
@@ -394,8 +394,8 @@ As Swarm (Witch 3) or Locusts (Druid 3)
 - St Primula’s Grace
 * T3, A Close being or enchantment
 - You anoint the subject with drops of holy milk from your hand.  Choose 1:
-	- (Sustain (1 hour)) A cursed item or permanent harmful magic is suppressed.
-	- (Instant) use Invoke Divine Authority to Turn an expel a possessing spirit, even if it's not normally subject to Turning.
+	- (1 hour) A cursed item or permanent enchantment is suppressed.
+	- (Instant) A possessing spirit must resist your casting roll with (LVL+CHA) or be expelled.
 	- (Instant) end an arcane or faerie spell.
 	- (Instant) heal a mind or spirit afflicted by madness or disorder.
 - Particularly dire afflictions may require additional measures, along with the miracle: sufficient invoker Level, a particular holy site/time, undertaking of a quest or pilgrimage, application of holy oil, a special herb, a series of repeat invocations and/or victim stat checks, etc.
