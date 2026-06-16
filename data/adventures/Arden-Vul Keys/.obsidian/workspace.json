@@ -91,8 +91,7 @@
               "title": "Areas - Level 9"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             }
           },
           {
-            "id": "a14e021e6aef29e7",
+            "id": "78d21db7658a7cc6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
+                "file": "TODO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Areas - Level 9"
+              "title": "Outline of TODO"
             }
           }
         ],
@@ -249,14 +248,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e88c9add748eedc7",
+  "active": "05a26f1c89522c8f",
   "lastOpenFiles": [
-    "TODO.md",
     "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
-    "World/Chronicle/Plot Threads.md",
+    "TODO.md",
     "_Notes_/Factions & Notables.md",
-    "Level 5 - Obsidian Gates & Midnight Road/Areas - Level 5.md",
     "Level 8 - Nether Reaches/Areas - Level 8.md",
+    "World/Chronicle/Plot Threads.md",
+    "Level 5 - Obsidian Gates & Midnight Road/Areas - Level 5.md",
     "Level 7 - Court of the Troll Thegn/Areas - Level 7.md",
     "World/Culture/Religion.md",
     "Level 4 - Forum of Set/Areas - Level 4.md",

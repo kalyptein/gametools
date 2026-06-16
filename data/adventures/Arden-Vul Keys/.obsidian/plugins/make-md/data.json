@@ -48,11 +48,12 @@
     "//World/World/Gazetteer/World/Gazetteer/Burdock's Valley ; Vale of Burgheat",
     "//World/World/Culture",
     "//Level 5 - Obsidian Gates & Midnight Road",
-    "//_Notes_",
     "//World",
     "//World/World/Chronicle",
-    "/",
-    "//Level 9 - Floor of the Great Chasm"
+    "//Level 8 - Nether Reaches",
+    "//_Notes_",
+    "//Level 9 - Floor of the Great Chasm",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

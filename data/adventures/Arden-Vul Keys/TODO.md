@@ -226,10 +226,10 @@ Arden Vul system
 		* dressing
 	* Level 9
 		* bulletize (underway)
-			* 9-14, 9-31, 9-40, 9-42, 9-48, 9-50
-				* new plotline for the niravairi / gith around 9-42 et al.
-			* 9-55
-				* yet another lich / archmage; come up with a different story / fate for her
+			* 9-14) quickling are grimalkin?  something norse? demonic?
+			* 9-40
+			* 9-42, 9-48, 9-50) new plotline for the niravairi / gith around 9-42 et al.
+			* 9-55) yet another lich / archmage; come up with a different story / fate for her
 		* entities
 		* dressing
 	* Level 10
