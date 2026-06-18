@@ -204,8 +204,12 @@ Arden Vul system
 
 * Below Lower
 	* SL-9
+		* player map
+			* removed locked icon on door to SL9-73
 		* entities
+			* 9-14
 		* dressing
+			* 9-14
 	* Level 6
 		* entities
 		* dressing
@@ -225,11 +229,9 @@ Arden Vul system
 		* entities
 		* dressing
 	* Level 9
-		* bulletize (underway)
-			* 9-14) quickling are grimalkin?  something norse? demonic?
-			* 9-40
-			* 9-42, 9-48, 9-50) new plotline for the niravairi / gith around 9-42 et al.
-			* 9-55) yet another lich / archmage; come up with a different story / fate for her
+		* map edit
+			* 9-56
+				* remove the one-way door and passage to 9-56; it's only accessed via teleportation (pillars or circlet).
 		* entities
 		* dressing
 	* Level 10

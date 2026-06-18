@@ -5,6 +5,8 @@ The central feature of this sub-level is a massive cavern, warmed by geothermal 
 About twenty years ago, a renegade band of kaliyani abandoned their main settlement of Lissak-Tol and made their way here, hoping to recover some of their lost technological 
 heritage and to reoccupy the Halls. They have delved a small, but well-guarded outpost to the east of the main cavern (SL9-59 to SL9-78) and named it a consortium, even though this act direct contravenes kaliyani custom, which only allows eleven consortia, all traditionally ruled by males. Their central chamber (SL9-72), with its three deep pits, has given the area its name. Even more recently, the kaliyani enslaved a small tribe of renegade lizardmen (the Lagrok tribe) dwelling in the southern reaches of the cavern. The lizardmen live in the side caves above the mud flats and use rickety rope bridges to travel between the rock outcroppings. The lizardmen hunt mud crabs, mud worms, and lizards that they trap from above, and spend the rest of their time sifting the mud for valuable minerals and arcanum for their kaliyani masters. 
 
+Lagrok now mark their allegiance to the Great Ones with crude Yig / Ouroboros symbols carved into their gear, or painted on themselves.
+
 General Construction Notes
 * Heqeti areas: SL9-27, SL9-30
 * Rudishva areas: SL9-41, SL9-41A, SL9-43 to SL9-49, SL9-52, SL9-53
@@ -53,17 +55,19 @@ Access and Egress
 
 * The hot and humid southern portion of the main cavern rises 60’ from floor to ceiling. 
 	* The floor a thick (4’- to 8’-deep) layer of mineral-rich mud thrown up by the mudpots and mud volcanoes that dot the region.
-		* Medium creatures (or weighing >120 lbs) move at 1/3 speed in the mud and risk falling periodically.
+		* Medium creatures (or >120 lbs) move at 1/3 speed in the mud and risk falling periodically.
 		* Small and agile creatures, or larger/heavier ones with 'mud-skis' (av items), can skim the surface at 2/3 speed.
 		* A mud boat can move at 30'.
-	* There are no fixed geysers here (as in SL9-32), but numerous mudpots and mudsinks.
-		* Mudpots are spots that burble constantly, occasionally throwing up impressive sprays of superheated, mineral-rich mud.
-			* 1 in 4 chance per 3 turns of a mudpot erupting nearby, dealing 1d6 fire in a 20' radius from steam and hot mud.
-		* Mudsinks occur when the swirl of the geothermal currents cause the mud to be sucked downward.
-			* 1 in 6 chance per 3 turns for a mudsink to appear in a given 10’ radius.  Randomly choose 1d2 party members to roll 3d6 under STR or be sucked down and drowned in 1d3 rounds.  Free allies can make attack rolls vs AC 3 to locate and rescue a companion.
-		* The lizardmen recognize the sound of impending mudpots and mudsinks and are never caught unless unable to move.
 	* Glows of campfires are visible from several rock outcroppings that rise from the flats.
 	* Slogging about in the mud flats will attract the attention of mud worms and the lizardmen on their rope bridges.
+	
+* There are no fixed geysers here (as in SL9-32), but numerous mudpots and mudsinks.
+	* Mudpots are spots that burble constantly, occasionally throwing up impressive sprays of superheated, mineral-rich mud.
+		* 1 in 4 chance per 3 turns of a mudpot erupting nearby, dealing 1d6 fire in a 20' radius from steam and hot mud.
+	* Mudsinks occur when the swirl of the geothermal currents cause the mud to be sucked downward.
+		* 1 in 6 chance per 3 turns for a mudsink to appear in a given 10’ radius.  Randomly choose 1d2 party members to roll 3d6 under STR or be sucked down and drowned in 1d3 rounds.  Free allies can make attack rolls vs AC 3 to locate and rescue a companion.
+	* The lizardmen recognize the sound of impending mudpots and mudsinks and are never caught unless unable to move.
+
 * The mud flats are home to numerous strange life forms, most small and harmless crustaceans and arthropods with strangely colored carapaces.
 	* Voracious mud worms (new) hunting the smaller creatures and the occasional lizardman or kaliyani who falls from the bridges.
 		* The worms hunt singly, appearing as encounters anywhere in the flats.  Every other round in combat with a worm, 33% chance to attract another worm.
@@ -90,12 +94,14 @@ beak); Dmg 1-6/1-6/1-6/1-6/1-6/1-8; MR 25%. Special attacks: surprise on 1-4; on
 		* It is fueled by dried mushroom and wood imported from the Underearth.
 		* A steel rack atop the fire, holds a heavy cast-iron pot and retort.
 	* The entire area reeks of sulfur (being collected in the retort). 
-	* A small pile of spoils from the dredging: 6 pieces of amber (100 gp each); a pair of copper statuettes of gravid female heqeti (200 gp each); a 3-lb sack of copper flakes (1 gp); a 2-lb sack of iron filings (25 gp); 14.5 lb of arcanum (new) in very small lumps; a 5-lb sack of sulfur (250 gp); a 5-lb sack of glowing phosphorus (250 gp).
+	* A small pile of spoils from the dredging:
+		* 6 pieces of amber (100 gp each); a pair of copper statuettes of gravid female heqeti (200 gp each); a 3-lb sack of copper flakes (1 gp); a 2-lb sack of iron filings (25 gp); 14.5 lb of arcanum (new) in very small lumps; a 5-lb sack of sulfur (250 gp); a 5-lb sack of glowing phosphorus (250 gp).
 * Under the supervision of a kaliyani scout, four lizardmen are dredging the nearby mud flats for arcanum, minerals, and lost treasures.
 	* A 5’-tall iron tripod holds a horizontal wooden arm with a rope and bucket to lower into the mud.
 	* If they notice activity to the south, or spot opponents crossing the southern bridge, the kaliyani will cut the ropes and drop anyone on it into the mud.
 
 4 lizardmen: SZ M; AL N; AC 4; MV 60’, 120’ swimming; HD 2+1; HP 15, 14, 13, 12; #AT 1 or 3; Dmg 1-6 (club) and 1-6 (javelin), or 1-2/1-2/1-8. Possessions: clubs; javelins; shields.
+* Lagrok now mark their allegiance to the Great Ones with crude Yig / Ouroboros symbols carved into their gear, or painted on themselves.
 
 1 5th-level kaliyani scout (see new monsters), as a 5th-level thief: SZ M; AL LE; AC 4; MV 150’ on six legs, 60’ upright; HD 6; HP 43; #AT 2; Dmg 3-8/3-8 (scimitars) or 2-7/2-7 (javelins). Special defenses: immune to poison and mind-affecting spells. Special: infravision; DEX 16. Thief skills: PP 50%, OL 47%, F/RT 40%, MS 40%, HS 31%, HN 20%, CW 90%, RL 25%. Possessions: twin serrated scimitars; six javelins; a set of silver rings, worked glass and minor gemstones, and repurposed coins worth 200 gp; a vial of poison; and a pair of solid-gold earrings shaped like hearts (175 gp).
 
@@ -127,7 +133,8 @@ Tomasion’s Spell Book: Armor, burning hands, charm person, comprehend language
 
 * The entrance from SL9-3 to this cave is blocked by a latticed fence of pointed sticks aimed inward towards SL9-7, making passage between the caves difficult (as squeezing).
 * The cave proper is covered with a 2” layer of wet, nearly liquid mud.
-	* A mud worm corpse lies on the floor, and the decomposing heads of 3 lizardmen dangle on strings from the ceiling.  The stink of rot fills the cave.
+	* A mud worm corpse lies on the floor, and the decomposing heads of 3 (Skreel) lizardmen dangle on strings from the ceiling.  The stink of rot fills the cave.
+		* Ornaments of the Skreel dangle with the heads, though their meaning isn't obvious except to those who know the tribe well.
 
 ### SL9-8: Scene of Battle
 

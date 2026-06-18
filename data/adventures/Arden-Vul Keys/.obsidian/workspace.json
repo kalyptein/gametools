@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
+                "file": "SL9 - Kaliyani Pits/Areas - SL9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Areas - Level 9"
+              "title": "Areas - SL9"
             }
           }
         ]
@@ -250,12 +250,15 @@
   },
   "active": "05a26f1c89522c8f",
   "lastOpenFiles": [
-    "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
+    "SL9 - Kaliyani Pits/Areas - SL9.md",
     "TODO.md",
+    "Level 9 - Floor of the Great Chasm/Areas - Level 9.md",
+    "SL13 - Lost Chambers of Arden/Areas - SL13.md",
+    "Level 5 - Obsidian Gates & Midnight Road/Areas - Level 5.md",
+    "World/Culture/Cultures.md",
     "_Notes_/Factions & Notables.md",
     "Level 8 - Nether Reaches/Areas - Level 8.md",
     "World/Chronicle/Plot Threads.md",
-    "Level 5 - Obsidian Gates & Midnight Road/Areas - Level 5.md",
     "Level 7 - Court of the Troll Thegn/Areas - Level 7.md",
     "World/Culture/Religion.md",
     "Level 4 - Forum of Set/Areas - Level 4.md",
@@ -274,7 +277,6 @@
     "SL4 - Goblin Warrens/Areas - SL4.md",
     "SL5 - Lizardman Caves/Encounters - SL5.md",
     "SL6 - Drowned Canyon/Map - SL-06a - The Drowned Canyon Player wider.PNG",
-    "Level 1 - The Basement/Areas - Level 1.md",
     "SL6 - Drowned Canyon/old player b map.zip",
     "SL6 - Drowned Canyon/old b map.zip",
     "SL6 - Drowned Canyon/assets.zip",
@@ -284,8 +286,6 @@
     "_Notes_/New folder",
     "_Notes_/Temrins map to Callista - raw.png",
     "Arden-Vul Ruins (AV)/Temrins map to Callista - raw.png",
-    "SL2 - Hall of Shrines/Areas - SL2.md",
-    "SL9 - Kaliyani Pits/Areas - SL9.md",
     "SL11 - Tomb of Isadora/Map - SL-11 - The Tomb of Isadora DM.PNG",
     "World/World of Magae.png",
     "World/Gazetteer/Burdock's Valley ; Vale of Burgheat/Map - Burdock's Valley DM.png",

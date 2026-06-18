@@ -556,38 +556,37 @@ attached to his/her belt.
 
 ### 9-14: Hall of the Quicklings
 
-* the quicklings are mutated grimalkin, estranged from the temple of Bast, who they feel could not protect them during the fall of the city, now worshipping Atlach-Nacha, the spider god, who has granted them magics and the ability to speak to his children the giant spiders.  In return they give him sacrifices.
-	* They have grown spindly and stunted (even smaller than normal grimalkin) and look emaciated.  Some have additional eyes, a mark of blessing (maybe even vestigial arms).
-	* They can speak to spiders, spider silk doesn't trap them (including web spells), and they can work well with it.  They are immune to spider venom.  Superb climbers and leapers.
+* Rí Mear, lord of the quicklings, presides over his tribe from this hidden chamber, only accessible from the tunnel network beneath the loam of the mushroom groves.
 
-Rí Mear, lord of the quicklings, presides over his tribe from this hidden chamber.
-Only accessible from the network of tunnels that riddle the loam under the mushroom groves, the 8’-tall chamber offers a gruesome prospect to those who make it through the tunnels.
-A pile of dried mushrooms burns continuously in the center of the hall, shedding dim light on the splashes of blood that coat the walls. 
-
-A ledge 2’ above the floor runs along the east and west walls of the chamber; it is here that quicklings perch for rest, relaxation, and drinking. 
-
-The north wall possesses a single 5’x5’ ledge.
-There sits Rí Mear’s throne of skulls, a dreadful thing made of ancient human and heqeti skulls bound together with strips of dried flesh.
-Concealed in one of the skulls is the key to the secret door.
-This ledge also holds the quicklings’s stock of spider poison, which they use to coat their tiny daggers. Rí Mear doles it out sparingly (20 doses of giant spider venom).
-
-To the south are some low tables crammed with bottles, small kegs, and wine flasks containing a bewildering assortment of liquors, ales, and other spirits. 
-The floor around the liquor tables is littered with old bones, the remains of those unwary individuals who made it through the tunnels only to meet a sad fate in the quicklings’s hall.
-
-Secret Door (north): A tiny (3’x3’), stone, secret door leads to a room in which the quicklings store their treasure.
-It is normal to detect (although all the quicklings know of it), and opens to the proper key (concealed in the throne) or to force. 
-
-Barred Door (south): This stone door is 3’x4’ in size and is barred with an oaken plank from this side.
-
-Alcohol: most of the liquor is of modest quality (20 containers, 5-500 sp each). There are 3 kegs of Hak’s mushroom ale (see 7-94, 15 gp each), 3 bottles of ancient Archontean brandy (225 gp each).
-
-Treasure chamber: the floor is littered with coins (17,492 sp, 3,451 gp) and precious stones. The stones are collectively worth 12,000 gp, and include 15 moss agates (10 gp each), 22 pieces of obsidian (10 gp each) 13 tiger eyes (10 gp each), 23 citrines (50 gp each), 6 iolites (50 gp each), 17 tourmalines (50 gp each), 7 pieces of jade (100 gp each), 2 aquamarines (500 gp each), 3 violet garnets (500 gp each), an emerald (1,000 gp), and a jacinth (5,000 gp). Scattered amid the coins and gems are the following (see new magic items for all): two glass spheres of arcane assistance (dispelling and martial warding), a pair of gauntlets of fire absorption, a heqeti ring, an icon of Kauket, and a jade cup of life restoration with 2 charges.
-
+* The 8’-tall chamber offers a gruesome prospect to those who make it through the tunnels.
+	* A pile of dried mushrooms burns in the center of the hall, shedding dim light on the splashes of blood that coat the walls.
+	* A ledge 2’ above the floor runs along the east and west walls where quicklings perch for rest, relaxation, and drinking.
+	* The north wall possesses a single 5’x5’ ledge where sits Rí Mear’s throne of skulls.
+		* It is a dreadful thing of ancient human and heqeti skulls bound together with strips of dried flesh.
+			* Concealed in one skull is the key to the secret door.
+			* This ledge also holds the quicklings’s stock of spider poison (20 doses), used to coat their tiny daggers.  Rí Mear doles it out sparingly.
+	* To the south are low tables crammed with bottles, small kegs, and wine flasks with a bewildering assortment of liquors, ales, and other spirits.
+		* Mostly modest quality (20 containers, 1-50 gp each), 3 kegs of Hak’s mushroom ale (see 7-94, 15 gp each), 3 bottles of ancient Archontean brandy (225 gp each).
+		* The floor around the liquor tables is littered with old, gnawed bones (human, animal, etc).
+	* Secret Door (north): a tiny (3’x3’), stone, secret door leads to the quicklings' ==treasury==.
+		* All the quicklings know of it.  It opens to the key (concealed in the throne).
+	* Barred Door (south): a stone door (3’x4’), barred with an oaken plank from this side.
 
 * 10 quicklings, plus Rí Mear, are usually here.
 
+Treasury
+* The floor is littered with coins (17,492 ancient copper, 3,451 ancient silver) and precious stones (collectively 12,000 gp).
+	* 15 moss agates (10 gp each), 22 pieces of obsidian (10 gp each) 13 tiger eyes (10 gp each), 23 citrines (50 gp each), 6 iolites (50 gp each), 17 tourmalines (50 gp each), 7 pieces of jade (100 gp each), 2 aquamarines (500 gp each), 3 violet garnets (500 gp each), an emerald (1,000 gp), and a jacinth (5,000 gp).
+* Scattered amid the coins and gems:
+	* 2 glass spheres of arcane assistance (dispelling, martial warding), a pair of gauntlets of fire absorption, a heqeti ring, an icon of Kauket, and a jade cup of life restoration (2 charges).
 
 The Quicklings
+* The quicklings are a mutant strain of goblin, tiny, sociopathic, fueled by strange magic.
+	* The Thothian priests experiemented with variants (such as ogres), and these ones went feral and unrestrained after the Fall.
+	* They have been changed by centuries of living among and consuming the fungi, particularly Red Veil (for malice / aggression) and Slow Steppers (their speed is a defensive response now absent its agonist, supercharging them).
+	* Through contact with the spiders, they came to worship Atlach-Nacha, the spider god, who has granted them magics and the ability to speak to his children the giant spiders.  In return they give him sacrifices.
+		* They can speak to spiders, spider silk doesn't trap them (including web spells), and they can work well with it.  They are immune to spider venom.  Superb climbers and leapers.
+
 * 30 individuals, with 20 usually out in the tunnels.
 * The band is confident and cocky; their situation in the tunnels has allowed them to thrive in the shadow of putatively stronger beings.
 	* They value their small-scale but steady trade in mushrooms with the varumani, which provides them with liquors and other luxuries.
@@ -604,8 +603,9 @@ Rí Mear (“King Quick”)
 
 Rí Mear, quickling lord: SZ S; AL CE; AC -3; MV 960’; HD 4 ½; HP 30; #AT 3; Dmg 2-5/2-5/2-5. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. His dagger is coated with spider venom, and he carries 3 skulls filled with acid (2-8 HP, 1 HP splash).
 
-10 quicklings: AL CE; SZ S, AC -3; MV 960’; HD 3(x2), 1 ½(x8); HP 22, 19, 11, 10, 10, 9(x3), 8, 7; #AT 3; Dmg 1-4/1-4/1-3. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm. At least three of the ten have weapons coated in 
-giant-spider venom; there is a 33% chance that each of the other seven have followed suit. Three have 2-4 skulls filled with acid (2-8 HP, 1 HP splash) attached to their belts.
+10 quicklings: AL CE; SZ S, AC -3; MV 960’; HD 3(x2), 1 ½(x8); HP 22, 19, 11, 10, 10, 9(x3), 8, 7; #AT 3; Dmg 1-4/1-4/1-3. Special defenses: save as 19th-level clerics; never surprised; 90% invisible when moving, 100% when motionless; impossible to surprise. Special: ventriloquism, forget, levitate, shatter, dig, and fire charm.
+* At least three of the ten have weapons coated in giant-spider venom; 33% chance that each of the other seven have followed suit.
+* Three have 2-4 skulls filled with acid (2-8 HP, 1 HP splash) attached to their belts.
 
 ### 9-15: Quickling Tunnels
 
@@ -1065,20 +1065,33 @@ Tashiblis (see new monsters): SZ L; AL N; AC 1; MV 120’; HD 8+8; HP 62; #AT 1;
 
 ### 9-40: The Great Pukel
 
-A giant pukel-mander crouches here, at the southern end of the ancient heqeti causeway in a niche that is 30’ tall. Piles of rubble block views of the pukel from 9-37 or 9-38. The eastern edge of the pediment overlooking 9-37 has collapsed into the cave below; even non-thieves have a 33% chance of successfully scrambling up the scree. 
+* A giant ==pukel-mander== crouches here, in a 30'-tall grotto at the southern end of the ancient heqeti causeway.
+	* Piles of rubble block view of the pukel from 9-37 or 9-38.
+	* The eastern edge of the pediment overlooking 9-37 has collapsed into the cave below (2-in-6 chance to scrambling up the scree, even for non-thieves).
 
-The Great Pukel:  Like its many lesser siblings scattered through-out Arden Vul, the Great Pukel appears as a massive, crouching salamander carved out of oily soapstone. Unlike the pukel-manders (see new magic items), however, the Great Pukel is 20’ tall and 15’ wide. The eyes are gaping holes, 5’ in diameter, while the toothless maw is 6’ across. Although the features of the pukel do not change, a low, chuffing laugh emerges constantly from its maw: “heh, heh, heh, heh”. The Pukel radiates evil.
+The Great Pukel
+* Like its many lesser siblings throughout Arden Vul, the Great Pukel appears as a massive, crouching salamander carved of oily soapstone, but 20’ tall and 15’ wide.
+* The eyes are gaping holes, 5’ across.
+	* Within each eyehole are 1d4+2 pure white tears of Kauket (new).
+		* When white tears are used in lesser pukel-manders, they appear here.
+			* Tears of other colors are destroyed in the teleportation.
+			* (5% / month) someone has used at least 1 white tear, now present here.
+* The toothless maw is 6’ across, filled with viscous clear liquid, the sweat of Rimmaq-Isfet.
+	* Up to 15 vials of sweat may be collected from the maw (replenishes 1 vial / month).
+* A low, chuffing laugh emerges constantly from The Pukel's maw: “heh, heh, heh, heh”, and it radiates evil.
+* The tears and sweat can be taken freely by chaotic evil individuals, but others hear the Pukel’s laugh changes to harsh shouts of anger, and 2 keqemandri (new) gate in to punish the transgressors.
 
-Within each eyehole are 3-6 pure white tears of Kauket (see new magic items). These potent but dangerous items may be removed easily enough (in order, for instance, to use them 
-to activate the secret door at 9-38) by characters of chaotic evil alignment. All others who remove a tear are punished for their blasphemy: the Pukel’s laugh changes to harsh shouts of anger, and two keqemandri (see new monsters) teleport in to punish the transgressors. 
-
-The gaping maw of the Great Pukel is filled with a viscous clear liquid, none other than the sweat of Rimmaq-Isfet (see new magic items). Up to 15 vials of the sweat may be filled from the maw. The supply of sweat gradually replenishes at a rate of 1 vial’s worth per month. The same alignment restrictions as concern the tears of Kauket apply here; two keqemandri teleport in if a non-chaotic evil being takes any of the sweat.
-
-GM Note: the tears appear here when beings effect teleportation by means of the lesser pukel-manders. In such cases any pure white tear used in teleportation remains in the Great Pukel’s eyeholes; tears of other colors are destroyed in the teleportation. It is thus possible for the supply here to be replenished. If the PCs use the devices, then any white tear used will be found here; there is also a 5% chance per month that some other being will have used at least one white tear in a pukel-mander, and thus that a new tear will be present in the Great Pukel’s eyeholes.
-
-Destroying the Great Pukel: It is difficult, but possible to destroy the Great Pukel, and doing so will have several effects on Arden Vul. For one, it will cancel the magical powers of the lesser pukel-manders scattered through Arden Vul; thereafter, the pukel-manders will merely appear as ominous, vaguely evil statues, with no special effects. More importantly, though, destroying the Great Pukel serves to weaken Rimmaq-Isfet and Kauket, thus evening the odds should PCs confront Kauket on Level 10 (see Level 10 introduction and 10-37). To destroy the Great Pukel, four spells must be cast in sequence within a span of 6 hours: spiritwrack or holy word, dispel magic (by a 12th- or greater-level caster), transmute rock to mud, and then hallow (see new spells). 
-
-During the casting period(s), two more keqemandri will teleport in to defend the unholy Great Pukel. Of course, a single carefully-worded wish would also suffice.
+Destroying the Great Pukel
+* It is difficult, but possible, to destroy the Great Pukel.
+	* 4 spells must be cast in sequence within 6 hours.
+		* The spirit Tsathaggua must be temporarily driven out (spiritwrack or holy word).
+		* The idol's magic must be suppressed (dispel magic).
+		* The substance of the idol must be weakened (rock to mud).
+		* Holy power must be called forth to destroy it (hallow).
+	* During this, 2 more keqemandri will gate in to defend the unholy Great Pukel.
+* The destruction will have several effects on Arden Vul.
+	* The magics of the lesser pukel-manders through Arden Vul are broken.  They will merely be ominous, vaguely evil statues, with no special effects.
+	* Rimmaq-Isfet and Kauket will be weaked (see Level 10 introduction and 10-37). 
 
 2 or more keqemander demons (see new monsters): SZ L; AL CE; AC -2; MV 90’, 150’ flying (Class D); HD 16; HP 116, 101; #AT 3; Dmg 1-4/1-4/3-18; MR 40%. Constant abilities: dread (-1 to saves); infravision. Special attacks: acid spit (3-10 dmg; 30’ range, every other round); cause fear; darkness (10’ radius); exude acid with chance to degrade armor; use a symbol 
 of discord. Special defenses: only hit by magic weapons; half damage from cold, electricity, fire, and gas; become invisible. Special: levitate; telekinesis (4,000 gp weight); project image; 
@@ -1099,20 +1112,16 @@ teleport without error; 50% chance to gate in either another keqemander or a Typ
 * The cave surfaces are rough and natural, but obvious bits of ancient stonework protrude crazily from the floor and walls (bits of stairs, flattened pediment, broken plinths). 
 	* The temperature is noticeably warmer, and the air moister.
 
-* In a pool of dried blood halfway down the cave is the corpse of a githyanki.
-	* It wears a harness, loincloth and four web-belts, partly looted. 
-		* 1-lb sack of gold flakes (50 gp), 1-lb sack of silver flakes (50 sp), and 7 cork-sized plugs of pure platinum (1 lb, 250 gp).
-		* A piece of crystal covered with spidery writing (Niravairi).
-	* This was Harjot, a niravairi and a rissaldar in the Order of Planar Explorers (new). 
-	* He has a fatal gut wound.
+* In a pool of dried blood halfway down the cave is the corpse of a valkyrie (Svilrun).
+	* A tall, beautiful woman, long blonde hair in tattered braids, face-paint and garb like a fine version of a primitive Thorcin.
+		* Arm-rings, torcs and jewelry (2100 gp).
+	* She is dead of a fatal gut wound, her blood like liquid moonlight.
 * A tracker may follow a subtle blood trail south towards 9-43.
 
-Crystal Message
-* ??? connects to the Tomb of Light.  Replace it with some kind of new plotline?
-
 GM Note
-* The demonic huntsmen at 9-50 hunted Harjot and his companions, Bahula (9-50) and Vingelok (9-48), through the Astral Plane.
-* The 3 members of the Order fled through the gate at 9-51, but were followed by the demons.  Bahula was slain first, while Harjot was mortally wounded and died here.  Vingelok still lives, wounded and desperate, deeper within the ruins.
+* Three Valkyrie sisters were attending Arden Vul, as many heroes have come here to face death, and some are of the faith and stature to be taken to Odin's Hall.
+* They were aware of a growing malign power within the Halls.  Attracted by the scent, the demonic huntsmen at 9-50 arrived, assailed, and pursued them through the Astral Plane and through the portal at 9-51.
+* Frinhylde (9-50) was slain first, while Svrirun was mortally wounded, separated, and died here.  Sigul (9-48) still lives, wounded and desperate, deeper within the ruins.
 
 ### 9-43: Stalactite Cave
 
@@ -1175,18 +1184,16 @@ days); corrosive to wood. Special defenses: healed by electricity, lasers; slowe
 
 * This heqeti chamber, with its pebbled, greasy surfaces, was stripped bare over a millennium ago.
 
-* It is now the hiding place of Vingelok, a niravairi and a havildar in the Order of Planar Explorers (new). 
-	* 
-	* 
-	* ??? Vingelok is dressed in puffy, quilted orange ‘cold weather’ outfit, and carries a fair amount of exotic gear.
+* It is now the hiding place of Sigul, a valkyrie.
+	* Sigul is on the run, having been chased through the gate at 9-51 by the demonic huntsmen now encamped at 9-50. Her comrades, Frinhylde and Svilrun, were slain (see 9-42 and 9-50), but Sigul, despite her own injuries, located a temporary place of refuge in this chamber. 
+	* Sigul gratefully accepts medical aid, but would really like for heroes to eliminate the huntsmen and avenge her sisters.
+		* If they are slain, Sigul return to the Astral through the portal at 9-51, swearing to reward rescuers.  She will offer gems (10,000 gp) or magic items (astral tulwars, astral bows of accuracy, niravairi personal shield (as bracers of defense), drafts of Valhallan mead that will grant permanent +1 to stats, etc.
+	* If Sigul is not aided, she will be dead within 3 days, after the aroksachaul (9-50) finally get around to finishing the hunt. All that will remain here is a pool of dried blood.
 
-Vingelok is on the run, having been chased through the gate at 9-51 by the demonic huntsmen now encamped at 9-50. His comrades, Bahula and Harjot, were slain (see 9-42 and 9-50), but Vingelok, despite his own injuries, managed to locate a temporary place of refuge in this chamber. Vingelok gratefully accepts medical aid from PCs, although what he would really like is for the PCs to eliminate the huntsmen. If the latter transpires, Vingelok returns 
-to 9-51 and rewards rescuers with up to three items from his stash. Those who aid Vingelok win the lasting gratitude of the Order, a fact which might prove useful in Astral or other planar adventuring. If PCs refuse to aid Vingelok, he will be dead within three days after the aroksachaul (9-50) finally get around to finishing the hunt. At that point, all that remains here is a pool of dried blood.
-
-Vingelok, niravairi (see new monsters) and havildar in the Order of Planar Explorers, as a 10th-level fighter: SZ M; AL LN; AC 1; MV 120’; HD 10; HP 27 (max 70); #AT 3/2; Dmg 3-10 
+Sigul, niravairi (see new monsters) and havildar in the Order of Planar Explorers, as a 10th-level fighter: SZ M; AL LN; AC 1; MV 120’; HD 10; HP 27 (max 70); #AT 3/2; Dmg 3-10 
 (niravairi astral tulwar), or 3-6 (niravairi astral crossbow of accuracy and bolts +2). Abilities: STR 16, INT 16, WIS 11, DEX 15, CON 12, CHA 13. Continual abilities: infravision. Special attacks: surprise on 1-3 in 6. Special defenses: only surprised on 1 in 6. 
-* Possessions: niravairi astral tulwar (new); niravairi astral crossbow of accuracy (new), 6 bolts +2 ; a niravairi personal shield (tech)
-* 2 signet rings of steel (one his, one Harjot’s) ( 15 gp); 12 platinum disks threaded on a steel rod (250 gp per disk); 100 chrysoberyls (100 gp each); a diplomat’s voice; 2 niravairi rebreathers; a niravairi molecular analyzer; and 6 packets of dehydrated rations (tech).
+* Possessions: niravairi astral tulwar (new); niravairi astral crossbow of accuracy (new), 6 bolts +2 ; a niravairi personal shield (tech; redo as magic)
+* 2 signet rings of steel (one his, one Harjot’s) (15 gp); arm-rings and jewelry (3000 gp), 100 chrysoberyls (100 gp each)
 
 ### 9-49: Eastern Plateau
 
@@ -1199,41 +1206,51 @@ Vingelok, niravairi (see new monsters) and havildar in the Order of Planar Explo
 
 ### 9-50: Camp of the Huntsmen
 
-A band of eight aroksachaul, or demonic huntsmen (see new monsters), have established a temporary camp by the wall of the great cavern.
-The camp comprises a gaudy yurt about 20’ in diameter; it is made of black felt colored with yellow images of the trophies the band has acquired. 
-Two huntsmen stand on guard outside at all times, while the other six relax within. 
-Eight yeth hounds prowl about the perimeter of the camp; their extraordinary senses make it difficult for foes to sneak up on the camp. 
-The hounds have a 75% chance to detect the smell of intruders (even invisible ones) within a 50’ radius. 
-If they detect potential prey they immediately begin baying (those within range must save vs spells or flee in panic).
+* A band of eight aroksachaul, demonic huntsmen (new), have made a temporary camp by the wall of the great cavern.
+	* A gaudy yurt about 20’ across of black felt, dangling trophies the band has acquired.
+	* Twelve 8’ iron stakes are hammered into the stone in a circle around the yurt.
+		* From 6 hang the draining corpses of the aroksachaul’s most recent catches: Frinhylde, a valkyrie; 2 heqeti; a bestial varumani (from 9-8); an albino baboon (new); and a quickling.
+	* Within the yurt are 7 wooden stools, a keg of fiery demonic brandy (400 gp), a weapons rack, a large chest, and a dozen desiccated trophy heads hanging from the ceiling.
+		* In the chest: mingled jewelry and trinkets from Frinhylde the valkyrie, the varumani, and the heqeti (4,000 gp total), 3 vials of embalming fluid (25 gp each), 10 emeralds (1,000 gp each), a niravairi astral tulwar (valkyrie sword), a niravairi astral dripping-sword (frost, not acid), a niravairi astral crossbow of accuracy (valkyrie bow).
 
-Twelve 8’-tall iron stakes have been pounded into the stone in a circle around the yurt. 
-From six of them hang the draining corpses of the aroksachaul’s most recent catches: Bahula, a niravairi and a naik in the Order of Planar Explorers (see new monsters); two heqeti; a bestial varumani (from 9-8); an albino baboon (see new monsters); and a quickling. 
+* Two huntsmen stand on guard outside at all times, while the other six relax within. 
+* 8 yeth hounds prowl the perimeter of the camp.
+	* Their extraordinary senses have a 75% chance to detect the smell of intruders (even invisible ones) within a 50’ radius.
+	* If they detect potential prey they immediately begin baying (save vs spells or flee in panic until they can't hear the baying anymore).
+* Inside, the huntsmen are relaxing and discussing:
+	* the deliquescing ‘corpses’ of a couple of chasm cephalopods
+	* how long to give the last valkyrie to marinate in fear and pain before tracking her down
+	* the rich flow of abyssal energy coming to this place, as "The Devouring Worm" bends its attention here.
 
-Within the yurt are seven wooden stools, a keg of fiery demonic brandy (400 gp), a weapons rack, a large chest, and a dozen desiccated trophy heads hanging from the ceiling. 
-The huntsmen are discussing the deliquescing ‘corpses’ of a couple of chasm cephalopods.
+Backstory
+* While traveling the Astral Plane, these ruthless and relentless fiends came upon the three Valkyries attending to Arden Vul.  They ambushed them, and chased them through the gate at 9-51 into Arden Vul.
+	* The lone survivor of is wounded and hiding in 9-48.
+	* The aroksachaul have a pretty good idea which way she went, but are delighting in the new environment and letting their prey stew in a mixture of fear and hope.
+	* Within 1-3 days they will have tracked her down (9-48), slain her, and added her corpse to the hooks outside their yurt. Her equipment will be added to their treasure.
+* This band of aroksachaul have never been to the Prime Material Plane before, and are delighted by the hunting possibilities offered here.
+	* They are arrogant, cruel, and a bit careless.
+	* They will negotiate first with a party that appears strong, but lay plans to track and ambush them.
+		* In return for the specific location of Sigul (9-48), they might agree to exclude party from their hunt.  Any such agreement would be abrogated by interference with their hunt.
+	* They know nothing about Arden Vul save for the following: 
+		* Amphibians are to the north.  There are weak, but fast, prey among the mushrooms
+		* A powerful and dangerous foe lies within the ruins to the northwest (9-104).
+	* If a party appears weak or wounded, the huntsmen laugh evilly, begin sharpening their blades, and ‘generously’ offer their new prey a head start of 2 turns.
+* The aroksachaul remain on Level 9 for 2-6 weeks after the party first encounters them, they depart through the gate at 9-51.
+* The aroksachaul are unable to replenish their numbers (including yeth hounds).
 
-While traveling the Astral Plane, these ruthless and relentless fiends came upon an expedition formed of niravairi members of the Order of Planar Explorers (see new monsters), ambushed the expedition, and chased the survivors through the gate at 9-51 into Arden Vul.
-The lone survivor of that attack is wounded and hiding in area 9-48. 
-The aroksachaul have a pretty good idea which way he went, but are delighting in the new environment and in letting their prey stew in a mixture of fear and hope. 
-Within 1-3 days they will have tracked down Vingelok (9-48), slain him, and added his corpse to the hooks outside their yurt. His equipment will be added to their treasure.
+8 aroksachaul (see new monsters): S SZ L; AC CE; AC 0; MV 120’, 270’ flying (Class C); HD 7+7; HP 58, 56, 55, 51, 50, 49, 48, 47; #AT 2; Dmg 1-4/1-4 or 3-5/4-12 (whip +2/bastard sword +2), or 4-9 (short bow with arrows of striking); MR 55%.
+* Continual abilites: infravision; extraordinary senses.
+* Special attacks: wield two weapons without penalty; only -1 to hit invisible creatures; cause fear; create darkness 10’ radius.
+* Special defenses: +2 or better weapons to hit; half damage from cold, electricity, fire and gas.
+* Special: teleport without error; detect magic; read languages; dispel magic; levitate; telekinesis; gate in another aroksachaul or a type I-III demon (50%).
+* Possessions: whip +2; bastard sword +2; short bow and 12 arrows of striking (new).
+	* Two of them have bags of holding (75 cubic feet).
 
-This band of aroksachaul have never been to the Prime Material Plane before, and are delighted by the hunting possibilities offered here. They are arrogant, cruel, and a bit careless. They will negotiate first with a party that appears strong, but will then lay plans to track and ambush that group. They know nothing about Arden Vul save for the following: they know amphibians are to the north; that there are weak, but fast, prey among the mushrooms; and that a powerful and dangerous foe lies within the ruins to the northwest (i.e., 9-104). In return for the specific location of Vingelok (9-48), they might agree to exclude the PCs from their hunt; of course, any such agreement would be abrogated if the PCs interfered with the huntsmen’s hunting of other beings.
-
-If a party of PCs that appears weak or wounded attempts to negotiate with them, the huntsmen will laugh evilly, begin sharpening their blades, and then ‘generously’ offer their new prey a head start of two turns before they begin the hunt.
-
-The aroksachaul remain on Level 9 for 2-6 weeks after the PCs first encounter them; after this, they depart through the gate at 9-51. 
-
-The aroksachaul are unable to replenish their numbers. Should any of them (or their yeth hounds) be slain as wandering monsters, those losses should be subtracted from the roster here. Of course, previous encounters will also determine the huntsmen’s willingness to negotiate.
-
-8 aroksachaul (see new monsters): S SZ L; AC CE; AC 0; MV 120’, 270’ flying (Class C); HD 7+7; HP 58, 56, 55, 51, 50, 49, 48, 47; #AT 2; Dmg 1-4/1-4 or 3-5/4-12 (whip +2/bastard sword +2), or 4-9 (short bow with arrows of striking); MR 55%. Continual abilites: infravision; extraordinary senses. Special attacks: wield two weapons without penalty; only -1 to hit invisible creatures; cause fear; create darkness 10’ radius. Special defenses: +2 or better weapons to hit; half damage from cold, electricity, fire and gas. Special: teleport without error; detect magic; read languages; dispel magic; levitate; telekinesis; gate in another aroksachaul or a type I-III demon (50%). Possessions: whip +2; bastard sword +2; short bow and 12 arrows of striking (see new magic items).
-
-8 yeth hounds: SZ L; AL NE; AC 0; MV 150’, 270’ (Class B); HD 3+3; HP 25, 24, 23 22, 21, 20, 19, 18; #AT 1; Dmg 2-8. Special attacks: fear. Special defenses: silver, or +1 weapons or better to hit (damage taken is 1 per magical plus, or 1 for silver weapons).
-
-Treasure:
-On their persons: their weapons, plus a bag of holding (75 cubic feet variety).
-
-In the chest: six feet of coiled platinum rope (4,000 gp), 3 vials of embalming fluid (25 gp each), 10 emeralds (1,000 gp each), an octagonal crystal signet ring (50 gp), a niravairi astral 
-tulwar, a niravairi astral crossbow of accuracy, and a niravairi astral staff of the magi (see new magic items).
+8 yeth hounds: SZ L; AL NE; AC 0; MV 150’, fly 270’ (Class B); HD 3+3; HP 25, 24, 23 22, 21, 20, 19, 18; #AT 1; Dmg 2-8.
+* Special attacks: fear (save vs spells or flee in panic until you can't hear the baying anymore).
+* Special defenses: silver, or +1 weapons or better to hit (damage taken is 1 per magical plus, or 1 for silver weapons).
+* Silent movement (since flying / air running)
+* Can't stand sunlight, fading out of existence after 1 round.
 
 ### 9-51: Gate to Astral Plane
 
@@ -1252,7 +1269,7 @@ This cave is noteworthy for two respects.
 * A statue of a robed woman stands in the northwest corner of this cave.
 	* The statue is 7’ tall, 525 lb, and colorfully painted.  It depicts a severe Archontean woman of advancing years wearing a wizard's robe and circlet, with a wand in her crossed arms.
 		* It is in excellent condition despite being 2,000 years old, still painted and lifelike, without chips or breaks.  It is ==enchanted==. 
-	* The pediment inscription (Mithric): “Syagria the Rhetor, Disciple of Vul the Sorcerer”. 
+	* The pediment inscription (Mithric): “Syagria the Rhetor, Disciple of Vul the Sorcerer, Hierophant of Thoth and Osiris”.
 	* The statue is surrounded by a circle of desiccated corpses of small creatures.
 		* Albino monkeys, baindara, chasm cephalopods, etc.  They show no sign of physical harm; it is as if they simply dropped dead.
 * Concealed Door (to 9-55): the door is 3’x3’ in size.
@@ -1271,37 +1288,91 @@ Enchanted Statue of Syagria Aitón
 
 ### 9-55: Lich Hall
 
-The entrance corridor has been prepared with multiple castings of symbol. Fear has been inscribed in four places (floor, ceiling, north wall, south wall) just inside the entrance from 9-53. Death has been inscribed on the lintel inside 9-55, such that the first person to enter the hall will activate it.
+* The entrance corridor has been prepared with multiple castings of symbol.
+	* 4x Fear (floor, ceiling, north wall, south wall) just inside the entrance from 9-53.
+	* Death (on the lintel inside 9-55), the first person to enter the hall will activate it.
 
-Six slender pillars create three aisles to this quiet and shadowed chamber. Within the center aisle is a 25’-long table made of glowing orange material (arcanum – see new magic items). Two stone chairs sit at the north and south ends of the table, as do eight more along the side aisles; all ten of the chairs are occupied by skeletal figures in rotting yellow robes. Another dozen skeletons surround the table and lie between the chairs. The walls were once painted a vibrant yellow color with blue arcane symbols atop the yellow, but most of the paint is coming off in strips. Although it will be hard to see initially, a name – Syagria Aitón – is incised above the chair on the south wall. Several ancient large-format codices are open on the table, albeit covered with inches of dust.
+* Six slender ==pillars== create three aisles to this quiet and shadowed chamber.
+	* The walls were once a vibrant yellow with blue arcane symbols, but most of the paint is coming off in strips.
+	* Within the center aisle is a 25’-long table of glowing arcanum.
+		* Two stone chairs sit at the north and south ends, and eight along the sides.
+			* All 9 chairs are occupied by skeletal figures in once-grand, rotting yellow robes.  Each has a tarnished silver circlet set with an ankh-shaped topaz (3,000 gp).
+			* The tenth figure (==Syagria==), in the southern chair, has bones glowing arcanum-orange from within.  Its garb is similar.
+				* The name 'Syagria Aitón' is incised above the chair.
+		* Another dozen skeletons stand at attention along the walls.
+	* Several ancient ==codices== lie open on the table, covered with inches of dust.
 
-The skeletal figures all wear yellow robes of obvious quality, even though most are torn and decrepit. Each wears a gold armband on one arm, a small iron box strapped to the other, and a tarnished silver circlet around the skull. The circlets boast a moon-shaped front-piece, into each of which has been set a 3,000 gp gem. The eyes of all ten all glow with red light. Nine of the ten are skeletal wights (see new monsters), while the tenth is none other than the lich, Syagria Aitón. 
+* When intruders enter the hall, the skeletal figures at the table turn, eyes glowing with red light, and they rise to attack.
+	* The skeletons along the walls fire arrows and hurl spells.
+	* Here in her lair, none of her undead servants can be turned.
 
-Intruders might easily conclude that Syagria Aitón occupies the seat of honor beneath her name (to the south), but they would be wrong. In fact, she sits in the first seat along the eastern wall.  When the hall is first accessed, five of the skeletal wights immediately move to confront the intruders. In addition, five of the ‘normal’ skeletons on the floor rise as skeleton archers. Syagria and the other four skeletal wights commence the casting of spells; of course in the case of the skeletal wights, this is a deception designed to keep Syagria’s identity hidden for as long as possible (since they cast no actual spells). Once Syagria has been clearly identified by foes, the other four skeletal wights join the fray. She is likely to cast time stop first, followed immediately by power word stun, power word blind, maze, and cloudkill. Should ‘time’ still be permitting, she next casts polymorph other or death spell. If things go badly for her, she teleports to 9-56 using Syagria’s circlet (see new magic items).
+Codices
+* Preparing for the Long Death
+* Mind over Blood
+* Planar Dwellers and their Powers
+	* This copy of Planar Dwellers concerns the servants of Thoth, Osiris, and Anubis. Numerous margin notes in Planar Dwellers about her work to create the Trials of Arden, how they would work, and the focusing of devotion.
+* A small journal.
+	* About the Chambers of Arden.
+	* Commentary about the Defenders of Arden: necessary for their wealth, connections, and faith, virtuous in their way, if a bit tiresome.  Not giving Vul his due.
+		* Arden gets chief billing; Syagria is a bit grumpy, but she knows Vul was always content to disappear into Arden's shadow; ordinary folk revere a warrior easily and can't understand a sorcerer.
+		* Syagria may have been carrying a bit of a torch for Vul.
+	* Of the relics of Arden they have collected, she's pretty sure only her mother's slave collar (which Syagria once saw) and the bear-claw necklace actually belonged to Arden.
 
-As this is her lair, Syagria may not be turned here. In addition, the skeletal wights are turned here as ghosts, and the skeletal archers are turned as shadows.
+Pillars
+* To access her laboratory, one touches the pillars in the following order: northwest, southeast, southwest, northeast, east, west (teleporting to 9-56 upon touching the last).
 
-Syagria collected much treasure before she shut herself away from the company of humans. That treasure is located in area 9-56. To access it, one needs to don her circlet and concentrate upon ‘treasure’; doing so activates the teleport feature of the circlet and transports the wearer instantly to 9-56. She also built in an alternative, failsafe mechanism to allow access to the chamber. This mechanism works by touching the pillars of the chamber in the following sequence: northwest, southeast, southwest, northeast, east, west. Doing so transports the being who touches the west pillar to area 9-56.
 
-Backstory: Young Syagria became an apprentice of Vul the Sorcerer in the century after Arden and Vul discovered Arden Vul and the Archonteans began colonizing it. Syagria took a close and perhaps unhealthy interest in the site and in the properties of the arcanum found within it. Her power was great, however, and despite her strange proclivities she became a close advisor to the great military archons of the period leading up to Marius’s conquests. 
-After the defeat of the heqeti, Syagria disappeared. The archons publicly announced her death in the final battle at the ziggurat, while privately admitting that her long exposure to arcanum had probably driven her mad. In fact, she had long been preparing to transcend death by becoming a lich. She brought her own disciples here, where she and they could explore the planes after death. Even now she works to ascend to demi-lichdom.
+Syagria Aitón, vacant lich
+* The arcanum-poisoning of her body eventually disrupted her connection to her phylactery.  Her body slumps, inanimate.  Her spirit wanders distant planes, its fate unknown.
+* Her magic items have been sucked dry or "baked clean" of their power, just crumbling husks now.
+* Syagria's Skull
+	* Once a day, whisper a question in its ear and hear its whispered answer (as Contact Other Plane, with no risk to the caster).  Each time, roll to see if the skull crumbles to dust (initially 0%, +5% per use).
 
-9 skeletal wights (see new monsters): SZ M; AL CE; AC 3; MV 120’; HD 5+1; HP 38, 38, 37, 37, 35(x3), 31, 30; #AT 1; Dmg 3-9. Special attacks: energy drain. Special defenses: successful 
-energy drain heals 3-9 HP; +1 or better weapons to hit; edged weapons do ½ damage; immune to sleep, charm, hold, poison, paralyzation and cold; turned as ghosts. 
+Backstory
+* Young Syagria became an apprentice of Vul the Sorcerer in the century after Arden and Vul discovered Arden Vul and the Archonteans began colonizing it.
+	* She was an devotee of Thoth (like Vul) but also Osiris, with a penchant for necromancy.
+* She took a close and perhaps unhealthy interest in the site and in the properties of the arcanum found within it. Her power was great, however, and despite her strange proclivities she became a close advisor to the great military archons of the period leading up to Marius’s conquests.
+* After the defeat of the heqeti, Syagria disappeared. The archons publicly announced her death in the final battle at the ziggurat, while privately admitting that her long exposure to arcanum had probably driven her mad.  In fact, she had long been preparing to transcend death by becoming a lich.
+* Her great work was the exaltation of Arden and Vul to demigods.
+	* She helped begin the Defenders of Arden to channel cult devotion to them.
+	* She used arcanum and the portals of Arden Vul to craft the demiplanes of the Shrine of Arden through which the Defenders could emulate and worship Arden.  She made the imperial stone guardians that defend the Shrine's reliquary.
+* Lichdom gave her time to complete and tune the work, but eventually her arcanum poisoning made itself known; her mind and spirit increasingly wandered strange planes, and so she retreated here.
 
-12 skeleton archers: SZ M; AC 7; MV 120; HD 1; HP 8, 8, 7, 7, 6(x4), 5(x3), 4; #AT 1; Dmg 1-6 (short bow). Special defenses: immune to sleep, charm, hold, and cold; cutting and piercing 
+
+9 skeletal wights (see new monsters): SZ M; AL CE; AC 3; MV 120’; HD 6+3; HP 45, 45, 44, 44, 42(x3), 38, 37; #AT 1; Dmg 3-9. Special attacks: energy drain (also heals them 1d6+2). Special defenses: +1 or better weapons to hit; edged weapons do ½ damage; immune to sleep, charm, hold, poison, paralyzation and cold; turned as ghosts.  Aura of fear: save vs spells or flee 1d4 rounds (-2 from the number of them)
+* MR 40%
+
+6 skeleton archers: SZ M; AC 7; MV 120; HD 1; HP 8, 8, 7, 7, 6(x4), 5(x3), 4; #AT 1; Dmg 1-6 (short bow). Special defenses: immune to sleep, charm, hold, and cold; cutting and piercing 
 weapons do half damage; turned as shadows.
 
-Syagria Aitón, a lich: SZ M; AL N(E); AC 0; MV 60’; HD 11; HP 71; #AT 1; Dmg 1-10. Special attacks: fear, paralysis, magic use. Special defenses: +1 or better weapon to hit; immunity to charm, sleep, enfeeblement, polymorph, cold, electricity, insanity and death spells/symbols. She has cast contingency and globe of invulnerability, such that entrance into her hall by any outsider immediately triggers the contingency and then the globe. Possessions: amulet of protection from normal missiles (see new magic items); Syagria’s circlet (see new magic items); wand of magic missiles (80 charges). Memorized spells (as 19th-level magic user): comprehend languages, light, magic missile x2, sleep; darkness 15’ radius, ESP, invisibility, acid arrow, web; dispel magic x2, fireball, protection from good 10’ radius, slow; dimension door, black tentacles, fear, polymorph other, wall of ice; interposing hand, cloudkill, cone of cold, telekinesis, teleport; chain lightning, death spell, repulsion; monster summoning V, power word stun, teleport without error; clenched fist, maze, power word blind; time stop.
+6 skeleton mages: SZ M; AC 7; MV 120; HD 1; HP 8, 8, 7, 7, 6(x4), 5(x3), 4; #AT 1; Dmg 1-6 (short bow). Special defenses: immune to sleep, charm, hold, and cold; cutting and piercing 
+weapons do half damage; turned as shadows.
+* they are marked with runes, like "living" (undead) scrolls
+	* all cast magic missile at will
+	* dispel magic (3/day)
+	* cloudkill (1/day)
+	* confusion (1/day)
+	* power word stun (1/day)
+	* black tentacles (1/day)
+	* slow (1/day)
+* a bone can be taken from each that acts like a wand (1 charge, or 3 for dispel magic)
 
-Treasure:
-Nine circlets with large yellow corundum gems (3,000 gp each).Syagria’s circlet (see new magic items).
-
-Three valuable codices: Preparing for the Long Death, Planar Dwellers and their Powers, Mind over Blood (see Arden Vul books for all three).
+Syagria Aitón, a lich: SZ M; AL N(E); AC 0; MV 60’; HD 11; HP 71; #AT 1; Dmg 1-10. Special attacks: fear, paralysis, magic use. Special defenses: +1 or better weapon to hit; immunity to charm, sleep, enfeeblement, polymorph, cold, electricity, insanity and death spells/symbols. She has cast contingency and globe of invulnerability, such that entrance into her hall by any outsider immediately triggers the contingency and then the globe. Possessions: amulet of protection from normal missiles (see new magic items); Syagria’s circlet (see new magic items); wand of magic missiles (80 charges).
+* Memorized spells (as 19th-level magic user): comprehend languages, light, magic missile x2, sleep; darkness 15’ radius, ESP, invisibility, acid arrow, web; dispel magic x2, fireball, protection from good 10’ radius, slow; dimension door, black tentacles, fear, polymorph other, wall of ice; interposing hand, cloudkill, cone of cold, telekinesis, teleport; chain lightning, death spell, repulsion; monster summoning V, power word stun, teleport without error; clenched fist, maze, power word blind; time stop.
 
 ### 9-56: Lich’s Retreat
 
-This small chamber serves as the repository for Syagria’s treasure and her spell books. Three alabaster vases (50 gp each) hold coins: 31,197 ancient copper bits (see Arden Vul items), 24,521 ancient silver pennies (see Arden Vul items), 12,749 ancient gold solidi (see Arden Vul items), and 1,783 ancient octagonal platinum coins (see Arden Vul items). One of the vases also holds a yellow silk pouch containing a fiery yellow corundum (2,500 gp and two golden yellow topazes (600 gp each). A simple oak side table holds a potion of fire breath; a sword +2, dragon slayer; and a pair of eyes of petrification. A small oaken bookshelf holds her eleven spell books, plus a manual of puissant skill at arms and a tome of clear thought.
+* This small chamber serves as the repository for Syagria’s treasure, her laboratory, and her spell books.
+	* A simple oak side table holds:
+		* A potion of fire breath; a sword +2, dragon slayer; and a pair of eyes of petrification (cursed).
+		* A copy of the Twelve Labors of Arden
+			* Annotations describe translating them into Trials for the Shrine; what quirks resulted and what accommodations were made.
+		* A yellow silk pouch containing a fiery yellow corundum (2,500 gp and 2 golden yellow topazes (600 gp each).
+	* A small oaken bookshelf holds her 11 spell books, a manual of puissant skill at arms, and a tome of clear thought.
+
+* 2 alabaster vases (50 gp each)
+	* 1) 24,521 ancient silver pennies
+	* 2) 12,749 ancient gold solidi
 
 Syagria’s Spell Books (in eleven large volumes): All 1st level spells (inc. UA); all 2nd level spells (inc. UA); all 3rd level spells (inc. UA); all 4th-level spells (inc. UA); animate dead, avoidance, interposing hand, cloudkill, conjure elemental, cone of cold, contact other plane, dismissal, dolor, extension II, feeblemind, hold monster, secret chest, magic jar, monster 
 summoning III, passwall, stone shape, telekinesis, teleport, wall of force, wall of iron; forceful hand, chain lightning, contingency, death spell, disintegrate, enchant an item, geas, globe of invulnerability, invisible stalker, project image, reincarnation, repulsion, spiritwrack, stone to flesh; banishment, grasping hand, forcecage, mass invisibility, monster summoning V, power word stun, teleport without error, vanish, volley; clenched fist, demand, maze, permanency, power word blind, symbol; astral spell, power word kill, prismatic sphere, time stop.
@@ -2226,9 +2297,12 @@ Explosive Trap
 		* 2 rudishva at the south end behind the table.
 			* Platinum, silver and sky blue rudishva identity plaques.
 			* A yellow ‘captain’s card.  An operator’s card for the console in 9-89.
+			* Each wears a rudishva rebreather.
 			* 2 slagged laser rifles lie next to them.
 			* Fek-Prail is lying atop a satchel.
-				* 2 glassteel flasks (one with 3 quarts of centrifuged arcanum essence, one with 3 quarts of deuterium). These are necessary to operate the shuttle (see SL13-37B).
+				* A niravairi (rudishvan) molecular analyzer
+				* 2 glassteel flasks (one with 3 quarts of centrifuged arcanum essence, one with 3 quarts of deuterium).
+					* These are necessary to operate the shuttle (see SL13-37B).
 		* All are ancient but show signs of charring (energy weapons), the heqeti corpses are particularly badly charred.
 	* The corridor from 9-97 to 9-96 is trapped.
 		* An optical sensor unleashes a fiery blast (6d8, save for half) from a jury-rigged mining tool if it spots any non-rudishva, varumani, kaliyani or varuda.
