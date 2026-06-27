@@ -63,7 +63,9 @@ Realms, Rulers, and Runes
 	* quaint challenges and roundabout ways, paths deeper are hard to find, risk you'll never want to leave; murderous minions of the Queen of Spring Unending
 	* go there to seek rare reagents, healing / cleansing / peace, or wholesome magical crafts
 * Catland / Queen Abyssinia (and formerly King Pusskin) - cat's eye view of the world
-	* 
+	* cat's eye-view of a town
+	* musketeer-like dashing adventure against pompous birds and villainous rats
+	* go there to win treasures and favors from the queen and ladies of the court
 * Diuthurnia / Prince Mai-Fleur
 	* a wild hunter's paradise
 	* hunt beasts, face perils of the wild (weather, wild magics, etc)
@@ -96,7 +98,7 @@ Realms, Rulers, and Runes
 	- misty haunted woods and cliffs
 	* misdirection, thieving gloams and ravens, cruel frost elf hunts, wild beasts, storms and chill
 	* go there to parley with Mallowheart (against his brother, to obtain magical lore) or seek the raven's wisdom or stolen trinkets
-* Tallowspire / The Regent Hador 
+* Tallowspire / The Regent Hador
 	- endless baroque city and catacombs
 	* a puzzle of navigation: physical, law and intrigues.
 	* go there to seek patronage for art, or reward for service to the factions of heirs, to learn lore from the dead
@@ -129,6 +131,10 @@ Realms, Rulers, and Runes
 * Mythic Bastionland
 * Mausritter
 * cyclic dungeon generation
+
+* Red and Pleasant Land
+	* steal aspects for darker faerie realms?
+
 
 non-depthcrawls
 

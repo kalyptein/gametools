@@ -330,3 +330,35 @@ mounts and vehicles
 * porter (carry, dig, build)
 * teamster (handle pack animals, cargo, wagons, barges)
 * guard
+
+## Firearms
+
+* Only humans with the Black Powder Herald talent can use gunpowder within Dolmenwood, overcoming the ire of Faerie.
+
+* An attack roll of 1 indicates a misfire
+	* ???
+* Roll w/ +D in rain or wet conditions.  Failure indicates that your powder is wet.
+* Reload: a quick rest or 3 successful loading actions (DEX DC 12)
+* Gunpowder weapons count as iron vs Fey
+
+* Matchlock - needs a lit match
+* Wheellock - don't need to have a lit match
+
+Gunner's Supplies
+* powder, wadding, shot, match, etc to supply firearms
+* 1 slot
+* 0 / 10 supply
+	* spend 1 supply to refresh your use of firearms when they are exhausted (requires a Long Rest)
+	* can also use to build grenades?
+
+Arquebus
+* 2h, 3d8, 2x Near
+* Ignores armor (only DEX, magic) ???
+
+Pistol
+* 1h, 2d8, Near
+* Ignores armor (only DEX, magic) ???
+
+Grenade
+* Thrown Near, 3d6 w/in Close radius
+* 1 slot, Small

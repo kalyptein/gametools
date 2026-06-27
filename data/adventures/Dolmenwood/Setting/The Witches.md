@@ -21,6 +21,10 @@ Hedge Witches / Lay Sisters / Wise Women
 * they look to the more powerful witches for guidance, protection, and aid.  in return, they join rituals, trade herbs, and act as eyes and ears
 
 
+Witches from outside Dolmenwood are not part of the Fourfold Coven (the witches of Dolmenwood, under the authority of the four High Priestesses of the directions and the Queen of All Witches).  The pacts between witches and drune do not apply to outsider witches.
+
+
 Named Witches
 
 start at entry 34 of 328, searching "witch" in the campaign book
+

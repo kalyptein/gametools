@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Overview.md",
+                "file": "Characters/Equipment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Overview"
+              "title": "Equipment"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Faerie/Catland -.md",
+                "file": "Setting/Faerie/Hypnagogia -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Catland -"
+              "title": "Hypnagogia -"
             }
           },
           {
@@ -202,7 +202,7 @@
             }
           },
           {
-            "id": "d7200342f27f08ee",
+            "id": "467cd8440ef6b7ed",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -292,7 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,19 +307,24 @@
   },
   "active": "7a993a3b48a3d6be",
   "lastOpenFiles": [
-    "Magic/Holy Magic.md",
+    "Setting/Faerie/Frigia -.md",
     "Magic/Arcane Magic.md",
-    "Characters/Classes/Magician.md",
+    "Setting/The Witches.md",
+    "TODO.md",
+    "Setting/Faerie/Faerie Realms.md",
+    "Setting/Faerie/Hypnagogia -.md",
+    "Setting/Faerie/Catland.md",
+    "Characters/Equipment.md",
     "Magic/Magic Overview.md",
+    "Characters/Classes/Enchanter.md",
+    "Rules/Harm, Recovery, and Conditions.md",
+    "Magic/Holy Magic.md",
+    "Characters/Classes/Magician.md",
     "Rules/Combat.md",
     "Characters/Character Basics.md",
     "Characters/Classes/Friar.md",
-    "Characters/Equipment.md",
     "Characters/Classes/Rogue.md",
-    "Setting/Faerie/Faerie Realms.md",
-    "Setting/Faerie/Frigia -.md",
     "Setting/Sites/Summer's Table.md",
-    "Setting/Faerie/Catland -.md",
     "Setting/Faerie/Everborne.md",
     "Setting/Faerie/Absynthe.md",
     "Setting/Faerie/Lampwrack.md",
@@ -328,11 +333,6 @@
     "Setting/Faerie/Diuthurnia.md",
     "Magic/Faerie Magic.md",
     "Setting/Faerie/Goblintown -.md",
-    "Setting/Faerie/Tallowspire.md",
-    "Setting/Faerie/Whyforth -.md",
-    "Setting/Faerie/The Baths of Astralon.md",
-    "Setting/Faerie/The Gardens of Ynn.md",
-    "Setting/Faerie/Gloomhold.md",
     "Setting/Sites",
     "Untitled.base",
     "Maps/Dolmenwood_Referee_Map_Pack/Dolmenwood VTT Hex Map Settlements.png",

@@ -23,6 +23,30 @@ Murquine Palace: The palace of Queen Abyssinia: a palazzo of some fantastic prop
 * King Pusskin’s presence is felt around the town of Lankshorn (hexes 0609, 0610, 0710, 0711, 0712, 0809, 0810, 0811, 0910, 0911), manifesting as a series of odd by-laws and taboos that, if not respected, bring down his wrath.
 
 
+0711 King Pusskin's Road
+* Roadside Shrine: offerings must be left of travelers will feel Pusskin's ire.
+
+
+
+core concept brainstorming
+* why did Pusskin leave?
+	* he got sick of Abyssinia's bullshit?  he was the eternal winner, the top-cat, but he could never rest on his laurels or feel secure or just enjoy his status and his woman, she kept rug-pulling and challenging him.  finally he struck out to just enjoy life on the road.
+* why did Abyssinia turn her back on the Cold Prince?
+* factions
+	* heroic scoundrel cats
+	* buffoonish merchant rabbits, voles, etc to be relieved of their goods and play pranks on
+	* villainous rats, trying to conquer the town from the cats
+	* pompous and arrogant bird lords and ladies to be put in their place
+		* their hawk-princes as the worse, dire foes, worthy of the greatest cats to battle
+	* bumbling human-giants to trick and mock, but also sometimes kindly and worthy of feline affection and small gifts (which they always really appreciate)
+	* terrible ogre-dogs to be evaded and defeated
+	* animal-like mice and fish to hunt and catch
+* Abyssinia is always fickle in her affections and favor, all her tom-knights compete to impress her
+	* she is always doling out quests and challenges for them to compete over
+	* her lady-cats in waiting play similar games with smaller harems; they also lead packs of kitten around, posing games and generally keeping them riled up and running about, but also protecting them and bestowing rewards for fine deeds
+
+
+
 ## Faces
 
 * Ruler(s)

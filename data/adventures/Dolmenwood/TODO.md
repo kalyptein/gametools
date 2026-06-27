@@ -9,6 +9,19 @@ other bestiaries suitable to Dolmenwood
 * the monster overhaul
 * a book of beasts
 * letters from the dark (various issues)
+* Petty Gods (might have some good ideas for faerie lords or wood god-like beings)
+
+
+* Add St Ydris to Dolmenwood
+	* a cursed knight-saint holding a demon (or fallen angel?) bound within himself
+		* he can be questioned as an unfriendly, tricksy oracle, but it knows much (especially about the Nag-Lord)
+	* place their castle somewhere
+	* they are a secret society, avoiding the notice of most of the church, drune, and witches?
+	* 
+	* does this overlap too much with Saint Clewyd being fused to the scarlet unicorn?
+		* Could Saint Clewyd replace Saint Ydris?
+
+
 
 
 
@@ -129,16 +142,33 @@ Finding Manifestations to Commune With
 
 Things to add to Dolmenwood?
 
-* Dolmenwood Dozen - small dungeons pdf
+Definitely
+* Dolmenwood adventures
+	* Summer's End, Emelda's Song, the Fungus that Came to Blackeswell, Winter's Daughter, Ruined Abbey of St Clewyd
+	* Dolmenwood Dozen - small dungeons pdf
+* Hole in the Oak, Incandescent Grotto
 * The Yellow Book of Brechewold
+	* select locations
+* Lost Citadel of the Scarlet Minotaur (starter module in Shadowdark GM quickstart)
+	* roman cult of Mithras? a greedy warlord "blessed" by the Nag-Lord?
+* Cursed Scroll #1
+	* various hexes from the Gloaming
+	* maybe other cursed scrolls as well?  some of 3? 4? 5?
+* Summer's End adventures
+
+Maybe?
 * Waking of Willowby Hall
-* The Black Wyrn of Brandonsford
+* The Black Wyrm of Brandonsford
 * Castle Xyntillan
+	* put in the north tablelands, on the way to Lyonesse?  devotees of the Flayed Queen?  de-Frenchify it?
+* Plangent Mage
+	* put in Lyonesse?
+* The Valley of Flowers
+	* Lyonesse?
+* 
 * Hunters in Death
 * Questing Beast shorts?
 * Dungeon of Signs shorts?
-* Hole in the Oak, Incandescent Grotto
-* Plangent Mage
 * Sepulchre of Seven
 * Trilemma Adventures shorts?
 * Wyvern Songs
@@ -147,8 +177,4 @@ Things to add to Dolmenwood?
 * Tomb of the Whispering Worms
 * Tombs of Lady Ingrade
 * The Toxic Wood (change the shadow lords to malign faerie, put this on the edge of dolmenwood, maybe on the mulchgrove side)
-* Lost Citadel of the Scarlet Minotaur (starter module in Shadowdark GM quickstart)
-	* roman cult of Mithras? or a greedy warlord "bl;essed" by the Nag-Lord?
-* 
-* Petty Gods (might have some good ideas for faerie lords or wood god-like beings)
 

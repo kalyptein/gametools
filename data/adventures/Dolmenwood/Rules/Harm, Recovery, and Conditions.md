@@ -161,7 +161,12 @@ Falling
 * Take 1d6 damage per 10' fallen, with 6's exploding into d6-1 (further exploding on 6's).
 	* Each size below Medium, a creature reduces the die size used by 1 step (d4 for Small, d2 for Tiny).  Each size above Medium, increase the dice size 1 step (d8 for Large, d10 for Huge, d12 for Gargantuan, and d20 for Colossal).
 * You can intentionally drop 10' safely.
-* If you are sliding on a slope, able to grasp at handholds, or landing on a somewhat forgiving surface, you can resist with DEX to break your fall and take half damage.
+* If you are sliding on a slope, able to grasp at handholds, or landing on a somewhat forgiving surface, you can resist with DEX to break your fall and take half damage (half the number of dice, rounding down).
+* 
+* On fall damage, rolling three or more dice with 6+ indicates a bad landing.  Drop to 0 hp.
+	* 
+	* For Small and Tiny creatures, (how to get this effect out of d4 and d2?)
+
 
 Suffocation / Drowning
 * After a Brief Rest, heal 75% of HP lost to suffocation.  The rest becomes normal damage.

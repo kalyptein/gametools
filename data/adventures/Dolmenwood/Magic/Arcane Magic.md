@@ -36,7 +36,11 @@ Hermeticism & Wizards
 
 * An arcane caster can cast spells of Tier <= (Level+1) / 2, rounding down.
 
-* The caster focuses their mind while chanting and making arcane gestures (must have at least one hand free or holding an implement such as a wand).
+* An arcane caster must have an arcane implement:
+	* A wand or staff (doesn't need to relate to the spell being cast)
+	* Arcane paraphernalia (pouch of reagents, talismans, etc)
+	* A quick and dirty ritual setup (1 minute of work with common herbs, sketched glyphs, candles, etc)
+* The caster focuses their mind while chanting clearly and making arcane gestures with at least one free hand (which may be manipulating the implement).
 	* This is complex enough that it Provokes.
 * Roll INT DC (10 + Tier).
 	* Crit: the spell is cast and you may double one of the spell’s numerical effects (damage dice, range, area, duration) or gain +A to its Focus rolls.
@@ -920,6 +924,17 @@ lich 13
 ### Tier 5 *
 ---
 
+Anathema
+* T5, 1 day, A Close person
+* The target's allies revile and abandon them.
+	* Each time you or your allies harm the target, its former allies may resist with Wisdom DC 15 to end the effects of the spell.
+
+Antimagic Shell
+* T5, Focus (1 minute), Self
+* An invisible, near-sized cube of null-magic appears centered on and moving with you.
+	* Within the cube, arcane and faerie magic does not function.  Spells and powers cannot be cast, and existing enchantments are suppressed.  External effects are hedged out and suppressed.
+	* It can't be dispelled by arcane or faerie magic, and is unaffected by other antimagic zones.
+
 Contact Other Plane
 * T5, Ritual (1d6 Turns, 1000 gp Ishwagrande dust), Limited (1 week), Self
 * Inhaling the smoke of the burning dust, your mind contacts the cosmic realms.
@@ -968,56 +983,53 @@ Disintegrate
 * A green ray shoots from your finger.  A corporeal creature whose resistance is overcome, or mundane matter up to Close radius, instantly turns to dust.  Targets that resist take 3d8.
 	* P [6] vs R [Level+CON]
 
+Dweomerfire
+* T5, Focus (round), Targets in a Near area within twice Near
+* Prismatic fire sheaths any arcane or faerie enchantment, magic item, or caster within the area (does not affect creatures that simply have a magical nature).
+	* The flame deals 1d6 fire to anyone in contact with its source.
+	* Spells cast by a burning caster have DC 18 to cast.  If it fails, the spell combusts, dealing (Tier)d6 to the caster and becoming Exhausted.
+
+Earthquake
+* T5, 1 round. The ground within twice Near of you
+* The earth shakes violently and splits open.
+	* All creatures (save yourself) and structures on the ground take 4d6 damage.  Creatures of Level 9 or less still in the area at the end of their round must resist with DEX DC (damage taken) or be swallowed by the earth, never to be seen again.
+
 Edict
 * T5, Instant
 * You call upon a named being of great power (demigod, faerie lord, etc) to reshape the world as you command (as interpreted by the DM).  It must possess suitable power over the aspect of the world you wish to change.
 	* A failed casting causes the being to impose a geas upon you.  You cannot cast this spell again until you have fulfilled its demand.
 
+Move Terrain
+* T5, 1 hour, Focus (total), A single mundane terrain feature (up to a Far area) within twice Far
+* The land bulges and warps as the terrain feature (a hill, ridge, grove, pool, etc) shifts up to twice Near every 10 minutes (roughly Close every minute).
+	* You require total concentration while moving the feature, but can stop and resume freely.
+	* Buildings or creatures on the terrain move with it.  The feature and surrounding terrain distort to accommodate each other non-destructively.
+	* Worked stone cannot be reshaped, but can be moved in one piece.
+
 Permanence
-* T5, Casting (1000 gp of diamond dust), a year and a day, A Close object
+* T5, Casting (1,000 gp of diamond dust), a year and a day, A Close object
 * You sprinkle the diamond dust on an object that is created by / under the effects of a spell you cast and its duration becomes a year and a day.
 	* You can no longer manipulate the spell's effects (e.g. you can't move an object lifted with Telekinesis, it is now fixed in place).
+
+Petrification
+* T5, Permanent, Dangerous (roll mishap w/ +D), A Nearby material creature
+* The target is turned to stone.
+	* P [9] vs R [Level]
+	* You may link this spell to your own lifeforce.  The range become Close, and it can affect any Level of target.  You are also turned to stone.  Restoring either of you breaks the spell and restores both.
+* You can cast this in reverse to unpetrify a target.
 
 Prismatic Orb
 * T5, Instant, Far
 * You send a strobing orb of energy streaking toward a target.  Choose an energy type: fire, cold, electricity, acid, thunder.  The orb deals 3d8 damage of that type.
 
-
-
-* finger of death (cs 1) / power word kill (sd)
-	* abjure (cs 6) - make this a special use of the death spell; Close range touch, no level cap, you die and they die
-	* replaces Word of Doom (dol 6)
-* petrification (dol 6)
-	* saved or die, lvl 9 or lower, basically finger of death
-* baleful polymorph
-	* saved or die, lvl 9 or lower, basically finger of death
-* soul jar (if I make it 1 action to cast, is also a save or die spell?)
-
-* with these insta-kill / banish / save or suck spells...
-	* a failed casting at a given target renders them immune to your casting of that spell for 1 day, even if you're able to keep casting (i.e. you haven't cast it successfully once this day yet).  in RAW, a failed cast would mean no further use, so you couldn't keep trying
-
-* Dweomerfire (dol) (suffer 1d6 dmg per tier of spells cast, Focus (round), subjects in Close, Near; magic items wreathed in fire, d6 to touch, casters take dmg = highest unexhausted spell tier each round)
-
-do I want either of these?
-* feeblemind / feeblemind 5 (cs 5)
-* enfeeble (cs 1)
-
-
-
-
 Scrying
-* T5, Focus (10 minutes), A Close reflecting surface (mirror, pool, crystal ball)
-* You conjure the living image of a distant place, anywhere within the same plane, into the reflecting surface.
+* T5, Focus (10 minutes), A Close reflecting surface
+* You conjure the living image of a distant place, anywhere within the same plane, into the reflecting surface (mirror, pool, crystal ball).
 	* You can see and hear as if present at that location.
-
-can we zoom / move?
-
-For the spell's duration, you can see and hear a creature or location you choose that is on the same plane.
-
-This spell is DC 18 to cast if you try to scry on a creature or location that is unfamiliar to you.
-
-Each round, creatures you view may make a Wisdom check vs. your last spellcasting check. On 
-a success, they become aware of your magical observation.
+	* You may target a person (following them as they move) or a place (remaining fixed).
+		* Each time you Focus (and you may Focus at will, if desired), you can move your viewpoint to a place you can see.
+	* If the target is unfamiliar to you (never seen in person, and for people, not knowing their name or title), casting is DC 18.
+	* Each time you Focus, creatures in the area may roll WIS DC (your last casting check) to notice your observation.
 
 
 
@@ -1038,6 +1050,12 @@ Value: The receptacle must be worth at least 1,000gp per Level of the intended s
 Name: The subject’s name must be engraved on the receptacle. If the subject uses multiple names, their primary name (as judged by the Referee) must be used.
 Trapped soul: After Trap the Soul has been cast, an image of the trapped creature’s face flits across the surface of the receptacle. The trapped creature may be conversed with.
 
+* soul jar (if I make it 1 action to cast, is also a save or die spell?)
+* with these insta-kill / banish / save or suck spells...
+	* a failed casting at a given target renders them immune to your casting of that spell for 1 day, even if you're able to keep casting (i.e. you haven't cast it successfully once this day yet).  in RAW, a failed cast would mean no further use, so you couldn't keep trying
+
+
+
 Summoning
 * T5, Focus (10 min or when injured), Near
 * You call for an arcane being (elemental, demon) of Level 7 or lower (or multiple beings whose Levels sum to 7).  It obeys your commands, acting on your turn.
@@ -1049,28 +1067,17 @@ Summoning
 
 
 
-
 * Dol 5
-	* Mire
+	* Mire (rock to mud)
 	* ??? Wall of Stone
 * Dol 6
 	* Geas
-	* Move Terrain
 	* Project Image
 	* Wave of Force
 * Shadowdark
-	* antimagic shell / Anti-Magic Ward 6
 	* hold monster
-* CS 1
-	* anathema
-* CS 4
-	* earthquake (cs 4)
-* necromancer
-	* anchor in death
 
 
-consider using necromancer's Fifth Gate for the cleric Inviolable spell (based on World Tree)
-* merge?
 
 
 novel
