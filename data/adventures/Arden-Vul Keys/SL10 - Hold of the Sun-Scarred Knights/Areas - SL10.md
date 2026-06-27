@@ -109,6 +109,7 @@ Access and Egress
 * A 15’-long, heavy stone table occupies the center of this undecorated room.
 	* 16 cylindrical stone ‘stools’ surround it.
 	* A sunburst motif is engraved in the center of the table.
+
 * The Sun-Scarred Knights use this chamber on the extremely rare occasions they agree to meet with those not of their sept.
 	* Three knights, with varlets, form the negotiating party; they discuss matters here, but do not invite visitors within the Citadel.
 
@@ -127,53 +128,51 @@ Access and Egress
 
 Lellagalon Begelsson, 5th-level male elf fighter: SZ M; AL CG; AC 3; MV 60’; HD 5; HP 37; #AT 1; Dmg by weapon. Abilities: STR 14, INT 16, WIS 10, DEX 15, CON 11, CHA 16. Possessions: splint mail; purse with six large gold coins (10 gp each); a carved oak ring.
 
-#### SL10A-5: Test of Justice
+#### SL10A-5: Test of Governance (formerly Justice)
 
 * This hall is one of the pair of testing chambers in which postulants to the sept of Sun-Scarred Knights undergo basic personality tests.
 	* Most of the tests are oral and customary, but the hall also has a fixed, quasi-ceremonial test that postulants must pass. 
 * The floor of this 15’-tall hall is one enormous mosaic, depicting scenes of judging, justice, and execution.
 	* A double row of columns surrounds a 10’ white marble statue facing the east wall.
 		* It depicts a sun-scarred knight, with gothic armor and circlet of command, sitting in a chair holding a huge broadsword horizontally on his lap.
-		* At his feet is a 3'-wide marble bowl containing three spheres of highly polished red porphyry, each 1" in diameter.
-		* The plinth reads: “A knight must dispense justice.”
-	* Against the north wall are three stations, each a 10’ x 3’ x 4’ stone block with a 6’-tall high relief sculpture, and below the inscription (Mithric) “Is this Justice?” and a semi-circular indentation 1’ in diameter.
-			* First Station: the sculpture shows a knight averting his eyes as the starving girl and her child eat an obviously stolen loaf of bread. The gaol is empty, and the baker, who is clamoring in the background, is ignored. 
-			* Second Station: the sculpture shows a knight closing a gaol door upon the mother and child while handing a loaf of bread to the baker; the baker smiles in satisfaction.
-			* Third Station: the sculpture shows a knight closing the gaol door upon the mother, while delivering a chained and downcast child and the loaf of bread into the hands of the baker, who is rubbing his hands with pleasure.
+		* At his feet is a 3'-wide marble bowl containing a 1" sphere of polished red porphyry.
+		* The plinth reads: “A knight forges the kingdom.”
+	* Against the north wall are 3 stone blocks (10’x3’x4’) with a 6’-tall high relief sculpture and a 1" semi-circular indentation.
+		* Behind / above them, a carving shows a band of settlers of many folk gazing over a new and fertile land.
+		* First Station: an orderly kingdom: an enthroned ruler, knights hailing him in ranks, magistrates, councils debating, bureaucrats, common folk working industriously. 
+		* Second Station: a chaotic, vibrant mess: many kinds of folk, arguing, fighting, trading, exploring, building, hunting, farming, etc.
+		* Third Station: a violent clash: warriors ride to glory and plunder, enemies are crushed, warriors hail their conquering leaders.
 
-The Test of Justice
+The Test of Governance
 * The test is activated by removing one of the porphyry orbs from the bowl.
-* The statue loudly intones (Archontean, Thorcin, Goblin, Elvish, Dwarvish)
-	* “A knight must dispense justice. Consider the following, and make your choice. The young mother had no other family, and she and her child were starving. Despite knowing the law, she stole bread from the local baker. What should be her fate?”
 * One places a red porphyry stone in the receptacle of the station matching their answer.
-	* The correct answer for the Sun-Scarred Knights is the middle choice (jailing the mother and child for their crime).
-	* The first station does not represent justice, in the Lawful Neutral eyes of the Order, because the baker has been wronged.
-	* The third station, in which the baker is rewarded with the child as apprentice/slave, is also not justice as it reflects excessive punishment.
-* Passing the Test of Justice causes the eastern Sword Bridge (SL10A-11) to rotate 90-degrees for six turns, allowing passage to the Sun Rock (SL10A-12).
-	* Choosing the wrong option causes the magic mouth to intone: “You fail to understand justice. Depart!” The test becomes unavailable for three days.
+	* The correct answer for the Sun-Scarred Knights is the middle choice (chaotic but vibrant, the Prosperity of the Eternal Now).
+	* The first station represents a fragile order, which has failed twice before, almost to the ruin of all.
+	* The third station, represents the breakdown of all order which the knights strive to prevent.
+* Passing the Test of Justice causes the western Sword Bridge (SL10A-11) to rotate 90-degrees for six turns, allowing passage to the Sun Rock (SL10A-12).
+	* Choosing the wrong option causes the magic mouth to intone: “You fail to understand true governance. Depart!” The test becomes unavailable for 3 days.
 
 #### SL10A-6: Test of Fidelity
 
-This hall is one of the pair of testing chambers in which postulants to the sept of Sun-Scarred Knights are inspected for their moral and personality suitability for the varletry.
+* This hall is one of the pair of testing chambers in which postulants to the sept of Sun-Scarred Knights are inspected for their moral and personality suitability for the varletry.
 	* Most of the tests are oral and customary, but the hall also has a fixed, quasi-ceremonial test that postulants must pass. 
 * The floor of this 15’-tall hall is one enormous mosaic, depicting scenes of loyalty.
 	* A double row of columns surrounds a 10’ white marble statue facing the west wall.
 		* It depicts a sun-scarred knight, with gothic armor and circlet of command, kneeling before a standing cloaked figure.  The cloaked figure clasps his hands around the palms of the knight, who gazes up into the figure’s face.
-		* At his feet is a 3'-wide marble bowl containing three spheres of highly polished black porphyry, each 1" in diameter.
-		* The plinth reads: “A knight must remain faithful.”
-	* Against the north wall are three stations, each a 10’ x 3’ x 4’ stone block with a 6’-tall high relief sculpture, and below the inscription (Mithric) “Is this Fidelity?” and a semi-circular indentation 1" in diameter.
-		* First Station: two merchants of equal stature stand together before a circle of Factor leaders. The two present a large bag of coins to the circle as one.
-		* Second Station: one merchant delivers a large bag of coins to a circle of factor leaders. The other merchant sits in the gutter outside the factor hall, tearing his hair out. 
-		* Third Station: on the left, one merchant presents a small bag of coins to the second, who is begging for aid. On the right, the pair then appear before the circle of factor leaders; one stands tall and presents a large bag of coins, while the other kneels and presents a small bag of coins.
+		* At his feet is a 3'-wide marble bowl containing a 1" sphere of polished black porphyry.
+		* The plinth reads: “A knight remains faithful.”
+	* Against the north wall are 3 stone blocks (10’x3’x4’) with a 6’-tall high relief sculpture, and a semi-circular indentation 1" in diameter.
+		* Behind / above them, a carving shows two knights battling a terrible monster.  One is struck down and the other beheads the beast.
+		* First Station: the two knights stand before their peers, hefting the head between them.
+		* Second Station: the slayer presents the head; outside the chamber other knight sits downcast.
+		* Third Station: the slayer presents the head, with the other knight standing a pace behind him.
 
 The Test of Fidelity
 * The test is activated by removing one of the porphyry orbs from the bowl.
-* The statue loudly intones (Archontean, Thorcin, Goblin, Elvish, Dwarvish)
-	* “A knight must be faithful. Consider the following, and make your choice. Two merchants in the same factor journey together to a city. One is successful in trading, the other is not. How does the successful merchant act when they return home?”
 * One places a black porphyry stone in the receptacle of the station matching their answer.
-	* The correct answer for the Sun-Scarred Knights is the first station, in which the solidarity of the group is affirmed when the successful merchant supports the unsuccessful one before their peers.
-* Passing the Test of Fidelity causes the western Sword Bridge (SL10A-11) to rotate 90-degrees for six turns, allowing passage to the Sun Rock (SL10A-12).
-	* Choosing the wrong option causes the magic mouth to intone: “You fail to understand fidelity. Depart!” The test becomes unavailable for three days.
+	* The correct answer for the Sun-Scarred Knights is the first station, in which the solidarity of the group is affirmed when the successful knight shares full credit with  the unsuccessful one before their peers.
+* Passing the Test of Fidelity causes the eastern Sword Bridge (SL10A-11) to rotate 90-degrees for six turns, allowing passage to the Sun Rock (SL10A-12).
+	* Choosing the wrong option causes the magic mouth to intone: “You fail to understand fidelity. Depart!” The test becomes unavailable for 3 days.
 
 #### SL10A-7: Great Cavern
 
@@ -284,6 +283,7 @@ GM Note: this is the body of Drusion, a postulant for admission to the Order of 
 		* Each has a silvered-metal floor and a square plate of silvered metal on the wall; a socket allows technological items to be ‘plugged into’ the wall. 
 			* The eastern niche is empty.
 			* The western niche holds an active rudishva military-grade security construct named Ranke (new). 
+
 * Ranke maintains a resting state until anyone passes her post.
 	* She instantly attacks those who fail to clearly state the password (“Sunshine”).
 	* Though well-preserved and still lethal, she has lost a few of her original functions.
@@ -305,9 +305,10 @@ Ranke, rudishva military-grade security construct: SZ M; AL N; AC 0, MV 120’; 
 * Carved out of the naked granite, this large hall features a sand floor and bright magical light from a half-dozen continual lights attached to the walls. 
 	* Along the north wall are various racks for martial training equipment.
 		* Four suits of man-sized leather armor, jo- and bo-sticks, a rack of spears, 3 two-handed swords, 6 broad swords, and 1d6 other miscellaneous weapons.
+
 	* A decrepit rudishva security construct (varumani tactical advisor, new) presides over the training hall. 
 		* It is affectionately called Stink by the knights and varlets, for the sharp odor emitted by his slightly rancid biological components.
-		* Stink knows three dozen training routines, with or without weapons, and is one reason for the knights’ formidable combat prowess. 
+		* Stink knows 3 dozen training routines, with or without weapons, and is one reason for the knights’ formidable combat prowess. 
 		* Stink aids any knight or varlet who calls for his assistance in combat (e.g. in a general melée at SL10A-16), but he is not inherently hostile to non-knights. 
 		* If encountered without knights or varlets, he offers to ‘pump up’ the skills of any looking warriors, and can serve as a trainer for fighters up to 10th level.
 	* Currently one knight and two varlets are training with Stink.
@@ -398,7 +399,7 @@ Sir Hegemon (50%), the Sun-Scarred Knight (see new monsters), 12th-level female 
 	* A pair of floor-standing globes, copper with colored glass tiles, stand at either end of the column of tables.
 		* One depicts Magae (the world of Archontos)
 			* It is based on a rudishva orbital scan (taken from the shuttle early on), and has details and precision beyond imperials maps, including parts of the world with which the empire is unfamiliar (10,000 gp to the empire).
-			* The other globe depicts the rudishva homeworld.
+		* The other globe depicts the rudishva homeworld.
 	* Ten wooden bookshelves stand against the flat sections of the walls.
 		* The library stacks are filled with hundreds of volumes that the knights either appropriated, copied, or were gifted over the centuries.
 		* Includes copies of every work listed in the Arden Vul books appendix (except those that are autograph originals, e.g. Kel Bormol’s Chess Diary) and many others at the GM’s discretion.
@@ -530,7 +531,6 @@ corrosive to metal. Special defenses: healed by electricity or lasers; slowed by
 		* Sixteen copper pins have been inserted into the granite, each dangling a black silk ribbon.  Four of the ribbons are tied around pieces of rolled parchment. 
 			* The parchments are petitions submitted by four of the knights to the Master, following ancient ritual.
 	* In the center of the chamber is a wooden tripod supporting a bronze bell; a copper striker attached to the frame by a cord.
-		* Beside it is an open chest filled with rudishva jumpsuits of various colors.
 		* If rung multiple times, the knights will assume it means a convocation, and will gather in SL10B; the failure of the Master to appear serves to alert them to the presence of intruders in the Sanctum.
 		* If rung once, a random knight will appear in 3-6 turns to collect the master’s reply; when it is not to be found, he/she will immediately raise the alarm.
 

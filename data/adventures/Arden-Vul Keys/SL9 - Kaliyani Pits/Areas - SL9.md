@@ -259,6 +259,7 @@ shields. Of the eight, two are females who fight as 1 HD creatures.
 	* They warriors have 3 ‘sleds’ for use on the mud flats.
 		* Made from the shells of some unknown creature (4’ x 2’), with ropes for pulling or dragging.
 		* The elite warriors can ‘swim’ quickly through the mud and hurl themselves forward on their sleds, allowing them to close distances to enemies with surprising speed.
+
 * The elite warriors are cocky and aggressive, even to proven friends of the Lagrok tribe, eager to fight all comers.
 	* They will take risks regular lizardmen might not.
 	* They are quick to support Chief Graalk (SL9-27) if combat breaks out in his hall.
@@ -330,6 +331,7 @@ Spriviv, 7th-level kaliyani scout (see new monsters), as a 7th-level thief: SZ M
 
 * This outcropping is barely 5’ in diameter and rises only 10’ above the level of the lake.
 	* Its surface is mostly taken up by a complex web of iron posts and rope guy-lines that support the two rope bridges (to SL9-28 and SL9- 24).
+
 * 25% chance 2 lizardmen are present, using drop lines to fish for crab and fish.
 	* If present, they step away every time the geyser at SL9-23 erupts, spraying the area with hot water (1d6 fire to creatures on the outcropping).
 
@@ -397,8 +399,10 @@ Prisp, 3rd/2nd-level lizardman witch doctor: SZ M; AL LE; AC 5; MV 60’, 120’
 	* The west wall is covered by a 10’-tall high relief sculpture.
 		* It shows four worm-like tentacles protruding from the wall and hovering over a shell-like basin. Originally a fountain, it ceased working years ago. Chief Nisslok fills the basin with water from the mineral lake (SL9-21). 
 	* Furnishings include 2 tripods of heating (new), 2 tattered Archontean carpets showing the coronation of two emperors (45 gp each), and Nisslok’s stone throne set against the north wall.
+
 * Nisslok’s harem is busy skinning alive a captured Skreel lizard-man (c.f. SL5) in preparation for a feast.
 
+Nisslok
 * Nisslok is proud, aggressive, and unhappy about the kaliyani domination of his people.
 	* Likely to try to kill and devour most adventuring parties, a very strong one might be able to negotiate with him, especially if they offered assistance versus the Skreel (on SL5) and the kaliyani. 
 	* He is always accompanied by 3 aggressive females, 3 elite warriors, and a kaliyani advisor. Combat sounds bring reinforcements from SL9-17, SL9-25, and SL9-26.
@@ -572,6 +576,7 @@ Special attacks: surprise on 1-4; one tentacle drains spells from casters, addin
 * A strange semi-circular hut, 9’ tall, is wedged against the southwest side of the central pillar rising amid these ledges.
 	* It is made of a framework of bone with pieces of particolored leather from lizardmen and giant lizards stretched over it, spotted with mud from the mudpots that occasionally erupt nearby.
 	* Peep holes allow a good view of areas to the northwest, southwest, and southeast.
+
 * A pair of kaliyani soldiers crouch within the hut, tasked to watch over the approaches to SL9-51 and SL9-59.
 	* They are unhappy with their assignment and take any opportunity to depart.
 	* If imposing-looking foes approach, 75% chance they push down the walls of their hut, and launch on their mud skis (av items), hightailing to SL9-59 to report the intruders.  If closely followed, they stop at SL9-59 to fight, having strict orders not to reveal which is the true door into the Pits.
@@ -620,6 +625,8 @@ absorbs 50 HP of laser or physical projectiles before collapsing.
 		* six pieces of colored glass strung together as a mobile (to hang from a ceiling)
 		* a set of rudishva hand tools (screwdrivers, wirecutter, laser level, laser measure, etc.)
 		* a 3’ segment of mud worm vertebrae 
+
+??? forgotten bit of old text?  no idea what this is supposed to be
 * On the east wall is a strange pulsating purple light, emitted from a 3”-diameter rod suspended vertically between two plates that protrude from the wall. 
 
 ### SL9-46: Rudishva Science Station: Main Hall
@@ -638,7 +645,7 @@ absorbs 50 HP of laser or physical projectiles before collapsing.
 			* Mixed in with the bone are bits of fabric and broken equipment.
 		* Crouching inert at the center of the pile is a stone nataraja (a rudishva animated construct).
 			* Programmed by Cliv-Nol (SL9-44) to defend the chamber against all non-rudishva, the it did its part and waits for further foes.  It leaps from within the pile of bones as soon as any entity approaches within 5’.
-	* a long table with attached benches to the south
+	* A long table with attached benches to the south.
 	* The southern end of the hall is dominated by a 15’-long, 5’-wide white plasteel table.
 		* At one end is bolted a Nutri-vore 2500 food-and-drink dispenser (tech). 
 	* The west wall has an empty niche where the stone nataraja formerly crouched.
@@ -710,8 +717,9 @@ defenses: +1 or better weapons to hit; immune to cold, fire, electricity, poison
 					* The Case for Action: the kaliyani have learned the rudishva shuttle is ready.  With research on their condition stalled, they suspect the rudishva are either witholding the cure, or will return with reinforcements of their people and depart, abandoning the kaliyani.  They plan to ally with the heqeti and take the research and tools in the chaos.
 					* The Life and Deeds of Rekkarev: as written, but Spiv-Kol also talks about working with Rekkarev to develop the kaliyani refreshing liquid to improve their health and fertility; just a step along the path to a true cure.
 	* East is a niche, in front of which are the shattered pieces of a destroyed stone nataraja (new).
+
 * 3 kaliyani soldiers are posted here, guarding the approaches to the teleportal (SL9-53).  
-	* They avoid from the fiery veil at SL9-50, but fight fiercely to defend this historic site.
+	* They avoid the fiery veil at SL9-50, but fight fiercely to defend this historic site.
 
 * GM Notes: This area was used by the kaliyani in antiquity as a staging area after their successful revolt against the rudishva and before they departed for the underearth. 
 
@@ -722,9 +730,10 @@ defenses: immune to poison and mind-affecting spells. Special: infravision. Poss
 
 * Two of the three lobes of this small area once held rudishva teleport niches.
 	* The western teleport circle has been literally ripped from the floor, the silver disk broken into fragments.
-	* The northern niche is operative.  It shows signs of repair (by the modern kaliyani).
-		* T23: access to area 6-32
-		* Connectivity is a bit dodgy (15% chance to fail: teleporter unusable for 1d4 turns; all within the silvered circle save versus breath or take 4d6 electric).
+	* The northern niche is operative.
+		* T23: access to 6-32
+		* It shows signs of repair (by the modern kaliyani).
+			* Connectivity is a bit dodgy (15% teleporter unusable for 1d4 turns and all within the silvered circle save versus breath or take 4d6 electric).
 	* The iris door to the east opens to orange, silver, or yellow identity plaques.
 		* The corridor that linked to further kaliyani areas and the science station was destroyed during the rebellion against the rudishva.
 
@@ -854,14 +863,15 @@ Testareon, 4th-level male Archontean magic user: SZ M; AL NE; AC 10; MV 120’; 
 * This long, undecorated corridor allows the kaliyani to inflict damage upon enemies assaulting the great wall (SL9-59).
 	* It runs above all 4 entrance corridors; murder holes above each allowing the kaliyani to drop asp eggs (new) on intruders within SL9-60, SL9-61, SL9-62, and SL9-63.
 	* 3 arrow slits allow missile fire into SL9-59 and SL9-54.
+	* A reed basket holds 16 asp eggs (new; 8 fire and 8 cold).
+	* Next to the basket is a bronze gong (100 gp) used to alert the compound.
 	* Access to the rest of the Pits is via a 3’-diameter hole in the northern lobe of the corridor, descending 35’ to SL9-65.
 		* Foot- and hand-holds cut into its walls, and a sturdy rope of twined, knotted, subterreanean vines is attached to a thick staple set in the floor assist descent.
+
 * Four kaliyani soldiers are always posted in this area.
 	* They are usually observant, detecting any visitors approaching on the stepping stones (SL9-57) or wading through the flats (SL9-54).
 		* Invisible parties will take them by surprise.
 		* The guards will be alerted (for 6 turns) if the soldiers at SL9-42 flee this way.
-	* A reed basket holds 16 asp eggs (new; 8 fire and 8 cold).
-	* Next to the basket is a bronze gong (100 gp) used to alert the compound.
 
 * Kaliyani Tactics
 	* If alerted, either by fleeing soldiers at SL9-42 or by spotting approaching enemies, they wait cautiously to see what happens.
@@ -901,6 +911,7 @@ a potion of heroism, and another has a flask filled with oil of fiery burning.
 	* The pit is 20’ deep and expands horizontally as it descends (the floor of the pit covers twice the area of its mouth).
 		* A lip around the mouth rises 3’ above the floor.
 		* Within the pit dwells a horrific monster from the deep places of the Underearth, a crawling soul borer (new). 
+			* Rudiga: he is bathing in a necrotic nutrient slurry in the pit, full of bones.
 	* Leaning against the northeast wall is a ramp of wood that can be placed into the pit to allow the soul borer to exit, or kaliyani to enter.
 	* In the north wall is an undecorated niche with a 3’-tall basin of kaliyani refreshening liquid (av items).
 * Unless observing a torment or engaging in combat, the kaliyani do not congregate here.
@@ -929,7 +940,8 @@ attacks (domination, or energy drain, or intellect drain). Special defenses: imm
 * The hexagonal chamber within the hallway is the Conclave chamber itself.
 	* Stairs descend 10’ from the ambulatory hallway.
 	* The walls, floor, and ceiling are carved in mid-relief and depict generic images of kaliyani overcoming foes.
-	* Two rows of benches line the north and south walls, with a central raised oval dais.
+	* Two rows of benches line the north and south walls
+	* A central raised oval dais.
 		* A wooden rostrum shaped like an asp’s head rises from the dais, with a leather whip and a strange oliphant atop it.
 			* The whip is used to keep order in rowdy sessions of the conclave.
 			* The oliphant (a horn of chaos (new), from the tooth of a demonic marine creature) is passed from speaker to speaker, allowing one the right to speak during conclaves.
@@ -1009,7 +1021,7 @@ D12 Item GM Note
 ### SL9-71: Sorcerers’ Barracks
 
 * This area is residence for the consortium’s sorcerers (identical to SL9-69), complete with basin of kaliyani refreshening liquid (see arden vul items) and thirty six bunks.
-	* Most scouts are on expeditions into Arden Vul.  12 bunks are claimed, but only three sorcerers are here at a time, resting.
+	* Most sorcerers are on expeditions into Arden Vul.  12 bunks are claimed, but only three sorcerers are here at a time, resting.
 	* Searching a claimed bunk takes 1 Turn and finds 3d20 gp (bits of gold or silver, small gems, trinkets), with a roll for an unusual item (each may only be found once).
 * Should the kaliyani be alerted to an attack, all the sorcerers will rush to defend the complex, meeting either at SL9-66 or SL9-72 as appropriate.
 
@@ -1210,6 +1222,11 @@ Sveestik, 9th-level kaliyani sorcerer (see new monsters): SZ M; AL LE; AC 5; MV 
 		* It is palpably colder here, and Tsilliv uses the area to cure meat.
 		* The corpses of six lizardmen, two riding salamanders, and two ogres hang from hooks set into the ceiling.  The floor is slippery with blood.
 		* The one-way door from SL9-77 exits into the rear of this portion of the cave. 
+
+* South and east of the barricade is a tripod of heating (new) around which 3 kaliyani soldiers, 3 scouts, and a sorcerer gather.
+	* They are loosely attentive, doubting a serious threat could emerge from SL9-79.
+	* The sorcerer wears a spiral horn (75 gp) on a cord around its neck.  It blows the horn three times in rapid succession should a threat appear.  The soldiers at SL9-74 are supposed to react to 3 blasts of the horn by summoning the rest of the complex to defend SL9-74.
+	* When the rotation of scouts is changed, the sorcerer blows a single blast and the soldiers at SL9-74 open the portcullis and deploy the ladder to let the guards climb back into the kaliyani pits.
 
 3 riding salamanders (see new monsters): SZ L; AL N; AC 6; MV 60’, 90’ swimming; HD 6; HP 41, 39, 35; #AT 1; Dmg 2-12.
 

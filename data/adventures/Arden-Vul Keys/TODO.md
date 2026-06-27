@@ -203,13 +203,6 @@ Arden Vul system
 
 
 * Below Lower
-	* SL-9
-		* player map
-			* removed locked icon on door to SL9-73
-		* entities
-			* 9-14
-		* dressing
-			* 9-14
 	* Level 6
 		* entities
 		* dressing
@@ -227,7 +220,36 @@ Arden Vul system
 	* SL-10 a & b
 		* ensure the map area is entirely inside the map area (not overhanging into the border)
 		* entities
+			* -7: achaierai
+			* -16: Ranke, rudishva military-grade security construct
+			* -18: Sir Hazel, Balthild (Simonet varlet archontean woman), Guillemin (Hazel varlet thorcin woman), Stink (varumani tactical advisor)
+			* -19: Astrid the Strong (female wiskin); Georgios (male Archontean)
+			* -20: Dronke, disassembled mil-grade sec construct
+			* -21: Sir Ennius, Sir Hegemon
+			* -22: Sir Larel, Charity (Spes varlet, male elf)
+			* -24: Sir Spes
+			* -32: Melok-Ri
+			* -33: Melok-Ri in battle armor
+			* SL10B
+			* -2: knights and varlets
+			* -5: Fogduster, Hemptwister (goblins)
+			* -6: Lump, varlet of Sir Calculor
+			* -9: Sir Simonet
+			* -26: Ricchar Wither-Hand, Jolene
+			* -27: Jacinth, varlet to Sir Larel
+			* -28: Veracity, varlet to Sir Mendacity; Mollop, varlet to Sir Hegemon
+			* -29: Sycadora, varlet to Sir Ennius
+			* 
+			* add 3 children somewhere under someone's care (playing and being taught): include the girl sold to the Childmonger
+				* 1 older kid at the training hall
+				* 2 younger kids being tutored by one of the varlets (library in -22?  inside the citadel?)
+			* 
 		* dressing
+			* SL10B
+			* -2, -4, -5, -6
+			* -7
+			* -9 to -23, -25
+			* -26, -27, -28, -29
 	* Level 9
 		* map edit
 			* 9-56
