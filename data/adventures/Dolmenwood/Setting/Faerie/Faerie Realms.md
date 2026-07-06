@@ -62,7 +62,7 @@ Realms, Rulers, and Runes
 	* tilled fields and endless pastoral beauty
 	* quaint challenges and roundabout ways, paths deeper are hard to find, risk you'll never want to leave; murderous minions of the Queen of Spring Unending
 	* go there to seek rare reagents, healing / cleansing / peace, or wholesome magical crafts
-* Catland / Queen Abyssinia (and formerly King Pusskin) - cat's eye view of the world
+* Catland / Queen Abyssinia (and formerly King Pusskin)
 	* cat's eye-view of a town
 	* musketeer-like dashing adventure against pompous birds and villainous rats
 	* go there to win treasures and favors from the queen and ladies of the court
@@ -74,22 +74,30 @@ Realms, Rulers, and Runes
 	- dismal thorn-wastes and stony desert under an eternal moon
 	- brave the battleground against the lunar hordes
 	- go there to win glory and reward (treasure, poetry, blessing-boons, magical arms, etc) as a mercenary
-* Frigia / The Cold Prince - frigid
-	* 
+* Frigia / The Cold Prince
+	* beautiful and cruel winter wonderland of forests, glaciers, and mountains
+	* monsters, frost elves, environmental perils and cruel fey trickery
+	* go there to parley / vie with the frost elves, to seek frozen and forgotten remnants (of frost elf dominance, of the triple compact war against Frigia, etc)
 * Gardens of Ynn / Lady Belladonna
 	* hedge maze with countless nooks and courtyards, games of intrigue and courtly whispers, an opulent court overtaken by doom and a threat
 	* a dungeon: guards, traps, hazards
 	* go there to seek treasure, or labor for Lady Belladonna (or her courtiers) to reclaim her domain
-* Gladdng-Gloam / Lord Gladhand - lush jungle garden
-	* 
+* Gladdng-Gloam / Lord Gladhand
+	* vast test garden and manorhouse
+	* plant perils and obstacles, irate gardeners, pests, navigation, gladhand's tricks and riddles
+	* go there to seek magical plants or botanical lore, enchanted masks, behold occult theater, use the magical doors to many places
 * Gloomhold / The Blind King
 	* bleak and drear and dark
 	* a dungeon and vault: traps, guards, hazards
 	* go there to steal secrets and treasure, or rescue prisoners
-* Goblintown / The Goblin King - badlands and swamp, warrens, the market, a place you go to bargain for goods or services with the goblins and to seek their treasures
-	* 
-* Hypnagogia / The Duke Who Cherishes Dreams - dreamland
-	* 
+* Goblintown / The Goblin King
+	* winding mysterious caverns and mines, the bustle of the goblin market
+	* tricky to navigate, environmental perils, greedy fey, weird cavern dwelling monsters, tricks and traps to protect riches
+	* go there to seek riches, haggle in the market for goods or specialist services, sell services or treasures to the lords, steal legendary wealth and artifacts
+* Hypnagogia / The Duke Who Cherishes Dreams
+	* dreamscapes, the duke's palace, dreamship docks, library of dreams
+	* rogue dreams, hazards, confusion, navigational difficulties
+	* go there seeking knowledge/insight, dreamquesting for psychospiritual goals
 * Lampwrack / The Prince Who Is Seven
 	- pools of illuminated civilization and languid decadence amidst desolate hungry darkness and echoes
 	- challenges at the galas, shadowy threats and curses and despair in the ruins
@@ -103,7 +111,9 @@ Realms, Rulers, and Runes
 	* a puzzle of navigation: physical, law and intrigues.
 	* go there to seek patronage for art, or reward for service to the factions of heirs, to learn lore from the dead
 * Whyforth / The Earl of Yellow
-	* 
+	* many landscapes, all yellow
+	* royal intrigues, wars, courtly struggles; warbands monsters and brigands in the outlands, settlements to sway one way or another; very factionalized
+	* go there to play politics / provide services in hopes of rewards, or to obtain the various magical substances that come from here (gold, amber, grain, booze, honey, etc)
 
 * Baths of Astralon / The Hag Thorn-Rosy
 	* you go there to intrigue and relax

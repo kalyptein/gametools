@@ -99,6 +99,16 @@ Desires: Freedom from the manse. To see Ygraine once more.
 * in a fit of jealousy, he baked the Prince's favorite hound into a pie, and was thus imprisoned
 
 
+Old frost elf courtiers of Mallowheart (from Pipes on Droomen Knoll)
+* could have returned to him, gone back to the Cold Prince, or still be on the outs (perhaps seeking a gift to get back into the Cold Prince's graces, or Mallowheart might seek to recruit them)
+
+* Lady Silver-So-Mirrored: Slender noblewoman, playing a harp shaped like a teardrop-headed angel.
+	* Lord Edwin Guilefer has her magic harp.  Does she want it back? Did she give it to him?
+* Sir Dawn-Never-Blooms: Tall knight, frost-clad armour, beard of icicles.
+* Lord Slumber-Bone: Portly nobleman, wide eyes, merry expression.
+* Whisper-of-Candlelight: Statuesque woman, holding longsword and shield.
+
+
 * The ravens are kind of their own faction / force within the realm, it's true masters?
 
 

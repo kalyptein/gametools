@@ -14,7 +14,9 @@
 * base it off Labyrinth?
 	* could use the Labyrinth rpg for its crawl?
 * 
-* ??? rename, we already have Gloomhold: Goblinburg?  Goblinshire? Goblinton? Goblinmoor? Goblinwold/weald?
+* ??? rename, we already have Gloomhold: 
+	* Goblinburg?  Goblinshire? Goblinton?
+	* Goblindeep, Goblindelve / Goblindelf / Goblindelph, Goblinhollow, Goblin Grotto
 * 
 * 
 * 
@@ -79,8 +81,29 @@ The Jingling Rune
 * The Goblin King keeps many names, some of them public and some known only to a few individuals. (His true name is known only to himself, of course.)
 
 
+
+King Ogglewoop
+Level 7 Fighter
+A hefty (5′ tall) woodgrue man with a giant pot-belly, floppy jowls, thick orange fur, and pupilless eyes of pure white. Dresses in a snakeskin cape, a bent brass crown, and a codpiece in the shape of a shocked gargoyle’s visage. Ogglewoop claims to be an emissary of the Goblin King (p32) with leave to rule over woodgrues in the mortal world. He is a fraud and has in fact never visited Fairy.
+Demeanour (Neutral): Mirthful, mercurial. Affected and bombastic majesty.
+Speech: Brash whooping, uproarious laughter. Woldish, Sylvan.
+Desires: To avoid the attention of genuine kings, dukes, etc. (including, of course, the Goblin King). The adoration of all. Schemes to bring the Embalmed (hex 1603) into his service by livening up their tedious existence with raucous festivities.
+
+
+a handful of market-lords
+* all looking to scoop the goblin king and each other on various deals, treasure hunts, acquisitions, etc
+
+* goblins can't directly steal from each other (at least not from duly authorized vaults), but they are happy to employ humans to do it for them
+
 * faerie folk
 * monsters
+
+* a famed goblin brigand
+* leader of a thieves guild in the market?
+	* they do reclaimation work for the king, and break into dungeons and vaults
+
+* woodgrue are common here, but they love revels more than money, so they've never been that involved in the realm's intrigues and readily wandered off to Dolmenwood given the chance
+	* there are other (scarier) bat creatures here
 
 ## Depthcrawl
 
@@ -89,15 +112,22 @@ The Jingling Rune
 	* actively mined, more occupied
 	* brigands, gold-hungry vermin, riled up earth elementals
 * Goblin Market
+	* built in a vast, glittering cavern
 	* the King is most often here, wheeling and dealing
+	* manses of the various market-lords
 	* bustling, relatively safe (physically), expensive
 * Lower Warrens
 	* mined out, strange old things have slunk in and made lairs
 	* forgotten mechanisms and enchantments
 * Muddlemoot, palace and vault of the Goblin King
 	* Placed deep below to keep his thieving subjects away from it
+	* hard to find its gates through the lower warren
 	* traps, guardians, wards, doors, mazes
 	* The heart is his innermost treasury
+		* you must buy the key in the market; this can tip off the king someone's gunning for his vault.  they key evaporates when you leave the realm, so it's a "per run" purchase / theft.
+	* 
+	* maybe Muddlemoot is his manse in the market, and the old citadel has a different name
+		* moot sounds like a place to hold court
 * 
 * glowing crystals, veins of ore
 * fungi, underground rivers

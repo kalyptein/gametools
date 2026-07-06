@@ -155,6 +155,13 @@ Definitely
 	* various hexes from the Gloaming
 	* maybe other cursed scrolls as well?  some of 3? 4? 5?
 * Summer's End adventures
+* 
+* Redcap's Cauldron (promo hypnagogia adventure, replaced with Droomen Knoll, going to be released some day?)
+* 
+* The Weird the Befell Drigbolten (OSE, going to be rereleased for Dolmenwood some day?)
+
+* there are a bunch of 3rd party dolmenwood adventurers on DTRPG
+
 
 Maybe?
 * Waking of Willowby Hall

@@ -228,8 +228,9 @@ Exploration Gear
 	* Fresh Rations (1 gp /day, Bundle 3x)
 		* Spoil over the course of a Downtime or any obviously lengthy span of time.
 * Waterskin (1 gp, 1 slot)
-* Travel Gear (5 gp, bedroll, mess kit, flint and tinder, twine, water bottle, 1 slot)
+* Travel Gear (5 gp, 1 slot)
 	* Basic gear for travel.  Provides a bedroll for camping
+	* Bedroll, mess kit, flint and tinder, twine, water bottle, small knife, candle stub
 * Tent (20 gp, 1 slot)
 	* Provides shelter for 2 when camping.
 * Cold Weather Clothing (2 gp, 1 slot)

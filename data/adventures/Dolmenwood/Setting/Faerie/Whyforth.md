@@ -5,8 +5,9 @@
 * Accessible from Skipping-a-Derry (faerie road).
 
 * 
-* golden plains, meadows of yellow flowers, and wind-carved sandstone canyons, golden beehives
-* magical booze, honey, citrines, amber
+* golden plains, meadows of yellow flowers, and wind-carved sandstone canyons, golden beehives, brass domiciles, yellow-leaved autumn forests (great rents leaking amber), baroque gold-leaved pavillions and monuments, cemeteries of old yellow bones
+* 
+* magical booze, honey, citrines, amber, yellow apples (golden?)
 
 
 * A realm of golden plains and rolling meadows.
@@ -57,7 +58,7 @@ Baker's Dozen (1206)
 	* He is under the influence of Paglimon the Perspicacious, Duke Brackenworld's court mage.
 		* 
 		* ??? But why does he want that?
-			* maybe he's working for another faerie noble who wants to undermine the Earl?
+			* maybe he's working for another faerie noble who wants to undermine the Earl?  either one of the sons, or a lord of another realm who might back one of the sons.
 
 idea:
 * the Earl has three rebellious sons, all seeking to supplant him.
@@ -69,9 +70,10 @@ idea:
 * The Cold Prince would seek them as allies to use Whyforth to reach Dolmenwood, but they hate him and Mallowheart too.
 	* Maybe the son seeking to usurp Prigwort actually is going to make an alliance?  Once he has Prigwort, the Cold Prince's forces will help him finally break the stalemate?
 
-* The sons could have titles like "The Baronet of Ochre", "The Amber Squire", etc.  Or they could be more dramatic color differences.
+* The sons could have titles like "The Baronet of Ochre", "The Amber Squire", etc.  Or they could be more dramatic color differences (blue, green, etc).
 
 * maybe the sons are fighting, but not with the Earl as well.  The Earl is quietly seeking to replace them all with an heir from new marriage.
+	* there is a prophecy that he will be supplanted by one of his children.  it was made after he already had children, so now he keeps having more to postpone the day and muddle the prophecy.  if he stopped, it would definitely be one of the existing ones.  if he killed them, the last surviving one would surely do it, so he has to keep them alive.
 
 * each son also has a mother (so they are half-brothers) backing his play, but dwelling within the Earl's court.  They could be murderously bent on keeping his new marriage from happening (murder for the potential brides)
 	* he keeps marrying and having new heirs.
