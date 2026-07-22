@@ -144,8 +144,10 @@ Things to add to Dolmenwood?
 
 Definitely
 * Dolmenwood adventures
+	* Pipes on Droomen Knoll
 	* Summer's End, Emelda's Song, the Fungus that Came to Blackeswell, Winter's Daughter, Ruined Abbey of St Clewyd
 	* Dolmenwood Dozen - small dungeons pdf
+	* The Weaver and the Redcaps
 * Hole in the Oak, Incandescent Grotto
 * The Yellow Book of Brechewold
 	* select locations
@@ -154,13 +156,17 @@ Definitely
 * Cursed Scroll #1
 	* various hexes from the Gloaming
 	* maybe other cursed scrolls as well?  some of 3? 4? 5?
+	* the slime dungeon site (tie to Mulbreck fungal nobility?)
 * Summer's End adventures
 * 
 * Redcap's Cauldron (promo hypnagogia adventure, replaced with Droomen Knoll, going to be released some day?)
 * 
 * The Weird the Befell Drigbolten (OSE, going to be rereleased for Dolmenwood some day?)
-
+* 
+* The Thicket (Arden Vul outside adventure)
+* 
 * there are a bunch of 3rd party dolmenwood adventurers on DTRPG
+	* I put them in a DTRPG wishlist
 
 
 Maybe?

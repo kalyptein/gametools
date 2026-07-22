@@ -459,11 +459,13 @@ Consult Oracle
 	* The oracle can't see beyond about an hour into the future or past.
 	* Further castings about the same area / topic, are Dangerous until after a Long Rest.
 
-Detect Thoughts
+??? Detect Thoughts
 * T2, Focus (1 minute), A Near creature with a mind
 * You peer into the target's mind, sensing surface thoughts as glimpsed images, internal monologue, and emotional vibes (emotions only, for animal minds).
 	* Each time you Focus, the target resists with WIS DC (your last casting check) to sense your intrusion and end the spell.
 	* If the target leaves your line of sight or moves away (but still within Far), the link persists until you next have to Focus.  You have a sense of their direction and distance.
+	* 
+	* ??? can use to sense minds in the area, even without seeing them, through some barriers
 
 Fixed Object
 * T2, 1 hour, A Close unattended object of up to Small size

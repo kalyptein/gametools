@@ -125,16 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Holy Magic.md",
+                "file": "Setting/Miscellaneous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Holy Magic"
+              "title": "Miscellaneous"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +188,7 @@
             }
           },
           {
-            "id": "fdde9f62e6f4adf1",
+            "id": "3e4367f6b0567402",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Faerie/Faerie Realms.md",
+                "file": "Setting/Miscellaneous.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Faerie Realms"
+              "title": "Outline of Miscellaneous"
             }
           }
         ],
@@ -291,34 +291,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbbadf65f453a5f1",
+  "active": "3e4367f6b0567402",
   "lastOpenFiles": [
-    "Setting/Faerie/Frigia.md",
-    "Setting/Faerie/Faerie Realms.md",
-    "Setting/Faerie/Whyforth.md",
+    "Setting/The Witches & Wood Gods.md",
+    "Setting/Miscellaneous.md",
+    "Setting/The Nag-Lord.md",
+    "Setting/The Faith.md",
     "TODO.md",
+    "Setting/Sites/The Thicket.md",
+    "Setting/Magicians.md",
+    "Setting/The Drune.md",
+    "Setting/Factions.md",
+    "Magic/Holy Magic.md",
+    "Setting/Faerie/Absynthe.md",
+    "Setting/Faerie/The Gardens of Ynn.md",
+    "Setting/Faerie/Tallowspire.md",
+    "Setting/Faerie/Everborne.md",
+    "Magic/Arcane Magic.md",
+    "Setting/Faerie/Faerie Realms.md",
+    "Setting/Faerie/Frigia.md",
+    "Setting/Faerie/Whyforth.md",
     "Setting/Faerie/Goblindelf.md",
     "Setting/Faerie/Gladding-Gloam.md",
     "Setting/Faerie/Hypnagogia.md",
     "Setting/Faerie/Ravenwild.md",
-    "Magic/Arcane Magic.md",
     "Characters/Equipment.md",
     "Characters/Classes/Magician.md",
-    "Setting/The Witches.md",
     "Setting/Faerie/Catland.md",
     "Magic/Magic Overview.md",
-    "Characters/Classes/Enchanter.md",
-    "Rules/Harm, Recovery, and Conditions.md",
-    "Magic/Holy Magic.md",
-    "Rules/Combat.md",
-    "Characters/Character Basics.md",
-    "Characters/Classes/Friar.md",
-    "Characters/Classes/Rogue.md",
-    "Setting/Sites/Summer's Table.md",
-    "Setting/Faerie/Everborne.md",
-    "Setting/Faerie/Absynthe.md",
-    "Setting/Faerie/Lampwrack.md",
-    "Setting/Faerie/Blossom Fields.md",
     "Setting/Sites",
     "Untitled.base",
     "Maps/Dolmenwood_Referee_Map_Pack/Dolmenwood VTT Hex Map Settlements.png",

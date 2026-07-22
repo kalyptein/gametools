@@ -6,11 +6,13 @@
 ## Commonfolk & Settlements
 
 * thieves?
+	* multiple towns have thieves guilds
 * merchants?
 
-## Non-humans
+## Non-human Folk
 
 * ??? Deorlings
+* ??? mosslings
 
 ## The Pluritine Church
 
@@ -23,12 +25,25 @@
 * Ygraine Mordlin
 * The Witches
 * The Drune
-* arcane societies and wizards
+* arcane societies and wizards (some Lyonessi)
 
 ## Faerie
 
-* The Cold Prince
+* The Cold Prince (Frigia)
 * The Hag
+	* The Queen of Blackbirds (Absynthe)
+* Prince Mallowheart (Ravenwild)
+* Duke Mai-Fleur (Diuthurnia)
+* Lady of Mightnight (Everborne)
+* The Duke-Who-Cherishes-Dreams (Hypnagogia)
+	* and Ygraine Mordlin
+* Earl of Yellow (Whyforth)
+	* and his children
+* Lady Belladonna (Gardens of Ynn)
+
+* ??? King Pusskin
+
+* ??? The Prince Who Is Seven (Lampwrack)
 
 ## Eldritch
 
