@@ -205,7 +205,32 @@ Arden Vul system
 * Below Lower
 	* Level 6
 		* entities
+			* 6-7, -8 (figure guests & staff for whole inn, thegan), -9, -14, -33
+			* -16 (Gethe the milgrade bot)
+			* -20 (isocorax), -27
+			* -28, -30 (Relke), -38 (Relke?), -39 (a-h)
+			* -44a, -48 (Justinian), -49
+			* -58 (guests, events, staff, etc of the Arena)
+				* encounter in -58 hallway
+			* -59, -61 (gamblers), -62, -63 (drunk), -64
+			* -68, -70, -71 to -91
+			* -104
+			* -118 to -122
+			* -129 (Bad Neighbors)
+			* -130 to -135
+			* -161, -165
+			* -167 (Gimon the bat-creature? raven-creature?)
 		* dressing
+			* 6-7, -8, -9, -9a, -10, -11, -12, -14, -15, -16, -18, -19, -20, -27
+			* -28, -30, -32, -33, -35, -36, -39 (a-h)
+			* -44, 49
+			* -59, -61, -62, -64
+			* -68, -70, -71 to -91, -96
+			* -104
+			* -118 to -122
+			* -129
+			* -130 to -135
+			* -161, -165
 		* Goblin artist's treasure map to Callista of Level 6
 
 * Below Depths
@@ -230,6 +255,7 @@ Arden Vul system
 			* -24: Sir Spes
 			* -32: Melok-Ri
 			* -33: Melok-Ri in battle armor
+			* 
 			* SL10B
 			* -2: knights and varlets
 			* -5: Fogduster, Hemptwister (goblins)
@@ -255,6 +281,7 @@ Arden Vul system
 			* 9-56
 				* remove the one-way door and passage to 9-56; it's only accessed via teleportation (pillars or circlet).
 		* entities
+			* where did Khalid land?
 		* dressing
 	* Level 10
 		* redo (to scale) inset of ziggurat interior, walls; ensure the inset is entirely inside the map area (not overhanging into the border)

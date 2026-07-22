@@ -320,10 +320,8 @@ defenses: immune to electricity and cold; slow regeneration.
 ### 6-5: Western Troll Lifts
 
 * This former rudishva observation chamber is now a key link in the Troll Lift network.
-	* A cross-chasm ferry transports passengers to 6-3/6-4.
+	* A cross-chasm ferry transports passengers to 6-3 / 6-4.
 	* A lift carries visitors down 200’ to the thegn’s court (7-1).
-	* Given its importance, the area is supervised by Overseer Gorlen, the true varumani supervisor of the entire Troll Lift network.  Two bestial varumani aid him.
-		* Fares are standard, and Gorlen attempts no extortion: 5 sp per leg for travel to Level 7-1 (11-20 minutes) or passage to the floating garden (2 minutes). 
 	* The lifts are constructed in the usual way (see 5-55, 6-2 and 6-3).
 	* Gorlen has mounted heads of a goblin and a human on stakes near the Lift, and takes ghoulish pleasure in informing all travelers that ‘Such is the fate of those who cheat the thegn!’
 * The chamber is noticeably cool (due to the frozen regions 6-137 to 6-142) and damp (due to waterfall spray).
@@ -333,10 +331,12 @@ defenses: immune to electricity and cold; slow regeneration.
 			* 2,731 sp, 829 gp; Gorlen’s gold baton of authority (510 gp); 2 vials of poison, a scroll of find traps, and a scroll of invisibility.
 	* 2 staircases lead to the southwestern segment of the chamber, where the varumani keep a roaring fire stoked with whatever fuel they can find.
 * Gorlen has rigged a wicker, rope, and leather gate across the arch to 6-136. 
-	* He warns the curious about the terrible ‘icy monsters’ that live to the south but will admit that ‘some fancy tomb’ lies somewhere to the west. 
-	* He charges 1 gp/person for entrance to the west.
 
 Golen
+* Given this lift's importance, the area is supervised by Overseer Gorlen, the true varumani supervisor of the entire Troll Lift network.  Two bestial varumani aid him.
+	* Fares are standard, and Gorlen attempts no extortion: 5 sp per leg for travel to Level 7-1 (11-20 minutes) or passage to the floating garden (2 minutes). 
+* Gorlen warns the curious about the terrible ‘icy monsters’ that live to the south but will admit that ‘some fancy tomb’ lies somewhere to the west. 
+	* He charges 1 gp/person for entrance to the west.
 * Gorlen has been charmed by Cinna Minux, the vampire lord (7-122), who visits him to learn about travelers on the Troll Lifts.
 
 Gorlen, a true varumani (see new monsters): SZ L; AL LN; AC 2; MV 90’; HD 8; HP 60; #AT 3 or 1; Dmg 3-6/3-6/4-10 or 6-24 (two-handed sword, 2-20+4). Special defenses: surprised only on 1 in 6; save as 8th-level fighter or 8th-level magic user, whichever is better; immune to cold, poison, charm, hold, feeblemind, confusion, and other mind-affecting magic; regenerate 3 HP/rd; infravision. Possessions: huge two-handed sword; ring mail; key to door in 6-136.
@@ -1553,13 +1553,17 @@ pluses from magic weapons; weapons that strike a column have 25% chance to break
 	* The walls contain seven high-relief carvings of Sortian faces (new), activated by placing Sortian eyes in the empty eye sockets.
 		* Most eye combinations are standard. 
 		* The faces are numbered clockwise from southwest to southeast. 
+* Secret Door (south, locked): hard (1 in 8) to locate
+	* Magical light (any sort: dancing lights, light, etc) reveals the keyhole.
+	* Jillia One-Ear (6-49) holds the key.
+
 * This hall is a destination for the Sortian faces at 3-188, 4-167, 8-6, 9-59, and SL3-17.
 	* Arrivals appear just inside the doorway, facing the Sortian faces.
 
-Secret Door (south): The secret door is hard (1 in 8) to locate and is locked; only magical light of any sort (dancing lights, light, etc.) will reveal the keyhole. Once revealed, the lock can be opened with its key (held by Jillia One-Ear in 6-49) or can be picked.
-
 * (20%) a Priscian exploring party (a war mage and 2 conversi, new).
 	* As the central destination for Sortian teleportation from elsewhere, a party of Priscian explorers might teleport into the chamber.
+	* 
+	* DIDN'T ROLL THIS
 
 GM Notes
 * Priscus Pulcher, Livia, and Macrinus were important leaders of the Sortians.
@@ -1610,6 +1614,7 @@ chain mail (see new magic items), long swords, light crossbows. The conversi typ
 	* Painted atop the blue paint are various Sortian and Priscian symbols: knots, the numeral ‘8’, fairly crude faces meant to imitate the Sortian faces (e.g. in 6-48). 
 	* Secret Door (north): invisible keyhole (dispel magic reveals it for 3 turns; +10% pick). Once known, it is seen through like an illusion.  Jillia One-Ear holds the key.
 	* Secret Door (west): easy to locate (1 in 4). invisble keyhole revealed by magical light within 5’ of the door.  Jillia One-Ear holds the key.
+* 
 * Five Priscians sit around a wooden table, playing cards.
 	* They are tasked with guarding the route between Level 3 and Level 6.
 	* Bored, but relatively vigilant.
@@ -1643,7 +1648,7 @@ crossbow). Abilities: STR 18/63, INT 8, WIS 10, DEX 11, CON 16, CHA 9. Possessio
 
 * Junior Overseer Reith and his two assistants make their home in this side chamber.
 	* The room has heqeti-style construction, blue-granite floor with pebbled, oily walls. 
-	* An area carpet and table, three large chairs, three bedrolls, and some supplies: three 150’ coils of thick rope (replacements for the Lift), a keg of Hak’s mushroom ale (7-94), three dead goats, and a large stock of dried fruit and mushrooms.
+	* An area carpet and table, 3 large chairs, 3 bedrolls, and some supplies: three 150’ coils of thick rope (replacements for the Lift), a keg of Hak’s mushroom ale (7-94), 3 dead goats, and a large stock of dried fruit and mushrooms.
 	* They are ignorant of the peepholes set into the north wall.
 * They have confiscated a stuffed and preserved whippet dog, with a leather collar bearing the name ‘Rex’ in Archontean, from some adventurers who got it in the Nether Reaches (Level 8).
 	* Have yet to decide what to do with it.  If asked where it came from, the varumani think it came from ‘near the lowest Troll Lift (8-1)’.
@@ -1662,9 +1667,10 @@ Reith, a lesser varumani (see new monsters): see stats at 6-1.
 	* A basin of oily green liquid is attached to the east wall.
 		* This liquid is curative for heqeti (cures 2d4 once per day through immersion, or 2d6 per full draught drunk), but is poisonous to all other species (save or die at +2 if touched, save at -4 if drunk).
 	* The chamber is cloaked in a permanent silence spell.
-	* Two heqeti chosen (new) peer through the peepholes at the varumani and their visitors in 6-1 and 6-50.
 
-2 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 40, 37; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1-6 acid damage); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice.
+	* 2 heqeti chosen (new) peer through the peepholes at the varumani and their visitors in 6-1 and 6-50.
+
+2 heqeti chosen (see new monsters), as 6th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 6; HP 40, 37; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; acid tongue (1d6 acid); +1 damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold and water/ice.
 
 ### 6-52: Trash Chamber
 
@@ -2954,7 +2960,7 @@ Gunnar & Callista
 
 ### 6-100: Hangar with Hover Sled
 
-* Both doors to this hangar are rudishva iris doors that open to orange or silver rudishva identity plaques.
+* Both iris doors to this hangar open to orange or silver rudishva identity plaques.
 * The opening to the chasm is concealed by a heavy curtain of vines.
 	* Noisy activity near these vines is 75% likely to attract the huge spiders that lair in the chokepoint leading to 6-101.
 * The hangar holds a hover sled salvaged by the Arena Lord after the Archontean collapse.
@@ -3068,6 +3074,7 @@ Kerrie Flaxseed, 5th-level female halfling thief: SZ S; AL N; AC 6; MV 90’; HD
 * Secret Door (north): opens by sliding a stone panel upwards into a slot in the wall.
 	* Beyond, a narrow corridor and 5’ flight of stairs lead up to 6-51.
 * Secret Door (east, to 6-105): easy to locate (1 in 4), opened by brute force (stuck door or 30 STR from up to 2 characters).
+
 * If the hoppers on guard hear the shriekers in 6-105, they will investigate in 2 rounds.
 
 4 heqeti hoppers (see new monsters), as 4th-level fighters: SZ M; AL CE; AC 5; MV 60’, 150’ swimming; HD 4; HP 28, 26, 24, 22; #AT 2; Dmg 2-7 (spear), 1-6 (bite). Special attacks: hop; +1 to damage due to STR; toxic skin (paralysis for 1-2 rounds). Special defenses: psionic resistance; immune to sleep, charm, hold, and water/ice.
@@ -3254,7 +3261,7 @@ Chasm Color:
 	* Doors are 6’-diameter iris doors, all jammed ‘open’ since antiquity.
 	* Entering a chamber illuminates it with a peaceful yellow glow from a hanging fixture.
 	* A 2’-wide smear of brown corrosion runs through each open door and into the center of each room; a product of the sumuksu (6-121).
-* Each chamber contains a pair of wall-mounted bunk beds mounted over a desk, two wardrobes, and a vacuum sink; these are built into the wall.  Two orange hard-plastic chairs affixed to the floor (25% chance the adhesive has deteriorated, 25 gp each).
+* Each chamber contains a pair of wall-mounted bunk beds mounted over a desk, two wardrobes, and a vacuum sink; these are built into the wall.  Two orange, hard-plastic chairs affixed to the floor (25% chance the adhesive has deteriorated, 25 gp each).
 	* All movable furnishings were stripped long time ago, and there is a jumble of trash (desiccated vines, broken bits of plasteel, fragments of parchment, small bones, and bits of leather gear).
 		* Each turn of searching has 25% chance of finding something from the chart (max two finds per chamber, results can't repeat in different rooms).
 
@@ -3838,7 +3845,8 @@ After the Ice has Thawed
 
 * An imperial sub-archon oversaw an official honor guard for Marius Tricotor’s tomb (6-154) from this location.
 	* The sub-archon and his men swore binding oaths to protect the tomb with their lives, and so the last unit of these guards remains at its post.
-	* The door is locked (+10% to pick); the one key lies within.
+
+* The door is locked (+10% to pick); the one key lies within.
 * The chamber is painted sky blue, with green laurel wreaths (an imperial symbol) at 3’ intervals.
 	* A 5’-tall writing desk stands at the center of the room.
 	* To the west is a wooden screen, behind which is a cot, wardrobe, and armor stand.
@@ -3846,13 +3854,13 @@ After the Ice has Thawed
 		* Armor stand: yellow-died legionary banded mail +1, a short sword +2, and a bundle of 4 javelins of piercing. 
 	* To the east is a long, rectangular table on which are tacked some maps.
 		* The maps on the table include the following: 1) a map of Burdock’s Valley; 2) a map of the city of Arden Vul; and 3) a map of the environs of the Tomb of Marius Tricotor (areas 6-5, 6-136 to 6-142, and 6-145 to 6-148). 
-	* A narrow table on the north wall holds some symbolic objects.
 
 ### 6-148: Barracks Chamber
 
 * The walls are sky-blue, with yellow helmets painted over the blue every 3’.
 	* The sleepless guardsmen pushed the 12 rotting wooden bunkbeds to the south. 
 		* Among the debris is a rotting chest: 1,311 ancient silver pennies, a scroll of extension II, a wand of frost (12 charges).
+
 * Thanks to their eternal oath, the elite guard still stands watch in the guardsmen’s former barracks as oathbound knights (new).
 	* Dressed in yellow-died banded mail and tattered yellow surcoats with the MI insignia (see 6-147). 
 	* They stand quietly, ready to repel desecrators of the tomb of Marius Tricotor (6-154) or the areas of east of the tomb.  They confront anyone who opens the door from 6-154 or who descends from the hole to 6-146.
@@ -3917,7 +3925,7 @@ to hit, +1 damage. Special defenses: +1 or better weapons to hit.
 		* The base of the pedestal carries an inscription in Mithric.
 		* It is carved of marble in elaborate detail, down to the last hair, wrinkle, and blemish, showing a man of late middle age, with close cropped hair, a broken Roman nose, pursed lips, and sharp, penetrating eyes made of  basalt chips.
 		* Approaching within 5’ triggers a magic mouth that intones (Mithric):
-			* “Only those who know me well may summon me to their side. Restore those objects that symbolize my nature, and I shall return to aid you in your need. Choose poorly, and your ignorance and lack of faith shall be punished!”
+			* “I stand ready to fulfill my duty to the empire.  Only those who know me well may summon me to their side. Restore those objects that symbolize my nature, and I shall return to aid you in your need. Choose poorly, and your ignorance and lack of faith shall be punished!”
 		* Placing the suitable objects on the four basalt platforms summons the spirit of Marius Tricotor to inhabit his head for 4-6 days (see below).
 	* Down the center are four basalt platforms, each 5’ long, 10’ wide, and 3’ tall.
 		* The sides of each platform are inscribed with one of Marius' virtues in gold filled (Mithric) letters.
@@ -3957,7 +3965,7 @@ Spirit of Marius Tricotor
 		* The tablet of the Beacon (9-107).
 	* He can describe the original functions and layout of the Archontean areas (Levels 1, 2, 3, 4, parts of 5, parts of 6, and Sub-Levels 2, 3, 4, 6 and 7).
 	* If asked about treasure, and if convinced it will be put to lawful purposes, he will reveal a hidden catch on the fourth platform that causes it to slide, revealing a short flight of stairs to a treasure vault.
-		* 10 5-lb bars of platinum (1,250 gp each); an urn with 2,347 ancient silver pennies; a set of gold and emerald jewelry (necklace, earrings, and ring; total 5,000 gp); a suit of imperial field plate (av items); a rod of lordly might; a vorpal blade (long sword); a description of the troll thegn’s court (7-72 to 7-77) and his submission to Marius Tricotor. 
+		* 10 5-lb bars of platinum (1,250 gp each); an urn with 2,347 ancient silver pennies; a set of gold and emerald jewelry (necklace, earrings, and ring; total 5,000 gp); a suit of imperial field plate (av items); a rod of lordly might; a vorpal blade (long sword); a description of the troll thegn’s court (7-72 to 7-77) and his submission to Marius Tricotor.
 	* Marius’s spirit remains for 4-6 days.
 		* At the end of that period, Marius cuts short any conversation with the following words: “Comrades, I’ve got to go. Carry yourself with honor and dignity, and always press the bastards when they least expect it. Look for me again after the full moon.”
 		* He can be re-summoned after two months have passed.
@@ -4037,8 +4045,9 @@ D6
 			* Recent smears of blood are visible on the floor around the dais (the remains of the adventurers being devoured in 6-159).
 	* The 10’-wide passage to the north is impassable due to an ancient cave-in.
 		* GM: the only access the tomb of Marius Tricotor (6-154) the secret door in the ceiling of 6-145.
+
 * Two bestial varumani are growling and pawing at the door to the south.
-	* They attack any intruders on sight. More than four rounds of combat draws the other varumani in 6-159 and 6-160 to the fray, arriving on round 7.
+	* They attack any intruders on sight. More than 4 rounds of combat draws the other varumani in 6-159 and 6-160 to the fray, arriving on round 7.
 
 2 bestial varumani (see new monsters): SZ L; AL NE; AC 4; MV 90’; HD 8; HP 58, 49; #AT 3; Dmg 3-6/3-6/3-10. Special defenses: regenerate 3 HP/rd; infravision; immune to poison.
 
@@ -4055,14 +4064,17 @@ Lepp, 5th-level male Wiskin thief: SZ M; AL NE; AC 5; MV 120’; HD 5; HP 8 (max
 
 * A band of 8 varumani who abandoned their fealty to the troll thegn makes its lair here.
 	* Seven bestial, semi-intelligent varumani are led by a lesser varumani outcast, Bothig.
-	* The reek of their lair is obvious from 30’ down the corridor.
+
+* The reek of their lair is obvious from 30’ down the corridor.
 * The chamber was once a pleasant, 20’-tall barrel-vaulted audience hall.
 	* Bothig and his primitive followers have ruined any remnants of Mithric imagery.
 	* Two piles of soft-ish trash serve as the trolls’ nests.
 		* Bothig’s nest: 4,097 gp; 2,357 sp; 10 blue quartz gems (20 gp each); silver toe-ring (900 gp); silver and gold box (700 gp); silver and gems goblet (2,600 gp); silver and gold seal (200 gp), gold locket (800 gp).
-	* The varumani are perpetually hungry, mostly surviving on small vermin from the caves north of 6-160.
-		* They eagerly chase any intruders up to 6-136, but won’t enter the Troll Lift (6-5) or the domain of the frost mother (south of 6-136).
-	* Bothig is capable of crude, but intelligible, speech, neither Bothig nor his friends have much interest in anything but rending and tearing. 
+
+* The varumani are perpetually hungry, mostly surviving on small vermin from the caves north of 6-160.
+	* They eagerly chase any intruders up to 6-136, but won’t enter the Troll Lift (6-5) or the domain of the frost mother (south of 6-136).
+* Bothig is capable of crude, but intelligible, speech, neither Bothig nor his friends have much interest in anything but rending and tearing. 
+
 * Four varumani are currently devouring the bodies of four adventurers they slew in 6-157 and dragged here.  Two others are in 6-160 and two are in 6-157.
 	* Adventurers’ gear: 349 sp; 211 gp; a heavy flail +1; banded mail +1; a set of four throwing axes +1; large shield +1, +4 vs. missiles; a pouch (77 gp of silvered sand); a tear of Kauket (new); a rod of turning (5 charges, new); a potion of the berserk (new); a short sword; a staff; damaged studded leather armor (still usable); and a scroll (sleep, telekinesis, project image).
 
@@ -4175,12 +4187,14 @@ flesh and kills victim in 4-7 rounds, then re-animates as a heqeti slime zombie 
 	* On a ledge in the back of the cave is the idol of Camazotz (new).
 	* Next to it is a forgotten purse with 10 impressive pearls (120 gp each).
 
+* Flavor Gimon as raven-ish, with an Idol of Khonsu
+
 Gimon (see new monsters): SZ M; AL N; AC 7; MV 60’, 150’ flying (Class D); HD 6; HP 40; #AT 3; Dmg 1-4/1-4/1-6; MR 25%. Special defenses: cannot be surprised; immune to cold.
 * Gimon was a human adventurer who found the potent idol of Camazotz (new) and fell under its spell. After several months of possessing it, he transformed into a bat creature.
 * He is bipedal, quite skinny, with arms connected to his body with bat wings and  impressive fangs.
 * Despite his monstrous appearance, Gimon is not evil; he is probably insane, though.
 	* He flies about the middle levels of Great Chasm, feeding on other predators and occasionally rescuing the weak.
-	* The workers at the Troll Lifts know him well and don’t bother him; refering to him, rather fondly, as the ‘Bat-monk’.  Despite their neutrality, Gimon is too skittish to form friendships with them.
+	* The workers at the Troll Lifts know him well and don’t bother him; referring to him, rather fondly, as the ‘Bat-monk’.  Despite their neutrality, Gimon is too skittish to form friendships with them.
 * He will likely hear intruders before they enter his cave, and takes flight to avoid being trapped in his cave.
 * As long as the idol of Camazotz remains untouched, he will not bother those who ransack his cave (although they will not be beneficiaries of his ‘rescue missions’).
 	* He will pursue to the death anyone who carries off his idol.

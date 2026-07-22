@@ -207,7 +207,9 @@ D10 Item GM Note
 	* “Mother – it was a great mistake. The master has done things, things I do not like. I may never be the same. Your dearest Drusion”
 	* GM Note: a hint about the scarification ceremony (SL10A-28)
 
-10 achaierai: SZ L; AL CE; AC body 8, legs -1; HD 9 (beak) or 4 (claws); HP 40 (body), 15(x4) (legs); #AT 3; Dmg 1-8/1-8/1-10; MR 35%. Special defenses: toxic smoke; regenerate damage to legs in 2 days.
+10 achaierai: SZ L; AL CE; HD 9, AC body 8, legs -1;  HP 40 (body), 15(x4) (legs); #AT 3 claw/claw/beak or 4x claw; Dmg 1-8/1-8/1-10; MR 35%. Special defenses: toxic smoke; regenerate damage to legs in 2 days.
+* 10' long metallic legs, a human-sized enemy can't normally strike the body
+* toxic smoke (if loses 3 legs or is otherwise serious injured): 10' radius, 2d6 poison and save vs poison or insanity (as feeblemind) for 3 hours
 
 #### SL10A-8: Tunnel down to 9-99a
 
