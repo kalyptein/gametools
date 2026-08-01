@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "61c771f5490a8118",
+    "type": "split",
+    "children": [
+      {
+        "id": "b004bfa0bdd96c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "695fc441fb5c3f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "97d7e866ce5c508d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History"
+            }
+          },
+          {
+            "id": "322c11a56477dd9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Sapients.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sapients"
+            }
+          },
+          {
+            "id": "5baeebe1c829728c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Institutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Institutions"
+            }
+          },
+          {
+            "id": "61bae6f5db373a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Psionics & Theology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psionics & Theology"
+            }
+          },
+          {
+            "id": "b7871615d3edeaa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Space Travel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Space Travel"
+            }
+          },
+          {
+            "id": "d806dee0aaf1b6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Taking Action/Trade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trade"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "612c5f5a48e556b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb0b66afd7c958f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ee30d66c51ce94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ba984992c72af34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "children",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e89c66b20a4287f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "54074dfccc02ede9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mk-path-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af81c6b8f1515e22",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a7255e5867c7f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d4eb95f72ccd8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting/History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for History"
+            }
+          },
+          {
+            "id": "c585c9e52efc2061",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting/History.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from History"
+            }
+          },
+          {
+            "id": "43f169e49cac09f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5928501142b533af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting/Sapients.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "322c11a56477dd9f",
+  "lastOpenFiles": [
+    "Setting/Psionics & Theology.md",
+    "Setting/Sapients.md",
+    "Rules/Taking Action/Trade.md",
+    "Setting/Institutions.md",
+    "Setting/History.md",
+    "Rules/Characters/Character Basics.md",
+    "Rules/Cycle of Play/Factions.md",
+    "PCG/Factions.md",
+    "Setting/Space Travel.md",
+    "TODO.md",
+    "Rules/Taking Action/Tech.md",
+    "Setting/Untitled.md",
+    "Setting/Untitled 1.md",
+    "Testbed.md",
+    "Rules/Characters/Untitled.md",
+    "Vault.md",
+    "Rules/Starships.md",
+    "Rules/Psionics/Overview.md",
+    "Rules/Taking Action/Domains.md",
+    "Rules/Equipment/Gear.md",
+    "Rules/Equipment/Ships.md",
+    "Rules/Equipment/Cyberware.md",
+    "Rules/Equipment/Trade Goods.md",
+    "Rules/Taking Action/Basic Rules.md",
+    "Rules/Taking Action/Combat.md",
+    "Rules/Taking Action/Warfare.md",
+    "Rules/Cycle of Play",
+    "Rules/Equipment",
+    "Rules/Characters",
+    "Rules/Taking Action",
+    "Tags",
+    "PCG",
+    "Rules/Psionics",
+    "Setting",
+    "Rules"
+  ]
+}
