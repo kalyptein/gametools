@@ -139,23 +139,6 @@ from Kult Archons / Death Angels (treat these as pairs, axes that are themes for
 	* represents all ten Sephiroth coalescing into one unified form
 
 
-working list
-* [ ] Kether (hierarchy) - Thaumiel (power)
-* [x] Binah (community) - Sathariel (Exclusion)
-* [x] Chokmah (submission) - Chagidiel (abuse)
-* 
-* [ ] Daath (???) - a hostile power, or a failed / resisted integration
-* 
-* [ ] Geburrah (law) - Golab (torment)
-* [ ] Chesed (safety) - Gamichicoth (fear)
-* [ ] Tiphareth (allure) - Togarini (compulsion)
-* [ ] Hod (honor) - Samael (vengeance)
-* [ ] Netzach (victory / conquest) - Hareb-Serap (conflict)
-* [x] Yesod (avarice) - Gamaliel (lust)
-* [ ] Malkuth (conformity / awakening) - Nahemoth (discord)
-* 
-* 
-* each had its own sapient species or species-cluster, use the theme as their lens
 
 tree of life structure
 * kether (top middle)

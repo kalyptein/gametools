@@ -14,6 +14,16 @@
 ### Humans
 
 
+Akashic Mnemonics
+* 1st imperium, created by a weird offshoot of a Federovist order
+	* they believed that remembering as much of the world and of people was a step toward preserving and recreating it in the Anastasis.
+* baseline human in general appearance, maybe some changes to head, spine, and sense organs (enlarged?)
+	* perfect recall; limited access to genetic memory of their bloodline forebearers?
+	* memories are actually encoded in a genetic databank
+	* they can digest akashic flesh and try to extract data
+	* alzebo-like extract from their CSF that can be used for recall boosting in baselines
+	* improved senses (at least sight and hearing) to help capture data
+	* modern biotech doesn't know how to decrypt their genetic memory by machine, but supposedly it could once be done
 
 ## Synthetics
 ---
@@ -45,10 +55,30 @@ steal from Starforged?  Sundered Isles (space)?
 
 ## Precursors
 
+
+working list
+* [ ] Kether (hierarchy) - Thaumiel (power)
+* [x] Binah (community) - Sathariel (Exclusion)
+* [x] Chokmah (submission) - Chagidiel (abuse)
+* 
+* [ ] Daath (???) - a hostile power, or a failed / resisted integration
+* 
+* [ ] Geburrah (law) - Golab (torment)
+* [ ] Chesed (safety) - Gamichicoth (fear)
+* [ ] Tiphareth (allure) - Togarini (compulsion)
+* [ ] Hod (honor) - Samael (vengeance)
+* [ ] Netzach (victory / conquest) - Hareb-Serap (conflict)
+* [x] Yesod (avarice) - Gamaliel (lust)
+* [ ] Malkuth (conformity / awakening) - Nahemoth (discord)
+* 
+* 
+* each had its own sapient species or species-cluster, use the theme as their lens
+
+
 * a lineage of uplifts descending from (supposedly) one or more of the sephirothic entities or their avatar ur-species
 
 
-### ???The Choir??? The Chorus ???
+### The Choir
 
 Binah (community) - Sathariel / Satariel (Exclusion)
 * understanding
@@ -56,6 +86,10 @@ Binah (community) - Sathariel / Satariel (Exclusion)
 * dark mother, gathers in the outcast and neglected to build the swarm
 * all-enveloping history, tradition, geneaology, generational expectation, continuity of ritual, identity, duty
 * the archon was divided against itself?  its essence was community / identity, which created an outgroup, but the outgroup gathered into its own group, creating this churn and tension
+
+* going to use Choir for the name of the species, I think.  Chorus was another possibility
+* chorister: a member of a choir
+* cantor: soloist or lead singer
 
 * Binah - dislikes Malkuth and Tiphareth, conflicts with Netzach, at one points contested with Kether for power over aristocratic bloodlines
 	* allied with Geburah
@@ -184,7 +218,7 @@ human consideration
 * their inert / totipotent spores are valuable for human psi-drugs and TL5 medicines / mutagens; dangerous to gather
 
 
-### ???
+### ??? Keter
 
 Kether (hierarchy) - Thaumiel (power)
 * first, oldest sapients to join / create (?) the Omega entity
@@ -213,7 +247,13 @@ cultural details
 	* in a later stage, consuming / draining these devices was a means of empowerment for a sub-collective entity.  so many fetishes were made, since each individual needed one, so lots still exist
 * 2 names
 	* one their enemies gave them (the Da'ath-ites?)
+		* ? the path of folly
+		* ? the self-consumed, the autophages / autophagoi?
 	* one is a reference to where they live (the void and the ascended realm), which they gave themselves
+		* voyage
+		* void
+		* the [adjective] advent
+		* exurgent, exurgo (latin, to be risen) - 1st imperium name?
 * approach to outsiders: infiltration and surveillance
 * 
 
