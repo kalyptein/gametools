@@ -266,9 +266,13 @@ some history details
 
 human consideration
 * human psions seek their surviving psi-fetishes as amplifiers, and trying to learn how to suck the power from them like they used to
+* a 1st empire sect about hierarchy and control, emulating Keter, dominating others.  kind of illithid-like
 
 
-### ???
+### ??? Da'ath
+
+
+### ??? Malkuth
 
 Malkuth (conformity / awakening) - Nahemoth / Lilith (discord)
 * realm
@@ -279,5 +283,5 @@ Malkuth (conformity / awakening) - Nahemoth / Lilith (discord)
 * a sapient part of the whole, nonetheless
 
 * when the Ascension was happening and uncertainty happened, Keter was the driving force for going through with it, and Malkuth was the driving force for pulling back, believing that to continue meant destruction
-	* it's the one running the Inhibitor-like suppression of those who want to follow the departed (destroyed?) Keter; focal point for those elements that was to not-follow
-	* these Inhibition efforts may be want's leading to the long bouts of hibernation, and it was the opponent to the First Imperium's attempt at Ascension (although others aided it).
+    * it's the one running the Inhibitor-like suppression of those who want to follow the departed (destroyed?) Keter; focal point for those elements that was to not-follow
+    * these Inhibition efforts may be want's leading to the long bouts of hibernation, and it was the opponent to the First Imperium's attempt at Ascension (although others aided it).
