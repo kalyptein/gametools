@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "PCG/System PCG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "System PCG"
             }
           },
           {
@@ -97,16 +97,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Taking Action/Trade.md",
+                "file": "Rules/Taking Action/Tech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trade"
+              "title": "Tech"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,19 +153,22 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           },
           {
-            "id": "54074dfccc02ede9",
+            "id": "0ea8b89b59d23f2b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mk-path-view"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -236,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Sapients.md",
+                "file": "PCG/System PCG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -260,22 +262,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "322c11a56477dd9f",
+  "active": "695fc441fb5c3f9d",
   "lastOpenFiles": [
-    "Setting/Psionics & Theology.md",
+    "PCG/Settlement PCG.md",
+    "PCG/Sector PCG.md",
+    "PCG/System PCG.md",
+    "PCG/Sites.md",
+    "PCG/Faces.md",
+    "TODO.md",
     "Setting/Sapients.md",
-    "Rules/Taking Action/Trade.md",
-    "Setting/Institutions.md",
+    "Rules/Taking Action/Tech.md",
     "Setting/History.md",
+    "Setting/Institutions.md",
+    "Rules/Taking Action/Trade.md",
+    "Setting/Psionics & Theology.md",
     "Rules/Characters/Character Basics.md",
     "Rules/Cycle of Play/Factions.md",
     "PCG/Factions.md",
     "Setting/Space Travel.md",
-    "TODO.md",
-    "Rules/Taking Action/Tech.md",
     "Setting/Untitled.md",
     "Setting/Untitled 1.md",
     "Testbed.md",
@@ -286,11 +294,6 @@
     "Rules/Taking Action/Domains.md",
     "Rules/Equipment/Gear.md",
     "Rules/Equipment/Ships.md",
-    "Rules/Equipment/Cyberware.md",
-    "Rules/Equipment/Trade Goods.md",
-    "Rules/Taking Action/Basic Rules.md",
-    "Rules/Taking Action/Combat.md",
-    "Rules/Taking Action/Warfare.md",
     "Rules/Cycle of Play",
     "Rules/Equipment",
     "Rules/Characters",

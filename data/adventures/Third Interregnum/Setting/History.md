@@ -220,6 +220,7 @@ strife
 * nobles sought to live on in elaborate tombs with VR sims for their uploaded emulations.  traps, defenses for their tombs and grave goods.  sought to continue to influence the empire after death; could succeed, but could also gradually be stripped of power or fail to amass enough to live on.  many are not code-rotted and mad undead
 	* digital afterlife: federovist inspired?  federov being a saint of the first imperium church, this is one way the old religion transitioned into the new, shedding the focus on xenos and psi in favor of tech.
 	* saint hans moravec
+
 * source of AIs, which can still be out there lurking, used many robots (many remaining at their posts still).  lots of cyber-augmentation of the elites.
 	* much of the common computer protocols were laid down in this era and persist to the present, with local variations.
 	* created synths as trusted retainers and "batmen" and VI emulations
@@ -233,6 +234,7 @@ strife
 		* do these humans eventually fully upload, gaining the phylactery and losing their body?
 		* or can you make them either way?  
 * dueling, elaborate etiquette, baroque styles, court intrigue
+
 * ranks
 	* exultants (upper noble), armigers (knights, titled "ser"), optimates (merchant / artisan / bureaucrat gentry)
 	* pandours (soldiers)
@@ -242,6 +244,7 @@ strife
 * armigers (cataphracts?) pilot small mecha (about SUV-sized) called Iron via neural links, highly trained elite soldiers
 * left behind a variety of titles, social structures, traditions.  knightly / martial orders
 * disruptions from AIs gone rampant, often when the church's oversight of their growth is disregarded
+
 * fall of the empire
 	* gradual weakening and decadence of central authority, growing power and ambition of the regional magnates
 	* emperor killed in a godmind rampancy event that disrupted much of the empire's computer systems for a time.

@@ -1,0 +1,4 @@
+
+* xeno sites
+* derelicts
+* mines

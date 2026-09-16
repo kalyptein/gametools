@@ -28,3 +28,16 @@ D-D - 4
 D-E - 5
 E-E - 6
 
+
+Tags
+* Populous
+	* roll half or all of the system populations w/ +A
+* Underpopulated
+	* roll half or all of the system populations w/ +D
+* Precursor Remnants
+	* Remnants of one or more precursor species is common in this sector
+* Widespread unusual hyperspatial environment
+	* texture, weather, major anomalies (black holes, metadimensional incursions, etc), hyperspatial engineering works
+* Widespread void ecology
+* Widespread battlefield remnants
+	* A major campaign, lots of UXO / autonomous threats, battle scarring, social structures/signifiers of the history, etc

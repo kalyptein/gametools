@@ -12,5 +12,3 @@ sci-fantasy vibes
 	* still lots of rogue terraforming engines, metadimensional-irradiated mutants, etc
 	* humans have received some genetic tweaks long ago as well, easing travel with minor extropian adjustments (digestive enzymes, immunity boosts, gut biome, zero-g adaptations, rapid circadian shifts, etc) - adaptation maladies are not uncommon, but are usually more "jet lag" or "the runs", rather than anything disastrous.
 * a selection of precursor biospheres as well, though most are at least tolerable to humans
-
-
