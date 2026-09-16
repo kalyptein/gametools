@@ -206,13 +206,20 @@ Arden Vul system
 	* Level 6
 		* entities
 			* 6-7, -8 (figure guests & staff for whole inn, thegan), -9, -14, -33
+				* Justin the Nose (-7), Thegan (-8)
+				* Boots (-8), Dirty Betsy (-8)
+				* Lily and Theudelinda (-8)
+				* Aethgrim Fleet-hand, the lutist, male thorcin (-8)
+				* Saucy and Sweetmeat, goblin cooks (-14)
+				* current visitors (-8)
 			* -16 (Gethe the milgrade bot)
 			* -20 (isocorax), -27
 			* -28, -30 (Relke), -38 (Relke?), -39 (a-h)
 			* -44a, -48 (Justinian), -49
 			* -58 (guests, events, staff, etc of the Arena)
 				* encounter in -58 hallway
-			* -59, -61 (gamblers), -62, -63 (drunk), -64
+			* -59, -61 (gamblers), -62, -63 (drunk), 
+			* -64 (patrons)
 			* -68, -70, -71 to -91
 			* -104
 			* -118 to -122
@@ -221,16 +228,11 @@ Arden Vul system
 			* -161, -165
 			* -167 (Gimon the bat-creature? raven-creature?)
 		* dressing
-			* 6-7, -8, -9, -9a, -10, -11, -12, -14, -15, -16, -18, -19, -20, -27
-			* -28, -30, -32, -33, -35, -36, -39 (a-h)
-			* -44, 49
-			* -59, -61, -62, -64
-			* -68, -70, -71 to -91, -96
-			* -104
-			* -118 to -122
+			* -44
+			* -68, -73, -75, -76, -77, -78, -79, -80
+			* -81, -82, -85, -86, -90, -96
+			* -118, -119, -120, -121, -122
 			* -129
-			* -130 to -135
-			* -161, -165
 		* Goblin artist's treasure map to Callista of Level 6
 
 * Below Depths

@@ -476,19 +476,20 @@ Thegan White-Mane (75%) (for stats, see 6-19)
 
 * The common room is cool and dim, lit only by a pair of crystals mounted on the walls that emit low, blue-tinged light.
 	* The bar to the northwest and low stage in the southern niche dominate the room.
-		* The barkeeps are two:
-			* A handsome, but rather dim human named Boots after the extravagant red, leather high-boots that he sports.
-			* A sour, toothless crone named Dirty Betsy; she warms to any who attempt to charm her.
-		* The wenches are named Lily and Theudelinda; they are kind but not stupid, and never cavort with guests.
-		* Thegan likes to hire entertainers for a ‘season’ of 3-6 months.
-			* Currently a fine Thorcin lutist, named Aethgrim Fleet-hand, is in residence.
-				* He was an adventurer (T4) whose party was decimated in the Nether Reaches and who managed to convince Thegan to let him stay on as an entertainer.
-				* Fleet-hand knows a lot of songs, and takes requests in return for a 1gp tip; when left to his own devices he specializes in flowery, classical laments and in murder ballads.
 	* A dozen tables fill the main area, and several booths fill the northeastern corner. 
 	* The east wall has a large wooden frame (10’x10’) with a canvas stretched over it.
 		* Every year, Thegan replaces the canvas and invites artistic-minded guests to add images. Depending on the time of the year, there may be some interesting and potentially useful images on the canvas.
 			* Usually, by December there are 3 imaginary monsters, 4 real monsters (15% chance of an architectural detail or caption to help locate the beast), 5 representations of locations (20% to identify, or 75% if the viewer has actually been there; 10% chance the image imparts some truly useful information, like a secret door), and 10-20 caricatures of guests of the Inn.
 		* In front of the mural are a couple of large piss-pots (that are periodically emptied into the Great Chasm).
+
+* The barkeeps are two:
+	* A handsome, but rather dim human named Boots after the extravagant red, leather high-boots that he sports.
+	* A sour, toothless crone named Dirty Betsy; she warms to any who attempt to charm her.
+* The wenches are named Lily and Theudelinda; they are kind but not stupid, and never cavort with guests.
+* Thegan likes to hire entertainers for a ‘season’ of 3-6 months.
+	* Currently a fine Thorcin lutist, named Aethgrim Fleet-hand, is in residence.
+		* He was an adventurer (T4) whose party was decimated in the Nether Reaches and who managed to convince Thegan to let him stay on as an entertainer.
+		* Fleet-hand knows a lot of songs, and takes requests in return for a 1gp tip; when left to his own devices he specializes in flowery, classical laments and in murder ballads.
 
 Aethgrim Fleet-hand, the lutist, 4th-level male Thorcin thief: SZ M; AL N; AC 5; MV 120’; HD 4; HP 16; #AT 1; Dmg 1-6 (short sword), 2-5 (dagger +1). Abilities: STR 11, INT 12, WIS 
 9, DEX 17, CON 10, CHA 17. Thief skills: PP 50%, OL 47%, F/RT 35%, MS 38%, HS 30%, HN 15%, CW 87%, RL 20%. Possessions: bracers of defense (AC 8); furred cloak; short sword; dagger +1; fine lute; purse with 176 gp.
@@ -1330,10 +1331,10 @@ Special defenses: immune to poison and mind-affecting spells. Special: infravisi
 * By the western wall are four racks on which hang the limbless torsos of four more rudishva military-grade security constructs.
 	* One construct (Stiller) still has a bit of emergency power.  Its eyes power on when it hears noise; one may see the amber glow tracking them across the chamber.
 		* Could be recharged with the charger at 6-38.
-		* Kerbog Khan might be able to repair Stiller (see SL12-28).
 		* Stiller is intelligent.  He might be willing trade information for promises of repair.
 			* He can describe the madness of Relke, and how he destroyed his fellow guardians and the entire workshop.
 			* Knows how to get into 6-27, and about 6-38, 6-39, and 6-27. 
+		* Kerbog Khan might be able to repair Stiller (see SL12-28).
 
 ### 6-37: Transit Chamber
 
@@ -1389,7 +1390,7 @@ Sir Sixth, injured and insane Sun-Scarred Knight (see new monsters), 12th-level 
 axe +2). Abilities: STR 18/53, INT 13, WIS 16, DEX 12, CON 16, CHA 12. 
 * Possessions: key to SL10A-16, gothic armor and sun lance (see new technological items); solar ring, circlet of command, and backpack of capacity (see new magic items for all three); 8 ancient octagonal platinum coins (see Arden Vul items); battle axe +2. 
 
-3-18 heqeti slime zombies (see new monsters): SZ M; AL N; AC 6; MV 60’; HD 4; HP 30, 29, 28, 28, 27, 27, 26(x3), 25(x3), 24(x3), 23; #AT 1; Dmg 2-8. Special attacks: slime infestation. Special defenses: immune to electricity.
+3-18 (15) heqeti slime zombies (see new monsters): SZ M; AL N; AC 6; MV 60’; HD 4; HP 30, 29, 28, 28, 27, 27, 26(x3), 25(x3), 24(x3), 23; #AT 1; Dmg 2-8. Special attacks: slime infestation. Special defenses: immune to electricity.
 
 ##### 6-39a: Central Platform
 
@@ -1614,7 +1615,7 @@ chain mail (see new magic items), long swords, light crossbows. The conversi typ
 	* Painted atop the blue paint are various Sortian and Priscian symbols: knots, the numeral ‘8’, fairly crude faces meant to imitate the Sortian faces (e.g. in 6-48). 
 	* Secret Door (north): invisible keyhole (dispel magic reveals it for 3 turns; +10% pick). Once known, it is seen through like an illusion.  Jillia One-Ear holds the key.
 	* Secret Door (west): easy to locate (1 in 4). invisble keyhole revealed by magical light within 5’ of the door.  Jillia One-Ear holds the key.
-* 
+
 * Five Priscians sit around a wooden table, playing cards.
 	* They are tasked with guarding the route between Level 3 and Level 6.
 	* Bored, but relatively vigilant.

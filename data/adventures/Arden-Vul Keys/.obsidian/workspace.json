@@ -117,7 +117,7 @@
             }
           },
           {
-            "id": "e074f2e03279a3d8",
+            "id": "f5cdf440889497be",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,7 +199,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline"
             }
           }
         ],
