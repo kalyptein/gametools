@@ -492,3 +492,123 @@ Servants: A standing army of shorthorns and humans, commanded by his sons (longh
 Location: Castle Everdusk (hex 0410)—ancestral home of House Ramius (and of Lord Malbleat).
 
 Combat stats: Longhorn (DMB).
+
+
+
+
+
+House Mottos
+
+random generator
+https://www.thegoodeknyght.com/dolmenwood-mottos/
+
+https://www.thegoodeknyght.com/how-to-create-fantasy-house-words-and-knightly-mottos/
+### The Ducal House
+
+**House Brackenwold: “Wood, Wold and Wild”**   
+_(Silva, Campus et Terra Effera)_
+
+The traditional words of the dukes of Brackenwold. They name the three spheres of the house’s power and ambition: Dolmenwood’s forest **(Wood),** the southern heartland of the duchy **(Wold),** and the northern frontier **(Wild)** they aim to claim and civilize. What the words do not say aloud is the price of that dominion, kept in a locked and lightless place beneath the castle.
+
+![House Brackenwold shield with blue and black diamonds on left, white goat head with red horns on dark gray right](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Brackenwold.webp?resize=150%2C150&quality=80&ssl=1)
+
+### The Human Houses
+
+**House Harrowmoor: “Vigilance Never Sleeps”**   
+_(Vigilantia Numquam Dormit)_
+
+House Harrowmoor is all about law, learning, and piety. Lady Theatrice is ever watchful while her less civic-minded peers are off dreaming or partying. The motto is both a creed and a sharp rebuke to anyone who might be asleep at the wheel —especially feckless neighbours like:
+
+![House Harrowmoor shield with red field, black circle containing crowned heart, and red-black checkered right side](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Harrowmoor.webp?resize=150%2C150&quality=80&ssl=1)
+
+**House Guillefer: “In Dreams, Wisdom”**   
+_(In Somniis Sapientia)_
+
+The nobles of the Hall of Sleep are famous for slumbering through the centuries, wandering fairy dreamlands while their villages quietly atrophy. Their house words cleverly reframe their vice as virtue. What remains unsaid is that the dreamlands are not empty, and that no Guillefer can be quite sure the lord who wakes is the same one who lay down.
+
+![House Guillefer shield with golden rays emanating from a sleeping golden face on purple background](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Guillefer.webp?resize=150%2C150&quality=80&ssl=1)
+
+**House Mulbreck: “Deeper Than It Appears”**   
+_(Altius Quam Videtur)_
+
+House Mulbreck used to be respectable, but now it’s rotting from the inside out. At first glance, their house words sound like a boast about hidden depth and old wisdom. In the damp halls of Bogwitt Manor, however, it’s more like a glimpse of just how deep the rot truly goes.
+
+![House Mulbreck coat of arms featuring pale eight-petaled flower with red center encircled with red berries on black field](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Mulbreck.webp?resize=150%2C150&quality=80&ssl=1)
+
+**House Hogwarsh: “Glory and Gryphon”**  
+_(Ars et Vinum)_
+
+The griffons of High-Hankle are the house’s pride and the beast of its motto, though they don’t ride on a shield. The arms show a spear-pierced boar (oddly) straddling a harp, the kill above the music. Hogwarsh once bred its griffons for war and was the terror of the barony; these days the Baron would sooner host a tourney than fight in one.
+
+![House Hogwarsh shield with red boar impaled by, golden spears, astride a white harp on a blue field](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Hogwarsh.webp?resize=150%2C150&quality=80&ssl=1)
+
+**House Nodlock: “Whither the Fates Carry Us”**   
+_(Quo Fata Ferunt)_
+
+Lord Harald Nodlock has never seen a battlefield and only survives because being Lord Ramius’s lackey is a little safer than getting stomped by Lord Murkin. The motto is way older than his cowardice — an old, fatalistic creed from braver ancestors. These days, it’s less a noble resignation and more of an excuse. This house has stopped steering and is just drifting wherever the longhorns push them.
+
+![House Nodlock shield with white stone archway and two golden lightning bolts on brown background](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Nadlock.webp?resize=150%2C150&quality=80&ssl=1)
+
+### The Longhorn Houses
+
+**House Ramius: “The Eye Sees, Time Collects”**   
+_(Oculus Videt, Tempus Colligit)_
+
+The words nod to the house sigil, the Thorned Eye: Ramius watches, forgets nothing, and keeps its wrongs the way a ledger keeps debts — settled by time, not temper. The current lord, cheated of his inheritance twenty-two years ago, fits them almost too well, but they are far older than him and will outlast him.
+
+![House Ramius shield with red four-spiral symmetrical design and black diamond center on dark background](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Ramius.webp?resize=150%2C150&quality=80&ssl=1)
+
+**House Malbleat: “Same Root, Better Fruit”**   
+_(Eadem Radice, Fructus Melior)_
+
+Malbleat is the one house that knows exactly how old its words are. It broke from the senior line twenty-two years ago, still pressing its claim to be the true head of House Ramius. The motto is that claim writ large — a sharp barb every longhorn in the High Wold gets, and one that really gets Ramius’ goat. (Sorry, not sorry.)
+
+![House Malbleat shield with golden cockatrice with red feet, talons, and tongue on a green field.](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2026/01/Malbleat.webp?resize=150%2C150&quality=80&ssl=1)
+
+**House Murkin: “The Enemy Sharpens Me”**   
+_(Inimicus Acuit Me)_
+
+The words are a warrior’s boast, but Lord Murkin takes them somewhere colder. Half-breggle, half-human and scorned by both kindreds, he treats his late father’s mild reputation as a stain to scour away, and keeps his own mother in a dungeon for contradicting him once too often. These days the “enemy” is mostly anyone who mistakes him for soft.
+
+![House Murkin shield with black-winged creature and two golden crescent moons on orange background](https://i0.wp.com/www.thegoodeknyght.com/wp-content/uploads/2025/07/Murkin.webp?resize=150%2C150&quality=80&ssl=1)
+
+### Lesser Houses
+
+Brackenwold is packed with lesser noble families besides the big names. Here are some house words for these families, pulled from the rolls of human and breggle noble family names (see **_DCB,_** p. 58 and 64, respectively), but admittedly rather arbitrary. Change them as needed to suit your campaign.
+
+#### **Human**
+
+- **House Albrime: “First to Frost, Last to Fall”** _(Primi Pruinae, Ultimi Casu)_: A hardy old house that wears the rime as a badge of endurance, never once broken by hard winters.
+- **House Baldericke: “Girded in Faith”** _(Fide Cincti)_: A pious house that holds itself the sword-arm of the Church, its knights girded as much in faith as in steel. Where the name once meant only the belt that bears the blade, the words now bind the house to the One True God
+- **House Elfwit: “Clever as Any Fairy”** _(Astutus ut Faia)_: A house that has dealt with fey-folk often enough to dare measure its wits against them.
+- **House Flechette: “Loosed and True”** _(Emissa et Vera)_: Founded by a legendary archer, this ancient house uses the bow as its symbol.
+- **House Haeroth: “Old Blood Runs Slow”** _(Sanguis Vetus Tarde Fluit)_: A dwindling line clinging to the faded grandeur of better days.
+- **House Highgrime: “Clean Hands Build Nothing”** _(Manus Mundae Nihil Aedificant)_: A house that prizes honest labor and scorns the idle gentry who mistake soft hands for breeding.
+- **House Ladrigham: “We Hold the Ledger”** _(Rationes Tenemus)_: Long charged with stewardship, and said to remember every favor and every debt.
+- **House Offcester: “Far From the Hearth, Faithful Still”** _(Procul Foco, Fideles)_: Defined by long, lonely service, holding to its oaths far from home and comfort.
+- **House Snape: “We Thrive on Less”** _(Minore Crescimus)_: Risen from grudging ground, reckoning hardiness a virtue and eyeing softer, richer houses askance.
+- **House Symeswitt: “Wit Wins the Day”** _(Ingenium Vincit)_: A clever, slippery family that prefers cunning to steel.
+- **House Twinsor: “Two Halves, One Whole”** _(Duae Partes, Unum Totum)_: A house that holds opposites in balance — mercy and law, sword and word — and reckons wisdom the giving of each its due.
+- **House Underlow: “Deeper Than the Roots”** _(Altius Radicibus)_: An old house whose holdings run downward into mine, cellar, and barrow — and who hold that the best things are always buried, along with a few of the worst, and that the family knows the difference.
+- **House Waldermost: “Faithful to the Wood”** _(Silvae Fideles)_: An ancient house whose first loyalty is to the forest itself, and whose oaths are sworn to something older than the Church — a devotion the pious eye warily, and the wise do not follow into the trees after dark.
+- **House Woldeleigh: “We Keep the Clearing”** _(Lucum Tenemus)_: Holders of the rare open ground, waging the endless work of keeping the forest from closing over it.
+
+**Longhorn**
+
+- **House Barbicant: “None Pass the Gate”** _(Portam Nemo Transit)_: Founded by a famed castellan, holding defense and the keeping of gates as its proudest charge.
+- **House Canticreed: “We Sing What We Believe”** _(Quod Credimus, Canimus)_: A house famous for the fervour of its worshipful singing — though what a Canticreed sings behind closed doors, to the old ancestor-goddess, is another matter. The words promise only that the house believes what it sings in private, not what it performs in public.
+- **House Cllern: “We Outlast”** _(Permanemus)_: A house whose name is said to mean endurance, trusting patience to see off any rival in the end.
+- **House Cornicus: “By the Curl of the Horn”** _(Per Flexum Cornu)_: A traditional longhorn family, proud of its noble bearing.
+- **House Furroughby: “Plowed Deep, Sown Deeper”** _(Alte Aratum, Altius Satum)_: A rural breggle family of farmers risen to minor gentry.
+- **House Hoblewort: “Small Root, Deep Hold”** _(Parva Radix, Altus Tenor)_: A minor breggle house that clings tenaciously to its modest holdings.
+- **House Houndswort: “We Run Down Our Prey”** _(Quod Sequimur, Capimus)_: Descended from a celebrated Master of Hounds, with a reputation for relentless pursuit.
+- **House Hraiglent: “Of Hraigl’s Blood”** _(Sanguine Hraigl)_: A proud house tracing its founding to one of the seven kids of Hraigl, and never letting anyone forget it.
+- **House Llhraigl: “Her Defiance Endures”** _(Eius Contumacia Perstat)_: Keeper of Hraigl’s defiant spirit, bound by tradition to the ancient grudge against the Drune.
+- **House Lockehorn: “Our Horns Lock, They Do Not Break”** _(Cornua Nectimus, Non Frangimus)_: A stubborn line that prides itself on never yielding.
+- **House Lockelope: “Once Started, Unstopping”** _(Coepta Non Sistunt)_: A house of headlong momentum: once set upon a course, it cannot be checked or turned aside.
+- **House Overlocke: “We Watch the Passes”** _(Fauces Custodimus)_: Entrusted in its founder’s day with watch over the narrow ways, and vigilant ever since.
+- **House Pellicorn: “Thick of Skin, Long of Horn”** _(Pelle Dura, Cornu Longo)_: A house holding that a thick hide turns aside insult as a long horn turns aside a rival.
+- **House Shankhollow: “The Hollow Forgets Nothing”** _(Vallis Nihil Obliviscitur)_: An ancient house of long memory, keeping grudges and debts across generations.
+- **House Snidebleat: “We Bleat Last and Loudest”** _(Ultimi Balamus, Maxime)_: A petty, scheming house with a talent for outlasting its betters.
+- **House Wealdleap: “Sure of Foot, Sure of Word”** _(Pede Certo, Verbo Certo)_: A nimble, dependable house trusted to keep its footing where others falter.
+- **House Wealdlore: “The Old Songs Are Ours”** _(Nostra Sunt Carmina Vetera)_: Founded by a renowned loremaster, keepers ever after of the old songs and ancient verse.

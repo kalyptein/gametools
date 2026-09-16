@@ -148,6 +148,10 @@ Definitely
 	* Summer's End, Emelda's Song, the Fungus that Came to Blackeswell, Winter's Daughter, Ruined Abbey of St Clewyd
 	* Dolmenwood Dozen - small dungeons pdf
 	* The Weaver and the Redcaps
+		* reddit suggestions for where to place it:
+			* just to the North of Prigwort in the same hex
+			* just south of Prigwort, replacing Mother with Griselma Harrow (The bakery just along the road south-east of Prigwort. 1206)
+			* the hex just east of castle harrowmoor, there is a inn there, where boats from northeast might dock before going back; place the weavers a couple hours behind the inn, center of the wood, near prigwort
 * Hole in the Oak, Incandescent Grotto
 * The Yellow Book of Brechewold
 	* select locations
@@ -164,6 +168,7 @@ Definitely
 * The Weird the Befell Drigbolten (OSE, going to be rereleased for Dolmenwood some day?)
 * 
 * The Thicket (Arden Vul outside adventure)
+* Falkrest Abbey (it's got a saint, a grail of tears, some knights, an undead abbott)
 * 
 * there are a bunch of 3rd party dolmenwood adventurers on DTRPG
 	* I put them in a DTRPG wishlist
