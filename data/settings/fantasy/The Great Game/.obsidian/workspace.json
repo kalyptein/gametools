@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "61c771f5490a8118",
+    "type": "split",
+    "children": [
+      {
+        "id": "b004bfa0bdd96c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c83a57b8fb8bb6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmology/Power.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power"
+            }
+          },
+          {
+            "id": "5a26f67ed152071f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/History/Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "3e7e4c3015c25818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/The World/The Heavens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Heavens"
+            }
+          },
+          {
+            "id": "c8c40093f799d7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/The World/The Underworld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Underworld"
+            }
+          },
+          {
+            "id": "2a06ff5355e1ca39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/History/The Age of Night.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Age of Night"
+            }
+          },
+          {
+            "id": "b257f81ceaec7308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Ascendants/Ghul Ascendants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghul Ascendants"
+            }
+          },
+          {
+            "id": "9ad8709194acf5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Ascendants/Ascendant Beings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascendant Beings"
+            }
+          },
+          {
+            "id": "83c9c698b2c3ef0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Mortals/Goblins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goblins"
+            }
+          },
+          {
+            "id": "9bd86c2c5a04b40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Bestiary/Demons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demons"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "612c5f5a48e556b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb0b66afd7c958f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ee30d66c51ce94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ba984992c72af34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "witch-",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e89c66b20a4287f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fcdae7260cb1fa45",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af81c6b8f1515e22",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a7255e5867c7f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d4eb95f72ccd8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rules/Time & Travel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Time & Travel"
+            }
+          },
+          {
+            "id": "c585c9e52efc2061",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules/Time & Travel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Time & Travel"
+            }
+          },
+          {
+            "id": "43f169e49cac09f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5928501142b533af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting/Ascendants/Ascendant Beings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ad8709194acf5b8",
+  "lastOpenFiles": [
+    "Setting/Ascendants/Ghul Ascendants.md",
+    "Setting/Ascendants/Ascendant Beings.md",
+    "Setting/Mortals/Orcs.md",
+    "Setting/Bestiary/The Elder Races.md",
+    "Setting/History/The Age of Night.md",
+    "Setting/Bestiary/Demons.md",
+    "Setting/Mortals/Goblins.md",
+    "Cosmology/The Unseen World.md",
+    "Setting/Mortals/Fey.md",
+    "Setting/History/The Elder Age.md",
+    "Setting/Bestiary/Dragons.md",
+    "Setting/History/The Age of the First Dawn.md",
+    "Setting/Mortals/Humans.md",
+    "Setting/Mortals/Cambions.md",
+    "Setting/History/The Age of Kingdoms.md",
+    "Setting/History/The Age of Twilight.md",
+    "Setting/History/The Age Before.md",
+    "Setting/History/Timeline.md",
+    "Setting/Bestiary/Others.md",
+    "Setting/Bestiary/Nightmares.md",
+    "Setting/Bestiary/Undead.md",
+    "Setting/Bestiary/Titans & Giants.md",
+    "Setting/Mortals/Dwarves.md",
+    "Setting/Mortals/Jurdhān.md",
+    "TODO.md",
+    "Setting/The World/The Horizon.md",
+    "Setting/History",
+    "Setting/Ascendants",
+    "Setting/The World",
+    "Setting/Bestiary",
+    "Setting/Mortals",
+    "Cosmology",
+    "Tags",
+    "Setting",
+    "Setting/Setting - World",
+    "Setting/PCG"
+  ]
+}
