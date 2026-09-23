@@ -187,6 +187,10 @@ Kether (hierarchy) - Thaumiel (power)
 * first, oldest sapients to join / create (?) the Omega entity
 * oldest known sapient species
 
+* keter's home star has a metadimensional anomaly, this produced their psionic powers (and in other species in the biosphere)
+* when binah infested keter-paradigm life, it upgraded binah as well, as it aquired more psionic ability
+	* this is part of what launched binah into being such a threat to keter and chokmah
+
 original biology
 * 
 * dragon-moth-wheel-of-wings
@@ -291,10 +295,20 @@ human consideration
 * use of the language can also unlock incomprehensible modes of cognition, forms of "logic" and "math" able to produce results, but incomprehensible to human understanding, perhaps boosted by connecting to the hive mind to borrow its thought resources
 	* the experience of it for humans is like gematria / bibliomancy; wandering through writings, poetry, numerology, symbology and art, gradually realizing the meaning hidden within it the whole time (that you put there, unknowingly)
 
+* binah had a variety of biological substrates
+	* it had the one it originally arose in, but that's pretty rare / maybe extinct (maybe there's a bombed out world from when keter tried to exterminate it)
+	* it has the specie(s) of keter's biome gardening that it infested; those were widespread, due to keter's spread, so the binah-strain that infected it existed in many places, and probably still does.  they may have just abandoned and quarantined some worlds, so the binah strain persisted there.
+
 ### Chokmah / "The Old Kings"
 
 Chokmah (submission) - Chagidiel / Ghogiel (abuse)
 * wisdom
+
+* there was an original species
+* during contact / conflict with keter and/or binah, they created a synthetic species to manage / fight / etc for them
+* the original eventually died out, and the synthetic replaced them
+	* why? how?  did the synthetic do it to them, or did it fail to protect them? or did the original just wither and was supplanted?
+* the synthetic is what went to to join the trinity, etc
 
 biology
 * centauroids
@@ -616,3 +630,163 @@ human consideration
 	* one is kind of a labor union, maintaining and installing the works of the Church; orderly "working class"
 	* the other is a kind of anarchistic (in the sense of no-leaders), sometimes iconoclastic friars
 		* often challenging the schemes or designs of the more "noble" sects
+
+
+
+## TODO Precursor Timeline
+
+### Era 1
+
+* keter arises
+	* glaciation drives their evolution of intelligence; the better they could manage their garden-biomes, the better they thrived
+
+* ??? da'ath arises
+	* ??? what kinds of interactions is it having?
+	* ??? it's null-mind is originally a defense against binah? keter? chokmah's manipulations?
+	* ??? does da'ath begin its anti-assimilation stance on seeing proto-chokmah go extinct and chokmah unify with keter?
+
+* binah arises
+	* non-sapient group societies among indigenous life
+
+* chokmah's original creator species arises
+	* possibly the chokmah-creator species arises, then is replaced by its creations, chokmah itself
+	* perhaps chokmah was created due to conflicts with keter and/or binah? so wouldn't arise until after keter-chokmah or chokmah-binah contact
+
+* keter-binah contact
+	* binah infests keter garden-biomes on many worlds, creating "revolt" against their management; keter makes war, trying to stamp out the infestation.
+		* binah can't infest keter minds directly (at least not usually), too hierarchical / dominance oriented in their social organization, incompatible with binah's "egalitarianism"
+	* binah augmented by assimilation of keter-paradigm psionic lifeforms
+
+* proto-chokmah-binah contacts
+	* proto-chokmah are vulnerable to binah infestation, as are other lifeforms
+		* make it a bit less zombie-horde / struggle to survive (as it is for keter), more like a weird alien intrusion into their society, culture, and minds
+
+* keter-proto-chokmah contact
+	* drives proto-chokmah species to engineer the synthetic chokmah species.
+		* chokmah synthetics are immune / resistant to binah?
+		* the chokmah synthetics manage proto-chokmah society, which is crippled / warped by binah infestation, and protects against keter aggression.
+	* perhaps there are binah-organized elements of proto-chokmah society, and keter fears / opposes them and attacks?
+
+* proto-chokmah species goes extinct, replaced by chokmah
+	* ??? why / how?
+
+* keter nearly self-extincts
+	* by this time, they have overcome / reached stasis with binah, but the upheaval of clashes with binah and chokmah may lead to the state of affairs leading to the near-self-extinction
+		* keter's weaponry has vastly improved during these conflicts, and so when it returns to one of it's usual fracases, it blows up into an apocalyptic conflict
+	* surviving keter seek the aid of chokmah
+
+* keter and chokmah partnership
+
+* partnership "domesticates" binah, begins their triune unification ("trinity")
+	* chokmah viziers guide keter hierarchies, linked by binah
+		* keter psi-fetishes are created as part of this process? or created during the conflicts / extinction war, then repurposed?
+	* hierarchies are not yet unified, but able to coexist in ways they couldn't before
+	* wild strains of binah continue to exist and must be managed / suppressed going forward
+
+#### Era 1 Remnants (Trinity Formation)
+
+* keter garden-biomes/ruins/colonies
+	* metadimensional "anomaly suns" created in orbit to cultivate psionic lifeforms as part of their settlement processes (or maybe more like a prism / filter than transmutes normal solar radiation into metadimensional radiation?)
+* scars of keter self-extinction conflict
+* scars from keter-binah purges
+	* scorched worlds, abandoned binah-infested worlds, derelict keter "plague ships" destroyed to contain the spread (perhaps also to cull a rival hierarchy)
+* 
+* proto-chokmah ruins/colonies (not easily recognized as connected to chokmah or later trinity remnants)
+	* maybe include various forms of proto-chokmah-binah entanglement
+	* it may appear that the chokmah wiped out the proto-chokmah
+* scars from keter-chokmah conflict
+* 
+* keter psi-fetish artifacts (from proto-chokmah and binah conflicts, from the extinction war, from the early trinity)
+* keter-chokmah co-habitation ruins
+* binah domestication "byproducts" (scary), labs, and sterilization zones
+* early trinity ruins
+* wildstrains of binah
+
+### Era 2 (Young Species)
+
+* Geburrah arises
+
+* Chesed arises
+
+* da'ath and trinity not getting along, but conflict is limited / restrained
+
+* the "young species", chesed and geburrah, have contact with trinity and da'ath
+
+#### Era 2 Remnants
+
+
+### Era 3 (Trinity-Da'ath War)
+
+
+* trinity-da'ath war
+	* early war in normal space, development and deployment of devastating psi-weapons
+	* trinity proto-omega and da'ath centrum retreat into "higher-dimensional fortresses" to protect against the deadly metadimensional / ascendant weapons each can deploy
+	* needing lower-dimensional agents, they create Hod (da'ath) and Netzach (trinity)
+	* da'ath defeated? / exiled? / imprisoned? / unmade? / neutralized?
+
+#### Era 3 Remnants
+
+
+
+### Era 4 (Post-War Assimilation)
+
+* omega creates tiphareth to oversee further assimilation
+	* both to improve the process, and as a cut-out against further attacks
+	* assimilates hod, netzach, chesed, and geburrah
+	* hod (former agents of da'ath) fights hard, and not all members of the young species go gladly to their destinies
+
+* hod, netzach, chesed, and geburrah are the active agents of the omega
+	* limited physical presence of "avatars" or "overseers" of the trinity species
+
+* yesod arises
+	* ??? omega creates/assimilates yesod
+
+#### Era 4 Remnants
+
+
+### Era 5 (Omega Supreme)
+
+* omega reaching full maturity, creates malkuth as "cosmic operating system"
+	* malkuth begins its gardening
+
+* omega in full flower
+	* omega begins exploring possibility of ascension
+
+#### Era 5 Remnants
+
+
+### Era 6 (Failed Ascension)
+
+* Omega attempts ascension, fragments
+	* (ascendance) some parts believe a core portion of the Omega did ascend, and they should contact it and rejoin it
+	* (inhibitors) some parts believe the core was destroyed, that this was a mistake and possibly a trap (maybe a Da'ath scheme implanted via Hod?)
+	* (purgation) some parts believe ascendance is possible, but the original core was destroyed by the failure.  omega remnants must reorganize / purge / reconsolidate and try again
+	* some parts are weird / solipsistic / broken; perhaps causing trouble, perhaps resources to be reclaimed by the more functional fragments?
+		* expressions of these can still remain to cause anomalies or weird phenomena in the present, outside the ascendence / inhibitor conflict
+* war between ascendance, purgation, and inhibitor fragments / factions
+
+* precursor activity has largely faded away
+	* corporeal populations dwindle and go extinct or evolve into unrecognizable forms
+	* metadimensional entities go dormant, retreat to private volumes of the noosphere
+	* etc
+	* small, undirected expression may continue (autonomous agents, subsapient Choir assemblages, etc)
+
+* a whole lot of time passes
+
+
+#### Era 6 Remnants
+
+
+### Human Era
+
+* early human psions and xenoarchaeologists start poking around precursor stuff (ruins, relics, noosphere, etc)
+
+* 1st imperium arises
+	* various sects form, often based on or reacting to portions / species of the precursors / omega
+
+* 1st imperium apocalypse
+	* ascendance / purgation / inhibitor conflict is reignited by human ascension meddling
+	* conflict goes dormant again as the window of tactical opportunity closes, resources as expended, etc.  a new status quo dormancy settles in
+		* did anything major change?  is one faction primed to reactivate again?  what kind of powder kegs are there?
+
+
