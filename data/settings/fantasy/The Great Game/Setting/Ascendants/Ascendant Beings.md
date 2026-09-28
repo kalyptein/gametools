@@ -68,7 +68,10 @@ Malakim
 * recorders of debts, oath-binder, duty-shackler, builder of walls, fortifications, prisons and vaults, punisher of broken laws, vigilant watcher and guard
 	* herdsman (shepherd aspect?)
 * 
-* ??? Jurdhan's uplifter?
+* Jurdhan's uplifter?
+	* ascended through the veneration of the jurdhan; takes on a cast from that.  a Patron of the Lost and Broken?  Calmer of Turmoil.  Not entirely a normal malakim anymore.
+	* did he ascend in the age of night?  first dawn?
+		* what role did the jurdhan play in the age of night's culmination?  maybe he ascended from those energies?
 * 
 
 Djinn
@@ -85,6 +88,8 @@ Djinn
 	* 
 * The Sea Queen
 	* queen of the sea, mistress of leviathans, storm dancer, mercurial, loves stories, derring-do, heroes facing challenges, disdains cowards, giver of gifts to the worthy
+	* there is a gathering of pirates who worships her, facing her challenges for her rewards
+		* they hide / sink treasures as offerings to her
 * 
 * Storm-Bard
 	* musician of storms and winds, composer and singer, sky singer
@@ -130,9 +135,38 @@ Ghul
 
 ## The Age of Twilight
 
-* what fey ascended during the age of twilight?
+* fey
+	* the wild hunt (a gathering)
+		* ruled by a circle of ascended Great Hunters
+		* includes some legendary quarry of the hunt who eluded them and so became exalted; they can serve as both allies and foils to the Hunt
+		* bring in aspects of The Lodge from crumbling empire?
+			* can there be non-fey worshippers / members? (sure?)
+	* a bearer of news, herald, messenger, bard, wanderer, finder of new, rumormonger
 * legendary beasts
-* what dwarves?
+	* quarry of the wild hunt (become part of that gathering)
+	* a sphinx
+	* an ur-manticore
+	* a unicorn?
+	* elder treant?
+* dwarves
+	* "father of archeaology" (mother?), "lightbringer"
+		* a heroic explorer who faced the perils of the deep and unearthed the great secrets of the elder races; decipherer of mysteries, teacher, loremaster
+		* he was the one who delved into the Underworld, turning the dwarves toward that path, rather than seeking to claim the surface; brokered or led to peace with the fey
+			* he has some devotees, or at least honor, among the fey who sheltered with dwarves during the age of night.  he created the peace that allowed that alliance and shelter
+	* a explorer-guardian paragon
+		* who defended the explorers of the underworld, and guarded the underworld gates of dwarven holds
+		* fought an elder dragon (to what conclusion?)
+		* has inspired an order of paladin-like emulators
+			* or they are a gathering with ascended exemplar demigods, rather than a singular god?
+	* a loki-like dwarf trickster
+		* has been seen as a villain, hero, and rogue
+		* he caused trouble in the twilight, but then was a guerilla and concealer against the demons (in a time when no strength could oppose them, cunning could), but maybe trouble again come the dawn (perhaps more roguish this time)?
+	* glittering lord (lady?)
+		* greed is good, amassed an unfathomable trove and used elder lore to ascend
+		* a lord of greed and riches, prosperity, and the will to obtain them by any means and at any cost
+		* could move his ascension to the Dawn, as someone bent on recovering lost riches?  or that could become a facet of his when the Dawn arrives, giving him a positive facet where previously he had been kind of negative
+	* a gardener of underworld domains
+		* forger of law to stabilize them, extractor of curiosities and wonders from the resources of the deep, breeder / tamer of underworld crops/flora/fauna, builder of defenses and fortifications against the Below, builder of roads
 
 
 ## The Age of Night
@@ -140,7 +174,9 @@ Ghul
 * orcs
 	* 
 * dwarves
-	* 
+	* lord of vengeance
+		* as the demons ran amok and destroyed the great sprawl of dwarven underworld holdings, one great king fought them bitterly for every inch of his domain, and eventually died under a mountain of slaughtered foes
+		* he won enough of the the great crux of the demon's emergence, plus the veneration he received for his valor and sacrifice, ascended him posthumously as a lord of grudges, bitter vengeance, and unyielding defiance.  a grim god, venerated by many warrior dwarves (particularly in the age of night, as more and more sought to emulate him) but later other mortals too.
 * Jurdhan?
 	* the first to ascend was the first Rat King gestalt?
 * Demon Princes
@@ -163,10 +199,12 @@ Ghul
 * goblins
 * gol, gen, half-djinn
 * the dragon of the first city's fall ??? (gol-friend)
+* fey
+	* an ever-growing "pantheon" of Reclaimers begins in this age, with the demons finally "vanquished", they begin gathering and working
 
 ## The Old Kingdoms
 
-* some radenwights ascended, deep in the undercities?
+* some jurdhan ascended, deep in the undercities?
 	* or are near ascending?
 
 * "Lucifer"
@@ -174,3 +212,4 @@ Ghul
 	* a survivor from the First City?
 
 Gol? Gen?
+
