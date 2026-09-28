@@ -1,9 +1,6 @@
 [
   "obsidian-remember-file-state",
   "make-md",
-  "image-window",
   "remember-cursor-position",
-  "templater-obsidian",
-  "buttons",
-  "execute-code"
+  "extended-markdown-syntax"
 ]
