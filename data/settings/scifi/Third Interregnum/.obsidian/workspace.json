@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Sapients.md",
+                "file": "Setting/Precursors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sapients"
+              "title": "Precursors"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "Tech"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +163,7 @@
             }
           },
           {
-            "id": "24fb23cacab31138",
+            "id": "c316a1a75e1a816e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -238,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCG/System PCG.md",
+                "file": "Setting/Precursors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -262,19 +263,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "695fc441fb5c3f9d",
+  "active": "322c11a56477dd9f",
   "lastOpenFiles": [
+    "Setting/Sapients.md",
+    "Setting/Precursors.md",
+    "PCG/System PCG.md",
     "PCG/Settlement PCG.md",
     "PCG/Sector PCG.md",
-    "PCG/System PCG.md",
     "PCG/Sites.md",
     "PCG/Faces.md",
     "TODO.md",
-    "Setting/Sapients.md",
     "Rules/Taking Action/Tech.md",
     "Setting/History.md",
     "Setting/Institutions.md",
@@ -284,7 +285,6 @@
     "Rules/Cycle of Play/Factions.md",
     "PCG/Factions.md",
     "Setting/Space Travel.md",
-    "Setting/Untitled.md",
     "Setting/Untitled 1.md",
     "Testbed.md",
     "Rules/Characters/Untitled.md",
