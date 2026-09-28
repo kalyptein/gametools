@@ -310,6 +310,9 @@ Chokmah (submission) - Chagidiel / Ghogiel (abuse)
 	* why? how?  did the synthetic do it to them, or did it fail to protect them? or did the original just wither and was supplanted?
 * the synthetic is what went to to join the trinity, etc
 
+* as synthetics, they could be pretty badass, products of high tech
+	* did the synths look similar to the originals, or not?
+
 biology
 * centauroids
 * brown/tan/umber mineralized integument, like stones-skinned elephant hide
@@ -668,7 +671,11 @@ human consideration
 	* perhaps there are binah-organized elements of proto-chokmah society, and keter fears / opposes them and attacks?
 
 * proto-chokmah species goes extinct, replaced by chokmah
-	* ??? why / how?
+	* the binah infestation gradually worsens among the proto-chokmah, the chokmah have to take increasingly strict control
+	* the keter, fearful of garden-biome destroying infestations attack, increasingly effectively as their weapons tech ramps up
+		* the keter hadn't really considered weapons before, they were gifted with size and telekinetic power, so they just bludgeoned each other like elephant seals
+	* chokmah was able to isolate small populations of sub-infectious proto-chokmah in asylum-colonies, limiting degradation and convincing the keter they were not a threat
+		* these colonies gradually died out, despite the care of the chokmah
 
 * keter nearly self-extincts
 	* by this time, they have overcome / reached stasis with binah, but the upheaval of clashes with binah and chokmah may lead to the state of affairs leading to the near-self-extinction
@@ -683,6 +690,10 @@ human consideration
 	* hierarchies are not yet unified, but able to coexist in ways they couldn't before
 	* wild strains of binah continue to exist and must be managed / suppressed going forward
 
+* keter - telekinesis, maybe also teleportation?
+* binah - telepathy
+* chokmah - hypercognition
+
 #### Era 1 Remnants (Trinity Formation)
 
 * keter garden-biomes/ruins/colonies
@@ -691,7 +702,7 @@ human consideration
 * scars from keter-binah purges
 	* scorched worlds, abandoned binah-infested worlds, derelict keter "plague ships" destroyed to contain the spread (perhaps also to cull a rival hierarchy)
 * 
-* proto-chokmah ruins/colonies (not easily recognized as connected to chokmah or later trinity remnants)
+* proto-chokmah ruins/ asylum-colonies (not easily recognized as connected to chokmah or later trinity remnants)
 	* maybe include various forms of proto-chokmah-binah entanglement
 	* it may appear that the chokmah wiped out the proto-chokmah
 * scars from keter-chokmah conflict
@@ -708,9 +719,12 @@ human consideration
 
 * Chesed arises
 
+* Yesod arises
+	* make them a young species, not a construct of the Omega
+
 * da'ath and trinity not getting along, but conflict is limited / restrained
 
-* the "young species", chesed and geburrah, have contact with trinity and da'ath
+* the "young species" have contact with trinity and da'ath
 
 #### Era 2 Remnants
 
@@ -730,16 +744,14 @@ human consideration
 
 ### Era 4 (Post-War Assimilation)
 
-* omega creates tiphareth to oversee further assimilation
+* ??? omega creates tiphareth to oversee further assimilation
 	* both to improve the process, and as a cut-out against further attacks
-	* assimilates hod, netzach, chesed, and geburrah
+	* assimilates hod, netzach, chesed, geburrah, and yesod
 	* hod (former agents of da'ath) fights hard, and not all members of the young species go gladly to their destinies
 
-* hod, netzach, chesed, and geburrah are the active agents of the omega
+* the assimilated young species are the active agents of the omega
 	* limited physical presence of "avatars" or "overseers" of the trinity species
 
-* yesod arises
-	* ??? omega creates/assimilates yesod
 
 #### Era 4 Remnants
 
