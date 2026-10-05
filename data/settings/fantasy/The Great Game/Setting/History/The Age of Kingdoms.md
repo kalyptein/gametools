@@ -1,4 +1,7 @@
 
+* rename this age to have a natural / celestial name like the others, reflecting the seasons?
+	* the Age of the Wheel? the Turning Age?  The Fourfold Age?
+
 * the four seasons arise out of a balance, as the rampant fertility of the First Dawn fades (lingering more in some areas, less in others)
 
 # ???

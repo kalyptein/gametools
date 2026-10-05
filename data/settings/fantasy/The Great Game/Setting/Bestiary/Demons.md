@@ -27,7 +27,60 @@
 
 ## Singular Demons (Demon Lords)
 
-???
+* a demon whose essence animates / bonds with a slain mortal (fey) warlord
+	* a hero who tried to stop it?  a slain fey warlord, dead and buried?
+* legendary mortal warlord
+	* domains: war, earthquakes, royalty
+	* beast-headed (bull w/ 4? 6? golden horns), beautiful, except...for an eternal, hideous wound, ever-bleeding
+	* grand fortress
+		* always knows the location of invaders to their realm
+	* a mortal inadvertently commits a slight against him
+		* how do they attempt to evade his wrath?  what is his revenge?
+		* this is the mortal who slew the "mortal warlord", which led to its demonification
+
+* giant storm-cloud-fish (cephalopod? crustacean? cetacean?)
+* manifestation of storms
+	* domains: lightning, thunder, storm, cloud, rain
+		* known for being able to infuse / possess its servants (be breathed in)
+	* fish-like fins, composed of natural material
+	* its domain is one with its master
+		* unwarded invaders cannot speak
+	* a mortal misunderstands its true nature
+		* maybe a fey that thinks it's found an ally / protector?  not realizing this is also a demon?
+		* they become a powerful servant (act as a full cult in one entity, can pass through its realm)
+		* eventually it tries to fully corrupt / shape them and they escape control (still demonic but free?  realize their mistake?)
+
+* vengeful nature spirit
+	* domains: desire, memories, knowledge?
+	* burning, extra mouths
+	* composed entirely of...shadows?
+		* unwarded invaders cannot discern distance or direction
+	* a cult spreads in its name
+		* it routes an invasion of the lord's realm
+			* heroes try to put down this emerging lord, but it defeats them and secures its domain
+			* one minion/spawn become a powerful servant (acts as a full cult itself).  how is it known to mortals?
+
+* the demon is the object, a tool of murder; it has bearers who are its thralls
+	* it relishes strife, social chaos, sees it as an art, like a serial killer
+		* or is its chaos more mutagenic?  corrupt forms?
+* first being to take another's life
+	* domains: chaos, art
+	* disturbing proportions, possessed object
+	* never-ending battle
+		* unwarded invaders eventually cease to exist
+	* all its most powerful servants carry a strange trinket / item
+		* how were they crafted?  what happens to mortals who come into possession of one?
+
+* wicker-man like hungry nature being of the turning seasons
+	* but seasons don't exist yet?  maybe an "autumn/winter-like" manifestation of dying/waning nature, marking the turning of the bounty of Twilight into Night.  harvest, hunter, and prey; a presaging of Autumn and Winter in the Age of Kings
+* vengeful nature spirit
+	* domains: seasons, nightmares? sacrifice / flaying?
+	* multi-headed (hydra-like? multiple animals?), heavily-muscled
+	* endless twisting caverns
+		* unwarded invaders cannot leave
+	* it is robbed of a seemingly worthless item
+		* how does the thief evade notice?  where do they stash the item?
+
 
 ## Ascended Demons (Demon Princes)
 

@@ -142,6 +142,10 @@ Ghul
 		* bring in aspects of The Lodge from crumbling empire?
 			* can there be non-fey worshippers / members? (sure?)
 	* a bearer of news, herald, messenger, bard, wanderer, finder of new, rumormonger
+	* 
+	* a variety of archfey who fell / were overcome / faded in the age of night
+		* lots of weird, lost "small gods" to be rediscovered.  the Reclaimers seek them.
+	* 
 * legendary beasts
 	* quarry of the wild hunt (become part of that gathering)
 	* a sphinx
@@ -167,6 +171,11 @@ Ghul
 		* could move his ascension to the Dawn, as someone bent on recovering lost riches?  or that could become a facet of his when the Dawn arrives, giving him a positive facet where previously he had been kind of negative
 	* a gardener of underworld domains
 		* forger of law to stabilize them, extractor of curiosities and wonders from the resources of the deep, breeder / tamer of underworld crops/flora/fauna, builder of defenses and fortifications against the Below, builder of roads
+	* ironhand
+		* a dwarf who did not want to cede the surface to the fey, but made war upon them and conquered their lands and slew many.
+		* a war god, god of battle and triumph; forger of the first weapons of iron
+		* he had a small cult of devotees in the age of twilight, but gained new relevant against the demons.
+		* widely hated by the fey, especially Reclaimers and preservers like the Wild Hunt
 
 
 ## The Age of Night
