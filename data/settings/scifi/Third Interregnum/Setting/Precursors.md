@@ -82,36 +82,63 @@ working list
 
 ### ??? Keter
 
-Kether (hierarchy) - Thaumiel (power)
+* Kether (hierarchy) - Thaumiel (power)
+
 * first, oldest sapients to join / create (?) the Omega entity
 * oldest known sapient species
 
-* keter's home star has a metadimensional anomaly, this produced their psionic powers (and in other species in the biosphere)
-* when binah infested keter-paradigm life, it upgraded binah as well, as it aquired more psionic ability
-	* this is part of what launched binah into being such a threat to keter and chokmah
+* 2 names
+	* one their enemies gave them (the Da'ath?)
+		* ? the path of folly
+		* ? the self-consumed, the autophages / autophagoi?
+	* one is a reference to where they live (the void and the ascended realm), which they gave themselves
+		* voyage
+		* void
+		* 
+		* the [adjective] advent
+		* Noumena (sing Noumenon) - an object that exists independent of human sense (contra phenomenon); the true world we see only imperfectly via the filter of our senses
+			* maybe this is a 1st imperial term for the noosphere?
+			* also a name for the Keter species?
+			* https://en.wikipedia.org/wiki/Noumenon
+		* exurgent, exurgo (latin, to be risen) - 1st imperium name?
+
+* keter's home star has a metadimensional anomaly
+	* this produced psionic powers in a variety of local species
+	* when binah infested keter-paradigm life, it upgraded binah as well, as it aquired more psionic ability
+		* this is part of what launched binah into being such a threat to keter and chokmah
 
 original biology
-* 
+
 * dragon-moth-wheel-of-wings
-* native psionic powers (a commonality in their ecology), telekinetic flight
-* 
-* motif: strength, muscularity, size, brute power
-* moth-like, SUV-sized centauroids (bestial or humanoid), chrome-like sheen on exoskeleton
-* has humanlike teeth
-* both strong and fine manipulators (maybe centauroid is 8 limbed? or can vary between quadraped and 4 armed biped?), limbs are many-jointed
-	* multiple limbs sprouting fans of feathery outgrowths; the filaments of the feathers are tendrils able to flex and do fine manipulation
-* "compound eye"-like expanse on their head, but each eye cell is an actual eye; able to look in many directions at once, crazy depth perception, combined well with their many tendril manipulators for fine work
+	* motif: strength, muscularity, size, brute power
+* moth-like, dump-truck-sized hexapeds (bestial or humanoid), chrome-like sheen on exoskeleton
+* "compound eye"-like expanse on their head
+	* each eye cell is an actual eye; able to look in many directions at once, crazy depth perception
 * buzzing vocalizations, floral smell
+* omnivorous, toothed
+* powerful telekinetic ability
+* amphibious, able to swim, fly/hover, and (clumsily) walk
+	* multiple limbs sprouting fans of feathery outgrowths
+	* these copious moth-like wings, originally used as steering fins when swimming, help them maneuver when flying.  their six legs end in flippers, clumsy on land, their main propulsion when swimming (pre-TK evolution).
+
+evolution
+
+* The ancestors of Keter evolved on a water terrestrial world during a warm period.  They were amphibious "apex bulk omnivorous predators" kind of like sperm whales, eating swarms of small prey, as well as grazing on plantlife.
+* The world experienced increasing glaciation, reducing their territory and food supply.  They were pushed into cultivating territories to maximize food production / capacity, driving the evolution of intelligence.
+	* intra-species: they competed for territory, but there were limits to what any single organism could cultivate, but cultivation had to be organized.  Thus they shifted into a "herd-hierarchy", with tiers of higher-ranking keter setting the architecture of their garden-biomes that lower-ranking keter would adhere to.  status was based on individual physical/psionic power to fight for dominance (their more early evolutionary impulse), but also the ability to organize and provide abundance to their subordinates, lest they "vote with their feet" and welcome another high-ranking challenger
+
+ecology / sociology
+
 * builder / nester; controlled territory and harvested it
 	* fought one another for territorial control
 	* kind of whale-like, huge creatures that feed on multitudinous small things
 	* mostly herbivorous; their intelligence comes from the need for cultivation and logistics.  they are omnivores, feeding on small creatures that come to their cultivation as well, and later herding?
-	* 
-	* native to an "ice world"; kind of Europan?; it experienced increasing glaciation, pushing the keter species toward cultivation of domains for food, needing intelligence
-		* are the keter amphibious, able to both fly and swim? maybe their territories included a lot of fishing?
 
-cultural details
-* ? started out multipolar competative, became multipolar cooperative, then unified into hierarchy
+culture
+
+* in their "garden-biomes", they tend fish schools, plant populations, squidling swarms, etc.
+
+* ? started out multipolar competitive, became multipolar cooperative, then unified into hierarchy
 	* this was their cultural project: bioengineering, memetic engineering, psi, augments, networking into hive mind, etc
 	* they almost self-destructed in war and conflict; they craved power and control, gradually they realized this would be their doom if they didn't do something about it
 * once they reached some stage of unity, they moved their habitation into the interstellar void, visiting systems for resources, but not dwelling in them
@@ -121,32 +148,28 @@ cultural details
 * artistic / aesthetic use of light (sources, but also shadows, the fall of natural light, lots of chiaroscuro)
 * during a certain phase of their unity development, they all needed to carry psi-fetishes to maintain connection, it was a deep imperative
 	* in a later stage, consuming / draining these devices was a means of empowerment for a sub-collective entity.  so many fetishes were made, since each individual needed one, so lots still exist
-* 2 names
-	* one their enemies gave them (the Da'ath-ites?)
-		* ? the path of folly
-		* ? the self-consumed, the autophages / autophagoi?
-	* one is a reference to where they live (the void and the ascended realm), which they gave themselves
-		* voyage
-		* void
-		* the [adjective] advent
-		* Noumena (sing Noumenon) - an object that exists independent of human sense (contra phenomenon); the true world we see only imperfectly via the filter of our senses
-			* maybe this is a 1st imperial term for the noosphere?
-			* also a name for the Keter species?
-			* https://en.wikipedia.org/wiki/Noumenon
-		* exurgent, exurgo (latin, to be risen) - 1st imperium name?
 * approach to outsiders: infiltration and surveillance
-* 
 
-some history details
+
+history
+
 * a crisis: an ancient infrastructure was breaking down; uncontrolled genetic drift had resulted in dire not-us-ness between clades.  foolish warfare, attempted extermination (just a quick war to set things right...) spiraled into quagmire and stalemate, infrastructure decayed more, more was destroyed.  overcome through sacrifice, must loss and suffering; survivors were galvinized to being pursing unity
 * later, unity networks faced resource limits (fetishes), their continued consumption was causing shortages, worsened by ambition, as the networks sought to establish hierarchy, overcome through endurance, until the need and hunger were overcome by tech/psi advancement and growing hierarchy ended the power struggles
 * last crisis as a "discrete" species, independent of the growing Omega
 	* they sought to know maddening truths of reality (ascension) and did not acknowledge the threat / cost of it.  overcome by sheer blind luck, passing the Topospheric Great Filter?
 	* this happened after they had merge to some degree with some of the second-wave sapient species (Choir and ???)
 
-human consideration
+position within the Omega
+
+* originators of telekinetic psionic power
+
+legacy in human society
+
+* ??? the iconography of the moth-dragon-wheel-of-wings as an angel in 1st imperium theology
 * human psions seek their surviving psi-fetishes as amplifiers, and trying to learn how to suck the power from them like they used to
-* a 1st empire sect about hierarchy and control, emulating Keter, dominating others.  kind of illithid-like
+* a 1st empire sects:
+	* one about hierarchy and control, emulating Keter, dominating others.  kind of illithid-like
+	* one mortal kombat-ish sect, with TK kung fu, fighting to prove supremacy
 
 ### Binah / The Choir
 
@@ -170,6 +193,9 @@ metadimensional deviancies - reproduction, reproduces through precise chorus of 
 * can bond sub-sapient entities as well as sapients
 * their leviathan ships are members just as much as sub-sapient rat-handlers and human-equivalent shapers
 
+* when binah infested keter-paradigm life, it upgraded binah as well, as it aquired more psionic ability
+	* this is part of what launched binah into being such a threat to keter and chokmah
+
 cultural details
 * favor reflections and mirrors as motifs / design elements, especially linked to reflect large crowds of self across infinite mirror space
 * unusual need: lots of food (places a neural-cognitive load, necessitating more energy for the organism's brain)
@@ -185,6 +211,10 @@ psychology
 name is a reference to an impressive thing they built
 * The Tower of Chorus? Harmony? (inverse of Babel?)
 * maybe there is a story that is an inverse of Babel, alegorical, or maybe not
+
+position within the Omega
+
+* originators of telepathic psionic power
 
 human consideration
 * a "holy language", dangerous to study
