@@ -1,13 +1,53 @@
 - All power stems from having Amrad, but it needs technique to shape and direct it, just as artistic creativity requires a medium and skill to express it.
 - Some players of the game develop their own ideosyncratic paths. Some have a path thrust on them by the overwhelming aspect of how / where they obtained the power (through a dark act, from a dragon, etc). Most have some self-determination through the path or tradition they choose.
 
-  
+
+* or maybe there isn't freeform "roll your own" magic?  magic arises from certain wellsprings, and new forms evolve with the Game and each Age?
+
+
+* there is the magic of investing your amrad into yourself
+	* this is often unconscious / accidental, the result of what you are doing at the time you gain the amrad, though it can be shaped and honed by training and later deeds.
+	* these are the kung fu-like / superheroic magics, just you becoming better
+* there is the magic of tapping into the amrad invested into the world through the game
+	* these are the more traditional wizardly arts, involving learning and tapping into powers.
+	* to get better at this requires investing amrad into yourself, in the same way swinging a sword effectively requires investing training into your body and mind
+	* the powers that have been invested into the world
+		* original: law, chaos, entropy
+			* entropic arts: undeath, pathogenesis, strife-weaving
+			* these arts can be studied from a mono-power angle, or from a mono-domain / multi-power angle (nightmare+strife+sickness vs nightmare+dream+thought = mind)
+		* the age before: kismet / oracle, soulshaping
+		* elder: draconic
+		* twilight: glamour, dwarven iron
+		* night: demonology, blood-fire, witchcraft
+		* 
+		* dawn:: vitalism
+			* goblin animism / symbiosis, great-beast warlocks, great-tree warlocks?
+		* 
+		* turning: seasons, tides, lunar phases, day/night?
+		* 
+	* all these powers are one, but people can vary highly in their aptitude for them
+		* some power is channeled into specific races / the races are "part of them", not just the world at large, and so only those races (usually) can access them
+			* dwarven iron, fey glamour, orcish blood-fire, draconic
+	* are Oracles made by kismet, or is their magic drawn from kismet, and oracles arise from those who pursue the art?
+		* you have to "dedicate" yourself to the art of kismet in ways that mimic the rules imposed on Oracles?  but you can set out to do it, they aren't just mysterious figures who emerge from an unknown source that might be Kismet itself?
+
+
 
 general principles
 
-- contagion: things associated become "entangled", the more "associated" (parts of a whole, common origin, long interaction and alignment) the stronger the entanglement.
-- sympathy: like produces like. The aspect of what things undergo, is propagated through contagion, perhaps magnified by amrad. The greater the initial effect, the greater the sympathetic effect.
-- symbolism / meaning: the deeper the meaning, the more power it carries. Symbolic ties to the Dominions carry the weight of them.
+- Contagion
+	- Things associated become "entangled", the more "associated" (parts of a whole, common origin, long interaction and alignment) the stronger the entanglement.
+- Sympathy
+	- Like produces like. The aspect of what things undergo, is propagated through contagion, perhaps magnified by amrad. The greater the initial effect, the greater the sympathetic effect.
+- Investment / Assumption (symbolism / meaning)
+	- The deeper the meaning, the more power it carries. Symbolic ties to the Dominions carry the weight of them.
+	- This is an outgrowth of contagion and recurrence.  Repeated association of the symbol with the act, thing, etc invests its nature into the symbol.
+	- The act of adorning oneself in symbols is Assumption; taking on that meaning and power.  This often involves taboos, requirements, etc to conform to the assumed symbolism.
+- Recurrence
+	- As more power flows through the same channels in the world, they carve them deeper and make them more powerful and meaningful.
+	- Paths to Power are built up over time, kind of like Gatherings.  They accumulate power, symbols, and contagion through recurrence and reuse.
+- Gnosis? Assumption?
+	- Direct, deep experience with something powerful (an experience, an emotion, a physical domain, an act, etc) lets you link your power into that thing, empowering it, understanding it, controlling it.
 
 
 * build power by
@@ -49,7 +89,31 @@ esoteric languages
 - there are magic items from the Wode which are often malleable. shapeshifting weapons or armor, able to adapt, take on elemental properties, physical shape (reach, sprouting spikes after impaling, changing between faster and heavier hitting, etc)
 - glamour tends to be vulnerable to Entropic power, as it isn't as stable or enduring as other forms of reality.
 
-  
+
+
+PROCESS
+
+
+The Wode
+
+The "fey reality" is termed Twilight, Gloaming, or just the Gloam (drop the term Wode)
+
+- The fae domains of the world are manifest zones of this "divine court"; it dominated much of the world in the Age of Twilight, then collapsed and largely died away in the Age of Night.
+- Elven / fae factions bent on restoring their supremacy quest in the Underworld for fragments of the Wode / Age of Twilight, but many have become corrupted in their sunless journeys.
+- The unchanging moonlight that falls on Shadow / moon elves, the stars in the eyes of the wild elves, and the golden sunlight glow on the high / sun elves are manifestations of the power of this court.
+- fae magics, such as glamour, are drawn from this court
+- what is the ethos / philosophical elements of the Wode?
+    - timeless, dream-logic, stories over facts; passion & sensation: wonder, terror, horror, exhilaration, beauty, revelry, pathos, mirth; deals, gifts, bargains; titles and domains and allegiances
+ 
+- In the Age of Twilight, the powers were both unusually balanced and unusually pliable. The world was malleable, able to support wonders and impossibilities more readily. These might not always survive contact with the cold, clear light of modern reality, but aren't wholly illusion; this is glamour.
+    - The fey penchant for strict rules and etiquette is tied to this. These rules gave structure to their flights of wonder and kept the impossibilities in one piece.
+    - Fey still partake of this nature to a degree, with their rules and innate glamours. Those who study the arts of the Wode can evoke them more in reality, a form of magic.
+- Time flowed strangely. Strange attractor loops of time where things changelessly changed. People might travel through multiple timelines, lives informed by dreaming of their other lives, and sometimes merging again, bringing all the variations into one before splitting again. Things might rollback and undo, or skip causes to go directly to effects.
+    - All this could be, to a degree, shaped or navigated intentionally, making time a medium for art and artifice.
+    - The mindset to comprehend and thrive in this weird timescape is the mercurial mind of the fey, fickle, imaginative, bound by strange etiquette and rules.
+
+
+
 
 # "Psionics"
 
@@ -82,7 +146,11 @@ esoteric languages
     - is there a Dominion of demons? a corruption within the ascended world?
 - the destruction of the Gates of Flesh in the Age of Night was one of the essential events that ended demonic dominance, forcing them to make the long crawl up through the Underworld again.
 
-- when the demons erupted onto the surface, the ghul came out to explore and study them. some demonic arts come directly from the demon savants, but some were developed by the ghul to control or manipulate them.
+## Ghul Demonology
+
+- when the demons erupted onto the surface, the ghul came out to explore and study them.
+- some demonic arts come directly from the demon savants, but some were developed by the ghul to control or manipulate them.
+	- how does this differ from the demonology of (frex) witchcraft?
 
 ## Witchcraft
 
@@ -94,8 +162,10 @@ esoteric languages
 		* for fey in the coven of the witch-goddess, it also includes glamour-craft preserved from the old days, with a dark and cruel bent
 			* transformation into a hag also confers greater resistance to demonic corruption and affliction upon fey
 			* fey familiars are provided to grant non-fey witches access to glamour magic.
+			* maybe there tradition and the individual covens are Gatherings, which accrue their own power, and perhaps allow non-fey to inherit some invested glamour magic.
 	* although there are two "great covens", notionally unified groups, they vary highly from region to region whether they actually operate as a group.
 		* lone individuals or small groups might call upon one of the patrons and pursue power for their own ends, through they must tithe at least occasional offerings or services to the patron.  in other cases, there are formal cults fully dedicated to serving them.
+	* both of these traditions are demonology from "within" demonkind, as developed by them.
 
 
 # Elemental
@@ -122,25 +192,6 @@ esoteric languages
 
   
 
-# The Wode
-
-The "fey reality" is termed Twilight, Gloaming, or just the Gloam (drop the term Wode)
-
-- The fae domains of the world are manifest zones of this "divine court"; it dominated much of the world in the Age of Twilight, then collapsed and largely died away in the Age of Night.
-- Elven / fae factions bent on restoring their supremacy quest in the Underworld for fragments of the Wode / Age of Twilight, but many have become corrupted in their sunless journeys.
-- The unchanging moonlight that falls on Shadow / moon elves, the stars in the eyes of the wild elves, and the golden sunlight glow on the high / sun elves are manifestations of the power of this court.
-- fae magics, such as glamour, are drawn from this court
-- what is the ethos / philosophical elements of the Wode?
-    - timeless, dream-logic, stories over facts; passion & sensation: wonder, terror, horror, exhilaration, beauty, revelry, pathos, mirth; deals, gifts, bargains; titles and domains and allegiances
-
-  
-
-- In the Age of Twilight, the powers were both unusually balanced and unusually pliable. The world was malleable, able to support wonders and impossibilities more readily. These might not always survive contact with the cold, clear light of modern reality, but aren't wholly illusion; this is glamour.
-    - The fey penchant for strict rules and etiquette is tied to this. These rules gave structure to their flights of wonder and kept the impossibilities in one piece.
-    - Fey still partake of this nature to a degree, with their rules and innate glamours. Those who study the arts of the Wode can evoke them more in reality, a form of magic.
-- Time flowed strangely. Strange attractor loops of time where things changelessly changed. People might travel through multiple timelines, lives informed by dreaming of their other lives, and sometimes merging again, bringing all the variations into one before splitting again. Things might rollback and undo, or skip causes to go directly to effects.
-    - All this could be, to a degree, shaped or navigated intentionally, making time a medium for art and artifice.
-    - The mindset to comprehend and thrive in this weird timescape is the mercurial mind of the fey, fickle, imaginative, bound by strange etiquette and rules.
 
   
 
@@ -150,7 +201,7 @@ The "fey reality" is termed Twilight, Gloaming, or just the Gloam (drop the term
 - draconic
 - arete / honar / excellence / mastery
 
-  
+- draconic alchemy (dragon hunting, disaster surviving, etc) (draconian/dragonborn)
 
 - realm magic? ley lines? link places of power? songlines of the events of cruxes?
 
@@ -164,9 +215,13 @@ The "fey reality" is termed Twilight, Gloaming, or just the Gloam (drop the term
 
 
   
-- draconic alchemy (dragon hunting, disaster surviving, etc) (draconian/dragonborn)
 
-  
+
+
+
+
+
+
 
 # Classes
 

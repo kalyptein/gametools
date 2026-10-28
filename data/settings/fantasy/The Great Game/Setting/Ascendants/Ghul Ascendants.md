@@ -9,6 +9,7 @@ Prophet of the Final Day
 	* he was actually deified before the ghul ever took physical form; one title might be something like "The Unformed / Unembodied / Bodiless / He Who Is Without Form"
 	* 
 	* might he actually be an Oracle?
+		* especially if Oracle is a path that can be learned (kismet magic), then he sacrificed his right to intervene directly in the Game for great insight and a chance to play mastermind and manipulator
 * 
 * dominions: time, fate, knowledge, death
 
@@ -62,3 +63,5 @@ Harbinger of the Turning Age
 * demigod for his prowess in the Elder War, but deified for his part in the end of the age of night and his mercybringing during that terrible time; unlike the other ghul gods, he had many devotees among the mortals
 * 
 * dominions: death, war, storm/disaster
+* 
+* needs a slightly different name, since the Turning Age may now be an actual age name

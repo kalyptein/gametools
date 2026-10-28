@@ -64,6 +64,7 @@ Malakim
 	* truth, insight
 * 
 * doors and roads, seeker of knowledge, maker of writing, diviner of fate, lord of messengers and heralds
+* maker of maps and chronicles, creator of writing?
 * 
 * recorders of debts, oath-binder, duty-shackler, builder of walls, fortifications, prisons and vaults, punisher of broken laws, vigilant watcher and guard
 	* herdsman (shepherd aspect?)
@@ -89,10 +90,12 @@ Djinn
 * The Sea Queen
 	* queen of the sea, mistress of leviathans, storm dancer, mercurial, loves stories, derring-do, heroes facing challenges, disdains cowards, giver of gifts to the worthy
 	* there is a gathering of pirates who worships her, facing her challenges for her rewards
-		* they hide / sink treasures as offerings to her
+		* they bury / sink treasures as offerings to her
 * 
 * Storm-Bard
 	* musician of storms and winds, composer and singer, sky singer
+	* 
+	* also a poet?  calligrapher?
 * 
 * The Green Wanderer
 	* wanderer, landshaper, roamer with beasts, green man, wanderlust, sower of forests, lord of wine and honey (and other substances), (a dream-lord too, from the opium?)
@@ -100,18 +103,28 @@ Djinn
 		* freedom aspect?
 * 
 * hunter, stealth, shadow, shapeshifter, trickster
-	* cats (large and small)? snakes?
+	* cats (large and small)? bast + sekhmet?
 	* thief? or worshiped by thieves but not a thief herself?
 	* territorial ? (guardian aspect?)
 * 
-* the alchemist, jewel-cutter, master of vulcanism, smith and miner, shaper of stone
+* the fire serpent
+	* the alchemist, jewel-cutter, master of vulcanism, smith and miner, shaper of stone
+	* a scheming fire serpent, yuan-ti, loki-like schemer, trickster, meddler, riddler
+	* refiner of earth's treasures, maker of puzzles and traps to guard his works
+	* hydra-like? many-headed?
+	* 
+	* maybe a craftsman and schemer is more appropriate as a malakin?
 * 
+* all-father-ish?
 * tribe-maker, god of kinship, hearth and community, giver of war, breaker and remaker of societies, raiser and toppler of kings, esprit de corp, comrades and bloodbrothers, feuds and cattle raiding
 	* he'll need to arise later, this sounds more like a first dawn guy?
 	* ??? merge w/ alchemist?  focus on ring-giving?  maker and gifter of his makings
 * 
+* all-mother?
+* 
 * warrior, gladiator, feaster
 * ??? the grail: obsession, hunger, lust, eros, agape
+* beast-headed?  ape-like?
 * 
 * lord of exchange, trader, roaming peddler, finder of treasures; his coffers overflow, yet he does not hoard
 	* also trades stories, news, maps, riddles, food, drink, experiences, etc

@@ -1,6 +1,9 @@
 
+* ??? was the First Dawn a perma-day to follow the perma-night
+	* or it was kind of erratic, like periodic nights punctuating a long day?
+
 - Sun and Moon rise, days turn
-- the Fires-in-the-Night are spent, gradually cooling and calming, leaving rich ash, hot springs, and gently smoking calderas.
+- the Fires-in-the-Night diminish, gradually cooling and calming, leaving rich ash, hot springs, and gently smoking calderas.  vulcanism is still quite prominent, both quakes and eruptions
 - savage life flourishes (green hells, hungry swamps, sargasso seas, trackless forests, great beasts)
     - orcs flourish
     - Dwarves hold their citadels, the eldest civilization of the age

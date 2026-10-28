@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Power.md",
+                "file": "Setting/History/The Turning Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power"
+              "title": "The Turning Age"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Ascendants/Ghul Ascendants.md",
+                "file": "Setting/Ascendants/Ascendant Beings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghul Ascendants"
+              "title": "Ascendant Beings"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Mortals/Goblins.md",
+                "file": "Setting/Mortals/Dwarves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goblins"
+              "title": "Dwarves"
             }
           },
           {
@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Demons"
             }
+          },
+          {
+            "id": "b9e6aff56f394df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmology/Power.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,13 +196,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           },
           {
-            "id": "fcdae7260cb1fa45",
+            "id": "faab3991e366eb56",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -291,34 +308,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ad8709194acf5b8",
+  "active": "b257f81ceaec7308",
   "lastOpenFiles": [
     "Setting/Ascendants/Ghul Ascendants.md",
     "Setting/Ascendants/Ascendant Beings.md",
+    "Cosmology/Power.md",
+    "Setting/History/The Turning Age.md",
+    "Setting/History/The Age of the First Dawn.md",
+    "Setting/Bestiary/Oracles.md",
+    "Setting/History/The Age of Night.md",
+    "Setting/The World/The Underworld.md",
+    "Setting/The World/The Heavens.md",
+    "Setting/History/Timeline.md",
+    "Setting/Mortals/Dwarves.md",
+    "Setting/Mortals/Goblins.md",
+    "Setting/Bestiary/Demons.md",
     "Setting/Mortals/Orcs.md",
     "Setting/Bestiary/The Elder Races.md",
-    "Setting/History/The Age of Night.md",
-    "Setting/Bestiary/Demons.md",
-    "Setting/Mortals/Goblins.md",
     "Cosmology/The Unseen World.md",
     "Setting/Mortals/Fey.md",
     "Setting/History/The Elder Age.md",
     "Setting/Bestiary/Dragons.md",
-    "Setting/History/The Age of the First Dawn.md",
     "Setting/Mortals/Humans.md",
     "Setting/Mortals/Cambions.md",
-    "Setting/History/The Age of Kingdoms.md",
     "Setting/History/The Age of Twilight.md",
     "Setting/History/The Age Before.md",
-    "Setting/History/Timeline.md",
     "Setting/Bestiary/Others.md",
     "Setting/Bestiary/Nightmares.md",
     "Setting/Bestiary/Undead.md",
-    "Setting/Bestiary/Titans & Giants.md",
-    "Setting/Mortals/Dwarves.md",
-    "Setting/Mortals/Jurdhān.md",
-    "TODO.md",
-    "Setting/The World/The Horizon.md",
     "Setting/History",
     "Setting/Ascendants",
     "Setting/The World",
