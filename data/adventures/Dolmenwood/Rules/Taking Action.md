@@ -44,6 +44,9 @@ Group Checks
 	* e.g. with +A to the climb (from training, gear, etc), rough climbing at half speed or less doesn't require a check.  Moving faster imposes +D, rain might impose +D, etc.
 
 
+Resistance Rolls / Saves
+
+
 ## Luck
 
 * spend a luck to turn a normal hit into a crit

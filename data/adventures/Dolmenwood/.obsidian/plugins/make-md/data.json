@@ -57,12 +57,14 @@
     "//Storage/Storage/Magic",
     "//Setting",
     "//Characters",
-    "//Magic",
     "//Rules",
-    "//PCG",
-    "//Characters/Characters/Classes",
     "//Setting/Setting/Sites",
-    "//Setting/Setting/Faerie"
+    "//Setting/Setting/Faerie",
+    "//PCG",
+    "//Maps",
+    "//Magic",
+    "//Rules/Rules/Characters",
+    "//Rules/Rules/Magic"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

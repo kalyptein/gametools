@@ -202,3 +202,27 @@ site discovery
 		* you explore and find hidden sites, paying their price in both days and encounter checks
 		* in return, you don't have a "minimum interaction" with a site to get its xp reward; you spot it and have endured the encounter risk already.  you could spot it from afar and immediately run away.
 			* there does have to be an unknown site to discover; you can't just marinate in a hex enduring encounter checks and getting xp
+
+
+
+
+Dolmendark XP table cribbed from reddit
+
+ACTION	XP
+Visit a settlement for the first time	1
+Exploring a hex completely	1
+Meeting a faction or creature for the first time	1
+Confining a rumor/learn a secret	1
+Small treasure	1
+Gain a small boon	1
+Manipulate, curry favor with, or hinder a faction to the parties advantage	1
+Journey 3 days or more between settlements	1
+Explore a hidden point of interest location	3
+Gain a great boon	3
+Manipulate, curry favor with or hinder a faction at a Multiple Barony level	3
+Magical item or Large treasure	3
+Restore or Corrupt a lost Shrine	3
+Find a Nodal Stone	5
+Unique and rare treasure	10
+Campaign Defining exploration or discovery	10
+Manipulate, curry favor with or hinder a faction at a Duchy level	10

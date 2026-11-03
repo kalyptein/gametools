@@ -92,6 +92,11 @@ Vulnerability to X [Y]
 ---
 Rests
 
+* Valheim inspiration
+	* consuming an extra ration raises your max Guard until you next rest
+	* and/or it could add an attack buff, or maybe grant some Inspiration
+
+
 * Type
 	* Quick: 1 minute
 	* Brief: 10 minutes

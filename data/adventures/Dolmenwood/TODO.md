@@ -11,6 +11,7 @@ other bestiaries suitable to Dolmenwood
 * letters from the dark (various issues)
 * Petty Gods (might have some good ideas for faerie lords or wood god-like beings)
 
+* grab flora ideas from Hot Springs Island (and other swordfish isles), more magical plants
 
 * Add St Ydris to Dolmenwood
 	* a cursed knight-saint holding a demon (or fallen angel?) bound within himself
