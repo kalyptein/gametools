@@ -174,6 +174,26 @@ legacy in human society
 ### Binah / The Choir
 
 Binah (community) - Sathariel / Satariel (Exclusion)
+
+
+original "biology"
+
+* part sound-pattern / music, part xenolanguage, part psionic hive mind
+
+* when binah infested keter-paradigm life, it upgraded binah as well, as it aquired more psionic ability
+	* this is part of what launched binah into being such a threat to keter and chokmah
+
+* a memetic episapience that could take root in innumerable members species, thus the super-communal nature
+* can bond sub-sapient entities as well as sapients
+
+* binah had a variety of biological substrates
+	* it had the one it originally arose in, but that's pretty rare / maybe extinct (maybe there's a bombed out world from when keter tried to exterminate it)
+	* it has the specie(s) of keter's biome gardening that it infested; those were widespread, due to keter's spread, so the binah-strain that infected it existed in many places, and probably still does.  they may have just abandoned and quarantined some worlds, so the binah strain persisted there.
+
+
+
+
+
 * understanding
 * super-communal, probably many species / sub-species bonded into one culture / super-species; the collective is supreme, the individual subordinate
 * dark mother, gathers in the outcast and neglected to build the swarm
@@ -189,12 +209,7 @@ Binah (community) - Sathariel / Satariel (Exclusion)
 * Sathariel - too disorganized to have enemies or allies
 
 metadimensional deviancies - reproduction, reproduces through precise chorus of sounds
-* a memetic episapience that could take root in innumerable members species, thus the super-communal nature
-* can bond sub-sapient entities as well as sapients
 * their leviathan ships are members just as much as sub-sapient rat-handlers and human-equivalent shapers
-
-* when binah infested keter-paradigm life, it upgraded binah as well, as it aquired more psionic ability
-	* this is part of what launched binah into being such a threat to keter and chokmah
 
 cultural details
 * favor reflections and mirrors as motifs / design elements, especially linked to reflect large crowds of self across infinite mirror space
@@ -215,18 +230,18 @@ name is a reference to an impressive thing they built
 position within the Omega
 
 * originators of telepathic psionic power
+* used as the weave that knit the components of the Omega together, the communications layer
+	* needed to access The Zone?
 
 human consideration
 * a "holy language", dangerous to study
 	* mistakenly associated with Keter and/or Chokmah?  The biological Binah "species" isn't necessarily recognized as related to this language
-* a hive-mind sect (or more than one?)
-* a bene gesserit-like sect of "loyalty engineers" in the 1st imperium, mind-witches descended from them
-* use of the language can also unlock incomprehensible modes of cognition, forms of "logic" and "math" able to produce results, but incomprehensible to human understanding, perhaps boosted by connecting to the hive mind to borrow its thought resources
+	* use of the language can also unlock incomprehensible modes of cognition, forms of "logic" and "math" able to produce results, but incomprehensible to human understanding, perhaps boosted by connecting to the hive mind to borrow its thought resources
 	* the experience of it for humans is like gematria / bibliomancy; wandering through writings, poetry, numerology, symbology and art, gradually realizing the meaning hidden within it the whole time (that you put there, unknowingly)
+* a hive-mind sect (or more than one?)
+* a bene gesserit-like sect of "loyalty engineers" in the 1st imperium
+	* mind-witches descended from them
 
-* binah had a variety of biological substrates
-	* it had the one it originally arose in, but that's pretty rare / maybe extinct (maybe there's a bombed out world from when keter tried to exterminate it)
-	* it has the specie(s) of keter's biome gardening that it infested; those were widespread, due to keter's spread, so the binah-strain that infected it existed in many places, and probably still does.  they may have just abandoned and quarantined some worlds, so the binah strain persisted there.
 
 ### Chokmah / "The Old Kings"
 
@@ -627,7 +642,7 @@ human consideration
 * 
 * keter psi-fetish artifacts (from proto-chokmah and binah conflicts, from the extinction war, from the early trinity)
 * keter-chokmah co-habitation ruins
-* binah domestication "byproducts" (scary), labs, and sterilization zones
+* binah domestication project "byproducts" (scary), labs, and sterilization zones
 * early trinity ruins
 * wildstrains of binah
 
@@ -701,6 +716,16 @@ human consideration
 	* small, undirected expression may continue (autonomous agents, subsapient Choir assemblages, etc)
 
 * a whole lot of time passes
+
+
+ascendance
+* binah
+* chokmah (split)
+purgation
+* netzatch (wanted especially to purge hod, the "da'ath suicide infiltrator")
+* chokmah (split)
+inhibitor
+* malkuth ?
 
 
 #### Era 6 Remnants
